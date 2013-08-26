@@ -8211,7 +8211,7 @@ SplineSet
  100 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=1015 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: glyph207
@@ -9866,7 +9866,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0931_u094D.half
+StartChar: dev_half_ra
 Encoding: 65620 -1 246
 Width: 287
 GlyphClass: 2
@@ -9891,10 +9891,9 @@ SplineSet
  286 306 286 306 257.5 299.5 c 128,-1,17
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0915_u0930_u094D.blwf.vatu
+StartChar: dev_kra
 Encoding: 65622 -1 247
 Width: 769
 GlyphClass: 2
@@ -9947,10 +9946,9 @@ SplineSet
  365 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0916_u0930_u094D.blwf.vatu
+StartChar: dev_khra
 Encoding: 65623 -1 248
 Width: 820
 GlyphClass: 2
@@ -10012,10 +10010,9 @@ SplineSet
  221 606 l 1,63,-1
  -13 606 l 1,39,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0917_u0930_u094D.blwf.vatu
+StartChar: dev_gra
 Encoding: 65624 -1 249
 Width: 529
 GlyphClass: 2
@@ -10049,10 +10046,9 @@ SplineSet
  130 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091C_u0930_u094D.blwf.vatu
+StartChar: dev_jra
 Encoding: 65625 -1 250
 Width: 725
 GlyphClass: 2
@@ -10090,10 +10086,9 @@ SplineSet
  559 606 l 1,33,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091D_u0930_u094D.blwf.vatu
+StartChar: dev_jhra
 Encoding: 65626 -1 251
 Width: 737
 GlyphClass: 2
@@ -10161,10 +10156,9 @@ SplineSet
  318 606 l 1,74,-1
  -13 606 l 1,22,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0924_u0930_u094D.blwf.vatu
+StartChar: dev_tra
 Encoding: 65627 -1 252
 Width: 539
 GlyphClass: 2
@@ -10195,10 +10189,9 @@ SplineSet
  373 606 l 1,24,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u0930_u094D.blwf.vatu
+StartChar: dev_dra
 Encoding: 65628 -1 253
 Width: 547
 GlyphClass: 2
@@ -10243,10 +10236,9 @@ SplineSet
  385 606 l 1,45,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092A_u0930_u094D.blwf.vatu
+StartChar: dev_pra
 Encoding: 65629 -1 254
 Width: 576
 GlyphClass: 2
@@ -10279,10 +10271,9 @@ SplineSet
  91 606 l 1,24,-1
  -13 606 l 1,10,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092B_u0930_u094D.blwf.vatu
+StartChar: dev_phra
 Encoding: 65630 -1 255
 Width: 797
 GlyphClass: 2
@@ -10333,10 +10324,9 @@ SplineSet
  174 213 174 213 125.5 259.5 c 128,-1,47
  77 306 77 306 77 373 c 2,9,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092C_u0930_u094D.blwf.vatu
+StartChar: dev_bra
 Encoding: 65631 -1 256
 Width: 549
 GlyphClass: 2
@@ -10379,10 +10369,9 @@ SplineSet
  138 169 138 169 94.5 215.5 c 128,-1,39
  51 262 51 262 51 320 c 0,10,11
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092D_u0930_u094D.blwf.vatu
+StartChar: dev_bhra
 Encoding: 65632 -1 257
 Width: 659
 GlyphClass: 2
@@ -10430,10 +10419,9 @@ SplineSet
  220 206 220 206 170 256 c 128,-1,46
  120 306 120 306 120 326 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092E_u0930_u094D.blwf.vatu
+StartChar: dev_mra
 Encoding: 65633 -1 258
 Width: 581
 GlyphClass: 2
@@ -10470,10 +10458,9 @@ SplineSet
  133 233 133 233 78 283 c 128,-1,28
  23 333 23 333 23 353 c 0,4,5
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0935_u0930_u094D.blwf.vatu
+StartChar: dev_vra
 Encoding: 65634 -1 259
 Width: 553
 GlyphClass: 2
@@ -10510,10 +10497,9 @@ SplineSet
  141 160 141 160 94.5 210.5 c 128,-1,33
  48 261 48 261 48 326 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0938_u0930_u094D.blwf.vatu
+StartChar: dev_sra
 Encoding: 65635 -1 260
 Width: 784
 GlyphClass: 2
@@ -10554,10 +10540,9 @@ SplineSet
  305 447 l 2,34,35
  305 408.236 305 408.236 299.734 386 c 1,30,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u0930_u094D.blwf.vatu
+StartChar: dev_rha
 Encoding: 65636 -1 261
 Width: 552
 GlyphClass: 2
@@ -10608,10 +10593,9 @@ SplineSet
  395 606 l 1,51,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: glyph263
+StartChar: dev_shru
 Encoding: 65637 -1 262
 Width: 625
 GlyphClass: 2
@@ -10669,10 +10653,9 @@ SplineSet
  100 304 100 304 47 266 c 1,61,-1
  13 313 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0915_u094D.half_u0915.pres
+StartChar: dev_kkka
 Encoding: 65638 -1 263
 Width: 777
 GlyphClass: 2
@@ -10756,7 +10739,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0915_u094D.half_u0924.pres
+StartChar: dev_tka
 Encoding: 65639 -1 264
 Width: 813
 GlyphClass: 2
@@ -10804,10 +10787,9 @@ SplineSet
  398 606 l 1,45,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0915_u094D.half_u0932.pres
+StartChar: dev_kla
 Encoding: 65640 -1 265
 Width: 760
 GlyphClass: 2
@@ -10889,7 +10871,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0915_u094D.half_u0935.pres
+StartChar: dev_kva
 Encoding: 65641 -1 266
 Width: 764
 GlyphClass: 2
@@ -10955,7 +10937,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0917_u094D.half_u0928.pres
+StartChar: dev_gna
 Encoding: 65642 -1 267
 Width: 524
 GlyphClass: 2
@@ -11001,10 +10983,9 @@ SplineSet
  125 606 l 1,46,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u0915.pres
+StartChar: dev_ngka
 Encoding: 65643 -1 268
 Width: 707
 GlyphClass: 2
@@ -11098,10 +11079,9 @@ SplineSet
  450 606 l 1,112,-1
  -13 606 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u0916.pres
+StartChar: dev_ngkha
 Encoding: 65644 -1 269
 Width: 712
 GlyphClass: 2
@@ -11199,10 +11179,9 @@ SplineSet
  466 606 l 1,120,-1
  -13 606 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u0917.pres
+StartChar: dev_ngga
 Encoding: 65645 -1 270
 Width: 680
 GlyphClass: 2
@@ -11279,10 +11258,9 @@ SplineSet
  434 606 l 1,87,-1
  -13 606 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u0918.pres
+StartChar: dev_nggha
 Encoding: 65646 -1 271
 Width: 676
 GlyphClass: 2
@@ -11369,10 +11347,9 @@ SplineSet
  439 606 l 1,99,-1
  -13 606 l 1,37,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u092E.pres
+StartChar: dev_ngma
 Encoding: 65647 -1 272
 Width: 708
 GlyphClass: 2
@@ -11448,10 +11425,9 @@ SplineSet
  461 606 l 1,81,-1
  -13 606 l 1,21,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u0915_u094D_u0937.akhn.pres
+StartChar: dev_ngksha
 Encoding: 65648 -1 273
 Width: 707
 GlyphClass: 2
@@ -11561,10 +11537,9 @@ SplineSet
  -13 606 l 1,134,-1
  -13 666 l 1,43,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091A_u094D.half_u091A.pres
+StartChar: dev_chcha
 Encoding: 65649 -1 274
 Width: 648
 GlyphClass: 2
@@ -11616,7 +11591,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u091B_u094D.half_u0935.pres
+StartChar: dev_chwa
 Encoding: 65650 -1 275
 Width: 668
 GlyphClass: 2
@@ -11697,10 +11672,9 @@ SplineSet
  52 590 52 590 65 606 c 1,93,-1
  -13 606 l 1,38,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091C_u094D.half_u091C.pres
+StartChar: dec_jja
 Encoding: 65651 -1 276
 Width: 772
 GlyphClass: 2
@@ -11752,7 +11726,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u091E_u094D.half_u091A.pres
+StartChar: dev_nycha
 Encoding: 65652 -1 277
 Width: 720
 GlyphClass: 2
@@ -11808,10 +11782,9 @@ SplineSet
  554 606 l 1,59,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091E_u094D.half_u091C.pres
+StartChar: dev_nyja
 Encoding: 65653 -1 278
 Width: 720
 GlyphClass: 2
@@ -11866,10 +11839,9 @@ SplineSet
  554 606 l 1,58,-1
  1 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091F_u094D.half_u091F.pres
+StartChar: dev_ttta
 Encoding: 65654 -1 279
 Width: 555
 GlyphClass: 2
@@ -11921,10 +11893,9 @@ SplineSet
  385 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091F_u094D.half_u0920.pres
+StartChar: dev_tttha
 Encoding: 65655 -1 280
 Width: 579
 GlyphClass: 2
@@ -11981,10 +11952,9 @@ SplineSet
  399 606 l 1,59,-1
  -13 606 l 1,14,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091F_u094D.half_u092F.pres
+StartChar: dev_tya
 Encoding: 65656 -1 281
 Width: 1207
 GlyphClass: 2
@@ -12044,10 +12014,9 @@ SplineSet
  389 606 l 1,63,-1
  -13 606 l 1,18,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091F_u094D.half_u0935.pres
+StartChar: dev_twa
 Encoding: 65657 -1 282
 Width: 555
 GlyphClass: 2
@@ -12103,10 +12072,9 @@ SplineSet
  380 606 l 1,59,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0920_u094D.half_u0920.pres
+StartChar: dev_thha
 Encoding: 65658 -1 283
 Width: 600
 GlyphClass: 2
@@ -12170,10 +12138,9 @@ SplineSet
  398 606 l 1,67,-1
  -13 606 l 1,28,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0920_u094D.half_u092F.pres
+StartChar: dev_thya
 Encoding: 65659 -1 284
 Width: 1222
 GlyphClass: 2
@@ -12236,10 +12203,9 @@ SplineSet
  390 606 l 1,69,-1
  -13 606 l 1,18,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0921_u094D.half_u0921.pres
+StartChar: dev_ddda
 Encoding: 65660 -1 285
 Width: 644
 GlyphClass: 2
@@ -12311,10 +12277,9 @@ SplineSet
  487 606 l 1,85,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0921_u094D.half_u0922.pres
+StartChar: dev_dddha
 Encoding: 65661 -1 286
 Width: 628
 GlyphClass: 2
@@ -12389,10 +12354,9 @@ SplineSet
  474 606 l 1,83,-1
  -13 606 l 1,10,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0921_u094D.half_u092F.pres
+StartChar: dev_ddya
 Encoding: 65662 -1 287
 Width: 1222
 GlyphClass: 2
@@ -12462,10 +12426,9 @@ SplineSet
  470 606 l 1,80,-1
  -13 606 l 1,18,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0922_u094D.half_u0922.pres
+StartChar: dev_ddhha
 Encoding: 65663 -1 288
 Width: 596
 GlyphClass: 2
@@ -12540,10 +12503,9 @@ SplineSet
  427 606 l 1,83,-1
  -13 606 l 1,22,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0922_u094D.half_u092F.pres
+StartChar: dev_dhya
 Encoding: 65664 -1 289
 Width: 1202
 GlyphClass: 2
@@ -12615,10 +12577,9 @@ SplineSet
  423 606 l 1,81,-1
  -13 606 l 1,30,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u094D.half_u0917.pres
+StartChar: dev_dga
 Encoding: 65665 -1 290
 Width: 539
 GlyphClass: 2
@@ -12678,7 +12639,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0926_u094D.half_u0918.pres
+StartChar: dev
 Encoding: 65666 -1 291
 Width: 665
 GlyphClass: 2
@@ -12749,10 +12710,9 @@ SplineSet
  510 606 l 1,79,-1
  -13 606 l 1,29,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u094D.half_u0926.pres
+StartChar: dev_dda
 Encoding: 65667 -1 292
 Width: 557
 GlyphClass: 2
@@ -12806,7 +12766,6 @@ SplineSet
  391 606 l 1,56,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: u0926_u094D.half_u0927.pres
@@ -12882,7 +12841,6 @@ SplineSet
  577 606 l 1,84,-1
  -13 606 l 1,17,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: u0926_u094D.half_u0928.pres
@@ -12939,7 +12897,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0926_u094D.half_u092C.pres
+StartChar: dev_dba
 Encoding: 65670 -1 295
 Width: 549
 GlyphClass: 2
@@ -13002,10 +12960,9 @@ SplineSet
  391 606 l 1,68,-1
  -13 606 l 1,17,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u094D.half_u092D.pres
+StartChar: dev_dbha
 Encoding: 65671 -1 296
 Width: 617
 GlyphClass: 2
@@ -13072,10 +13029,9 @@ SplineSet
  453 606 l 1,74,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u094D.half_u092E.pres
+StartChar: dev_dma
 Encoding: 65672 -1 297
 Width: 713
 GlyphClass: 2
@@ -13122,10 +13078,9 @@ SplineSet
  261 606 l 1,42,-1
  -13 606 l 1,13,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u094D.half_u092F.pres
+StartChar: dev_dya
 Encoding: 65673 -1 298
 Width: 715
 GlyphClass: 2
@@ -13174,10 +13129,9 @@ SplineSet
  302 606 l 1,47,-1
  -13 606 l 1,23,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u094D.half_u0935.pres
+StartChar: dev_dva
 Encoding: 65674 -1 299
 Width: 559
 GlyphClass: 2
@@ -13235,10 +13189,9 @@ SplineSet
  399 606 l 1,63,-1
  -13 606 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0928_u094D.half_u0928.pres
+StartChar: dev_nna
 Encoding: 65675 -1 300
 Width: 663
 GlyphClass: 2
@@ -13288,10 +13241,9 @@ SplineSet
  497 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092A_u094D.half_u0924.pres
+StartChar: dev_pta
 Encoding: 65676 -1 301
 Width: 569
 GlyphClass: 2
@@ -13329,10 +13281,9 @@ SplineSet
  91 606 l 1,32,-1
  -13 606 l 1,7,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092A_u094D.half_u0932.pres
+StartChar: dev_pla
 Encoding: 65677 -1 302
 Width: 601
 GlyphClass: 2
@@ -13393,7 +13344,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u092B_u094D.half_u0932.pres
+StartChar: dev_phla
 Encoding: 65678 -1 303
 Width: 776
 GlyphClass: 2
@@ -13470,7 +13421,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0932_u094D.half_u0932.pres
+StartChar: dev_llla
 Encoding: 65679 -1 304
 Width: 736
 GlyphClass: 2
@@ -13531,10 +13482,9 @@ SplineSet
  570 606 l 1,66,-1
  -13 606 l 1,23,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0936_u094D.half_u0930_u094D.blwf.vatu_u091A.pres
+StartChar: dev_shrcha
 Encoding: 65680 -1 305
 Width: 625
 GlyphClass: 2
@@ -13593,10 +13543,9 @@ SplineSet
  60 313 l 1,60,-1
  13 360 l 1,23,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0936_u094D.half_u0930_u094D.blwf.vatu_u0928.pres
+StartChar: dev_shrna
 Encoding: 65681 -1 306
 Width: 627
 GlyphClass: 2
@@ -13654,10 +13603,9 @@ SplineSet
  173.855 64.1536 173.855 64.1536 157.5 81.5 c 128,-1,57
  141 99 141 99 141 120 c 0,10,11
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0936_u094D.half_u0930_u094D.blwf.vatu_u0932.pres
+StartChar: dev_shla
 Encoding: 65682 -1 307
 Width: 912
 GlyphClass: 2
@@ -13719,10 +13667,9 @@ SplineSet
  746 606 l 1,65,-1
  426 606 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0936_u094D.half_u0930_u094D.blwf.vatu_u0935.pres
+StartChar: dev_shrva
 Encoding: 65683 -1 308
 Width: 624
 GlyphClass: 2
@@ -13781,10 +13728,9 @@ SplineSet
  237 93 237 93 184.5 130.5 c 128,-1,12
  132 168 132 168 132 220 c 128,-1,13
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0937_u094D.half_u091F.pres
+StartChar: dev_sstta
 Encoding: 65684 -1 309
 Width: 555
 GlyphClass: 2
@@ -13828,10 +13774,9 @@ SplineSet
  71 606 l 1,38,-1
  -13 606 l 1,9,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0937_u094D.half_u0920.pres
+StartChar: dev_ssttha
 Encoding: 65685 -1 310
 Width: 600
 GlyphClass: 2
@@ -13879,10 +13824,9 @@ SplineSet
  75 606 l 1,44,-1
  -13 606 l 1,9,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u094D.half_u0923.pres
+StartChar: dev_hnna
 Encoding: 65686 -1 311
 Width: 720
 GlyphClass: 2
@@ -13945,10 +13889,9 @@ SplineSet
  453 158 453 158 453 180 c 2,64,-1
  453 293 l 1,56,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u094D.half_u0928.pres
+StartChar: dev_hna
 Encoding: 65687 -1 312
 Width: 620
 GlyphClass: 2
@@ -14007,10 +13950,9 @@ SplineSet
  382 606 l 1,61,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u094D.half_u092E.pres
+StartChar: dev_hma
 Encoding: 65688 -1 313
 Width: 740
 GlyphClass: 2
@@ -14074,10 +14016,9 @@ SplineSet
  361 606 l 1,64,-1
  -13 606 l 1,18,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u094D.half_u092F.pres
+StartChar: dev_hya
 Encoding: 65689 -1 314
 Width: 797
 GlyphClass: 2
@@ -14139,10 +14080,9 @@ SplineSet
  385 606 l 1,64,-1
  -13 606 l 1,25,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u094D.half_u0932.pres
+StartChar: dev_hlla
 Encoding: 65690 -1 315
 Width: 647
 GlyphClass: 2
@@ -14208,10 +14148,9 @@ SplineSet
  382 606 l 1,72,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u094D.half_u0935.pres
+StartChar: dev_hva
 Encoding: 65691 -1 316
 Width: 576
 GlyphClass: 2
@@ -14276,10 +14215,9 @@ SplineSet
  384 606 l 1,71,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0938_u094D.half_u0924_u0930_u094D.blwf.vatu.pres
+StartChar: dev_stra
 Encoding: 65692 -1 317
 Width: 924
 GlyphClass: 2
@@ -14332,10 +14270,9 @@ SplineSet
  238 606 l 5,54,-1
  -13 606 l 5,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091C_u094D.half_u091C_u094D.half.pres
+StartChar: dev_jjja
 Encoding: 65693 -1 318
 Width: 506
 GlyphClass: 2
@@ -14383,10 +14320,9 @@ SplineSet
  446 103 446 103 407 61.5 c 128,-1,47
  368 20 368 20 313 20 c 0,26,27
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0926_u0943.blws
+StartChar: dev_dru
 Encoding: 65694 -1 319
 Width: 552
 GlyphClass: 2
@@ -14438,10 +14374,9 @@ SplineSet
  397 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0930_u0941.psts
+StartChar: dev_ru
 Encoding: 65695 -1 320
 Width: 639
 GlyphClass: 2
@@ -14485,10 +14420,9 @@ SplineSet
  242 606 l 1,42,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0930_u0942.psts
+StartChar: dev_ruu
 Encoding: 65696 -1 321
 Width: 760
 GlyphClass: 2
@@ -14540,10 +14474,9 @@ SplineSet
  244 606 l 1,52,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0939_u0943.blws
+StartChar: dev_hru
 Encoding: 65697 -1 322
 Width: 547
 GlyphClass: 2
@@ -14602,7 +14535,6 @@ SplineSet
  406 606 l 1,67,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: glyph324
@@ -14629,7 +14561,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0918_u0930_u094D.blwf.vatu
+StartChar: dev_ghra
 Encoding: 65699 -1 324
 Width: 644
 GlyphClass: 2
@@ -14674,10 +14606,9 @@ SplineSet
  76 587 76 587 92 606 c 1,42,-1
  -13 606 l 1,20,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091A_u0930_u094D.blwf.vatu
+StartChar: dev_cra
 Encoding: 65700 -1 325
 Width: 637
 GlyphClass: 2
@@ -14714,10 +14645,9 @@ SplineSet
  471 606 l 1,31,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0925_u0930_u094D.blwf.vatu
+StartChar: dev_thra
 Encoding: 65701 -1 326
 Width: 692
 GlyphClass: 2
@@ -14764,10 +14694,9 @@ SplineSet
  73 27 l 1,47,-1
  261 136 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0927_u0930_u094D.blwf.vatu
+StartChar: dev_dhra
 Encoding: 65702 -1 327
 Width: 653
 GlyphClass: 2
@@ -14821,10 +14750,9 @@ SplineSet
  61 20 l 1,56,-1
  238 117 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0928_u0930_u094D.blwf.vatu
+StartChar: dev_nra
 Encoding: 65703 -1 328
 Width: 593
 GlyphClass: 2
@@ -14858,10 +14786,9 @@ SplineSet
  138 233 138 233 83 302.5 c 128,-1,27
  28 372 28 372 28 399 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0932_u0930_u094D.blwf.vatu
+StartChar: dev_lra
 Encoding: 65704 -1 329
 Width: 731
 GlyphClass: 2
@@ -14904,10 +14831,9 @@ SplineSet
  565 130 l 1,41,-1
  365 20 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0919_u094D.half_u0915_u094D.half.half
+StartChar: dev_ngk
 Encoding: 65705 -1 330
 Width: 704
 GlyphClass: 2
@@ -14991,7 +14917,6 @@ SplineSet
  370 -166 l 1,100,-1
  310 -166 l 1,12,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: u094B_u0902.abvs
@@ -15021,7 +14946,6 @@ SplineSet
  100 606 l 1,15,-1
  -13 606 l 1,4,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: u094B_u0930_u094D.rphf.abvs
@@ -15219,7 +15143,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u091E_u0930_u094D.blwf.vatu
+StartChar: dev_trra
 Encoding: 65712 -1 337
 Width: 737
 GlyphClass: 2
@@ -15268,10 +15192,9 @@ SplineSet
  398 218 398 218 343.5 169 c 128,-1,50
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0923_u0930_u094D.blwf.vatu
+StartChar: dev_nnra
 Encoding: 65713 -1 338
 Width: 669
 GlyphClass: 2
@@ -15308,10 +15231,9 @@ SplineSet
  377 257 377 257 331.5 208.5 c 128,-1,29
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u092F_u0930_u094D.blwf.vatu
+StartChar: dev_yrra
 Encoding: 65714 -1 339
 Width: 599
 GlyphClass: 2
@@ -15349,10 +15271,9 @@ SplineSet
  158 574 158 574 127 606 c 1,33,-1
  -13 606 l 1,14,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0937_u0930_u094D.blwf.vatu
+StartChar: dev_srra
 Encoding: 65715 -1 340
 Width: 553
 GlyphClass: 2
@@ -15390,10 +15311,9 @@ SplineSet
  75 606 l 1,29,-1
  -13 606 l 1,11,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u0915_u094D_u0937.akhn_u0930_u094D.blwf.vatu
+StartChar: dev_kshra
 Encoding: 65716 -1 341
 Width: 657
 GlyphClass: 2
@@ -15460,10 +15380,9 @@ SplineSet
  491 606 l 1,72,-1
  425 606 l 1,11,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: u091C_u094D_u091E.akhn_u0930_u094D.blwf.vatu
+StartChar: dev_dnyra
 Encoding: 65717 -1 342
 Width: 711
 GlyphClass: 2
@@ -15523,7 +15442,6 @@ SplineSet
  545 606 l 1,66,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: uni097B
@@ -16363,10 +16281,9 @@ SplineSet
  220 480 220 480 267 451.5 c 128,-1,46
  314 423 314 423 365 373 c 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
 EndChar
 
-StartChar: np8
+StartChar: nep_eight
 Encoding: 65719 -1 361
 Width: 664
 GlyphClass: 2
@@ -16397,7 +16314,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: np5
+StartChar: nep_five
 Encoding: 65720 -1 362
 Width: 665
 GlyphClass: 2
@@ -16499,7 +16416,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lig_0926_0927_0930_092f
+StartChar: dev_ddhyra
 Encoding: 65722 -1 364
 Width: 1284
 GlyphClass: 3
@@ -18334,7 +18251,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: mr_sha_half
+StartChar: mr_half_sha
 Encoding: 65727 -1 405
 Width: 444
 Flags: W
