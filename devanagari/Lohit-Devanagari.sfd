@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377589692
+ModificationTime: 1377606229
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,6 +55,8 @@ Lookup: 4 0 0 "'nukt' Nukta Forms lookup 1"  {"'nukt' Nukta Forms lookup 1-1"  }
 Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  } ['rkrf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -6741,12 +6743,12 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_ra_dev_virama.blwf
+StartChar: dev_trakaar.blwf
 Encoding: 65547 -1 173
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" -135 74 mark 0
+AnchorPoint: "Anchor-3" -135 128 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6759,6 +6761,7 @@ SplineSet
  -280 -220 l 1,6,-1
  -360 -220 l 1,0,-1
 EndSplineSet
+Ligature2: "'blwf' Below Base Forms lookup 5-1" dev_halant dev_ra
 EndChar
 
 StartChar: dev_shra
@@ -6865,6 +6868,7 @@ SplineSet
  75 606 l 1,51,-1
  -13 606 l 1,13,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_fa dev_halant dev_ra
 EndChar
 
 StartChar: dev_ta_with_half_ta
@@ -7074,6 +7078,7 @@ SplineSet
  345 606 l 1,47,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ka dev_halant
 EndChar
 
 StartChar: dev_half_kha
@@ -7130,6 +7135,7 @@ SplineSet
  230 606 l 1,58,-1
  -13 606 l 1,26,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_kha dev_halant
 EndChar
 
 StartChar: dev_half_ga
@@ -7158,6 +7164,7 @@ SplineSet
  125 606 l 1,19,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ga dev_halant
 EndChar
 
 StartChar: dev_half_gha
@@ -7199,6 +7206,7 @@ SplineSet
  63 583 63 583 79 606 c 1,37,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_gha dev_halant
 EndChar
 
 StartChar: dev_half_nga
@@ -7261,6 +7269,7 @@ SplineSet
  463 606 l 1,63,-1
  -13 606 l 1,18,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_nga dev_halant
 EndChar
 
 StartChar: dev_half_ca
@@ -7296,6 +7305,7 @@ SplineSet
  453 205 453 205 396.5 162.5 c 128,-1,27
  340 120 340 120 292 120 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ca dev_halant
 EndChar
 
 StartChar: dev_half_cha
@@ -7351,6 +7361,7 @@ SplineSet
  670 249 670 249 553.5 141 c 128,-1,58
  437 33 437 33 310 33 c 0,12,13
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_cha dev_halant
 EndChar
 
 StartChar: dev_half_ja
@@ -7384,6 +7395,7 @@ SplineSet
  469 166 469 166 426.5 119.5 c 128,-1,25
  384 73 384 73 322 73 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ja dev_halant
 EndChar
 
 StartChar: dev_half_jha
@@ -7447,6 +7459,7 @@ SplineSet
  344 24 344 24 385 0 c 1,70,-1
  345 -47 l 1,0,1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_jha dev_halant
 EndChar
 
 StartChar: dev_half_nya
@@ -7491,6 +7504,7 @@ SplineSet
  399 220 399 220 347.5 170 c 128,-1,42
  296 120 296 120 226 120 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_nya dev_halant
 EndChar
 
 StartChar: dev_half_tta
@@ -7532,6 +7546,7 @@ SplineSet
  521 75 521 75 460 44 c 128,-1,33
  399 13 399 13 325 13 c 0,6,7
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_tta dev_halant
 EndChar
 
 StartChar: dev_half_ttha
@@ -7577,6 +7592,7 @@ SplineSet
  530 132 530 132 469.5 69.5 c 128,-1,39
  409 7 409 7 324 7 c 0,6,7
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ttha dev_halant
 EndChar
 
 StartChar: dev_half_dda
@@ -7630,6 +7646,7 @@ SplineSet
  585 134 585 134 526 73.5 c 128,-1,51
  467 13 467 13 385 13 c 0,6,7
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_dda dev_halant
 EndChar
 
 StartChar: dev_half_ddha
@@ -7683,6 +7700,7 @@ SplineSet
  389 606 l 1,50,-1
  -13 606 l 1,18,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ddha dev_halant
 EndChar
 
 StartChar: dev_half_nna
@@ -7714,6 +7732,7 @@ SplineSet
  64 606 l 1,21,-1
  -13 606 l 1,9,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_nna dev_halant
 EndChar
 
 StartChar: dev_half_ta
@@ -7743,6 +7762,7 @@ SplineSet
  201 134 201 134 290 60 c 1,19,-1
  250 20 l 1,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ta dev_halant
 EndChar
 
 StartChar: dev_half_tha
@@ -7787,6 +7807,7 @@ SplineSet
  521 197 521 197 451.5 158.5 c 128,-1,42
  382 120 382 120 309 120 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_tha dev_halant
 EndChar
 
 StartChar: dev_half_da
@@ -7835,6 +7856,7 @@ SplineSet
  198 -67 l 1,43,-1
  172 -20 l 1,38,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_da dev_halant
 EndChar
 
 StartChar: dev_half_dha
@@ -7887,6 +7909,7 @@ SplineSet
  453 176 453 176 390.5 141.5 c 128,-1,52
  328 107 328 107 277 107 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_dha dev_halant
 EndChar
 
 StartChar: dev_half_na
@@ -7916,6 +7939,7 @@ SplineSet
  174 257 174 257 166 245 c 128,-1,19
  158 233 158 233 148 233 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_na dev_halant
 EndChar
 
 StartChar: dev_half_nnna
@@ -7950,6 +7974,7 @@ SplineSet
  174 257 174 257 166 245 c 128,-1,23
  158 233 158 233 148 233 c 0,8,9
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_nnna dev_halant
 EndChar
 
 StartChar: dev_half_pa
@@ -7978,6 +8003,7 @@ SplineSet
  53 606 l 1,19,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_pa dev_halant
 EndChar
 
 StartChar: dev_half_pha
@@ -8021,6 +8047,7 @@ SplineSet
  56 606 l 1,37,-1
  -13 606 l 1,9,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_pha dev_halant
 EndChar
 
 StartChar: dev_half_ba
@@ -8062,6 +8089,7 @@ SplineSet
  365 172 365 172 320.5 149.5 c 128,-1,35
  276 127 276 127 226 127 c 0,14,15
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ba dev_halant
 EndChar
 
 StartChar: dev_half_bha
@@ -8105,6 +8133,7 @@ SplineSet
  479 606 l 1,38,-1
  320 606 l 1,35,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_bha dev_halant
 EndChar
 
 StartChar: dev_half_ma
@@ -8135,9 +8164,10 @@ SplineSet
  107 606 l 1,20,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ma dev_halant
 EndChar
 
-StartChar: dev_vowel_sign_I
+StartChar: dev_half_ya
 Encoding: 65579 -1 205
 Width: 412
 GlyphClass: 2
@@ -8169,9 +8199,10 @@ SplineSet
  152 574 152 574 120 606 c 1,29,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ya dev_halant
 EndChar
 
-StartChar: dev_vowel_sign_I_anuswara
+StartChar: dev_vowel_sign_extended_I
 Encoding: 65580 -1 206
 Width: 266
 GlyphClass: 2
@@ -8206,7 +8237,7 @@ EndSplineSet
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
 EndChar
 
-StartChar: glyph207
+StartChar: dev_vowel_extended_I_anuswara
 Encoding: 65581 -1 207
 Width: 266
 GlyphClass: 2
@@ -8281,6 +8312,7 @@ SplineSet
  225 88 225 88 321 53 c 1,33,-1
  294 0 l 1,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_la dev_halant
 EndChar
 
 StartChar: dev_half_lla
@@ -8332,6 +8364,7 @@ SplineSet
  344 146 344 146 303 109.5 c 128,-1,49
  262 73 262 73 218 73 c 0,26,27
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_lla dev_halant
 EndChar
 
 StartChar: dev_half_llla
@@ -8388,6 +8421,7 @@ SplineSet
  342 146 342 146 301.5 109.5 c 128,-1,55
  261 73 261 73 217 73 c 0,32,33
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_llla dev_halant
 EndChar
 
 StartChar: dev_half_va
@@ -8423,6 +8457,7 @@ SplineSet
  341 181 341 181 303 163.5 c 128,-1,28
  265 146 265 146 226 146 c 0,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_va dev_halant
 EndChar
 
 StartChar: dev_half_sha
@@ -8462,6 +8497,7 @@ SplineSet
  376 53 l 5,36,-1
  336 0 l 5,12,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_sha dev_halant
 EndChar
 
 StartChar: dev_half_ssa
@@ -8493,6 +8529,7 @@ SplineSet
  56 606 l 1,21,-1
  -13 606 l 1,8,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ssa dev_halant
 EndChar
 
 StartChar: dev_half_sa
@@ -8526,6 +8563,7 @@ SplineSet
  250 606 l 1,24,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_sa dev_halant
 EndChar
 
 StartChar: dev_half_ha
@@ -8567,9 +8605,10 @@ SplineSet
  376 606 l 1,36,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ha dev_halant
 EndChar
 
-StartChar: dev_half_kka
+StartChar: dev_half_qa
 Encoding: 65590 -1 216
 Width: 584
 GlyphClass: 2
@@ -8620,6 +8659,7 @@ SplineSet
  345 606 l 1,51,-1
  -13 606 l 1,4,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_qa dev_halant
 EndChar
 
 StartChar: dev_half_khha
@@ -8681,9 +8721,10 @@ SplineSet
  241 606 l 1,62,-1
  -13 606 l 1,30,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_khha dev_halant
 EndChar
 
-StartChar: dev_half_gga
+StartChar: dev_half_ghha
 Encoding: 65592 -1 218
 Width: 270
 GlyphClass: 2
@@ -8714,6 +8755,7 @@ SplineSet
  129 606 l 1,23,-1
  -13 606 l 1,4,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ghha dev_halant
 EndChar
 
 StartChar: dev_half_za
@@ -8752,6 +8794,7 @@ SplineSet
  479 225 479 225 434.5 185.5 c 128,-1,29
  390 146 390 146 326 146 c 0,8,9
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_za dev_halant
 EndChar
 
 StartChar: dev_half_fa
@@ -8800,6 +8843,7 @@ SplineSet
  56 606 l 1,41,-1
  -13 606 l 1,13,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_fa dev_halant
 EndChar
 
 StartChar: dev_half_shra
@@ -8837,6 +8881,7 @@ SplineSet
  479 326 l 1,32,-1
  479 253 l 1,11,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_shra dev_halant
 EndChar
 
 StartChar: dev_half_tra
@@ -8871,6 +8916,7 @@ SplineSet
  485 266 l 1,26,-1
  165 53 l 1,4,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_tra dev_halant
 EndChar
 
 StartChar: dev_half_ttta
@@ -8902,9 +8948,10 @@ SplineSet
  272 108 272 108 345 47 c 1,21,-1
  298 0 l 1,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ta_with_half_ta dev_halant
 EndChar
 
-StartChar: dev_half_kshya
+StartChar: dev_half_ksha
 Encoding: 65598 -1 224
 Width: 547
 GlyphClass: 2
@@ -8968,6 +9015,7 @@ SplineSet
  395 63 395 63 414 47 c 1,73,-1
  368 7 l 1,15,16
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_ksha dev_halant
 EndChar
 
 StartChar: dev_half_dnya
@@ -9019,9 +9067,10 @@ SplineSet
  302 29 302 29 353 0 c 1,52,-1
  300 -33 l 1,4,5
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 6-1" dev_dnya dev_halant
 EndChar
 
-StartChar: glyph226
+StartChar: dev_vowel_I_anusvara
 Encoding: 65600 -1 226
 Width: 266
 GlyphClass: 2
@@ -9060,7 +9109,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph227
+StartChar: dev_vowel_I_rphf
 Encoding: 65601 -1 227
 Width: 266
 GlyphClass: 2
@@ -9108,7 +9157,7 @@ EndSplineSet
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
 EndChar
 
-StartChar: glyph228
+StartChar: dev_vowel_I_rphf_anusvara
 Encoding: 65602 -1 228
 Width: 266
 GlyphClass: 2
@@ -9160,7 +9209,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph229
+StartChar: dev_vowel_short_III
 Encoding: 65603 -1 229
 Width: 266
 GlyphClass: 2
@@ -9472,7 +9521,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: glyph236
+StartChar: dev_extended_II
 Encoding: 65610 -1 236
 Width: 266
 GlyphClass: 2
@@ -9508,7 +9557,7 @@ EndSplineSet
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=12 dy=-13 dh=0 dv=0
 EndChar
 
-StartChar: glyph237
+StartChar: dev_extended_II_anusvara
 Encoding: 65611 -1 237
 Width: 266
 GlyphClass: 2
@@ -9547,7 +9596,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph238
+StartChar: dev_extended_II_rphf
 Encoding: 65612 -1 238
 Width: 266
 GlyphClass: 2
@@ -9593,7 +9642,7 @@ EndSplineSet
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=109 dy=-123 dh=0 dv=0
 EndChar
 
-StartChar: glyph239
+StartChar: dev_extended_II_rphf_anusvara
 Encoding: 65613 -1 239
 Width: 266
 GlyphClass: 2
@@ -9815,7 +9864,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph245
+StartChar: dev_aya
 Encoding: 65619 -1 245
 Width: 625
 GlyphClass: 2
@@ -10460,7 +10509,7 @@ SplineSet
  133 233 133 233 78 283 c 128,-1,28
  23 333 23 333 23 353 c 0,4,5
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ma dev_halant dev_ra 
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ma dev_halant dev_ra
 EndChar
 
 StartChar: dev_vra
@@ -14542,7 +14591,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph324
+StartChar: dev_halant_ra
 Encoding: 65698 -1 323
 Width: 0
 GlyphClass: 2
@@ -14611,6 +14660,7 @@ SplineSet
  76 587 76 587 92 606 c 1,42,-1
  -13 606 l 1,20,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_gha dev_halant dev_ra
 EndChar
 
 StartChar: dev_cra
@@ -14650,6 +14700,7 @@ SplineSet
  471 606 l 1,31,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ca dev_halant dev_ra
 EndChar
 
 StartChar: dev_thra
@@ -14699,6 +14750,7 @@ SplineSet
  73 27 l 1,47,-1
  261 136 l 1,0,1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_tha dev_halant dev_ra
 EndChar
 
 StartChar: dev_dhra
@@ -14755,6 +14807,7 @@ SplineSet
  61 20 l 1,56,-1
  238 117 l 1,0,1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_dha dev_halant dev_ra
 EndChar
 
 StartChar: dev_nra
@@ -14791,6 +14844,7 @@ SplineSet
  138 233 138 233 83 302.5 c 128,-1,27
  28 372 28 372 28 399 c 0,0,1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_na dev_halant dev_ra
 EndChar
 
 StartChar: dev_lra
@@ -14836,6 +14890,7 @@ SplineSet
  565 130 l 1,41,-1
  365 20 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_la dev_halant dev_ra
 EndChar
 
 StartChar: dev_ngk
@@ -16687,7 +16742,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni094F
+StartChar: dev_aw
 Encoding: 2383 2383 369
 Width: 266
 VWidth: 0
