@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377579378
+ModificationTime: 1377589692
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,6 +54,7 @@ Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 1"  {"'nukt' Nukta Forms lookup 1-1"  } ['nukt' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  } ['rkrf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -3866,7 +3867,7 @@ EndSplineSet
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=65 dy=-9 dh=0 dv=0
 EndChar
 
-StartChar: dev_virama
+StartChar: dev_halant
 Encoding: 2381 2381 90
 Width: 0
 GlyphClass: 4
@@ -6688,7 +6689,7 @@ SplineSet
  -84 691 -84 691 -41 666 c 1,19,-1
  -128 666 l 1,0,1
 EndSplineSet
-Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_virama
+Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_halant
 LCarets2: 1 0 
 EndChar
 
@@ -6964,7 +6965,7 @@ SplineSet
  491 606 l 1,68,-1
  425 606 l 1,11,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 2-1" dev_ka dev_virama dev_ssa
+Ligature2: "'akhn' Akhand lookup 2-1" dev_ka dev_halant dev_ssa
 EndChar
 
 StartChar: dev_dnya
@@ -7024,7 +7025,7 @@ SplineSet
  545 606 l 1,62,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 2-1" dev_ja dev_virama dev_nya
+Ligature2: "'akhn' Akhand lookup 2-1" dev_ja dev_halant dev_nya
 EndChar
 
 StartChar: dev_half_ka
@@ -9937,6 +9938,7 @@ SplineSet
  365 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ka dev_halant dev_ra
 EndChar
 
 StartChar: dev_khra
@@ -10001,6 +10003,7 @@ SplineSet
  221 606 l 1,63,-1
  -13 606 l 1,39,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_kha dev_halant dev_ra
 EndChar
 
 StartChar: dev_gra
@@ -10037,6 +10040,7 @@ SplineSet
  130 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ga dev_halant dev_ra
 EndChar
 
 StartChar: dev_jra
@@ -10077,6 +10081,7 @@ SplineSet
  559 606 l 1,33,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ja dev_halant dev_ra
 EndChar
 
 StartChar: dev_jhra
@@ -10147,6 +10152,7 @@ SplineSet
  318 606 l 1,74,-1
  -13 606 l 1,22,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_jha dev_halant dev_ra
 EndChar
 
 StartChar: dev_tra
@@ -10227,6 +10233,7 @@ SplineSet
  385 606 l 1,45,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_da dev_halant dev_ra
 EndChar
 
 StartChar: dev_pra
@@ -10262,6 +10269,7 @@ SplineSet
  91 606 l 1,24,-1
  -13 606 l 1,10,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pa dev_halant dev_ra
 EndChar
 
 StartChar: dev_phra
@@ -10315,6 +10323,7 @@ SplineSet
  174 213 174 213 125.5 259.5 c 128,-1,47
  77 306 77 306 77 373 c 2,9,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pha dev_halant dev_ra
 EndChar
 
 StartChar: dev_bra
@@ -10360,6 +10369,7 @@ SplineSet
  138 169 138 169 94.5 215.5 c 128,-1,39
  51 262 51 262 51 320 c 0,10,11
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ba dev_halant dev_ra
 EndChar
 
 StartChar: dev_bhra
@@ -10410,6 +10420,7 @@ SplineSet
  220 206 220 206 170 256 c 128,-1,46
  120 306 120 306 120 326 c 0,0,1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_bha dev_halant dev_ra
 EndChar
 
 StartChar: dev_mra
@@ -10449,6 +10460,7 @@ SplineSet
  133 233 133 233 78 283 c 128,-1,28
  23 333 23 333 23 353 c 0,4,5
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ma dev_halant dev_ra 
 EndChar
 
 StartChar: dev_vra
@@ -10488,6 +10500,7 @@ SplineSet
  141 160 141 160 94.5 210.5 c 128,-1,33
  48 261 48 261 48 326 c 0,0,1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_va dev_halant dev_ra
 EndChar
 
 StartChar: dev_sra
@@ -10531,6 +10544,7 @@ SplineSet
  305 447 l 2,34,35
  305 408.236 305 408.236 299.734 386 c 1,30,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sa dev_halant dev_ra
 EndChar
 
 StartChar: dev_rrha
