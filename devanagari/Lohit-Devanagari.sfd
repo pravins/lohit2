@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377507364
+ModificationTime: 1377579378
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -53,6 +53,7 @@ OS2Vendor: 'ACE '
 Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 1"  {"'nukt' Nukta Forms lookup 1-1"  } ['nukt' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -682,7 +683,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0901
+StartChar: dev_candrabindu
 Encoding: 2305 2305 17
 Width: 0
 GlyphClass: 4
@@ -712,7 +713,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0902
+StartChar: dev_anusvara
 Encoding: 2306 2306 18
 Width: 0
 GlyphClass: 4
@@ -729,7 +730,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0903
+StartChar: dev_visarga
 Encoding: 2307 2307 19
 Width: 339
 GlyphClass: 2
@@ -758,7 +759,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0905
+StartChar: dev_A
 Encoding: 2309 2309 20
 Width: 768
 GlyphClass: 2
@@ -817,7 +818,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0906
+StartChar: dev_AA
 Encoding: 2310 2310 21
 Width: 1042
 GlyphClass: 2
@@ -880,7 +881,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0907
+StartChar: dev_I
 Encoding: 2311 2311 22
 Width: 503
 GlyphClass: 2
@@ -933,7 +934,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0908
+StartChar: dev_II
 Encoding: 2312 2312 23
 Width: 510
 GlyphClass: 2
@@ -1004,7 +1005,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0909
+StartChar: dev_U
 Encoding: 2313 2313 24
 Width: 631
 GlyphClass: 2
@@ -1046,7 +1047,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u090A
+StartChar: dev_UU
 Encoding: 2314 2314 25
 Width: 921
 GlyphClass: 2
@@ -1101,7 +1102,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u090B
+StartChar: dev_vocalic_R
 Encoding: 2315 2315 26
 Width: 864
 GlyphClass: 2
@@ -1168,7 +1169,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u090C
+StartChar: dev_vocalic_L
 Encoding: 2316 2316 27
 Width: 703
 GlyphClass: 2
@@ -1228,7 +1229,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u090D
+StartChar: dev_candra_E
 Encoding: 2317 2317 28
 Width: 490
 GlyphClass: 2
@@ -1281,7 +1282,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u090E
+StartChar: dev_short_E
 Encoding: 2318 2318 29
 Width: 490
 GlyphClass: 2
@@ -1333,7 +1334,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u090F
+StartChar: dev_E
 Encoding: 2319 2319 30
 Width: 486
 GlyphClass: 2
@@ -1376,7 +1377,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0910
+StartChar: dev_AI
 Encoding: 2320 2320 31
 Width: 491
 GlyphClass: 2
@@ -1422,7 +1423,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0911
+StartChar: dev_candra_O
 Encoding: 2321 2321 32
 Width: 1042
 GlyphClass: 2
@@ -1495,7 +1496,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0912
+StartChar: dev_short_O
 Encoding: 2322 2322 33
 Width: 1042
 GlyphClass: 2
@@ -1567,7 +1568,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0913
+StartChar: dev_O
 Encoding: 2323 2323 34
 Width: 1042
 GlyphClass: 2
@@ -1633,7 +1634,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0914
+StartChar: dev_AU
 Encoding: 2324 2324 35
 Width: 1042
 GlyphClass: 2
@@ -1702,7 +1703,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0915
+StartChar: dev_ka
 Encoding: 2325 2325 36
 Width: 749
 GlyphClass: 2
@@ -1756,7 +1757,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0916
+StartChar: dev_kha
 Encoding: 2326 2326 37
 Width: 825
 GlyphClass: 2
@@ -1818,7 +1819,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0917
+StartChar: dev_ga
 Encoding: 2327 2327 38
 Width: 517
 GlyphClass: 2
@@ -1851,7 +1852,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0918
+StartChar: dev_gha
 Encoding: 2328 2328 39
 Width: 636
 GlyphClass: 2
@@ -1896,10 +1897,10 @@ SplineSet
  68 587 68 587 84 606 c 1,42,-1
  -13 606 l 1,20,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=141 dy=43 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=141 dy=43 dh=0 dv=0
 EndChar
 
-StartChar: u0919
+StartChar: dev_nga
 Encoding: 2329 2329 40
 Width: 717
 GlyphClass: 2
@@ -1954,10 +1955,10 @@ SplineSet
  463 606 l 1,57,-1
  -13 606 l 1,12,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=202 dy=-51 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=202 dy=-51 dh=0 dv=0
 EndChar
 
-StartChar: u091A
+StartChar: dev_ca
 Encoding: 2330 2330 41
 Width: 637
 GlyphClass: 2
@@ -1994,10 +1995,10 @@ SplineSet
  471 606 l 1,31,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=51 dy=85 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=51 dy=85 dh=0 dv=0
 EndChar
 
-StartChar: u091B
+StartChar: dev_cha
 Encoding: 2331 2331 42
 Width: 709
 GlyphClass: 2
@@ -2056,10 +2057,10 @@ SplineSet
  670 249 670 249 553.5 141 c 128,-1,61
  437 33 437 33 310 33 c 0,38,39
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=144 dy=-21 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=144 dy=-21 dh=0 dv=0
 EndChar
 
-StartChar: u091C
+StartChar: dev_ja
 Encoding: 2332 2332 43
 Width: 728
 GlyphClass: 2
@@ -2096,7 +2097,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u091D
+StartChar: dev_jha
 Encoding: 2333 2333 44
 Width: 731
 GlyphClass: 2
@@ -2161,10 +2162,10 @@ SplineSet
  329 8 329 8 352 0 c 1,70,-1
  318 -47 l 1,21,22
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-85 dy=-16 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-85 dy=-16 dh=0 dv=0
 EndChar
 
-StartChar: u091E
+StartChar: dev_nya
 Encoding: 2334 2334 45
 Width: 737
 GlyphClass: 2
@@ -2210,10 +2211,10 @@ SplineSet
  398 218 398 218 343.5 169 c 128,-1,46
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=24 dy=43 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=24 dy=43 dh=0 dv=0
 EndChar
 
-StartChar: u091F
+StartChar: dev_tta
 Encoding: 2335 2335 46
 Width: 565
 GlyphClass: 2
@@ -2247,10 +2248,10 @@ SplineSet
  521 75 521 75 460 44 c 128,-1,27
  399 13 399 13 325 13 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=280 dy=-59 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=280 dy=-59 dh=0 dv=0
 EndChar
 
-StartChar: u0920
+StartChar: dev_ttha
 Encoding: 2336 2336 47
 Width: 580
 GlyphClass: 2
@@ -2288,10 +2289,10 @@ SplineSet
  530 132 530 132 469.5 69.5 c 128,-1,33
  409 7 409 7 324 7 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=248 dy=-40 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=248 dy=-40 dh=0 dv=0
 EndChar
 
-StartChar: u0921
+StartChar: dev_dda
 Encoding: 2337 2337 48
 Width: 631
 GlyphClass: 2
@@ -2339,7 +2340,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0922
+StartChar: dev_ddha
 Encoding: 2338 2338 49
 Width: 579
 GlyphClass: 2
@@ -2387,7 +2388,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0923
+StartChar: dev_nna
 Encoding: 2339 2339 50
 Width: 669
 GlyphClass: 2
@@ -2422,10 +2423,10 @@ SplineSet
  377 257 377 257 331.5 208.5 c 128,-1,25
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=56 dy=93 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=56 dy=93 dh=0 dv=0
 EndChar
 
-StartChar: u0924
+StartChar: dev_ta
 Encoding: 2340 2340 51
 Width: 608
 GlyphClass: 2
@@ -2456,10 +2457,10 @@ SplineSet
  148 80 148 80 95.5 165 c 128,-1,23
  43 250 43 250 43 326 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-24 dy=93 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-24 dy=93 dh=0 dv=0
 EndChar
 
-StartChar: u0925
+StartChar: dev_tha
 Encoding: 2341 2341 52
 Width: 685
 GlyphClass: 2
@@ -2506,10 +2507,10 @@ SplineSet
  469 189 469 189 411.5 161 c 128,-1,47
  354 133 354 133 300 133 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-27 dy=104 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-27 dy=104 dh=0 dv=0
 EndChar
 
-StartChar: u0926
+StartChar: dev_da
 Encoding: 2342 2342 53
 Width: 541
 GlyphClass: 2
@@ -2547,10 +2548,10 @@ SplineSet
  382 606 l 1,32,-1
  -21 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=61 dy=96 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=61 dy=96 dh=0 dv=0
 EndChar
 
-StartChar: u0927
+StartChar: dev_dha
 Encoding: 2343 2343 54
 Width: 648
 GlyphClass: 2
@@ -2604,10 +2605,10 @@ SplineSet
  439 169 439 169 385.5 141 c 128,-1,57
  332 113 332 113 276 113 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-37 dy=91 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-37 dy=91 dh=0 dv=0
 EndChar
 
-StartChar: u0928
+StartChar: dev_na
 Encoding: 2344 2344 55
 Width: 585
 GlyphClass: 2
@@ -2640,7 +2641,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0929
+StartChar: dev_nnna
 Encoding: 2345 2345 56
 Width: 585
 GlyphClass: 2
@@ -2676,11 +2677,10 @@ SplineSet
  130 233 130 233 75 302.5 c 128,-1,27
  20 372 20 372 20 399 c 0,4,5
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0928 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_na dev_nukta
 EndChar
 
-StartChar: u092A
+StartChar: dev_pa
 Encoding: 2346 2346 57
 Width: 536
 GlyphClass: 2
@@ -2712,10 +2712,10 @@ SplineSet
  162 193 162 193 109.5 243.5 c 128,-1,23
  57 294 57 294 57 366 c 2,9,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=154 dy=112 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=154 dy=112 dh=0 dv=0
 EndChar
 
-StartChar: u092B
+StartChar: dev_pha
 Encoding: 2347 2347 58
 Width: 774
 GlyphClass: 2
@@ -2764,7 +2764,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u092C
+StartChar: dev_ba
 Encoding: 2348 2348 59
 Width: 537
 GlyphClass: 2
@@ -2807,10 +2807,10 @@ SplineSet
  148 146 148 146 93.5 197 c 128,-1,39
  39 248 39 248 39 320 c 0,10,11
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=93 dy=93 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=93 dy=93 dh=0 dv=0
 EndChar
 
-StartChar: u092D
+StartChar: dev_bha
 Encoding: 2349 2349 60
 Width: 657
 GlyphClass: 2
@@ -2855,10 +2855,10 @@ SplineSet
  218 206 218 206 168.5 256 c 128,-1,40
  119 306 119 306 119 326 c 0,0,1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=99 dy=112 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=99 dy=112 dh=0 dv=0
 EndChar
 
-StartChar: u092E
+StartChar: dev_ma
 Encoding: 2350 2350 61
 Width: 579
 GlyphClass: 2
@@ -2892,10 +2892,10 @@ SplineSet
  107 606 l 1,24,-1
  -13 606 l 1,4,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=88 dy=136 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=88 dy=136 dh=0 dv=0
 EndChar
 
-StartChar: u092F
+StartChar: dev_ya
 Encoding: 2351 2351 62
 Width: 596
 GlyphClass: 2
@@ -2936,7 +2936,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0930
+StartChar: dev_ra
 Encoding: 2352 2352 63
 Width: 436
 GlyphClass: 2
@@ -2970,7 +2970,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0931
+StartChar: dev_rra
 Encoding: 2353 2353 64
 Width: 442
 GlyphClass: 2
@@ -3007,11 +3007,10 @@ SplineSet
  332 108 332 108 405 47 c 1,30,-1
  365 0 l 1,4,5
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0930 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ra dev_nukta
 EndChar
 
-StartChar: u0932
+StartChar: dev_la
 Encoding: 2354 2354 65
 Width: 727
 GlyphClass: 2
@@ -3051,11 +3050,11 @@ SplineSet
  561 606 l 1,37,-1
  -13 606 l 1,0,-1
 EndSplineSet
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-123 dy=85 dh=0 dv=0
 Substitution2: "'locl' Localized Forms lookup 0-1" mr_la
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-123 dy=85 dh=0 dv=0
 EndChar
 
-StartChar: u0933
+StartChar: dev_lla
 Encoding: 2355 2355 66
 Width: 735
 GlyphClass: 2
@@ -3110,7 +3109,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0934
+StartChar: dev_llla
 Encoding: 2356 2356 67
 Width: 733
 GlyphClass: 2
@@ -3168,11 +3167,10 @@ SplineSet
  342 145 342 145 302 109 c 128,-1,58
  262 73 262 73 224 73 c 0,28,29
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0933 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_lla dev_nukta
 EndChar
 
-StartChar: u0935
+StartChar: dev_va
 Encoding: 2357 2357 68
 Width: 543
 GlyphClass: 2
@@ -3209,10 +3207,10 @@ SplineSet
  377 606 l 1,33,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=99 dy=107 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=99 dy=107 dh=0 dv=0
 EndChar
 
-StartChar: u0936
+StartChar: dev_sha
 Encoding: 2358 2358 69
 Width: 676
 GlyphClass: 2
@@ -3259,11 +3257,11 @@ SplineSet
  370 47 l 1,44,-1
  330 0 l 1,20,-1
 EndSplineSet
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-43 dy=93 dh=0 dv=0
 Substitution2: "'locl' Localized Forms lookup 0-1" mr_sha
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-43 dy=93 dh=0 dv=0
 EndChar
 
-StartChar: u0937
+StartChar: dev_ssa
 Encoding: 2359 2359 70
 Width: 535
 GlyphClass: 2
@@ -3298,10 +3296,10 @@ SplineSet
  56 606 l 1,25,-1
  -13 606 l 1,11,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=141 dy=109 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=141 dy=109 dh=0 dv=0
 EndChar
 
-StartChar: u0938
+StartChar: dev_sa
 Encoding: 2360 2360 71
 Width: 709
 GlyphClass: 2
@@ -3339,10 +3337,10 @@ SplineSet
  310 426 l 2,28,29
  310 404.747 310 404.747 304.488 386 c 1,24,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=-88 dy=117 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-88 dy=117 dh=0 dv=0
 EndChar
 
-StartChar: u0939
+StartChar: dev_ha
 Encoding: 2361 2361 72
 Width: 527
 GlyphClass: 2
@@ -3391,10 +3389,10 @@ SplineSet
  368 606 l 1,49,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" u093C dx=0 dy=0 dh=0 dv=0 dx=59 dy=59 dh=0 dv=0
+PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=59 dy=59 dh=0 dv=0
 EndChar
 
-StartChar: u093C
+StartChar: dev_nukta
 Encoding: 2364 2364 73
 Width: 0
 GlyphClass: 4
@@ -3410,7 +3408,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u093D
+StartChar: dev_avagraha
 Encoding: 2365 2365 74
 Width: 442
 GlyphClass: 2
@@ -3446,7 +3444,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u093E
+StartChar: dev_vowel_AA
 Encoding: 2366 2366 75
 Width: 266
 GlyphClass: 2
@@ -3466,7 +3464,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u093F
+StartChar: dev_vowel_I
 Encoding: 2367 2367 76
 Width: 266
 GlyphClass: 2
@@ -3498,10 +3496,10 @@ SplineSet
  100 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
 EndChar
 
-StartChar: u0940
+StartChar: dev_vowel_II
 Encoding: 2368 2368 77
 Width: 266
 GlyphClass: 2
@@ -3536,7 +3534,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0941
+StartChar: dev_vowel_u
 Encoding: 2369 2369 78
 Width: 0
 GlyphClass: 4
@@ -3567,7 +3565,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0942
+StartChar: dev_vowel_UU
 Encoding: 2370 2370 79
 Width: 0
 GlyphClass: 4
@@ -3598,7 +3596,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0943
+StartChar: dev_vowel_vocalic_R
 Encoding: 2371 2371 80
 Width: 0
 GlyphClass: 4
@@ -3627,7 +3625,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0944
+StartChar: dev_vowel_vocalic_RR
 Encoding: 2372 2372 81
 Width: 0
 GlyphClass: 4
@@ -3667,7 +3665,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0945
+StartChar: dev_vowel_candra_E
 Encoding: 2373 2373 82
 Width: 0
 GlyphClass: 4
@@ -3690,7 +3688,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0946
+StartChar: dev_vowel_short_E
 Encoding: 2374 2374 83
 Width: 0
 GlyphClass: 4
@@ -3711,10 +3709,10 @@ SplineSet
  -162 724 -162 724 -201.5 765.5 c 128,-1,13
  -241 807 -241 807 -296 807 c 0,0,1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=8 dy=16 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=8 dy=16 dh=0 dv=0
 EndChar
 
-StartChar: u0947
+StartChar: dev_vowel_E
 Encoding: 2375 2375 84
 Width: 0
 GlyphClass: 4
@@ -3732,7 +3730,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0948
+StartChar: dev_vowel_AI
 Encoding: 2376 2376 85
 Width: 0
 GlyphClass: 4
@@ -3753,7 +3751,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0949
+StartChar: dev_vowel_candra_O
 Encoding: 2377 2377 86
 Width: 266
 GlyphClass: 2
@@ -3784,7 +3782,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u094A
+StartChar: dev_vowel_short_O
 Encoding: 2378 2378 87
 Width: 266
 GlyphClass: 2
@@ -3814,7 +3812,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u094B
+StartChar: dev_vowel_O
 Encoding: 2379 2379 88
 Width: 266
 GlyphClass: 2
@@ -3839,7 +3837,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u094C
+StartChar: dev_vowel_AU
 Encoding: 2380 2380 89
 Width: 266
 GlyphClass: 2
@@ -3865,10 +3863,10 @@ SplineSet
  100 606 l 1,14,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=65 dy=-9 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=65 dy=-9 dh=0 dv=0
 EndChar
 
-StartChar: u094D
+StartChar: dev_virama
 Encoding: 2381 2381 90
 Width: 0
 GlyphClass: 4
@@ -3887,7 +3885,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0950
+StartChar: dev_om
 Encoding: 2384 2384 91
 Width: 977
 GlyphClass: 2
@@ -3969,7 +3967,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0951
+StartChar: dev_stress_udatta
 Encoding: 2385 2385 92
 Width: 0
 GlyphClass: 4
@@ -3986,7 +3984,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0952
+StartChar: dev_stress_anudatta
 Encoding: 2386 2386 93
 Width: 0
 GlyphClass: 4
@@ -4002,7 +4000,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0953
+StartChar: dev_grave_accent
 Encoding: 2387 2387 94
 Width: 0
 GlyphClass: 4
@@ -4019,7 +4017,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0954
+StartChar: dev_acute_accent
 Encoding: 2388 2388 95
 Width: 0
 GlyphClass: 4
@@ -4036,7 +4034,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0958
+StartChar: dev_qa
 Encoding: 2392 2392 96
 Width: 753
 GlyphClass: 2
@@ -4093,11 +4091,10 @@ SplineSet
  350 606 l 1,57,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0915 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ka dev_nukta
 EndChar
 
-StartChar: u0959
+StartChar: dev_khha
 Encoding: 2393 2393 97
 Width: 836
 GlyphClass: 2
@@ -4163,11 +4160,10 @@ SplineSet
  237 606 l 1,69,-1
  -13 606 l 1,45,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0916 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_kha dev_nukta
 EndChar
 
-StartChar: u095A
+StartChar: dev_ghha
 Encoding: 2394 2394 98
 Width: 517
 GlyphClass: 2
@@ -4203,11 +4199,10 @@ SplineSet
  119 606 l 1,27,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0917 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ga dev_nukta
 EndChar
 
-StartChar: u095B
+StartChar: dev_za
 Encoding: 2395 2395 99
 Width: 733
 GlyphClass: 2
@@ -4247,11 +4242,10 @@ SplineSet
  567 606 l 1,33,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u091C u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ja dev_nukta
 EndChar
 
-StartChar: u095C
+StartChar: dev_dddha
 Encoding: 2396 2396 100
 Width: 632
 GlyphClass: 2
@@ -4302,11 +4296,10 @@ SplineSet
  465 606 l 1,49,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0921 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_dda dev_nukta
 EndChar
 
-StartChar: u095D
+StartChar: dev_rha
 Encoding: 2397 2397 101
 Width: 572
 GlyphClass: 2
@@ -4357,11 +4350,10 @@ SplineSet
  387 606 l 1,47,-1
  -13 606 l 1,15,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u0922 u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ddha dev_nukta
 EndChar
 
-StartChar: u095E
+StartChar: dev_fa
 Encoding: 2398 2398 102
 Width: 765
 GlyphClass: 2
@@ -4413,11 +4405,10 @@ SplineSet
  59 606 l 1,46,-1
  -13 606 l 1,12,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u092B u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_pha dev_nukta
 EndChar
 
-StartChar: u095F
+StartChar: dev_yya
 Encoding: 2399 2399 103
 Width: 596
 GlyphClass: 2
@@ -4460,11 +4451,10 @@ SplineSet
  398 168 398 168 353 147.5 c 128,-1,37
  308 127 308 127 257 127 c 0,18,19
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms lookup 1-1" u092F u093C
-LCarets2: 1 0 
+Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ya dev_nukta
 EndChar
 
-StartChar: u0960
+StartChar: dev_vocalic_RR
 Encoding: 2400 2400 104
 Width: 882
 GlyphClass: 2
@@ -4525,7 +4515,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0961
+StartChar: dev_vocalic_LL
 Encoding: 2401 2401 105
 Width: 708
 GlyphClass: 2
@@ -4596,7 +4586,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0962
+StartChar: dev_vowel_vocalic_L
 Encoding: 2402 2402 106
 Width: 0
 GlyphClass: 4
@@ -4650,7 +4640,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0963
+StartChar: dev_vowel_vocalic_LL
 Encoding: 2403 2403 107
 Width: 0
 GlyphClass: 4
@@ -4715,7 +4705,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0964
+StartChar: dev_danda
 Encoding: 2404 2404 108
 Width: 366
 GlyphClass: 2
@@ -4731,7 +4721,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0965
+StartChar: dev_double_danda
 Encoding: 2405 2405 109
 Width: 579
 GlyphClass: 2
@@ -4752,7 +4742,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0966
+StartChar: dev_zero
 Encoding: 2406 2406 110
 Width: 665
 GlyphClass: 2
@@ -4781,7 +4771,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0967
+StartChar: dev_one
 Encoding: 2407 2407 111
 Width: 665
 GlyphClass: 2
@@ -4813,7 +4803,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0968
+StartChar: dev_two
 Encoding: 2408 2408 112
 Width: 665
 GlyphClass: 2
@@ -4849,7 +4839,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0969
+StartChar: dev_three
 Encoding: 2409 2409 113
 Width: 664
 GlyphClass: 2
@@ -4896,7 +4886,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u096A
+StartChar: dev_four
 Encoding: 2410 2410 114
 Width: 664
 GlyphClass: 2
@@ -4943,7 +4933,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u096B
+StartChar: dev_five
 Encoding: 2411 2411 115
 Width: 665
 GlyphClass: 2
@@ -4987,7 +4977,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u096C
+StartChar: dev_six
 Encoding: 2412 2412 116
 Width: 665
 GlyphClass: 2
@@ -5034,7 +5024,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u096D
+StartChar: dev_seven
 Encoding: 2413 2413 117
 Width: 665
 GlyphClass: 2
@@ -5074,7 +5064,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u096E
+StartChar: dev_eight
 Encoding: 2414 2414 118
 Width: 665
 GlyphClass: 2
@@ -5102,7 +5092,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u096F
+StartChar: dev_nine
 Encoding: 2415 2415 119
 Width: 664
 GlyphClass: 2
@@ -5144,7 +5134,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0970
+StartChar: dev_abbreviation
 Encoding: 2416 2416 120
 Width: 545
 GlyphClass: 2
@@ -5173,7 +5163,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii61664
+StartChar: dev_zwnj
 Encoding: 8204 8204 121
 Width: 0
 GlyphClass: 2
@@ -5189,7 +5179,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii301
+StartChar: dev_zwj
 Encoding: 8205 8205 122
 Width: 0
 GlyphClass: 2
@@ -5355,7 +5345,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni25CC
+StartChar: dev_dotted_circle
 Encoding: 9676 9676 131
 Width: 918
 GlyphClass: 2
@@ -6486,7 +6476,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0947_u0902.abvs
+StartChar: dev_vowel_E_dev_anusvara.abvs
 Encoding: 65538 -1 164
 Width: 0
 GlyphClass: 4
@@ -6509,7 +6499,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0947_u0930_u094D.rphf.abvs
+StartChar: dev_vowel_E_dev_ra_dev_virama.rphf.abvs
 Encoding: 65539 -1 165
 Width: 0
 GlyphClass: 4
@@ -6537,10 +6527,10 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=93 dy=-97 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=93 dy=-97 dh=0 dv=0
 EndChar
 
-StartChar: u0947_u0930_u094D.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_E_dev_ra_dev_virama.rphf.abvs_u0902.abvs
 Encoding: 65540 -1 166
 Width: 0
 GlyphClass: 4
@@ -6575,7 +6565,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0948_u0902.abvs
+StartChar: dev_vowel_AI_dev_anusvara.abvs
 Encoding: 65541 -1 167
 Width: 0
 GlyphClass: 4
@@ -6601,7 +6591,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0948_u0930_u094D.rphf.abvs
+StartChar: dev_vowel_AI_dev_ra_dev_virama.rphf.abvs
 Encoding: 65542 -1 168
 Width: 0
 GlyphClass: 4
@@ -6632,10 +6622,10 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=119 dy=-109 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=119 dy=-109 dh=0 dv=0
 EndChar
 
-StartChar: u0948_u0930_u094D.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_AI_dev_ra_dev_virama.rphf.abvs_u0902.abvs
 Encoding: 65543 -1 169
 Width: 0
 GlyphClass: 4
@@ -6673,7 +6663,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0930_u094D.rphf
+StartChar: dev_ra_dev_virama.rphf
 Encoding: 65544 -1 170
 Width: 0
 GlyphClass: 4
@@ -6698,10 +6688,11 @@ SplineSet
  -84 691 -84 691 -41 666 c 1,19,-1
  -128 666 l 1,0,1
 EndSplineSet
+Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_virama
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0930_u094D.rphf_u0902.abvs
+StartChar: dev_ra_dev_virama.rphf_u0902.abvs
 Encoding: 65545 -1 171
 Width: 0
 GlyphClass: 4
@@ -6749,7 +6740,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0930_u094D.blwf
+StartChar: dev_ra_dev_virama.blwf
 Encoding: 65547 -1 173
 Width: 0
 GlyphClass: 4
@@ -6875,7 +6866,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_tta
+StartChar: dev_ta_with_half_ta
 Encoding: 65550 -1 176
 Width: 743
 GlyphClass: 2
@@ -6973,7 +6964,7 @@ SplineSet
  491 606 l 1,68,-1
  425 606 l 1,11,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 2-1" u0915 u094D u0937
+Ligature2: "'akhn' Akhand lookup 2-1" dev_ka dev_virama dev_ssa
 EndChar
 
 StartChar: dev_dnya
@@ -7033,7 +7024,7 @@ SplineSet
  545 606 l 1,62,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 2-1" u091C u094D u091E
+Ligature2: "'akhn' Akhand lookup 2-1" dev_ja dev_virama dev_nya
 EndChar
 
 StartChar: dev_half_ka
@@ -8211,7 +8202,7 @@ SplineSet
  100 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: glyph207
@@ -9113,7 +9104,7 @@ SplineSet
  100 606 l 1,46,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
 EndChar
 
 StartChar: glyph228
@@ -9200,7 +9191,7 @@ SplineSet
  100 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=435 dy=0 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=435 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: glyph230
@@ -9287,7 +9278,7 @@ SplineSet
  153 688 153 688 173 666 c 1,46,-1
  280 666 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=514 dy=-99 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=514 dy=-99 dh=0 dv=0
 EndChar
 
 StartChar: glyph232
@@ -9342,7 +9333,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0940_u0902.abvs
+StartChar: dev_vowel_II_dev_anusvara.abvs
 Encoding: 65607 -1 233
 Width: 266
 GlyphClass: 2
@@ -9382,7 +9373,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0940_u0930_u094D.rphf.abvs
+StartChar: dev_vowel_II_dev_ra_dev_virama.rphf.abvs
 Encoding: 65608 -1 234
 Width: 266
 GlyphClass: 2
@@ -9426,10 +9417,10 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=129 dy=-116 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=129 dy=-116 dh=0 dv=0
 EndChar
 
-StartChar: u0940_u0930_u094D.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_II_dev_ra_dev_virama.rphf.abvs_u0902.abvs
 Encoding: 65609 -1 235
 Width: 266
 GlyphClass: 2
@@ -9513,7 +9504,7 @@ SplineSet
  100 606 l 1,27,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=12 dy=-13 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=12 dy=-13 dh=0 dv=0
 EndChar
 
 StartChar: glyph237
@@ -9598,7 +9589,7 @@ SplineSet
  100 606 l 1,43,-1
  -13 606 l 1,0,-1
 EndSplineSet
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=109 dy=-123 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=109 dy=-123 dh=0 dv=0
 EndChar
 
 StartChar: glyph239
@@ -9651,7 +9642,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0930_u094D.blwf_u0941.blws
+StartChar: dev_ra_dev_virama.blwf_u0941.blws
 Encoding: 65614 -1 240
 Width: 0
 GlyphClass: 4
@@ -9690,7 +9681,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u0930_u094D.blwf_u0942.blws
+StartChar: dev_ra_dev_virama.blwf_u0942.blws
 Encoding: 65615 -1 241
 Width: 0
 GlyphClass: 4
@@ -10542,7 +10533,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_rha
+StartChar: dev_rrha
 Encoding: 65636 -1 261
 Width: 552
 GlyphClass: 2
@@ -12205,7 +12196,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_ddda
+StartChar: dev_dda_with_half_dda
 Encoding: 65660 -1 285
 Width: 644
 GlyphClass: 2
@@ -12279,7 +12270,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_dddha
+StartChar: dev_dda_with_half_ddha
 Encoding: 65661 -1 286
 Width: 628
 GlyphClass: 2
@@ -12712,7 +12703,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_dda
+StartChar: dev_da_with_half_da
 Encoding: 65667 -1 292
 Width: 557
 GlyphClass: 2
@@ -12768,7 +12759,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0926_u094D.half_u0927.pres
+StartChar: dev_da_dev_virama.half_u0927.pres
 Encoding: 65668 -1 293
 Width: 732
 GlyphClass: 2
@@ -12843,7 +12834,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0926_u094D.half_u0928.pres
+StartChar: dev_da_dev_virama.half_u0928.pres
 Encoding: 65669 -1 294
 Width: 575
 GlyphClass: 2
@@ -13191,7 +13182,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_nna
+StartChar: dev_na_with_half_na
 Encoding: 65675 -1 300
 Width: 663
 GlyphClass: 2
@@ -13421,7 +13412,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_llla
+StartChar: dev_la_with_half_la
 Encoding: 65679 -1 304
 Width: 736
 GlyphClass: 2
@@ -14919,7 +14910,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u094B_u0902.abvs
+StartChar: dev_vowel_O_dev_anusvara.abvs
 Encoding: 65706 -1 331
 Width: 266
 GlyphClass: 2
@@ -14948,7 +14939,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u094B_u0930_u094D.rphf.abvs
+StartChar: dev_vowel_O_dev_ra_dev_virama.rphf.abvs
 Encoding: 65707 -1 332
 Width: 266
 GlyphClass: 2
@@ -14983,10 +14974,10 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=87 dy=-115 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=87 dy=-115 dh=0 dv=0
 EndChar
 
-StartChar: u094B_u0930_u094D.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_O_dev_ra_dev_virama.rphf.abvs_u0902.abvs
 Encoding: 65708 -1 333
 Width: 266
 GlyphClass: 2
@@ -15028,7 +15019,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u094C_u0902.abvs
+StartChar: dev_vowel_AU_dev_anusvara.abvs
 Encoding: 65709 -1 334
 Width: 266
 GlyphClass: 2
@@ -15061,7 +15052,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: u094C_u0930_u094D.rphf.abvs
+StartChar: dev_vowel_AU_dev_ra_dev_virama.rphf.abvs
 Encoding: 65710 -1 335
 Width: 266
 GlyphClass: 2
@@ -15097,10 +15088,10 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" u0902 dx=0 dy=0 dh=0 dv=0 dx=127 dy=-105 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=127 dy=-105 dh=0 dv=0
 EndChar
 
-StartChar: u094C_u0930_u094D.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_AU_dev_ra_dev_virama.rphf.abvs_u0902.abvs
 Encoding: 65711 -1 336
 Width: 266
 GlyphClass: 2
@@ -15444,7 +15435,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni097B
+StartChar: dev_gga
 Encoding: 2427 2427 343
 Width: 517
 Flags: W
@@ -15479,7 +15470,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni097C
+StartChar: dev_jja
 Encoding: 2428 2428 344
 Width: 728
 Flags: W
@@ -15520,7 +15511,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni097D
+StartChar: dev_glottal_stop
 Encoding: 2429 2429 345
 Width: 631
 Flags: W
@@ -15544,7 +15535,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni097E
+StartChar: dev_ddda
 Encoding: 2430 2430 346
 Width: 717
 Flags: W
@@ -15595,7 +15586,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni097F
+StartChar: dev_bba
 Encoding: 2431 2431 347
 Width: 537
 Flags: W
@@ -15642,7 +15633,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0904
+StartChar: dev_short_A
 Encoding: 2308 2308 348
 Width: 768
 Flags: W
@@ -15709,7 +15700,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0972
+StartChar: dev_candra_A
 Encoding: 2418 2418 349
 Width: 768
 Flags: W
@@ -15778,7 +15769,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0971
+StartChar: dev_high_spacing_dot
 Encoding: 2417 2417 350
 Width: 180
 Flags: W
@@ -15793,7 +15784,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20B9
+StartChar: dev_indian_currency_symb
 Encoding: 8377 8377 351
 Width: 609
 Flags: W
@@ -16029,7 +16020,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0973
+StartChar: dev_
 Encoding: 2419 2419 356
 Width: 768
 Flags: W
@@ -16195,7 +16186,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: npu0915_u0930_u094D.blwf.vatu
+StartChar: npu0915_dev_ra_dev_virama.blwf.vatu
 Encoding: 65718 -1 360
 Width: 771
 GlyphClass: 3
@@ -16635,7 +16626,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0900
+StartChar: dev_inverted_candrabi
 Encoding: 2304 2304 367
 Width: 0
 Flags: W
@@ -16664,7 +16655,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni094E
+StartChar: dev_vowel_prishthamatra_E
 Encoding: 2382 2382 368
 Width: 266
 VWidth: 0
@@ -16725,7 +16716,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0955
+StartChar: dev_vowel_candra_long_E
 Encoding: 2389 2389 370
 Width: 0
 VWidth: 0
@@ -16837,7 +16828,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0979
+StartChar: dev_zha
 Encoding: 2425 2425 372
 Width: 728
 VWidth: 0
@@ -16888,7 +16879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni097A
+StartChar: dev_heavy_ya
 Encoding: 2426 2426 373
 Width: 596
 VWidth: 0
@@ -16932,7 +16923,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F2
+StartChar: dev_spacing_candrabindu
 Encoding: 43250 43250 374
 Width: 632
 Flags: W
@@ -16958,7 +16949,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F3
+StartChar: dev_candrabindu_virama
 Encoding: 43251 43251 375
 Width: 632
 Flags: W
@@ -16991,7 +16982,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F4
+StartChar: dev_double_candrabindu_virama
 Encoding: 43252 43252 376
 Width: 632
 Flags: W
@@ -17040,7 +17031,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F5
+StartChar: dev_candrabindu_two
 Encoding: 43253 43253 377
 Width: 654
 Flags: W
@@ -17097,7 +17088,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F6
+StartChar: dev_candrabindu_three
 Encoding: 43254 43254 378
 Width: 650
 Flags: W
@@ -17171,7 +17162,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F7
+StartChar: dev_candrabindu_avagraha
 Encoding: 43255 43255 379
 Width: 626
 Flags: W
@@ -17224,7 +17215,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F8
+StartChar: dev_pushpika
 Encoding: 43256 43256 380
 Width: 709
 Flags: W
@@ -17277,7 +17268,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F9
+StartChar: dev_gap_filler
 Encoding: 43257 43257 381
 Width: 709
 Flags: W
@@ -17319,7 +17310,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8FA
+StartChar: dev_caret
 Encoding: 43258 43258 382
 Width: 615
 Flags: W
@@ -17337,7 +17328,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8FB
+StartChar: dev_headstroke
 Encoding: 43259 43259 383
 Width: 621
 Flags: W
@@ -17352,7 +17343,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57929
+StartChar: dev_apostrophe
 Encoding: 700 700 384
 Width: 314
 VWidth: 2048
@@ -17470,7 +17461,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E0
+StartChar: dev_combining_digit_zero
 Encoding: 43232 43232 387
 Width: 0
 VWidth: 0
@@ -17499,7 +17490,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E1
+StartChar: dev_combining_digit_one
 Encoding: 43233 43233 388
 Width: 0
 Flags: W
@@ -17531,7 +17522,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E2
+StartChar: dev_combining_digit_two
 Encoding: 43234 43234 389
 Width: 0
 VWidth: 0
@@ -17570,7 +17561,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E3
+StartChar: dev_combining_digit_three
 Encoding: 43235 43235 390
 Width: 0
 VWidth: 0
@@ -17621,7 +17612,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E4
+StartChar: dev_combining_digit_four
 Encoding: 43236 43236 391
 Width: 0
 VWidth: 0
@@ -17672,7 +17663,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E5
+StartChar: dev_combining_digit_five
 Encoding: 43237 43237 392
 Width: 0
 VWidth: 0
@@ -17721,7 +17712,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E6
+StartChar: dev_combining_digit_six
 Encoding: 43238 43238 393
 Width: 0
 VWidth: 0
@@ -17772,7 +17763,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E7
+StartChar: dev_combining_digit_seven
 Encoding: 43239 43239 394
 Width: 0
 VWidth: 0
@@ -17814,7 +17805,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E8
+StartChar: dev_combining_digit_eight
 Encoding: 43240 43240 395
 Width: 0
 VWidth: 0
@@ -17844,7 +17835,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8E9
+StartChar: dev_combining_digit_nine
 Encoding: 43241 43241 396
 Width: 0
 VWidth: 0
@@ -17888,7 +17879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8EA
+StartChar: dev_combining_letter_a
 Encoding: 43242 43242 397
 Width: 0
 VWidth: 0
@@ -17952,7 +17943,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8EB
+StartChar: dev_combining_letter_u
 Encoding: 43243 43243 398
 Width: 0
 VWidth: 0
@@ -17995,7 +17986,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8EC
+StartChar: dev_combining_letter_ka
 Encoding: 43244 43244 399
 Width: 0
 VWidth: 0
@@ -18051,7 +18042,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8ED
+StartChar: dev_combining_letter_na
 Encoding: 43245 43245 400
 Width: 0
 VWidth: 0
@@ -18083,7 +18074,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8EE
+StartChar: dev_combining_letter_pa
 Encoding: 43246 43246 401
 Width: 0
 VWidth: 0
@@ -18116,7 +18107,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8EF
+StartChar: dev_combining_letter_ra
 Encoding: 43247 43247 402
 Width: 0
 VWidth: 0
@@ -18153,7 +18144,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F0
+StartChar: dev_combining_letter_vi
 Encoding: 43248 43248 403
 Width: 0
 VWidth: 0
@@ -18213,7 +18204,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA8F1
+StartChar: dev_combining_sign_avagraha
 Encoding: 43249 43249 404
 Width: 0
 VWidth: 0
