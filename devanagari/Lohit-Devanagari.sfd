@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377606229
+ModificationTime: 1377674733
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,12 +51,14 @@ OS2StrikeYSize: 67
 OS2StrikeYPos: 333
 OS2Vendor: 'ACE '
 Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'locl' Localized Forms lookup 8"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 1"  {"'nukt' Nukta Forms lookup 1-1"  } ['nukt' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  } ['rkrf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  } ['rkrf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 8"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -10791,6 +10793,7 @@ SplineSet
  365 606 l 1,93,-1
  -13 606 l 1,29,-1
 EndSplineSet
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_ka dev_halant dev_ka
 EndChar
 
 StartChar: dev_tka
@@ -10841,6 +10844,7 @@ SplineSet
  398 606 l 1,45,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_ta dev_halant dev_ka
 EndChar
 
 StartChar: dev_kla
@@ -10923,6 +10927,7 @@ SplineSet
  360 606 l 1,94,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_ka dev_halant dev_la
 EndChar
 
 StartChar: dev_kva
@@ -10989,6 +10994,7 @@ SplineSet
  364 606 l 1,69,-1
  -13 606 l 1,10,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_ka dev_halant dev_va
 EndChar
 
 StartChar: dev_gna
@@ -11037,6 +11043,7 @@ SplineSet
  125 606 l 1,46,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_ga dev_halant dev_na
 EndChar
 
 StartChar: dev_ngka
@@ -11233,6 +11240,7 @@ SplineSet
  466 606 l 1,120,-1
  -13 606 l 1,12,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_kha
 EndChar
 
 StartChar: dev_ngga
@@ -11312,6 +11320,7 @@ SplineSet
  434 606 l 1,87,-1
  -13 606 l 1,12,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_ga
 EndChar
 
 StartChar: dev_nggha
@@ -11401,6 +11410,7 @@ SplineSet
  439 606 l 1,99,-1
  -13 606 l 1,37,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_gha
 EndChar
 
 StartChar: dev_ngma
@@ -11479,6 +11489,7 @@ SplineSet
  461 606 l 1,81,-1
  -13 606 l 1,21,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_ma
 EndChar
 
 StartChar: dev_ngksha
@@ -11591,6 +11602,7 @@ SplineSet
  -13 606 l 1,134,-1
  -13 666 l 1,43,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_ksha
 EndChar
 
 StartChar: dev_chcha
@@ -12691,6 +12703,7 @@ SplineSet
  382 606 l 1,63,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_ga
 EndChar
 
 StartChar: dev
@@ -13132,6 +13145,7 @@ SplineSet
  261 606 l 1,42,-1
  -13 606 l 1,13,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_ma
 EndChar
 
 StartChar: dev_dya
@@ -15885,7 +15899,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0956
+StartChar: dev_vowel_UE
 Encoding: 2390 2390 352
 Width: 0
 Flags: W
@@ -15907,7 +15921,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0957
+StartChar: dev_vowel_UUE
 Encoding: 2391 2391 353
 Width: 0
 Flags: W
@@ -15940,7 +15954,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0976
+StartChar: dev_ue
 Encoding: 2422 2422 354
 Width: 768
 Flags: W
@@ -16009,7 +16023,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0977
+StartChar: dev_uue
 Encoding: 2423 2423 355
 Width: 768
 Flags: W
@@ -16089,7 +16103,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_
+StartChar: dev_oe
 Encoding: 2419 2419 356
 Width: 768
 Flags: W
@@ -16151,7 +16165,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0974
+StartChar: dev_ooe
 Encoding: 2420 2420 357
 Width: 1042
 Flags: W
@@ -16216,7 +16230,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni093A
+StartChar: dev_vowl_OE
 Encoding: 2362 2362 358
 Width: 0
 Flags: W
@@ -16232,7 +16246,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni093B
+StartChar: dev_vowel_OE
 Encoding: 2363 2363 359
 Width: 266
 Flags: W
@@ -16584,7 +16598,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nepali_jha_091d
+StartChar: nepali_jha
 Encoding: 65723 -1 365
 Width: 913
 GlyphClass: 2
@@ -16645,7 +16659,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nepali_jha_half
+StartChar: nepali_half_jha
 Encoding: 65724 -1 366
 Width: 702
 Flags: W
@@ -16742,7 +16756,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_aw
+StartChar: dev_vowel_aw
 Encoding: 2383 2383 369
 Width: 266
 VWidth: 0
@@ -16815,7 +16829,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0975
+StartChar: dev_aw
 Encoding: 2421 2421 371
 Width: 1042
 VWidth: 0
