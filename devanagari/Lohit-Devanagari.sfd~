@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377674733
+ModificationTime: 1377756144
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,21 +50,24 @@ OS2SupYOff: 666
 OS2StrikeYSize: 67
 OS2StrikeYPos: 333
 OS2Vendor: 'ACE '
-Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "'locl' Localized Forms lookup 8"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
+Lookup: 4 0 0 "'locl' Localized Forms lookup 1"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup 2"  {"'locl' Localized Forms lookup 9-1"  } ['locl' ('DFLT' <'dflt' > 'dev ' <'NEP ' 'dflt' > 'deva' <'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'locl' Localized Forms lookup 3"  {"'locl' Localized Forms lookup 11-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'NEP ' 'dflt' > 'deva' <'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized half Forms lookup 4"  {"'locl' Localized half Forms lookup 11-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'dflt' > 'deva' <'MAR ' 'dflt' > ) ]
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 1"  {"'nukt' Nukta Forms lookup 1-1"  } ['nukt' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  } ['rkrf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  } ['rkrf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 8"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 7"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 3"  {"'abvm' Above Base Mark in Devanagari lookup 3"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above Base Mark in Devanagari lookup 4"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
+Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above Base Mark in Devanagari lookup 4" [153,15,0] } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
+Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -2167,6 +2170,7 @@ SplineSet
  329 8 329 8 352 0 c 1,70,-1
  318 -47 l 1,21,22
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 9-1" nepali_jha
 PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-85 dy=-16 dh=0 dv=0
 EndChar
 
@@ -10237,6 +10241,7 @@ SplineSet
  373 606 l 1,24,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ta dev_halant dev_ra 
 EndChar
 
 StartChar: dev_dra
@@ -10927,7 +10932,6 @@ SplineSet
  360 606 l 1,94,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_ka dev_halant dev_la
 EndChar
 
 StartChar: dev_kva
@@ -10994,7 +10998,6 @@ SplineSet
  364 606 l 1,69,-1
  -13 606 l 1,10,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_ka dev_halant dev_va
 EndChar
 
 StartChar: dev_gna
@@ -11043,7 +11046,6 @@ SplineSet
  125 606 l 1,46,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_ga dev_halant dev_na
 EndChar
 
 StartChar: dev_ngka
@@ -11240,7 +11242,6 @@ SplineSet
  466 606 l 1,120,-1
  -13 606 l 1,12,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_kha
 EndChar
 
 StartChar: dev_ngga
@@ -11320,7 +11321,6 @@ SplineSet
  434 606 l 1,87,-1
  -13 606 l 1,12,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_ga
 EndChar
 
 StartChar: dev_nggha
@@ -11410,7 +11410,6 @@ SplineSet
  439 606 l 1,99,-1
  -13 606 l 1,37,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_gha
 EndChar
 
 StartChar: dev_ngma
@@ -11489,7 +11488,6 @@ SplineSet
  461 606 l 1,81,-1
  -13 606 l 1,21,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_ma
 EndChar
 
 StartChar: dev_ngksha
@@ -11602,7 +11600,6 @@ SplineSet
  -13 606 l 1,134,-1
  -13 666 l 1,43,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_nga dev_halant dev_ksha
 EndChar
 
 StartChar: dev_chcha
@@ -12835,7 +12832,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dev_da_dev_virama.half_u0927.pres
+StartChar: dev_da_halant_dha
 Encoding: 65668 -1 293
 Width: 732
 GlyphClass: 2
@@ -13611,6 +13608,7 @@ SplineSet
  60 313 l 1,60,-1
  13 360 l 1,23,-1
 EndSplineSet
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_ca
 EndChar
 
 StartChar: dev_shrna
@@ -13671,6 +13669,7 @@ SplineSet
  173.855 64.1536 173.855 64.1536 157.5 81.5 c 128,-1,57
  141 99 141 99 141 120 c 0,10,11
 EndSplineSet
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_na
 EndChar
 
 StartChar: dev_shla
@@ -13796,6 +13795,7 @@ SplineSet
  237 93 237 93 184.5 130.5 c 128,-1,12
  132 168 132 168 132 220 c 128,-1,13
 EndSplineSet
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_va
 EndChar
 
 StartChar: dev_sstta
@@ -16269,7 +16269,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: npu0915_dev_ra_dev_virama.blwf.vatu
+StartChar: nep_kra
 Encoding: 65718 -1 360
 Width: 771
 GlyphClass: 3
@@ -16277,44 +16277,6 @@ Flags: W
 AnchorPoint: "Anchor-3" 394 31 basechar 0
 AnchorPoint: "Anchor-0" 396.5 666.22 basechar 0
 LayerCount: 2
-Back
-SplineSet
-365 374 m 5,0,1
- 296.183 442.352 296.183 442.352 272.5 460.5 c 4,2,3
- 219.186 501.354 219.186 501.354 176 507 c 4,4,5
- 137.185 512.075 137.185 512.075 9 422 c 5,6,-1
- 49 368 l 5,7,8
- 145.654 438 145.654 438 167 437 c 5,9,10
- 189.037 437 189.037 437 232.5 399.5 c 4,11,12
- 302.862 338.791 302.862 338.791 315 326 c 5,13,-1
- 147 197 l 5,14,-1
- 180 144 l 5,15,-1
- 364 286 l 5,16,-1
- 365 227 l 5,17,-1
- 365 0 l 5,18,-1
- 431 0 l 5,19,-1
- 431 328 l 5,20,21
- 448 372 448 372 486.5 405.5 c 132,-1,22
- 525 439 525 439 571 439 c 4,23,24
- 607 439 607 439 632.5 406 c 132,-1,25
- 658 373 658 373 658 326 c 4,26,27
- 658 272 658 272 626 219 c 132,-1,28
- 594 166 594 166 538 127 c 5,29,-1
- 598 87 l 5,30,31
- 658 137 658 137 691 199.5 c 132,-1,32
- 724 262 724 262 724 326 c 4,33,34
- 724 401 724 401 679.5 453.5 c 132,-1,35
- 635 506 635 506 571 506 c 4,36,37
- 527 506 527 506 490 484.5 c 132,-1,38
- 453 463 453 463 431 426 c 5,39,-1
- 431 606 l 5,40,-1
- 783 606 l 5,41,-1
- 783 666 l 5,42,-1
- -13 666 l 5,43,-1
- -13 606 l 5,44,-1
- 365 606 l 5,45,-1
- 365 374 l 5,0,1
-EndSplineSet
 Fore
 SplineSet
 365 373 m 1,0,1
@@ -16355,6 +16317,8 @@ SplineSet
  220 480 220 480 267 451.5 c 128,-1,46
  314 423 314 423 365 373 c 1,0,1
 EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "'locl' Localized Forms lookup 11-1" dev_ka dev_halant dev_ra
 EndChar
 
 StartChar: nep_eight
@@ -16386,6 +16350,7 @@ SplineSet
  180.398 280.746 180.398 280.746 192.513 292.397 c 2,26,-1
  425.177 516.162 l 1,0,-1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 9-1" nep_eight
 EndChar
 
 StartChar: nep_five
@@ -16431,6 +16396,7 @@ SplineSet
  397 290 397 290 419 306 c 1,49,50
  453.5 209 453.5 209 412 73 c 1,0,1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 9-1" nep_five
 EndChar
 
 StartChar: np_zha
@@ -18364,6 +18330,7 @@ SplineSet
  458 665 l 9,41,-1
  458 605 l 17,0,-1
 EndSplineSet
+Substitution2: "'locl' Localized half Forms lookup 11-1" mr_sha dev_halant
 EndChar
 EndChars
 EndSplineFont
