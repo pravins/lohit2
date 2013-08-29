@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377756208
+ModificationTime: 1377760354
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,6 +62,8 @@ Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  }
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 7"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "LongE-Matra"  {"LongE-Matra-1"  } []
+Lookup: 5 0 0 "'pres' Pre Base Substitutions lookup 13"  {} ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -384,7 +386,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: SignI_extended_1
+StartChar: dev_signI_extended_1
 Encoding: 65537 -1 1
 Width: 266
 GlyphClass: 2
@@ -12703,7 +12705,7 @@ EndSplineSet
 Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_ga
 EndChar
 
-StartChar: dev
+StartChar: dev_da_halant_gha
 Encoding: 65666 -1 291
 Width: 665
 GlyphClass: 2
@@ -12774,6 +12776,7 @@ SplineSet
  510 606 l 1,79,-1
  -13 606 l 1,29,-1
 EndSplineSet
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_gha 
 EndChar
 
 StartChar: dev_da_with_half_da
