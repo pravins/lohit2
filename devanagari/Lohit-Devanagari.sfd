@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377834513
+ModificationTime: 1377839361
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ OS2StrikeYSize: 67
 OS2StrikeYPos: 333
 OS2Vendor: 'ACE '
 Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
-Lookup: 4 0 0 "'locl' Localized Forms lookup 1"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'locl' Localized Forms lookup 1"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms lookup 2"  {"'locl' Localized Forms lookup 9-1"  } ['locl' ('DFLT' <'dflt' > 'dev ' <'NEP ' 'dflt' > 'deva' <'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'locl' Localized Forms lookup 3"  {"'locl' Localized Forms lookup 11-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'NEP ' 'dflt' > 'deva' <'NEP ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized half Forms lookup 4"  {"'locl' Localized half Forms lookup 11-1"  } ['locl' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'dflt' > 'deva' <'MAR ' 'dflt' > ) ]
@@ -63,7 +63,7 @@ Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms look
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 7"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 1 0 0 "LongE-Matra"  {"LongE-Matra-1"  } []
-Lookup: 5 0 0 "'pres' Pre Base Substitutions lookup 13"  {} ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {} ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -1369,7 +1369,7 @@ SplineSet
  353.314 721.73 353.314 721.73 315 762.5 c 0,52,53
  276 804 276 804 221 804 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_E
@@ -1862,7 +1862,7 @@ SplineSet
  226 606 l 1,61,-1
  -13 606 l 1,40,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_ga
@@ -3417,7 +3417,7 @@ SplineSet
  310 426 l 2,28,29
  310 404.747 310 404.747 304.488 386 c 1,24,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-88 dy=117 dh=0 dv=0
 EndChar
 
@@ -3525,7 +3525,7 @@ SplineSet
  398 115 398 115 353.5 60 c 128,-1,34
  309 5 309 5 245 5 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_vowel_AA
@@ -3582,6 +3582,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "LongE-Matra-1" dev_signI_extended_1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
 EndChar
 
@@ -5699,7 +5700,7 @@ SplineSet
  225 4 225 4 162.5 70.5 c 128,-1,46
  100 137 100 137 100 225 c 1,13,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -5836,7 +5837,7 @@ SplineSet
  289.74 546.026 l 1,17,-1
  209.844 399.55 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -5964,7 +5965,7 @@ SplineSet
  555 7 l 1,31,-1
  79 7 l 1,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: three
@@ -6700,7 +6701,7 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 Validated: 513
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=93 dy=-97 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=93 dy=-97 dh=0 dv=0
 EndChar
 
 StartChar: dev_vowel_E_rphf_anuswara
@@ -6795,7 +6796,7 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 Validated: 513
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=119 dy=-109 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=119 dy=-109 dh=0 dv=0
 EndChar
 
 StartChar: dev_vowel_AI_rphf_anuswara
@@ -8777,7 +8778,7 @@ SplineSet
  250 606 l 1,24,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "'half' Half Forms lookup 6-1" dev_sa dev_halant
 EndChar
 
@@ -8938,7 +8939,7 @@ SplineSet
  241 606 l 1,62,-1
  -13 606 l 1,30,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'half' Half Forms lookup 6-1" dev_khha dev_halant
 EndChar
 
@@ -9381,7 +9382,7 @@ SplineSet
  100 606 l 1,46,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
 EndChar
 
@@ -9435,7 +9436,7 @@ SplineSet
  759 746 l 1,50,-1
  686 746 l 1,47,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_vowel_short_III
@@ -10488,7 +10489,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ta dev_halant dev_ra 
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ta dev_halant dev_ra
 EndChar
 
 StartChar: dev_dra
@@ -10573,7 +10574,7 @@ SplineSet
  91 606 l 1,24,-1
  -13 606 l 1,10,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pa dev_halant dev_ra
 EndChar
 
@@ -10854,7 +10855,7 @@ SplineSet
  305 447 l 2,34,35
  305 408.236 305 408.236 299.734 386 c 1,30,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sa dev_halant dev_ra
 EndChar
 
@@ -10970,7 +10971,7 @@ SplineSet
  100 304 100 304 47 266 c 1,61,-1
  13 313 l 1,12,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_kkka
@@ -11404,7 +11405,7 @@ SplineSet
  450 606 l 1,112,-1
  -13 606 l 1,12,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_ngkha
@@ -11505,7 +11506,7 @@ SplineSet
  466 606 l 1,120,-1
  -13 606 l 1,12,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_ngga
@@ -11867,7 +11868,7 @@ SplineSet
  -13 606 l 1,134,-1
  -13 666 l 1,43,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_chcha
@@ -12770,7 +12771,7 @@ SplineSet
  470 606 l 1,80,-1
  -13 606 l 1,18,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_ddhha
@@ -13249,7 +13250,7 @@ SplineSet
  411 606 l 1,55,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 524801
+Validated: 513
 EndChar
 
 StartChar: dev_dba
@@ -13315,7 +13316,7 @@ SplineSet
  391 606 l 1,68,-1
  -13 606 l 1,17,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_dbha
@@ -13385,7 +13386,7 @@ SplineSet
  453 606 l 1,74,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_dma
@@ -13602,7 +13603,7 @@ SplineSet
  497 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_pta
@@ -13971,7 +13972,7 @@ SplineSet
  173.855 64.1536 173.855 64.1536 157.5 81.5 c 128,-1,57
  141 99 141 99 141 120 c 0,10,11
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_na
 EndChar
 
@@ -14037,7 +14038,7 @@ SplineSet
  746 606 l 1,65,-1
  426 606 l 1,12,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_shrva
@@ -14651,7 +14652,7 @@ SplineSet
  238 606 l 5,54,-1
  -13 606 l 5,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_jjja
@@ -15317,7 +15318,7 @@ SplineSet
  370 -166 l 1,100,-1
  310 -166 l 1,12,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_vowel_O_dev_anusvara.abvs
@@ -15466,7 +15467,7 @@ Validated: 1
 LCarets2: 1 0 
 EndChar
 
-StartChar: dev_vowel_AU_dev_ra_dev_virama.rphf.abvs
+StartChar: dev_vowel_AU_rphf
 Encoding: 65710 -1 335
 Width: 266
 GlyphClass: 2
@@ -15502,11 +15503,10 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=127 dy=-105 dh=0 dv=0
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=127 dy=-105 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 EndChar
 
-StartChar: dev_vowel_AU_dev_ra_dev_virama.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_AU_rphf_anuswar
 Encoding: 65711 -1 336
 Width: 266
 GlyphClass: 2
@@ -15547,7 +15547,6 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
 EndChar
 
 StartChar: dev_trra
@@ -16244,7 +16243,7 @@ SplineSet
  70 396 l 1,25,26
  345.891 394 345.891 394 358 500 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_vowel_UE
@@ -16709,7 +16708,7 @@ SplineSet
  549 517 l 1,31,-1
  425 516 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'locl' Localized Forms lookup 9-1" nep_eight
 EndChar
 
@@ -16756,7 +16755,7 @@ SplineSet
  397 290 397 290 419 306 c 1,49,50
  454 209 454 209 412 73 c 1,0,1
 EndSplineSet
-Validated: 524329
+Validated: 41
 Substitution2: "'locl' Localized Forms lookup 9-1" nep_five
 EndChar
 
@@ -16815,7 +16814,7 @@ SplineSet
  326 596 326 596 352 526 c 0,68,69
  370.188 478.088 370.188 478.088 371.972 425.639 c 1,0,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_ddhyra
@@ -16924,7 +16923,7 @@ SplineSet
  746 606 l 1,130,-1
  643 606 l 1,111,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: nepali_jha
@@ -16986,7 +16985,7 @@ SplineSet
  218 206 218 206 168.5 256 c 128,-1,62
  119 306 119 306 119 326 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: nepali_half_jha
@@ -17037,7 +17036,7 @@ SplineSet
  633.141 460 633.141 460 738 435 c 1,46,-1
  737 374 l 1,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_inverted_candrabi
@@ -17086,7 +17085,7 @@ SplineSet
  100 0 l 1,5,-1
  100.005 666 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_vowel_aw
@@ -17130,7 +17129,7 @@ SplineSet
  128.982 827.985 128.982 827.985 153.777 763.195 c 0,40,41
  171.179 717.721 171.179 717.721 166.537 666 c 1,0,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_vowel_candra_long_E
@@ -17244,7 +17243,7 @@ SplineSet
  477 148 477 148 428.5 97.5 c 128,-1,98
  380 47 380 47 310 47 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_zha
@@ -17341,7 +17340,7 @@ SplineSet
  156 574 156 574 124 606 c 1,38,-1
  -13 606 l 1,19,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_spacing_candrabindu
@@ -17368,7 +17367,7 @@ SplineSet
  512.4 537.3 512.4 537.3 452.4 484.8 c 128,-1,17
  392.4 432.3 392.4 432.3 313.4 432.3 c 0,4,5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_candrabindu_virama
@@ -17402,7 +17401,7 @@ SplineSet
  512.4 537.3 512.4 537.3 452.4 484.8 c 128,-1,23
  392.4 432.3 392.4 432.3 313.4 432.3 c 0,10,11
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_double_candrabindu_virama
@@ -17452,7 +17451,7 @@ SplineSet
  512.4 537.3 512.4 537.3 452.4 484.8 c 128,-1,41
  392.4 432.3 392.4 432.3 313.4 432.3 c 0,28,29
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_candrabindu_two
@@ -17510,7 +17509,7 @@ SplineSet
  464.738 -64.1619 l 1,66,-1
  411.119 -95.937 l 1,18,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_candrabindu_three
@@ -17585,7 +17584,7 @@ SplineSet
  360.046 -147.018 l 1,93,-1
  356.162 -145.177 l 2,18,19
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_candrabindu_avagraha
@@ -17639,7 +17638,7 @@ SplineSet
  428.875 37.2689 428.875 37.2689 393.273 2.06679 c 128,-1,61
  357.707 -33.0996 357.707 -33.0996 305.412 -33.0996 c 0,18,19
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_pushpika
@@ -17693,7 +17692,7 @@ SplineSet
  383 412 383 412 414.5 453.5 c 0,12,13
 247.4 606 m 0,58,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_gap_filler
@@ -17736,7 +17735,7 @@ SplineSet
  450 318 450 318 469.5 281 c 1,46,-1
  469.5 281 l 1,0,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_caret
@@ -17755,7 +17754,7 @@ SplineSet
  132 945 l 1,7,-1
  308.06 715.464 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_headstroke
@@ -17796,7 +17795,7 @@ SplineSet
  217.8 857.6 l 1,12,-1
  217.8 770.6 l 2,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: mr_la
@@ -17845,7 +17844,7 @@ SplineSet
  637.591 56.55 637.591 56.55 561.7 18.9664 c 9,50,51
  525.7 74.5787 l 17,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: mr_sha
@@ -17922,7 +17921,7 @@ SplineSet
  -11.2383 840.961 -11.2383 840.961 -45.0732 807.459 c 128,-1,10
  -78.8955 773.974 -78.8955 773.974 -127.093 773.974 c 128,-1,11
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_one
@@ -17955,7 +17954,7 @@ SplineSet
  -196.885 1047.45 -196.885 1047.45 -155.03 1047.45 c 0,30,31
  -105.832 1047.45 -105.832 1047.45 -76.1953 1022.11 c 1,13,14
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_two
@@ -17995,7 +17994,7 @@ SplineSet
  -47.2998 718.601 l 1,43,-1
  -83.5615 697.112 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_three
@@ -18047,7 +18046,7 @@ SplineSet
  -108.886 697.647 l 1,64,-1
  -110.635 698.394 l 2,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_four
@@ -18099,7 +18098,7 @@ SplineSet
  -24.2578 768.591 -24.2578 768.591 -54.833 745.994 c 0,64,65
  -84.8867 723.781 -84.8867 723.781 -127.088 723.781 c 0,14,15
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_five
@@ -18149,7 +18148,7 @@ SplineSet
  -42.7451 903.541 -42.7451 903.541 -56.0732 891.709 c 1,61,-1
  -24.0596 814.879 l 1,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dev_combining_digit_six
@@ -18201,7 +18200,7 @@ SplineSet
  -52.7588 697.566 l 1,65,-1
  -54.9199 699.392 l 2,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_seven
@@ -18244,7 +18243,7 @@ SplineSet
  13.2031 813.093 13.2031 813.093 -23.8379 767.504 c 0,49,50
  -61.1602 721.566 -61.1602 721.566 -123.647 721.566 c 0,16,17
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_eight
@@ -18275,7 +18274,7 @@ SplineSet
  -27.6045 751.826 -27.6045 751.826 -60.1357 737.567 c 128,-1,26
  -92.7832 723.259 -92.7832 723.259 -125.223 723.259 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_digit_nine
@@ -18320,7 +18319,7 @@ SplineSet
  -65.1807 750.86 -65.1807 750.86 -70.5117 756.365 c 0,55,56
  -76.792 762.855 -76.792 762.855 -89.9004 774.652 c 1,16,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_a
@@ -18385,7 +18384,7 @@ SplineSet
  -118.855 797.073 -118.855 797.073 -147.156 773.5 c 0,79,80
  -175.153 750.18 -175.153 750.18 -214.855 750.18 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_u
@@ -18429,7 +18428,7 @@ SplineSet
  -93.8408 988.481 -93.8408 988.481 -108.243 998.176 c 1,47,-1
  -349.025 998.175 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_ka
@@ -18486,7 +18485,7 @@ SplineSet
  -147.936 997.681 l 1,68,-1
  -324.91 997.681 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_na
@@ -18519,7 +18518,7 @@ SplineSet
  -230.767 831.614 -230.767 831.614 -262.466 863.657 c 128,-1,25
  -294.146 895.687 -294.146 895.687 -294.146 909.23 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_pa
@@ -18553,7 +18552,7 @@ SplineSet
  -195.821 813.806 -195.821 813.806 -226.039 837.06 c 0,26,27
  -256.705 860.657 -256.705 860.657 -256.705 894.538 c 2,11,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_ra
@@ -18591,7 +18590,7 @@ SplineSet
  -110.896 997.852 l 1,34,-1
  -281.192 997.852 l 1,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_letter_vi
@@ -18652,7 +18651,7 @@ SplineSet
  -29.541 1063.17 -29.541 1063.17 6.11328 1013.36 c 2,71,-1
  8.81641 1009.58 l 1,13,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: dev_combining_sign_avagraha
@@ -18691,7 +18690,7 @@ SplineSet
  -36.4238 787.449 -36.4238 787.449 -62.291 761.872 c 128,-1,42
  -88.1387 736.313 -88.1387 736.313 -125.282 736.313 c 0,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: mr_half_sha
