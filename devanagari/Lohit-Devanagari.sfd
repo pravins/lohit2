@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1377848519
+ModificationTime: 1378126655
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -66,6 +66,8 @@ Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {"'pres' Pre Base Subst
 Lookup: 1 0 0 "LongE Matra"  {"LongE Matra1"  } []
 Lookup: 6 0 0 "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 "  {"+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "extended_E_matra"  {"extended_E_matra-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "RA_matra"  {"RA_matra-1"  } []
+Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 18"  {"'pres' Pre Base Substitutions lookup 18-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -74,10 +76,16 @@ Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above 
 Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  0 0 0 1
- 2 0 1
+ChainSub2: coverage "'pres' Pre Base Substitutions lookup 18-1"  0 0 0 1
+ 1 0 1
   Coverage: 11 dev_vowel_I
-  Coverage: 20 dev_vowel_extended_I
+  FCoverage: 18 dev_ttta dev_tttha
+ 1
+  SeqLookup: 0 "RA_matra" 
+EndFPST
+ChainSub2: coverage "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  0 0 0 1
+ 1 0 1
+  Coverage: 11 dev_vowel_I
   FCoverage: 619 dev_half_ka dev_half_kha dev_half_ga dev_half_gha dev_half_nga dev_half_ca dev_half_cha dev_half_ja dev_half_jha dev_half_nya dev_half_tta dev_half_ttha dev_half_dda dev_half_ddha dev_half_nna dev_half_ta dev_half_tha dev_half_da dev_half_dha dev_half_na dev_half_nnna dev_half_pa dev_half_pha dev_half_ba dev_half_bha dev_half_ma dev_half_ya dev_half_la dev_half_lla dev_half_llla dev_half_va dev_half_sha dev_half_ssa dev_half_sa dev_half_ha dev_half_qa dev_half_khha dev_half_ghha dev_half_za dev_half_fa dev_half_shra dev_half_tra dev_half_ttta dev_half_ksha dev_half_dnya dev_aya dev_tya dev_thya dev_ddya dev_dhya
  1
   SeqLookup: 0 "extended_E_matra" 
@@ -85,7 +93,7 @@ EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-1"  0 0 0 1
  1 0 1
   Coverage: 11 dev_vowel_I
-  FCoverage: 38 dev_kha dev_cha dev_ja dev_jha dev_nya
+  FCoverage: 122 dev_kha dev_ja dev_jha dev_tha dev_dha dev_la dev_sa dev_shra dev_dnya dev_khra dev_jra dev_jhra dev_sra dev_thra dev_dhra
  1
   SeqLookup: 0 "LongE Matra" 
 EndFPST
@@ -3599,6 +3607,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "RA_matra-1" dev_vowel_short_III
 Substitution2: "extended_E_matra-1" dev_vowel_extended_I
 Substitution2: "LongE Matra1" dev_signI_extended_1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
@@ -8460,7 +8469,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=1015 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: dev_vowel_extended_I_anuswara
