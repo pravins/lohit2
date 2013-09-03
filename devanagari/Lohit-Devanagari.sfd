@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378193324
+ModificationTime: 1378195365
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9218,6 +9218,7 @@ SplineSet
  298 0 l 1,4,5
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ta dev_half_ta
 Ligature2: "'half' Half Forms lookup 6-1" dev_ta_with_half_ta dev_halant
 EndChar
 
@@ -12173,6 +12174,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nya dev_ca
 EndChar
 
 StartChar: dev_nyja
@@ -12231,6 +12233,7 @@ SplineSet
  1 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nya dev_ja
 EndChar
 
 StartChar: dev_ttta
@@ -12286,6 +12289,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_tta
 EndChar
 
 StartChar: dev_tttha
@@ -12346,6 +12350,8 @@ SplineSet
  -13 606 l 1,14,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ttha dev_ttha
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_ttha
 EndChar
 
 StartChar: dev_tya
@@ -12409,6 +12415,7 @@ SplineSet
  -13 606 l 1,18,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_ya
 EndChar
 
 StartChar: dev_twa
@@ -12468,6 +12475,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_va
 EndChar
 
 StartChar: dev_thha
@@ -12601,6 +12609,7 @@ SplineSet
  -13 606 l 1,18,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ttha dev_ya
 EndChar
 
 StartChar: dev_dda_with_half_dda
@@ -12676,6 +12685,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_dda dev_dda
 EndChar
 
 StartChar: dev_dda_with_half_ddha
@@ -12754,6 +12764,7 @@ SplineSet
  -13 606 l 1,10,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_dda dev_ddha
 EndChar
 
 StartChar: dev_ddya
@@ -12827,6 +12838,7 @@ SplineSet
  -13 606 l 1,18,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_dda dev_ya
 EndChar
 
 StartChar: dev_ddhha
@@ -12905,6 +12917,7 @@ SplineSet
  -13 606 l 1,22,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ddha dev_ddha
 EndChar
 
 StartChar: dev_dhya
@@ -12980,6 +12993,7 @@ SplineSet
  -13 606 l 1,30,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ddha dev_ya
 EndChar
 
 StartChar: dev_dga
@@ -13116,6 +13130,7 @@ SplineSet
  -13 606 l 1,29,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_gha
 Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_gha 
 EndChar
 
@@ -13174,6 +13189,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_da
 EndChar
 
 StartChar: dev_da_halant_dha
@@ -13250,6 +13266,7 @@ SplineSet
  -13 606 l 1,17,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_dha
 Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_dha
 EndChar
 
@@ -13372,6 +13389,7 @@ SplineSet
  -13 606 l 1,17,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_ba
 EndChar
 
 StartChar: dev_dbha
@@ -13442,6 +13460,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_bha
 EndChar
 
 StartChar: dev_dma
@@ -13492,6 +13511,7 @@ SplineSet
  -13 606 l 1,13,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_ma
 Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_ma
 EndChar
 
@@ -13545,6 +13565,7 @@ SplineSet
  -13 606 l 1,23,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_ya
 EndChar
 
 StartChar: dev_dva
@@ -13606,6 +13627,7 @@ SplineSet
  -13 606 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_va
 EndChar
 
 StartChar: dev_na_with_half_na
@@ -13659,6 +13681,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_na dev_na
 EndChar
 
 StartChar: dev_pta
@@ -13700,6 +13723,7 @@ SplineSet
  -13 606 l 1,7,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_pa dev_ta
 EndChar
 
 StartChar: dev_pla
@@ -13904,6 +13928,7 @@ SplineSet
  -13 606 l 1,23,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_la dev_la
 EndChar
 
 StartChar: dev_shrcha
@@ -13966,6 +13991,7 @@ SplineSet
  13 360 l 1,23,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_ca
 Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_ca
 EndChar
 
@@ -14028,6 +14054,7 @@ SplineSet
  141 99 141 99 141 120 c 0,10,11
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_na
 Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_na
 EndChar
 
@@ -14094,6 +14121,7 @@ SplineSet
  426 606 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_la
 EndChar
 
 StartChar: dev_shrva
@@ -14156,6 +14184,7 @@ SplineSet
  132 168 132 168 132 220 c 128,-1,13
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_va
 Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_va
 EndChar
 
@@ -14204,6 +14233,7 @@ SplineSet
  -13 606 l 1,9,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ssa dev_tta
 EndChar
 
 StartChar: dev_ssttha
@@ -14255,6 +14285,7 @@ SplineSet
  -13 606 l 1,9,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ssa dev_ttha
 EndChar
 
 StartChar: dev_hnna
@@ -14321,6 +14352,7 @@ SplineSet
  453 293 l 1,56,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ha dev_nna
 EndChar
 
 StartChar: dev_hna
@@ -14383,6 +14415,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ha dev_na
 EndChar
 
 StartChar: dev_hma
@@ -14450,6 +14483,7 @@ SplineSet
  -13 606 l 1,18,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ha dev_ma
 EndChar
 
 StartChar: dev_hya
@@ -14515,6 +14549,7 @@ SplineSet
  -13 606 l 1,25,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ha dev_ya
 EndChar
 
 StartChar: dev_hlla
@@ -14584,6 +14619,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ha dev_la
 EndChar
 
 StartChar: dev_hva
@@ -14652,6 +14688,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ha dev_va
 EndChar
 
 StartChar: dev_stra
@@ -14708,6 +14745,7 @@ SplineSet
  -13 606 l 5,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_sa dev_tra
 EndChar
 
 StartChar: dev_jjja
@@ -14759,6 +14797,7 @@ SplineSet
  368 20 368 20 313 20 c 0,26,27
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ja dev_half_ja
 EndChar
 
 StartChar: dev_dru
