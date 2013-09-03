@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378126655
+ModificationTime: 1378193324
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,12 +62,14 @@ Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  }
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 7"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {"'pres' Pre Base Substitutions lookup 13-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 1 0 0 "LongE Matra"  {"LongE Matra1"  } []
+Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {"'pres' Pre Base Substitutions lookup 13-3"  "'pres' Pre Base Substitutions lookup 13-1"  "'pres' Pre Base Substitutions lookup 13-2"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single subtitution E matra"  {"Single substitution E matra-1"  "Single subtitution E matra-2"  } []
 Lookup: 6 0 0 "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 "  {"+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "extended_E_matra"  {"extended_E_matra-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "RA_matra"  {"RA_matra-1"  } []
+Lookup: 1 0 0 "single substitution extended E matra"  {"extended_E_matra-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 18"  {"'pres' Pre Base Substitutions lookup 18-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "single substitution RA matra"  {"RA_matra-1"  } []
+Lookup: 1 0 0 "single substitution extended matra"  {"single substitution extended matra-1"  } []
+Lookup: 4 0 0 "'pres' Pre Base Substitutions lookup 19"  {"'pres' Pre Base Substitutions lookup 19-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -76,26 +78,40 @@ Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above 
 Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-3"  0 0 0 1
+ 1 0 1
+  Coverage: 20 dev_vowel_extended_I
+  FCoverage: 106 dev_ta_with_half_ta dev_half_ga dev_half_ghha dev_nycha dev_nyja dev_hnna dev_hna dev_hma dev_hya dev_stra
+ 1
+  SeqLookup: 0 "Single subtitution E matra" 
+EndFPST
+ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-2"  0 0 0 1
+ 1 0 1
+  Coverage: 20 dev_vowel_extended_I
+  FCoverage: 555 dev_kkka dev_tka dev_kla dev_kva dev_gna dev_ngka dev_ngkha dev_ngga dev_nggha dev_ngma dev_ngksha dev_chcha dev_chwa dev_ttta dev_tttha dev_twa dev_thha dev_dda_with_half_dda dev_dda_with_half_ddha dev_ddhha dev_dga dev_da_halant_gha dev_da_with_half_da dev_da_halant_dha dev_da_halant_na dev_dba dev_dbha dev_dma dev_dva dev_na_with_half_na dev_pta dev_pla dev_phla dev_la_with_half_la dev_shrcha dev_shrna dev_shla dev_shrva dev_sstta dev_ssttha dev_hnna dev_hna dev_hlla dev_hva dev_jjja dev_ngk dev_trra dev_nnra dev_yrra dev_srra dev_kshra dev_dnyra
+ 1
+  SeqLookup: 0 "single substitution extended matra" 
+EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 18-1"  0 0 0 1
  1 0 1
   Coverage: 11 dev_vowel_I
-  FCoverage: 18 dev_ttta dev_tttha
+  FCoverage: 35 dev_ttta dev_tttha dev_twa dev_thha
  1
-  SeqLookup: 0 "RA_matra" 
+  SeqLookup: 0 "single substitution RA matra" 
 EndFPST
 ChainSub2: coverage "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  0 0 0 1
  1 0 1
   Coverage: 11 dev_vowel_I
   FCoverage: 619 dev_half_ka dev_half_kha dev_half_ga dev_half_gha dev_half_nga dev_half_ca dev_half_cha dev_half_ja dev_half_jha dev_half_nya dev_half_tta dev_half_ttha dev_half_dda dev_half_ddha dev_half_nna dev_half_ta dev_half_tha dev_half_da dev_half_dha dev_half_na dev_half_nnna dev_half_pa dev_half_pha dev_half_ba dev_half_bha dev_half_ma dev_half_ya dev_half_la dev_half_lla dev_half_llla dev_half_va dev_half_sha dev_half_ssa dev_half_sa dev_half_ha dev_half_qa dev_half_khha dev_half_ghha dev_half_za dev_half_fa dev_half_shra dev_half_tra dev_half_ttta dev_half_ksha dev_half_dnya dev_aya dev_tya dev_thya dev_ddya dev_dhya
  1
-  SeqLookup: 0 "extended_E_matra" 
+  SeqLookup: 0 "single substitution extended E matra" 
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-1"  0 0 0 1
  1 0 1
   Coverage: 11 dev_vowel_I
-  FCoverage: 122 dev_kha dev_ja dev_jha dev_tha dev_dha dev_la dev_sa dev_shra dev_dnya dev_khra dev_jra dev_jhra dev_sra dev_thra dev_dhra
+  FCoverage: 131 dev_kha dev_ja dev_jha dev_tha dev_dha dev_la dev_sa dev_khha dev_shra dev_dnya dev_khra dev_jra dev_jhra dev_sra dev_thra dev_dhra
  1
-  SeqLookup: 0 "LongE Matra" 
+  SeqLookup: 0 "Single subtitution E matra" 
 EndFPST
 TtTable: prep
 NPUSHB
@@ -3609,7 +3625,7 @@ EndSplineSet
 Validated: 1
 Substitution2: "RA_matra-1" dev_vowel_short_III
 Substitution2: "extended_E_matra-1" dev_vowel_extended_I
-Substitution2: "LongE Matra1" dev_signI_extended_1
+Substitution2: "Single substitution E matra-1" dev_signI_extended_1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
 EndChar
 
@@ -8469,6 +8485,8 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "single substitution extended matra-1" dev_vowel_short_III
+Substitution2: "Single subtitution E matra-2" dev_signI_extended_1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
 EndChar
 
@@ -10999,6 +11017,7 @@ SplineSet
  13 313 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_sha dev_vowel_vocalic_R
 EndChar
 
 StartChar: dev_kkka
@@ -11136,6 +11155,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ka dev_ta
 Ligature2: "'locl' Localized Forms lookup 8-1" dev_ta dev_halant dev_ka
 EndChar
 
@@ -11336,6 +11356,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ga dev_na
 EndChar
 
 StartChar: dev_ngka
@@ -11433,6 +11454,7 @@ SplineSet
  -13 606 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nga dev_ka
 EndChar
 
 StartChar: dev_ngkha
@@ -11534,6 +11556,7 @@ SplineSet
  -13 606 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nga dev_kha
 EndChar
 
 StartChar: dev_ngga
@@ -11614,6 +11637,7 @@ SplineSet
  -13 606 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nga dev_ga
 EndChar
 
 StartChar: dev_nggha
@@ -11704,6 +11728,7 @@ SplineSet
  -13 606 l 1,37,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nga dev_gha
 EndChar
 
 StartChar: dev_ngma
@@ -11783,6 +11808,7 @@ SplineSet
  -13 606 l 1,21,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nga dev_ma
 EndChar
 
 StartChar: dev_ngksha
@@ -11896,6 +11922,7 @@ SplineSet
  -13 666 l 1,43,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_nga dev_ksha
 EndChar
 
 StartChar: dev_chcha
@@ -12033,6 +12060,7 @@ SplineSet
  -13 606 l 1,38,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_cha dev_va
 EndChar
 
 StartChar: dec_jja
