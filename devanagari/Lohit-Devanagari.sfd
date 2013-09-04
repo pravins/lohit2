@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378195365
+ModificationTime: 1378279488
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,6 +50,7 @@ OS2SupYOff: 666
 OS2StrikeYSize: 67
 OS2StrikeYPos: 333
 OS2Vendor: 'ACE '
+Lookup: 4 6 0 "'pres' Pre Base Substitutions lookup 20"  {"'pres' Pre Base Substitutions lookup 20-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
 Lookup: 4 0 0 "'locl' Localized Forms lookup 1"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms lookup 2"  {"'locl' Localized Forms lookup 9-1"  } ['locl' ('DFLT' <'dflt' > 'dev ' <'NEP ' 'dflt' > 'deva' <'NEP ' 'dflt' > ) ]
@@ -399,7 +400,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -3593,7 +3594,7 @@ EndChar
 StartChar: dev_vowel_I
 Encoding: 2367 2367 76
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3623,10 +3624,10 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "RA_matra-1" dev_vowel_short_III
-Substitution2: "extended_E_matra-1" dev_vowel_extended_I
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=493 dy=15 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "Single substitution E matra-1" dev_signI_extended_1
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
+Substitution2: "extended_E_matra-1" dev_vowel_extended_I
+Substitution2: "RA_matra-1" dev_vowel_short_III
 EndChar
 
 StartChar: dev_vowel_II
@@ -6907,7 +6908,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_halant
-LCarets2: 1 0 
 EndChar
 
 StartChar: dev_rphf_anuswara
@@ -9429,6 +9429,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 20-1" dev_vowel_I dev_ra_dev_virama.rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
 EndChar
 
