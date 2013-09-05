@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378279488
+ModificationTime: 1378375433
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,6 +63,7 @@ Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  }
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 7"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "'pres' Pre Base Substitutions lookup 19"  {"'pres' Pre Base Substitutions lookup 19-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {"'pres' Pre Base Substitutions lookup 13-3"  "'pres' Pre Base Substitutions lookup 13-1"  "'pres' Pre Base Substitutions lookup 13-2"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 1 0 0 "Single subtitution E matra"  {"Single substitution E matra-1"  "Single subtitution E matra-2"  } []
 Lookup: 6 0 0 "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 "  {"+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
@@ -70,7 +71,6 @@ Lookup: 1 0 0 "single substitution extended E matra"  {"extended_E_matra-1"  } [
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 18"  {"'pres' Pre Base Substitutions lookup 18-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "single substitution RA matra"  {"RA_matra-1"  } []
 Lookup: 1 0 0 "single substitution extended matra"  {"single substitution extended matra-1"  } []
-Lookup: 4 0 0 "'pres' Pre Base Substitutions lookup 19"  {"'pres' Pre Base Substitutions lookup 19-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
@@ -3624,7 +3624,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=493 dy=15 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
 Substitution2: "Single substitution E matra-1" dev_signI_extended_1
 Substitution2: "extended_E_matra-1" dev_vowel_extended_I
 Substitution2: "RA_matra-1" dev_vowel_short_III
