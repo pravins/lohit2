@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378375433
+ModificationTime: 1378378361
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,6 @@ OS2SupYOff: 666
 OS2StrikeYSize: 67
 OS2StrikeYPos: 333
 OS2Vendor: 'ACE '
-Lookup: 4 6 0 "'pres' Pre Base Substitutions lookup 20"  {"'pres' Pre Base Substitutions lookup 20-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms lookup 0"  {"'locl' Localized Forms lookup 0-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
 Lookup: 4 0 0 "'locl' Localized Forms lookup 1"  {"'locl' Localized Forms lookup 8-1"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms lookup 2"  {"'locl' Localized Forms lookup 9-1"  } ['locl' ('DFLT' <'dflt' > 'dev ' <'NEP ' 'dflt' > 'deva' <'NEP ' 'dflt' > ) ]
@@ -63,22 +62,45 @@ Lookup: 4 0 0 "'rkrf' Rakar Forms lookup 4"  {"'rkrf' Rakar Forms lookup 4-1"  }
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 5"  {"'blwf' Below Base Forms lookup 5-1"  } ['blwf' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 6"  {"'half' Half Forms lookup 6-1"  } ['half' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'cjct' Conjunct Forms lookup 7"  {"'cjct' Conjunct Forms lookup 8-1"  } ['cjct' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single subtitution E matra"  {"Single substitution E matra-1"  "Single subtitution E matra-2"  } []
+Lookup: 1 0 0 "single substitution extended matra"  {"single substitution extended matra-1"  } []
 Lookup: 4 0 0 "'pres' Pre Base Substitutions lookup 19"  {"'pres' Pre Base Substitutions lookup 19-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {"'pres' Pre Base Substitutions lookup 13-3"  "'pres' Pre Base Substitutions lookup 13-1"  "'pres' Pre Base Substitutions lookup 13-2"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 1 0 0 "Single subtitution E matra"  {"Single substitution E matra-1"  "Single subtitution E matra-2"  } []
 Lookup: 6 0 0 "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 "  {"+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "single substitution extended E matra"  {"extended_E_matra-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 18"  {"'pres' Pre Base Substitutions lookup 18-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "single substitution RA matra"  {"RA_matra-1"  } []
-Lookup: 1 0 0 "single substitution extended matra"  {"single substitution extended matra-1"  } []
-Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 3"  {"'abvm' Above Base Mark in Devanagari lookup 3"  } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above Base Mark in Devanagari lookup 4" [153,15,0] } ['abvm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
-Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
+Lookup: 4 6 0 "'pres' Pre Base Substitutions lookup 22"  {"'pres' Pre Base Substitutions lookup 22-1"  } ['pres' ('DFLT' <'dflt' > 'dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 20"  {"'abvs' Above Base Substitutions lookup 20-2"  } ['abvs' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'blws' Below Base Substitutions lookup 22"  {"'blws' Below Base Substitutions lookup 22-1"  } ['blws' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'psts' Substitutions lookup 28"  {"'psts' Substitutions lookup 28-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution blws lookup 23"  {"Single Substitution blws lookup 23-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 24"  {"'blws' Below Base Substitutions lookup 24-1"  } ['blws' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 26"  {"'psts' Post Base Substitutions lookup 26-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 4 0 "'psts' Post Base Substitutions lookup 28"  {"'psts' Post Base Substitutions lookup 28-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution psts lookup 25"  {"Single Substitution psts lookup 25-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 3"  {"'abvm' Above Base Mark in Devanagari lookup 3"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above Base Mark in Devanagari lookup 4" [153,15,0] } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: coverage "'psts' Post Base Substitutions lookup 26-1"  0 0 0 1
+ 1 1 0
+  Coverage: 88 dev_vowel_II dev_vowel_II_dev_anusvara.abvs dev_vowel_II_rphf_abvs dev_vowel_II_rphf_anu
+  BCoverage: 116 dev_vocalic_R dev_ka dev_pha dev_qa dev_fa dev_vocalic_RR dev_kra dev_phra dev_kkka dev_tka dev_kla dev_kva dev_phla
+ 1
+  SeqLookup: 0 "Single Substitution psts lookup 25" 
+EndFPST
+ChainSub2: coverage "'blws' Below Base Substitutions lookup 22-1"  0 0 0 1
+ 1 1 0
+  Coverage: 24 dev_vowel_u dev_vowel_UU
+  BCoverage: 231 dev_rrha dev_kkka dev_kla dev_kva dev_ngka dev_ngkha dev_ngga dev_nggha dev_ngma dev_ngksha dev_ttta dev_tttha dev_twa dev_dda_with_half_dda dev_dda_with_half_ddha dev_ddhha dev_pla dev_phla dev_la_with_half_la dev_sstta dev_ssttha
+ 1
+  SeqLookup: 0 "Single Substitution blws lookup 23" 
+EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-3"  0 0 0 1
  1 0 1
   Coverage: 20 dev_vowel_extended_I
@@ -400,7 +422,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -3624,9 +3646,9 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "extended_E_matra-1" dev_vowel_extended_I
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
 Substitution2: "Single substitution E matra-1" dev_signI_extended_1
-Substitution2: "extended_E_matra-1" dev_vowel_extended_I
 Substitution2: "RA_matra-1" dev_vowel_short_III
 EndChar
 
@@ -3664,6 +3686,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II
 EndChar
 
 StartChar: dev_vowel_u
@@ -3696,6 +3719,7 @@ SplineSet
  -115 -273 -115 -273 -200 -273 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution blws lookup 23-1" glyph242
 EndChar
 
 StartChar: dev_vowel_UU
@@ -3728,6 +3752,7 @@ SplineSet
  -129 -253 -129 -253 -153 -253 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "Single Substitution blws lookup 23-1" glyph243
 EndChar
 
 StartChar: dev_vowel_vocalic_R
@@ -6715,6 +6740,7 @@ SplineSet
  -169 666 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_E dev_anusvara
 EndChar
 
 StartChar: dev_vowel_E_rphf
@@ -6745,6 +6771,7 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 Validated: 513
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_E dev_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=93 dy=-97 dh=0 dv=0
 EndChar
 
@@ -6781,6 +6808,7 @@ SplineSet
  -96 746 l 1,21,-1
 EndSplineSet
 Validated: 513
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_E dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_vowel_AI_anusvara
@@ -6807,6 +6835,7 @@ SplineSet
  -192 666 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AI dev_anusvara
 EndChar
 
 StartChar: dev_vowel_AI_rphf
@@ -6840,6 +6869,7 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 Validated: 513
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AI dev_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=119 dy=-109 dh=0 dv=0
 EndChar
 
@@ -6879,9 +6909,10 @@ SplineSet
  -52 739 l 1,24,-1
 EndSplineSet
 Validated: 513
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AI dev_rphf dev_anusvara
 EndChar
 
-StartChar: dev_ra_dev_virama.rphf
+StartChar: dev_rphf
 Encoding: 65544 -1 170
 Width: 0
 GlyphClass: 4
@@ -6908,6 +6939,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_halant
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_ra dev_halant
 EndChar
 
 StartChar: dev_rphf_anuswara
@@ -6941,6 +6973,7 @@ SplineSet
  -168 666 l 1,4,5
 EndSplineSet
 Validated: 513
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_rphf dev_anusvara
 EndChar
 
 StartChar: glyph172
@@ -7029,6 +7062,7 @@ SplineSet
  13 290 l 1,12,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sha dev_halant dev_ra
 EndChar
 
 StartChar: dev_ffra
@@ -8528,6 +8562,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_extended_I dev_anusvara
 EndChar
 
 StartChar: dev_half_la
@@ -9346,7 +9381,7 @@ EndChar
 StartChar: dev_vowel_I_anusvara
 Encoding: 65600 -1 226
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9381,12 +9416,13 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_I dev_anusvara
 EndChar
 
 StartChar: dev_vowel_I_rphf
 Encoding: 65601 -1 227
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9429,14 +9465,14 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions lookup 20-1" dev_vowel_I dev_ra_dev_virama.rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_I dev_rphf
 EndChar
 
 StartChar: dev_vowel_I_rphf_anusvara
 Encoding: 65602 -1 228
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9484,12 +9520,13 @@ SplineSet
  686 746 l 1,47,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_I dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_vowel_short_III
 Encoding: 65603 -1 229
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9522,10 +9559,10 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=435 dy=0 dh=0 dv=0
 EndChar
 
-StartChar: glyph230
+StartChar: dev_vowel_short_III_anuswara
 Encoding: 65604 -1 230
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9562,10 +9599,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: glyph231
+StartChar: dev_vowel_short_III_rphf
 Encoding: 65605 -1 231
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9611,10 +9648,10 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=514 dy=-99 dh=0 dv=0
 EndChar
 
-StartChar: glyph232
+StartChar: dev_vowel_short_III_rphf_anu
 Encoding: 65606 -1 232
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9667,7 +9704,7 @@ EndChar
 StartChar: dev_vowel_II_dev_anusvara.abvs
 Encoding: 65607 -1 233
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9702,13 +9739,14 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_II dev_anusvara
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_anusvara
 EndChar
 
-StartChar: dev_vowel_II_dev_ra_dev_virama.rphf.abvs
+StartChar: dev_vowel_II_rphf_abvs
 Encoding: 65608 -1 234
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9749,14 +9787,15 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_II dev_rphf
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=129 dy=-116 dh=0 dv=0
 EndChar
 
-StartChar: dev_vowel_II_dev_ra_dev_virama.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_II_rphf_anu
 Encoding: 65609 -1 235
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9802,13 +9841,14 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_II dev_rphf_anuswara 
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf_anusvara
 EndChar
 
 StartChar: dev_extended_II
 Encoding: 65610 -1 236
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" 207 111 basechar 0
 LayerCount: 2
@@ -9845,7 +9885,7 @@ EndChar
 StartChar: dev_extended_II_anusvara
 Encoding: 65611 -1 237
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9885,7 +9925,7 @@ EndChar
 StartChar: dev_extended_II_rphf
 Encoding: 65612 -1 238
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9932,7 +9972,7 @@ EndChar
 StartChar: dev_extended_II_rphf_anusvara
 Encoding: 65613 -1 239
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -9980,7 +10020,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_ra_dev_virama.blwf_u0941.blws
+StartChar: dev_ra_dev_virama.blwf
 Encoding: 65614 -1 240
 Width: 0
 GlyphClass: 4
@@ -10016,11 +10056,11 @@ SplineSet
  -15 -265 -15 -265 -69.5 -302.5 c 128,-1,31
  -124 -340 -124 -340 -201 -340 c 0,6,7
 EndSplineSet
-Validated: 513
 LCarets2: 1 0 
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_trakaar.blwf dev_vowel_u
 EndChar
 
-StartChar: dev_ra_dev_virama.blwf_u0942.blws
+StartChar: dev_ra_dev_virama.blwf_u
 Encoding: 65615 -1 241
 Width: 0
 GlyphClass: 4
@@ -10055,7 +10095,7 @@ SplineSet
  -120 -326 l 1,6,7
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_trakaar.blwf dev_vowel_UU 
 EndChar
 
 StartChar: glyph242
@@ -12289,7 +12329,7 @@ SplineSet
  385 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 1
+LCarets2: 1 0 
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_tta
 EndChar
 
@@ -13992,6 +14032,7 @@ SplineSet
  13 360 l 1,23,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_shra dev_halant dev_ca
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_ca
 Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_ca
 EndChar
@@ -14854,6 +14895,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_da dev_vowel_vocalic_R
 EndChar
 
 StartChar: dev_ru
@@ -14901,6 +14943,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions lookup 28-1" dev_ra dev_vowel_u
 EndChar
 
 StartChar: dev_ruu
@@ -14956,6 +14999,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions lookup 28-1" dev_ra dev_vowel_UU
 EndChar
 
 StartChar: dev_hru
@@ -15018,6 +15062,8 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ha dev_halant dev_ra
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_ha dev_vowel_vocalic_R
 EndChar
 
 StartChar: dev_halant_ra
@@ -15416,10 +15462,10 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_O_dev_anusvara.abvs
+StartChar: dev_vowel_O_dev_anusvara
 Encoding: 65706 -1 331
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15444,12 +15490,13 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_O dev_anusvara
 EndChar
 
-StartChar: dev_vowel_O_dev_ra_dev_virama.rphf.abvs
+StartChar: dev_vowel_O_dev_rphf
 Encoding: 65707 -1 332
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15481,14 +15528,14 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=87 dy=-115 dh=0 dv=0
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_O dev_rphf
 EndChar
 
-StartChar: dev_vowel_O_dev_ra_dev_virama.rphf.abvs_u0902.abvs
+StartChar: dev_vowel_O_rphf_anusvara
 Encoding: 65708 -1 333
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15525,13 +15572,13 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
-LCarets2: 1 0 
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_O dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_vowel_AU_dev_anusvara.abvs
 Encoding: 65709 -1 334
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15559,13 +15606,13 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AU dev_anusvara
 EndChar
 
 StartChar: dev_vowel_AU_rphf
 Encoding: 65710 -1 335
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15599,12 +15646,13 @@ SplineSet
 EndSplineSet
 Validated: 513
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=127 dy=-105 dh=0 dv=0
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AU dev_rphf
 EndChar
 
 StartChar: dev_vowel_AU_rphf_anuswar
 Encoding: 65711 -1 336
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15642,6 +15690,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AU dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_trra
@@ -15694,6 +15743,7 @@ SplineSet
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_nya dev_halant dev_ra
 EndChar
 
 StartChar: dev_nnra
@@ -15734,6 +15784,7 @@ SplineSet
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_nna dev_halant dev_ra
 EndChar
 
 StartChar: dev_yrra
@@ -15775,6 +15826,7 @@ SplineSet
  -13 606 l 1,14,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ya dev_halant dev_ra
 EndChar
 
 StartChar: dev_srra
@@ -15816,6 +15868,7 @@ SplineSet
  -13 606 l 1,11,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ssa dev_halant dev_ra
 EndChar
 
 StartChar: dev_kshra
@@ -15886,6 +15939,7 @@ SplineSet
  425 606 l 1,11,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ksha dev_halant dev_ra
 EndChar
 
 StartChar: dev_dnyra
@@ -15949,6 +16003,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_dnya dev_halant dev_ra
 EndChar
 
 StartChar: dev_gga
