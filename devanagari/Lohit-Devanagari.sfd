@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378378361
+ModificationTime: 1378806345
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -78,7 +78,9 @@ Lookup: 1 0 0 "Single Substitution blws lookup 23"  {"Single Substitution blws l
 Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 24"  {"'blws' Below Base Substitutions lookup 24-1"  } ['blws' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 26"  {"'psts' Post Base Substitutions lookup 26-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 4 0 "'psts' Post Base Substitutions lookup 28"  {"'psts' Post Base Substitutions lookup 28-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution psts lookup 25"  {"Single Substitution psts lookup 25-1"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution psts lookup 25"  {"Single Substitution psts lookup 25-1"  "Single Substitution psts lookup 25-2"  } ['    ' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 29"  {"'psts' Post Base Substitutions lookup 29-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 1 0 "'psts' Post Base Substitutions lookup 30"  {"'psts' Post Base Substitutions lookup 30-1"  } ['psts' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
@@ -87,6 +89,14 @@ Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above 
 Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: coverage "'psts' Post Base Substitutions lookup 30-1"  0 0 0 1
+ 1 1 1
+  Coverage: 18 dev_rra dev_halant
+  BCoverage: 0 
+  FCoverage: 13 dev_ya dev_ha
+ 1
+  SeqLookup: 0 "'psts' Post Base Substitutions lookup 29" 
+EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 26-1"  0 0 0 1
  1 1 0
   Coverage: 88 dev_vowel_II dev_vowel_II_dev_anusvara.abvs dev_vowel_II_rphf_abvs dev_vowel_II_rphf_anu
@@ -10267,6 +10277,8 @@ SplineSet
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions lookup 29-1" dev_rra dev_halant
+Substitution2: "Single Substitution psts lookup 25-2" dev_rra dev_halant
 EndChar
 
 StartChar: dev_kra
