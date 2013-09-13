@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1378977504
+ModificationTime: 1379067494
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -81,12 +81,12 @@ Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 28"  {"'psts' Post Base Sub
 Lookup: 1 0 0 "Single Substitution psts lookup 25"  {"Single Substitution psts lookup 25-1"  "Single Substitution psts lookup 25-2"  } ['    ' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 29"  {"'psts' Post Base Substitutions lookup 29-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 30"  {"'psts' Post Base Substitutions lookup 30-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 3"  {"'abvm' Above Base Mark in Devanagari lookup 3"  } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above Base Mark in Devanagari lookup 4" [153,15,0] } ['abvm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('DFLT' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > ) ]
+Lookup: 262 0 0 "'abvm' Above Base Mark in Devanagari lookup 1"  {"'abvm' Above Base Mark in Devanagari lookup 1"  } ['abvm' ('dev2' <'dflt' > 'dev2' <'NEP ' > 'dev2' <'MAR ' > 'deva' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 2"  {"'abvm' Above Base Mark in Devanagari lookup 2"  } ['abvm' ('dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark in Devanagari lookup 3"  {"'abvm' Above Base Mark in Devanagari lookup 3"  } ['abvm' ('dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > ) ]
+Lookup: 258 0 0 "'abvm' Above Base Mark in Devanagari lookup 4"  {"'abvm' Above Base Mark in Devanagari lookup 4" [153,15,0] } ['abvm' ('dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > ) ]
+Lookup: 258 0 0 "'blwm' Below Base Mark in Devanagari lookup 5"  {"'blwm' Below Base Mark in Devanagari lookup 5" [153,15,0] } ['blwm' ('dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 30-1"  0 0 0 1
