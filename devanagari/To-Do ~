@@ -1,8 +1,0 @@
-
-The Following tasks are supposed to complete 
-
-1. Testing for word "vidarbha" on harfbuzz & reporting bug for the same
-2. Testing on Windows  
-3. Glyph Naming (i.e. Exporting the glyph names to some file so that it can be available for further review process e.g. GDEF)
-4. Writing the pecular rules for language specific words (e.g. 'ka halant ka' has diff contextulization in diff lang {mar,nep})
-5. To move for .sfd & .fea file formation .
