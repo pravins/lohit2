@@ -1,20 +1,23 @@
-* .notdef
+# filename       : Glyph-name.txt
+# description   : This file contains the naming specification for the glyphs that lohit devanagari follows .
+# Rule used for naming glyphs is as follows
+# <scriptname>_<glyphname>
+# Prepared by : Sneha Kore
+# License : GLPv2+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+
 * dev_signi_extended_l
-* nonmarkingreturn
-* space
-* exclam
-* quotedbl
-* quotesingle
-* parenleft
-* parenright
-* comma
-* hyphen
-* period
-* colon
-* semicolon
-* question
-* underscore
-* grave
 * dev_candrabindu
 * dev_anusvara
 * dev_visarga
@@ -130,38 +133,6 @@
 * dev_ellipsis
 * dev_minus
 * dev_dotted_circle
-* numbersign
-* dollar
-* percent
-* ampersand
-* asterisk
-* plus
-* slash
-* zero
-* one
-* two
-* three
-* four
-* five
-* six
-* seven
-* eight
-* nine
-* less
-* equal
-* greater
-* at
-* bracketleft
-* backslash
-* bracketright
-* asciicircum
-* braceleft
-* bar
-* braceright
-* asciitilde
-* cent
-* multiply
-* divide
 * dev_vowel_e_anusvara
 * dev_vowel_e_rphf
 * dev_vowel_e_rphf_anuswara
