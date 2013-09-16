@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1379316565
+ModificationTime: 1379321293
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -100,7 +100,7 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 30-1"  0 0 0 1
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 26-1"  0 0 0 1
  1 1 0
-  Coverage: 88 dev_vowel_ii dev_vowel_ii_dev_anusvara.abvs dev_vowel_ii_rphf_abvs dev_vowel_ii_rphf_anu
+  Coverage: 78 dev_vowel_ii dev_vowel_ii_dev_anusvara dev_vowel_ii_rphf dev_vowel_ii_rphf_anu
   BCoverage: 116 dev_vocalic_r dev_ka dev_pha dev_qa dev_fa dev_vocalic_rr dev_kra dev_phra dev_kkka dev_tka dev_kla dev_kva dev_phla
  1
   SeqLookup: 0 "Single Substitution psts lookup 25" 
@@ -513,7 +513,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: dev_exclam
+StartChar: exclam
 Encoding: 33 33 4
 Width: 339
 GlyphClass: 2
@@ -535,7 +535,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_quotedbl
+StartChar: quotedbl
 Encoding: 34 34 5
 Width: 460
 GlyphClass: 2
@@ -557,7 +557,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_quotesingle
+StartChar: quotesingle
 Encoding: 39 39 6
 Width: 287
 GlyphClass: 2
@@ -574,7 +574,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_parenleft
+StartChar: parenleft
 Encoding: 40 40 7
 Width: 486
 GlyphClass: 2
@@ -597,7 +597,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_parenright
+StartChar: parenright
 Encoding: 41 41 8
 Width: 466
 GlyphClass: 2
@@ -620,7 +620,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_comma
+StartChar: comma
 Encoding: 44 44 9
 Width: 359
 GlyphClass: 2
@@ -637,7 +637,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: devhyphen
+StartChar: hyphen
 Encoding: 45 45 10
 Width: 692
 GlyphClass: 2
@@ -671,7 +671,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_colon
+StartChar: colon
 Encoding: 58 58 12
 Width: 279
 GlyphClass: 2
@@ -693,7 +693,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_semicolon
+StartChar: semicolon
 Encoding: 59 59 13
 Width: 366
 GlyphClass: 2
@@ -715,7 +715,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_question
+StartChar: question
 Encoding: 63 63 14
 Width: 665
 GlyphClass: 2
@@ -749,7 +749,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_underscore
+StartChar: underscore
 Encoding: 95 95 15
 Width: 912
 GlyphClass: 2
@@ -766,7 +766,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_grave
+StartChar: grave
 Encoding: 96 96 16
 Width: 0
 GlyphClass: 2
@@ -5688,7 +5688,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_numbersign
+StartChar: numbersign
 Encoding: 35 35 132
 Width: 934
 GlyphClass: 2
@@ -5734,7 +5734,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_dollar
+StartChar: dollar
 Encoding: 36 36 133
 Width: 712
 GlyphClass: 2
@@ -5785,7 +5785,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_percent
+StartChar: percent
 Encoding: 37 37 134
 Width: 885
 GlyphClass: 2
@@ -5838,7 +5838,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_ampersand
+StartChar: ampersand
 Encoding: 38 38 135
 Width: 761
 GlyphClass: 2
@@ -5891,7 +5891,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_asterisk
+StartChar: asterisk
 Encoding: 42 42 136
 Width: 559
 GlyphClass: 2
@@ -5922,7 +5922,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_plus
+StartChar: plus
 Encoding: 43 43 137
 Width: 872
 GlyphClass: 2
@@ -5964,7 +5964,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_zero
+StartChar: zero
 Encoding: 48 48 139
 Width: 633
 GlyphClass: 2
@@ -5994,7 +5994,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_one
+StartChar: one
 Encoding: 49 49 140
 Width: 413
 GlyphClass: 2
@@ -6015,7 +6015,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_two
+StartChar: two
 Encoding: 50 50 141
 Width: 633
 GlyphClass: 2
@@ -6050,7 +6050,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_three
+StartChar: three
 Encoding: 51 51 142
 Width: 635
 GlyphClass: 2
@@ -6092,7 +6092,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_four
+StartChar: four
 Encoding: 52 52 143
 Width: 635
 GlyphClass: 2
@@ -6120,7 +6120,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_five
+StartChar: five
 Encoding: 53 53 144
 Width: 635
 GlyphClass: 2
@@ -6156,7 +6156,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_six
+StartChar: six
 Encoding: 54 54 145
 Width: 635
 GlyphClass: 2
@@ -6196,7 +6196,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_seven
+StartChar: seven
 Encoding: 55 55 146
 Width: 635
 GlyphClass: 2
@@ -6218,7 +6218,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_eight
+StartChar: eight
 Encoding: 56 56 147
 Width: 635
 GlyphClass: 2
@@ -6265,7 +6265,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_digit_nine
+StartChar: nine
 Encoding: 57 57 148
 Width: 635
 GlyphClass: 2
@@ -6305,7 +6305,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_less
+StartChar: less
 Encoding: 60 60 149
 Width: 661
 GlyphClass: 2
@@ -6325,7 +6325,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_equal
+StartChar: equal
 Encoding: 61 61 150
 Width: 798
 GlyphClass: 2
@@ -6347,7 +6347,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_greater
+StartChar: greater
 Encoding: 62 62 151
 Width: 661
 GlyphClass: 2
@@ -6367,7 +6367,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_at
+StartChar: at
 Encoding: 64 64 152
 Width: 1043
 GlyphClass: 2
@@ -6425,7 +6425,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_bracketleft
+StartChar: bracketleft
 Encoding: 91 91 153
 Width: 392
 GlyphClass: 2
@@ -6446,7 +6446,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_backslash
+StartChar: backslash
 Encoding: 92 92 154
 Width: 605
 GlyphClass: 2
@@ -6463,7 +6463,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_bracketright
+StartChar: bracketright
 Encoding: 93 93 155
 Width: 392
 GlyphClass: 2
@@ -6484,7 +6484,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_asciicircum
+StartChar: asciicircum
 Encoding: 94 94 156
 Width: 671
 GlyphClass: 2
@@ -6504,7 +6504,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_braceleft
+StartChar: braceleft
 Encoding: 123 123 157
 Width: 484
 GlyphClass: 2
@@ -6540,7 +6540,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_bar
+StartChar: bar
 Encoding: 124 124 158
 Width: 266
 GlyphClass: 2
@@ -6557,7 +6557,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_braceright
+StartChar: braceright
 Encoding: 125 125 159
 Width: 486
 GlyphClass: 2
@@ -6593,7 +6593,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_asciitilde
+StartChar: asciitilde
 Encoding: 126 126 160
 Width: 721
 GlyphClass: 2
@@ -6624,7 +6624,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_cent
+StartChar: cent
 Encoding: 162 162 161
 Width: 749
 GlyphClass: 2
@@ -6672,7 +6672,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_multiply
+StartChar: multiply
 Encoding: 215 215 162
 Width: 665
 GlyphClass: 2
@@ -6697,7 +6697,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_divide
+StartChar: divide
 Encoding: 247 247 163
 Width: 832
 GlyphClass: 2
@@ -9430,8 +9430,8 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_anusvara
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_i dev_anusvara
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_anusvara
 EndChar
 
 StartChar: dev_vowel_i_rphf
@@ -9481,8 +9481,8 @@ SplineSet
 EndSplineSet
 Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_rphf
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_i dev_rphf
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_rphf
 EndChar
 
 StartChar: dev_vowel_i_rphf_anusvara
@@ -9536,8 +9536,8 @@ SplineSet
  686 746 l 1,47,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_rphf dev_anusvara
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_i dev_rphf_anuswara
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_vowel_short_iii
@@ -9718,7 +9718,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_ii_dev_anusvara.abvs
+StartChar: dev_vowel_ii_dev_anusvara
 Encoding: 65607 -1 233
 Width: 266
 GlyphClass: 4
@@ -9757,10 +9757,10 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_anusvara
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_anusvara
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_anusvara
 EndChar
 
-StartChar: dev_vowel_ii_rphf_abvs
+StartChar: dev_vowel_ii_rphf
 Encoding: 65608 -1 234
 Width: 266
 GlyphClass: 4
@@ -9806,7 +9806,7 @@ EndSplineSet
 Validated: 513
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=129 dy=-116 dh=0 dv=0
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_rphf
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_rphf 
 EndChar
 
 StartChar: dev_vowel_ii_rphf_anu
@@ -9859,7 +9859,7 @@ SplineSet
 EndSplineSet
 Validated: 513
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_rphf_anuswara
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf_anusvara
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_rphf_anusvara 
 EndChar
 
 StartChar: dev_extended_ii
@@ -17939,7 +17939,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_apostrophe
+StartChar: apostrophe
 Encoding: 700 700 384
 Width: 314
 VWidth: 2048
