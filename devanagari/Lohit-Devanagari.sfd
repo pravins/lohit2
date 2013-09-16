@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1379321293
+ModificationTime: 1379329042
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -67,18 +67,18 @@ Lookup: 1 0 0 "single substitution extended matra"  {"single substitution extend
 Lookup: 4 0 0 "'pres' Pre Base Substitutions lookup 19"  {"'pres' Pre Base Substitutions lookup 19-1"  } ['pres' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 13"  {"'pres' Pre Base Substitutions lookup 13-3"  "'pres' Pre Base Substitutions lookup 13-1"  "'pres' Pre Base Substitutions lookup 13-2"  } ['pres' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 6 0 0 "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 "  {"+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  } ['pres' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 1 0 0 "single substitution extended E matra"  {"extended_E_matra-1"  } ['    ' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "single substitution extended E matra"  {"extended_E_matra-1"  } ['    ' () ]
 Lookup: 6 0 0 "'pres' Pre Base Substitutions lookup 18"  {"'pres' Pre Base Substitutions lookup 18-1"  } ['pres' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 1 0 0 "single substitution RA matra"  {"RA_matra-1"  } []
 Lookup: 4 6 0 "'pres' Pre Base Substitutions lookup 22"  {"'pres' Pre Base Substitutions lookup 22-1"  } ['pres' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 20"  {"'abvs' Above Base Substitutions lookup 20-2"  } ['abvs' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 6 0 0 "'blws' Below Base Substitutions lookup 22"  {"'blws' Below Base Substitutions lookup 22-1"  } ['blws' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Substitutions lookup 28"  {"'psts' Substitutions lookup 28-1"  "'psts' Substitutions lookup 28-2"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution blws lookup 23"  {"Single Substitution blws lookup 23-1"  } ['    ' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution blws lookup 23"  {"Single Substitution blws lookup 23-1"  } ['    ' () ]
 Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 24"  {"'blws' Below Base Substitutions lookup 24-1"  } ['blws' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 26"  {"'psts' Post Base Substitutions lookup 26-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 28"  {"'psts' Post Base Substitutions lookup 28-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution psts lookup 25"  {"Single Substitution psts lookup 25-1"  "Single Substitution psts lookup 25-2"  } ['    ' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution psts lookup 25"  {"Single Substitution psts lookup 25-1"  "Single Substitution psts lookup 25-2"  } ['    ' () ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 29"  {"'psts' Post Base Substitutions lookup 29-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 30"  {"'psts' Post Base Substitutions lookup 30-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Devanagari lookup 0"  {"'blwm' Below Base Mark in Devanagari lookup 0"  } ['blwm' ('dev2' <'NEP ' > 'dev2' <'MAR ' > 'dev2' <'dflt' > 'deva' <'NEP ' > 'deva' <'MAR ' > 'deva' <'dflt' > ) ]
@@ -8534,7 +8534,7 @@ EndSplineSet
 Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
 Substitution2: "Single subtitution E matra-2" dev_signi_extended_l
-Substitution2: "single substitution extended matra-1" dev_vowel_short_III
+Substitution2: "single substitution extended matra-1" dev_vowel_short_iii
 EndChar
 
 StartChar: dev_vowel_extended_i_anuswara
@@ -9806,7 +9806,7 @@ EndSplineSet
 Validated: 513
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=129 dy=-116 dh=0 dv=0
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_rphf
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_rphf 
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_rphf
 EndChar
 
 StartChar: dev_vowel_ii_rphf_anu
@@ -9859,7 +9859,7 @@ SplineSet
 EndSplineSet
 Validated: 513
 Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_rphf_anuswara
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_rphf_anusvara 
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii_rphf_anusvara
 EndChar
 
 StartChar: dev_extended_ii
@@ -18060,7 +18060,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_zero
+StartChar: dev_combining_digit_zero
 Encoding: 43232 43232 387
 Width: 0
 VWidth: 0
@@ -18090,7 +18090,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_one
+StartChar: dev_combining_digit_one
 Encoding: 43233 43233 388
 Width: 0
 Flags: W
@@ -18123,7 +18123,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_two
+StartChar: dev_combining_digit_two
 Encoding: 43234 43234 389
 Width: 0
 VWidth: 0
@@ -18163,7 +18163,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_three
+StartChar: dev_combining_digit_three
 Encoding: 43235 43235 390
 Width: 0
 VWidth: 0
@@ -18215,7 +18215,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_four
+StartChar: dev_combining_digit_four
 Encoding: 43236 43236 391
 Width: 0
 VWidth: 0
@@ -18267,7 +18267,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_five
+StartChar: dev_combining_digit_five
 Encoding: 43237 43237 392
 Width: 0
 VWidth: 0
@@ -18317,7 +18317,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_six
+StartChar: dev_combining_digit_six
 Encoding: 43238 43238 393
 Width: 0
 VWidth: 0
@@ -18369,7 +18369,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_seven
+StartChar: dev_combining_digit_seven
 Encoding: 43239 43239 394
 Width: 0
 VWidth: 0
@@ -18412,7 +18412,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_eight
+StartChar: dev_combining_digit_eight
 Encoding: 43240 43240 395
 Width: 0
 VWidth: 0
@@ -18443,7 +18443,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_dev_digit_nine
+StartChar: dev_combining_digit_nine
 Encoding: 43241 43241 396
 Width: 0
 VWidth: 0
