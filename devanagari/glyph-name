@@ -1,5 +1,7 @@
 # filename       : Glyph-name.txt
 # description   : This file contains the naming specification for the glyphs that lohit devanagari follows .
+# Rule used for naming glyphs is as follows
+# <scriptname>_<glyphname>
 # Prepared by : Sneha Kore
 # License : GLPv2+
 # This program is free software: you can redistribute it and/or modify
