@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1379067494
+ModificationTime: 1379316565
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -91,8 +91,8 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 30-1"  0 0 0 1
  2 0 1
-  Coverage: 18 dev_rra dev_halant
-  Coverage: 25 dev_ra dev_halant dev_zwj
+  Coverage: 18 dev_rra dev_virama
+  Coverage: 25 dev_ra dev_virama dev_zwj
   FCoverage: 13 dev_ya dev_ha
  2
   SeqLookup: 0 "'psts' Post Base Substitutions lookup 29" 
@@ -100,49 +100,49 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 30-1"  0 0 0 1
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 26-1"  0 0 0 1
  1 1 0
-  Coverage: 88 dev_vowel_II dev_vowel_II_dev_anusvara.abvs dev_vowel_II_rphf_abvs dev_vowel_II_rphf_anu
-  BCoverage: 116 dev_vocalic_R dev_ka dev_pha dev_qa dev_fa dev_vocalic_RR dev_kra dev_phra dev_kkka dev_tka dev_kla dev_kva dev_phla
+  Coverage: 88 dev_vowel_ii dev_vowel_ii_dev_anusvara.abvs dev_vowel_ii_rphf_abvs dev_vowel_ii_rphf_anu
+  BCoverage: 116 dev_vocalic_r dev_ka dev_pha dev_qa dev_fa dev_vocalic_rr dev_kra dev_phra dev_kkka dev_tka dev_kla dev_kva dev_phla
  1
   SeqLookup: 0 "Single Substitution psts lookup 25" 
 EndFPST
 ChainSub2: coverage "'blws' Below Base Substitutions lookup 22-1"  0 0 0 1
  1 1 0
-  Coverage: 24 dev_vowel_u dev_vowel_UU
+  Coverage: 24 dev_vowel_u dev_vowel_uu
   BCoverage: 231 dev_rrha dev_kkka dev_kla dev_kva dev_ngka dev_ngkha dev_ngga dev_nggha dev_ngma dev_ngksha dev_ttta dev_tttha dev_twa dev_dda_with_half_dda dev_dda_with_half_ddha dev_ddhha dev_pla dev_phla dev_la_with_half_la dev_sstta dev_ssttha
  1
   SeqLookup: 0 "Single Substitution blws lookup 23" 
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-3"  0 0 0 1
  1 0 1
-  Coverage: 20 dev_vowel_extended_I
+  Coverage: 20 dev_vowel_extended_i
   FCoverage: 106 dev_ta_with_half_ta dev_half_ga dev_half_ghha dev_nycha dev_nyja dev_hnna dev_hna dev_hma dev_hya dev_stra
  1
   SeqLookup: 0 "Single subtitution E matra" 
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-2"  0 0 0 1
  1 0 1
-  Coverage: 20 dev_vowel_extended_I
+  Coverage: 20 dev_vowel_extended_i
   FCoverage: 555 dev_kkka dev_tka dev_kla dev_kva dev_gna dev_ngka dev_ngkha dev_ngga dev_nggha dev_ngma dev_ngksha dev_chcha dev_chwa dev_ttta dev_tttha dev_twa dev_thha dev_dda_with_half_dda dev_dda_with_half_ddha dev_ddhha dev_dga dev_da_halant_gha dev_da_with_half_da dev_da_halant_dha dev_da_halant_na dev_dba dev_dbha dev_dma dev_dva dev_na_with_half_na dev_pta dev_pla dev_phla dev_la_with_half_la dev_shrcha dev_shrna dev_shla dev_shrva dev_sstta dev_ssttha dev_hnna dev_hna dev_hlla dev_hva dev_jjja dev_ngk dev_trra dev_nnra dev_yrra dev_srra dev_kshra dev_dnyra
  1
   SeqLookup: 0 "single substitution extended matra" 
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 18-1"  0 0 0 1
  1 0 1
-  Coverage: 11 dev_vowel_I
+  Coverage: 11 dev_vowel_i
   FCoverage: 35 dev_ttta dev_tttha dev_twa dev_thha
  1
   SeqLookup: 0 "single substitution RA matra" 
 EndFPST
 ChainSub2: coverage "+ACIA-pres+ACIA Pre Base Substitutions lookup 14 -1"  0 0 0 1
  1 0 1
-  Coverage: 11 dev_vowel_I
+  Coverage: 11 dev_vowel_i
   FCoverage: 619 dev_half_ka dev_half_kha dev_half_ga dev_half_gha dev_half_nga dev_half_ca dev_half_cha dev_half_ja dev_half_jha dev_half_nya dev_half_tta dev_half_ttha dev_half_dda dev_half_ddha dev_half_nna dev_half_ta dev_half_tha dev_half_da dev_half_dha dev_half_na dev_half_nnna dev_half_pa dev_half_pha dev_half_ba dev_half_bha dev_half_ma dev_half_ya dev_half_la dev_half_lla dev_half_llla dev_half_va dev_half_sha dev_half_ssa dev_half_sa dev_half_ha dev_half_qa dev_half_khha dev_half_ghha dev_half_za dev_half_fa dev_half_shra dev_half_tra dev_half_ttta dev_half_ksha dev_half_dnya dev_aya dev_tya dev_thya dev_ddya dev_dhya
  1
   SeqLookup: 0 "single substitution extended E matra" 
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions lookup 13-1"  0 0 0 1
  1 0 1
-  Coverage: 11 dev_vowel_I
+  Coverage: 11 dev_vowel_i
   FCoverage: 131 dev_kha dev_ja dev_jha dev_tha dev_dha dev_la dev_sa dev_khha dev_shra dev_dnya dev_khra dev_jra dev_jhra dev_sra dev_thra dev_dhra
  1
   SeqLookup: 0 "Single subtitution E matra" 
@@ -462,7 +462,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_signI_extended_1
+StartChar: dev_signi_extended_l
 Encoding: 65537 -1 1
 Width: 266
 GlyphClass: 2
@@ -513,7 +513,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: exclam
+StartChar: dev_exclam
 Encoding: 33 33 4
 Width: 339
 GlyphClass: 2
@@ -535,7 +535,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quotedbl
+StartChar: dev_quotedbl
 Encoding: 34 34 5
 Width: 460
 GlyphClass: 2
@@ -557,7 +557,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quotesingle
+StartChar: dev_quotesingle
 Encoding: 39 39 6
 Width: 287
 GlyphClass: 2
@@ -574,7 +574,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: parenleft
+StartChar: dev_parenleft
 Encoding: 40 40 7
 Width: 486
 GlyphClass: 2
@@ -597,7 +597,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: parenright
+StartChar: dev_parenright
 Encoding: 41 41 8
 Width: 466
 GlyphClass: 2
@@ -620,7 +620,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: comma
+StartChar: dev_comma
 Encoding: 44 44 9
 Width: 359
 GlyphClass: 2
@@ -637,7 +637,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: hyphen
+StartChar: devhyphen
 Encoding: 45 45 10
 Width: 692
 GlyphClass: 2
@@ -671,7 +671,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: colon
+StartChar: dev_colon
 Encoding: 58 58 12
 Width: 279
 GlyphClass: 2
@@ -693,7 +693,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: semicolon
+StartChar: dev_semicolon
 Encoding: 59 59 13
 Width: 366
 GlyphClass: 2
@@ -715,7 +715,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: question
+StartChar: dev_question
 Encoding: 63 63 14
 Width: 665
 GlyphClass: 2
@@ -749,7 +749,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: underscore
+StartChar: dev_underscore
 Encoding: 95 95 15
 Width: 912
 GlyphClass: 2
@@ -766,7 +766,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: grave
+StartChar: dev_grave
 Encoding: 96 96 16
 Width: 0
 GlyphClass: 2
@@ -862,7 +862,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_A
+StartChar: dev_a
 Encoding: 2309 2309 20
 Width: 768
 GlyphClass: 2
@@ -922,7 +922,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_AA
+StartChar: dev_aa
 Encoding: 2310 2310 21
 Width: 1042
 GlyphClass: 2
@@ -986,7 +986,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_I
+StartChar: dev_i
 Encoding: 2311 2311 22
 Width: 503
 GlyphClass: 2
@@ -1040,7 +1040,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_II
+StartChar: dev_ii
 Encoding: 2312 2312 23
 Width: 510
 GlyphClass: 2
@@ -1112,7 +1112,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_U
+StartChar: dev_u
 Encoding: 2313 2313 24
 Width: 631
 GlyphClass: 2
@@ -1155,7 +1155,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_UU
+StartChar: dev_uu
 Encoding: 2314 2314 25
 Width: 921
 GlyphClass: 2
@@ -1211,7 +1211,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vocalic_R
+StartChar: dev_vocalic_r
 Encoding: 2315 2315 26
 Width: 864
 GlyphClass: 2
@@ -1279,7 +1279,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vocalic_L
+StartChar: dev_vocalic_l
 Encoding: 2316 2316 27
 Width: 703
 GlyphClass: 2
@@ -1340,7 +1340,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_candra_E
+StartChar: dev_candra_e
 Encoding: 2317 2317 28
 Width: 490
 GlyphClass: 2
@@ -1394,7 +1394,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_short_E
+StartChar: dev_short_e
 Encoding: 2318 2318 29
 Width: 490
 GlyphClass: 2
@@ -1447,7 +1447,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_E
+StartChar: dev_e
 Encoding: 2319 2319 30
 Width: 486
 GlyphClass: 2
@@ -1491,7 +1491,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_AI
+StartChar: dev_ai
 Encoding: 2320 2320 31
 Width: 491
 GlyphClass: 2
@@ -1538,7 +1538,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_candra_O
+StartChar: dev_candra_o
 Encoding: 2321 2321 32
 Width: 1042
 GlyphClass: 2
@@ -1612,7 +1612,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_short_O
+StartChar: dev_short_o
 Encoding: 2322 2322 33
 Width: 1042
 GlyphClass: 2
@@ -1685,7 +1685,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_O
+StartChar: dev_o
 Encoding: 2323 2323 34
 Width: 1042
 GlyphClass: 2
@@ -1752,7 +1752,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_AU
+StartChar: dev_au
 Encoding: 2324 2324 35
 Width: 1042
 GlyphClass: 2
@@ -2290,8 +2290,8 @@ SplineSet
  318 -47 l 1,21,22
 EndSplineSet
 Validated: 1
-Substitution2: "'locl' Localized Forms lookup 9-1" nepali_jha
 PairPos2: "'blwm' Below Base Mark in Devanagari lookup 5" dev_nukta dx=0 dy=0 dh=0 dv=0 dx=-85 dy=-16 dh=0 dv=0
+Substitution2: "'locl' Localized Forms lookup 9-1" nepali_jha
 EndChar
 
 StartChar: dev_nya
@@ -3603,7 +3603,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_AA
+StartChar: dev_vowel_aa
 Encoding: 2366 2366 75
 Width: 266
 GlyphClass: 2
@@ -3624,7 +3624,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_I
+StartChar: dev_vowel_i
 Encoding: 2367 2367 76
 Width: 266
 GlyphClass: 4
@@ -3657,13 +3657,13 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "extended_E_matra-1" dev_vowel_extended_I
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=493 dy=15 dh=0 dv=0
-Substitution2: "Single substitution E matra-1" dev_signI_extended_1
-Substitution2: "RA_matra-1" dev_vowel_short_III
+Substitution2: "RA_matra-1" dev_vowel_short_iii
+Substitution2: "Single substitution E matra-1" dev_signi_extended_l
+Substitution2: "extended_E_matra-1" dev_vowel_extended_i
 EndChar
 
-StartChar: dev_vowel_II
+StartChar: dev_vowel_ii
 Encoding: 2368 2368 77
 Width: 266
 GlyphClass: 2
@@ -3697,7 +3697,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_ii
 EndChar
 
 StartChar: dev_vowel_u
@@ -3733,7 +3733,7 @@ Validated: 1
 Substitution2: "Single Substitution blws lookup 23-1" glyph242
 EndChar
 
-StartChar: dev_vowel_UU
+StartChar: dev_vowel_uu
 Encoding: 2370 2370 79
 Width: 0
 GlyphClass: 4
@@ -3766,7 +3766,7 @@ Validated: 1
 Substitution2: "Single Substitution blws lookup 23-1" glyph243
 EndChar
 
-StartChar: dev_vowel_vocalic_R
+StartChar: dev_vowel_vocalic_r
 Encoding: 2371 2371 80
 Width: 0
 GlyphClass: 4
@@ -3796,7 +3796,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_vocalic_RR
+StartChar: dev_vowel_vocalic_rr
 Encoding: 2372 2372 81
 Width: 0
 GlyphClass: 4
@@ -3837,7 +3837,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_candra_E
+StartChar: dev_vowel_candra_e
 Encoding: 2373 2373 82
 Width: 0
 GlyphClass: 4
@@ -3861,7 +3861,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_short_E
+StartChar: dev_vowel_short_e
 Encoding: 2374 2374 83
 Width: 0
 GlyphClass: 4
@@ -3886,7 +3886,7 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=8 dy=16 dh=0 dv=0
 EndChar
 
-StartChar: dev_vowel_E
+StartChar: dev_vowel_e
 Encoding: 2375 2375 84
 Width: 0
 GlyphClass: 4
@@ -3905,7 +3905,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_AI
+StartChar: dev_vowel_ai
 Encoding: 2376 2376 85
 Width: 0
 GlyphClass: 4
@@ -3927,7 +3927,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_candra_O
+StartChar: dev_vowel_candra_o
 Encoding: 2377 2377 86
 Width: 266
 GlyphClass: 2
@@ -3959,7 +3959,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_short_O
+StartChar: dev_vowel_short_o
 Encoding: 2378 2378 87
 Width: 266
 GlyphClass: 2
@@ -3990,7 +3990,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_O
+StartChar: dev_vowel_o
 Encoding: 2379 2379 88
 Width: 266
 GlyphClass: 2
@@ -4016,7 +4016,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_AU
+StartChar: dev_vowel_au
 Encoding: 2380 2380 89
 Width: 266
 GlyphClass: 2
@@ -4046,7 +4046,7 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=65 dy=-9 dh=0 dv=0
 EndChar
 
-StartChar: dev_halant
+StartChar: dev_virama
 Encoding: 2381 2381 90
 Width: 0
 GlyphClass: 4
@@ -4184,7 +4184,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_grave_accent
+StartChar: dev_dev_grave_accent
 Encoding: 2387 2387 94
 Width: 0
 GlyphClass: 4
@@ -4648,7 +4648,7 @@ Validated: 1
 Ligature2: "'nukt' Nukta Forms lookup 1-1" dev_ya dev_nukta
 EndChar
 
-StartChar: dev_vocalic_RR
+StartChar: dev_vocalic_rr
 Encoding: 2400 2400 104
 Width: 882
 GlyphClass: 2
@@ -4710,7 +4710,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dev_vocalic_LL
+StartChar: dev_vocalic_ll
 Encoding: 2401 2401 105
 Width: 708
 GlyphClass: 2
@@ -4782,7 +4782,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_vocalic_L
+StartChar: dev_vowel_vocalic_l
 Encoding: 2402 2402 106
 Width: 0
 GlyphClass: 4
@@ -4837,7 +4837,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_vocalic_LL
+StartChar: dev_vowel_vocalic_ll
 Encoding: 2403 2403 107
 Width: 0
 GlyphClass: 4
@@ -5181,6 +5181,7 @@ SplineSet
  513 -60 513 -60 466 -87 c 1,0,-1
 EndSplineSet
 Validated: 1
+Substitution2: "'locl' Localized Forms lookup 9-1" nep_digit_five
 EndChar
 
 StartChar: dev_six
@@ -5299,6 +5300,7 @@ SplineSet
  403 0 403 0 346 0 c 0,0,1
 EndSplineSet
 Validated: 1
+Substitution2: "'locl' Localized Forms lookup 9-1" nep_digit_eight
 EndChar
 
 StartChar: dev_nine
@@ -5410,7 +5412,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: endash
+StartChar: dev_endash
 Encoding: 8211 8211 123
 Width: 665
 GlyphClass: 2
@@ -5427,7 +5429,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: emdash
+StartChar: dev_emdash
 Encoding: 8212 8212 124
 Width: 1331
 GlyphClass: 2
@@ -5444,7 +5446,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quoteleft
+StartChar: dev_quoteleft
 Encoding: 8216 8216 125
 Width: 352
 GlyphClass: 2
@@ -5461,7 +5463,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quoteright
+StartChar: dev_quoteright
 Encoding: 8217 8217 126
 Width: 386
 GlyphClass: 2
@@ -5478,7 +5480,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quotedblleft
+StartChar: dev_quotedblleft
 Encoding: 8220 8220 127
 Width: 539
 GlyphClass: 2
@@ -5500,7 +5502,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: quotedblright
+StartChar: dev_quotedblright
 Encoding: 8221 8221 128
 Width: 572
 GlyphClass: 2
@@ -5522,7 +5524,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ellipsis
+StartChar: dev_ellipsis
 Encoding: 8230 8230 129
 Width: 1038
 GlyphClass: 2
@@ -5549,7 +5551,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: minus
+StartChar: dev_minus
 Encoding: 8722 8722 130
 Width: 692
 GlyphClass: 2
@@ -5686,7 +5688,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: numbersign
+StartChar: dev_numbersign
 Encoding: 35 35 132
 Width: 934
 GlyphClass: 2
@@ -5732,7 +5734,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dollar
+StartChar: dev_dollar
 Encoding: 36 36 133
 Width: 712
 GlyphClass: 2
@@ -5783,7 +5785,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: percent
+StartChar: dev_percent
 Encoding: 37 37 134
 Width: 885
 GlyphClass: 2
@@ -5836,7 +5838,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: ampersand
+StartChar: dev_ampersand
 Encoding: 38 38 135
 Width: 761
 GlyphClass: 2
@@ -5889,7 +5891,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asterisk
+StartChar: dev_asterisk
 Encoding: 42 42 136
 Width: 559
 GlyphClass: 2
@@ -5920,7 +5922,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: plus
+StartChar: dev_plus
 Encoding: 43 43 137
 Width: 872
 GlyphClass: 2
@@ -5962,7 +5964,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: zero
+StartChar: dev_digit_zero
 Encoding: 48 48 139
 Width: 633
 GlyphClass: 2
@@ -5992,7 +5994,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: one
+StartChar: dev_digit_one
 Encoding: 49 49 140
 Width: 413
 GlyphClass: 2
@@ -6013,7 +6015,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: two
+StartChar: dev_digit_two
 Encoding: 50 50 141
 Width: 633
 GlyphClass: 2
@@ -6048,7 +6050,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: three
+StartChar: dev_digit_three
 Encoding: 51 51 142
 Width: 635
 GlyphClass: 2
@@ -6090,7 +6092,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: four
+StartChar: dev_digit_four
 Encoding: 52 52 143
 Width: 635
 GlyphClass: 2
@@ -6118,7 +6120,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: five
+StartChar: dev_digit_five
 Encoding: 53 53 144
 Width: 635
 GlyphClass: 2
@@ -6154,7 +6156,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: six
+StartChar: dev_digit_six
 Encoding: 54 54 145
 Width: 635
 GlyphClass: 2
@@ -6194,7 +6196,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: seven
+StartChar: dev_digit_seven
 Encoding: 55 55 146
 Width: 635
 GlyphClass: 2
@@ -6216,7 +6218,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: eight
+StartChar: dev_digit_eight
 Encoding: 56 56 147
 Width: 635
 GlyphClass: 2
@@ -6263,7 +6265,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: nine
+StartChar: dev_digit_nine
 Encoding: 57 57 148
 Width: 635
 GlyphClass: 2
@@ -6303,7 +6305,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: less
+StartChar: dev_less
 Encoding: 60 60 149
 Width: 661
 GlyphClass: 2
@@ -6323,7 +6325,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: equal
+StartChar: dev_equal
 Encoding: 61 61 150
 Width: 798
 GlyphClass: 2
@@ -6345,7 +6347,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: greater
+StartChar: dev_greater
 Encoding: 62 62 151
 Width: 661
 GlyphClass: 2
@@ -6365,7 +6367,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: at
+StartChar: dev_at
 Encoding: 64 64 152
 Width: 1043
 GlyphClass: 2
@@ -6423,7 +6425,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: bracketleft
+StartChar: dev_bracketleft
 Encoding: 91 91 153
 Width: 392
 GlyphClass: 2
@@ -6444,7 +6446,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: backslash
+StartChar: dev_backslash
 Encoding: 92 92 154
 Width: 605
 GlyphClass: 2
@@ -6461,7 +6463,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: bracketright
+StartChar: dev_bracketright
 Encoding: 93 93 155
 Width: 392
 GlyphClass: 2
@@ -6482,7 +6484,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asciicircum
+StartChar: dev_asciicircum
 Encoding: 94 94 156
 Width: 671
 GlyphClass: 2
@@ -6502,7 +6504,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: braceleft
+StartChar: dev_braceleft
 Encoding: 123 123 157
 Width: 484
 GlyphClass: 2
@@ -6538,7 +6540,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: bar
+StartChar: dev_bar
 Encoding: 124 124 158
 Width: 266
 GlyphClass: 2
@@ -6555,7 +6557,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: braceright
+StartChar: dev_braceright
 Encoding: 125 125 159
 Width: 486
 GlyphClass: 2
@@ -6591,7 +6593,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asciitilde
+StartChar: dev_asciitilde
 Encoding: 126 126 160
 Width: 721
 GlyphClass: 2
@@ -6622,7 +6624,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: cent
+StartChar: dev_cent
 Encoding: 162 162 161
 Width: 749
 GlyphClass: 2
@@ -6670,7 +6672,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: multiply
+StartChar: dev_multiply
 Encoding: 215 215 162
 Width: 665
 GlyphClass: 2
@@ -6695,7 +6697,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: divide
+StartChar: dev_divide
 Encoding: 247 247 163
 Width: 832
 GlyphClass: 2
@@ -6730,7 +6732,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_E_anusvara
+StartChar: dev_vowel_e_anusvara
 Encoding: 65538 -1 164
 Width: 0
 GlyphClass: 4
@@ -6751,10 +6753,10 @@ SplineSet
  -169 666 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_E dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_e dev_anusvara
 EndChar
 
-StartChar: dev_vowel_E_rphf
+StartChar: dev_vowel_e_rphf
 Encoding: 65539 -1 165
 Width: 0
 GlyphClass: 4
@@ -6782,11 +6784,11 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_E dev_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=93 dy=-97 dh=0 dv=0
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_e dev_rphf
 EndChar
 
-StartChar: dev_vowel_E_rphf_anuswara
+StartChar: dev_vowel_e_rphf_anuswara
 Encoding: 65540 -1 166
 Width: 0
 GlyphClass: 4
@@ -6819,10 +6821,10 @@ SplineSet
  -96 746 l 1,21,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_E dev_rphf dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_e dev_rphf dev_anusvara
 EndChar
 
-StartChar: dev_vowel_AI_anusvara
+StartChar: dev_vowel_ai_anusvara
 Encoding: 65541 -1 167
 Width: 0
 GlyphClass: 4
@@ -6846,10 +6848,10 @@ SplineSet
  -192 666 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AI dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_ai dev_anusvara
 EndChar
 
-StartChar: dev_vowel_AI_rphf
+StartChar: dev_vowel_ai_rphf
 Encoding: 65542 -1 168
 Width: 0
 GlyphClass: 4
@@ -6880,11 +6882,11 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AI dev_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=119 dy=-109 dh=0 dv=0
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_ai dev_rphf
 EndChar
 
-StartChar: dev_vowel_AI_rphf_anuswara
+StartChar: dev_vowel_ai_rphf_anuswara
 Encoding: 65543 -1 169
 Width: 0
 GlyphClass: 4
@@ -6920,7 +6922,7 @@ SplineSet
  -52 739 l 1,24,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AI dev_rphf dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_ai dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_rphf
@@ -6949,8 +6951,8 @@ SplineSet
  -128 666 l 1,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_halant
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_ra dev_halant
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_ra dev_virama
+Ligature2: "'rphf' Reph Form lookup 3-1" dev_ra dev_virama
 EndChar
 
 StartChar: dev_rphf_anuswara
@@ -7023,7 +7025,7 @@ SplineSet
  -360 -220 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'blwf' Below Base Forms lookup 5-1" dev_halant dev_ra
+Ligature2: "'blwf' Below Base Forms lookup 5-1" dev_virama dev_ra
 EndChar
 
 StartChar: dev_shra
@@ -7073,7 +7075,7 @@ SplineSet
  13 290 l 1,12,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sha dev_virama dev_ra
 EndChar
 
 StartChar: dev_ffra
@@ -7133,7 +7135,7 @@ SplineSet
  -13 606 l 1,13,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_fa dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_fa dev_virama dev_ra
 EndChar
 
 StartChar: dev_ta_with_half_ta
@@ -7236,7 +7238,7 @@ SplineSet
  425 606 l 1,11,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand lookup 2-1" dev_ka dev_halant dev_ssa
+Ligature2: "'akhn' Akhand lookup 2-1" dev_ka dev_virama dev_ssa
 EndChar
 
 StartChar: dev_dnya
@@ -7297,7 +7299,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand lookup 2-1" dev_ja dev_halant dev_nya
+Ligature2: "'akhn' Akhand lookup 2-1" dev_ja dev_virama dev_nya
 EndChar
 
 StartChar: dev_half_ka
@@ -7347,7 +7349,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ka dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ka dev_virama
 EndChar
 
 StartChar: dev_half_kha
@@ -7405,7 +7407,7 @@ SplineSet
  -13 606 l 1,26,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_kha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_kha dev_virama
 EndChar
 
 StartChar: dev_half_ga
@@ -7435,7 +7437,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ga dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ga dev_virama
 EndChar
 
 StartChar: dev_half_gha
@@ -7478,7 +7480,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_gha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_gha dev_virama
 EndChar
 
 StartChar: dev_half_nga
@@ -7542,7 +7544,7 @@ SplineSet
  -13 606 l 1,18,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_nga dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_nga dev_virama
 EndChar
 
 StartChar: dev_half_ca
@@ -7579,7 +7581,7 @@ SplineSet
  340 120 340 120 292 120 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ca dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ca dev_virama
 EndChar
 
 StartChar: dev_half_cha
@@ -7636,7 +7638,7 @@ SplineSet
  437 33 437 33 310 33 c 0,12,13
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_cha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_cha dev_virama
 EndChar
 
 StartChar: dev_half_ja
@@ -7671,7 +7673,7 @@ SplineSet
  384 73 384 73 322 73 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ja dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ja dev_virama
 EndChar
 
 StartChar: dev_half_jha
@@ -7736,7 +7738,7 @@ SplineSet
  345 -47 l 1,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_jha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_jha dev_virama
 EndChar
 
 StartChar: dev_half_nya
@@ -7782,7 +7784,7 @@ SplineSet
  296 120 296 120 226 120 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_nya dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_nya dev_virama
 EndChar
 
 StartChar: dev_half_tta
@@ -7825,7 +7827,7 @@ SplineSet
  399 13 399 13 325 13 c 0,6,7
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_tta dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_tta dev_virama
 EndChar
 
 StartChar: dev_half_ttha
@@ -7872,7 +7874,7 @@ SplineSet
  409 7 409 7 324 7 c 0,6,7
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ttha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ttha dev_virama
 EndChar
 
 StartChar: dev_half_dda
@@ -7927,7 +7929,7 @@ SplineSet
  467 13 467 13 385 13 c 0,6,7
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_dda dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_dda dev_virama
 EndChar
 
 StartChar: dev_half_ddha
@@ -7982,7 +7984,7 @@ SplineSet
  -13 606 l 1,18,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ddha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ddha dev_virama
 EndChar
 
 StartChar: dev_half_nna
@@ -8015,7 +8017,7 @@ SplineSet
  -13 606 l 1,9,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_nna dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_nna dev_virama
 EndChar
 
 StartChar: dev_half_ta
@@ -8046,7 +8048,7 @@ SplineSet
  250 20 l 1,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ta dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ta dev_virama
 EndChar
 
 StartChar: dev_half_tha
@@ -8092,7 +8094,7 @@ SplineSet
  382 120 382 120 309 120 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_tha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_tha dev_virama
 EndChar
 
 StartChar: dev_half_da
@@ -8142,7 +8144,7 @@ SplineSet
  172 -20 l 1,38,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_da dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_da dev_virama
 EndChar
 
 StartChar: dev_half_dha
@@ -8196,7 +8198,7 @@ SplineSet
  328 107 328 107 277 107 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_dha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_dha dev_virama
 EndChar
 
 StartChar: dev_half_na
@@ -8227,7 +8229,7 @@ SplineSet
  158 233 158 233 148 233 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_na dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_na dev_virama
 EndChar
 
 StartChar: dev_half_nnna
@@ -8263,7 +8265,7 @@ SplineSet
  158 233 158 233 148 233 c 0,8,9
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_nnna dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_nnna dev_virama
 EndChar
 
 StartChar: dev_half_pa
@@ -8293,7 +8295,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_pa dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_pa dev_virama
 EndChar
 
 StartChar: dev_half_pha
@@ -8338,7 +8340,7 @@ SplineSet
  -13 606 l 1,9,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_pha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_pha dev_virama
 EndChar
 
 StartChar: dev_half_ba
@@ -8381,7 +8383,7 @@ SplineSet
  276 127 276 127 226 127 c 0,14,15
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ba dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ba dev_virama
 EndChar
 
 StartChar: dev_half_bha
@@ -8426,7 +8428,7 @@ SplineSet
  320 606 l 1,35,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_bha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_bha dev_virama
 EndChar
 
 StartChar: dev_half_ma
@@ -8458,7 +8460,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ma dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ma dev_virama
 EndChar
 
 StartChar: dev_half_ya
@@ -8494,10 +8496,10 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ya dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ya dev_virama
 EndChar
 
-StartChar: dev_vowel_extended_I
+StartChar: dev_vowel_extended_i
 Encoding: 65580 -1 206
 Width: 266
 GlyphClass: 2
@@ -8530,12 +8532,12 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "single substitution extended matra-1" dev_vowel_short_III
-Substitution2: "Single subtitution E matra-2" dev_signI_extended_1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=1015 dy=0 dh=0 dv=0
+Substitution2: "Single subtitution E matra-2" dev_signi_extended_l
+Substitution2: "single substitution extended matra-1" dev_vowel_short_III
 EndChar
 
-StartChar: dev_vowel_extended_I_anuswara
+StartChar: dev_vowel_extended_i_anuswara
 Encoding: 65581 -1 207
 Width: 266
 GlyphClass: 2
@@ -8573,7 +8575,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_extended_I dev_anusvara
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_extended_i dev_anusvara
 EndChar
 
 StartChar: dev_half_la
@@ -8613,8 +8615,8 @@ SplineSet
  294 0 l 1,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" mr_la dev_halant
-Ligature2: "'half' Half Forms lookup 6-1" dev_la dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_la dev_virama
+Ligature2: "'half' Half Forms lookup 6-1" mr_la dev_virama
 EndChar
 
 StartChar: dev_half_lla
@@ -8667,7 +8669,7 @@ SplineSet
  262 73 262 73 218 73 c 0,26,27
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_lla dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_lla dev_virama
 EndChar
 
 StartChar: dev_half_llla
@@ -8725,7 +8727,7 @@ SplineSet
  261 73 261 73 217 73 c 0,32,33
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_llla dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_llla dev_virama
 EndChar
 
 StartChar: dev_half_va
@@ -8762,7 +8764,7 @@ SplineSet
  265 146 265 146 226 146 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_va dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_va dev_virama
 EndChar
 
 StartChar: dev_half_sha
@@ -8803,7 +8805,7 @@ SplineSet
  336 0 l 5,12,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_sha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_sha dev_virama
 EndChar
 
 StartChar: dev_half_ssa
@@ -8836,7 +8838,7 @@ SplineSet
  -13 606 l 1,8,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ssa dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ssa dev_virama
 EndChar
 
 StartChar: dev_half_sa
@@ -8871,7 +8873,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 33
-Ligature2: "'half' Half Forms lookup 6-1" dev_sa dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_sa dev_virama
 EndChar
 
 StartChar: dev_half_ha
@@ -8914,7 +8916,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ha dev_virama
 EndChar
 
 StartChar: dev_half_qa
@@ -8969,7 +8971,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_qa dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_qa dev_virama
 EndChar
 
 StartChar: dev_half_khha
@@ -9032,7 +9034,7 @@ SplineSet
  -13 606 l 1,30,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_khha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_khha dev_virama
 EndChar
 
 StartChar: dev_half_ghha
@@ -9067,7 +9069,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ghha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ghha dev_virama
 EndChar
 
 StartChar: dev_half_za
@@ -9107,7 +9109,7 @@ SplineSet
  390 146 390 146 326 146 c 0,8,9
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_za dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_za dev_virama
 EndChar
 
 StartChar: dev_half_fa
@@ -9157,7 +9159,7 @@ SplineSet
  -13 606 l 1,13,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_fa dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_fa dev_virama
 EndChar
 
 StartChar: dev_half_shra
@@ -9196,7 +9198,7 @@ SplineSet
  479 253 l 1,11,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_shra dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_shra dev_virama
 EndChar
 
 StartChar: dev_half_tra
@@ -9232,7 +9234,7 @@ SplineSet
  165 53 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_tra dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_tra dev_virama
 EndChar
 
 StartChar: dev_half_ttta
@@ -9265,8 +9267,8 @@ SplineSet
  298 0 l 1,4,5
 EndSplineSet
 Validated: 1
+Ligature2: "'half' Half Forms lookup 6-1" dev_ta_with_half_ta dev_virama
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ta dev_half_ta
-Ligature2: "'half' Half Forms lookup 6-1" dev_ta_with_half_ta dev_halant
 EndChar
 
 StartChar: dev_half_ksha
@@ -9334,7 +9336,7 @@ SplineSet
  368 7 l 1,15,16
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_ksha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_ksha dev_virama
 EndChar
 
 StartChar: dev_half_dnya
@@ -9387,10 +9389,10 @@ SplineSet
  300 -33 l 1,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'half' Half Forms lookup 6-1" dev_dnya dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" dev_dnya dev_virama
 EndChar
 
-StartChar: dev_vowel_I_anusvara
+StartChar: dev_vowel_i_anusvara
 Encoding: 65600 -1 226
 Width: 266
 GlyphClass: 4
@@ -9428,11 +9430,11 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_I dev_anusvara
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_I dev_anusvara
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_anusvara
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_i dev_anusvara
 EndChar
 
-StartChar: dev_vowel_I_rphf
+StartChar: dev_vowel_i_rphf
 Encoding: 65601 -1 227
 Width: 266
 GlyphClass: 4
@@ -9478,12 +9480,12 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_I dev_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=578 dy=-87 dh=0 dv=0
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_I dev_rphf
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_rphf
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_i dev_rphf
 EndChar
 
-StartChar: dev_vowel_I_rphf_anusvara
+StartChar: dev_vowel_i_rphf_anusvara
 Encoding: 65602 -1 228
 Width: 266
 GlyphClass: 4
@@ -9534,11 +9536,11 @@ SplineSet
  686 746 l 1,47,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_I dev_rphf_anuswara
-Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_I dev_rphf dev_anusvara
+Ligature2: "'pres' Pre Base Substitutions lookup 22-1" dev_vowel_i dev_rphf dev_anusvara
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_i dev_rphf_anuswara
 EndChar
 
-StartChar: dev_vowel_short_III
+StartChar: dev_vowel_short_iii
 Encoding: 65603 -1 229
 Width: 266
 GlyphClass: 4
@@ -9574,7 +9576,7 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=435 dy=0 dh=0 dv=0
 EndChar
 
-StartChar: dev_vowel_short_III_anuswara
+StartChar: dev_vowel_short_iii_anuswara
 Encoding: 65604 -1 230
 Width: 266
 GlyphClass: 4
@@ -9614,7 +9616,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_short_III_rphf
+StartChar: dev_vowel_short_iii_rphf
 Encoding: 65605 -1 231
 Width: 266
 GlyphClass: 4
@@ -9663,7 +9665,7 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=514 dy=-99 dh=0 dv=0
 EndChar
 
-StartChar: dev_vowel_short_III_rphf_anu
+StartChar: dev_vowel_short_iii_rphf_anu
 Encoding: 65606 -1 232
 Width: 266
 GlyphClass: 4
@@ -9716,7 +9718,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_II_dev_anusvara.abvs
+StartChar: dev_vowel_ii_dev_anusvara.abvs
 Encoding: 65607 -1 233
 Width: 266
 GlyphClass: 4
@@ -9754,11 +9756,11 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_II dev_anusvara
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_anusvara
 Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_anusvara
 EndChar
 
-StartChar: dev_vowel_II_rphf_abvs
+StartChar: dev_vowel_ii_rphf_abvs
 Encoding: 65608 -1 234
 Width: 266
 GlyphClass: 4
@@ -9802,12 +9804,12 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_II dev_rphf
-Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=129 dy=-116 dh=0 dv=0
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_rphf
+Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf
 EndChar
 
-StartChar: dev_vowel_II_rphf_anu
+StartChar: dev_vowel_ii_rphf_anu
 Encoding: 65609 -1 235
 Width: 266
 GlyphClass: 4
@@ -9856,11 +9858,11 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_II dev_rphf_anuswara
+Ligature2: "'psts' Substitutions lookup 28-1" dev_vowel_ii dev_rphf_anuswara
 Substitution2: "Single Substitution psts lookup 25-1" dev_extended_II_rphf_anusvara
 EndChar
 
-StartChar: dev_extended_II
+StartChar: dev_extended_ii
 Encoding: 65610 -1 236
 Width: 266
 GlyphClass: 4
@@ -9897,7 +9899,7 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=12 dy=-13 dh=0 dv=0
 EndChar
 
-StartChar: dev_extended_II_anusvara
+StartChar: dev_extended_ii_anusvara
 Encoding: 65611 -1 237
 Width: 266
 GlyphClass: 4
@@ -9937,7 +9939,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_extended_II_rphf
+StartChar: dev_extended_ii_rphf
 Encoding: 65612 -1 238
 Width: 266
 GlyphClass: 4
@@ -9984,7 +9986,7 @@ Validated: 1
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=109 dy=-123 dh=0 dv=0
 EndChar
 
-StartChar: dev_extended_II_rphf_anusvara
+StartChar: dev_extended_ii_rphf_anusvara
 Encoding: 65613 -1 239
 Width: 266
 GlyphClass: 4
@@ -10035,7 +10037,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_ra_dev_virama.blwf
+StartChar: dev_ra_dev_virama
 Encoding: 65614 -1 240
 Width: 0
 GlyphClass: 4
@@ -10071,11 +10073,10 @@ SplineSet
  -15 -265 -15 -265 -69.5 -302.5 c 128,-1,31
  -124 -340 -124 -340 -201 -340 c 0,6,7
 EndSplineSet
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_trakaar.blwf dev_vowel_u
 EndChar
 
-StartChar: dev_ra_dev_virama.blwf_u
+StartChar: dev_ra_dev_virama_u
 Encoding: 65615 -1 241
 Width: 0
 GlyphClass: 4
@@ -10110,7 +10111,7 @@ SplineSet
  -120 -326 l 1,6,7
 EndSplineSet
 Validated: 513
-Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_trakaar.blwf dev_vowel_UU 
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_trakaar.blwf dev_vowel_uu
 EndChar
 
 StartChar: glyph242
@@ -10256,7 +10257,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_eyelash_reph
+StartChar: dev_eyelash_rphf
 Encoding: 65620 -1 246
 Width: 287
 GlyphClass: 2
@@ -10282,9 +10283,9 @@ SplineSet
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions lookup 29-1" dev_ra dev_halant dev_zwj
-Ligature2: "'psts' Post Base Substitutions lookup 29-1" dev_rra dev_halant
-Substitution2: "Single Substitution psts lookup 25-2" dev_rra dev_halant
+Ligature2: "'psts' Post Base Substitutions lookup 29-1" dev_rra dev_virama
+Ligature2: "'psts' Post Base Substitutions lookup 29-1" dev_ra dev_virama dev_zwj
+Substitution2: "Single Substitution psts lookup 25-2" dev_rra dev_virama
 EndChar
 
 StartChar: dev_kra
@@ -10341,7 +10342,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ka dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ka dev_virama dev_ra
 EndChar
 
 StartChar: dev_khra
@@ -10407,7 +10408,7 @@ SplineSet
  -13 606 l 1,39,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_kha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_kha dev_virama dev_ra
 EndChar
 
 StartChar: dev_gra
@@ -10445,7 +10446,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ga dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ga dev_virama dev_ra
 EndChar
 
 StartChar: dev_jra
@@ -10487,7 +10488,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ja dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ja dev_virama dev_ra
 EndChar
 
 StartChar: dev_jhra
@@ -10559,7 +10560,7 @@ SplineSet
  -13 606 l 1,22,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_jha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_jha dev_virama dev_ra
 EndChar
 
 StartChar: dev_tra
@@ -10594,7 +10595,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ta dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ta dev_virama dev_ra
 EndChar
 
 StartChar: dev_dra
@@ -10643,7 +10644,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_da dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_da dev_virama dev_ra
 EndChar
 
 StartChar: dev_pra
@@ -10680,7 +10681,7 @@ SplineSet
  -13 606 l 1,10,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pa dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pa dev_virama dev_ra
 EndChar
 
 StartChar: dev_phra
@@ -10735,7 +10736,7 @@ SplineSet
  77 306 77 306 77 373 c 2,9,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_pha dev_virama dev_ra
 EndChar
 
 StartChar: dev_bra
@@ -10782,7 +10783,7 @@ SplineSet
  51 262 51 262 51 320 c 0,10,11
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ba dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ba dev_virama dev_ra
 EndChar
 
 StartChar: dev_bhra
@@ -10834,7 +10835,7 @@ SplineSet
  120 306 120 306 120 326 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_bha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_bha dev_virama dev_ra
 EndChar
 
 StartChar: dev_mra
@@ -10875,7 +10876,7 @@ SplineSet
  23 333 23 333 23 353 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ma dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ma dev_virama dev_ra
 EndChar
 
 StartChar: dev_vra
@@ -10916,7 +10917,7 @@ SplineSet
  48 261 48 261 48 326 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_va dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_va dev_virama dev_ra
 EndChar
 
 StartChar: dev_sra
@@ -10961,7 +10962,7 @@ SplineSet
  305 408.236 305 408.236 299.734 386 c 1,30,-1
 EndSplineSet
 Validated: 33
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sa dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_sa dev_virama dev_ra
 EndChar
 
 StartChar: dev_rrha
@@ -11077,7 +11078,7 @@ SplineSet
  13 313 l 1,12,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_sha dev_vowel_vocalic_R
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_sha dev_vowel_vocalic_r
 EndChar
 
 StartChar: dev_kkka
@@ -11163,7 +11164,7 @@ SplineSet
  -13 606 l 1,29,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'locl' Localized Forms lookup 8-1" dev_ka dev_halant dev_ka
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_ka dev_virama dev_ka
 EndChar
 
 StartChar: dev_tka
@@ -11215,8 +11216,8 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_ta dev_virama dev_ka
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ka dev_ta
-Ligature2: "'locl' Localized Forms lookup 8-1" dev_ta dev_halant dev_ka
 EndChar
 
 StartChar: dev_kla
@@ -12347,7 +12348,6 @@ SplineSet
  385 606 l 1,53,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_tta
 EndChar
 
@@ -12409,8 +12409,8 @@ SplineSet
  -13 606 l 1,14,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ttha dev_ttha
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_tta dev_ttha
+Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_ttha dev_ttha
 EndChar
 
 StartChar: dev_tya
@@ -13114,7 +13114,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_ga
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_virama dev_ga
 EndChar
 
 StartChar: dev_da_halant_gha
@@ -13189,8 +13189,8 @@ SplineSet
  -13 606 l 1,29,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_virama dev_gha
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_gha
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_gha
 EndChar
 
 StartChar: dev_da_with_half_da
@@ -13325,8 +13325,8 @@ SplineSet
  -13 606 l 1,17,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_virama dev_dha
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_dha
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_dha
 EndChar
 
 StartChar: dev_da_halant_na
@@ -13382,7 +13382,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_half_da dev_na 
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_half_da dev_na
 EndChar
 
 StartChar: dev_dba
@@ -13571,8 +13571,8 @@ SplineSet
  -13 606 l 1,13,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_virama dev_ma
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_da dev_ma
-Ligature2: "'cjct' Conjunct Forms lookup 8-1" dev_da dev_halant dev_ma
 EndChar
 
 StartChar: dev_dya
@@ -14051,9 +14051,9 @@ SplineSet
  13 360 l 1,23,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_shra dev_halant dev_ca
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_virama dev_ca
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_ca
-Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_ca
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_shra dev_virama dev_ca
 EndChar
 
 StartChar: dev_shrna
@@ -14115,8 +14115,8 @@ SplineSet
  141 99 141 99 141 120 c 0,10,11
 EndSplineSet
 Validated: 1
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_virama dev_na
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_na
-Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_na
 EndChar
 
 StartChar: dev_shla
@@ -14245,8 +14245,8 @@ SplineSet
  132 168 132 168 132 220 c 128,-1,13
 EndSplineSet
 Validated: 1
+Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_virama dev_va
 Ligature2: "'pres' Pre Base Substitutions lookup 19-1" dev_half_shra dev_va
-Ligature2: "'locl' Localized Forms lookup 8-1" dev_sha dev_halant dev_va
 EndChar
 
 StartChar: dev_sstta
@@ -14914,7 +14914,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_da dev_vowel_vocalic_R
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_da dev_vowel_vocalic_r
 EndChar
 
 StartChar: dev_ru
@@ -15018,7 +15018,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions lookup 28-1" dev_ra dev_vowel_UU
+Ligature2: "'psts' Post Base Substitutions lookup 28-1" dev_ra dev_vowel_uu
 EndChar
 
 StartChar: dev_hru
@@ -15081,11 +15081,11 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ha dev_halant dev_ra
-Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_ha dev_vowel_vocalic_R
+Ligature2: "'blws' Below Base Substitutions lookup 24-1" dev_ha dev_vowel_vocalic_r
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ha dev_virama dev_ra
 EndChar
 
-StartChar: dev_halant_ra
+StartChar: dev_virama_ra
 Encoding: 65698 -1 323
 Width: 0
 GlyphClass: 2
@@ -15156,7 +15156,7 @@ SplineSet
  -13 606 l 1,20,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_gha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_gha dev_virama dev_ra
 EndChar
 
 StartChar: dev_cra
@@ -15197,7 +15197,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ca dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ca dev_virama dev_ra
 EndChar
 
 StartChar: dev_thra
@@ -15248,7 +15248,7 @@ SplineSet
  261 136 l 1,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_tha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_tha dev_virama dev_ra
 EndChar
 
 StartChar: dev_dhra
@@ -15306,7 +15306,7 @@ SplineSet
  238 117 l 1,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_dha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_dha dev_virama dev_ra
 EndChar
 
 StartChar: dev_nra
@@ -15344,7 +15344,7 @@ SplineSet
  28 372 28 372 28 399 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_na dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_na dev_virama dev_ra
 EndChar
 
 StartChar: dev_lra
@@ -15391,7 +15391,7 @@ SplineSet
  365 20 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_la dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_la dev_virama dev_ra
 EndChar
 
 StartChar: dev_ngk
@@ -15481,7 +15481,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_O_dev_anusvara
+StartChar: dev_vowel_o_dev_anusvara
 Encoding: 65706 -1 331
 Width: 266
 GlyphClass: 4
@@ -15509,10 +15509,10 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_O dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_o dev_anusvara
 EndChar
 
-StartChar: dev_vowel_O_dev_rphf
+StartChar: dev_vowel_o_dev_rphf
 Encoding: 65707 -1 332
 Width: 266
 GlyphClass: 4
@@ -15548,10 +15548,10 @@ SplineSet
 EndSplineSet
 Validated: 513
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=87 dy=-115 dh=0 dv=0
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_O dev_rphf
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_o dev_rphf
 EndChar
 
-StartChar: dev_vowel_O_rphf_anusvara
+StartChar: dev_vowel_o_rphf_anusvara
 Encoding: 65708 -1 333
 Width: 266
 GlyphClass: 4
@@ -15591,10 +15591,10 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_O dev_rphf dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_o dev_rphf dev_anusvara
 EndChar
 
-StartChar: dev_vowel_AU_dev_anusvara.abvs
+StartChar: dev_vowel_au_dev_anusvara.abvs
 Encoding: 65709 -1 334
 Width: 266
 GlyphClass: 4
@@ -15625,10 +15625,10 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AU dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_au dev_anusvara
 EndChar
 
-StartChar: dev_vowel_AU_rphf
+StartChar: dev_vowel_au_rphf
 Encoding: 65710 -1 335
 Width: 266
 GlyphClass: 4
@@ -15665,10 +15665,10 @@ SplineSet
 EndSplineSet
 Validated: 513
 PairPos2: "'abvm' Above Base Mark in Devanagari lookup 4" dev_anusvara dx=0 dy=0 dh=0 dv=0 dx=127 dy=-105 dh=0 dv=0
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AU dev_rphf
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_au dev_rphf
 EndChar
 
-StartChar: dev_vowel_AU_rphf_anuswar
+StartChar: dev_vowel_au_rphf_anuswar
 Encoding: 65711 -1 336
 Width: 266
 GlyphClass: 4
@@ -15709,7 +15709,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 513
-Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_AU dev_rphf dev_anusvara
+Ligature2: "'abvs' Above Base Substitutions lookup 20-2" dev_vowel_au dev_rphf dev_anusvara
 EndChar
 
 StartChar: dev_trra
@@ -15762,7 +15762,7 @@ SplineSet
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_nya dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_nya dev_virama dev_ra
 EndChar
 
 StartChar: dev_nnra
@@ -15803,7 +15803,7 @@ SplineSet
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_nna dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_nna dev_virama dev_ra
 EndChar
 
 StartChar: dev_yrra
@@ -15845,7 +15845,7 @@ SplineSet
  -13 606 l 1,14,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ya dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ya dev_virama dev_ra
 EndChar
 
 StartChar: dev_srra
@@ -15887,7 +15887,7 @@ SplineSet
  -13 606 l 1,11,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ssa dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ssa dev_virama dev_ra
 EndChar
 
 StartChar: dev_kshra
@@ -15958,7 +15958,7 @@ SplineSet
  425 606 l 1,11,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ksha dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_ksha dev_virama dev_ra
 EndChar
 
 StartChar: dev_dnyra
@@ -16022,7 +16022,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_dnya dev_halant dev_ra
+Ligature2: "'rkrf' Rakar Forms lookup 4-1" dev_dnya dev_virama dev_ra
 EndChar
 
 StartChar: dev_gga
@@ -16296,7 +16296,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_candra_A
+StartChar: dev_candra_a
 Encoding: 2418 2418 349
 Width: 768
 Flags: W
@@ -16415,7 +16415,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dev_vowel_UE
+StartChar: dev_vowel_ue
 Encoding: 2390 2390 352
 Width: 0
 Flags: W
@@ -16438,7 +16438,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dev_vowel_UUE
+StartChar: dev_vowel_uue
 Encoding: 2391 2391 353
 Width: 0
 Flags: W
@@ -16752,7 +16752,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowl_OE
+StartChar: dev_vowel_oe
 Encoding: 2362 2362 358
 Width: 0
 Flags: W
@@ -16769,7 +16769,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_OE
+StartChar: dev_vowel_ooe
 Encoding: 2363 2363 359
 Width: 266
 Flags: W
@@ -16842,11 +16842,10 @@ SplineSet
  314 423 314 423 365 373 c 1,0,1
 EndSplineSet
 Validated: 1
-LCarets2: 2 0 0 
-Ligature2: "'locl' Localized Forms lookup 11-1" dev_ka dev_halant dev_ra
+Ligature2: "'locl' Localized Forms lookup 11-1" dev_ka dev_virama dev_ra
 EndChar
 
-StartChar: nep_eight
+StartChar: nep_digit_eight
 Encoding: 65719 -1 361
 Width: 664
 GlyphClass: 2
@@ -16878,10 +16877,9 @@ SplineSet
  425 516 l 1,0,-1
 EndSplineSet
 Validated: 1
-Substitution2: "'locl' Localized Forms lookup 9-1" nep_eight
 EndChar
 
-StartChar: nep_five
+StartChar: nep_digit_five
 Encoding: 65720 -1 362
 Width: 665
 GlyphClass: 2
@@ -16925,7 +16923,6 @@ SplineSet
  454 209 454 209 412 73 c 1,0,1
 EndSplineSet
 Validated: 41
-Substitution2: "'locl' Localized Forms lookup 9-1" nep_five
 EndChar
 
 StartChar: np_zha
@@ -17238,7 +17235,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_vowel_prishthamatra_E
+StartChar: dev_vowel_prishthamatra_e
 Encoding: 2382 2382 368
 Width: 266
 VWidth: 0
@@ -17301,7 +17298,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dev_vowel_candra_long_E
+StartChar: dev_vowel_candra_long_e
 Encoding: 2389 2389 370
 Width: 0
 VWidth: 0
@@ -17623,7 +17620,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_candrabindu_two
+StartChar: dev_candrabindu_dev_digit_two
 Encoding: 43253 43253 377
 Width: 654
 Flags: W
@@ -17681,7 +17678,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_candrabindu_three
+StartChar: dev_candrabindu_dev_digit_three
 Encoding: 43254 43254 378
 Width: 650
 Flags: W
@@ -18063,7 +18060,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_zero
+StartChar: dev_combining_digit_dev_digit_zero
 Encoding: 43232 43232 387
 Width: 0
 VWidth: 0
@@ -18093,7 +18090,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_one
+StartChar: dev_combining_digit_dev_digit_one
 Encoding: 43233 43233 388
 Width: 0
 Flags: W
@@ -18126,7 +18123,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_two
+StartChar: dev_combining_digit_dev_digit_two
 Encoding: 43234 43234 389
 Width: 0
 VWidth: 0
@@ -18166,7 +18163,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_three
+StartChar: dev_combining_digit_dev_digit_three
 Encoding: 43235 43235 390
 Width: 0
 VWidth: 0
@@ -18218,7 +18215,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_four
+StartChar: dev_combining_digit_dev_digit_four
 Encoding: 43236 43236 391
 Width: 0
 VWidth: 0
@@ -18270,7 +18267,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_five
+StartChar: dev_combining_digit_dev_digit_five
 Encoding: 43237 43237 392
 Width: 0
 VWidth: 0
@@ -18320,7 +18317,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: dev_combining_digit_six
+StartChar: dev_combining_digit_dev_digit_six
 Encoding: 43238 43238 393
 Width: 0
 VWidth: 0
@@ -18372,7 +18369,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_seven
+StartChar: dev_combining_digit_dev_digit_seven
 Encoding: 43239 43239 394
 Width: 0
 VWidth: 0
@@ -18415,7 +18412,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_eight
+StartChar: dev_combining_digit_dev_digit_eight
 Encoding: 43240 43240 395
 Width: 0
 VWidth: 0
@@ -18446,7 +18443,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: dev_combining_digit_nine
+StartChar: dev_combining_digit_dev_digit_nine
 Encoding: 43241 43241 396
 Width: 0
 VWidth: 0
@@ -18903,8 +18900,8 @@ SplineSet
 EndSplineSet
 Validated: 513
 LCarets2: 1 0 
-Ligature2: "'half' Half Forms lookup 6-1" mr_sha dev_halant
-Substitution2: "'locl' Localized half Forms lookup 11-1" mr_sha dev_halant
+Ligature2: "'half' Half Forms lookup 6-1" mr_sha dev_virama
+Substitution2: "'locl' Localized half Forms lookup 11-1" mr_sha dev_virama
 EndChar
 EndChars
 EndSplineFont
