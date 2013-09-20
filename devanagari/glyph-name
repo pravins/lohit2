@@ -1,6 +1,6 @@
- Filename     : glyph-name.txt
- Description : File created by Sneha Kore.This file contains the glyph 			      names which follows the Adobe's AGL specification 
- License       :  
+#Filename     : glyph-name.txt
+#Description : File created by Sneha Kore.This file contains the glyph 			      names which follows the Adobe's AGL specification 
+#License       :  
 
  * .notdef
  * nonmarkingreturn
