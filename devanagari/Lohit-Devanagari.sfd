@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1379931028
+ModificationTime: 1379931512
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -11285,7 +11285,7 @@ SplineSet
  479 326 l 1,32,-1
  479 253 l 1,11,-1
 EndSplineSet
-Ligature2: "HalfFormslookup10 subtable" shadeva_viramadeva_radeva viramadeva
+Ligature2: "HalfFormslookup10 subtable" shadeva viramadeva
 EndChar
 
 StartChar: ta_virama_ra_virama_deva
