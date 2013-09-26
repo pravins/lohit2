@@ -71,15 +71,15 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions in Gujarati lookup 7 subtable"  0 0 0 1
  1 0 1
-  Coverage: 5 u0AC1
-  FCoverage: 55 u0A97_u0AE0.half_u0A97.psts u0AB6_u0AE0.half_u0AB2.psts
+  Coverage: 14 vowelsignideva
+  FCoverage: 50 kadeva_viramadeva_kadeva lladeva_viramadeva_yadeva
  1
   SeqLookup: 0 "Single Substitution lookup 13" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gujarati lookup 6 subtable"  0 0 0 1
  1 0 1
-  Coverage: 5 u0AC1
-  FCoverage: 257 u0A97 u0AA1 u0AA2 u0AA3 u0AA4 u0AA8 u0AAD u0AB3 u0ABD u0A97_u0AB3_u0AE0.blwf.vatu glyph193 glyph194 glyph195 glyph196 u0AA8_u0AB3_u0AE0.blwf.vatu u0AAD_u0AB3_u0AE0.blwf.vatu u0AA8_u0AE0.half_u0A99.psts u0AB9_u0AE0.half_u0AA1.psts u0AB9_u0AE0.half_u0AA2.psts
+  Coverage: 14 vowelsignideva
+  FCoverage: 334 kadeva ttadeva tthadeva ddadeva ddhadeva dadeva phadeva radeva sadeva kadeva_viramadeva_radeva ttadeva_viramadeva_radeva tthadeva_viramadeva_radeva ddadeva_viramadeva_radeva ddhadeva_viramdeva_radeva dadeva_viramadeva_radeva phadeva_viramadeva_radeva dadeva_viramadeva_radeva_alt ssadeva_viramadeva_ttadeva ssadeva_viramadeva_tthadeva
  1
   SeqLookup: 0 "Single Substitution lookup 12" 
 EndFPST
@@ -373,7 +373,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 44 17
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Gujarati lookup 2 subtable" "Anchor-1"  "'blwm' Below Base Mark in Gujarati lookup 1 subtable" "Anchor-2"  "'blwm' Below Base Mark in Gujarati lookup 0 subtable" 
@@ -755,7 +755,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A81
+StartChar: dandadeva
 Encoding: 2404 2404 17
 Width: 240
 GlyphClass: 2
@@ -772,7 +772,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A82
+StartChar: doubledandadeva
 Encoding: 2405 2405 18
 Width: 420
 GlyphClass: 2
@@ -795,7 +795,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A83
+StartChar: candrabindudeva
 Encoding: 2689 2689 19
 Width: 0
 GlyphClass: 4
@@ -829,7 +829,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A85
+StartChar: anusvaradeva
 Encoding: 2690 2690 20
 Width: 0
 GlyphClass: 4
@@ -851,7 +851,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A86
+StartChar: visargadeva
 Encoding: 2691 2691 21
 Width: 305
 GlyphClass: 2
@@ -882,7 +882,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A87
+StartChar: adeva
 Encoding: 2693 2693 22
 Width: 731
 GlyphClass: 2
@@ -931,7 +931,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A88
+StartChar: aadeva
 Encoding: 2694 2694 23
 Width: 971
 GlyphClass: 2
@@ -986,7 +986,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A89
+StartChar: ideva
 Encoding: 2695 2695 24
 Width: 529
 GlyphClass: 2
@@ -1036,7 +1036,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A8A
+StartChar: iideva
 Encoding: 2696 2696 25
 Width: 532
 GlyphClass: 2
@@ -1090,7 +1090,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A8B
+StartChar: udeva
 Encoding: 2697 2697 26
 Width: 550
 GlyphClass: 2
@@ -1136,7 +1136,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A8C
+StartChar: uudeva
 Encoding: 2698 2698 27
 Width: 735
 GlyphClass: 2
@@ -1188,7 +1188,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A8D
+StartChar: vocalicrdeva
 Encoding: 2699 2699 28
 Width: 879
 GlyphClass: 2
@@ -1249,7 +1249,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A8F
+StartChar: vocalicldeva
 Encoding: 2700 2700 29
 Width: 610
 GlyphClass: 2
@@ -1303,7 +1303,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A90
+StartChar: vowelcandraedeva
 Encoding: 2701 2701 30
 Width: 731
 GlyphClass: 2
@@ -1364,7 +1364,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A91
+StartChar: edeva
 Encoding: 2703 2703 31
 Width: 731
 GlyphClass: 2
@@ -1423,7 +1423,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A93
+StartChar: aideva
 Encoding: 2704 2704 32
 Width: 731
 GlyphClass: 2
@@ -1492,7 +1492,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A94
+StartChar: vowelcandraodeva
 Encoding: 2705 2705 33
 Width: 968
 GlyphClass: 2
@@ -1559,7 +1559,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A95
+StartChar: odeva
 Encoding: 2707 2707 34
 Width: 971
 GlyphClass: 2
@@ -1624,7 +1624,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A96
+StartChar: audeva
 Encoding: 2708 2708 35
 Width: 969
 GlyphClass: 2
@@ -1699,7 +1699,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A97
+StartChar: kadeva
 Encoding: 2709 2709 36
 Width: 474
 GlyphClass: 2
@@ -1747,7 +1747,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A98
+StartChar: khadeva
 Encoding: 2710 2710 37
 Width: 636
 GlyphClass: 2
@@ -1789,7 +1789,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A99
+StartChar: gadeva
 Encoding: 2711 2711 38
 Width: 578
 GlyphClass: 2
@@ -1827,7 +1827,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9A
+StartChar: ghadeva
 Encoding: 2712 2712 39
 Width: 560
 GlyphClass: 2
@@ -1872,7 +1872,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9B
+StartChar: ngadeva
 Encoding: 2713 2713 40
 Width: 539
 GlyphClass: 2
@@ -1924,7 +1924,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9C
+StartChar: cadeva
 Encoding: 2714 2714 41
 Width: 638
 GlyphClass: 2
@@ -1967,7 +1967,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9D
+StartChar: chadeva
 Encoding: 2715 2715 42
 Width: 622
 GlyphClass: 2
@@ -2027,7 +2027,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9E
+StartChar: jadeva
 Encoding: 2716 2716 43
 Width: 594
 GlyphClass: 2
@@ -2083,7 +2083,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9F
+StartChar: jhadeva
 Encoding: 2717 2717 44
 Width: 620
 GlyphClass: 2
@@ -2135,7 +2135,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA0
+StartChar: nyadeva
 Encoding: 2718 2718 45
 Width: 673
 GlyphClass: 2
@@ -2174,7 +2174,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA1
+StartChar: ttadeva
 Encoding: 2719 2719 46
 Width: 442
 GlyphClass: 2
@@ -2216,7 +2216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA2
+StartChar: tthadeva
 Encoding: 2720 2720 47
 Width: 495
 GlyphClass: 2
@@ -2261,7 +2261,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA3
+StartChar: ddadeva
 Encoding: 2721 2721 48
 Width: 498
 GlyphClass: 2
@@ -2303,7 +2303,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA4
+StartChar: ddhadeva
 Encoding: 2722 2722 49
 Width: 478
 GlyphClass: 2
@@ -2360,7 +2360,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA5
+StartChar: nnadeva
 Encoding: 2723 2723 50
 Width: 758
 GlyphClass: 2
@@ -2412,7 +2412,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA6
+StartChar: tadeva
 Encoding: 2724 2724 51
 Width: 561
 GlyphClass: 2
@@ -2442,7 +2442,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA7
+StartChar: thadeva
 Encoding: 2725 2725 52
 Width: 594
 GlyphClass: 2
@@ -2490,7 +2490,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA8
+StartChar: dadeva
 Encoding: 2726 2726 53
 Width: 465
 GlyphClass: 2
@@ -2531,11 +2531,11 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AAA
+StartChar: dhadeva
 Encoding: 2727 2727 54
 Width: 596
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-2" 224 56 basechar 0
 LayerCount: 2
 Fore
@@ -2570,7 +2570,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AAB
+StartChar: nadeva
 Encoding: 2728 2728 55
 Width: 587
 GlyphClass: 2
@@ -2609,7 +2609,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AAC
+StartChar: padeva
 Encoding: 2730 2730 56
 Width: 562
 GlyphClass: 2
@@ -2645,7 +2645,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AAD
+StartChar: phadeva
 Encoding: 2731 2731 57
 Width: 444
 GlyphClass: 2
@@ -2698,7 +2698,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AAE
+StartChar: badeva
 Encoding: 2732 2732 58
 Width: 664
 GlyphClass: 2
@@ -2737,7 +2737,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AAF
+StartChar: bhadeva
 Encoding: 2733 2733 59
 Width: 695
 GlyphClass: 2
@@ -2779,7 +2779,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB0
+StartChar: madeva
 Encoding: 2734 2734 60
 Width: 566
 GlyphClass: 2
@@ -2827,7 +2827,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB2
+StartChar: yadeva
 Encoding: 2735 2735 61
 Width: 554
 GlyphClass: 2
@@ -2868,7 +2868,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB3
+StartChar: radeva
 Encoding: 2736 2736 62
 Width: 373
 GlyphClass: 2
@@ -2908,7 +2908,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB5
+StartChar: ladeva
 Encoding: 2738 2738 63
 Width: 608
 GlyphClass: 2
@@ -2946,7 +2946,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB6
+StartChar: lladeva
 Encoding: 2739 2739 64
 Width: 666
 GlyphClass: 2
@@ -2988,7 +2988,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB7
+StartChar: vadeva
 Encoding: 2741 2741 65
 Width: 550
 GlyphClass: 2
@@ -3022,7 +3022,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB8
+StartChar: shadeva
 Encoding: 2742 2742 66
 Width: 611
 GlyphClass: 2
@@ -3070,7 +3070,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AB9
+StartChar: ssadeva
 Encoding: 2743 2743 67
 Width: 552
 GlyphClass: 2
@@ -3110,7 +3110,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ABC
+StartChar: sadeva
 Encoding: 2744 2744 68
 Width: 630
 GlyphClass: 2
@@ -3158,7 +3158,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ABD
+StartChar: hadeva
 Encoding: 2745 2745 69
 Width: 468
 GlyphClass: 2
@@ -3211,7 +3211,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ABE
+StartChar: nuktadeva
 Encoding: 2748 2748 70
 Width: 0
 GlyphClass: 4
@@ -3234,7 +3234,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ABF
+StartChar: avagrahadeva
 Encoding: 2749 2749 71
 Width: 525
 GlyphClass: 2
@@ -3277,7 +3277,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC0
+StartChar: vowelsignaadeva
 Encoding: 2750 2750 72
 Width: 240
 GlyphClass: 2
@@ -3294,7 +3294,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC1
+StartChar: vowelsignideva
 Encoding: 2751 2751 73
 Width: 240
 GlyphClass: 2
@@ -3317,11 +3317,11 @@ SplineSet
  90 500 l 1,16,-1
  90 500 l 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 13 subtable" glyph301
-Substitution2: "Single Substitution lookup 12 subtable" glyph300
+Substitution2: "Single Substitution lookup 13 subtable" signiideva
+Substitution2: "Single Substitution lookup 12 subtable" signideva
 EndChar
 
-StartChar: u0AC2
+StartChar: vowelsigniideva
 Encoding: 2752 2752 74
 Width: 240
 GlyphClass: 2
@@ -3348,7 +3348,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC3
+StartChar: vowelsignudeva
 Encoding: 2753 2753 75
 Width: 0
 GlyphClass: 4
@@ -3380,7 +3380,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC4
+StartChar: vowelsignuudeva
 Encoding: 2754 2754 76
 Width: 0
 GlyphClass: 4
@@ -3412,7 +3412,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC5
+StartChar: vowelsignvocalicrdeva
 Encoding: 2755 2755 77
 Width: 0
 GlyphClass: 4
@@ -3442,7 +3442,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC7
+StartChar: vowelsignvocalicrrdeva
 Encoding: 2756 2756 78
 Width: 0
 GlyphClass: 4
@@ -3485,7 +3485,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC8
+StartChar: vowelsigncandraedeva
 Encoding: 2757 2757 79
 Width: 0
 GlyphClass: 4
@@ -3509,7 +3509,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AC9
+StartChar: vowelsignedeva
 Encoding: 2759 2759 80
 Width: 0
 GlyphClass: 4
@@ -3531,7 +3531,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ACB
+StartChar: vowelsignaideva
 Encoding: 2760 2760 81
 Width: 0
 GlyphClass: 4
@@ -3563,7 +3563,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ACC
+StartChar: vowelsigncandraodeva
 Encoding: 2761 2761 82
 Width: 240
 GlyphClass: 2
@@ -3592,7 +3592,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ACD
+StartChar: vowelsignodeva
 Encoding: 2763 2763 83
 Width: 240
 GlyphClass: 2
@@ -3619,7 +3619,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AD0
+StartChar: vowelsignaudeva
 Encoding: 2764 2764 84
 Width: 240
 GlyphClass: 2
@@ -3656,7 +3656,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE0
+StartChar: viramadeva
 Encoding: 2765 2765 85
 Width: 0
 GlyphClass: 4
@@ -3675,7 +3675,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE1
+StartChar: omdeva
 Encoding: 2768 2768 86
 Width: 1009
 GlyphClass: 2
@@ -3765,7 +3765,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE2
+StartChar: vocalicrrdeva
 Encoding: 2784 2784 87
 Width: 917
 GlyphClass: 2
@@ -3846,7 +3846,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE3
+StartChar: vocaliclldeva
 Encoding: 2785 2785 88
 Width: 592
 GlyphClass: 2
@@ -3911,7 +3911,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE6
+StartChar: vowelsignvocalicldeva
 Encoding: 2786 2786 89
 Width: 0
 GlyphClass: 4
@@ -3966,7 +3966,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE7
+StartChar: vowelsignvocaliclldeva
 Encoding: 2787 2787 90
 Width: 0
 GlyphClass: 4
@@ -4032,7 +4032,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE8
+StartChar: zerodeva
 Encoding: 2790 2790 91
 Width: 550
 GlyphClass: 2
@@ -4063,7 +4063,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AE9
+StartChar: onedeva
 Encoding: 2791 2791 92
 Width: 549
 GlyphClass: 2
@@ -4103,7 +4103,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AEA
+StartChar: twodeva
 Encoding: 2792 2792 93
 Width: 549
 GlyphClass: 2
@@ -4153,7 +4153,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AEB
+StartChar: threedeva
 Encoding: 2793 2793 94
 Width: 549
 GlyphClass: 2
@@ -4195,7 +4195,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AEC
+StartChar: fourdeva
 Encoding: 2794 2794 95
 Width: 552
 GlyphClass: 2
@@ -4236,7 +4236,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AED
+StartChar: fivedeva
 Encoding: 2795 2795 96
 Width: 550
 GlyphClass: 2
@@ -4279,7 +4279,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AEE
+StartChar: sixdeva
 Encoding: 2796 2796 97
 Width: 550
 GlyphClass: 2
@@ -4324,7 +4324,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AEF
+StartChar: sevendeva
 Encoding: 2797 2797 98
 Width: 549
 GlyphClass: 2
@@ -4362,7 +4362,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AF1
+StartChar: eightdeva
 Encoding: 2798 2798 99
 Width: 550
 GlyphClass: 2
@@ -4391,7 +4391,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0AEF
+StartChar: ninedeva
 Encoding: 2799 2799 100
 Width: 550
 GlyphClass: 2
@@ -4428,7 +4428,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0AF1
+StartChar: rupeedeva
 Encoding: 2801 2801 101
 Width: 717
 GlyphClass: 2
@@ -4499,7 +4499,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii61664
+StartChar: zwnjdeva
 Encoding: 8204 8204 102
 Width: 220
 GlyphClass: 2
@@ -4516,7 +4516,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii301
+StartChar: zwjdeva
 Encoding: 8205 8205 103
 Width: 480
 GlyphClass: 2
@@ -4846,7 +4846,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A97_u0AE0.half
+StartChar: kadeva_viramadeva
 Encoding: 65571 -1 113
 Width: 419
 GlyphClass: 2
@@ -4889,10 +4889,10 @@ SplineSet
  311 -10 311 -10 234 -10 c 1,44,-1
  234 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A97 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" kadeva viramadeva
 EndChar
 
-StartChar: u0A98_u0AE0.half
+StartChar: khadeva_viramadeva
 Encoding: 65572 -1 114
 Width: 467
 GlyphClass: 2
@@ -4927,10 +4927,10 @@ SplineSet
  92 175 92 175 92 235 c 1,30,-1
  92 235 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A98 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" khadeva viramadeva
 EndChar
 
-StartChar: u0A99_u0AE0.half
+StartChar: gadeva_viramadeva
 Encoding: 65573 -1 115
 Width: 397
 GlyphClass: 2
@@ -4959,10 +4959,10 @@ SplineSet
  250 145 250 145 173 145 c 1,26,-1
  173 145 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A99 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" gadeva viramadeva
 EndChar
 
-StartChar: u0A9A_u0AE0.half
+StartChar: ghadeva_viramadeva
 Encoding: 65574 -1 116
 Width: 389
 GlyphClass: 2
@@ -5000,10 +5000,10 @@ SplineSet
  59 353 59 353 59 385 c 1,37,-1
  59 385 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A9A u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" ghadeva viramadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.half
+StartChar: ngadeva_viramadeva
 Encoding: 65575 -1 117
 Width: 491
 GlyphClass: 2
@@ -5058,10 +5058,10 @@ SplineSet
  496 -235 l 1,56,-1
  496 -235 l 1,50,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A9B u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" ngadeva viramadeva
 EndChar
 
-StartChar: u0A9C_u0AE0.half
+StartChar: cadeva_viramadeva
 Encoding: 65576 -1 118
 Width: 468
 GlyphClass: 2
@@ -5097,10 +5097,10 @@ SplineSet
  33 265 l 1,35,-1
  33 265 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A9C u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" cadeva viramadeva
 EndChar
 
-StartChar: u0A9D_u0AE0.half
+StartChar: chadeva_viramadeva
 Encoding: 65577 -1 119
 Width: 546
 GlyphClass: 2
@@ -5163,11 +5163,10 @@ SplineSet
  541 -240 l 5,68,-1
  541 -240 l 5,62,-1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A9D u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" chadeva viramadeva
 EndChar
 
-StartChar: u0A9E_u0AE0.half
+StartChar: jadeva_viramadeva
 Encoding: 65578 -1 120
 Width: 496
 GlyphClass: 2
@@ -5218,10 +5217,10 @@ SplineSet
  342 50 342 50 367 50 c 1,57,-1
  367 50 l 1,45,46
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A9E u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" jadeva viramadeva
 EndChar
 
-StartChar: u0A9F_u0AE0.half
+StartChar: jhadeva_viramadeva
 Encoding: 65579 -1 121
 Width: 555
 GlyphClass: 2
@@ -5267,10 +5266,10 @@ SplineSet
  484 -10 484 -10 420 -10 c 1,51,-1
  420 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0A9F u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" jhadeva viramadeva
 EndChar
 
-StartChar: u0AA0_u0AE0.half
+StartChar: nyadeva_viramadeva
 Encoding: 65580 -1 122
 Width: 502
 GlyphClass: 2
@@ -5302,10 +5301,10 @@ SplineSet
  53 177 53 177 22 230 c 1,29,-1
  22 230 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA0 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" nyadeva viramadeva
 EndChar
 
-StartChar: u0AA1_u0AE0.half
+StartChar: ttadeva_viramadeva
 Encoding: 65581 -1 123
 Width: 398
 GlyphClass: 2
@@ -5350,10 +5349,10 @@ SplineSet
  478 -235 l 1,45,-1
  478 -235 l 1,39,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA1 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" ttadeva viramadeva
 EndChar
 
-StartChar: u0AA2_u0AE0.half
+StartChar: tthadeva_viramadeva
 Encoding: 65582 -1 124
 Width: 433
 GlyphClass: 2
@@ -5401,10 +5400,10 @@ SplineSet
  508 -245 l 1,47,-1
  508 -245 l 1,41,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA2 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" tthadeva viramadeva
 EndChar
 
-StartChar: u0AA3_u0AE0.half
+StartChar: ddadeva_viramadeva
 Encoding: 65583 -1 125
 Width: 442
 GlyphClass: 2
@@ -5449,10 +5448,10 @@ SplineSet
  517 -240 l 1,43,-1
  517 -240 l 1,37,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA3 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" ddadeva viramadeva
 EndChar
 
-StartChar: u0AA4_u0AE0.half
+StartChar: ddhadeva_viramadeva
 Encoding: 65584 -1 126
 Width: 424
 GlyphClass: 2
@@ -5512,10 +5511,10 @@ SplineSet
  494 -235 l 1,66,-1
  494 -235 l 1,60,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA4 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" ddhadeva viramadeva
 EndChar
 
-StartChar: u0AA5_u0AE0.half
+StartChar: nnadeva_viramadeva
 Encoding: 65585 -1 127
 Width: 578
 GlyphClass: 2
@@ -5558,10 +5557,10 @@ SplineSet
  419 160 419 160 344 160 c 1,43,-1
  344 160 l 1,17,18
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA5 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" nnadeva viramadeva
 EndChar
 
-StartChar: u0AA6_u0AE0.half
+StartChar: tadeva_viramadeva
 Encoding: 65586 -1 128
 Width: 391
 GlyphClass: 2
@@ -5584,10 +5583,10 @@ SplineSet
  41 121 41 121 41 210 c 1,16,-1
  41 210 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA6 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" tadeva viramadeva
 EndChar
 
-StartChar: u0AA7_u0AE0.half
+StartChar: thadeva_viramadeva
 Encoding: 65587 -1 129
 Width: 424
 GlyphClass: 2
@@ -5628,10 +5627,10 @@ SplineSet
  182 361 182 361 224 350 c 1,42,-1
  224 350 l 1,30,31
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA7 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" thadeva viramadeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half
+StartChar: dadeva_viramadeva
 Encoding: 65588 -1 130
 Width: 431
 GlyphClass: 2
@@ -5677,10 +5676,10 @@ SplineSet
  506 -240 l 1,44,-1
  506 -240 l 1,38,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA8 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" dadeva viramadeva
 EndChar
 
-StartChar: u0AAA_u0AE0.half
+StartChar: dhadeva_viramadeva
 Encoding: 65589 -1 131
 Width: 426
 GlyphClass: 2
@@ -5714,10 +5713,10 @@ SplineSet
  290 50 290 50 226 50 c 1,33,-1
  226 50 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AAA u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" dhadeva viramadeva
 EndChar
 
-StartChar: u0AAB_u0AE0.half
+StartChar: nadeva_viramadeva
 Encoding: 65590 -1 132
 Width: 417
 GlyphClass: 2
@@ -5749,10 +5748,10 @@ SplineSet
  153 110 153 110 192 110 c 1,28,-1
  192 110 l 1,16,17
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AAB u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" nadeva viramadeva
 EndChar
 
-StartChar: u0AAC_u0AE0.half
+StartChar: padeva_viramadeva
 Encoding: 65591 -1 133
 Width: 392
 GlyphClass: 2
@@ -5781,10 +5780,10 @@ SplineSet
  97 390 l 1,24,-1
  97 390 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AAC u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" padeva viramadeva
 EndChar
 
-StartChar: u0AAD_u0AE0.half
+StartChar: phadeva_viramadeva
 Encoding: 65592 -1 134
 Width: 383
 GlyphClass: 2
@@ -5832,10 +5831,10 @@ SplineSet
  70 42 70 42 37 75 c 1,51,-1
  37 75 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AAD u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" phadeva viramadeva
 EndChar
 
-StartChar: u0AAE_u0AE0.half
+StartChar: badeva_viramadeva
 Encoding: 65593 -1 135
 Width: 495
 GlyphClass: 2
@@ -5867,10 +5866,10 @@ SplineSet
  45 215 45 215 45 300 c 1,27,-1
  45 300 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AAE u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" badeva viramadeva
 EndChar
 
-StartChar: u0AAF_u0AE0.half
+StartChar: bhadeva_viramadeva
 Encoding: 65594 -1 136
 Width: 525
 GlyphClass: 2
@@ -5905,10 +5904,10 @@ SplineSet
  50 197 50 197 50 290 c 1,33,-1
  50 290 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AAF u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" bhadeva viramadeva
 EndChar
 
-StartChar: u0AB0_u0AE0.half
+StartChar: madeva_viramadeva
 Encoding: 65595 -1 137
 Width: 356
 GlyphClass: 2
@@ -5949,10 +5948,10 @@ SplineSet
  131 100 131 100 156 100 c 1,37,-1
  156 100 l 1,26,27
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB0 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" madeva viramadeva
 EndChar
 
-StartChar: u0AB2_u0AE0.half
+StartChar: yadeva_viramadeva
 Encoding: 65596 -1 138
 Width: 384
 GlyphClass: 2
@@ -5986,10 +5985,10 @@ SplineSet
  34 197 34 197 34 280 c 1,31,-1
  34 280 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB2 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" yadeva viramadeva
 EndChar
 
-StartChar: u0AB5_u0AE0.half
+StartChar: ladeva_viramadeva
 Encoding: 65597 -1 139
 Width: 438
 GlyphClass: 2
@@ -6020,10 +6019,10 @@ SplineSet
  248 0 l 1,23,-1
  248 0 l 1,5,6
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB5 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" ladeva viramadeva
 EndChar
 
-StartChar: u0AB6_u0AE0.half
+StartChar: lladeva_viramadeva
 Encoding: 65598 -1 140
 Width: 426
 GlyphClass: 2
@@ -6056,10 +6055,11 @@ SplineSet
  46 215 46 215 46 300 c 1,30,-1
  46 300 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB6 u0AE0
+LCarets2: 1 0 
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0AB7_u0AE0.half
+StartChar: vadeva_viramadeva
 Encoding: 65599 -1 141
 Width: 380
 GlyphClass: 2
@@ -6086,10 +6086,10 @@ SplineSet
  40 241 40 241 40 320 c 1,22,-1
  40 320 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB7 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0AB8_u0AE0.half
+StartChar: shadeva_viramadeva
 Encoding: 65600 -1 142
 Width: 393
 GlyphClass: 2
@@ -6128,10 +6128,10 @@ SplineSet
  286 0 l 1,39,-1
  286 0 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB8 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0AB9_u0AE0.half
+StartChar: ssadeva_viramadeva
 Encoding: 65601 -1 143
 Width: 403
 GlyphClass: 2
@@ -6164,10 +6164,10 @@ SplineSet
  218 160 218 160 268 160 c 1,27,-1
  268 160 l 1,19,20
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB9 u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0ABC_u0AE0.half
+StartChar: sadeva_viramadeva
 Encoding: 65602 -1 144
 Width: 421
 GlyphClass: 2
@@ -6208,10 +6208,10 @@ SplineSet
  21 470 l 1,39,-1
  21 470 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0ABC u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half
+StartChar: hadeva_viramadeva
 Encoding: 65603 -1 145
 Width: 441
 GlyphClass: 2
@@ -6253,10 +6253,10 @@ SplineSet
  338 -50 338 -50 301 -50 c 1,44,-1
  301 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0ABD u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" sadeva viramadeva
 EndChar
 
-StartChar: u0A97_u0AE0_u0AB9.akhn_u0AE0.psts
+StartChar: ka_virama_ssa_viramadeva
 Encoding: 65604 -1 146
 Width: 465
 GlyphClass: 2
@@ -6307,10 +6307,10 @@ SplineSet
  335 -75 l 1,57,-1
  335 -75 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A97_u0AE0_u0AB9.akhn u0AE0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" kadeva_viramadeva_ssadeva viramadeva
 EndChar
 
-StartChar: u0A9E_u0AE0_u0AA0.akhn_u0AE0.psts
+StartChar: ja_virama_nya_viramadeva
 Encoding: 65605 -1 147
 Width: 473
 GlyphClass: 2
@@ -6352,10 +6352,10 @@ SplineSet
  328 -65 l 1,43,-1
  328 -65 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E_u0AE0_u0AA0.akhn u0AE0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva_viramadeva_nyadeva viramadeva
 EndChar
 
-StartChar: u0AA6_u0AE0_u0AB3.akhn_u0AE0.half
+StartChar: ta_virama_ra_viramadeva
 Encoding: 65606 -1 148
 Width: 403
 GlyphClass: 2
@@ -6380,11 +6380,11 @@ SplineSet
  98 100 l 1,18,-1
  98 100 l 1,0,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AA6_u0AE0_u0AB3.akhn u0AE0
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AA6_u0AE0_u0AB3.akhn u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" tadeva_viramadeva_radeva viramadeva
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" tadeva_viramadeva_radeva viramadeva
 EndChar
 
-StartChar: u0AB8_u0AE0_u0AB3.akhn_u0AE0.half
+StartChar: shadeva_viramadeva_alt
 Encoding: 65607 -1 149
 Width: 479
 GlyphClass: 2
@@ -6423,10 +6423,10 @@ SplineSet
  234 360 234 360 264 355 c 1,39,-1
  264 355 l 1,27,28
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" u0AB8_u0AE0_u0AB3.akhn u0AE0
+Ligature2: "'half' Half Forms in Gujarati lookup 3 subtable" shadeva_viramadeva_radeva viramadeva
 EndChar
 
-StartChar: u0AA6_u0AE0_u0AA6.akhn_u0AE0.psts
+StartChar: ta_virama_ta_viramadeva
 Encoding: 65608 -1 150
 Width: 428
 GlyphClass: 2
@@ -6451,10 +6451,10 @@ SplineSet
  88 119 88 119 88 195 c 1,18,-1
  88 195 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AA6_u0AE0_u0AA6.akhn u0AE0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" tadeva_viramadeva_tadeva viramadeva
 EndChar
 
-StartChar: u0A97_u0AB3_u0AE0.blwf.vatu
+StartChar: kadeva_viramadeva_radeva
 Encoding: 65609 -1 151
 Width: 462
 GlyphClass: 2
@@ -6502,10 +6502,10 @@ SplineSet
  307 0 307 0 235 0 c 1,47,-1
  235 0 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A97 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" kadeva viramadeva_radeva
 EndChar
 
-StartChar: u0A98_u0AB3_u0AE0.blwf.vatu
+StartChar: khadeva_viramadeva_radeva
 Encoding: 65610 -1 152
 Width: 636
 GlyphClass: 2
@@ -6548,10 +6548,10 @@ SplineSet
  91 218 91 218 91 280 c 1,38,-1
  91 280 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A98 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" khadeva viramadeva_radeva
 EndChar
 
-StartChar: u0A99_u0AB3_u0AE0.blwf.vatu
+StartChar: gadeva_viramadeva_radeva
 Encoding: 65611 -1 153
 Width: 581
 GlyphClass: 2
@@ -6590,10 +6590,10 @@ SplineSet
  253 145 253 145 176 145 c 1,35,-1
  176 145 l 1,9,10
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A99 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" gadeva viramadeva_radeva
 EndChar
 
-StartChar: u0A9A_u0AB3_u0AE0.blwf.vatu
+StartChar: ghadeva_viramadeva_radeva
 Encoding: 65612 -1 154
 Width: 564
 GlyphClass: 2
@@ -6636,10 +6636,10 @@ SplineSet
  414 500 l 1,41,-1
  414 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A9A u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" ghadeva viramadeva_radeva
 EndChar
 
-StartChar: glyph187
+StartChar: ngadeva_viramadeva_radeva
 Encoding: 65613 -1 155
 Width: 539
 GlyphClass: 2
@@ -6694,7 +6694,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9C_u0AB3_u0AE0.blwf.vatu
+StartChar: cadeva_viramadeva_radeva
 Encoding: 65614 -1 156
 Width: 638
 GlyphClass: 2
@@ -6735,10 +6735,10 @@ SplineSet
  33 265 l 1,39,-1
  33 265 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A9C u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" cadeva viramadeva_radeva
 EndChar
 
-StartChar: glyph189
+StartChar: chadeva_viramadeva_radeva
 Encoding: 65615 -1 157
 Width: 620
 GlyphClass: 2
@@ -6802,7 +6802,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9E_u0AB3_u0AE0.blwf.vatu
+StartChar: jadeva_viramadeva_radeva
 Encoding: 65616 -1 158
 Width: 611
 GlyphClass: 2
@@ -6861,10 +6861,10 @@ SplineSet
  366 50 366 50 391 50 c 1,62,-1
  391 50 l 1,50,51
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A9E u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" jadeva viramadeva_radeva
 EndChar
 
-StartChar: u0A9F_u0AB3_u0AE0.blwf.vatu
+StartChar: jhadeva_viramadeva_radeva
 Encoding: 65617 -1 159
 Width: 631
 GlyphClass: 2
@@ -6916,10 +6916,10 @@ SplineSet
  495 -10 495 -10 433 -10 c 1,57,-1
  433 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0A9F u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" jhadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AA0_u0AB3_u0AE0.blwf.vatu
+StartChar: nyadeva_viramadeva_radeva
 Encoding: 65618 -1 160
 Width: 673
 GlyphClass: 2
@@ -6959,10 +6959,10 @@ SplineSet
  54 177 54 177 23 230 c 1,37,-1
  23 230 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AA0 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" nyadeva viramadeva_radeva
 EndChar
 
-StartChar: glyph193
+StartChar: ttadeva_viramadeva_radeva
 Encoding: 65619 -1 161
 Width: 442
 GlyphClass: 2
@@ -7007,7 +7007,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph194
+StartChar: tthadeva_viramadeva_radeva
 Encoding: 65620 -1 162
 Width: 496
 GlyphClass: 2
@@ -7055,7 +7055,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph195
+StartChar: ddadeva_viramadeva_radeva
 Encoding: 65621 -1 163
 Width: 498
 GlyphClass: 2
@@ -7100,7 +7100,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph196
+StartChar: ddhadeva_viramdeva_radeva
 Encoding: 65622 -1 164
 Width: 478
 GlyphClass: 2
@@ -7160,7 +7160,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA5_u0AB3_u0AE0.blwf.vatu
+StartChar: nnadeva_viramadeva_radeva
 Encoding: 65623 -1 165
 Width: 764
 GlyphClass: 2
@@ -7213,10 +7213,10 @@ SplineSet
  614 500 l 1,52,-1
  614 500 l 1,44,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AA5 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" nnadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AA6_u0AE0_u0AB3.akhn
+StartChar: tadeva_viramadeva_radeva
 Encoding: 65624 -1 166
 Width: 573
 GlyphClass: 2
@@ -7245,11 +7245,11 @@ SplineSet
  423 500 l 1,22,-1
  423 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AA6 u0AB3_u0AE0.blwf
-Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" u0AA6 u0AE0 u0AB3
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" tadeva viramadeva_radeva
+Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" tadeva viramadeva radeva
 EndChar
 
-StartChar: u0AA7_u0AB3_u0AE0.blwf.vatu
+StartChar: thadeva_viramadeva_radeva
 Encoding: 65625 -1 167
 Width: 600
 GlyphClass: 2
@@ -7295,10 +7295,10 @@ SplineSet
  188 361 188 361 230 350 c 1,46,-1
  230 350 l 1,34,35
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AA7 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" thadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AA8_u0AB3_u0AE0.blwf.vatu
+StartChar: dadeva_viramadeva_radeva
 Encoding: 65626 -1 168
 Width: 499
 GlyphClass: 2
@@ -7350,10 +7350,10 @@ SplineSet
  311 158 311 158 318 145 c 1,56,-1
  318 145 l 1,44,45
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AA8 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" dadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AAA_u0AB3_u0AE0.blwf.vatu
+StartChar: dhadeva_viramadeva_radeva
 Encoding: 65627 -1 169
 Width: 601
 GlyphClass: 2
@@ -7392,10 +7392,10 @@ SplineSet
  66 146 66 146 66 190 c 1,37,-1
  66 190 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AAA u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" dhadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AAB_u0AB3_u0AE0.blwf.vatu
+StartChar: nadeva_viramadeva_radeva
 Encoding: 65628 -1 170
 Width: 589
 GlyphClass: 2
@@ -7435,10 +7435,10 @@ SplineSet
  163 175 163 175 194 175 c 1,36,-1
  194 175 l 1,24,25
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AAB u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" nadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AAC_u0AB3_u0AE0.blwf.vatu
+StartChar: padeva_viramadeva_radeva
 Encoding: 65629 -1 171
 Width: 573
 GlyphClass: 2
@@ -7472,10 +7472,10 @@ SplineSet
  108 400 l 1,28,-1
  108 400 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AAC u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" padeva viramadeva_radeva
 EndChar
 
-StartChar: u0AAD_u0AB3_u0AE0.blwf.vatu
+StartChar: phadeva_viramadeva_radeva
 Encoding: 65630 -1 172
 Width: 464
 GlyphClass: 2
@@ -7527,10 +7527,10 @@ SplineSet
  365 -110 l 1,54,-1
  365 -110 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AAD u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" phadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AAE_u0AB3_u0AE0.blwf.vatu
+StartChar: badeva_viramadeva_radeva
 Encoding: 65631 -1 173
 Width: 667
 GlyphClass: 2
@@ -7570,10 +7570,10 @@ SplineSet
  47 235 47 235 47 312 c 1,35,-1
  47 312 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AAE u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" badeva viramadeva_radeva
 EndChar
 
-StartChar: u0AAF_u0AB3_u0AE0.blwf.vatu
+StartChar: bhadeva_viramadeva_radeva
 Encoding: 65632 -1 174
 Width: 692
 GlyphClass: 2
@@ -7616,10 +7616,10 @@ SplineSet
  47 214 47 214 47 290 c 1,41,-1
  47 290 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AAF u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" bhadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AB0_u0AB3_u0AE0.blwf.vatu
+StartChar: madeva_viramadeva_radeva
 Encoding: 65633 -1 175
 Width: 566
 GlyphClass: 2
@@ -7668,10 +7668,10 @@ SplineSet
  128 120 128 120 151 120 c 1,45,-1
  151 120 l 1,34,35
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB0 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" madeva viramadeva_radeva
 EndChar
 
-StartChar: u0AB2_u0AB3_u0AE0.blwf.vatu
+StartChar: yadeva_viramadeva_radeva
 Encoding: 65634 -1 176
 Width: 570
 GlyphClass: 2
@@ -7710,10 +7710,10 @@ SplineSet
  50 217 50 217 50 280 c 1,35,-1
  50 280 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB2 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" yadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AB5_u0AB3_u0AE0.blwf.vatu
+StartChar: ladeva_viramadeva_radeva
 Encoding: 65635 -1 177
 Width: 608
 GlyphClass: 2
@@ -7752,10 +7752,10 @@ SplineSet
  248 0 l 1,31,-1
  248 0 l 1,13,14
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB5 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" ladeva viramadeva_radeva
 EndChar
 
-StartChar: u0AB6_u0AB3_u0AE0.blwf.vatu
+StartChar: lladeva_viramadeva_radeva
 Encoding: 65636 -1 178
 Width: 666
 GlyphClass: 2
@@ -7798,10 +7798,10 @@ SplineSet
  46 215 46 215 46 300 c 1,42,-1
  46 300 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB6 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" lladeva viramadeva_radeva
 EndChar
 
-StartChar: u0AB7_u0AB3_u0AE0.blwf.vatu
+StartChar: vadeva_viramadeva_radeva
 Encoding: 65637 -1 179
 Width: 559
 GlyphClass: 2
@@ -7833,10 +7833,10 @@ SplineSet
  49 246 49 246 49 320 c 1,26,-1
  49 320 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB7 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" lladeva viramadeva_radeva
 EndChar
 
-StartChar: u0AB8_u0AE0_u0AB3.akhn
+StartChar: shadeva_viramadeva_radeva
 Encoding: 65638 -1 180
 Width: 635
 GlyphClass: 2
@@ -7884,11 +7884,11 @@ SplineSet
  218 365 218 365 250 350 c 1,50,-1
  250 350 l 1,38,39
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB8 u0AB3_u0AE0.blwf
-Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" u0AB8 u0AE0 u0AB3
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" lladeva viramadeva_radeva
+Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" lladeva viramadeva radeva
 EndChar
 
-StartChar: u0AB9_u0AB3_u0AE0.blwf.vatu
+StartChar: ssadeva_viramadeva_radeva
 Encoding: 65639 -1 181
 Width: 562
 GlyphClass: 2
@@ -7924,10 +7924,10 @@ SplineSet
  150 290 l 2,33,34
  152 220 152 220 234 198 c 0,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0AB9 u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" lladeva viramadeva_radeva
 EndChar
 
-StartChar: u0ABC_u0AB3_u0AE0.blwf.vatu
+StartChar: sadeva_viramadeva_radeva
 Encoding: 65640 -1 182
 Width: 630
 GlyphClass: 2
@@ -7976,10 +7976,10 @@ SplineSet
  20 470 l 1,47,-1
  20 470 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0ABC u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" lladeva viramadeva_radeva
 EndChar
 
-StartChar: u0ABD_u0AB3_u0AE0.blwf.vatu
+StartChar: hadeva_viramdeva_radeva
 Encoding: 65641 -1 183
 Width: 539
 GlyphClass: 2
@@ -8027,10 +8027,10 @@ SplineSet
  298 300 l 1,48,-1
  298 300 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" u0ABD u0AB3_u0AE0.blwf
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 4 subtable" sadeva viramadeva_radeva
 EndChar
 
-StartChar: u0AC9_u0A85.abvs
+StartChar: vowelsignedeva_anusvaradeva
 Encoding: 65642 -1 184
 Width: 0
 GlyphClass: 4
@@ -8060,10 +8060,10 @@ SplineSet
  -47 635 -47 635 -70 635 c 1,23,-1
  -70 635 l 1,11,12
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC9 u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignedeva anusvaradeva
 EndChar
 
-StartChar: u0AC9_u0AB3_u0AE0.rphf.abvs
+StartChar: vowelsignedeva_rphf
 Encoding: 65643 -1 185
 Width: 0
 GlyphClass: 4
@@ -8094,10 +8094,10 @@ SplineSet
  -406 705 -406 705 -445 705 c 1,26,-1
  -445 705 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC9 u0AB3_u0AE0.rphf
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignedeva rphf
 EndChar
 
-StartChar: u0AC9_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+StartChar: vowelsignedeva_rphf_anusvara
 Encoding: 65644 -1 186
 Width: 0
 GlyphClass: 4
@@ -8138,10 +8138,10 @@ SplineSet
  -406 705 -406 705 -445 705 c 1,39,-1
  -445 705 l 1,13,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC9 u0AB3_u0AE0.rphf_u0A85.abvs
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignedeva rphf_anusvara
 EndChar
 
-StartChar: u0ACB_u0A85.abvs
+StartChar: vowelsignaideva_anusvaradeva
 Encoding: 65645 -1 187
 Width: 0
 GlyphClass: 4
@@ -8181,10 +8181,10 @@ SplineSet
  -27 645 -27 645 -50 645 c 1,34,-1
  -50 645 l 1,22,23
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACB u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignaideva anusvaradeva
 EndChar
 
-StartChar: u0ACB_u0AB3_u0AE0.rphf.abvs
+StartChar: vowelsignaideva_rphf
 Encoding: 65646 -1 188
 Width: 0
 GlyphClass: 4
@@ -8223,10 +8223,10 @@ SplineSet
  -461 705 -461 705 -500 705 c 1,34,-1
  -500 705 l 1,24,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACB u0AB3_u0AE0.rphf
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignaideva rphf
 EndChar
 
-StartChar: u0ACB_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+StartChar: vowelsignaideva_rphf_anusvara
 Encoding: 65647 -1 189
 Width: 0
 GlyphClass: 4
@@ -8275,10 +8275,10 @@ SplineSet
  -461 705 -461 705 -500 705 c 1,47,-1
  -500 705 l 1,37,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACB u0AB3_u0AE0.rphf_u0A85.abvs
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignaideva rphf_anusvara
 EndChar
 
-StartChar: u0AC2_u0A85.abvs
+StartChar: vowelsigniideva_anusvaradeva
 Encoding: 65648 -1 190
 Width: 240
 GlyphClass: 2
@@ -8313,10 +8313,10 @@ SplineSet
  228 630 228 630 205 630 c 1,31,-1
  205 630 l 1,19,20
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC2 u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsigniideva anusvaradeva
 EndChar
 
-StartChar: u0AC2_u0AB3_u0AE0.rphf.abvs
+StartChar: vowelsigniideva_rphf
 Encoding: 65649 -1 191
 Width: 240
 GlyphClass: 2
@@ -8350,10 +8350,10 @@ SplineSet
  -150 560 l 1,31,-1
  -150 560 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC2 u0AB3_u0AE0.rphf
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsigniideva rphf
 EndChar
 
-StartChar: u0AC2_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+StartChar: vowelsigniideva_rphf_anusvara
 Encoding: 65650 -1 192
 Width: 240
 GlyphClass: 2
@@ -8397,10 +8397,10 @@ SplineSet
  -150 560 l 1,44,-1
  -150 560 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC2 u0AB3_u0AE0.rphf_u0A85.abvs
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsigniideva rphf_anusvara
 EndChar
 
-StartChar: u0ACD_u0A85.abvs
+StartChar: vowelsignodeva_anusvaradeva
 Encoding: 65651 -1 193
 Width: 240
 GlyphClass: 2
@@ -8435,10 +8435,10 @@ SplineSet
  163 640 163 640 140 640 c 1,28,-1
  140 640 l 1,16,17
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACD u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignodeva anusvaradeva
 EndChar
 
-StartChar: u0ACD_u0AB3_u0AE0.rphf.abvs
+StartChar: vowelsignodeva_rphf
 Encoding: 65652 -1 194
 Width: 240
 GlyphClass: 2
@@ -8474,10 +8474,10 @@ SplineSet
  -166 710 -166 710 -205 710 c 1,31,-1
  -205 710 l 1,5,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACD u0AB3_u0AE0.rphf
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignodeva rphf
 EndChar
 
-StartChar: u0ACD_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+StartChar: vowelsignodeva_rphf_anusvara
 Encoding: 65653 -1 195
 Width: 240
 GlyphClass: 2
@@ -8523,10 +8523,10 @@ SplineSet
  -166 715 -166 715 -205 715 c 1,44,-1
  -205 715 l 1,18,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACD u0AB3_u0AE0.rphf_u0A85.abvs
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignodeva rphf_anusvara
 EndChar
 
-StartChar: u0AD0_u0A85.abvs
+StartChar: vowelsignaudeva_anusvaradeva
 Encoding: 65654 -1 196
 Width: 240
 GlyphClass: 2
@@ -8571,10 +8571,10 @@ SplineSet
  -224 705 -224 705 -265 705 c 1,39,-1
  -265 705 l 1,29,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AD0 u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignaudeva anusvaradeva
 EndChar
 
-StartChar: u0AD0_u0AB3_u0AE0.rphf.abvs
+StartChar: vowelsignaudeva_rphf
 Encoding: 65655 -1 197
 Width: 240
 GlyphClass: 2
@@ -8618,10 +8618,10 @@ SplineSet
  -224 705 -224 705 -265 705 c 1,39,-1
  -265 705 l 1,29,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AD0 u0AB3_u0AE0.rphf
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignaudeva rphf
 EndChar
 
-StartChar: u0AD0_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+StartChar: vowelsignaudeva_rphf_anusvara
 Encoding: 65656 -1 198
 Width: 240
 GlyphClass: 2
@@ -8675,10 +8675,10 @@ SplineSet
  -224 705 -224 705 -265 705 c 1,52,-1
  -265 705 l 1,42,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AD0 u0AB3_u0AE0.rphf_u0A85.abvs
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsignaudeva rphf_anusvara
 EndChar
 
-StartChar: u0AC8_u0A85.abvs
+StartChar: vowelsigncandraedeva_anusvara
 Encoding: 65657 -1 199
 Width: 0
 GlyphClass: 4
@@ -8710,10 +8710,10 @@ SplineSet
  -90 500 -90 500 -120 500 c 1,27,-1
  -120 500 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AC8 u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsigncandraedeva anusvaradeva
 EndChar
 
-StartChar: u0ACC_u0A85.abvs
+StartChar: vowelsigncandraodeva_anusvara
 Encoding: 65658 -1 200
 Width: 240
 GlyphClass: 2
@@ -8750,10 +8750,10 @@ SplineSet
  138 625 138 625 115 625 c 1,32,-1
  115 625 l 1,20,21
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0ACC u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" vowelsigncandraodeva anusvaradeva
 EndChar
 
-StartChar: u0A89_u0A85.abvs
+StartChar: ideva_anusvaradeva
 Encoding: 65659 -1 201
 Width: 529
 GlyphClass: 2
@@ -8811,10 +8811,10 @@ SplineSet
  251 590 251 590 228 590 c 1,66,-1
  228 590 l 1,54,55
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0A89 u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" ideva anusvaradeva
 EndChar
 
-StartChar: u0A8A_u0A85.abvs
+StartChar: iideva_anusvaradeva
 Encoding: 65660 -1 202
 Width: 533
 GlyphClass: 2
@@ -8876,10 +8876,10 @@ SplineSet
  270 590 270 590 247 590 c 1,72,-1
  247 590 l 1,60,61
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0A8A u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" iideva anusvaradeva
 EndChar
 
-StartChar: u0A8B_u0A85.abvs
+StartChar: udeva_anusvaradeva
 Encoding: 65661 -1 203
 Width: 551
 GlyphClass: 2
@@ -8933,10 +8933,10 @@ SplineSet
  488 590 488 590 465 590 c 1,60,-1
  465 590 l 1,48,49
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0A8B u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" udeva anusvaradeva
 EndChar
 
-StartChar: u0A8C_u0A85.abvs
+StartChar: uudeva_anusvaradeva
 Encoding: 65662 -1 204
 Width: 735
 GlyphClass: 2
@@ -8996,10 +8996,10 @@ SplineSet
  723 620 723 620 700 620 c 1,68,-1
  700 620 l 1,56,57
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0A8C u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" uudeva anusvaradeva
 EndChar
 
-StartChar: u0AB3_u0AC3.blws
+StartChar: radeva_vowelsignudeva
 Encoding: 65663 -1 205
 Width: 664
 GlyphClass: 2
@@ -9051,10 +9051,10 @@ SplineSet
  515 100 515 100 434 100 c 1,54,-1
  434 100 l 1,34,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0AB3 u0AC3
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" radeva vowelsignudeva
 EndChar
 
-StartChar: glyph238
+StartChar: radeva_vowelsignuudeva
 Encoding: 65664 -1 206
 Width: 680
 GlyphClass: 2
@@ -9111,7 +9111,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0ABD_u0AC5.blws
+StartChar: hadeva_vowelsignvocalicrdeva
 Encoding: 65665 -1 207
 Width: 545
 GlyphClass: 2
@@ -9168,10 +9168,10 @@ SplineSet
  460 -55 l 1,64,-1
  460 -55 l 1,0,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0ABD u0AC5
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" sadeva vowelsignvocalicrdeva
 EndChar
 
-StartChar: u0A9E_u0AC0.psts
+StartChar: jadeva_vowelsignaadeva.psts
 Encoding: 65666 -1 208
 Width: 779
 GlyphClass: 2
@@ -9225,10 +9225,10 @@ SplineSet
  375 50 375 50 398 50 c 1,60,-1
  398 50 l 1,48,49
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0AC0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignaadeva
 EndChar
 
-StartChar: u0A9E_u0AC2.psts
+StartChar: jadeva_vowelsigniideva.psts
 Encoding: 65667 -1 209
 Width: 784
 GlyphClass: 2
@@ -9291,10 +9291,10 @@ SplineSet
  357 185 357 185 367 185 c 1,75,-1
  367 185 l 1,63,64
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0AC2
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsigniideva
 EndChar
 
-StartChar: u0AB3_u0AC4.blws
+StartChar: radeva_vowelsignuudeva_alt
 Encoding: 65668 -1 210
 Width: 437
 GlyphClass: 2
@@ -9343,10 +9343,10 @@ SplineSet
  353 -130 l 1,54,-1
  353 -130 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0AB3 u0AC4
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" radeva vowelsignuudeva
 EndChar
 
-StartChar: u0AA8_u0AC5.blws
+StartChar: dadeva_vowelsignvocalicrdeva
 Encoding: 65669 -1 211
 Width: 466
 GlyphClass: 2
@@ -9390,10 +9390,10 @@ SplineSet
  184 260 184 260 238 260 c 1,47,-1
  238 260 l 1,0,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0AA8 u0AC5
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" dadeva vowelsignvocalicrdeva
 EndChar
 
-StartChar: u0A97_u0AE0.half_u0A97.psts
+StartChar: kadeva_viramadeva_kadeva
 Encoding: 65670 -1 212
 Width: 885
 GlyphClass: 2
@@ -9466,10 +9466,10 @@ SplineSet
  309 -10 309 -10 232 -10 c 1,84,-1
  232 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A97_u0AE0.half u0A97
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" kadeva_viramadeva kadeva
 EndChar
 
-StartChar: u0A99_u0AE0.half_u0AAB.psts
+StartChar: gadeva_viramadeva_nadeva
 Encoding: 65671 -1 213
 Width: 634
 GlyphClass: 2
@@ -9515,10 +9515,10 @@ SplineSet
  484 230 l 1,46,-1
  484 230 l 1,27,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A99_u0AE0.half u0AAB
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" gadeva_viramadeva nadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.half_u0A97.psts
+StartChar: ngadeva_viramadeva_kadeva
 Encoding: 65672 -1 214
 Width: 555
 GlyphClass: 2
@@ -9604,10 +9604,10 @@ SplineSet
  503 355 503 355 482 355 c 1,99,-1
  482 355 l 1,87,88
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9B_u0AE0.half u0A97
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" ngadeva_viramadeva kadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.half_u0A98.psts
+StartChar: ngadeva_viramadeva_khadeva
 Encoding: 65673 -1 215
 Width: 585
 GlyphClass: 2
@@ -9705,10 +9705,10 @@ SplineSet
  538 355 538 355 517 355 c 1,110,-1
  517 355 l 1,98,99
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9B_u0AE0.half u0A98
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" ngadeva_viramadeva khadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.half_u0A99.psts
+StartChar: ngadeva_viramadeva_gadeva
 Encoding: 65674 -1 216
 Width: 551
 GlyphClass: 2
@@ -9782,10 +9782,10 @@ SplineSet
  502 355 502 355 481 355 c 1,84,-1
  481 355 l 1,72,73
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9B_u0AE0.half u0A99
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" ngadeva_viramadeva gadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.half_u0A9A.psts
+StartChar: ngadeva_viramadeva_ghadeva
 Encoding: 65675 -1 217
 Width: 552
 GlyphClass: 2
@@ -9869,10 +9869,10 @@ SplineSet
  503 355 503 355 482 355 c 1,95,-1
  482 355 l 1,83,84
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9B_u0AE0.half u0A9A
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" ngadeva_viramadeva ghadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.half_u0AB0.psts
+StartChar: ngadeva_viramadeva_madeva
 Encoding: 65676 -1 218
 Width: 548
 GlyphClass: 2
@@ -9960,10 +9960,10 @@ SplineSet
  499 355 499 355 478 355 c 1,96,-1
  478 355 l 1,84,85
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9B_u0AE0.half u0AB0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" ngadeva_viramadeva madeva
 EndChar
 
-StartChar: u0A9B_u0AE0_u0A97_u0AE0_u0AB9.akhn
+StartChar: nga_virama_ka_virama_ssadeva
 Encoding: 65677 -1 219
 Width: 555
 GlyphClass: 2
@@ -10061,10 +10061,10 @@ SplineSet
  506 355 506 355 485 355 c 1,116,-1
  485 355 l 1,104,105
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" u0A9B u0AE0 u0A97 u0AE0 u0AB9
+Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" ngadeva viramadeva kadeva viramadeva lladeva
 EndChar
 
-StartChar: u0A9E_u0AE0.half_u0A9E.pres
+StartChar: jadeva_viramadeva_jadeva
 Encoding: 65678 -1 220
 Width: 599
 GlyphClass: 2
@@ -10159,10 +10159,10 @@ SplineSet
  345 253 345 253 370 253 c 1,115,-1
  370 253 l 1,103,104
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0A9E_u0AE0.half u0A9E
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" jadeva_viramadeva jadeva
 EndChar
 
-StartChar: u0AA0_u0AE0.half_u0A9C.psts
+StartChar: nyadeva_viramadeva_cadeva
 Encoding: 65679 -1 221
 Width: 631
 GlyphClass: 2
@@ -10212,10 +10212,10 @@ SplineSet
  481 500 l 1,51,-1
  481 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AA0_u0AE0.half u0A9C
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" nyadeva_viramadeva cadeva
 EndChar
 
-StartChar: u0AA0_u0AE0.half_u0A9E.psts
+StartChar: nyadeva_viramadeva_jadeva
 Encoding: 65680 -1 222
 Width: 661
 GlyphClass: 2
@@ -10265,10 +10265,10 @@ SplineSet
  511 500 l 1,51,-1
  511 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AA0_u0AE0.half u0A9E
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" nyadeva_viramadeva jadeva
 EndChar
 
-StartChar: u0AA1_u0AE0.half_u0AA1.pres
+StartChar: ttadeva_viramadeva_ttadeva
 Encoding: 65681 -1 223
 Width: 588
 GlyphClass: 2
@@ -10326,10 +10326,10 @@ SplineSet
  372 -50 372 -50 283 -50 c 1,66,-1
  283 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA1_u0AE0.half u0AA1
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ttadeva_viramadeva ttadeva
 EndChar
 
-StartChar: u0AA1_u0AE0.half_u0AB2.pres
+StartChar: ttadeva_viramadeva_yadeva
 Encoding: 65682 -1 224
 Width: 941
 GlyphClass: 2
@@ -10392,10 +10392,10 @@ SplineSet
  287 -10 287 -10 226 -10 c 1,72,-1
  226 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA1_u0AE0.half u0AB2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ttadeva_viramadeva yadeva
 EndChar
 
-StartChar: u0AA1_u0AE0.half_u0AB7.pres
+StartChar: ttadeva_viramadeva_vadeva
 Encoding: 65683 -1 225
 Width: 443
 GlyphClass: 2
@@ -10455,10 +10455,10 @@ SplineSet
  244 119 244 119 221 119 c 1,66,-1
  221 119 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA1_u0AE0.half u0AB7
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ttadeva_viramadeva lladeva
 EndChar
 
-StartChar: u0AA2_u0AE0.half_u0AA2.pres
+StartChar: tthadeva_viramadeva_tthadeva
 Encoding: 65684 -1 226
 Width: 610
 GlyphClass: 2
@@ -10524,10 +10524,10 @@ SplineSet
  214 250 214 250 305 250 c 1,75,-1
  305 250 l 1,63,64
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA2_u0AE0.half u0AA2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" tthadeva_viramadeva tthadeva
 EndChar
 
-StartChar: u0AA2_u0AE0.half_u0AB2.pres
+StartChar: tthadeva_viramadeva_yadeva
 Encoding: 65685 -1 227
 Width: 1023
 GlyphClass: 2
@@ -10596,10 +10596,10 @@ SplineSet
  193 25 193 25 253 25 c 1,76,-1
  253 25 l 1,64,65
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA2_u0AE0.half u0AB2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" tthadeva_viramadeva yadeva
 EndChar
 
-StartChar: u0AA3_u0AE0.half_u0AA3.pres
+StartChar: ddadeva_viramadeva_ddadeva
 Encoding: 65686 -1 228
 Width: 592
 GlyphClass: 2
@@ -10669,10 +10669,10 @@ SplineSet
  419 -90 419 -90 324 -90 c 1,84,-1
  324 -90 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA3_u0AE0.half u0AA3
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ddadeva_viramadeva ddadeva
 EndChar
 
-StartChar: u0AA3_u0AE0.half_u0AB2.pres
+StartChar: ddadeva_viramadeva_yadeva
 Encoding: 65687 -1 229
 Width: 1012
 GlyphClass: 2
@@ -10738,10 +10738,10 @@ SplineSet
  724 45 724 45 662 45 c 1,72,-1
  662 45 l 1,37,38
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA3_u0AE0.half u0AB2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ddadeva_viramadeva yadeva
 EndChar
 
-StartChar: u0AA3_u0AE0.half_u0AA4.pres
+StartChar: ddadeva_viramadeva_ddhadeva
 Encoding: 65688 -1 230
 Width: 604
 GlyphClass: 2
@@ -10813,10 +10813,10 @@ SplineSet
  415 10 415 10 434 10 c 1,85,-1
  434 10 l 1,73,74
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA3_u0AE0.half u0AA4
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ddadeva_viramadeva ddhadeva
 EndChar
 
-StartChar: u0AA4_u0AE0.half_u0AA4.pres
+StartChar: ddhadeva_viramadeva_ddhadeva
 Encoding: 65689 -1 231
 Width: 602
 GlyphClass: 2
@@ -10892,10 +10892,10 @@ SplineSet
  407 235 407 235 434 235 c 1,90,-1
  434 235 l 1,78,79
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA4_u0AE0.half u0AA4
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ddhadeva_viramadeva ddhadeva
 EndChar
 
-StartChar: u0AA4_u0AE0.half_u0AB2.pres
+StartChar: ddhadeva_viramadeva_yadeva
 Encoding: 65690 -1 232
 Width: 990
 GlyphClass: 2
@@ -10974,10 +10974,10 @@ SplineSet
  317 60 317 60 340 60 c 1,92,-1
  340 60 l 1,80,81
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA4_u0AE0.half u0AB2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" ddhadeva_viramadeva yadeva
 EndChar
 
-StartChar: u0AA6_u0AE0_u0AA6.akhn
+StartChar: tadeva_viramadeva_tadeva
 Encoding: 65691 -1 233
 Width: 598
 GlyphClass: 2
@@ -11006,10 +11006,10 @@ SplineSet
  88 118 88 118 88 195 c 1,22,-1
  88 195 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" u0AA6 u0AE0 u0AA6
+Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" tadeva viramadeva tadeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AB2.pres
+StartChar: dadeva_viramadeva_yadeva
 Encoding: 65692 -1 234
 Width: 588
 GlyphClass: 2
@@ -11056,10 +11056,10 @@ SplineSet
  28 317 28 317 28 355 c 1,50,-1
  28 355 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA8_u0AE0.half u0AB2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" dadeva_viramadeva yadeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0A99.psts
+StartChar: dadeva_viramadeva_radeva_alt
 Encoding: 65693 -1 235
 Width: 493
 GlyphClass: 2
@@ -11129,7 +11129,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AB7.pres
+StartChar: dadeva_viramadeva_vadeva
 Encoding: 65694 -1 236
 Width: 602
 GlyphClass: 2
@@ -11194,10 +11194,10 @@ SplineSet
  419 172 419 172 429 155 c 1,73,-1
  429 155 l 1,61,62
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA8_u0AE0.half u0AB7
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" dadeva_viramadeva lladeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AA8.pres
+StartChar: dadeva_viramadeva_dadeva
 Encoding: 65695 -1 237
 Width: 518
 GlyphClass: 2
@@ -11265,10 +11265,10 @@ SplineSet
  368 104 368 104 380 90 c 1,78,-1
  380 90 l 1,66,67
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA8_u0AE0.half u0AA8
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" dadeva_viramadeva dadeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AAA.pres
+StartChar: dadeva_viramadeva_dhadeva
 Encoding: 65696 -1 238
 Width: 600
 GlyphClass: 2
@@ -11346,10 +11346,10 @@ SplineSet
  421 168 421 168 428 155 c 1,94,-1
  428 155 l 1,82,83
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA8_u0AE0.half u0AAA
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" dadeva_viramadeva dhadeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AAF.psts
+StartChar: dadeva_viramadeva_jadeva
 Encoding: 65697 -1 239
 Width: 687
 GlyphClass: 2
@@ -11429,7 +11429,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AB0.pres
+StartChar: dadeva_viramadeva_madeva
 Encoding: 65698 -1 240
 Width: 645
 GlyphClass: 2
@@ -11486,10 +11486,10 @@ SplineSet
  212 55 212 55 235 55 c 1,61,-1
  235 55 l 1,51,52
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA8_u0AE0.half u0AB0
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" dadeva_viramadeva madeva
 EndChar
 
-StartChar: u0AA8_u0AE0.half_u0AAB.pres
+StartChar: dadeva_viramadeva_nadeva
 Encoding: 65699 -1 241
 Width: 506
 GlyphClass: 2
@@ -11551,10 +11551,10 @@ SplineSet
  318 158 318 158 325 145 c 1,69,-1
  325 145 l 1,57,58
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AA8_u0AE0.half u0AAB
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" dadeva_viramadeva nadeva
 EndChar
 
-StartChar: u0AAB_u0AE0.half_u0AAB.pres
+StartChar: nadeva_viramadeva_nadeva
 Encoding: 65700 -1 242
 Width: 556
 GlyphClass: 2
@@ -11592,10 +11592,10 @@ SplineSet
  406 310 l 1,36,-1
  406 310 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AAB_u0AE0.half u0AAB
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" nadeva_viramadeva nadeva
 EndChar
 
-StartChar: u0AAC_u0AE0.half_u0AA6.pres
+StartChar: padeva_viramadeva_tadeva
 Encoding: 65701 -1 243
 Width: 561
 GlyphClass: 2
@@ -11635,10 +11635,10 @@ SplineSet
  76 93 76 93 76 145 c 1,37,-1
  76 145 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AAC_u0AE0.half u0AA6
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" padeva_viramadeva tadeva
 EndChar
 
-StartChar: u0AB5_u0AE0.half_u0AB5.psts
+StartChar: ladeva_viramadeva.half_u0AB5
 Encoding: 65702 -1 244
 Width: 669
 GlyphClass: 2
@@ -11688,10 +11688,10 @@ SplineSet
  269 -25 l 1,46,-1
  269 -25 l 1,13,14
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB5_u0AE0.half u0AB5
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" ladeva_viramadeva ladeva
 EndChar
 
-StartChar: u0AB8_u0AE0.half_u0AB7.pres
+StartChar: shadeva_viramadeva_vadeva
 Encoding: 65703 -1 245
 Width: 645
 GlyphClass: 2
@@ -11750,11 +11750,11 @@ SplineSet
  216 376 216 376 245 365 c 1,64,-1
  245 365 l 1,52,53
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AB8_u0AE0.half u0AB7
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB8_u0AE0_u0AB3.akhn_u0AE0.half u0AB7
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" shadeva_viramadeva_alt lladeva
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" lladeva_viramadeva lladeva
 EndChar
 
-StartChar: u0AB8_u0AE0.half_u0AAB.pres
+StartChar: shadeva_viramadeva_nadeva
 Encoding: 65704 -1 246
 Width: 646
 GlyphClass: 2
@@ -11807,11 +11807,11 @@ SplineSet
  214 351 214 351 246 340 c 1,57,-1
  246 340 l 1,45,46
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AB8_u0AE0.half u0AAB
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB8_u0AE0_u0AB3.akhn_u0AE0.half u0AAB
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" shadeva_viramadeva_alt nadeva
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" lladeva_viramadeva nadeva
 EndChar
 
-StartChar: u0AB8_u0AE0.half_u0A9C.psts
+StartChar: shadeva_viramadeva_cadeva
 Encoding: 65705 -1 247
 Width: 646
 GlyphClass: 2
@@ -11869,11 +11869,11 @@ SplineSet
  231 384 231 384 261 370 c 1,61,-1
  261 370 l 1,49,50
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB8_u0AE0_u0AB3.akhn_u0AE0.half u0A9C
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB8_u0AE0.half u0A9C
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" lladeva_viramadeva cadeva
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" shadeva_viramadeva_alt cadeva
 EndChar
 
-StartChar: u0AB8_u0AE0.half_u0AB5.pres
+StartChar: shadeva_viramadeva_ladeva
 Encoding: 65706 -1 248
 Width: 961
 GlyphClass: 2
@@ -11936,11 +11936,11 @@ SplineSet
  811 500 l 1,66,-1
  811 500 l 1,58,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0AB8_u0AE0.half u0AB5
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB8_u0AE0_u0AB3.akhn_u0AE0.half u0AB5
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" shadeva_viramadeva_alt ladeva
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" lladeva_viramadeva ladeva
 EndChar
 
-StartChar: u0AB9_u0AE0.half_u0AA1.psts
+StartChar: ssadeva_viramadeva_ttadeva
 Encoding: 65707 -1 249
 Width: 764
 GlyphClass: 2
@@ -12000,10 +12000,10 @@ SplineSet
  218 160 218 160 268 160 c 1,64,-1
  268 160 l 1,56,57
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB9_u0AE0.half u0AA1
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" lladeva_viramadeva ttadeva
 EndChar
 
-StartChar: u0AB9_u0AE0.half_u0AA2.psts
+StartChar: ssadeva_viramadeva_tthadeva
 Encoding: 65708 -1 250
 Width: 814
 GlyphClass: 2
@@ -12068,10 +12068,10 @@ SplineSet
  516 35 516 35 578 35 c 1,69,-1
  578 35 l 1,57,58
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB9_u0AE0.half u0AA2
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" lladeva_viramadeva tthadeva
 EndChar
 
-StartChar: u0ABC_u0AE0.half_u0AA6_u0AE0_u0AB3.akhn.psts
+StartChar: sadeva_viramadeva_nyadeva
 Encoding: 65709 -1 251
 Width: 904
 GlyphClass: 2
@@ -12132,10 +12132,10 @@ SplineSet
  39 245 l 1,62,-1
  39 245 l 1,23,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0ABC_u0AE0.half u0AA6_u0AE0_u0AB3.akhn
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" lladeva_viramadeva tadeva_viramadeva_radeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half_u0AB0.psts
+StartChar: hadeva_viramadeva_madeva
 Encoding: 65710 -1 252
 Width: 779
 GlyphClass: 2
@@ -12197,10 +12197,10 @@ SplineSet
  353 105 353 105 374 105 c 1,66,-1
  374 105 l 1,56,57
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0ABD_u0AE0.half u0AB0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" sadeva_viramadeva madeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half_u0AB2.psts
+StartChar: hadeva_viramadeva_yadeva
 Encoding: 65711 -1 253
 Width: 771
 GlyphClass: 2
@@ -12257,10 +12257,10 @@ SplineSet
  51 72 51 72 51 165 c 1,62,-1
  51 165 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0ABD_u0AE0.half u0AB2
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" sadeva_viramadeva yadeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half_u0AAB.pres
+StartChar: hadeva_viramadeva_nadeva
 Encoding: 65712 -1 254
 Width: 578
 GlyphClass: 2
@@ -12326,10 +12326,10 @@ SplineSet
  278 58 278 58 301 58 c 1,73,-1
  301 58 l 1,61,62
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0ABD_u0AE0.half u0AAB
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" sadeva_viramadeva nadeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half_u0AA5.pres
+StartChar: hadeva_viramadeva_nnadeva
 Encoding: 65713 -1 255
 Width: 584
 GlyphClass: 2
@@ -12393,10 +12393,10 @@ SplineSet
  244 313 244 313 231 306 c 1,69,-1
  231 306 l 1,55,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0ABD_u0AE0.half u0AA5
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" sadeva_viramadeva nnadeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half_u0AB5.psts
+StartChar: hadeva_viramadeva_ladeva
 Encoding: 65714 -1 256
 Width: 578
 GlyphClass: 2
@@ -12462,10 +12462,10 @@ SplineSet
  113 387 113 387 113 410 c 1,69,-1
  113 410 l 1,19,20
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0ABD_u0AE0.half u0AB5
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" sadeva_viramadeva ladeva
 EndChar
 
-StartChar: u0ABD_u0AE0.half_u0AB7.pres
+StartChar: hadeva_viramadeva_vadeva
 Encoding: 65715 -1 257
 Width: 541
 GlyphClass: 2
@@ -12527,10 +12527,10 @@ SplineSet
  113 387 113 387 113 410 c 1,68,-1
  113 410 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0ABD_u0AE0.half u0AB7
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" sadeva_viramadeva lladeva
 EndChar
 
-StartChar: u0AB6_u0AE0.half_u0AB2.psts
+StartChar: lladeva_viramadeva_yadeva
 Encoding: 65716 -1 258
 Width: 966
 GlyphClass: 2
@@ -12592,10 +12592,10 @@ SplineSet
  446 197 446 197 446 280 c 1,66,-1
  446 280 l 1,31,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0AB6_u0AE0.half u0AB2
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" lladeva_viramadeva yadeva
 EndChar
 
-StartChar: u0A97_u0AE0_u0AB9.akhn
+StartChar: kadeva_viramadeva_ssadeva
 Encoding: 65717 -1 259
 Width: 637
 GlyphClass: 2
@@ -12649,10 +12649,10 @@ SplineSet
  337 -75 l 1,59,-1
  337 -75 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" u0A97 u0AE0 u0AB9
+Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" kadeva viramadeva lladeva
 EndChar
 
-StartChar: u0A9E_u0AE0_u0AA0.akhn
+StartChar: jadeva_viramadeva_nyadeva
 Encoding: 65718 -1 260
 Width: 668
 GlyphClass: 2
@@ -12698,10 +12698,10 @@ SplineSet
  328 -80 l 1,47,-1
  328 -80 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" u0A9E u0AE0 u0AA0
+Ligature2: "'akhn' Akhand in Gujarati lookup 0 subtable" jadeva viramadeva nyadeva
 EndChar
 
-StartChar: u0AB3_u0AE0.blwf
+StartChar: viramadeva_radeva
 Encoding: 65719 -1 261
 Width: 0
 GlyphClass: 4
@@ -12719,10 +12719,10 @@ SplineSet
  -262 -198 l 1,6,-1
  -262 -198 l 1,0,-1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Gujarati lookup 2 subtable" u0AB3 u0AE0
+Ligature2: "'blwf' Below Base Forms in Gujarati lookup 2 subtable" radeva viramadeva
 EndChar
 
-StartChar: u0AB3_u0AE0.blwf_u0AC3.blws
+StartChar: radeva_viramadeva_udeva
 Encoding: 65720 -1 262
 Width: 0
 GlyphClass: 4
@@ -12757,10 +12757,10 @@ SplineSet
  16 -250 16 -250 -85 -250 c 1,31,-1
  -85 -250 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0AB3_u0AE0.blwf u0AC3
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" viramadeva_radeva vowelsignudeva
 EndChar
 
-StartChar: u0AB3_u0AE0.blwf_u0AC4.blws
+StartChar: radeva_viramadeva_uudeva
 Encoding: 65721 -1 263
 Width: 0
 GlyphClass: 4
@@ -12791,10 +12791,10 @@ SplineSet
  265 -240 l 1,25,-1
  265 -240 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0AB3_u0AE0.blwf u0AC4
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" viramadeva_radeva vowelsignuudeva
 EndChar
 
-StartChar: u0AB3_u0AE0.rphf
+StartChar: rphf
 Encoding: 65722 -1 264
 Width: 0
 GlyphClass: 4
@@ -12820,10 +12820,10 @@ SplineSet
  -125 485 l 1,20,-1
  -125 485 l 1,0,1
 EndSplineSet
-Ligature2: "'rphf' Reph Form in Gujarati lookup 1 subtable" u0AB3 u0AE0
+Ligature2: "'rphf' Reph Form in Gujarati lookup 1 subtable" radeva viramadeva
 EndChar
 
-StartChar: u0AB3_u0AE0.rphf_u0A85.abvs
+StartChar: rphf_anusvara
 Encoding: 65723 -1 265
 Width: 0
 GlyphClass: 4
@@ -12859,10 +12859,10 @@ SplineSet
  -47 550 -47 550 -70 550 c 1,33,-1
  -70 550 l 1,21,22
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" u0AB3_u0AE0.rphf u0A85
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 9 subtable" rphf anusvaradeva
 EndChar
 
-StartChar: u0AA5_u0AC3.blws
+StartChar: nnadeva_vowelsignudeva
 Encoding: 65724 -1 266
 Width: 759
 GlyphClass: 2
@@ -12931,10 +12931,10 @@ SplineSet
  631 -205 631 -205 554 -205 c 1,75,-1
  554 -205 l 1,49,50
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" u0AA5 u0AC3
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 5 subtable" nnadeva vowelsignudeva
 EndChar
 
-StartChar: u0A9D_u0AE0.half_u0AB7.pres
+StartChar: chadeva_viramadeva_vadeva
 Encoding: 65725 -1 267
 Width: 602
 GlyphClass: 2
@@ -13012,10 +13012,10 @@ SplineSet
  399 339 399 339 430 339 c 1,89,-1
  430 339 l 1,77,78
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0A9D_u0AE0.half u0AB7
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" chadeva_viramadeva lladeva
 EndChar
 
-StartChar: glyph300
+StartChar: signideva
 Encoding: 65726 -1 268
 Width: 240
 GlyphClass: 2
@@ -13042,7 +13042,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph301
+StartChar: signiideva
 Encoding: 65727 -1 269
 Width: 240
 GlyphClass: 2
@@ -13067,7 +13067,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9E_u0ACD.psts
+StartChar: jadeva_vowelsignodeva
 Encoding: 65728 -1 270
 Width: 779
 GlyphClass: 2
@@ -13131,10 +13131,10 @@ SplineSet
  377 710 377 710 338 710 c 1,71,-1
  338 710 l 1,61,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0ACD
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignodeva
 EndChar
 
-StartChar: u0A9E_u0ACD_u0A85.abvs.psts
+StartChar: ja_vowelsigno_anusvaradeva
 Encoding: 65729 -1 271
 Width: 779
 GlyphClass: 2
@@ -13208,10 +13208,10 @@ SplineSet
  736 645 736 645 713 645 c 1,84,-1
  713 645 l 1,72,73
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0ACD_u0A85.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignodeva_anusvaradeva
 EndChar
 
-StartChar: u0A9E_u0ACD_u0AB3_u0AE0.rphf.abvs.psts
+StartChar: ja_vowelsignoa_rphf
 Encoding: 65730 -1 272
 Width: 779
 GlyphClass: 2
@@ -13286,10 +13286,10 @@ SplineSet
  372 715 372 715 333 715 c 1,87,-1
  333 715 l 1,61,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0ACD_u0AB3_u0AE0.rphf.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignodeva_rphf
 EndChar
 
-StartChar: u0A9E_u0ACD_u0AB3_u0AE0.rphf_u0A85.abvs.abvs.psts
+StartChar: ja_vowelsigno_rphf_anusvara
 Encoding: 65731 -1 273
 Width: 779
 GlyphClass: 2
@@ -13374,10 +13374,10 @@ SplineSet
  372 715 372 715 333 715 c 1,100,-1
  333 715 l 1,74,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0ACD_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignodeva_rphf_anusvara
 EndChar
 
-StartChar: u0A9E_u0AD0.psts
+StartChar: jadeva_vowelsignaudeva
 Encoding: 65732 -1 274
 Width: 779
 GlyphClass: 2
@@ -13451,10 +13451,10 @@ SplineSet
  302 705 302 705 263 705 c 1,82,-1
  263 705 l 1,72,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0AD0
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignaudeva
 EndChar
 
-StartChar: u0A9E_u0AD0_u0A85.abvs.psts
+StartChar: ja_vowelsignau_anusvaradeva
 Encoding: 65733 -1 275
 Width: 779
 GlyphClass: 2
@@ -13538,10 +13538,10 @@ SplineSet
  756 635 756 635 733 635 c 1,95,-1
  733 635 l 1,83,84
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0AD0_u0A85.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignaudeva_anusvaradeva
 EndChar
 
-StartChar: u0A9E_u0AD0_u0AB3_u0AE0.rphf.abvs.psts
+StartChar: ja_vowelsignau_rphf
 Encoding: 65734 -1 276
 Width: 779
 GlyphClass: 2
@@ -13624,10 +13624,10 @@ SplineSet
  312 705 312 705 273 705 c 1,95,-1
  273 705 l 1,85,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0AD0_u0AB3_u0AE0.rphf.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignaudeva_rphf
 EndChar
 
-StartChar: u0A9E_u0AD0_u0AB3_u0AE0.rphf_u0A85.abvs.abvs.psts
+StartChar: ja_vowelsignau_rphf_anusvara
 Encoding: 65735 -1 277
 Width: 779
 GlyphClass: 2
@@ -13720,10 +13720,10 @@ SplineSet
  322 705 322 705 283 705 c 1,108,-1
  283 705 l 1,98,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0AD0_u0AB3_u0AE0.rphf_u0A85.abvs.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsignaudeva_rphf_anusvara
 EndChar
 
-StartChar: u0A9E_u0ACC.psts
+StartChar: jadeva_vowelsigncandraodeva
 Encoding: 65736 -1 278
 Width: 779
 GlyphClass: 2
@@ -13789,10 +13789,10 @@ SplineSet
  693 505 693 505 663 505 c 1,75,-1
  663 505 l 1,61,62
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0ACC
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsigncandraodeva
 EndChar
 
-StartChar: u0A9E_u0ACC_u0A85.abvs.psts
+StartChar: ja_vowelsigncandrao_anusvara
 Encoding: 65737 -1 279
 Width: 779
 GlyphClass: 2
@@ -13868,7 +13868,7 @@ SplineSet
  693 505 693 505 663 505 c 1,88,-1
  663 505 l 1,74,75
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" u0A9E u0ACC_u0A85.abvs
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 8 subtable" jadeva vowelsigncandraodeva_anusvara
 EndChar
 
 StartChar: glyph312
@@ -13911,7 +13911,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A97_u0AE0.haln
+StartChar: kadeva_viramadeva_haln
 Encoding: 65739 -1 281
 Width: 474
 GlyphClass: 2
@@ -13962,10 +13962,10 @@ SplineSet
  481 -245 l 1,51,-1
  481 -245 l 1,45,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A97 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" kadeva viramadeva
 EndChar
 
-StartChar: u0A98_u0AE0.haln
+StartChar: khadeva_viramadeva_haln
 Encoding: 65740 -1 282
 Width: 636
 GlyphClass: 2
@@ -14012,10 +14012,10 @@ SplineSet
  767 -235 l 1,41,-1
  767 -235 l 1,35,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A98 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" khadeva viramadeva
 EndChar
 
-StartChar: u0A99_u0AE0.haln
+StartChar: gadeva_viramadeva_haln
 Encoding: 65741 -1 283
 Width: 578
 GlyphClass: 2
@@ -14058,10 +14058,10 @@ SplineSet
  711 -235 l 1,38,-1
  711 -235 l 1,32,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A99 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" gadeva viramadeva
 EndChar
 
-StartChar: u0A9A_u0AE0.haln
+StartChar: ghadeva_viramadeva_haln
 Encoding: 65742 -1 284
 Width: 560
 GlyphClass: 2
@@ -14111,10 +14111,10 @@ SplineSet
  685 -235 l 1,48,-1
  685 -235 l 1,42,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A9A u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" ghadeva viramadeva
 EndChar
 
-StartChar: u0A9B_u0AE0.haln
+StartChar: ngadeva_viramadeva_haln
 Encoding: 65743 -1 285
 Width: 491
 GlyphClass: 2
@@ -14169,10 +14169,10 @@ SplineSet
  496 -235 l 1,56,-1
  496 -235 l 1,50,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A9B u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" ngadeva viramadeva
 EndChar
 
-StartChar: u0A9C_u0AE0.haln
+StartChar: cadeva_viramadeva_haln
 Encoding: 65744 -1 286
 Width: 638
 GlyphClass: 2
@@ -14220,10 +14220,10 @@ SplineSet
  761 -235 l 1,46,-1
  761 -235 l 1,40,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A9C u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" cadeva viramadeva
 EndChar
 
-StartChar: u0A9D_u0AE0.haln
+StartChar: chadeva_viramadeva_haln
 Encoding: 65745 -1 287
 Width: 546
 GlyphClass: 2
@@ -14286,10 +14286,10 @@ SplineSet
  541 -240 l 1,68,-1
  541 -240 l 1,62,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A9D u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" chadeva viramadeva
 EndChar
 
-StartChar: u0A9E_u0AE0.haln
+StartChar: jadeva_viramadeva_haln
 Encoding: 65746 -1 288
 Width: 594
 GlyphClass: 2
@@ -14348,10 +14348,10 @@ SplineSet
  616 -235 l 1,64,-1
  616 -235 l 1,58,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A9E u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" jadeva viramadeva
 EndChar
 
-StartChar: u0A9F_u0AE0.haln
+StartChar: jhadeva_viramadeva_haln
 Encoding: 65747 -1 289
 Width: 620
 GlyphClass: 2
@@ -14408,10 +14408,10 @@ SplineSet
  670 -235 l 1,61,-1
  670 -235 l 1,55,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0A9F u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" jhadeva viramadeva
 EndChar
 
-StartChar: u0AA0_u0AE0.haln
+StartChar: nyadeva_viramadeva_haln
 Encoding: 65748 -1 290
 Width: 673
 GlyphClass: 2
@@ -14455,10 +14455,10 @@ SplineSet
  806 -235 l 1,40,-1
  806 -235 l 1,34,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA0 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" nyadeva viramadeva
 EndChar
 
-StartChar: u0AA1_u0AE0.haln
+StartChar: ttadeva_viramadeva_haln
 Encoding: 65749 -1 291
 Width: 398
 GlyphClass: 2
@@ -14503,10 +14503,10 @@ SplineSet
  478 -235 l 1,45,-1
  478 -235 l 1,39,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA1 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" ttadeva viramadeva
 EndChar
 
-StartChar: u0AA2_u0AE0.haln
+StartChar: tthadeva_viramadeva_haln
 Encoding: 65750 -1 292
 Width: 433
 GlyphClass: 2
@@ -14554,10 +14554,10 @@ SplineSet
  508 -245 l 1,47,-1
  508 -245 l 1,41,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA2 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" tthadeva viramadeva
 EndChar
 
-StartChar: u0AA3_u0AE0.haln
+StartChar: ddadeva_viramadeva_haln
 Encoding: 65751 -1 293
 Width: 442
 GlyphClass: 2
@@ -14602,10 +14602,10 @@ SplineSet
  517 -240 l 1,43,-1
  517 -240 l 1,37,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA3 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" ddadeva viramadeva
 EndChar
 
-StartChar: u0AA4_u0AE0.haln
+StartChar: ddhadeva_viramadeva_haln
 Encoding: 65752 -1 294
 Width: 424
 GlyphClass: 2
@@ -14665,10 +14665,10 @@ SplineSet
  494 -235 l 1,66,-1
  494 -235 l 1,60,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA4 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" ddhadeva viramadeva
 EndChar
 
-StartChar: u0AA5_u0AE0.haln
+StartChar: nnadeva_viramadeva_haln
 Encoding: 65753 -1 295
 Width: 758
 GlyphClass: 2
@@ -14725,10 +14725,10 @@ SplineSet
  886 -235 l 1,55,-1
  886 -235 l 1,49,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA5 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" nnadeva viramadeva
 EndChar
 
-StartChar: u0AA6_u0AE0.haln
+StartChar: tadeva_viramadeva_haln
 Encoding: 65754 -1 296
 Width: 561
 GlyphClass: 2
@@ -14763,10 +14763,10 @@ SplineSet
  692 -235 l 1,27,-1
  692 -235 l 1,21,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA6 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" tadeva viramadeva
 EndChar
 
-StartChar: u0AA7_u0AE0.haln
+StartChar: thadeva_viramadeva_haln
 Encoding: 65755 -1 297
 Width: 594
 GlyphClass: 2
@@ -14819,10 +14819,10 @@ SplineSet
  718 -235 l 1,53,-1
  718 -235 l 1,47,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA7 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" thadeva viramadeva
 EndChar
 
-StartChar: u0AA8_u0AE0.haln
+StartChar: dadeva_viramadeva_haln
 Encoding: 65756 -1 298
 Width: 431
 GlyphClass: 2
@@ -14868,10 +14868,10 @@ SplineSet
  506 -240 l 1,44,-1
  506 -240 l 1,38,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AA8 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" dadeva viramadeva
 EndChar
 
-StartChar: u0AAA_u0AE0.haln
+StartChar: dhadeva_viramadeva_haln
 Encoding: 65757 -1 299
 Width: 596
 GlyphClass: 2
@@ -14917,10 +14917,10 @@ SplineSet
  732 -235 l 1,44,-1
  732 -235 l 1,38,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AAA u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" dhadeva viramadeva
 EndChar
 
-StartChar: u0AAB_u0AE0.haln
+StartChar: nadeva_viramadeva_haln
 Encoding: 65758 -1 300
 Width: 587
 GlyphClass: 2
@@ -14964,10 +14964,10 @@ SplineSet
  714 -235 l 1,39,-1
  714 -235 l 1,33,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AAB u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" nadeva viramadeva
 EndChar
 
-StartChar: u0AAC_u0AE0.haln
+StartChar: padeva_viramadeva_haln
 Encoding: 65759 -1 301
 Width: 562
 GlyphClass: 2
@@ -15008,10 +15008,10 @@ SplineSet
  694 -235 l 1,35,-1
  694 -235 l 1,29,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AAC u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" padeva viramadeva
 EndChar
 
-StartChar: u0AAD_u0AE0.haln
+StartChar: phadeva_viramadeva_haln
 Encoding: 65760 -1 302
 Width: 444
 GlyphClass: 2
@@ -15067,10 +15067,10 @@ SplineSet
  370 -255 l 1,58,-1
  370 -255 l 1,52,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AAD u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" phadeva viramadeva
 EndChar
 
-StartChar: u0AAE_u0AE0.haln
+StartChar: badeva_viramadeva_haln
 Encoding: 65761 -1 303
 Width: 664
 GlyphClass: 2
@@ -15114,10 +15114,10 @@ SplineSet
  798 -235 l 1,38,-1
  798 -235 l 1,32,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AAE u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" badeva viramadeva
 EndChar
 
-StartChar: u0AAF_u0AE0.haln
+StartChar: bhadeva_viramadeva_haln
 Encoding: 65762 -1 304
 Width: 695
 GlyphClass: 2
@@ -15164,10 +15164,10 @@ SplineSet
  825 -235 l 1,44,-1
  825 -235 l 1,38,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AAF u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" bhadeva viramadeva
 EndChar
 
-StartChar: u0AB0_u0AE0.haln
+StartChar: madeva_viramadeva_haln
 Encoding: 65763 -1 305
 Width: 566
 GlyphClass: 2
@@ -15220,10 +15220,10 @@ SplineSet
  702 -235 l 1,48,-1
  702 -235 l 1,42,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB0 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" madeva viramadeva
 EndChar
 
-StartChar: u0AB2_u0AE0.haln
+StartChar: yadeva_viramadeva_haln
 Encoding: 65764 -1 306
 Width: 554
 GlyphClass: 2
@@ -15269,10 +15269,10 @@ SplineSet
  688 -235 l 1,42,-1
  688 -235 l 1,36,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB2 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" yadeva viramadeva
 EndChar
 
-StartChar: u0AB3_u0AE0.haln
+StartChar: radeva_viramadeva_haln
 Encoding: 65765 -1 307
 Width: 373
 GlyphClass: 2
@@ -15316,10 +15316,10 @@ SplineSet
  392 -235 l 1,40,-1
  392 -235 l 1,34,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB3 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" radeva viramadeva
 EndChar
 
-StartChar: u0AB5_u0AE0.haln
+StartChar: ladeva_viramadeva_haln
 Encoding: 65766 -1 308
 Width: 608
 GlyphClass: 2
@@ -15362,10 +15362,10 @@ SplineSet
  741 -235 l 1,34,-1
  741 -235 l 1,28,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB5 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" ladeva viramadeva
 EndChar
 
-StartChar: u0AB6_u0AE0.haln
+StartChar: lladeva_viramadeva_haln
 Encoding: 65767 -1 309
 Width: 666
 GlyphClass: 2
@@ -15412,10 +15412,10 @@ SplineSet
  797 -235 l 1,45,-1
  797 -235 l 1,39,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB6 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0AB7_u0AE0.haln
+StartChar: vadeva_viramadeva_haln
 Encoding: 65768 -1 310
 Width: 550
 GlyphClass: 2
@@ -15454,10 +15454,10 @@ SplineSet
  680 -235 l 1,33,-1
  680 -235 l 1,27,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB7 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0AB8_u0AE0.haln
+StartChar: shadeva_viramadeva_haln
 Encoding: 65769 -1 311
 Width: 611
 GlyphClass: 2
@@ -15510,10 +15510,10 @@ SplineSet
  737 -235 l 1,51,-1
  737 -235 l 1,45,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB8 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0AB9_u0AE0.haln
+StartChar: ssadeva_viramadeva_haln
 Encoding: 65770 -1 312
 Width: 552
 GlyphClass: 2
@@ -15558,10 +15558,10 @@ SplineSet
  679 -235 l 1,38,-1
  679 -235 l 1,32,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0AB9 u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0ABC_u0AE0.haln
+StartChar: sadeva_viramadeva_haln
 Encoding: 65771 -1 313
 Width: 630
 GlyphClass: 2
@@ -15614,10 +15614,10 @@ SplineSet
  760 -235 l 1,50,-1
  760 -235 l 1,44,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0ABC u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" lladeva viramadeva
 EndChar
 
-StartChar: u0ABD_u0AE0.haln
+StartChar: hadeva_viramadeva_haln
 Encoding: 65772 -1 314
 Width: 468
 GlyphClass: 2
@@ -15673,7 +15673,7 @@ SplineSet
  478 -245 l 1,59,-1
  478 -245 l 1,53,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" u0ABD u0AE0
+Ligature2: "'haln' Halant Forms in Gujarati lookup 10 subtable" sadeva viramadeva
 EndChar
 
 StartChar: numbersign
@@ -16601,7 +16601,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20B9
+StartChar: inr_currencydeva
 Encoding: 8377 8377 345
 Width: 608
 VWidth: 1024
@@ -16634,7 +16634,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A9B_u0AED.half_u0AAF.pres
+StartChar: chadeva_viramadeva_yadeva
 Encoding: 65570 -1 346
 Width: 1112
 Flags: W
@@ -16717,7 +16717,7 @@ SplineSet
  824 45 824 45 762 45 c 1,97,-1
  762 45 l 1,62,63
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" u0A9D_u0AE0.half u0AB2
+Ligature2: "'pres' Pre Base Substitutions in Gujarati lookup 11 subtable" chadeva_viramadeva.half yadeva
 EndChar
 EndChars
 EndSplineFont
