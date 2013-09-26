@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1379932735
+ModificationTime: 1380187402
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -61,7 +61,6 @@ Lookup: 2 0 0 "LocalizedMrFormslookup4"  {"LocalizedMrFormslookup4 subtable"  } 
 Lookup: 4 0 0 "NuktaFormslookup5"  {"NuktaFormslookup5 subtable"  } ['nukt' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "AkhandFormslookup6"  {"AkhandFormslookup6 subtable"  } ['akhn' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "RephFormlookup7"  {"RephFormlookup7 subtable"  } ['rphf' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "RakarFormslookup8"  {"RakarFormslookup8 subtable"  } ['pref' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "BelowBaseFormslookup9"  {"BelowBaseFormslookup9 subtable"  } ['blwf' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "HalfFormslookup10"  {"HalfFormslookup10 subtable"  } ['half' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "'vatu' Vattu Variants lookup 30"  {"'vatu' Vattu Variants lookup 30-1"  } ['vatu' ('DFLT' <'dflt' > 'dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
@@ -9209,7 +9208,6 @@ SplineSet
  13 290 l 1,12,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" shadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" shadeva viramadeva radeva
 EndChar
 
 StartChar: phadeva_radeva_nuktadeva
@@ -9268,7 +9266,6 @@ SplineSet
  75 606 l 1,51,-1
  -13 606 l 1,13,-1
 EndSplineSet
-Ligature2: "RakarFormslookup8 subtable" fadeva viramadeva radeva
 EndChar
 
 StartChar: tadeva_viramadeva_tadeva
@@ -12353,7 +12350,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" kadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" kadeva viramadeva radeva
 EndChar
 
 StartChar: khadeva_viramadeva_radeva
@@ -12419,7 +12415,6 @@ SplineSet
  -13 606 l 1,39,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" khadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" khadeva viramadeva radeva
 EndChar
 
 StartChar: gadeva_viramadeva_radeva
@@ -12457,7 +12452,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" gadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" gadeva viramadeva radeva
 EndChar
 
 StartChar: jadeva_viramadeva_radeva
@@ -12499,7 +12493,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" jadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" jadeva viramadeva radeva
 EndChar
 
 StartChar: jhadeva_viramadeva_radeva
@@ -12571,7 +12564,6 @@ SplineSet
  -13 606 l 1,22,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" jhadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" jhadeva viramadeva radeva
 EndChar
 
 StartChar: tadeva_viramadeva_radeva
@@ -12605,7 +12597,7 @@ SplineSet
  373 606 l 1,24,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Ligature2: "RakarFormslookup8 subtable" tadeva viramadeva radeva
+Ligature2: "'vatu' Vattu Variants lookup 30-1" tadeva vatudeva
 EndChar
 
 StartChar: dadeva_viramadeva_radeva
@@ -12654,7 +12646,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" dadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" dadeva viramadeva radeva
 EndChar
 
 StartChar: padeva_viramadeva_radeva
@@ -12691,7 +12682,6 @@ SplineSet
  -13 606 l 1,10,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" padeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" padeva viramadeva radeva
 EndChar
 
 StartChar: phadeva_viramadeva_radeva
@@ -12746,7 +12736,6 @@ SplineSet
  77 306 77 306 77 373 c 2,9,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" phadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" phadeva viramadeva radeva
 EndChar
 
 StartChar: badeva_viramadeva_radeva
@@ -12793,7 +12782,6 @@ SplineSet
  51 262 51 262 51 320 c 0,10,11
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" badeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" badeva viramadeva radeva
 EndChar
 
 StartChar: bhadeva_viramadeva_radeva
@@ -12845,7 +12833,6 @@ SplineSet
  120 306 120 306 120 326 c 0,0,1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" bhadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" bhadeva viramadeva radeva
 EndChar
 
 StartChar: madeva_viramadeva_radeva
@@ -12886,7 +12873,6 @@ SplineSet
  23 333 23 333 23 353 c 0,4,5
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" madeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" madeva viramadeva radeva
 EndChar
 
 StartChar: vadeva_viramadeva_radeva
@@ -12927,7 +12913,6 @@ SplineSet
  48 261 48 261 48 326 c 0,0,1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" vadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" vadeva viramadeva radeva
 EndChar
 
 StartChar: sadeva_viramadeva_radeva
@@ -12972,7 +12957,6 @@ SplineSet
  305 408 305 408 300 386 c 1,30,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" sadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" sadeva viramadeva radeva
 EndChar
 
 StartChar: hadeva_viramadeva_radeva
@@ -13027,7 +13011,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" hadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" hadeva viramadeva radeva
 Ligature2: "BelowBaseFormslookup9 subtable" hadeva vatudeva
 EndChar
 
@@ -17107,7 +17090,6 @@ SplineSet
  -13 606 l 1,20,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" ghadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" ghadeva viramadeva radeva
 EndChar
 
 StartChar: cadeva_viramadeva_radeva
@@ -17148,7 +17130,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" cadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" cadeva viramadeva radeva
 EndChar
 
 StartChar: thadeva_viramadeva_radeva
@@ -17199,7 +17180,6 @@ SplineSet
  261 136 l 1,0,1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" thadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" thadeva viramadeva radeva
 EndChar
 
 StartChar: dhadeva_viramadeva_radeva
@@ -17257,7 +17237,6 @@ SplineSet
  238 117 l 1,0,1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" dhadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" dhadeva viramadeva radeva
 EndChar
 
 StartChar: nadeva_viramadeva_radeva
@@ -17295,7 +17274,6 @@ SplineSet
  28 372 28 372 28 399 c 0,0,1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" nadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" nadeva viramadeva radeva
 EndChar
 
 StartChar: ladeva_viramadeva_radeva
@@ -17342,7 +17320,6 @@ SplineSet
  365 20 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" ladeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" ladeva viramadeva radeva
 EndChar
 
 StartChar: nga_virama_ka_viramadeva
@@ -17706,7 +17683,6 @@ SplineSet
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" nyadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" nyadeva viramadeva radeva
 EndChar
 
 StartChar: nnadeva_viramadeva_radeva
@@ -17747,7 +17723,6 @@ SplineSet
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" nnadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" nnadeva viramadeva radeva
 EndChar
 
 StartChar: yadeva_viramadeva_radeva
@@ -17789,7 +17764,6 @@ SplineSet
  -13 606 l 1,14,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" yadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" yadeva viramadeva radeva
 EndChar
 
 StartChar: ssadeva_viramadeva_radeva
@@ -17831,7 +17805,6 @@ SplineSet
  -13 606 l 1,11,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" ssadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" ssadeva viramadeva radeva
 EndChar
 
 StartChar: ka_virama_ssa_virama_radeva
@@ -17902,7 +17875,6 @@ SplineSet
  425 606 l 1,11,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" kadeva_viramadeva_ssadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" kadeva_viramadeva_ssadeva viramadeva radeva
 EndChar
 
 StartChar: ja_virama_nya_virama_radeva
@@ -17966,7 +17938,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Ligature2: "'vatu' Vattu Variants lookup 30-1" jadeva_viramadeva_nyadeva vatudeva
-Ligature2: "RakarFormslookup8 subtable" jadeva_viramadeva_nyadeva viramadeva radeva
 EndChar
 
 StartChar: nep_kadeva_viramadeva_radeva
