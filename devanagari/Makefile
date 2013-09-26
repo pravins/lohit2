@@ -4,6 +4,7 @@ version:= 3.0.0-alpha
 
 ttf: ttf-bin
 	@echo "----------Generating ttf from sfd file----------"
+	python ../scripts/apply_featurefile.py Lohit-Devanagari.sfd Lohit-Devanagari.fea
 	./generate.pe *.sfd
 	@echo "----------Finished generating ttf file----------"
 	@echo " "

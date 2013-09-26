@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380204883
+ModificationTime: 1380208622
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -55,8 +55,8 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80008023.00002042.00000000.00000000
 Lookup: 1 0 0 "LocalizedMrForms_lookup0"  {"LocalizedMrForms_lookup0 subtable"  } ['locl' ('deva' <'MAR ' > 'dev2' <'MAR ' > ) ]
 Lookup: 4 0 0 "LocalizedMrHalfFormslookup1"  {"LocalizedMrHalfFormslookup1 subtable"  } ['locl' ('deva' <'MAR ' > 'dev2' <'MAR ' > ) ]
-Lookup: 1 0 0 "LocalizedNpFormslookup2"  {"LocalizedNpFormslookup2 subtable"  } ['locl' ('deva' <'dflt' 'NEP ' > 'dev ' <'dflt' 'NEP ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "LocalizedNpFormslookup3"  {"LocalizedNpFormslookup3 subtable"  } ['locl' ('deva' <'dflt' 'NEP ' > 'dev2' <'dflt' 'NEP ' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "LocalizedNpFormslookup2"  {"LocalizedNpFormslookup2 subtable"  } ['locl' ('dev ' <'NEP ' > 'deva' <'NEP ' > ) ]
+Lookup: 4 0 0 "LocalizedNpFormslookup3"  {"LocalizedNpFormslookup3 subtable"  } ['locl' ('dev2' <'NEP ' > 'deva' <'NEP ' > ) ]
 Lookup: 2 0 0 "LocalizedMrFormslookup4"  {"LocalizedMrFormslookup4 subtable"  } ['locl' ('deva' <'dflt' 'MAR ' > 'dev2' <'dflt' 'MAR ' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "NuktaFormslookup5"  {"NuktaFormslookup5 subtable"  } ['nukt' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "AkhandFormslookup6"  {"AkhandFormslookup6 subtable"  } ['akhn' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
@@ -9088,6 +9088,7 @@ SplineSet
  -84 691 -84 691 -41 666 c 1,19,-1
  -128 666 l 1,0,1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "AboveBaseSubstitutionslookup subtable" radeva viramadeva
 Ligature2: "RephFormlookup7 subtable" radeva viramadeva
 EndChar
@@ -9208,6 +9209,7 @@ SplineSet
  57 240 l 1,41,-1
  13 290 l 1,12,-1
 EndSplineSet
+Ligature2: "VattuVariantslookup30-1" shadeva_viramadeva_alt radeva
 Ligature2: "VattuVariantslookup30-1" shadeva vatudeva
 EndChar
 
