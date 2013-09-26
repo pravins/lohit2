@@ -1,4 +1,5 @@
 This readme is specifically for Lohit Devanagari. For instruction on installation and other stuff open README
+- To generate ttf from feature file
 
 Known Issue:
 	- Ligature starting with name ivowelsigndeva_* are not enabled due to problem with Harfbuzz NG. 
