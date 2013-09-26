@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1161073346
-ModificationTime: 1357804770
+ModificationTime: 1380193430
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -50,30 +50,6 @@ OS2SupYOff: 512
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'MODI'
-Lookup: 4 0 0 "Ligature Substitution for Ra ZWJ"  {"Ligature Substitution for Ra ZWJ-1"  } []
-Lookup: 6 0 0 "'abvs' Above Base Substitutions lookup 20"  {"'abvs' Above Base Substitutions lookup 20-1"  } ['abvs' ('DFLT' <'dflt' > 'deva' <'dflt' > 'knda' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 5 0 0 "'psts' Post Base Substitutions lookup 18"  {"'psts' Post Base Substitutions lookup 18-1"  } ['psts' ('DFLT' <'dflt' > 'deva' <'dflt' > 'knda' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'abvs' Above Base Substitutions in Kannada lookup 0"  {"'abvs' Above Base Substitutions in Kannada lookup 0"  } ['abvs' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Kannada lookup 1"  {"'akhn' Akhand in Kannada lookup 1"  } ['akhn' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Kannada lookup 2"  {"'blwf' Below Base Forms in Kannada lookup 2"  } ['blwf' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 3"  {"'blws' Below Base Substitutions in Kannada lookup 3"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 4"  {"'blws' Below Base Substitutions in Kannada lookup 4"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 5"  {"'blws' Below Base Substitutions in Kannada lookup 5"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 6"  {"'blws' Below Base Substitutions in Kannada lookup 6"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 7"  {"'blws' Below Base Substitutions in Kannada lookup 7"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 8"  {"'blws' Below Base Substitutions in Kannada lookup 8"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Kannada lookup 9"  {"'blws' Below Base Substitutions in Kannada lookup 9"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions in Kannada lookup 10"  {"'blws' Below Base Substitutions in Kannada lookup 10"  } ['blws' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms in Kannada lookup 11"  {"'haln' Halant Forms in Kannada lookup 11"  } ['haln' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms in Kannada lookup 12"  {"'pstf' Post Base Forms in Kannada lookup 12"  } ['pstf' ('knda' <'dflt' > ) ]
-Lookup: 4 0 0 "'psts' Post Base Substitutions in Kannada lookup 13"  {"'psts' Post Base Substitutions in Kannada lookup 13"  } ['psts' ('knda' <'dflt' > ) ]
-Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 22"  {"'psts' Post Base Substitutions lookup 22-3"  "'psts' Post Base Substitutions lookup 22-1"  "'psts' Post Base Substitutions lookup 22-2"  } ['psts' ('DFLT' <'dflt' > 'deva' <'dflt' > 'knda' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 0 "'rphf' Reph Form in Kannada lookup 14"  {"'rphf' Reph Form in Kannada lookup 14"  } ['rphf' ('knda' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 15"  {"Single Substitution lookup 15"  } []
-Lookup: 1 0 0 "Single Substitution lookup 16"  {"Single Substitution lookup 16"  } []
-Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17"  } []
-Lookup: 1 0 0 "Single Substitution lookup 18"  {"Single Substitution lookup 18-1"  } []
-Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19-1"  } []
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 4"  {"'kern' Horizontal Kerning lookup 4-1" [153,15,2] } ['kern' ('DFLT' <'dflt' > 'deva' <'dflt' > 'knda' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Kannada lookup 0"  {"'blwm' Below Base Mark in Kannada lookup 0"  } ['blwm' ('DFLT' <'dflt' > 'deva' <'dflt' > 'knda' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Kannada lookup 1"  {"'kern' Horizontal Kerning in Kannada lookup 1" [153,15,0] } ['kern' ('knda' <'dflt' > ) ]
@@ -87,139 +63,6 @@ KernClass2: 4 2 "'kern' Horizontal Kerning lookup 2-1"
  84 U0C97_U0CCB.blwf U0C95_U0CCD.blwf U0C97_U0CCD.blwf U0CB3_U0CCD.blwf U0CB6_U0CCD.blwf
  358 exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at bracketleft backslash bracketright asciicircum underscore grave braceleft bar braceright asciitilde cent multiply divide uni0964 uni0965
  0 {} 0 {} 0 {} 286 {} 0 {} 400 {} 0 {} 200 {}
-ChainSub2: class "'psts' Post Base Substitutions lookup 22-3"  4 4 4 1
-  Class: 195 U0C9A U0C95 U0C9A_U0CC6.abvs U0CA1 U0CA1_U0CC6.abvs U0CAA U0CA3 U0C97 U0C99_U0CC6.abvs U0CB7 U0C9C U0CB6_U0CC6.abvs U0C9C_U0CC6.abvs U0CB2_U0CC6.abvs U0CB7_U0CC6.abvs U0CB8_U0CC6.abvs U0CB9 U0CB2
-  Class: 16 U0C9D_U0CCD.blwf
-  Class: 17 U0CC3 U0CC4 U0CD6
-  BClass: 195 U0C9A U0C95 U0C9A_U0CC6.abvs U0CA1 U0CA1_U0CC6.abvs U0CAA U0CA3 U0C97 U0C99_U0CC6.abvs U0CB7 U0C9C U0CB6_U0CC6.abvs U0C9C_U0CC6.abvs U0CB2_U0CC6.abvs U0CB7_U0CC6.abvs U0CB8_U0CC6.abvs U0CB9 U0CB2
-  BClass: 16 U0C9D_U0CCD.blwf
-  BClass: 17 U0CC3 U0CC4 U0CD6
-  FClass: 195 U0C9A U0C95 U0C9A_U0CC6.abvs U0CA1 U0CA1_U0CC6.abvs U0CAA U0CA3 U0C97 U0C99_U0CC6.abvs U0CB7 U0C9C U0CB6_U0CC6.abvs U0C9C_U0CC6.abvs U0CB2_U0CC6.abvs U0CB7_U0CC6.abvs U0CB8_U0CC6.abvs U0CB9 U0CB2
-  FClass: 16 U0C9D_U0CCD.blwf
-  FClass: 17 U0CC3 U0CC4 U0CD6
- 1 2 0
-  ClsList: 3
-  BClsList: 2 1
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution lookup 19" 
-  ClassNames: "All_Others"  "Cons"  "Bbase"  "Matra"  
-  BClassNames: "All_Others"  "Cons"  "Bbase"  "Matra"  
-  FClassNames: "All_Others"  "Cons"  "Bbase"  "Matra"  
-EndFPST
-ChainSub2: class "'psts' Post Base Substitutions lookup 22-2"  3 3 3 1
-  Class: 22 U0C95_U0CCd_U0CB7.akhn
-  Class: 11 U0CC3 U0CC4
-  BClass: 22 U0C95_U0CCd_U0CB7.akhn
-  BClass: 11 U0CC3 U0CC4
-  FClass: 22 U0C95_U0CCd_U0CB7.akhn
-  FClass: 11 U0CC3 U0CC4
- 1 1 0
-  ClsList: 2
-  BClsList: 1
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution lookup 18" 
-  ClassNames: "All_Others"  "Liga"  "Matra"  
-  BClassNames: "All_Others"  "Liga"  "Matra"  
-  FClassNames: "All_Others"  "Liga"  "Matra"  
-EndFPST
-ChainSub2: class "'psts' Post Base Substitutions lookup 22-1"  4 4 4 1
-  Class: 195 U0C9A U0C95 U0C9A_U0CC6.abvs U0CA1 U0CA1_U0CC6.abvs U0CAA U0CA3 U0C97 U0C99_U0CC6.abvs U0CB7 U0C9C U0CB6_U0CC6.abvs U0C9C_U0CC6.abvs U0CB2_U0CC6.abvs U0CB7_U0CC6.abvs U0CB8_U0CC6.abvs U0CB9 U0CB2
-  Class: 270 U0C9A_0CCD.blwf U0CB7_U0CCD.blwf U0CA1_U0CCD.blwf U0CAC_U0CCD.blwf U0CA4_U0CCD.blwf U0CB0_U0CCD.blwf U0C95_U0CCD.blwf U0CA6_U0CCD.blwf U0C96_U0CCD.blwf U0CAF_U0CCD.blwf U0CB3_U0CCD.blwf U0C9F_U0CCD.blwf U0CB5_U0CCD.blwf U0CB6_U0CCD.blwf U0CB8_U0CCD.blwf U0CB1_U0CCD.blwf
-  Class: 17 U0CC3 U0CC4 U0CD6
-  BClass: 195 U0C9A U0C95 U0C9A_U0CC6.abvs U0CA1 U0CA1_U0CC6.abvs U0CAA U0CA3 U0C97 U0C99_U0CC6.abvs U0CB7 U0C9C U0CB6_U0CC6.abvs U0C9C_U0CC6.abvs U0CB2_U0CC6.abvs U0CB7_U0CC6.abvs U0CB8_U0CC6.abvs U0CB9 U0CB2
-  BClass: 270 U0C9A_0CCD.blwf U0CB7_U0CCD.blwf U0CA1_U0CCD.blwf U0CAC_U0CCD.blwf U0CA4_U0CCD.blwf U0CB0_U0CCD.blwf U0C95_U0CCD.blwf U0CA6_U0CCD.blwf U0C96_U0CCD.blwf U0CAF_U0CCD.blwf U0CB3_U0CCD.blwf U0C9F_U0CCD.blwf U0CB5_U0CCD.blwf U0CB6_U0CCD.blwf U0CB8_U0CCD.blwf U0CB1_U0CCD.blwf
-  BClass: 17 U0CC3 U0CC4 U0CD6
-  FClass: 195 U0C9A U0C95 U0C9A_U0CC6.abvs U0CA1 U0CA1_U0CC6.abvs U0CAA U0CA3 U0C97 U0C99_U0CC6.abvs U0CB7 U0C9C U0CB6_U0CC6.abvs U0C9C_U0CC6.abvs U0CB2_U0CC6.abvs U0CB7_U0CC6.abvs U0CB8_U0CC6.abvs U0CB9 U0CB2
-  FClass: 270 U0C9A_0CCD.blwf U0CB7_U0CCD.blwf U0CA1_U0CCD.blwf U0CAC_U0CCD.blwf U0CA4_U0CCD.blwf U0CB0_U0CCD.blwf U0C95_U0CCD.blwf U0CA6_U0CCD.blwf U0C96_U0CCD.blwf U0CAF_U0CCD.blwf U0CB3_U0CCD.blwf U0C9F_U0CCD.blwf U0CB5_U0CCD.blwf U0CB6_U0CCD.blwf U0CB8_U0CCD.blwf U0CB1_U0CCD.blwf
-  FClass: 17 U0CC3 U0CC4 U0CD6
- 1 2 0
-  ClsList: 3
-  BClsList: 2 1
-  FClsList:
- 1
-  SeqLookup: 0 "Single Substitution lookup 18" 
-  ClassNames: "All_Others"  "Cons"  "Bbase"  "Matra"  
-  BClassNames: "All_Others"  "Cons"  "Bbase"  "Matra"  
-  FClassNames: "All_Others"  "Cons"  "Bbase"  "Matra"  
-EndFPST
-ChainSub2: class "'abvs' Above Base Substitutions lookup 20-1"  4 4 4 1
-  Class: 5 U0CB0
-  Class: 7 afii301
-  Class: 65 U0CBE U0CBF U0CC0 U0CC1 U0CC2 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC
-  BClass: 5 U0CB0
-  BClass: 7 afii301
-  BClass: 65 U0CBE U0CBF U0CC0 U0CC1 U0CC2 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC
-  FClass: 5 U0CB0
-  FClass: 7 afii301
-  FClass: 65 U0CBE U0CBF U0CC0 U0CC1 U0CC2 U0CC6 U0CC7 U0CC8 U0CCA U0CCB U0CCC
- 1 0 2
-  ClsList: 1
-  BClsList:
-  FClsList: 2 3
- 1
-  SeqLookup: 0 "Ligature Substitution for Ra ZWJ" 
-  ClassNames: "All_Others"  "Cons"  "ZWJ"  "Matra"  
-  BClassNames: "All_Others"  "Cons"  "ZWJ"  "Matra"  
-  FClassNames: "All_Others"  "Cons"  "ZWJ"  "Matra"  
-EndFPST
-ContextSub2: glyph "'psts' Post Base Substitutions lookup 18-1"  0 0 0 1
- String: 18 afii301 parenright
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Single Substitution lookup 17" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 9"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0CAF
- 1
-  SeqLookup: 0 "Single Substitution lookup 17" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 8"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0C95
- 1
-  SeqLookup: 0 "Single Substitution lookup 15" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 7"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0CA4
- 1
-  SeqLookup: 0 "Single Substitution lookup 15" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 6"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0CA8
- 1
-  SeqLookup: 0 "Single Substitution lookup 15" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 5"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0CAE
- 1
-  SeqLookup: 0 "Single Substitution lookup 16" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 4"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0CB0
- 1
-  SeqLookup: 0 "Single Substitution lookup 15" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Kannada lookup 3"  0 0 0 1
- 1 1 0
-  Coverage: 16 U0CB0_U0CCD.blwf
-  BCoverage: 5 U0CB5
- 1
-  SeqLookup: 0 "Single Substitution lookup 15" 
-EndFPST
 TtTable: prep
 NPUSHB
  2
@@ -459,7 +302,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 44 17
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -4230,8 +4073,6 @@ SplineSet
  -115 -449 -115 -449 -172 -395.5 c 128,-1,44
  -229 -342 -229 -342 -229 -267 c 1,11,12
 EndSplineSet
-Substitution2: "Single Substitution lookup 19-1" glyph97
-Substitution2: "Single Substitution lookup 18-1" glyph94
 EndChar
 
 StartChar: U0CC4
@@ -4297,8 +4138,6 @@ SplineSet
  -123 -449 -123 -449 -178.5 -390 c 128,-1,75
  -234 -331 -234 -331 -234 -247 c 1,11,12
 EndSplineSet
-Substitution2: "Single Substitution lookup 19-1" glyph98
-Substitution2: "Single Substitution lookup 18-1" glyph95
 EndChar
 
 StartChar: U0CC6
@@ -4819,8 +4658,6 @@ SplineSet
  -116 -462 -116 -462 -175 -399 c 128,-1,55
  -234 -336 -234 -336 -234 -247 c 1,56,-1
 EndSplineSet
-Substitution2: "Single Substitution lookup 19-1" glyph99
-Substitution2: "Single Substitution lookup 18-1" glyph96
 EndChar
 
 StartChar: U0CDE
@@ -5949,7 +5786,6 @@ SplineSet
  273 -220 l 1,14,-1
  273 -220 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" afii301 parenright
 EndChar
 
 StartChar: glyph94
@@ -6541,8 +6377,6 @@ SplineSet
 EndSplineSet
 Kerns2: 98 80 "'kern' Horizontal Kerning lookup 4-1"  97 80 "'kern' Horizontal Kerning lookup 4-1"  66 370 "'kern' Horizontal Kerning lookup 4-1"  65 370 "'kern' Horizontal Kerning lookup 4-1" 
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CB7 U0CCD
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CCD U0CB7
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E.akhn
@@ -6674,7 +6508,6 @@ SplineSet
  403 414 403 414 355 455 c 1,168,-1
  355 455 l 1,92,93
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CCD U0C9E
 EndChar
 
 StartChar: U0CA6_U0CA6_U0CCB.akhn
@@ -6756,7 +6589,6 @@ SplineSet
  248 -260 248 -260 248 -325 c 1,93,-1
  248 -325 l 1,74,75
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CA6 U0CCB
 EndChar
 
 StartChar: U0CB2_U0CB2_U0CCB.akhn
@@ -6832,7 +6664,6 @@ SplineSet
  173 -287 173 -287 173 -260 c 1,87,-1
  173 -260 l 1,48,49
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CB2 U0CCB
 EndChar
 
 StartChar: U0C95_U0CBE.abvs
@@ -6898,7 +6729,6 @@ SplineSet
  64 423 l 1,70,-1
  64 423 l 1,13,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CBE
 EndChar
 
 StartChar: U0C96_U0CBE.abvs
@@ -6988,7 +6818,6 @@ SplineSet
  573 91 573 91 628 91 c 1,110,-1
  628 91 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CBE
 EndChar
 
 StartChar: U0C97_U0CBE.abvs
@@ -7042,7 +6871,6 @@ SplineSet
  126 0 l 1,55,-1
  126 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CBE
 EndChar
 
 StartChar: U0C98_U0CBE.abvs
@@ -7140,7 +6968,6 @@ SplineSet
  785 338 l 1,12,13
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CBE
 EndChar
 
 StartChar: U0C99_U0CBE.abvs
@@ -7245,7 +7072,6 @@ SplineSet
  729 407 729 407 685.5 437 c 128,-1,6
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CBE
 EndChar
 
 StartChar: U0C9A_U0CBD.abvs
@@ -7335,7 +7161,6 @@ SplineSet
  511 403 l 1,107,-1
  511 403 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CBE
 EndChar
 
 StartChar: U0C9B_U0CBD.abvs
@@ -7424,7 +7249,6 @@ SplineSet
  541 91 541 91 584 91 c 1,103,-1
  584 91 l 1,20,21
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CBE
 EndChar
 
 StartChar: U0C9C_U0CBE.abvs
@@ -7520,7 +7344,6 @@ SplineSet
  121 99 121 99 121 169 c 1,118,-1
  121 169 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CBE
 EndChar
 
 StartChar: U0C9D_U0CBE.abvs
@@ -7626,7 +7449,6 @@ SplineSet
  1031 -182 l 1,127,-1
  1031 -182 l 1,121,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CBE
 EndChar
 
 StartChar: U0C9E_U0CBE.abvs
@@ -7737,7 +7559,6 @@ SplineSet
  1051 271 1051 271 1017 300 c 1,12,13
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CBE
 EndChar
 
 StartChar: U0C9F_U0CBE.abvs
@@ -7838,7 +7659,6 @@ SplineSet
  107 145 107 145 107 247 c 1,124,-1
  107 247 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CBE
 EndChar
 
 StartChar: U0CA0_U0CBE.abvs
@@ -7902,7 +7722,6 @@ SplineSet
  334 234 l 1,67,-1
  334 234 l 1,63,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CBE
 EndChar
 
 StartChar: U0CA1_U0CBD.abvs
@@ -7993,7 +7812,6 @@ SplineSet
  107 137 107 137 107 234 c 1,109,-1
  107 234 l 1,48,49
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CBE
 EndChar
 
 StartChar: U0CA2_U0CBE.abvs
@@ -8092,7 +7910,6 @@ SplineSet
  380 -182 l 1,116,-1
  380 -182 l 1,110,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CBE
 EndChar
 
 StartChar: U0CA3_U0CBE.abvs
@@ -8181,7 +7998,6 @@ SplineSet
  105 286 105 286 105 312 c 1,107,-1
  105 312 l 1,37,38
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CBE
 EndChar
 
 StartChar: U0CA4_U0CBE.abvs
@@ -8260,7 +8076,6 @@ SplineSet
  415 416 415 416 437 403 c 1,93,-1
  437 403 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CBE
 EndChar
 
 StartChar: U0CA5_U0CBE.abvs
@@ -8341,7 +8156,6 @@ SplineSet
  381 -182 l 1,87,-1
  381 -182 l 1,81,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CBE
 EndChar
 
 StartChar: U0CA6_U0CBE.abvs
@@ -8408,7 +8222,6 @@ SplineSet
  169 460 169 460 225 507 c 1,75,-1
  225 507 l 1,20,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CBE
 EndChar
 
 StartChar: U0CA7_U0CBE.abvs
@@ -8483,7 +8296,6 @@ SplineSet
  381 -182 l 1,82,-1
  381 -182 l 1,76,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CBE
 EndChar
 
 StartChar: U0CA8_U0CBE.abvs
@@ -8548,7 +8360,6 @@ SplineSet
  611 190 611 190 611 260 c 1,74,-1
  611 260 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CBE
 EndChar
 
 StartChar: U0CAA_U0CBE.abvs
@@ -8626,7 +8437,6 @@ SplineSet
  70 585 l 1,87,-1
  70 585 l 1,51,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CBE
 EndChar
 
 StartChar: U0CAB_U0CBE.abvs
@@ -8712,7 +8522,6 @@ SplineSet
  343 -182 l 1,94,-1
  343 -182 l 1,88,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CBE
 EndChar
 
 StartChar: U0CAC_U0CBE.abvs
@@ -8794,7 +8603,6 @@ SplineSet
  710 209 710 209 710 293 c 1,99,-1
  710 293 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CBE
 EndChar
 
 StartChar: U0CAD_U0CBE.abvs
@@ -8884,7 +8692,6 @@ SplineSet
  393 -182 l 1,106,-1
  393 -182 l 1,100,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CBE
 EndChar
 
 StartChar: U0CAE_U0CBE.abvs
@@ -8980,7 +8787,6 @@ SplineSet
  70 507 l 1,118,-1
  70 507 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CBE
 EndChar
 
 StartChar: U0CAF_U0CBE.abvs
@@ -9077,7 +8883,6 @@ SplineSet
  961 213 961 213 961 299 c 1,119,-1
  961 299 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CBE
 EndChar
 
 StartChar: U0CB0_U0CBE.abvs
@@ -9135,8 +8940,6 @@ SplineSet
  150 468 150 468 196 507 c 1,62,-1
  196 507 l 1,13,-1
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CBE
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CBE
 EndChar
 
 StartChar: U0CB1_U0CBE.abvs
@@ -9237,7 +9040,6 @@ SplineSet
  264 312 l 1,120,-1
  264 312 l 1,96,97
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CBE
 EndChar
 
 StartChar: U0CB2_U0CBE.abvs
@@ -9310,7 +9112,6 @@ SplineSet
  445 91 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CBE
 EndChar
 
 StartChar: U0CB3_U0CBE.abvs
@@ -9398,7 +9199,6 @@ SplineSet
  291 242 291 242 393 260 c 1,105,-1
  393 260 l 1,26,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CBE
 EndChar
 
 StartChar: U0CB5_U0CBE.abvs
@@ -9468,7 +9268,6 @@ SplineSet
  503 91 503 91 551 91 c 1,81,-1
  551 91 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CBE
 EndChar
 
 StartChar: U0CB6_U0CBE.abvs
@@ -9544,7 +9343,6 @@ SplineSet
  183 486 183 486 208 507 c 1,88,-1
  208 507 l 1,17,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CBE
 EndChar
 
 StartChar: U0CB7_U0CBE.abvs
@@ -9632,7 +9430,6 @@ SplineSet
  70 585 l 1,98,-1
  70 585 l 1,62,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CBE
 EndChar
 
 StartChar: U0CB8_U0CBE.abvs
@@ -9701,7 +9498,6 @@ SplineSet
  51 585 l 1,74,-1
  51 585 l 1,38,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CBE
 EndChar
 
 StartChar: U0CB9_U0CBE.abvs
@@ -9781,7 +9577,6 @@ SplineSet
  343 492 343 492 302 507 c 1,93,-1
  302 507 l 1,26,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CBE
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CBE.akhn
@@ -9885,7 +9680,6 @@ SplineSet
  64 -292 64 -292 64 -241 c 1,123,-1
  64 -241 l 1,71,72
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CBE U0CB7 U0CCD
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CBE.akhn
@@ -10044,7 +9838,6 @@ SplineSet
  121 99 121 99 121 169 c 1,208,-1
  121 169 l 1,90,91
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CBE U0C9E U0CCD
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CBE.akhn
@@ -10140,7 +9933,6 @@ SplineSet
  248 -260 248 -260 248 -325 c 1,114,-1
  248 -325 l 1,95,96
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CBE U0CA6 U0CCD
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CBE.akhn
@@ -10299,7 +10091,6 @@ SplineSet
  259 677 259 677 259 650 c 1,60,-1
  259 650 l 1,48,49
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CBF
 EndChar
 
 StartChar: U0C96_U0CBF.abvs
@@ -10379,7 +10170,6 @@ SplineSet
  525 703 525 703 525 676 c 1,95,-1
  525 676 l 1,83,84
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CBF
 EndChar
 
 StartChar: U0C97_U0CBF.abvs
@@ -10422,7 +10212,6 @@ SplineSet
  218 664 218 664 218 637 c 1,38,-1
  218 637 l 1,26,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CBF
 EndChar
 
 StartChar: U0C98_U0CBF.abvs
@@ -10517,7 +10306,6 @@ SplineSet
  239 550 239 550 239 598 c 1,110,-1
  239 598 l 1,85,86
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CBF
 EndChar
 
 StartChar: U0C99_U0CBF.abvs
@@ -10618,7 +10406,6 @@ SplineSet
  580 772 580 772 580 755 c 1,122,-1
  580 755 l 1,110,111
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CBF
 EndChar
 
 StartChar: U0C9A_U0CBF.abvs
@@ -10701,7 +10488,6 @@ SplineSet
  550 677 550 677 550 650 c 1,97,-1
  550 650 l 1,85,86
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CBF
 EndChar
 
 StartChar: U0C9B_U0CBE.abvs
@@ -10782,7 +10568,6 @@ SplineSet
  441 677 441 677 441 650 c 1,91,-1
  441 650 l 1,79,80
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CBF
 EndChar
 
 StartChar: U0C9C_U0CBF.abvs
@@ -10864,7 +10649,6 @@ SplineSet
  564 664 564 664 564 637 c 1,98,-1
  564 637 l 1,86,87
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CBF
 EndChar
 
 StartChar: U0C9D_U0CBF.abvs
@@ -10947,7 +10731,6 @@ SplineSet
  1031 -182 l 1,92,-1
  1031 -182 l 1,86,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CBF
 EndChar
 
 StartChar: U0C9E_U0CBF.abvs
@@ -11052,7 +10835,6 @@ SplineSet
  790 772 790 772 790 755 c 1,129,-1
  790 755 l 1,117,118
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CBF
 EndChar
 
 StartChar: U0C9F_U0CBF.abvs
@@ -11141,7 +10923,6 @@ SplineSet
  637 650 l 1,92,93
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CBF
 EndChar
 
 StartChar: U0CA0_U0CBF.abvs
@@ -11194,7 +10975,6 @@ SplineSet
  334 234 l 1,50,-1
  334 234 l 1,46,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CBF
 EndChar
 
 StartChar: U0CA1_U0CBE.abvs
@@ -11274,7 +11054,6 @@ SplineSet
  209 673 209 673 209 644 c 1,92,-1
  209 644 l 1,79,80
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CBF
 EndChar
 
 StartChar: U0CA2_U0CBF.abvs
@@ -11362,7 +11141,6 @@ SplineSet
  378 -182 l 1,99,-1
  378 -182 l 1,93,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CBF
 EndChar
 
 StartChar: U0CA3_U0CBF.abvs
@@ -11449,7 +11227,6 @@ SplineSet
  690 724 690 724 690 702 c 1,105,-1
  690 702 l 1,93,94
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CBF
 EndChar
 
 StartChar: U0CA4_U0CBF.abvs
@@ -11522,7 +11299,6 @@ SplineSet
  268 677 268 677 268 650 c 1,84,-1
  268 650 l 1,72,73
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CBF
 EndChar
 
 StartChar: U0CA5_U0CBF.abvs
@@ -11592,7 +11368,6 @@ SplineSet
  381 -182 l 1,70,-1
  381 -182 l 1,64,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CBF
 EndChar
 
 StartChar: U0CA6_U0CBF.abvs
@@ -11648,7 +11423,6 @@ SplineSet
  108 137 108 137 108 234 c 1,58,-1
  108 234 l 1,34,35
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CBF
 EndChar
 
 StartChar: U0CA7_U0CBF.abvs
@@ -11712,7 +11486,6 @@ SplineSet
  381 -182 l 1,65,-1
  381 -182 l 1,59,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CBF
 EndChar
 
 StartChar: U0CA8_U0CBF.abvs
@@ -11767,7 +11540,6 @@ SplineSet
  267 663 267 663 267 644 c 1,59,-1
  267 644 l 1,47,48
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CBF
 EndChar
 
 StartChar: U0CAA_U0CBF.abvs
@@ -11841,7 +11613,6 @@ SplineSet
  252 563 252 563 252 611 c 1,84,-1
  252 611 l 1,59,60
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CBF
 EndChar
 
 StartChar: U0CAB_U0CBF.abvs
@@ -11923,7 +11694,6 @@ SplineSet
  343 -182 l 1,91,-1
  343 -182 l 1,85,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CBF
 EndChar
 
 StartChar: U0CAC_U0CBF.abvs
@@ -11995,7 +11765,6 @@ SplineSet
  432 677 432 677 432 650 c 1,84,-1
  432 650 l 1,72,73
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CBF
 EndChar
 
 StartChar: U0CAD_U0CBF.abvs
@@ -12075,7 +11844,6 @@ SplineSet
  432 677 432 677 432 650 c 1,91,-1
  432 650 l 1,79,80
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CBF
 EndChar
 
 StartChar: U0CAE_U0CBF.abvs
@@ -12152,7 +11920,6 @@ SplineSet
  265 612 265 612 265 585 c 1,91,-1
  265 585 l 1,79,80
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CBF
 EndChar
 
 StartChar: U0CAF_U0CBF.abvs
@@ -12228,7 +11995,6 @@ SplineSet
  753 547 753 547 753 520 c 1,88,-1
  753 520 l 1,76,77
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CBF
 EndChar
 
 StartChar: U0CB0_U0CBF.abvs
@@ -12275,8 +12041,6 @@ SplineSet
  99 175 99 175 99 299 c 1,45,-1
  99 299 l 1,27,28
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CBF
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CBF
 EndChar
 
 StartChar: U0CB1_U0CBF.abvs
@@ -12378,7 +12142,6 @@ SplineSet
  576 772 576 772 576 755 c 1,120,-1
  576 755 l 1,108,109
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CBF
 EndChar
 
 StartChar: U0CB2_U0CBF.abvs
@@ -12440,7 +12203,6 @@ SplineSet
  490 703 490 703 490 676 c 1,68,-1
  490 676 l 1,56,57
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CBF
 EndChar
 
 StartChar: U0CB3_U0CBF.abvs
@@ -12519,7 +12281,6 @@ SplineSet
  458 703 458 703 458 676 c 1,91,-1
  458 676 l 1,79,80
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CBF
 EndChar
 
 StartChar: U0CB5_U0CBF.abvs
@@ -12581,7 +12342,6 @@ SplineSet
  265 612 265 612 265 585 c 1,69,-1
  265 585 l 1,57,58
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CBF
 EndChar
 
 StartChar: U0CB6_U0CBF.abvs
@@ -12658,7 +12418,6 @@ SplineSet
  78 93 78 93 78 163 c 1,89,-1
  78 163 l 1,30,31
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CBF
 EndChar
 
 StartChar: U0CB7_U0CBF.abvs
@@ -12742,7 +12501,6 @@ SplineSet
  246 563 246 563 246 611 c 1,95,-1
  246 611 l 1,70,71
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CBF
 EndChar
 
 StartChar: U0CB8_U0CBF.abvs
@@ -12807,7 +12565,6 @@ SplineSet
  174 633 174 633 174 611 c 1,71,-1
  174 611 l 1,59,60
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CBF
 EndChar
 
 StartChar: U0CB9_U0CBF.abvs
@@ -12880,7 +12637,6 @@ SplineSet
  401 341 401 341 425 299 c 1,80,-1
  425 299 l 1,56,57
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CBF
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CBF.akhn
@@ -12978,7 +12734,6 @@ SplineSet
  64 -288 64 -288 64 -234 c 1,115,-1
  64 -234 l 1,63,64
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CBF U0CB7 U0CCD
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CBF.akhn
@@ -13125,7 +12880,6 @@ SplineSet
  564 664 564 664 564 637 c 1,190,-1
  564 637 l 1,178,179
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CBF U0C9E U0CCD
 EndChar
 
 StartChar: U0CA6_U0CBD_U0CA6_U0CCB.akhn
@@ -13210,7 +12964,6 @@ SplineSet
  248 -260 248 -260 248 -325 c 1,97,-1
  248 -325 l 1,78,79
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CBD U0CA6 U0CCB
 EndChar
 
 StartChar: U0CB2_U0CBD_U0CB2_U0CCB.akhn
@@ -13301,7 +13054,6 @@ SplineSet
  168 -287 168 -287 168 -260 c 1,108,-1
  168 -260 l 1,69,70
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CBF U0CB2 U0CCD
 EndChar
 
 StartChar: U0C95_U0CC0.abvs
@@ -13387,7 +13139,6 @@ SplineSet
  647 237 647 237 647 338 c 1,96,-1
  647 338 l 1,74,75
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CC0
 EndChar
 
 StartChar: U0C96_U0CC0.abvs
@@ -13495,7 +13246,6 @@ SplineSet
  952 338 l 1,109,110
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CC0
 EndChar
 
 StartChar: U0C97_U0CC0.abvs
@@ -13566,7 +13316,6 @@ SplineSet
  729 338 l 1,52,53
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CC0
 EndChar
 
 StartChar: U0C98_U0CC0.abvs
@@ -13689,7 +13438,6 @@ SplineSet
  979 338 l 1,124,125
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CC0
 EndChar
 
 StartChar: U0C99_U0CC0.abvs
@@ -13818,7 +13566,6 @@ SplineSet
  855 338 l 1,136,137
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CC0
 EndChar
 
 StartChar: U0C9A_U0CC0.abvs
@@ -13929,7 +13676,6 @@ SplineSet
  844 338 l 1,111,112
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CC0
 EndChar
 
 StartChar: U0C9B_U0CC0.abvs
@@ -14038,7 +13784,6 @@ SplineSet
  855 338 l 1,105,106
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CC0
 EndChar
 
 StartChar: U0C9C_U0CC0.abvs
@@ -14148,7 +13893,6 @@ SplineSet
  849 338 l 1,112,113
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CC0
 EndChar
 
 StartChar: U0C9D_U0CC0.abvs
@@ -14259,7 +14003,6 @@ SplineSet
  1674 338 l 1,106,107
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CC0
 EndChar
 
 StartChar: U0C9E_U0CC0.abvs
@@ -14392,7 +14135,6 @@ SplineSet
  1073 338 l 1,143,144
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CC0
 EndChar
 
 StartChar: U0C9F_U0CBC.abvs
@@ -14508,7 +14250,6 @@ SplineSet
  910 338 l 1,118,119
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CBC
 EndChar
 
 StartChar: U0CA0_U0CC0.abvs
@@ -14589,7 +14330,6 @@ SplineSet
  746 338 l 1,64,65
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CC0
 EndChar
 
 StartChar: U0CA1_U0CC0.abvs
@@ -14697,7 +14437,6 @@ SplineSet
  836 338 l 1,106,107
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CC0
 EndChar
 
 StartChar: U0CA2_U0CC0.abvs
@@ -14813,7 +14552,6 @@ SplineSet
  829 338 l 1,113,114
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CC0
 EndChar
 
 StartChar: U0CA3_U0CC0.abvs
@@ -14928,7 +14666,6 @@ SplineSet
  926 338 l 1,119,120
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CC0
 EndChar
 
 StartChar: U0CA4_U0CC0.abvs
@@ -15029,7 +14766,6 @@ SplineSet
  620 338 l 1,98,99
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CC0
 EndChar
 
 StartChar: U0CA5_U0CC0.abvs
@@ -15127,7 +14863,6 @@ SplineSet
  840 338 l 1,84,85
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CC0
 EndChar
 
 StartChar: U0CA6_U0CC0.abvs
@@ -15211,7 +14946,6 @@ SplineSet
  840 338 l 1,72,73
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CC0
 EndChar
 
 StartChar: U0CA7_U0CC0.abvs
@@ -15303,7 +15037,6 @@ SplineSet
  840 338 l 1,79,80
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CC0
 EndChar
 
 StartChar: U0CA8_U0CC0.abvs
@@ -15386,7 +15119,6 @@ SplineSet
  800 338 l 1,73,74
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CC0
 EndChar
 
 StartChar: U0CAA_U0CC0.abvs
@@ -15488,7 +15220,6 @@ SplineSet
  803 338 l 1,98,99
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CC0
 EndChar
 
 StartChar: U0CAB_U0CC0.abvs
@@ -15598,7 +15329,6 @@ SplineSet
  797 338 l 1,105,106
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CC0
 EndChar
 
 StartChar: U0CAC_U0CC0.abvs
@@ -15698,7 +15428,6 @@ SplineSet
  870 338 l 1,98,99
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CC0
 EndChar
 
 StartChar: U0CAD_U0CC0.abvs
@@ -15806,7 +15535,6 @@ SplineSet
  870 338 l 1,105,106
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CC0
 EndChar
 
 StartChar: U0CAE_U0CC0.abvs
@@ -15911,7 +15639,6 @@ SplineSet
  1284 338 l 1,105,106
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CC0
 EndChar
 
 StartChar: U0CAF_U0CC0.abvs
@@ -16015,7 +15742,6 @@ SplineSet
  1596 338 l 1,102,103
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CC0
 EndChar
 
 StartChar: U0CB0_U0CC0.abvs
@@ -16089,9 +15815,7 @@ SplineSet
  745 237 745 237 745 338 c 1,81,-1
  745 338 l 1,59,60
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CC0
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CC0
 EndChar
 
 StartChar: U0CB1_U0CC0.abvs
@@ -16221,7 +15945,6 @@ SplineSet
  857 338 l 1,134,135
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CC0
 EndChar
 
 StartChar: U0CB2_U0CC0.abvs
@@ -16311,7 +16034,6 @@ SplineSet
  909 338 l 1,82,83
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CC0
 EndChar
 
 StartChar: U0CB3_U0CC0.abvs
@@ -16418,7 +16140,6 @@ SplineSet
  780 338 l 1,105,106
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CC0
 EndChar
 
 StartChar: U0CB5_U0CC0.abvs
@@ -16508,7 +16229,6 @@ SplineSet
  829 338 l 1,83,84
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CC0
 EndChar
 
 StartChar: U0CB6_U0CC0.abvs
@@ -16613,7 +16333,6 @@ SplineSet
  705 338 l 1,103,104
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CC0
 EndChar
 
 StartChar: U0CB7_U0CC0.abvs
@@ -16725,7 +16444,6 @@ SplineSet
  803 338 l 1,109,110
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CC0
 EndChar
 
 StartChar: U0CB8_U0CC0.abvs
@@ -16818,7 +16536,6 @@ SplineSet
  647 338 l 1,85,86
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CC0
 EndChar
 
 StartChar: U0CB9_U0CC0.abvs
@@ -16918,7 +16635,6 @@ SplineSet
  850 237 850 237 850 338 c 1,116,-1
  850 338 l 1,94,95
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CC0
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CC0.akhn
@@ -17043,7 +16759,6 @@ SplineSet
  660 237 660 237 660 338 c 1,151,-1
  660 338 l 1,129,130
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CBF U0CB7 U0CCD U0CD5
 EndChar
 
 StartChar: U0C9C_U0CCD_U0CBE_U0CC0.akhn
@@ -17217,7 +16932,6 @@ SplineSet
  849 237 849 237 849 338 c 1,226,-1
  849 338 l 1,204,205
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CBF U0C9E U0CCD U0CD5
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CC0.akhn
@@ -17329,7 +17043,6 @@ SplineSet
  846 237 846 237 846 338 c 1,133,-1
  846 338 l 1,111,112
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CBF U0CA6 U0CCD U0CD5
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CC0.akhn
@@ -17447,7 +17160,6 @@ SplineSet
  902 237 902 237 902 338 c 1,144,-1
  902 338 l 1,122,123
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CBF U0CB2 U0CCD U0CD5
 EndChar
 
 StartChar: U0C95_U0CC6.abvs
@@ -17509,7 +17221,6 @@ SplineSet
  64 423 l 1,64,-1
  64 423 l 1,13,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CC6
 EndChar
 
 StartChar: U0C96_U0CC6.abvs
@@ -17594,7 +17305,6 @@ SplineSet
  573 91 573 91 628 91 c 1,103,-1
  628 91 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CC6
 EndChar
 
 StartChar: U0C97_U0CC6.abvs
@@ -17643,7 +17353,6 @@ SplineSet
  126 0 l 1,48,-1
  126 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CC6
 EndChar
 
 StartChar: U0C98_U0CC6.abvs
@@ -17735,7 +17444,6 @@ SplineSet
  742 338 742 338 785 338 c 1,105,-1
  785 338 l 1,12,13
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CC6
 EndChar
 
 StartChar: U0C99_U0CC6.abvs
@@ -17836,7 +17544,6 @@ SplineSet
  846 299 846 299 767 391 c 1,5,6
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CC6
 EndChar
 
 StartChar: U0C9A_U0CC6.abvs
@@ -17923,7 +17630,6 @@ SplineSet
  511 403 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CC6
 EndChar
 
 StartChar: U0C9B_U0CC6.abvs
@@ -18007,7 +17713,6 @@ SplineSet
  541 91 541 91 584 91 c 1,96,-1
  584 91 l 1,20,21
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CC6
 EndChar
 
 StartChar: U0C9C_U0CC6.abvs
@@ -18099,7 +17804,6 @@ SplineSet
  121 169 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CC6
 EndChar
 
 StartChar: U0C9D_U0CC6.abvs
@@ -18191,7 +17895,6 @@ SplineSet
  1037 -182 l 1,100,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CC6
 EndChar
 
 StartChar: U0C9E_U0CC6.abvs
@@ -18295,7 +17998,6 @@ SplineSet
  997 415 997 415 1056 371 c 1,12,13
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CC6
 EndChar
 
 StartChar: U0C9F_U0CC6.abvs
@@ -18392,7 +18094,6 @@ SplineSet
  107 247 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CC6
 EndChar
 
 StartChar: U0CA0_U0CC6.abvs
@@ -18451,7 +18152,6 @@ SplineSet
  334 234 l 1,60,-1
  334 234 l 1,56,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CC6
 EndChar
 
 StartChar: U0CA1_U0CC6.abvs
@@ -18539,7 +18239,6 @@ SplineSet
  107 234 l 1,48,49
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CC6
 EndChar
 
 StartChar: U0CA2_U0CC6.abvs
@@ -18633,7 +18332,6 @@ SplineSet
  380 -182 l 1,109,-1
  380 -182 l 1,103,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CC6
 EndChar
 
 StartChar: U0CA3_U0CC6.abvs
@@ -18718,7 +18416,6 @@ SplineSet
  105 286 105 286 105 312 c 1,101,-1
  105 312 l 1,31,32
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CC6
 EndChar
 
 StartChar: U0CA4_U0CC6.abvs
@@ -18792,7 +18489,6 @@ SplineSet
  415 416 415 416 437 403 c 1,86,-1
  437 403 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CC6
 EndChar
 
 StartChar: U0CA5_U0CC6.abvs
@@ -18868,7 +18564,6 @@ SplineSet
  381 -182 l 1,80,-1
  381 -182 l 1,74,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CC6
 EndChar
 
 StartChar: U0CA6_U0CC6.abvs
@@ -18930,7 +18625,6 @@ SplineSet
  169 460 169 460 225 507 c 1,68,-1
  225 507 l 1,20,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CC6
 EndChar
 
 StartChar: U0CA7_U0CC6.abvs
@@ -19000,7 +18694,6 @@ SplineSet
  381 -182 l 1,75,-1
  381 -182 l 1,69,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CC6
 EndChar
 
 StartChar: U0CA8_U0CC6.abvs
@@ -19060,7 +18753,6 @@ SplineSet
  611 190 611 190 611 260 c 1,67,-1
  611 260 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CC6
 EndChar
 
 StartChar: U0CAA_U0CC6.abvs
@@ -19134,7 +18826,6 @@ SplineSet
  70 585 l 1,81,-1
  70 585 l 1,51,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CC6
 EndChar
 
 StartChar: U0CAB_U0CC6.abvs
@@ -19216,7 +18907,6 @@ SplineSet
  343 -182 l 1,88,-1
  343 -182 l 1,82,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CC6
 EndChar
 
 StartChar: U0CAC_U0CC6.abvs
@@ -19293,7 +18983,6 @@ SplineSet
  710 209 710 209 710 293 c 1,92,-1
  710 293 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CC6
 EndChar
 
 StartChar: U0CAD_U0CC6.abvs
@@ -19378,7 +19067,6 @@ SplineSet
  393 -182 l 1,99,-1
  393 -182 l 1,93,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CC6
 EndChar
 
 StartChar: U0CAE_U0CC6.abvs
@@ -19458,7 +19146,6 @@ SplineSet
  503 91 503 91 551 91 c 1,95,-1
  551 91 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CC6
 EndChar
 
 StartChar: U0CAF_U0CC6.abvs
@@ -19539,7 +19226,6 @@ SplineSet
  961 213 961 213 961 299 c 1,96,-1
  961 299 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CC6
 EndChar
 
 StartChar: U0CB0_U0CC6.abvs
@@ -19592,8 +19278,6 @@ SplineSet
  150 468 150 468 196 507 c 1,55,-1
  196 507 l 1,13,-1
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CC6
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CC6
 EndChar
 
 StartChar: U0CB1_U0CC6.abvs
@@ -19689,7 +19373,6 @@ SplineSet
  264 312 l 1,113,-1
  264 312 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CC6
 EndChar
 
 StartChar: U0CB2_U0CC6.abvs
@@ -19755,7 +19438,6 @@ SplineSet
  340 91 340 91 445 91 c 1,75,-1
  445 91 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CC6
 EndChar
 
 StartChar: U0CB3_U0CC6.abvs
@@ -19839,7 +19521,6 @@ SplineSet
  291 242 291 242 393 260 c 1,99,-1
  393 260 l 1,26,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CC6
 EndChar
 
 StartChar: U0CB5_U0CC6.abvs
@@ -19905,7 +19586,6 @@ SplineSet
  503 91 503 91 551 91 c 1,75,-1
  551 91 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CC6
 EndChar
 
 StartChar: U0CB6_U0CC6.abvs
@@ -19977,7 +19657,6 @@ SplineSet
  208 507 l 1,17,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CC6
 EndChar
 
 StartChar: U0CB7_U0CC6.abvs
@@ -20061,7 +19740,6 @@ SplineSet
  70 585 l 1,92,-1
  70 585 l 1,62,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CC6
 EndChar
 
 StartChar: U0CB8_U0CC6.abvs
@@ -20127,7 +19805,6 @@ SplineSet
  51 585 l 1,68,-1
  51 585 l 1,38,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CC6
 EndChar
 
 StartChar: U0CB9_U0CC6.abvs
@@ -20203,7 +19880,6 @@ SplineSet
  336 490 336 490 289 507 c 1,87,-1
  289 507 l 1,26,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CC6
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CC6.akhn
@@ -20303,7 +19979,6 @@ SplineSet
  65 -288 65 -288 65 -234 c 1,117,-1
  65 -234 l 1,65,66
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CC6 U0CB7 U0CCD
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CC6.akhn
@@ -20457,7 +20132,6 @@ SplineSet
  415 399 415 399 355 449 c 1,201,-1
  355 449 l 1,90,91
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CC6 U0C9E U0CCD
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CC6.akhn
@@ -20548,7 +20222,6 @@ SplineSet
  248 -260 248 -260 248 -325 c 1,107,-1
  248 -325 l 1,88,89
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CC6 U0CA6 U0CCD
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CC6.akhn
@@ -20643,7 +20316,6 @@ SplineSet
  179 -287 179 -287 179 -260 c 1,115,-1
  179 -260 l 1,76,77
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CC6 U0CB2 U0CCD
 EndChar
 
 StartChar: U0C95_U0CC7.abvs
@@ -20732,7 +20404,6 @@ SplineSet
  621 237 621 237 621 338 c 1,100,-1
  621 338 l 1,78,79
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CC7
 EndChar
 
 StartChar: U0C96_U0CC7.abvs
@@ -20844,7 +20515,6 @@ SplineSet
  918 237 918 237 918 338 c 1,139,-1
  918 338 l 1,117,118
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CC7
 EndChar
 
 StartChar: U0C97_U0CC7.abvs
@@ -20920,7 +20590,6 @@ SplineSet
  746 237 746 237 746 338 c 1,84,-1
  746 338 l 1,62,63
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CC7
 EndChar
 
 StartChar: U0C98_U0CC7.abvs
@@ -21039,7 +20708,6 @@ SplineSet
  985 237 985 237 985 338 c 1,141,-1
  985 338 l 1,119,120
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CC7
 EndChar
 
 StartChar: U0C99_U0CC7.abvs
@@ -21166,7 +20834,6 @@ SplineSet
  1245 338 l 1,138,139
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CC7
 EndChar
 
 StartChar: U0C9A_U0CC7.abvs
@@ -21278,7 +20945,6 @@ SplineSet
  845 237 845 237 845 338 c 1,136,-1
  845 338 l 1,114,115
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CC7
 EndChar
 
 StartChar: U0C9B_U0CC7.abvs
@@ -21389,7 +21055,6 @@ SplineSet
  855 237 855 237 855 338 c 1,132,-1
  855 338 l 1,110,111
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CC7
 EndChar
 
 StartChar: U0C9C_U0CC7.abvs
@@ -21506,7 +21171,6 @@ SplineSet
  849 237 849 237 849 338 c 1,147,-1
  849 338 l 1,125,126
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CC7
 EndChar
 
 StartChar: U0C9D_U0CC7.abvs
@@ -21624,7 +21288,6 @@ SplineSet
  1655 237 1655 237 1655 338 c 1,142,-1
  1655 338 l 1,120,121
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CC7
 EndChar
 
 StartChar: U0C9E_U0CC7.abvs
@@ -21755,7 +21418,6 @@ SplineSet
  997 415 997 415 1056 371 c 1,43,44
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CC7
 EndChar
 
 StartChar: U0C9F_U0CC7.abvs
@@ -21878,7 +21540,6 @@ SplineSet
  930 237 930 237 930 338 c 1,153,-1
  930 338 l 1,131,132
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CC7
 EndChar
 
 StartChar: U0CA0_U0CC7.abvs
@@ -21964,7 +21625,6 @@ SplineSet
  746 237 746 237 746 338 c 1,96,-1
  746 338 l 1,74,75
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CC7
 EndChar
 
 StartChar: U0CA1_U0CC7.abvs
@@ -22077,7 +21737,6 @@ SplineSet
  849 237 849 237 849 338 c 1,138,-1
  849 338 l 1,116,117
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CC7
 EndChar
 
 StartChar: U0CA2_U0CC7.abvs
@@ -22198,7 +21857,6 @@ SplineSet
  849 237 849 237 849 338 c 1,145,-1
  849 338 l 1,123,124
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CC7
 EndChar
 
 StartChar: U0CA3_U0CC7.abvs
@@ -22310,7 +21968,6 @@ SplineSet
  926 237 926 237 926 338 c 1,137,-1
  926 338 l 1,115,116
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CC7
 EndChar
 
 StartChar: U0CA4_U0CC7.abvs
@@ -22411,7 +22068,6 @@ SplineSet
  627 237 627 237 627 338 c 1,122,-1
  627 338 l 1,100,101
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CC7
 EndChar
 
 StartChar: U0CA5_U0CC7.abvs
@@ -22514,7 +22170,6 @@ SplineSet
  840 237 840 237 840 338 c 1,116,-1
  840 338 l 1,94,95
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CC7
 EndChar
 
 StartChar: U0CA6_U0CC7.abvs
@@ -22603,7 +22258,6 @@ SplineSet
  840 237 840 237 840 338 c 1,104,-1
  840 338 l 1,82,83
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CC7
 EndChar
 
 StartChar: U0CA7_U0CC7.abvs
@@ -22700,7 +22354,6 @@ SplineSet
  840 237 840 237 840 338 c 1,111,-1
  840 338 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CC7
 EndChar
 
 StartChar: U0CA8_U0CC7.abvs
@@ -22787,7 +22440,6 @@ SplineSet
  754 237 754 237 754 338 c 1,103,-1
  754 338 l 1,81,82
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CC7
 EndChar
 
 StartChar: U0CAA_U0CC7.abvs
@@ -22888,7 +22540,6 @@ SplineSet
  764 237 764 237 764 338 c 1,117,-1
  764 338 l 1,95,96
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CC7
 EndChar
 
 StartChar: U0CAB_U0CC7.abvs
@@ -22997,7 +22648,6 @@ SplineSet
  764 237 764 237 764 338 c 1,124,-1
  764 338 l 1,102,103
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CC7
 EndChar
 
 StartChar: U0CAC_U0CC7.abvs
@@ -23101,7 +22751,6 @@ SplineSet
  870 237 870 237 870 338 c 1,128,-1
  870 338 l 1,106,107
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CC7
 EndChar
 
 StartChar: U0CAD_U0CC7.abvs
@@ -23213,7 +22862,6 @@ SplineSet
  871 237 871 237 871 338 c 1,135,-1
  871 338 l 1,113,114
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CC7
 EndChar
 
 StartChar: U0CAE_U0CC7.abvs
@@ -23320,7 +22968,6 @@ SplineSet
  1258 237 1258 237 1258 338 c 1,131,-1
  1258 338 l 1,109,110
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CC7
 EndChar
 
 StartChar: U0CAF_U0CC7.abvs
@@ -23428,7 +23075,6 @@ SplineSet
  1603 237 1603 237 1603 338 c 1,132,-1
  1603 338 l 1,110,111
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CC7
 EndChar
 
 StartChar: U0CB0_U0CC7.abvs
@@ -23508,8 +23154,6 @@ SplineSet
  745 237 745 237 745 338 c 1,91,-1
  745 338 l 1,69,70
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CC7
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CC7
 EndChar
 
 StartChar: U0CB1_U0CC7.abvs
@@ -23632,7 +23276,6 @@ SplineSet
  857 237 857 237 857 338 c 1,149,-1
  857 338 l 1,127,128
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CC7
 EndChar
 
 StartChar: U0CB2_U0CC7.abvs
@@ -23725,7 +23368,6 @@ SplineSet
  861 237 861 237 861 338 c 1,111,-1
  861 338 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CC7
 EndChar
 
 StartChar: U0CB3_U0CC7.abvs
@@ -23836,7 +23478,6 @@ SplineSet
  681 237 681 237 681 338 c 1,135,-1
  681 338 l 1,113,114
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CC7
 EndChar
 
 StartChar: U0CB5_U0CC7.abvs
@@ -23929,7 +23570,6 @@ SplineSet
  764 237 764 237 764 338 c 1,111,-1
  764 338 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CC7
 EndChar
 
 StartChar: U0CB6_U0CC7.abvs
@@ -24027,7 +23667,6 @@ SplineSet
  702 237 702 237 702 338 c 1,117,-1
  702 338 l 1,95,96
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CC7
 EndChar
 
 StartChar: U0CB7_U0CC7.abvs
@@ -24138,7 +23777,6 @@ SplineSet
  764 237 764 237 764 338 c 1,128,-1
  764 338 l 1,106,107
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CC7
 EndChar
 
 StartChar: U0CB8_U0CC7.abvs
@@ -24230,7 +23868,6 @@ SplineSet
  595 237 595 237 595 338 c 1,104,-1
  595 338 l 1,82,83
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CC7
 EndChar
 
 StartChar: U0CB9_U0CC7.abvs
@@ -24333,7 +23970,6 @@ SplineSet
  824 237 824 237 824 338 c 1,123,-1
  824 338 l 1,101,102
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CC4
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CC7.akhn
@@ -24460,7 +24096,6 @@ SplineSet
  668 237 668 237 668 338 c 1,153,-1
  668 338 l 1,131,132
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CC6 U0CB7 U0CCD U0CD5
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CC7.akhn
@@ -24642,7 +24277,6 @@ SplineSet
  862 338 l 1,215,216
 EndSplineSet
 LCarets2: 4 0 0 0 0 
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CC6 U0C9E U0CCD U0CD5
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CC7.akhn
@@ -24760,7 +24394,6 @@ SplineSet
  866 237 866 237 866 338 c 1,143,-1
  866 338 l 1,121,122
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CC6 U0CA6 U0CCD U0CD5
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CC7.akhn
@@ -24882,7 +24515,6 @@ SplineSet
  901 237 901 237 901 338 c 1,151,-1
  901 338 l 1,129,130
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CC6 U0CB2 U0CCD U0CD5
 EndChar
 
 StartChar: U0C95_U0CC8.abvs
@@ -24985,7 +24617,6 @@ SplineSet
  296 -336 296 -336 296 -247 c 1,121,-1
  296 -247 l 1,78,79
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CC8
 EndChar
 
 StartChar: U0C96_U0CC8.abvs
@@ -25111,7 +24742,6 @@ SplineSet
  645 -336 645 -336 645 -247 c 1,160,-1
  645 -247 l 1,117,118
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CC8
 EndChar
 
 StartChar: U0C97_U0CC8.abvs
@@ -25201,7 +24831,6 @@ SplineSet
  460 -336 460 -336 460 -247 c 1,105,-1
  460 -247 l 1,62,63
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CC8
 EndChar
 
 StartChar: U0C98_U0CC8.abvs
@@ -25334,7 +24963,6 @@ SplineSet
  615 -336 615 -336 615 -247 c 1,162,-1
  615 -247 l 1,119,120
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CC8
 EndChar
 
 StartChar: U0C99_U0CC8.abvs
@@ -25475,7 +25103,6 @@ SplineSet
  846 298 846 298 767 390 c 1,57,58
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CC8
 EndChar
 
 StartChar: U0C9A_U0CC8.abvs
@@ -25601,7 +25228,6 @@ SplineSet
  547 -336 547 -336 547 -247 c 1,157,-1
  547 -247 l 1,114,115
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CC8
 EndChar
 
 StartChar: U0C9B_U0CC8.abvs
@@ -25726,7 +25352,6 @@ SplineSet
  563 -336 563 -336 563 -247 c 1,153,-1
  563 -247 l 1,110,111
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CC8
 EndChar
 
 StartChar: U0C9C_U0CC8.abvs
@@ -25857,7 +25482,6 @@ SplineSet
  554 -336 554 -336 554 -247 c 1,168,-1
  554 -247 l 1,125,126
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CC8
 EndChar
 
 StartChar: U0C9D_U0CC8.abvs
@@ -25989,7 +25613,6 @@ SplineSet
  1327 -336 1327 -336 1327 -247 c 1,163,-1
  1327 -247 l 1,120,121
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CC8
 EndChar
 
 StartChar: U0C9E_U0CC8.abvs
@@ -26134,7 +25757,6 @@ SplineSet
  997 414 997 414 1056 370 c 1,64,65
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CC8
 EndChar
 
 StartChar: U0C9F_U0CC8.abvs
@@ -26271,7 +25893,6 @@ SplineSet
  610 -336 610 -336 610 -247 c 1,174,-1
  610 -247 l 1,131,132
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CC8
 EndChar
 
 StartChar: U0CA0_U0CC8.abvs
@@ -26371,7 +25992,6 @@ SplineSet
  441 -336 441 -336 441 -247 c 1,117,-1
  441 -247 l 1,74,75
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CC8
 EndChar
 
 StartChar: U0CA1_U0CC8.abvs
@@ -26498,7 +26118,6 @@ SplineSet
  545 -336 545 -336 545 -247 c 1,159,-1
  545 -247 l 1,116,117
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CC8
 EndChar
 
 StartChar: U0CA2_U0CC8.abvs
@@ -26633,7 +26252,6 @@ SplineSet
  545 -336 545 -336 545 -247 c 1,166,-1
  545 -247 l 1,123,124
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CC8
 EndChar
 
 StartChar: U0CA3_U0CC8.abvs
@@ -26759,7 +26377,6 @@ SplineSet
  620 -336 620 -336 620 -247 c 1,158,-1
  620 -247 l 1,115,116
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CC8
 EndChar
 
 StartChar: U0CA4_U0CC8.abvs
@@ -26874,7 +26491,6 @@ SplineSet
  347 -336 347 -336 347 -247 c 1,143,-1
  347 -247 l 1,100,101
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CC8
 EndChar
 
 StartChar: U0CA5_U0CC8.abvs
@@ -26991,7 +26607,6 @@ SplineSet
  534 -336 534 -336 534 -247 c 1,137,-1
  534 -247 l 1,94,95
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CC8
 EndChar
 
 StartChar: U0CA6_U0CC8.abvs
@@ -27094,7 +26709,6 @@ SplineSet
  534 -336 534 -336 534 -247 c 1,125,-1
  534 -247 l 1,82,83
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CC8
 EndChar
 
 StartChar: U0CA7_U0CC8.abvs
@@ -27205,7 +26819,6 @@ SplineSet
  534 -336 534 -336 534 -247 c 1,132,-1
  534 -247 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CC8
 EndChar
 
 StartChar: U0CA8_U0CC8.abvs
@@ -27306,7 +26919,6 @@ SplineSet
  481 -336 481 -336 481 -247 c 1,124,-1
  481 -247 l 1,81,82
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CC8
 EndChar
 
 StartChar: U0CAA_U0CC8.abvs
@@ -27421,7 +27033,6 @@ SplineSet
  498 -336 498 -336 498 -247 c 1,138,-1
  498 -247 l 1,95,96
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CC8
 EndChar
 
 StartChar: U0CAB_U0CC8.abvs
@@ -27544,7 +27155,6 @@ SplineSet
  498 -336 498 -336 498 -247 c 1,145,-1
  498 -247 l 1,102,103
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CC8
 EndChar
 
 StartChar: U0CAC_U0CC8.abvs
@@ -27662,7 +27272,6 @@ SplineSet
  581 -336 581 -336 581 -247 c 1,149,-1
  581 -247 l 1,106,107
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CC8
 EndChar
 
 StartChar: U0CAD_U0CC8.abvs
@@ -27788,7 +27397,6 @@ SplineSet
  558 -336 558 -336 558 -247 c 1,156,-1
  558 -247 l 1,113,114
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CC8
 EndChar
 
 StartChar: U0CAE_U0CC8.abvs
@@ -27909,7 +27517,6 @@ SplineSet
  932 -336 932 -336 932 -247 c 1,152,-1
  932 -247 l 1,109,110
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CC8
 EndChar
 
 StartChar: U0CAF_U0CC8.abvs
@@ -28031,7 +27638,6 @@ SplineSet
  1264 -336 1264 -336 1264 -247 c 1,153,-1
  1264 -247 l 1,110,111
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CC8
 EndChar
 
 StartChar: U0CB0_U0CC8.abvs
@@ -28125,8 +27731,6 @@ SplineSet
  399 -336 399 -336 399 -247 c 1,112,-1
  399 -247 l 1,69,70
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CC8
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CC8
 EndChar
 
 StartChar: U0CB1_U0CC8.abvs
@@ -28263,7 +27867,6 @@ SplineSet
  521 -336 521 -336 521 -247 c 1,170,-1
  521 -247 l 1,127,128
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CC8
 EndChar
 
 StartChar: U0CB2_U0CC8.abvs
@@ -28370,7 +27973,6 @@ SplineSet
  532 -336 532 -336 532 -247 c 1,132,-1
  532 -247 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CC8
 EndChar
 
 StartChar: U0CB3_U0CC8.abvs
@@ -28495,7 +28097,6 @@ SplineSet
  285 -336 285 -336 285 -247 c 1,156,-1
  285 -247 l 1,113,114
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CC8
 EndChar
 
 StartChar: U0CB5_U0CC8.abvs
@@ -28602,7 +28203,6 @@ SplineSet
  498 -336 498 -336 498 -247 c 1,132,-1
  498 -247 l 1,89,90
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CC8
 EndChar
 
 StartChar: U0CB6_U0CC8.abvs
@@ -28714,7 +28314,6 @@ SplineSet
  410 -336 410 -336 410 -247 c 1,138,-1
  410 -247 l 1,95,96
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CC8
 EndChar
 
 StartChar: U0CB7_U0CC8.abvs
@@ -28839,7 +28438,6 @@ SplineSet
  581 -336 581 -336 581 -247 c 1,149,-1
  581 -247 l 1,106,107
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CC8
 EndChar
 
 StartChar: U0CB8_U0CC8.abvs
@@ -28945,7 +28543,6 @@ SplineSet
  368 -336 368 -336 368 -247 c 1,125,-1
  368 -247 l 1,82,83
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CC8
 EndChar
 
 StartChar: U0CB9_U0CC8.abvs
@@ -29062,7 +28659,6 @@ SplineSet
  545 -336 545 -336 545 -247 c 1,144,-1
  545 -247 l 1,101,102
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CC8
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CC8.akhn
@@ -29204,7 +28800,6 @@ SplineSet
  65 423 l 1,123,-1
 EndSplineSet
 LCarets2: 4 0 0 0 0 
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CC6 U0CB7 U0CCD U0CD6
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CC8.akhn
@@ -29401,7 +28996,6 @@ SplineSet
  415 399 415 399 355 449 c 1,260,-1
  355 449 l 1,149,150
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CC6 U0C9E U0CCD U0CD6
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CC8.akhn
@@ -29533,7 +29127,6 @@ SplineSet
  169 460 169 460 225 507 c 1,164,-1
  225 507 l 1,116,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CC6 U0CA6 U0CCD U0CD6
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CC8.akhn
@@ -29669,7 +29262,6 @@ SplineSet
  330 91 330 91 445 91 c 1,172,-1
  445 91 l 1,110,111
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CC6 U0CB2 U0CCD U0CD6
 EndChar
 
 StartChar: U0C95_U0CC7.pstf
@@ -29766,7 +29358,6 @@ SplineSet
  64 423 l 1,116,-1
  64 423 l 1,13,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C95 U0CCA
 EndChar
 
 StartChar: U0C96_U0CC7.pstf
@@ -29887,7 +29478,6 @@ SplineSet
  573 91 573 91 628 91 c 1,157,-1
  628 91 l 1,13,14
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C96 U0CCA
 EndChar
 
 StartChar: U0C98_U0CCA.pstf
@@ -30016,7 +29606,6 @@ SplineSet
  1596 200 1596 200 1596 302 c 1,158,-1
  1596 302 l 1,106,107
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C98 U0CCA
 EndChar
 
 StartChar: U0C99_U0CCA.pstf
@@ -30153,7 +29742,6 @@ SplineSet
  846 298 846 298 767 390 c 1,57,58
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C99 U0CCA
 EndChar
 
 StartChar: U0C9A_U0CCA.pstf
@@ -30272,7 +29860,6 @@ SplineSet
  511 403 l 1,151,-1
  511 403 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9A U0CCA
 EndChar
 
 StartChar: U0C9B_U0CCA.pstf
@@ -30392,7 +29979,6 @@ SplineSet
  541 91 541 91 584 91 c 1,150,-1
  584 91 l 1,20,21
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9B U0CCA
 EndChar
 
 StartChar: U0C9C_U0CCA.pstf
@@ -30517,7 +30103,6 @@ SplineSet
  121 99 121 99 121 169 c 1,163,-1
  121 169 l 1,0,1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9C U0CCA
 EndChar
 
 StartChar: U0C9D_U0CCA.psts
@@ -30629,7 +30214,6 @@ SplineSet
  1031 -182 l 1,138,-1
  1031 -182 l 1,132,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0C9D_U0CC6.abvs U0CC2
 EndChar
 
 StartChar: U0C9E_U0CCA.pstf
@@ -30770,7 +30354,6 @@ SplineSet
  997 414 997 414 1056 370 c 1,64,65
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9E U0CCA
 EndChar
 
 StartChar: U0C9F_U0CCA.pstf
@@ -30901,7 +30484,6 @@ SplineSet
  107 145 107 145 107 247 c 1,169,-1
  107 247 l 1,13,14
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9F U0CCA
 EndChar
 
 StartChar: U0CA0_U0CCA.pstf
@@ -30996,7 +30578,6 @@ SplineSet
  334 234 l 1,114,-1
  334 234 l 1,110,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA0 U0CCA
 EndChar
 
 StartChar: U0CA1_U0CCA.pstf
@@ -31116,7 +30697,6 @@ SplineSet
  107 137 107 137 107 234 c 1,153,-1
  107 234 l 1,48,49
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA1 U0CCA
 EndChar
 
 StartChar: U0CA2_U0CCA.pstf
@@ -31244,7 +30824,6 @@ SplineSet
  380 -182 l 1,160,-1
  380 -182 l 1,154,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA2 U0CCA
 EndChar
 
 StartChar: U0CA3_U0CCA.pstf
@@ -31364,7 +30943,6 @@ SplineSet
  105 286 105 286 105 312 c 1,153,-1
  105 312 l 1,31,32
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA3 U0CCA
 EndChar
 
 StartChar: U0CA4_U0CCA.pstf
@@ -31472,7 +31050,6 @@ SplineSet
  415 416 415 416 437 403 c 1,137,-1
  437 403 l 1,13,14
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA4 U0CCA
 EndChar
 
 StartChar: U0CA5_U0CCA.pstf
@@ -31583,7 +31160,6 @@ SplineSet
  381 -182 l 1,132,-1
  381 -182 l 1,126,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA5 U0CCA
 EndChar
 
 StartChar: U0CA6_U0CCA.pstf
@@ -31680,7 +31256,6 @@ SplineSet
  169 460 169 460 225 507 c 1,120,-1
  225 507 l 1,20,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA6 U0CCA
 EndChar
 
 StartChar: U0CA7_U0CCA.pstf
@@ -31785,7 +31360,6 @@ SplineSet
  381 -182 l 1,127,-1
  381 -182 l 1,121,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA7 U0CCA
 EndChar
 
 StartChar: U0CA8_U0CCA.pstf
@@ -31880,7 +31454,6 @@ SplineSet
  611 190 611 190 611 260 c 1,119,-1
  611 260 l 1,0,1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA8 U0CCA
 EndChar
 
 StartChar: U0CAC_U0CCA.pstf
@@ -31995,7 +31568,6 @@ SplineSet
  387 -58 387 -58 387 39 c 1,140,-1
  387 39 l 1,82,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAC U0CCA
 EndChar
 
 StartChar: U0CAB_U0CC3.abvs_U0CC0.psts
@@ -32115,7 +31687,6 @@ SplineSet
  342 -182 l 1,145,-1
  342 -182 l 1,82,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAB U0CCA
 EndChar
 
 StartChar: glyph368
@@ -32228,7 +31799,6 @@ SplineSet
  710 209 710 209 710 293 c 1,146,-1
  710 293 l 1,0,1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAC U0CCA
 EndChar
 
 StartChar: U0CAD_U0CCA.pstf
@@ -32349,7 +31919,6 @@ SplineSet
  393 -182 l 1,153,-1
  393 -182 l 1,147,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAD U0CCA
 EndChar
 
 StartChar: U0CAE_U0CCA.akhn
@@ -32450,7 +32019,6 @@ SplineSet
  503 91 503 91 551 91 c 1,127,-1
  551 91 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CAE U0CC6 U0CC2
 EndChar
 
 StartChar: U0CAF_U0CCA.akhn
@@ -32553,7 +32121,6 @@ SplineSet
  961 213 961 213 961 299 c 1,130,-1
  961 299 l 1,13,14
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CAF U0CC6 U0CC2
 EndChar
 
 StartChar: U0CB0_U0CCA.pstf
@@ -32641,8 +32208,6 @@ SplineSet
  150 468 150 468 196 507 c 1,107,-1
  196 507 l 1,13,-1
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CCA
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB0 U0CCA
 EndChar
 
 StartChar: U0CB1_U0CCA.pstf
@@ -32774,7 +32339,6 @@ SplineSet
  264 312 l 1,167,-1
  264 312 l 1,143,144
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB1 U0CCA
 EndChar
 
 StartChar: U0CB2_U0CCA.pstf
@@ -32876,7 +32440,6 @@ SplineSet
  340 91 340 91 445 91 c 1,129,-1
  445 91 l 1,13,14
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB2 U0CCA
 EndChar
 
 StartChar: U0CB3_U0CCA.pstf
@@ -32997,7 +32560,6 @@ SplineSet
  1364 200 1364 200 1364 302 c 1,152,-1
  1364 302 l 1,100,101
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB3 U0CCA
 EndChar
 
 StartChar: U0CB6_U0CCA.pstf
@@ -33104,7 +32666,6 @@ SplineSet
  381 -58 381 -58 381 39 c 1,134,-1
  381 39 l 1,76,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB5 U0CC6 U0CC2
 LCarets2: 1 0 
 EndChar
 
@@ -33211,7 +32772,6 @@ SplineSet
  183 486 183 486 208 507 c 1,133,-1
  208 507 l 1,17,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CB6 U0CCA
 EndChar
 
 StartChar: U0CB7_U0CCA.pstf
@@ -33332,7 +32892,6 @@ SplineSet
  1518 200 1518 200 1518 302 c 1,145,-1
  1518 302 l 1,93,94
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB7 U0CCA
 EndChar
 
 StartChar: U0CB8_U0CCA.pstf
@@ -33431,7 +32990,6 @@ SplineSet
  51 585 l 1,119,-1
  51 585 l 1,89,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB8 U0CCA
 EndChar
 
 StartChar: U0CB9_U0CCA.pstf
@@ -33541,7 +33099,6 @@ SplineSet
  336 490 336 490 289 507 c 1,138,-1
  289 507 l 1,26,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB9 U0CCA
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CCA.akhn
@@ -33675,7 +33232,6 @@ SplineSet
  65 -288 65 -288 65 -234 c 1,168,-1
  65 -234 l 1,116,117
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CC6 U0CC2 U0CB7 U0CCD
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CCA.akhn
@@ -33863,7 +33419,6 @@ SplineSet
  415 399 415 399 355 449 c 1,252,-1
  355 449 l 1,90,91
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CC6 U0CC2 U0C9E U0CCD
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CCA.akhn
@@ -33990,7 +33545,6 @@ SplineSet
  248 -260 248 -260 248 -325 c 1,161,-1
  248 -325 l 1,142,143
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CC6 U0CC2 U0CA6 U0CCD
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CCA.akhn
@@ -34121,7 +33675,6 @@ SplineSet
  166 -287 166 -287 166 -260 c 1,169,-1
  166 -260 l 1,130,131
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CC6 U0CC2 U0CB2 U0CCD
 EndChar
 
 StartChar: U0C95_U0CCB.pstf
@@ -34245,7 +33798,6 @@ SplineSet
  1427 237 1427 237 1427 338 c 1,152,-1
  1427 338 l 1,130,131
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C95 U0CCB
 EndChar
 
 StartChar: U0C96_U0CCB.pstf
@@ -34393,7 +33945,6 @@ SplineSet
  1737 237 1737 237 1737 338 c 1,193,-1
  1737 338 l 1,171,172
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C96 U0CCB
 EndChar
 
 StartChar: U0C97_U0CCB.pstf
@@ -34504,7 +34055,6 @@ SplineSet
  1552 237 1552 237 1552 338 c 1,136,-1
  1552 338 l 1,114,115
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C97 U0CCB
 EndChar
 
 StartChar: U0C98_U0CCB.pstf
@@ -34660,7 +34210,6 @@ SplineSet
  1778 237 1778 237 1778 338 c 1,194,-1
  1778 338 l 1,172,173
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C98 U0CCB
 EndChar
 
 StartChar: U0C99_U0CCB.pstf
@@ -34824,7 +34373,6 @@ SplineSet
  846 298 846 298 767 390 c 1,88,89
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C99 U0CCB
 EndChar
 
 StartChar: U0C9A_U0CCB.pstf
@@ -34970,7 +34518,6 @@ SplineSet
  1690 237 1690 237 1690 338 c 1,187,-1
  1690 338 l 1,165,166
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9A U0CCB
 EndChar
 
 StartChar: U0C9B_U0CCB.pstf
@@ -35117,7 +34664,6 @@ SplineSet
  1648 237 1648 237 1648 338 c 1,186,-1
  1648 338 l 1,164,165
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9B U0CCB
 EndChar
 
 StartChar: U0C9C_U0CCB.pstf
@@ -35269,7 +34815,6 @@ SplineSet
  1668 237 1668 237 1668 338 c 1,199,-1
  1668 338 l 1,177,178
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9C U0CCB
 EndChar
 
 StartChar: U0C9D_U0CCB.pstf
@@ -35575,7 +35120,6 @@ SplineSet
  997 415 997 415 1056 371 c 1,95,96
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9E U0CCB
 EndChar
 
 StartChar: U0C9F_U0CCB.pstf
@@ -35733,7 +35277,6 @@ SplineSet
  1736 237 1736 237 1736 338 c 1,205,-1
  1736 338 l 1,183,184
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0C9F U0CCB
 EndChar
 
 StartChar: U0CA0_U0CCB.pstf
@@ -35855,7 +35398,6 @@ SplineSet
  1565 237 1565 237 1565 338 c 1,150,-1
  1565 338 l 1,128,129
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA0 U0CCB
 EndChar
 
 StartChar: U0CA1_U0CCB.pstf
@@ -36002,7 +35544,6 @@ SplineSet
  1668 237 1668 237 1668 338 c 1,189,-1
  1668 338 l 1,167,168
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA1 U0CCB
 EndChar
 
 StartChar: U0CA2_U0CCB.pstf
@@ -36157,7 +35698,6 @@ SplineSet
  1668 237 1668 237 1668 338 c 1,196,-1
  1668 338 l 1,174,175
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA2 U0CCB
 EndChar
 
 StartChar: U0CA3_U0CCB.pstf
@@ -36304,7 +35844,6 @@ SplineSet
  1732 237 1732 237 1732 338 c 1,189,-1
  1732 338 l 1,167,168
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA3 U0CCB
 EndChar
 
 StartChar: U0CA4_U0CCB.pstf
@@ -36439,7 +35978,6 @@ SplineSet
  1485 237 1485 237 1485 338 c 1,173,-1
  1485 338 l 1,151,152
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA4 U0CCB
 EndChar
 
 StartChar: U0CA5_U0CCB.pstf
@@ -36577,7 +36115,6 @@ SplineSet
  1646 237 1646 237 1646 338 c 1,168,-1
  1646 338 l 1,146,147
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA5 U0CCB
 EndChar
 
 StartChar: U0CA6_U0CCB.pstf
@@ -36701,7 +36238,6 @@ SplineSet
  1646 237 1646 237 1646 338 c 1,156,-1
  1646 338 l 1,134,135
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA6 U0CCB
 EndChar
 
 StartChar: U0CA7_U0CCB.pstf
@@ -36833,7 +36369,6 @@ SplineSet
  1646 237 1646 237 1646 338 c 1,163,-1
  1646 338 l 1,141,142
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA7 U0CCB
 EndChar
 
 StartChar: U0CA8_U0CCB.pstf
@@ -36955,7 +36490,6 @@ SplineSet
  1599 237 1599 237 1599 338 c 1,155,-1
  1599 338 l 1,133,134
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CA8 U0CCB
 EndChar
 
 StartChar: U0CAA_U0CCB.pstf
@@ -37097,7 +36631,6 @@ SplineSet
  1531 237 1531 237 1531 338 c 1,176,-1
  1531 338 l 1,154,155
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAA U0CCB
 EndChar
 
 StartChar: U0CAB_U0CCB.pstf
@@ -37244,7 +36777,6 @@ SplineSet
  1531 237 1531 237 1531 338 c 1,181,-1
  1531 338 l 1,159,160
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAB U0CCB
 EndChar
 
 StartChar: U0CAC_U0CCB.pstf
@@ -37384,7 +36916,6 @@ SplineSet
  1702 237 1702 237 1702 338 c 1,182,-1
  1702 338 l 1,160,161
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAC U0CCB
 EndChar
 
 StartChar: U0CAD_U0CCB.pstf
@@ -37532,7 +37063,6 @@ SplineSet
  1703 237 1703 237 1703 338 c 1,189,-1
  1703 338 l 1,167,168
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAD U0CCB
 EndChar
 
 StartChar: U0CAE_U0CCB.pstf
@@ -37660,7 +37190,6 @@ SplineSet
  1622 237 1622 237 1622 338 c 1,163,-1
  1622 338 l 1,141,142
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CAE U0CCB
 EndChar
 
 StartChar: U0CAF_U0CCB.akhn
@@ -37790,7 +37319,6 @@ SplineSet
  1954 237 1954 237 1954 338 c 1,166,-1
  1954 338 l 1,144,145
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CAF U0CC6 U0CC2 U0CD5
 EndChar
 
 StartChar: U0CB0_U0CCB.pstf
@@ -37905,7 +37433,6 @@ SplineSet
  150 468 150 468 196 507 c 1,143,-1
  196 507 l 1,49,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB0 U0CCB
 EndChar
 
 StartChar: U0CB1_U0CCB.pstf
@@ -38064,7 +37591,6 @@ SplineSet
  1663 237 1663 237 1663 338 c 1,203,-1
  1663 338 l 1,181,182
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB1 U0CCB
 EndChar
 
 StartChar: U0CB2_U0CCB.pstf
@@ -38193,7 +37719,6 @@ SplineSet
  1667 237 1667 237 1667 338 c 1,165,-1
  1667 338 l 1,143,144
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB2 U0CCB
 EndChar
 
 StartChar: U0CB3_U0CCB.pstf
@@ -38341,7 +37866,6 @@ SplineSet
  1539 237 1539 237 1539 338 c 1,188,-1
  1539 338 l 1,166,167
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB3 U0CCB
 EndChar
 
 StartChar: U0CB5_U0CCB.akhn
@@ -38475,7 +37999,6 @@ SplineSet
  1531 237 1531 237 1531 338 c 1,170,-1
  1531 338 l 1,148,149
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB5 U0CC6 U0CC2 U0CD5
 EndChar
 
 StartChar: U0CB6_U0CCB.pstf
@@ -38608,7 +38131,6 @@ SplineSet
  1547 237 1547 237 1547 338 c 1,169,-1
  1547 338 l 1,147,148
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB6 U0CCB
 EndChar
 
 StartChar: U0CB7_U0CCB.pstf
@@ -38756,7 +38278,6 @@ SplineSet
  1700 237 1700 237 1700 338 c 1,181,-1
  1700 338 l 1,159,160
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB7 U0CCB
 EndChar
 
 StartChar: U0CB8_U0CCB.pstf
@@ -38882,7 +38403,6 @@ SplineSet
  1479 237 1479 237 1479 338 c 1,155,-1
  1479 338 l 1,133,134
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB8 U0CCB
 EndChar
 
 StartChar: U0CB9_U0CCB.pstf
@@ -39019,7 +38539,6 @@ SplineSet
  1669 237 1669 237 1669 338 c 1,174,-1
  1669 338 l 1,152,153
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Kannada lookup 12" U0CB9 U0CCB
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CCB.akhn
@@ -39180,7 +38699,6 @@ SplineSet
  1444 237 1444 237 1444 338 c 1,204,-1
  1444 338 l 1,182,183
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CC6 U0CC2 U0CB7 U0CCD U0CD5
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CCB.akhn
@@ -39395,7 +38913,6 @@ SplineSet
  1677 237 1677 237 1677 338 c 1,288,-1
  1677 338 l 1,266,267
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CC6 U0CC2 U0C9E U0CCD U0CD5
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CCB.akhn
@@ -39548,7 +39065,6 @@ SplineSet
  1687 237 1687 237 1687 338 c 1,195,-1
  1687 338 l 1,173,174
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CC6 U0CC2 U0CA6 U0CCD U0CD5
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CCB.akhn
@@ -39706,7 +39222,6 @@ SplineSet
  1645 237 1645 237 1645 338 c 1,205,-1
  1645 338 l 1,183,184
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CC6 U0CC2 U0CB2 U0CCD U0CD5
 EndChar
 
 StartChar: U0C95_U0CCC.abvs
@@ -39786,7 +39301,6 @@ SplineSet
  64 423 l 1,13,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C95 U0CCC
 EndChar
 
 StartChar: U0C96_U0CCC.abvs
@@ -39888,7 +39402,6 @@ SplineSet
  573 91 573 91 628 91 c 1,126,-1
  628 91 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C96 U0CCC
 EndChar
 
 StartChar: U0C97_U0CCC.abvs
@@ -39954,7 +39467,6 @@ SplineSet
  126 0 l 1,71,-1
  126 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C97 U0CCC
 EndChar
 
 StartChar: U0C98_U0CCC.abvs
@@ -40063,7 +39575,6 @@ SplineSet
  742 338 742 338 785 338 c 1,128,-1
  785 338 l 1,12,13
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C98 U0CCC
 EndChar
 
 StartChar: U0C99_U0CCC.abvs
@@ -40179,7 +39690,6 @@ SplineSet
  816 318 816 318 767 390 c 1,4,5
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C99 U0CCC
 EndChar
 
 StartChar: U0C9A_U0CCC.abvs
@@ -40281,7 +39791,6 @@ SplineSet
  511 403 l 1,123,-1
  511 403 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9A U0CCC
 EndChar
 
 StartChar: U0C9B_U0CCC.abvs
@@ -40382,7 +39891,6 @@ SplineSet
  541 91 541 91 584 91 c 1,119,-1
  584 91 l 1,20,21
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9B U0CCC
 EndChar
 
 StartChar: U0C9C_U0CCC.abvs
@@ -40489,7 +39997,6 @@ SplineSet
  121 99 121 99 121 169 c 1,134,-1
  121 169 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9C U0CCC
 EndChar
 
 StartChar: U0C9D_U0CCC.abvs
@@ -40608,7 +40115,6 @@ SplineSet
  1031 -182 l 1,144,-1
  1031 -182 l 1,138,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9D U0CCC
 EndChar
 
 StartChar: U0C9E_U0CCC.abvs
@@ -40728,7 +40234,6 @@ SplineSet
  1407 585 l 2,11,12
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9E U0CCC
 EndChar
 
 StartChar: U0C9F_U0CCC.abvs
@@ -40841,7 +40346,6 @@ SplineSet
  107 145 107 145 107 247 c 1,140,-1
  107 247 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0C9F U0CCC
 EndChar
 
 StartChar: U0CA0_U0CCC.abvs
@@ -40917,7 +40421,6 @@ SplineSet
  334 234 l 1,83,-1
  334 234 l 1,79,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA0 U0CCC
 EndChar
 
 StartChar: U0CA1_U0CCC.abvs
@@ -41020,7 +40523,6 @@ SplineSet
  107 137 107 137 107 234 c 1,125,-1
  107 234 l 1,48,49
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA1 U0CCC
 EndChar
 
 StartChar: U0CA2_U0CCC.abvs
@@ -41131,7 +40633,6 @@ SplineSet
  380 -182 l 1,132,-1
  380 -182 l 1,126,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA2 U0CCC
 EndChar
 
 StartChar: U0CA3_U0CCC.abvs
@@ -41232,7 +40733,6 @@ SplineSet
  105 286 105 286 105 312 c 1,123,-1
  105 312 l 1,53,54
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA3 U0CCC
 EndChar
 
 StartChar: U0CA4_U0CCC.abvs
@@ -41323,7 +40823,6 @@ SplineSet
  415 416 415 416 437 403 c 1,109,-1
  437 403 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA4 U0CCC
 EndChar
 
 StartChar: U0CA5_U0CCC.abvs
@@ -41416,7 +40915,6 @@ SplineSet
  381 -182 l 1,103,-1
  381 -182 l 1,97,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA5 U0CCC
 EndChar
 
 StartChar: U0CA6_U0CCC.abvs
@@ -41495,7 +40993,6 @@ SplineSet
  169 460 169 460 225 507 c 1,91,-1
  225 507 l 1,20,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA6 U0CCC
 EndChar
 
 StartChar: U0CA7_U0CCC.abvs
@@ -41582,7 +41079,6 @@ SplineSet
  381 -182 l 1,98,-1
  381 -182 l 1,92,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA7 U0CCC
 EndChar
 
 StartChar: U0CA8_U0CCC.abvs
@@ -41659,7 +41155,6 @@ SplineSet
  611 190 611 190 611 260 c 1,90,-1
  611 260 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CA8 U0CCC
 EndChar
 
 StartChar: U0CAA_U0CCC.abvs
@@ -41749,7 +41244,6 @@ SplineSet
  70 585 l 1,103,-1
  70 585 l 1,51,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAA U0CCC
 EndChar
 
 StartChar: U0CAB_U0CCC.abvs
@@ -41847,7 +41341,6 @@ SplineSet
  343 -182 l 1,110,-1
  343 -182 l 1,104,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAB U0CCC
 EndChar
 
 StartChar: U0CAC_U0CCC.abvs
@@ -41941,7 +41434,6 @@ SplineSet
  710 209 710 209 710 293 c 1,115,-1
  710 293 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAC U0CCC
 EndChar
 
 StartChar: U0CAD_U0CCC.abvs
@@ -42043,7 +41535,6 @@ SplineSet
  393 -182 l 1,122,-1
  393 -182 l 1,116,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAD U0CCC
 EndChar
 
 StartChar: U0CAE_U0CCC.abvs
@@ -42151,7 +41642,6 @@ SplineSet
  70 507 l 1,133,-1
  70 507 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAE U0CCC
 EndChar
 
 StartChar: U0CAF_U0CCC.abvs
@@ -42260,7 +41750,6 @@ SplineSet
  961 213 961 213 961 299 c 1,134,-1
  961 299 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CAF U0CCC
 EndChar
 
 StartChar: U0CB0_U0CCC.abvs
@@ -42330,8 +41819,6 @@ SplineSet
  150 468 150 468 196 507 c 1,78,-1
  196 507 l 1,13,-1
 EndSplineSet
-Ligature2: "Ligature Substitution for Ra ZWJ-1" U0CB0 afii301 U0CCC
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB0 U0CCC
 EndChar
 
 StartChar: U0CB1_U0CCC.abvs
@@ -42444,7 +41931,6 @@ SplineSet
  264 312 l 1,136,-1
  264 312 l 1,112,113
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB1 U0CCC
 EndChar
 
 StartChar: U0CB2_U0CCC.abvs
@@ -42527,7 +42013,6 @@ SplineSet
  340 91 340 91 445 91 c 1,98,-1
  445 91 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB2 U0CCC
 EndChar
 
 StartChar: U0CB3_U0CCC.abvs
@@ -42627,7 +42112,6 @@ SplineSet
  291 242 291 242 393 260 c 1,121,-1
  393 260 l 1,26,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB3 U0CCC
 EndChar
 
 StartChar: U0CB5_U0CCC.abvs
@@ -42709,7 +42193,6 @@ SplineSet
  503 91 503 91 551 91 c 1,97,-1
  551 91 l 1,0,1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB5 U0CCC
 EndChar
 
 StartChar: U0CB6_U0CCC.abvs
@@ -42797,7 +42280,6 @@ SplineSet
  183 486 183 486 208 507 c 1,104,-1
  208 507 l 1,17,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB6 U0CCC
 EndChar
 
 StartChar: U0CB7_U0CCC.abvs
@@ -42897,7 +42379,6 @@ SplineSet
  70 585 l 1,114,-1
  70 585 l 1,62,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB7 U0CCC
 EndChar
 
 StartChar: U0CB8_U0CCC.abvs
@@ -42978,7 +42459,6 @@ SplineSet
  51 585 l 1,90,-1
  51 585 l 1,38,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB8 U0CCC
 EndChar
 
 StartChar: U0CB9_U0CCC.abvs
@@ -43070,7 +42550,6 @@ SplineSet
  336 490 336 490 289 507 c 1,109,-1
  289 507 l 1,26,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 0" U0CB9 U0CCC
 EndChar
 
 StartChar: U0C95_U0CCA_U0CB7_U0CCB.akhn
@@ -43186,7 +42665,6 @@ SplineSet
  64 -288 64 -288 64 -234 c 1,139,-1
  64 -234 l 1,87,88
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CCA U0CB7 U0CCB
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CCC.akhn
@@ -43357,7 +42835,6 @@ SplineSet
  121 99 121 99 121 169 c 1,224,-1
  121 169 l 1,90,91
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0CCD U0C9E U0CCC
 EndChar
 
 StartChar: U0CA6_U0CCA_U0CA6_U0CCB.akhn
@@ -43465,7 +42942,6 @@ SplineSet
  255 -260 255 -260 255 -325 c 1,130,-1
  255 -325 l 1,111,112
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CCA U0CA6 U0CCB
 EndChar
 
 StartChar: U0CB2_U0CCA_U0CB2_U0CCB.akhn
@@ -43577,7 +43053,6 @@ SplineSet
  172 -287 172 -287 172 -260 c 1,138,-1
  172 -260 l 1,99,100
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CCA U0CB2 U0CCB
 EndChar
 
 StartChar: U0C95_U0CCD.haln
@@ -43649,7 +43124,6 @@ SplineSet
  693 475 l 1,73,-1
  693 475 l 1,62,63
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C95 U0CCD
 EndChar
 
 StartChar: U0C96_U0CCD.haln
@@ -43744,7 +43218,6 @@ SplineSet
  983 475 l 1,113,-1
  983 475 l 1,102,103
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C96 U0CCD
 EndChar
 
 StartChar: U0C97_U0CCD.haln
@@ -43803,7 +43276,6 @@ SplineSet
  759 475 l 1,58,-1
  759 475 l 1,47,48
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C97 U0CCD
 EndChar
 
 StartChar: U0C98_U0CCD.haln
@@ -43905,7 +43377,6 @@ SplineSet
  1089 475 l 1,115,-1
  1089 475 l 1,104,105
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C98 U0CCD
 EndChar
 
 StartChar: U0C99_U0CCD.haln
@@ -44013,7 +43484,6 @@ SplineSet
  816 318 816 318 767 390 c 1,14,15
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C99 U0CCD
 EndChar
 
 StartChar: U0C9A_U0CCD.haln
@@ -44108,7 +43578,6 @@ SplineSet
  910 475 l 1,110,-1
  910 475 l 1,99,100
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C9A U0CCD
 EndChar
 
 StartChar: U0C9B_U0CCD.haln
@@ -44202,7 +43671,6 @@ SplineSet
  888 475 l 1,106,-1
  888 475 l 1,95,96
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C9B U0CCD
 EndChar
 
 StartChar: U0C9C_U0CCD.haln
@@ -44302,7 +43770,6 @@ SplineSet
  901 475 l 1,121,-1
  901 475 l 1,110,111
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C9C U0CCD
 EndChar
 
 StartChar: U0C9D_U0CCD.haln
@@ -44416,7 +43883,6 @@ SplineSet
  1706 475 l 1,133,-1
  1706 475 l 1,122,123
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C9D U0CCD
 EndChar
 
 StartChar: U0C9E_U0CCD.haln
@@ -44528,7 +43994,6 @@ SplineSet
  1059 258 1059 258 1017 299 c 1,21,22
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C9E U0CCD
 EndChar
 
 StartChar: U0C9F_U0CCD.haln
@@ -44634,7 +44099,6 @@ SplineSet
  962 475 l 1,127,-1
  962 475 l 1,116,117
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0C9F U0CCD
 EndChar
 
 StartChar: U0CA0_U0CCD.haln
@@ -44703,7 +44167,6 @@ SplineSet
  798 475 l 1,70,-1
  798 475 l 1,59,60
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA0 U0CCD
 EndChar
 
 StartChar: U0CA1_U0CCD.haln
@@ -44799,7 +44262,6 @@ SplineSet
  901 475 l 1,112,-1
  901 475 l 1,101,102
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA1 U0CCD
 EndChar
 
 StartChar: U0CA2_U0CCD.haln
@@ -44903,7 +44365,6 @@ SplineSet
  901 475 l 1,119,-1
  901 475 l 1,108,109
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA2 U0CCD
 EndChar
 
 StartChar: U0CA3_U0CCD.haln
@@ -44997,7 +44458,6 @@ SplineSet
  958 475 l 1,110,-1
  958 475 l 1,99,100
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA3 U0CCD
 EndChar
 
 StartChar: U0CA4_U0CCD.haln
@@ -45081,7 +44541,6 @@ SplineSet
  705 475 l 1,96,-1
  705 475 l 1,85,86
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA4 U0CCD
 EndChar
 
 StartChar: U0CA5_U0CCD.haln
@@ -45167,7 +44626,6 @@ SplineSet
  872 475 l 1,90,-1
  872 475 l 1,79,80
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA5 U0CCD
 EndChar
 
 StartChar: U0CA6_U0CCD.haln
@@ -45239,7 +44697,6 @@ SplineSet
  872 475 l 1,78,-1
  872 475 l 1,67,68
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA6 U0CCD
 EndChar
 
 StartChar: U0CA7_U0CCD.haln
@@ -45319,7 +44776,6 @@ SplineSet
  872 475 l 1,85,-1
  872 475 l 1,74,75
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA7 U0CCD
 EndChar
 
 StartChar: U0CA8_U0CCD.haln
@@ -45389,7 +44845,6 @@ SplineSet
  800 475 l 1,77,-1
  800 475 l 1,66,67
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CA8 U0CCD
 EndChar
 
 StartChar: U0CAA_U0CCD.haln
@@ -45472,7 +44927,6 @@ SplineSet
  836 475 l 1,90,-1
  836 475 l 1,79,80
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CAA U0CCD
 EndChar
 
 StartChar: U0CAB_U0CCD.haln
@@ -45563,7 +45017,6 @@ SplineSet
  836 475 l 1,97,-1
  836 475 l 1,86,87
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CAB U0CCD
 EndChar
 
 StartChar: U0CAC_U0CCD.haln
@@ -45650,7 +45103,6 @@ SplineSet
  935 475 l 1,102,-1
  935 475 l 1,91,92
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CAC U0CCD
 EndChar
 
 StartChar: U0CAD_U0CCD.haln
@@ -45745,7 +45197,6 @@ SplineSet
  930 475 l 1,109,-1
  930 475 l 1,98,99
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CAD U0CCD
 EndChar
 
 StartChar: U0CAE_U0CCD.haln
@@ -45847,7 +45298,6 @@ SplineSet
  1320 475 l 1,122,-1
  1320 475 l 1,111,112
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CAE U0CCD
 EndChar
 
 StartChar: U0CAF_U0CCD.haln
@@ -45950,7 +45400,6 @@ SplineSet
  1612 475 l 1,123,-1
  1612 475 l 1,112,113
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CAF U0CCD
 EndChar
 
 StartChar: U0CB0_U0CCD.haln
@@ -46013,7 +45462,6 @@ SplineSet
  790 475 l 1,65,-1
  790 475 l 1,54,55
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB0 U0CCD
 EndChar
 
 StartChar: U0CB1_U0CCD.haln
@@ -46119,7 +45567,6 @@ SplineSet
  948 475 l 1,123,-1
  948 475 l 1,112,113
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB1 U0CCD
 EndChar
 
 StartChar: U0CB2_U0CCD.haln
@@ -46195,7 +45642,6 @@ SplineSet
  913 475 l 1,85,-1
  913 475 l 1,74,75
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB2 U0CCD
 EndChar
 
 StartChar: U0CB3_U0CCD.haln
@@ -46288,7 +45734,6 @@ SplineSet
  792 475 l 1,108,-1
  792 475 l 1,97,98
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB3 U0CCD
 EndChar
 
 StartChar: U0CB5_U0CCD.haln
@@ -46363,7 +45808,6 @@ SplineSet
  836 475 l 1,84,-1
  836 475 l 1,73,74
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB5 U0CCD
 EndChar
 
 StartChar: U0CB6_U0CCD.haln
@@ -46444,7 +45888,6 @@ SplineSet
  761 475 l 1,91,-1
  761 475 l 1,80,81
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB6 U0CCD
 EndChar
 
 StartChar: U0CB7_U0CCD.haln
@@ -46537,7 +45980,6 @@ SplineSet
  829 475 l 1,101,-1
  829 475 l 1,90,91
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB7 U0CCD
 EndChar
 
 StartChar: U0CB8_U0CCD.haln
@@ -46611,7 +46053,6 @@ SplineSet
  680 475 l 1,77,-1
  680 475 l 1,66,67
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB8 U0CCD
 EndChar
 
 StartChar: U0CB9_U0CCD.haln
@@ -46696,7 +46137,6 @@ SplineSet
  883 475 l 1,96,-1
  883 475 l 1,85,86
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Kannada lookup 11" U0CB9 U0CCD
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB7_U0CCD.akhn
@@ -46805,8 +46245,6 @@ SplineSet
  694 475 l 1,126,-1
  694 475 l 1,115,116
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CCD U0CB7 U0CCD 
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CB7 U0CCD U0CCD
 EndChar
 
 StartChar: U0C9C_U0CCD_U0C9E_U0CCD.akhn
@@ -46970,7 +46408,6 @@ SplineSet
  894 475 l 1,211,-1
  894 475 l 1,200,201
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C9C U0C9E U0CCD U0CCD
 EndChar
 
 StartChar: U0CA6_U0CCD_U0CA6_U0CCD.akhn
@@ -47071,7 +46508,6 @@ SplineSet
  866 475 l 1,117,-1
  866 475 l 1,106,107
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CA6 U0CA6 U0CCD U0CCD
 EndChar
 
 StartChar: U0CB2_U0CCD_U0CB2_U0CCD.akhn
@@ -47176,7 +46612,6 @@ SplineSet
  900 475 l 1,125,-1
  900 475 l 1,114,115
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CB2 U0CCD U0CCD
 EndChar
 
 StartChar: U0C95_U0CCB.blwf
@@ -47224,7 +46659,6 @@ SplineSet
  -191 -182 l 1,13,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C95 U0CCB
 EndChar
 
 StartChar: U0C96_U0CCB.blwf
@@ -47289,7 +46723,6 @@ SplineSet
  -234 -423 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C96 U0CCB
 EndChar
 
 StartChar: U0C97_U0CCB.blwf
@@ -47318,7 +46751,6 @@ SplineSet
  -221 -475 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C97 U0CCB
 EndChar
 
 StartChar: U0C98_U0CCB.blwf
@@ -47383,7 +46815,6 @@ SplineSet
  -234 -325 l 1,7,8
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C98 U0CCB
 EndChar
 
 StartChar: U0C99_U0CCB.blwf
@@ -47460,7 +46891,6 @@ SplineSet
  -221 -410 l 1,5,6
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C99 U0CCB
 EndChar
 
 StartChar: U0C9A_U0CCB.blwf
@@ -47532,7 +46962,6 @@ SplineSet
  -227 -410 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9A U0CCB
 EndChar
 
 StartChar: U0C9B_U0CCB.blwf
@@ -47595,7 +47024,6 @@ SplineSet
  -234 -361 -234 -361 -234 -286 c 1,65,-1
  -234 -286 l 1,20,21
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9B U0CCB
 EndChar
 
 StartChar: U0C9C_U0CCB.blwf
@@ -47665,7 +47093,6 @@ SplineSet
  -221 -454 -221 -454 -221 -403 c 1,82,-1
  -221 -403 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9C U0CCB
 EndChar
 
 StartChar: U0C9D_U0CCB.blwf
@@ -47729,7 +47156,6 @@ SplineSet
  -234 -254 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9D U0CCB
 EndChar
 
 StartChar: U0C9E_U0CCB.blwf
@@ -47805,7 +47231,6 @@ SplineSet
  -52 -386 -52 -386 -52 -397 c 1,89,-1
  -52 -397 l 1,77,78
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9E U0CCB
 EndChar
 
 StartChar: U0C9F_U0CCB.blwf
@@ -47871,7 +47296,6 @@ SplineSet
  -234 -355 -234 -355 -234 -280 c 1,73,-1
  -234 -280 l 1,13,14
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9F U0CCB
 EndChar
 
 StartChar: U0CA0_U0CCB.blwf
@@ -47909,7 +47333,6 @@ SplineSet
  -195 -374 -195 -374 -195 -293 c 1,30,-1
  -195 -293 l 1,18,19
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA0 U0CCB
 EndChar
 
 StartChar: U0CA1_U0CCB.blwf
@@ -47974,7 +47397,6 @@ SplineSet
  137 -293 l 1,58,59
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA1 U0CCB
 EndChar
 
 StartChar: U0CA2_U0CCB.blwf
@@ -48047,7 +47469,6 @@ SplineSet
  137 -293 l 1,65,66
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA2 U0CCB
 EndChar
 
 StartChar: U0CA3_U0CCB.blwf
@@ -48114,7 +47535,6 @@ SplineSet
  -234 -384 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA3 U0CCB
 EndChar
 
 StartChar: U0CA4_U0CCB.blwf
@@ -48150,7 +47570,6 @@ SplineSet
  -182 -234 l 1,16,17
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA4 U0CCB
 EndChar
 
 StartChar: U0CA5_U0CCB.blwf
@@ -48206,7 +47625,6 @@ SplineSet
  -156 -325 l 1,31,32
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA5 U0CCB
 EndChar
 
 StartChar: U0CA6_U0CCB.blwf
@@ -48248,7 +47666,6 @@ SplineSet
  -156 -325 l 1,19,20
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA6 U0CCB
 EndChar
 
 StartChar: U0CA7_U0CCB.blwf
@@ -48298,7 +47715,6 @@ SplineSet
  -156 -325 l 1,26,27
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA7 U0CCB
 EndChar
 
 StartChar: U0CA8_U0CCB.blwf
@@ -48351,7 +47767,6 @@ SplineSet
  -234 -286 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA8 U0CCB
 EndChar
 
 StartChar: U0CAA_U0CCB.blwf
@@ -48396,7 +47811,6 @@ SplineSet
  -234 -379 -234 -379 -234 -325 c 1,45,-1
  -234 -325 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAA U0CCB
 EndChar
 
 StartChar: U0CAB_U0CCB.blwf
@@ -48449,7 +47863,6 @@ SplineSet
  -234 -379 -234 -379 -234 -325 c 1,52,-1
  -234 -325 l 1,7,8
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAB U0CCB
 EndChar
 
 StartChar: U0CAC_U0CCB.blwf
@@ -48506,7 +47919,6 @@ SplineSet
  -214 -422 -214 -422 -214 -371 c 1,63,-1
  -214 -371 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAC U0CCB
 EndChar
 
 StartChar: U0CAD_U0CCB.blwf
@@ -48571,7 +47983,6 @@ SplineSet
  -214 -415 -214 -415 -214 -364 c 1,70,-1
  -214 -364 l 1,7,8
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAD U0CCB
 EndChar
 
 StartChar: U0CAE_U0CCB.blwf
@@ -48620,7 +48031,6 @@ SplineSet
  -234 -366 -234 -366 -234 -280 c 1,49,-1
  -234 -280 l 1,14,15
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAE U0CCB
 EndChar
 
 StartChar: U0CAF_U0CCB.blwf
@@ -48676,7 +48086,6 @@ SplineSet
  -206 -441 -206 -441 -206 -390 c 1,62,-1
  -206 -390 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAF U0CCB
 EndChar
 
 StartChar: U0CB0_U0CCB.blwf
@@ -48700,7 +48109,6 @@ SplineSet
  53 40 53 40 53 156 c 1,14,-1
  53 156 l 1,0,-1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB0 U0CCB
 EndChar
 
 StartChar: U0CB1_U0CCB.blwf
@@ -48773,7 +48181,6 @@ SplineSet
  -119 -308 l 1,80,-1
  -119 -308 l 1,58,59
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB1 U0CCB
 EndChar
 
 StartChar: U0CB2_U0CCB.blwf
@@ -48814,7 +48221,6 @@ SplineSet
  -234 -287 -234 -287 -234 -260 c 1,39,-1
  -234 -260 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB2 U0CCB
 EndChar
 
 StartChar: U0CB3_U0CCB.blwf
@@ -48878,7 +48284,6 @@ SplineSet
  -234 -182 l 1,26,27
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB3 U0CCB
 EndChar
 
 StartChar: U0CB5_U0CCB.blwf
@@ -48930,7 +48335,6 @@ SplineSet
  -234 -464 -234 -464 -234 -410 c 1,54,-1
  -234 -410 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB5 U0CCB
 EndChar
 
 StartChar: U0CB6_U0CCB.blwf
@@ -48986,7 +48390,6 @@ SplineSet
  -234 -371 l 1,16,17
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB6 U0CCB
 EndChar
 
 StartChar: U0CB7_U0CCB.blwf
@@ -49036,7 +48439,6 @@ SplineSet
  -234 -392 -234 -392 -234 -338 c 1,52,-1
  -234 -338 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB7 U0CCB
 EndChar
 
 StartChar: U0CB8_U0CCB.blwf
@@ -49073,7 +48475,6 @@ SplineSet
  -234 -475 l 1,32,-1
  -234 -475 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB8 U0CCB
 EndChar
 
 StartChar: U0CB9_U0CCB.blwf
@@ -49124,7 +48525,6 @@ SplineSet
  104 -267 l 1,38,39
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB9 U0CCB
 EndChar
 
 StartChar: U0CAA_U0CC1.psts
@@ -49207,7 +48607,6 @@ SplineSet
  381 26 l 1,68,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAA U0CC1
 EndChar
 
 StartChar: U0CAA_U0CC2.psts
@@ -49313,7 +48712,6 @@ SplineSet
  381 -58 381 -58 381 39 c 1,126,-1
  381 39 l 1,68,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAA U0CC2
 EndChar
 
 StartChar: U0CAA_U0CCA.psts
@@ -49428,7 +48826,6 @@ SplineSet
  381 -58 381 -58 381 39 c 1,140,-1
  381 39 l 1,82,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAA_U0CC6.abvs U0CC2
 EndChar
 
 StartChar: U0CAA_U0CCB.psts
@@ -49655,7 +49052,6 @@ SplineSet
  342 -182 l 1,93,-1
  342 -182 l 1,68,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAB U0CC1
 EndChar
 
 StartChar: U0CAB_U0CC2.psts
@@ -49766,7 +49162,6 @@ SplineSet
  348 -182 l 1,131,-1
  348 -182 l 1,68,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAB U0CC2
 EndChar
 
 StartChar: U0CAB_U0CCA.psts
@@ -49887,7 +49282,6 @@ SplineSet
  343 -182 l 1,146,-1
  343 -182 l 1,82,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CAB_U0CC6.abvs U0CC2
 EndChar
 
 StartChar: U0CAB_U0CCB.psts
@@ -50107,7 +49501,6 @@ SplineSet
  398 -70 398 -70 381 26 c 1,82,-1
  381 26 l 1,62,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CB5 U0CC1
 EndChar
 
 StartChar: U0CB5_U0CC2.psts
@@ -50205,7 +49598,6 @@ SplineSet
  387 -58 387 -58 387 39 c 1,120,-1
  387 39 l 1,62,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CB5 U0CC2
 EndChar
 
 StartChar: U0CB5_U0CCA.psts
@@ -50312,7 +49704,6 @@ SplineSet
  387 -58 387 -58 387 39 c 1,134,-1
  387 39 l 1,76,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CB5 U0CCA
 EndChar
 
 StartChar: U0CB5_U0CCB.psts
@@ -50446,7 +49837,6 @@ SplineSet
  1560 237 1560 237 1560 338 c 1,170,-1
  1560 338 l 1,148,149
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Kannada lookup 13" U0CB5 U0CCB
 EndChar
 
 StartChar: U0CB6_U0CBD.abvs_U0CB0_U0CCB.blwf.blws
@@ -50596,7 +49986,6 @@ SplineSet
  -179 -208 -179 -208 -234 -176 c 1,68,-1
  -234 -176 l 1,13,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CB0_U0CCB.blwf U0CCD
 EndChar
 
 StartChar: U0CAA_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
@@ -50653,7 +50042,6 @@ SplineSet
  -130 -334 -130 -334 -130 -280 c 1,60,-1
  -130 -280 l 1,15,16
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CAA_U0CCB.blwf U0CB0_U0CCB.blwf
 EndChar
 
 StartChar: U0CA4_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
@@ -50700,7 +50088,6 @@ SplineSet
  -187 -439 -187 -439 -234 -358 c 1,43,-1
  -234 -358 l 1,29,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CA4_U0CCB.blwf U0CB0_U0CCB.blwf
 EndChar
 
 StartChar: U0CB8_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
@@ -50748,7 +50135,6 @@ SplineSet
  -187 -478 -187 -478 -234 -397 c 1,47,-1
  -234 -397 l 1,33,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CB8_U0CCB.blwf U0CB0_U0CCB.blwf
 EndChar
 
 StartChar: U0CA4_U0CCB.blwf_U0CCD.blws
@@ -50804,7 +50190,6 @@ SplineSet
  -234 -345 l 1,57,-1
  -234 -345 l 1,12,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CA4_U0CCB.blwf U0CCD
 EndChar
 
 StartChar: U0CA4_U0CCB.blwf_U0CAF_U0CCB.blwf.blws
@@ -50864,7 +50249,6 @@ SplineSet
  -234 -345 l 1,65,-1
  -234 -345 l 1,13,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CA4_U0CCB.blwf U0CAF_U0CCB.blwf
 EndChar
 
 StartChar: U0CA4_U0CCB.blwf_U0CC1.blws
@@ -50912,7 +50296,6 @@ SplineSet
  -234 -345 l 1,45,-1
  -234 -345 l 1,12,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0CA4_U0CCB.blwf U0CC1
 EndChar
 
 StartChar: U0C95_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
@@ -50971,7 +50354,6 @@ SplineSet
  -117 -52 l 1,59,-1
  -117 -52 l 1,28,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0C95_U0CCB.blwf U0CB0_U0CCB.blwf
 EndChar
 
 StartChar: U0C95_U0CCB.blwf_U0CC1.blws
@@ -51045,7 +50427,6 @@ SplineSet
  -161 -130 l 1,81,-1
  -161 -130 l 1,26,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0C95_U0CCB.blwf U0CC1
 EndChar
 
 StartChar: U0C9A_U0CCB.blwf_U0CCD.blws
@@ -51140,7 +50521,6 @@ SplineSet
  -221 -454 -221 -454 -221 -403 c 1,117,-1
  -221 -403 l 1,13,14
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0C9A_U0CCB.blwf U0CCD
 EndChar
 
 StartChar: U0C9F_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
@@ -51215,7 +50595,6 @@ SplineSet
  -187 -452 -187 -452 -234 -371 c 1,85,-1
  -234 -371 l 1,71,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Kannada lookup 10" U0C9F_U0CCB.blwf U0CB0_U0CCB.blwf
 EndChar
 
 StartChar: U0CB0_U0CCD.rphf
@@ -51252,7 +50631,6 @@ SplineSet
  120 107 120 107 120 156 c 1,31,-1
  120 156 l 1,0,1
 EndSplineSet
-Ligature2: "'rphf' Reph Form in Kannada lookup 14" U0CB0 U0CCD
 EndChar
 
 StartChar: U0C95_U0CCD.blwf
@@ -51299,7 +50677,6 @@ SplineSet
  -191 -182 l 1,40,-1
 EndSplineSet
 Kerns2: 75 480 "'kern' Horizontal Kerning lookup 4-1" 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C95 U0CCD
 LCarets2: 1 -1 
 EndChar
 
@@ -51365,7 +50742,6 @@ SplineSet
  -234 -466 -234 -466 -234 -423 c 1,72,-1
  -234 -423 l 1,13,14
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C96 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -51397,7 +50773,6 @@ SplineSet
 EndSplineSet
 Kerns2: 24 -219 "'kern' Horizontal Kerning in Kannada lookup 1" 
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C97 U0CCD
 EndChar
 
 StartChar: U0C98_U0CCD.blwf
@@ -51462,7 +50837,6 @@ SplineSet
  -234 -379 -234 -379 -234 -325 c 1,67,-1
  -234 -325 l 1,7,8
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C98 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -51540,7 +50914,6 @@ SplineSet
  -221 -458 -221 -458 -221 -410 c 1,84,-1
  -221 -410 l 1,5,6
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C99 U0CCD
 LCarets2: 1 -1 
 EndChar
 
@@ -51613,7 +50986,6 @@ SplineSet
  -227 -458 -227 -458 -227 -410 c 1,77,-1
  -227 -410 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9A U0CCD
 EndChar
 
 StartChar: U0C9B_U0CCD.blwf
@@ -51677,7 +51049,6 @@ SplineSet
  -234 -361 -234 -361 -234 -286 c 1,60,-1
  -234 -286 l 1,17,18
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9B U0CCD
 LCarets2: 1 1 
 EndChar
 
@@ -51749,7 +51120,6 @@ SplineSet
  -221 -454 -221 -454 -221 -403 c 1,80,-1
  -221 -403 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9C U0CCD
 LCarets2: 1 5 
 EndChar
 
@@ -51814,7 +51184,6 @@ SplineSet
  -234 -319 -234 -319 -234 -254 c 1,63,-1
  -234 -254 l 1,10,11
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9D U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -51892,7 +51261,6 @@ SplineSet
  -52 -386 -52 -386 -52 -397 c 1,88,-1
  -52 -397 l 1,76,77
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9E U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -51960,7 +51328,6 @@ SplineSet
  -234 -355 -234 -355 -234 -280 c 1,67,-1
  -234 -280 l 1,10,11
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0C9F U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -52000,7 +51367,6 @@ SplineSet
  -195 -374 -195 -374 -195 -293 c 1,24,-1
  -195 -293 l 1,15,16
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA0 U0CCD
 LCarets2: 1 1 
 EndChar
 
@@ -52066,7 +51432,6 @@ SplineSet
  137 -288 137 -288 137 -293 c 1,69,-1
  137 -293 l 1,57,58
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA1 U0CCD
 EndChar
 
 StartChar: U0CA2_U0CCD.blwf
@@ -52139,7 +51504,6 @@ SplineSet
  137 -288 137 -288 137 -293 c 1,76,-1
  137 -293 l 1,64,65
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA2 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -52207,7 +51571,6 @@ SplineSet
  -234 -427 -234 -427 -234 -384 c 1,71,-1
  -234 -384 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA3 U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -52245,7 +51608,6 @@ SplineSet
  -182 -234 l 1,14,15
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA4 U0CCD
 EndChar
 
 StartChar: U0CA5_U0CCD.blwf
@@ -52301,7 +51663,6 @@ SplineSet
  -156 -260 -156 -260 -156 -325 c 1,48,-1
  -156 -325 l 1,30,31
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA5 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -52344,7 +51705,6 @@ SplineSet
  -156 -260 -156 -260 -156 -325 c 1,36,-1
  -156 -325 l 1,18,19
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA6 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -52395,7 +51755,6 @@ SplineSet
  -156 -260 -156 -260 -156 -325 c 1,43,-1
  -156 -325 l 1,25,26
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA7 U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -52449,7 +51808,6 @@ SplineSet
  -234 -334 -234 -334 -234 -286 c 1,54,-1
  -234 -286 l 1,13,14
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CA8 U0CCD
 LCarets2: 1 -1 
 EndChar
 
@@ -52496,7 +51854,6 @@ SplineSet
  -234 -379 -234 -379 -234 -325 c 1,43,-1
  -234 -325 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAA U0CCD
 LCarets2: 1 -1 
 EndChar
 
@@ -52552,7 +51909,6 @@ SplineSet
  -234 -325 l 1,7,8
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAB U0CCD
 EndChar
 
 StartChar: U0CAC_U0CCD.blwf
@@ -52611,7 +51967,6 @@ SplineSet
  -214 -371 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAC U0CCD
 EndChar
 
 StartChar: U0CAD_U0CCD.blwf
@@ -52677,7 +52032,6 @@ SplineSet
  -214 -415 -214 -415 -214 -364 c 1,68,-1
  -214 -364 l 1,7,8
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAD U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -52729,7 +52083,6 @@ SplineSet
  -234 -280 l 1,14,15
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAE U0CCD
 EndChar
 
 StartChar: U0CAF_U0CCD.blwf
@@ -52786,7 +52139,6 @@ SplineSet
  -206 -441 -206 -441 -206 -390 c 1,59,-1
  -206 -390 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CAF U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -52813,10 +52165,6 @@ SplineSet
  -778 39 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Substitution2: "Single Substitution lookup 17" glyph598
-Substitution2: "Single Substitution lookup 16" glyph596
-Substitution2: "Single Substitution lookup 15" glyph597
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB0 U0CCD
 EndChar
 
 StartChar: U0CB1_U0CCD.blwf
@@ -52890,7 +52238,6 @@ SplineSet
  -119 -308 l 1,74,-1
  -119 -308 l 1,53,54
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB1 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -52933,7 +52280,6 @@ SplineSet
  -234 -287 -234 -287 -234 -260 c 1,39,-1
  -234 -260 l 1,0,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB2 U0CCD
 LCarets2: 1 -1 
 EndChar
 
@@ -52996,7 +52342,6 @@ SplineSet
  -234 -256 -234 -256 -234 -182 c 1,60,-1
 EndSplineSet
 Kerns2: 99 220 "'kern' Horizontal Kerning lookup 4-1"  98 220 "'kern' Horizontal Kerning lookup 4-1"  97 220 "'kern' Horizontal Kerning lookup 4-1" 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB3 U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -53051,7 +52396,6 @@ SplineSet
 EndSplineSet
 Kerns2: 99 300 "'kern' Horizontal Kerning lookup 4-1"  98 300 "'kern' Horizontal Kerning lookup 4-1"  97 300 "'kern' Horizontal Kerning lookup 4-1" 
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB5 U0CCD
 EndChar
 
 StartChar: U0CB6_U0CCD.blwf
@@ -53106,7 +52450,6 @@ SplineSet
  -234 -414 -234 -414 -234 -371 c 1,59,-1
 EndSplineSet
 Kerns2: 99 160 "'kern' Horizontal Kerning lookup 4-1"  98 160 "'kern' Horizontal Kerning lookup 4-1"  97 160 "'kern' Horizontal Kerning lookup 4-1" 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB6 U0CCD
 LCarets2: 1 2 
 EndChar
 
@@ -53157,7 +52500,6 @@ SplineSet
  -158 -468 -158 -468 -196 -430 c 128,-1,0
  -234 -392 -234 -392 -234 -338 c 129,-1,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB7 U0CCD
 EndChar
 
 StartChar: U0CB8_U0CCD.blwf
@@ -53195,7 +52537,6 @@ SplineSet
  -234 -475 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB8 U0CCD
 EndChar
 
 StartChar: U0CB9_U0CCD.blwf
@@ -53246,7 +52587,6 @@ SplineSet
  104 -224 104 -224 104 -267 c 1,43,-1
  104 -267 l 1,34,35
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Kannada lookup 2" U0CB9 U0CCD
 LCarets2: 1 -2 
 EndChar
 
@@ -53414,7 +52754,6 @@ SplineSet
  694 475 l 1,106,-1
  694 475 l 1,95,96
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CB8 U0CCD U0CCD
 EndChar
 
 StartChar: U0C95_U0CC6_U0CB2_U0CCd_U0CD6.a
@@ -53546,7 +52885,6 @@ SplineSet
  519 -147 519 -147 519 -66 c 1,164,-1
  517 -66 l 1,118,119
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0C95 U0CC6 U0CB2 U0CCD U0CD6
 EndChar
 
 StartChar: U0CB2_U0CBF_U0CB2_U0CCD.akhn
@@ -53637,7 +52975,6 @@ SplineSet
  490 703 490 703 490 676 c 1,108,-1
  490 676 l 1,96,97
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CB2 U0CBF U0CB2 U0CCD
 EndChar
 
 StartChar: U0C95_U0CCD_U0CB8.akhn
@@ -53766,7 +53103,6 @@ SplineSet
  70 585 l 1,151,-1
  70 585 l 1,121,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Kannada lookup 1" U0CAA U0CC6 U0C97 U0CCD U0CB0 U0CCD U0CD5
 EndChar
 
 StartChar: exclam
@@ -54079,7 +53415,6 @@ SplineSet
  100 -220 l 1,14,-1
  100 -220 l 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 17" shifted_rightparen
 EndChar
 
 StartChar: asterisk
