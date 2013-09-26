@@ -1,6 +1,7 @@
-Testing File For Lohit Devanagari
+# Test File For Lohit Devanagari
+# One can also test Lohit Devanagari from http://utrrs-testing.rhcloud.com/language/hi/gsub
+# Created by Sneha Kore <skore AT redhat DOT com> - 2013
 
-23/8/2013
 
 श्र
 फ्र
