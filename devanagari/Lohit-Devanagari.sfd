@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380208622
+ModificationTime: 1380216613
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -74,7 +74,7 @@ Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17 s
 Lookup: 6 0 0 "PresSub_Chain_IVowelSign_1"  {"PresSub_Chain_IVowelSign_1 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19 subtable"  } []
 Lookup: 4 0 0 "PreBaseSubstitutionslookup2"  {"PreBaseSubstitutionslookup2 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "AboveBaseSubstitutionslookup"  {"AboveBaseSubstitutionslookup subtable"  } ['abvs' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 4 0 0 "AboveBaseSubstitutionslookup"  {"AboveBaseSubstitutionslookupsubtable"  } ['abvs' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "PostBaseSubstitutionslookup"  {"PostBaseSubstitutionslookup subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "BlwsSub_Ligature_Ukaar"  {"BlwsSub_Ligature_Ukaar subtable"  } ['blws' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 6 0 0 "PstsSub_Chain_ExtdEMatra"  {"PstsSub_Chain_ExtdEMatra subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
@@ -8885,7 +8885,7 @@ Encoding: 65539 -1 217
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -122 636 mark 0
+AnchorPoint: "Anchor3" -125 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8900,7 +8900,8 @@ SplineSet
  -103 666 l 1,7,-1
  -169 666 l 1,4,-1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" evowelsigndeva anusvaradeva
+LCarets2: 1 0 
+Ligature2: "AboveBaseSubstitutionslookupsubtable" evowelsigndeva anusvaradeva
 EndChar
 
 StartChar: evowelsigndeva_rphfdeva
@@ -8908,7 +8909,7 @@ Encoding: 65540 -1 218
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -117 644 mark 0
+AnchorPoint: "Anchor3" -115 664 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8938,7 +8939,7 @@ Encoding: 65541 -1 219
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -127 644 mark 0
+AnchorPoint: "Anchor3" -117 673 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8972,7 +8973,7 @@ Encoding: 65542 -1 220
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -138 636 mark 0
+AnchorPoint: "Anchor3" -131 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8990,7 +8991,8 @@ SplineSet
  -105 666 l 1,10,-1
  -192 666 l 1,4,-1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" aivowelsigndeva anusvaradeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" aivowelsigndeva anusvaradeva
+LCarets2: 1 0 
 EndChar
 
 StartChar: aivowelsigndeva_rphfdeva
@@ -8998,7 +9000,7 @@ Encoding: 65543 -1 221
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -111 631 mark 0
+AnchorPoint: "Anchor3" -111 671 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9024,14 +9026,14 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 Kerns2: 51 0 "abvmAboveBaseMarklookup4 subtable" 
+Ligature2: "AboveBaseSubstitutionslookupsubtable" aivowelsigndeva rphfdeva
 EndChar
 
 StartChar: aivowelsign_rphf_anuswaradeva
 Encoding: 65544 -1 222
 Width: 0
 GlyphClass: 4
-Flags: W
-AnchorPoint: "Anchor3" -103 631 mark 0
+AnchorPoint: "Anchor3" -113 666 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9068,7 +9070,7 @@ Encoding: 65545 -1 223
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -71 633 mark 0
+AnchorPoint: "Anchor3" -71 664 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9089,7 +9091,7 @@ SplineSet
  -128 666 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "AboveBaseSubstitutionslookup subtable" radeva viramadeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" radeva viramadeva
 Ligature2: "RephFormlookup7 subtable" radeva viramadeva
 EndChar
 
@@ -9098,7 +9100,7 @@ Encoding: 65546 -1 224
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -109 636 mark 0
+AnchorPoint: "Anchor3" -112 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9123,7 +9125,8 @@ SplineSet
  -127 698 -127 698 -95 666 c 1,23,-1
  -168 666 l 1,4,5
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" rphfdeva anusvaradeva
+LCarets2: 1 0 
+Ligature2: "AboveBaseSubstitutionslookupsubtable" rphfdeva anusvaradeva
 EndChar
 
 StartChar: viramadeva_radeva_alt
@@ -17438,7 +17441,7 @@ SplineSet
  100 606 l 1,15,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" ovowelsigndeva anusvaradeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" ovowelsigndeva anusvaradeva
 EndChar
 
 StartChar: ovowelsigndeva_rphfdeva
@@ -17476,7 +17479,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Kerns2: 51 0 "abvmAboveBaseMarklookup4 subtable" 
-Ligature2: "AboveBaseSubstitutionslookup subtable" ovowelsigndeva rphfdeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" ovowelsigndeva rphfdeva
 EndChar
 
 StartChar: ovowelsign_rphf_anusvaradeva
@@ -17518,7 +17521,7 @@ SplineSet
  100 606 l 1,32,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" ovowelsigndeva rphfdeva anusvaradeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" ovowelsigndeva rphfdeva anusvaradeva
 EndChar
 
 StartChar: auvowelsigndeva_anusvaradeva
@@ -17551,7 +17554,7 @@ SplineSet
  100 606 l 1,18,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" auvowelsigndeva anusvaradeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" auvowelsigndeva anusvaradeva
 EndChar
 
 StartChar: auvowelsigndeva_rphfdeva
@@ -17590,7 +17593,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Kerns2: 51 0 "abvmAboveBaseMarklookup4 subtable" 
-Ligature2: "AboveBaseSubstitutionslookup subtable" auvowelsigndeva rphfdeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" auvowelsigndeva rphfdeva
 EndChar
 
 StartChar: auvowelsign_rphf_anusvaradeva
@@ -17633,7 +17636,7 @@ SplineSet
  100 606 l 1,32,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" auvowelsigndeva rphfdeva anusvaradeva
+Ligature2: "AboveBaseSubstitutionslookupsubtable" auvowelsigndeva rphfdeva anusvaradeva
 EndChar
 
 StartChar: nyadeva_viramadeva_radeva
