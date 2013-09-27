@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380216613
+ModificationTime: 1380258847
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -428,7 +428,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -8932,6 +8932,7 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 Kerns2: 51 0 "abvmAboveBaseMarklookup4 subtable" 
+Ligature2: "AboveBaseSubstitutionslookupsubtable" evowelsigndeva rphfdeva
 EndChar
 
 StartChar: evowel_rphf_anuswaradeva
@@ -8966,6 +8967,8 @@ SplineSet
  -29 746 l 1,24,-1
  -96 746 l 1,21,-1
 EndSplineSet
+LCarets2: 3 0 0 0 
+Ligature2: "AboveBaseSubstitutionslookupsubtable" evowelsigndeva rphfdeva anusvaradeva
 EndChar
 
 StartChar: aivowelsigndeva_anusvaradeva
@@ -9063,6 +9066,7 @@ SplineSet
  21 739 l 1,27,-1
  -52 739 l 1,24,-1
 EndSplineSet
+Ligature2: "AboveBaseSubstitutionslookupsubtable" aivowelsigndeva rphfdeva anusvaradeva
 EndChar
 
 StartChar: rphfdeva
@@ -9095,7 +9099,7 @@ Ligature2: "AboveBaseSubstitutionslookupsubtable" radeva viramadeva
 Ligature2: "RephFormlookup7 subtable" radeva viramadeva
 EndChar
 
-StartChar: rphfdeva_anuswaradeva
+StartChar: rphfdeva_anusvaradeva
 Encoding: 65546 -1 224
 Width: 0
 GlyphClass: 4
@@ -9125,7 +9129,6 @@ SplineSet
  -127 698 -127 698 -95 666 c 1,23,-1
  -168 666 l 1,4,5
 EndSplineSet
-LCarets2: 1 0 
 Ligature2: "AboveBaseSubstitutionslookupsubtable" rphfdeva anusvaradeva
 EndChar
 
@@ -11621,7 +11624,7 @@ SplineSet
  759 746 l 1,50,-1
  686 746 l 1,47,-1
 EndSplineSet
-Ligature2: "PostBaseSubstitutionslookup subtable" ivowelsigndeva rphfdeva_anuswaradeva
+Ligature2: "PostBaseSubstitutionslookup subtable" ivowelsigndeva rphfdeva_anusvaradeva
 Ligature2: "PreBaseSubstitutionslookup2 subtable" ivowelsigndeva rphfdeva anusvaradeva
 EndChar
 
@@ -11934,7 +11937,7 @@ SplineSet
  100 606 l 1,47,-1
  -13 606 l 1,4,-1
 EndSplineSet
-Ligature2: "PostBaseSubstitutionslookup subtable" iivowelsigndeva rphfdeva_anuswaradeva
+Ligature2: "PostBaseSubstitutionslookup subtable" iivowelsigndeva rphfdeva_anusvaradeva
 EndChar
 
 StartChar: extendediideva
