@@ -12289,20 +12289,8 @@ SplineSet
  286 306 286 306 257.5 299.5 c 128,-1,17
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
-Ligature2: "PstsSub_Ligature_Zwj subtable" rradeva viramadeva
 Ligature2: "PstsSub_Ligature_Zwj subtable" radeva viramadeva zwjdeva
-Ligature2: "Ligature Substitution lookup 28 subtable" rradeva radeva yadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" rradeva radeva hadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" rradeva viramadeva yadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" rradeva viramadeva hadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" rradeva zwjdeva yadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" rradeva zwjdeva hadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva radeva yadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva radeva hadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva viramadeva yadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva viramadeva hadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva zwjdeva yadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva zwjdeva hadeva
+Ligature2: "PstsSub_Ligature_Zwj subtable" rradeva viramadeva
 EndChar
 
 StartChar: kadeva_viramadeva_radeva
