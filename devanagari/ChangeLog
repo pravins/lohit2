@@ -1,11 +1,12 @@
 				  lohit-devanagari
-Current Version :- 3.0.0-alpha
+Current Version :- 2.91.0
 
-* Fri Sep 27 2013 Pravin Satpute <psatpute@redhat.com> - 3.0.0-alpha
-- First release of after re-writing all rules
+* Mon Sep 30 2013 Pravin Satpute <psatpute@redhat.com> - 2.91.0
+- First release of devanagari after re-writing all rules
+- Open type rules are available in .fea file for easy reusability
 - Supports deva and dev2 both
 - Follows AGL guidelines
-- Testing with Harbufzz and Uniscribe
+- Testing done with Harbufzz and Uniscribe
 - Test file available with tarball
 
 
@@ -48,3 +49,4 @@ Current Version :- 3.0.0-alpha
 - first release for lohit devanagri 
 - using lohit hindi as a base for start, so keeping same version
 
+For older change see https://git.fedorahosted.org/cgit/lohit.git/plain/ChangeLog

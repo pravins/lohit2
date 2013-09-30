@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380258847
+ModificationTime: 1380534822
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -55,15 +55,15 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80008023.00002042.00000000.00000000
 Lookup: 1 0 0 "LocalizedMrForms_lookup0"  {"LocalizedMrForms_lookup0 subtable"  } ['locl' ('deva' <'MAR ' > 'dev2' <'MAR ' > ) ]
 Lookup: 4 0 0 "LocalizedMrHalfFormslookup1"  {"LocalizedMrHalfFormslookup1 subtable"  } ['locl' ('deva' <'MAR ' > 'dev2' <'MAR ' > ) ]
-Lookup: 1 0 0 "LocalizedNpFormslookup2"  {"LocalizedNpFormslookup2 subtable"  } ['locl' ('deva' <'NEP ' > 'dev ' <'NEP ' > ) ]
+Lookup: 1 0 0 "LocalizedNpFormslookup2"  {"LocalizedNpFormslookup2 subtable"  } ['locl' ('dev2' <'NEP ' > 'deva' <'NEP ' > ) ]
 Lookup: 4 0 0 "LocalizedNpFormslookup3"  {"LocalizedNpFormslookup3 subtable"  } ['locl' ('deva' <'NEP ' > 'dev2' <'NEP ' > ) ]
-Lookup: 2 0 0 "LocalizedMrFormslookup4"  {"LocalizedMrFormslookup4 subtable"  } ['locl' ('deva' <'dflt' 'MAR ' > 'dev2' <'dflt' 'MAR ' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "NuktaFormslookup5"  {"NuktaFormslookup5 subtable"  } ['nukt' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "AkhandFormslookup6"  {"AkhandFormslookup6 subtable"  } ['akhn' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 2 0 0 "LocalizedMrFormslookup4"  {"LocalizedMrFormslookup4 subtable"  } ['locl' ('dev2' <'MAR ' > 'deva' <'MAR ' > ) ]
+Lookup: 4 0 0 "NuktaFormslookup5"  {"NuktaFormslookup5 subtable"  } ['nukt' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 4 0 0 "AkhandFormslookup6"  {"AkhandFormslookup6 subtable"  } ['akhn' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "RephFormlookup7"  {"RephFormlookup7 subtable"  } ['rphf' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "BelowBaseFormslookup9"  {"BelowBaseFormslookup9 subtable"  } ['blwf' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "HalfFormslookup10"  {"HalfFormslookup10 subtable"  } ['half' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "VattuVariantslookup30"  {"VattuVariantslookup30 subtable"  } ['vatu' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "VattuVariantslookup30"  {"VattuVariantslookup30 subtable"  } ['vatu' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
 Lookup: 4 0 0 "ConjunctFormslookup11"  {"ConjunctFormslookup11 subtable"  } ['cjct' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "PreBaseSubstitutionslookup1"  {"PreBaseSubstitutionslookup1 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 1 0 0 "SingleSubs_ExtdISign_lookup13"  {"SingleSubs_ExtdISign_lookup13 per glyph data 0"  "SingleSubs_ExtdISign_lookup13 per glyph data 1"  } []
@@ -428,6 +428,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
