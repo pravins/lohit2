@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380534822
+ModificationTime: 1380611115
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -12289,6 +12289,8 @@ SplineSet
  286 306 286 306 257.5 299.5 c 128,-1,17
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
+Ligature2: "Ligature Substitution lookup 28 subtable" radeva viramadeva zwjdeva
+Ligature2: "Ligature Substitution lookup 28 subtable" radeva viramadeva
 Ligature2: "PstsSub_Ligature_Zwj subtable" radeva viramadeva zwjdeva
 Ligature2: "PstsSub_Ligature_Zwj subtable" rradeva viramadeva
 EndChar
