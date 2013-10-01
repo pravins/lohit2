@@ -105,8 +105,8 @@ lookup HalfFormslookup10 {
     sub \bhadeva \viramadeva  by \bhadeva_viramadeva;
     sub \madeva \viramadeva  by \madeva_viramadeva;
     sub \yadeva \viramadeva  by \yadeva_viramadeva;
-    sub \mr_ladeva \viramadeva  by \ladeva_viramadeva;
     sub \ladeva \viramadeva  by \ladeva_viramadeva;
+    sub \mr_ladeva \viramadeva  by \ladeva_viramadeva;
     sub \lladeva \viramadeva  by \lladeva_viramadeva;
     sub \llladeva \viramadeva  by \llladeva_viramadeva;
     sub \vadeva \viramadeva  by \vadeva_viramadeva;
@@ -119,8 +119,8 @@ lookup HalfFormslookup10 {
     sub \ghhadeva \viramadeva  by \ghhadeva_viramadeva;
     sub \zadeva \viramadeva  by \zadeva_viramadeva;
     sub \fadeva \viramadeva  by \fadeva_viramadeva;
-    sub \mr_shadeva \viramadeva  by \shadeva_viramadeva_alt;
     sub \shadeva \viramadeva  by \shadeva_viramadeva_alt;
+    sub \mr_shadeva \viramadeva  by \shadeva_viramadeva_alt;
     sub \tadeva_viramadeva_radeva \viramadeva  by \ta_virama_ra_virama_deva;
     sub \tadeva_viramadeva_tadeva \viramadeva  by \ta_virama_ta_viramadeva;
     sub \kadeva_viramadeva_ssadeva \viramadeva  by \ka_virama_ssa_viramadeva;
@@ -131,6 +131,7 @@ lookup HalfFormslookup10 {
 lookup VattuVariantslookup30 {
   lookupflag 0;
     sub \shadeva \vatudeva  by \shadeva_viramadeva_radeva;
+    sub \shadeva_viramadeva_alt \radeva  by \shadeva_viramadeva_radeva;
     sub \kadeva \vatudeva  by \kadeva_viramadeva_radeva;
     sub \khadeva \vatudeva  by \khadeva_viramadeva_radeva;
     sub \gadeva \vatudeva  by \gadeva_viramadeva_radeva;
@@ -311,9 +312,13 @@ lookup PreBaseSubstitutionslookup2 {
 lookup AboveBaseSubstitutionslookup {
   lookupflag 0;
     sub \evowelsigndeva \anusvaradeva  by \evowelsigndeva_anusvaradeva;
+    sub \evowelsigndeva \rphfdeva  by \evowelsigndeva_rphfdeva;
+    sub \evowelsigndeva \rphfdeva \anusvaradeva  by \evowel_rphf_anuswaradeva;
     sub \aivowelsigndeva \anusvaradeva  by \aivowelsigndeva_anusvaradeva;
+    sub \aivowelsigndeva \rphfdeva  by \aivowelsigndeva_rphfdeva;
+    sub \aivowelsigndeva \rphfdeva \anusvaradeva  by \aivowelsign_rphf_anuswaradeva;
     sub \radeva \viramadeva  by \rphfdeva;
-    sub \rphfdeva \anusvaradeva  by \rphfdeva_anuswaradeva;
+    sub \rphfdeva \anusvaradeva  by \rphfdeva_anusvaradeva;
     sub \ovowelsigndeva \anusvaradeva  by \ovowelsigndeva_anusvaradeva;
     sub \ovowelsigndeva \rphfdeva  by \ovowelsigndeva_rphfdeva;
     sub \ovowelsigndeva \rphfdeva \anusvaradeva  by \ovowelsign_rphf_anusvaradeva;
@@ -326,10 +331,10 @@ lookup PostBaseSubstitutionslookup {
   lookupflag 0;
     sub \ivowelsigndeva \anusvaradeva  by \ivowelsigndeva_anusvaradeva;
     sub \ivowelsigndeva \rphfdeva  by \ivowelsigndeva_rphfdeva;
-    sub \ivowelsigndeva \rphfdeva_anuswaradeva  by \ivowel_rphf_anusvaradeva;
+    sub \ivowelsigndeva \rphfdeva_anusvaradeva  by \ivowel_rphf_anusvaradeva;
     sub \iivowelsigndeva \anusvaradeva  by \iivowelsigndeva_anusvaradeva;
     sub \iivowelsigndeva \rphfdeva  by \iivowelsigndeva_rphfdeva;
-    sub \iivowelsigndeva \rphfdeva_anuswaradeva  by \iivowelsign_rphf_anusvaradeva;
+    sub \iivowelsigndeva \rphfdeva_anusvaradeva  by \iivowelsign_rphf_anusvaradeva;
 } PostBaseSubstitutionslookup;
 
 lookup BlwsSub_Ligature_Ukaar {
@@ -356,9 +361,13 @@ lookup PstsSub_Ligature_Ra {
     sub \radeva \uuvowelsigndeva  by \radeva_uuvowelsigndeva;
 } PstsSub_Ligature_Ra;
 
+lookup LigatureSubstitutionlookup28 {
+  lookupflag 0;
+} LigatureSubstitutionlookup28;
+
 lookup PstsSub_Chain_Eyelash {
   lookupflag 0;
-    sub [\rradeva \viramadeva ]' [\radeva \viramadeva \zwjdeva ]' [\yadeva \hadeva ]  by \radeva_viramadeva;
+    sub [\rradeva \viramadeva ]'lookup LigatureSubstitutionlookup28  [\radeva \viramadeva \zwjdeva ]'lookup LigatureSubstitutionlookup28  [\yadeva \hadeva ] ;
 } PstsSub_Chain_Eyelash;
 
 lookup PstsSub_Ligature_Zwj {
@@ -369,34 +378,16 @@ lookup PstsSub_Ligature_Zwj {
 
 feature locl {
 
-  script DFLT;
-     language dflt ;
-      lookup LocalizedNpFormslookup2;
-      lookup LocalizedNpFormslookup3;
-      lookup LocalizedMrFormslookup4;
-
-  script dev ;
-     language dflt ;
-      lookup LocalizedNpFormslookup2;
-     language NEP  exclude_dflt;
-      lookup LocalizedNpFormslookup2;
-
   script dev2;
-     language dflt ;
-      lookup LocalizedNpFormslookup3;
-      lookup LocalizedMrFormslookup4;
      language MAR  exclude_dflt;
       lookup LocalizedMrForms_lookup0;
       lookup LocalizedMrHalfFormslookup1;
       lookup LocalizedMrFormslookup4;
      language NEP  exclude_dflt;
+      lookup LocalizedNpFormslookup2;
       lookup LocalizedNpFormslookup3;
 
   script deva;
-     language dflt ;
-      lookup LocalizedNpFormslookup2;
-      lookup LocalizedNpFormslookup3;
-      lookup LocalizedMrFormslookup4;
      language MAR  exclude_dflt;
       lookup LocalizedMrForms_lookup0;
       lookup LocalizedMrHalfFormslookup1;
@@ -502,10 +493,6 @@ feature half {
 } half;
 
 feature vatu {
-
-  script DFLT;
-     language dflt ;
-      lookup VattuVariantslookup30;
 
   script dev2;
      language dflt ;
@@ -787,14 +774,14 @@ lookup abvmAboveBaseMarklookup3 {
   markClass [\sixcombiningdigitdeva ] <anchor -137 679> @Anchor3;
   markClass [\ninecombiningdigitdeva ] <anchor -137 674> @Anchor3;
   markClass [\kacombiningletterdeva ] <anchor -131 681> @Anchor3;
-  markClass [\evowelsigndeva_anusvaradeva ] <anchor -122 636> @Anchor3;
-  markClass [\evowelsigndeva_rphfdeva ] <anchor -117 644> @Anchor3;
-  markClass [\evowel_rphf_anuswaradeva ] <anchor -127 644> @Anchor3;
-  markClass [\aivowelsigndeva_anusvaradeva ] <anchor -138 636> @Anchor3;
-  markClass [\aivowelsigndeva_rphfdeva ] <anchor -111 631> @Anchor3;
-  markClass [\aivowelsign_rphf_anuswaradeva ] <anchor -103 631> @Anchor3;
-  markClass [\rphfdeva ] <anchor -71 633> @Anchor3;
-  markClass [\rphfdeva_anuswaradeva ] <anchor -109 636> @Anchor3;
+  markClass [\evowelsigndeva_anusvaradeva ] <anchor -125 665> @Anchor3;
+  markClass [\evowelsigndeva_rphfdeva ] <anchor -115 664> @Anchor3;
+  markClass [\evowel_rphf_anuswaradeva ] <anchor -117 673> @Anchor3;
+  markClass [\aivowelsigndeva_anusvaradeva ] <anchor -131 665> @Anchor3;
+  markClass [\aivowelsigndeva_rphfdeva ] <anchor -111 671> @Anchor3;
+  markClass [\aivowelsign_rphf_anuswaradeva ] <anchor -113 666> @Anchor3;
+  markClass [\rphfdeva ] <anchor -71 664> @Anchor3;
+  markClass [\rphfdeva_anusvaradeva ] <anchor -112 665> @Anchor3;
   pos base [\adeva \acandradeva \oedeva ] <anchor 636 664> mark @Anchor3;
   pos base [\aadeva ] <anchor 792 664> mark @Anchor3;
   pos base [\ideva ] <anchor 377 664> mark @Anchor3;
@@ -1095,7 +1082,7 @@ feature abvm {
 	\avagrahacombiningsigndeva \evowelsigndeva_anusvaradeva 
 	\evowelsigndeva_rphfdeva \evowel_rphf_anuswaradeva 
 	\aivowelsigndeva_anusvaradeva \aivowelsigndeva_rphfdeva 
-	\aivowelsign_rphf_anuswaradeva \rphfdeva \rphfdeva_anuswaradeva \vatudeva 
+	\aivowelsign_rphf_anuswaradeva \rphfdeva \rphfdeva_anusvaradeva \vatudeva 
 	\ivowelsigndeva_anusvaradeva \ivowelsigndeva_rphfdeva 
 	\ivowel_rphf_anusvaradeva \shortiiivowelsigndeva 
 	\shortiiivowel_anuswaradeva \shortiiivowelsign_rphf 
