@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380625186
+ModificationTime: 1380639585
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -422,18 +422,17 @@ EndShort
 LangName: 1033 "" "" "Regular" "FontForge 2.0 : Lohit Devanagari : 17-9-2013" "" "2.91.0" "" "" "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
+WinInfo: 8132 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor0"  "blwmBelowBaseMarklookup0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1 subtable" "Anchor2"  "abvmAboveBaseMarklookup2 subtable" "Anchor3"  "abvmAboveBaseMarklookup3 subtable" 
-BeginChars: 65728 403
+BeginChars: 65728 404
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -12270,8 +12269,8 @@ EndSplineSet
 LCarets2: 2 0 0 
 Ligature2: "PstsSub_Ligature_Zwj subtable" rradeva viramadeva
 Ligature2: "PstsSub_Ligature_Zwj subtable" radeva viramadeva zerowidthjoiner
-Ligature2: "Ligature Substitution lookup 28 subtable" radeva viramadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" radeva viramadeva zerowidthjoiner
+Ligature2: "Ligature Substitution lookup 28 subtable" rradeva viramadeva
+Ligature2: "Ligature Substitution lookup 28 subtable" radeva viramadeva zerowidthnonjoiner
 EndChar
 
 StartChar: kadeva_viramadeva_radeva
@@ -18460,6 +18459,23 @@ SplineSet
 EndSplineSet
 Ligature2: "HalfFormslookup10 subtable" mr_shadeva viramadeva
 MultipleSubs2: "LocalizedMrFormslookup4 subtable" mr_shadeva viramadeva
+EndChar
+
+StartChar: zerowidthjoiner
+Encoding: 8205 8205 403
+Width: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 -326 m 1,0,-1
+ 0 999 l 1,1,-1
+ 226 999 l 1,2,-1
+ 226 945 l 1,3,-1
+ 53 945 l 1,4,-1
+ 53 -326 l 1,5,-1
+ 0 -326 l 1,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
