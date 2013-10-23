@@ -1,4 +1,6 @@
 # Test File For Lohit Gujarati
+# One can also test Lohit Devanagari from http://utrrs-testing.rhcloud.com/language/gu/gsub
+# Created by Sneha Kore <skore AT redhat DOT com> - 2013
 
 કઁ
 કં
