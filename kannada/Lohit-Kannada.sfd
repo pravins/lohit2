@@ -58,10 +58,10 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 3"  {"'kern' Horizontal Kernin
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 4 2 "'kern' Horizontal Kerning lookup 2-1" 
- 763 U0C96_U0CCB.blwf U0C99_U0CCB.blwf U0C9A_U0CCB.blwf U0C9B_U0CCB.blwf U0C9C_U0CCB.blwf U0CA1_U0CCB.blwf U0CA2_U0CCB.blwf U0CA3_U0CCB.blwf U0CA5_U0CCB.blwf U0CA6_U0CCB.blwf U0CA7_U0CCB.blwf U0CA8_U0CCB.blwf U0CAA_U0CCB.blwf U0CAB_U0CCB.blwf U0CAC_U0CCB.blwf U0CAD_U0CCB.blwf U0CAE_U0CCB.blwf U0CAF_U0CCB.blwf U0CB1_U0CCB.blwf U0CB2_U0CCB.blwf U0CB5_U0CCB.blwf U0C96_U0CCD.blwf U0C99_U0CCD.blwf U0C9A_0CCD.blwf U0C9B_U0CCD.blwf U0C9C_U0CCD.blwf U0C9E_U0CCD.blwf U0C9F_U0CCD.blwf U0CA1_U0CCD.blwf U0CA2_U0CCD.blwf U0CA3_U0CCD.blwf U0CA5_U0CCD.blwf U0CA6_U0CCD.blwf U0CA7_U0CCD.blwf U0CA8_U0CCD.blwf U0CAA_U0CCD.blwf U0CAB_U0CCD.blwf U0CAC_U0CCD.blwf U0CAD_U0CCD.blwf U0CAE_U0CCD.blwf U0CAF_U0CCD.blwf U0CB1_U0CCD.blwf U0CB2_U0CCD.blwf U0CB5_U0CCD.blwf U0CB8_U0CCD.blwf
- 135 U0C98_U0CCB.blwf U0C9D_U0CCB.blwf U0CB7_U0CCB.blwf U0CB9_U0CCB.blwf U0C98_U0CCD.blwf U0C9D_U0CCD.blwf U0CB7_U0CCD.blwf U0CB9_U0CCD.blwf
- 84 U0C97_U0CCB.blwf U0C95_U0CCD.blwf U0C97_U0CCD.blwf U0CB3_U0CCD.blwf U0CB6_U0CCD.blwf
- 358 exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at bracketleft backslash bracketright asciicircum underscore grave braceleft bar braceright asciitilde cent multiply divide uni0964 uni0965
+ 986 khaknd_oovowelknd.blwf ngaknd_oovowelknd.blwf caknd_oovowelknd.blwf chaknd_oovowelknd.blwf jaknd_oovowelknd.blwf ddaknd_oovowelknd.blwf ddhaknd_oovowelknd.blwf nnaknd_oovowelknd.blwf thaknd_oovowelknd.blwf daknd_oovowelknd.blwf dhaknd_oovowelknd.blwf naknd_oovowelknd.blwf paknd_oovowelknd.blwf phaknd_oovowelknd.blwf baknd_oovowelknd.blwf bhaknd_oovowelknd.blwf maknd_oovowelknd.blwf yaknd_oovowelknd.blwf rraknd_oovowelknd.blwf laknd_oovowelknd.blwf vaknd_oovowelknd.blwf khaknd_viramaknd.blwf ngaknd_viramaknd.blwf caknd_0CCD.blwf chaknd_viramaknd.blwf jaknd_viramaknd.blwf nyaknd_viramaknd.blwf ttaknd_viramaknd.blwf ddaknd_viramaknd.blwf ddhaknd_viramaknd.blwf nnaknd_viramaknd.blwf thaknd_viramaknd.blwf daknd_viramaknd.blwf dhaknd_viramaknd.blwf naknd_viramaknd.blwf paknd_viramaknd.blwf phaknd_viramaknd.blwf baknd_viramaknd.blwf bhaknd_viramaknd.blwf maknd_viramaknd.blwf yaknd_viramaknd.blwf rraknd_viramaknd.blwf laknd_viramaknd.blwf vaknd_viramaknd.blwf saknd_viramaknd.blwf
+ 177 ghaknd_oovowelknd.blwf jhaknd_oovowelknd.blwf ssaknd_oovowelknd.blwf haknd_oovowelknd.blwf ghaknd_viramaknd.blwf jhaknd_viramaknd.blwf ssaknd_viramaknd.blwf haknd_viramaknd.blwf
+ 107 gaknd_oovowelknd.blwf kaknd_viramaknd.blwf gaknd_viramaknd.blwf llaknd_viramaknd.blwf shaknd_viramaknd.blwf
+ 357 exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at bracketleft backslash bracketright asciicircum underscore grave braceleft bar braceright asciitilde cent multiply divide danda dbldanda
  0 {} 0 {} 0 {} 286 {} 0 {} 400 {} 0 {} 200 {}
 TtTable: prep
 NPUSHB
@@ -373,7 +373,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0964
+StartChar: danda
 Encoding: 2404 2404 5
 Width: 234
 GlyphClass: 2
@@ -390,7 +390,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0965
+StartChar: dbldanda
 Encoding: 2405 2405 6
 Width: 436
 GlyphClass: 2
@@ -413,7 +413,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C82
+StartChar: anusvaraknd
 Encoding: 3202 3202 7
 Width: 542
 GlyphClass: 2
@@ -444,7 +444,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C83
+StartChar: visergaknd
 Encoding: 3203 3203 8
 Width: 337
 GlyphClass: 2
@@ -495,7 +495,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C85
+StartChar: aknd
 Encoding: 3205 3205 9
 Width: 761
 GlyphClass: 2
@@ -548,7 +548,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C86
+StartChar: aaknd
 Encoding: 3206 3206 10
 Width: 745
 GlyphClass: 2
@@ -614,7 +614,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C87
+StartChar: iknd
 Encoding: 3207 3207 11
 Width: 689
 GlyphClass: 2
@@ -678,7 +678,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C88
+StartChar: iiknd
 Encoding: 3208 3208 12
 Width: 992
 GlyphClass: 2
@@ -757,7 +757,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C89
+StartChar: uknd
 Encoding: 3209 3209 13
 Width: 1138
 GlyphClass: 2
@@ -825,7 +825,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C8A
+StartChar: uuknd
 Encoding: 3210 3210 14
 Width: 1547
 GlyphClass: 2
@@ -918,7 +918,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C8B
+StartChar: rvocalicknd
 Encoding: 3211 3211 15
 Width: 1359
 GlyphClass: 2
@@ -1011,7 +1011,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C8C
+StartChar: lvocalicknd
 Encoding: 3212 3212 16
 Width: 946
 GlyphClass: 2
@@ -1063,7 +1063,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C8E
+StartChar: eknd
 Encoding: 3214 3214 17
 Width: 720
 GlyphClass: 2
@@ -1107,7 +1107,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C8F
+StartChar: eeknd
 Encoding: 3215 3215 18
 Width: 724
 GlyphClass: 2
@@ -1159,7 +1159,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C90
+StartChar: aiknd
 Encoding: 3216 3216 19
 Width: 755
 GlyphClass: 2
@@ -1216,7 +1216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C92
+StartChar: oknd
 Encoding: 3218 3218 20
 Width: 751
 GlyphClass: 2
@@ -1272,7 +1272,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C93
+StartChar: ooknd
 Encoding: 3219 3219 21
 Width: 751
 GlyphClass: 2
@@ -1335,7 +1335,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C94
+StartChar: auknd
 Encoding: 3220 3220 22
 Width: 751
 GlyphClass: 2
@@ -1427,7 +1427,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95
+StartChar: kaknd
 Encoding: 3221 3221 23
 Width: 546
 GlyphClass: 2
@@ -1480,7 +1480,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96
+StartChar: khaknd
 Encoding: 3222 3222 24
 Width: 850
 GlyphClass: 2
@@ -1545,7 +1545,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97
+StartChar: gaknd
 Encoding: 3223 3223 25
 Width: 650
 GlyphClass: 2
@@ -1585,7 +1585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98
+StartChar: ghaknd
 Encoding: 3224 3224 26
 Width: 915
 GlyphClass: 2
@@ -1671,7 +1671,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99
+StartChar: ngaknd
 Encoding: 3225 3225 27
 Width: 767
 GlyphClass: 2
@@ -1745,7 +1745,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9A
+StartChar: caknd
 Encoding: 3226 3226 28
 Width: 758
 GlyphClass: 2
@@ -1821,7 +1821,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B
+StartChar: chaknd
 Encoding: 3227 3227 29
 Width: 740
 GlyphClass: 2
@@ -1895,7 +1895,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C
+StartChar: jaknd
 Encoding: 3228 3228 30
 Width: 751
 GlyphClass: 2
@@ -1961,7 +1961,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D
+StartChar: jhaknd
 Encoding: 3229 3229 31
 Width: 1541
 GlyphClass: 2
@@ -2042,7 +2042,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E
+StartChar: nyaknd
 Encoding: 3230 3230 32
 Width: 1000
 GlyphClass: 2
@@ -2120,7 +2120,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9F
+StartChar: ttaknd
 Encoding: 3231 3231 33
 Width: 811
 GlyphClass: 2
@@ -2195,7 +2195,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0
+StartChar: tthaknd
 Encoding: 3232 3232 34
 Width: 645
 GlyphClass: 2
@@ -2245,7 +2245,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1
+StartChar: ddaknd
 Encoding: 3233 3233 35
 Width: 741
 GlyphClass: 2
@@ -2322,7 +2322,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2
+StartChar: ddhaknd
 Encoding: 3234 3234 36
 Width: 741
 GlyphClass: 2
@@ -2407,7 +2407,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3
+StartChar: nnaknd
 Encoding: 3235 3235 37
 Width: 806
 GlyphClass: 2
@@ -2473,7 +2473,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4
+StartChar: taknd
 Encoding: 3236 3236 38
 Width: 567
 GlyphClass: 2
@@ -2538,7 +2538,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5
+StartChar: thaknd
 Encoding: 3237 3237 39
 Width: 732
 GlyphClass: 2
@@ -2605,7 +2605,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6
+StartChar: daknd
 Encoding: 3238 3238 40
 Width: 732
 GlyphClass: 2
@@ -2658,7 +2658,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7
+StartChar: dhaknd
 Encoding: 3239 3239 41
 Width: 732
 GlyphClass: 2
@@ -2719,7 +2719,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8
+StartChar: naknd
 Encoding: 3240 3240 42
 Width: 702
 GlyphClass: 2
@@ -2770,7 +2770,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA
+StartChar: paknd
 Encoding: 3242 3242 43
 Width: 694
 GlyphClass: 2
@@ -2835,7 +2835,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB
+StartChar: phaknd
 Encoding: 3243 3243 44
 Width: 694
 GlyphClass: 2
@@ -2908,7 +2908,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC
+StartChar: baknd
 Encoding: 3244 3244 45
 Width: 781
 GlyphClass: 2
@@ -2965,7 +2965,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD
+StartChar: bhaknd
 Encoding: 3245 3245 46
 Width: 781
 GlyphClass: 2
@@ -3041,7 +3041,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE
+StartChar: maknd
 Encoding: 3246 3246 47
 Width: 1154
 GlyphClass: 2
@@ -3111,7 +3111,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF
+StartChar: yaknd
 Encoding: 3247 3247 48
 Width: 1486
 GlyphClass: 2
@@ -3184,7 +3184,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0
+StartChar: raknd
 Encoding: 3248 3248 49
 Width: 645
 GlyphClass: 2
@@ -3228,7 +3228,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1
+StartChar: rraknd
 Encoding: 3249 3249 50
 Width: 745
 GlyphClass: 2
@@ -3303,7 +3303,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2
+StartChar: laknd
 Encoding: 3250 3250 51
 Width: 763
 GlyphClass: 2
@@ -3350,7 +3350,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3
+StartChar: llaknd
 Encoding: 3251 3251 52
 Width: 612
 GlyphClass: 2
@@ -3424,7 +3424,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5
+StartChar: vaknd
 Encoding: 3253 3253 53
 Width: 722
 GlyphClass: 2
@@ -3481,7 +3481,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6
+StartChar: shaknd
 Encoding: 3254 3254 54
 Width: 623
 GlyphClass: 2
@@ -3543,7 +3543,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7
+StartChar: ssaknd
 Encoding: 3255 3255 55
 Width: 764
 GlyphClass: 2
@@ -3620,7 +3620,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8
+StartChar: saknd
 Encoding: 3256 3256 56
 Width: 545
 GlyphClass: 2
@@ -3676,7 +3676,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9
+StartChar: haknd
 Encoding: 3257 3257 57
 Width: 744
 GlyphClass: 2
@@ -3743,7 +3743,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CBC
+StartChar: nuktaknd
 Encoding: 3260 3260 58
 Width: 0
 GlyphClass: 2
@@ -3774,7 +3774,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CBD
+StartChar: avagrahaknd
 Encoding: 3261 3261 59
 Width: 637
 GlyphClass: 2
@@ -3811,7 +3811,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CBE
+StartChar: aavowelknd
 Encoding: 3262 3262 60
 Width: 523
 GlyphClass: 2
@@ -3849,7 +3849,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CBF
+StartChar: ivowelknd
 Encoding: 3263 3263 61
 Width: 302
 GlyphClass: 2
@@ -3889,7 +3889,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC0
+StartChar: iivowelknd
 Encoding: 3264 3264 62
 Width: 919
 GlyphClass: 2
@@ -3956,7 +3956,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC1
+StartChar: uvowelknd
 Encoding: 3265 3265 63
 Width: 448
 GlyphClass: 4
@@ -3983,7 +3983,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC2
+StartChar: uuvowelknd
 Encoding: 3266 3266 64
 Width: 825
 GlyphClass: 4
@@ -4031,7 +4031,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC3
+StartChar: rvocalicvowelknd
 Encoding: 3267 3267 65
 Width: 126
 GlyphClass: 4
@@ -4075,7 +4075,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC4
+StartChar: rrvocalicvowelknd
 Encoding: 3268 3268 66
 Width: 137
 GlyphClass: 4
@@ -4140,7 +4140,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC6
+StartChar: evowelknd
 Encoding: 3270 3270 67
 Width: 619
 GlyphClass: 4
@@ -4174,7 +4174,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC7
+StartChar: eevowelknd
 Encoding: 3271 3271 68
 Width: 1009
 GlyphClass: 4
@@ -4235,7 +4235,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CC8
+StartChar: aivowelknd
 Encoding: 3272 3272 69
 Width: 645
 GlyphClass: 4
@@ -4310,7 +4310,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CCA
+StartChar: ovowelknd
 Encoding: 3274 3274 70
 Width: 1210
 GlyphClass: 4
@@ -4381,7 +4381,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CCB
+StartChar: oovowelknd
 Encoding: 3275 3275 71
 Width: 1726
 GlyphClass: 4
@@ -4479,7 +4479,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CCC
+StartChar: auvowelknd
 Encoding: 3276 3276 72
 Width: 529
 GlyphClass: 4
@@ -4529,7 +4529,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CCD
+StartChar: viramaknd
 Encoding: 3277 3277 73
 Width: 354
 GlyphClass: 4
@@ -4572,7 +4572,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CD5
+StartChar: lengthmarkknd
 Encoding: 3285 3285 74
 Width: 463
 GlyphClass: 2
@@ -4610,7 +4610,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CD6
+StartChar: ailengthmarkknd
 Encoding: 3286 3286 75
 Width: 176
 GlyphClass: 2
@@ -4660,7 +4660,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CDE
+StartChar: faknd
 Encoding: 3294 3294 76
 Width: 745
 GlyphClass: 2
@@ -4728,7 +4728,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE0
+StartChar: rrvocalicknd
 Encoding: 3296 3296 77
 Width: 1619
 GlyphClass: 2
@@ -4842,7 +4842,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE1
+StartChar: llvocalicknd
 Encoding: 3297 3297 78
 Width: 1440
 GlyphClass: 2
@@ -4918,7 +4918,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE2
+StartChar: lvocalicvowelknd
 Encoding: 3298 3298 79
 Width: 0
 GlyphClass: 2
@@ -4962,7 +4962,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE3
+StartChar: llvocalicvowelknd
 Encoding: 3299 3299 80
 Width: 0
 GlyphClass: 2
@@ -5023,7 +5023,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE6
+StartChar: zeroknd
 Encoding: 3302 3302 81
 Width: 715
 GlyphClass: 2
@@ -5054,7 +5054,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE7
+StartChar: oneknd
 Encoding: 3303 3303 82
 Width: 715
 GlyphClass: 2
@@ -5085,7 +5085,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE8
+StartChar: twoknd
 Encoding: 3304 3304 83
 Width: 715
 GlyphClass: 2
@@ -5122,7 +5122,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CE9
+StartChar: threeknd
 Encoding: 3305 3305 84
 Width: 714
 GlyphClass: 2
@@ -5183,7 +5183,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CEA
+StartChar: fourknd
 Encoding: 3306 3306 85
 Width: 715
 GlyphClass: 2
@@ -5244,7 +5244,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CEB
+StartChar: fiveknd
 Encoding: 3307 3307 86
 Width: 715
 GlyphClass: 2
@@ -5319,7 +5319,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CEC
+StartChar: sixknd
 Encoding: 3308 3308 87
 Width: 715
 GlyphClass: 2
@@ -5375,7 +5375,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CED
+StartChar: sevenknd
 Encoding: 3309 3309 88
 Width: 715
 GlyphClass: 2
@@ -5414,7 +5414,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CEE
+StartChar: eightknd
 Encoding: 3310 3310 89
 Width: 715
 GlyphClass: 2
@@ -5466,7 +5466,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CEF
+StartChar: nineknd
 Encoding: 3311 3311 90
 Width: 715
 GlyphClass: 2
@@ -5517,7 +5517,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CF1
+StartChar: jihvamuliyaknd
 Encoding: 3313 3313 91
 Width: 611
 GlyphClass: 2
@@ -5546,7 +5546,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CF2
+StartChar: upadhmaniyaknd
 Encoding: 3314 3314 92
 Width: 922
 GlyphClass: 2
@@ -5597,7 +5597,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii61664
+StartChar: zerowidthnonjoiner
 Encoding: 8204 8204 93
 Width: 0
 GlyphClass: 2
@@ -5614,7 +5614,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii301
+StartChar: zerowidthjoiner
 Encoding: 8205 8205 94
 Width: 0
 GlyphClass: 2
@@ -5634,7 +5634,7 @@ EndSplineSet
 Kerns2: 614 200 "'kern' Horizontal Kerning lookup 3-1" 
 EndChar
 
-StartChar: uni25CC
+StartChar: dotted_circle
 Encoding: 9676 9676 95
 Width: 845
 GlyphClass: 2
@@ -6290,7 +6290,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCd_U0CB7.akhn
+StartChar: kaknd_U0CCd_ssaknd.akhn
 Encoding: 65552 -1 111
 Width: 558
 GlyphClass: 2
@@ -6379,7 +6379,7 @@ Kerns2: 98 80 "'kern' Horizontal Kerning lookup 4-1"  97 80 "'kern' Horizontal K
 LCarets2: 2 0 0 
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E.akhn
+StartChar: jaknd_viramaknd_nyaknd.akhn
 Encoding: 65553 -1 112
 Width: 751
 GlyphClass: 2
@@ -6510,7 +6510,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CA6_U0CCB.akhn
+StartChar: daknd_daknd_oovowelknd.akhn
 Encoding: 65554 -1 113
 Width: 732
 GlyphClass: 2
@@ -6591,7 +6591,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CB2_U0CCB.akhn
+StartChar: laknd_laknd_oovowelknd.akhn
 Encoding: 65555 -1 114
 Width: 763
 GlyphClass: 2
@@ -6666,7 +6666,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CBE.abvs
+StartChar: kaknd_aavowelknd.abvs
 Encoding: 65556 -1 115
 Width: 1005
 GlyphClass: 2
@@ -6731,7 +6731,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CBE.abvs
+StartChar: khaknd_aavowelknd.abvs
 Encoding: 65557 -1 116
 Width: 1321
 GlyphClass: 2
@@ -6820,7 +6820,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CBE.abvs
+StartChar: gaknd_aavowelknd.abvs
 Encoding: 65558 -1 117
 Width: 1117
 GlyphClass: 2
@@ -6873,7 +6873,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CBE.abvs
+StartChar: ghaknd_aavowelknd.abvs
 Encoding: 65559 -1 118
 Width: 1388
 GlyphClass: 2
@@ -6970,7 +6970,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C99_U0CBE.abvs
+StartChar: ngaknd_aavowelknd.abvs
 Encoding: 65560 -1 119
 Width: 1606
 GlyphClass: 2
@@ -7074,7 +7074,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CBD.abvs
+StartChar: caknd_avagrahaknd.abvs
 Encoding: 65561 -1 120
 Width: 1255
 GlyphClass: 2
@@ -7163,7 +7163,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CBD.abvs
+StartChar: chaknd_avagrahaknd.abvs
 Encoding: 65562 -1 121
 Width: 1232
 GlyphClass: 2
@@ -7251,7 +7251,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CBE.abvs
+StartChar: jaknd_aavowelknd.abvs
 Encoding: 65563 -1 122
 Width: 1258
 GlyphClass: 2
@@ -7346,7 +7346,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CBE.abvs
+StartChar: jhaknd_aavowelknd.abvs
 Encoding: 65564 -1 123
 Width: 1964
 GlyphClass: 2
@@ -7451,7 +7451,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CBE.abvs
+StartChar: nyaknd_aavowelknd.abvs
 Encoding: 65565 -1 124
 Width: 1790
 GlyphClass: 2
@@ -7561,7 +7561,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CBE.abvs
+StartChar: ttaknd_aavowelknd.abvs
 Encoding: 65566 -1 125
 Width: 1346
 GlyphClass: 2
@@ -7661,7 +7661,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CBE.abvs
+StartChar: tthaknd_aavowelknd.abvs
 Encoding: 65567 -1 126
 Width: 1169
 GlyphClass: 2
@@ -7724,7 +7724,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CBD.abvs
+StartChar: ddaknd_avagrahaknd.abvs
 Encoding: 65568 -1 127
 Width: 1252
 GlyphClass: 2
@@ -7814,7 +7814,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CBE.abvs
+StartChar: ddhaknd_aavowelknd.abvs
 Encoding: 65569 -1 128
 Width: 1252
 GlyphClass: 2
@@ -7912,7 +7912,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CBE.abvs
+StartChar: nnaknd_aavowelknd.abvs
 Encoding: 65570 -1 129
 Width: 1316
 GlyphClass: 2
@@ -8000,7 +8000,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CBE.abvs
+StartChar: taknd_aavowelknd.abvs
 Encoding: 65571 -1 130
 Width: 1082
 GlyphClass: 2
@@ -8078,7 +8078,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CBE.abvs
+StartChar: thaknd_aavowelknd.abvs
 Encoding: 65572 -1 131
 Width: 1223
 GlyphClass: 2
@@ -8158,7 +8158,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CBE.abvs
+StartChar: daknd_aavowelknd.abvs
 Encoding: 65573 -1 132
 Width: 1223
 GlyphClass: 2
@@ -8224,7 +8224,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CBE.abvs
+StartChar: dhaknd_aavowelknd.abvs
 Encoding: 65574 -1 133
 Width: 1223
 GlyphClass: 2
@@ -8298,7 +8298,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CBE.abvs
+StartChar: naknd_aavowelknd.abvs
 Encoding: 65575 -1 134
 Width: 1183
 GlyphClass: 2
@@ -8362,7 +8362,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CBE.abvs
+StartChar: paknd_aavowelknd.abvs
 Encoding: 65576 -1 135
 Width: 1200
 GlyphClass: 2
@@ -8439,7 +8439,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CBE.abvs
+StartChar: phaknd_aavowelknd.abvs
 Encoding: 65577 -1 136
 Width: 1200
 GlyphClass: 2
@@ -8524,7 +8524,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CBE.abvs
+StartChar: baknd_aavowelknd.abvs
 Encoding: 65578 -1 137
 Width: 1292
 GlyphClass: 2
@@ -8605,7 +8605,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CBE.abvs
+StartChar: bhaknd_aavowelknd.abvs
 Encoding: 65579 -1 138
 Width: 1268
 GlyphClass: 2
@@ -8694,7 +8694,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CBE.abvs
+StartChar: maknd_aavowelknd.abvs
 Encoding: 65580 -1 139
 Width: 1578
 GlyphClass: 2
@@ -8789,7 +8789,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CBE.abvs
+StartChar: yaknd_aavowelknd.abvs
 Encoding: 65581 -1 140
 Width: 1916
 GlyphClass: 2
@@ -8885,7 +8885,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CBE.abvs
+StartChar: raknd_aavowelknd.abvs
 Encoding: 65582 -1 141
 Width: 1154
 GlyphClass: 2
@@ -8942,7 +8942,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CBE.abvs
+StartChar: rraknd_aavowelknd.abvs
 Encoding: 65583 -1 142
 Width: 1260
 GlyphClass: 2
@@ -9042,7 +9042,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CBE.abvs
+StartChar: laknd_aavowelknd.abvs
 Encoding: 65584 -1 143
 Width: 1264
 GlyphClass: 2
@@ -9114,7 +9114,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB3_U0CBE.abvs
+StartChar: llaknd_aavowelknd.abvs
 Encoding: 65585 -1 144
 Width: 1130
 GlyphClass: 2
@@ -9201,7 +9201,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CBE.abvs
+StartChar: vaknd_aavowelknd.abvs
 Encoding: 65586 -1 145
 Width: 1206
 GlyphClass: 2
@@ -9270,7 +9270,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CBE.abvs
+StartChar: shaknd_aavowelknd.abvs
 Encoding: 65587 -1 146
 Width: 1118
 GlyphClass: 2
@@ -9345,7 +9345,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CBE.abvs
+StartChar: ssaknd_aavowelknd.abvs
 Encoding: 65588 -1 147
 Width: 1226
 GlyphClass: 2
@@ -9432,7 +9432,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CBE.abvs
+StartChar: saknd_aavowelknd.abvs
 Encoding: 65589 -1 148
 Width: 1050
 GlyphClass: 2
@@ -9500,7 +9500,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CBE.abvs
+StartChar: haknd_aavowelknd.abvs
 Encoding: 65590 -1 149
 Width: 1260
 GlyphClass: 2
@@ -9579,7 +9579,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CBE.akhn
+StartChar: kaknd_viramaknd_ssaknd_aavowelknd.akhn
 Encoding: 65591 -1 150
 Width: 1052
 GlyphClass: 2
@@ -9682,7 +9682,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CBE.akhn
+StartChar: jaknd_viramaknd_nyaknd_aavowelknd.akhn
 Encoding: 65592 -1 151
 Width: 1252
 GlyphClass: 2
@@ -9840,7 +9840,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CBE.akhn
+StartChar: daknd_viramaknd_daknd_aavowelknd.akhn
 Encoding: 65593 -1 152
 Width: 1223
 GlyphClass: 2
@@ -9935,7 +9935,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CBE.akhn
+StartChar: laknd_viramaknd_laknd_aavowelknd.akhn
 Encoding: 65594 -1 153
 Width: 1257
 GlyphClass: 2
@@ -10034,7 +10034,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CBF.abvs
+StartChar: kaknd_ivowelknd.abvs
 Encoding: 65595 -1 154
 Width: 558
 GlyphClass: 2
@@ -10093,7 +10093,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CBF.abvs
+StartChar: khaknd_ivowelknd.abvs
 Encoding: 65596 -1 155
 Width: 850
 GlyphClass: 2
@@ -10172,7 +10172,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CBF.abvs
+StartChar: gaknd_ivowelknd.abvs
 Encoding: 65597 -1 156
 Width: 621
 GlyphClass: 2
@@ -10214,7 +10214,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CBF.abvs
+StartChar: ghaknd_ivowelknd.abvs
 Encoding: 65598 -1 157
 Width: 909
 GlyphClass: 2
@@ -10308,7 +10308,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CBF.abvs
+StartChar: ngaknd_ivowelknd.abvs
 Encoding: 65599 -1 158
 Width: 767
 GlyphClass: 2
@@ -10408,7 +10408,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9A_U0CBF.abvs
+StartChar: caknd_ivowelknd.abvs
 Encoding: 65600 -1 159
 Width: 758
 GlyphClass: 2
@@ -10490,7 +10490,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CBE.abvs
+StartChar: chaknd_aavowelknd.abvs
 Encoding: 65601 -1 160
 Width: 740
 GlyphClass: 2
@@ -10570,7 +10570,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CBF.abvs
+StartChar: jaknd_ivowelknd.abvs
 Encoding: 65602 -1 161
 Width: 753
 GlyphClass: 2
@@ -10651,7 +10651,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CBF.abvs
+StartChar: jhaknd_ivowelknd.abvs
 Encoding: 65603 -1 162
 Width: 1547
 GlyphClass: 2
@@ -10733,7 +10733,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CBF.abvs
+StartChar: nyaknd_ivowelknd.abvs
 Encoding: 65604 -1 163
 Width: 975
 GlyphClass: 2
@@ -10837,7 +10837,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9F_U0CBF.abvs
+StartChar: ttaknd_ivowelknd.abvs
 Encoding: 65605 -1 164
 Width: 813
 GlyphClass: 2
@@ -10925,7 +10925,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA0_U0CBF.abvs
+StartChar: tthaknd_ivowelknd.abvs
 Encoding: 65606 -1 165
 Width: 646
 GlyphClass: 2
@@ -10977,7 +10977,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CBE.abvs
+StartChar: ddaknd_aavowelknd.abvs
 Encoding: 65607 -1 166
 Width: 742
 GlyphClass: 2
@@ -11056,7 +11056,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CBF.abvs
+StartChar: ddhaknd_ivowelknd.abvs
 Encoding: 65608 -1 167
 Width: 742
 GlyphClass: 2
@@ -11143,7 +11143,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CBF.abvs
+StartChar: nnaknd_ivowelknd.abvs
 Encoding: 65609 -1 168
 Width: 807
 GlyphClass: 2
@@ -11229,7 +11229,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CBF.abvs
+StartChar: taknd_ivowelknd.abvs
 Encoding: 65610 -1 169
 Width: 567
 GlyphClass: 2
@@ -11301,7 +11301,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CBF.abvs
+StartChar: thaknd_ivowelknd.abvs
 Encoding: 65611 -1 170
 Width: 732
 GlyphClass: 2
@@ -11370,7 +11370,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CBF.abvs
+StartChar: daknd_ivowelknd.abvs
 Encoding: 65612 -1 171
 Width: 732
 GlyphClass: 2
@@ -11425,7 +11425,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CBF.abvs
+StartChar: dhaknd_ivowelknd.abvs
 Encoding: 65613 -1 172
 Width: 732
 GlyphClass: 2
@@ -11488,7 +11488,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CBF.abvs
+StartChar: naknd_ivowelknd.abvs
 Encoding: 65614 -1 173
 Width: 689
 GlyphClass: 2
@@ -11542,7 +11542,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CBF.abvs
+StartChar: paknd_ivowelknd.abvs
 Encoding: 65615 -1 174
 Width: 694
 GlyphClass: 2
@@ -11615,7 +11615,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CBF.abvs
+StartChar: phaknd_ivowelknd.abvs
 Encoding: 65616 -1 175
 Width: 701
 GlyphClass: 2
@@ -11696,7 +11696,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CBF.abvs
+StartChar: baknd_ivowelknd.abvs
 Encoding: 65617 -1 176
 Width: 783
 GlyphClass: 2
@@ -11767,7 +11767,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CBF.abvs
+StartChar: bhaknd_ivowelknd.abvs
 Encoding: 65618 -1 177
 Width: 783
 GlyphClass: 2
@@ -11846,7 +11846,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CBF.abvs
+StartChar: maknd_ivowelknd.abvs
 Encoding: 65619 -1 178
 Width: 1180
 GlyphClass: 2
@@ -11922,7 +11922,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CBF.abvs
+StartChar: yaknd_ivowelknd.abvs
 Encoding: 65620 -1 179
 Width: 1479
 GlyphClass: 2
@@ -11997,7 +11997,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CBF.abvs
+StartChar: raknd_ivowelknd.abvs
 Encoding: 65621 -1 180
 Width: 645
 GlyphClass: 2
@@ -12043,7 +12043,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CBF.abvs
+StartChar: rraknd_ivowelknd.abvs
 Encoding: 65622 -1 181
 Width: 745
 GlyphClass: 2
@@ -12144,7 +12144,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CBF.abvs
+StartChar: laknd_ivowelknd.abvs
 Encoding: 65623 -1 182
 Width: 783
 GlyphClass: 2
@@ -12205,7 +12205,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CBF.abvs
+StartChar: llaknd_ivowelknd.abvs
 Encoding: 65624 -1 183
 Width: 673
 GlyphClass: 2
@@ -12283,7 +12283,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CBF.abvs
+StartChar: vaknd_ivowelknd.abvs
 Encoding: 65625 -1 184
 Width: 720
 GlyphClass: 2
@@ -12344,7 +12344,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CBF.abvs
+StartChar: shaknd_ivowelknd.abvs
 Encoding: 65626 -1 185
 Width: 624
 GlyphClass: 2
@@ -12420,7 +12420,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CBF.abvs
+StartChar: ssaknd_ivowelknd.abvs
 Encoding: 65627 -1 186
 Width: 798
 GlyphClass: 2
@@ -12503,7 +12503,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CBF.abvs
+StartChar: saknd_ivowelknd.abvs
 Encoding: 65628 -1 187
 Width: 551
 GlyphClass: 2
@@ -12567,7 +12567,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CBF.abvs
+StartChar: haknd_ivowelknd.abvs
 Encoding: 65629 -1 188
 Width: 744
 GlyphClass: 2
@@ -12639,7 +12639,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CBF.akhn
+StartChar: kaknd_viramaknd_ssaknd_ivowelknd.akhn
 Encoding: 65630 -1 189
 Width: 558
 GlyphClass: 2
@@ -12736,7 +12736,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CBF.akhn
+StartChar: jaknd_viramaknd_nyaknd_ivowelknd.akhn
 Encoding: 65631 -1 190
 Width: 753
 GlyphClass: 2
@@ -12882,7 +12882,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CBD_U0CA6_U0CCB.akhn
+StartChar: daknd_avagrahaknd_daknd_oovowelknd.akhn
 Encoding: 65632 -1 191
 Width: 732
 GlyphClass: 2
@@ -12966,7 +12966,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CBD_U0CB2_U0CCB.akhn
+StartChar: laknd_avagrahaknd_laknd_oovowelknd.akhn
 Encoding: 65633 -1 192
 Width: 783
 GlyphClass: 2
@@ -13056,7 +13056,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CC0.abvs
+StartChar: kaknd_iivowelknd.abvs
 Encoding: 65634 -1 193
 Width: 1011
 GlyphClass: 2
@@ -13141,7 +13141,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CC0.abvs
+StartChar: khaknd_iivowelknd.abvs
 Encoding: 65635 -1 194
 Width: 1316
 GlyphClass: 2
@@ -13248,7 +13248,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C97_U0CC0.abvs
+StartChar: gaknd_iivowelknd.abvs
 Encoding: 65636 -1 195
 Width: 1093
 GlyphClass: 2
@@ -13318,7 +13318,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C98_U0CC0.abvs
+StartChar: ghaknd_iivowelknd.abvs
 Encoding: 65637 -1 196
 Width: 1343
 GlyphClass: 2
@@ -13440,7 +13440,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C99_U0CC0.abvs
+StartChar: ngaknd_iivowelknd.abvs
 Encoding: 65638 -1 197
 Width: 1219
 GlyphClass: 2
@@ -13568,7 +13568,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CC0.abvs
+StartChar: caknd_iivowelknd.abvs
 Encoding: 65639 -1 198
 Width: 1208
 GlyphClass: 2
@@ -13678,7 +13678,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9B_U0CC0.abvs
+StartChar: chaknd_iivowelknd.abvs
 Encoding: 65640 -1 199
 Width: 1219
 GlyphClass: 2
@@ -13786,7 +13786,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9C_U0CC0.abvs
+StartChar: jaknd_iivowelknd.abvs
 Encoding: 65641 -1 200
 Width: 1213
 GlyphClass: 2
@@ -13895,7 +13895,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9D_U0CC0.abvs
+StartChar: jhaknd_iivowelknd.abvs
 Encoding: 65642 -1 201
 Width: 2038
 GlyphClass: 2
@@ -14005,7 +14005,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9E_U0CC0.abvs
+StartChar: nyaknd_iivowelknd.abvs
 Encoding: 65643 -1 202
 Width: 1437
 GlyphClass: 2
@@ -14137,7 +14137,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CBC.abvs
+StartChar: ttaknd_nuktaknd.abvs
 Encoding: 65644 -1 203
 Width: 1274
 GlyphClass: 2
@@ -14252,7 +14252,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA0_U0CC0.abvs
+StartChar: tthaknd_iivowelknd.abvs
 Encoding: 65645 -1 204
 Width: 1110
 GlyphClass: 2
@@ -14332,7 +14332,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA1_U0CC0.abvs
+StartChar: ddaknd_iivowelknd.abvs
 Encoding: 65646 -1 205
 Width: 1200
 GlyphClass: 2
@@ -14439,7 +14439,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA2_U0CC0.abvs
+StartChar: ddhaknd_iivowelknd.abvs
 Encoding: 65647 -1 206
 Width: 1193
 GlyphClass: 2
@@ -14554,7 +14554,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA3_U0CC0.abvs
+StartChar: nnaknd_iivowelknd.abvs
 Encoding: 65648 -1 207
 Width: 1290
 GlyphClass: 2
@@ -14668,7 +14668,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA4_U0CC0.abvs
+StartChar: taknd_iivowelknd.abvs
 Encoding: 65649 -1 208
 Width: 984
 GlyphClass: 2
@@ -14768,7 +14768,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA5_U0CC0.abvs
+StartChar: thaknd_iivowelknd.abvs
 Encoding: 65650 -1 209
 Width: 1204
 GlyphClass: 2
@@ -14865,7 +14865,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA6_U0CC0.abvs
+StartChar: daknd_iivowelknd.abvs
 Encoding: 65651 -1 210
 Width: 1204
 GlyphClass: 2
@@ -14948,7 +14948,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA7_U0CC0.abvs
+StartChar: dhaknd_iivowelknd.abvs
 Encoding: 65652 -1 211
 Width: 1204
 GlyphClass: 2
@@ -15039,7 +15039,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA8_U0CC0.abvs
+StartChar: naknd_iivowelknd.abvs
 Encoding: 65653 -1 212
 Width: 1164
 GlyphClass: 2
@@ -15121,7 +15121,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAA_U0CC0.abvs
+StartChar: paknd_iivowelknd.abvs
 Encoding: 65654 -1 213
 Width: 1167
 GlyphClass: 2
@@ -15222,7 +15222,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAB_U0CC0.abvs
+StartChar: phaknd_iivowelknd.abvs
 Encoding: 65655 -1 214
 Width: 1161
 GlyphClass: 2
@@ -15331,7 +15331,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAC_U0CC0.abvs
+StartChar: baknd_iivowelknd.abvs
 Encoding: 65656 -1 215
 Width: 1234
 GlyphClass: 2
@@ -15430,7 +15430,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAD_U0CC0.abvs
+StartChar: bhaknd_iivowelknd.abvs
 Encoding: 65657 -1 216
 Width: 1234
 GlyphClass: 2
@@ -15537,7 +15537,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAE_U0CC0.abvs
+StartChar: maknd_iivowelknd.abvs
 Encoding: 65658 -1 217
 Width: 1648
 GlyphClass: 2
@@ -15641,7 +15641,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAF_U0CC0.abvs
+StartChar: yaknd_iivowelknd.abvs
 Encoding: 65659 -1 218
 Width: 1960
 GlyphClass: 2
@@ -15744,7 +15744,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB0_U0CC0.abvs
+StartChar: raknd_iivowelknd.abvs
 Encoding: 65660 -1 219
 Width: 1109
 GlyphClass: 2
@@ -15818,7 +15818,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB1_U0CC0.abvs
+StartChar: rraknd_iivowelknd.abvs
 Encoding: 65661 -1 220
 Width: 1221
 GlyphClass: 2
@@ -15947,7 +15947,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB2_U0CC0.abvs
+StartChar: laknd_iivowelknd.abvs
 Encoding: 65662 -1 221
 Width: 1273
 GlyphClass: 2
@@ -16036,7 +16036,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB3_U0CC0.abvs
+StartChar: llaknd_iivowelknd.abvs
 Encoding: 65663 -1 222
 Width: 1144
 GlyphClass: 2
@@ -16142,7 +16142,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB5_U0CC0.abvs
+StartChar: vaknd_iivowelknd.abvs
 Encoding: 65664 -1 223
 Width: 1193
 GlyphClass: 2
@@ -16231,7 +16231,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB6_U0CC0.abvs
+StartChar: shaknd_iivowelknd.abvs
 Encoding: 65665 -1 224
 Width: 1069
 GlyphClass: 2
@@ -16335,7 +16335,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB7_U0CC0.abvs
+StartChar: ssaknd_iivowelknd.abvs
 Encoding: 65666 -1 225
 Width: 1167
 GlyphClass: 2
@@ -16446,7 +16446,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB8_U0CC0.abvs
+StartChar: saknd_iivowelknd.abvs
 Encoding: 65667 -1 226
 Width: 1011
 GlyphClass: 2
@@ -16538,7 +16538,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB9_U0CC0.abvs
+StartChar: haknd_iivowelknd.abvs
 Encoding: 65668 -1 227
 Width: 1214
 GlyphClass: 2
@@ -16637,7 +16637,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CC0.akhn
+StartChar: kaknd_viramaknd_ssaknd_iivowelknd.akhn
 Encoding: 65669 -1 228
 Width: 1024
 GlyphClass: 2
@@ -16761,7 +16761,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0CBE_U0CC0.akhn
+StartChar: jaknd_viramaknd_aavowelknd_iivowelknd.akhn
 Encoding: 65670 -1 229
 Width: 1213
 GlyphClass: 2
@@ -16934,7 +16934,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CC0.akhn
+StartChar: daknd_viramaknd_daknd_iivowelknd.akhn
 Encoding: 65671 -1 230
 Width: 1210
 GlyphClass: 2
@@ -17045,7 +17045,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CC0.akhn
+StartChar: laknd_viramaknd_laknd_iivowelknd.akhn
 Encoding: 65672 -1 231
 Width: 1266
 GlyphClass: 2
@@ -17162,7 +17162,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CC6.abvs
+StartChar: kaknd_evowelknd.abvs
 Encoding: 65673 -1 232
 Width: 558
 GlyphClass: 2
@@ -17223,7 +17223,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CC6.abvs
+StartChar: khaknd_evowelknd.abvs
 Encoding: 65674 -1 233
 Width: 849
 GlyphClass: 2
@@ -17307,7 +17307,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CC6.abvs
+StartChar: gaknd_evowelknd.abvs
 Encoding: 65675 -1 234
 Width: 620
 GlyphClass: 2
@@ -17355,7 +17355,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CC6.abvs
+StartChar: ghaknd_evowelknd.abvs
 Encoding: 65676 -1 235
 Width: 915
 GlyphClass: 2
@@ -17446,7 +17446,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CC6.abvs
+StartChar: ngaknd_evowelknd.abvs
 Encoding: 65677 -1 236
 Width: 1154
 GlyphClass: 2
@@ -17546,7 +17546,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CC6.abvs
+StartChar: caknd_evowelknd.abvs
 Encoding: 65678 -1 237
 Width: 758
 GlyphClass: 2
@@ -17632,7 +17632,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9B_U0CC6.abvs
+StartChar: chaknd_evowelknd.abvs
 Encoding: 65679 -1 238
 Width: 740
 GlyphClass: 2
@@ -17715,7 +17715,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CC6.abvs
+StartChar: jaknd_evowelknd.abvs
 Encoding: 65680 -1 239
 Width: 751
 GlyphClass: 2
@@ -17806,7 +17806,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9D_U0CC6.abvs
+StartChar: jhaknd_evowelknd.abvs
 Encoding: 65681 -1 240
 Width: 1547
 GlyphClass: 2
@@ -17897,7 +17897,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9E_U0CC6.abvs
+StartChar: nyaknd_evowelknd.abvs
 Encoding: 65682 -1 241
 Width: 1326
 GlyphClass: 2
@@ -18000,7 +18000,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CC6.abvs
+StartChar: ttaknd_evowelknd.abvs
 Encoding: 65683 -1 242
 Width: 822
 GlyphClass: 2
@@ -18096,7 +18096,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA0_U0CC6.abvs
+StartChar: tthaknd_evowelknd.abvs
 Encoding: 65684 -1 243
 Width: 646
 GlyphClass: 2
@@ -18154,7 +18154,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CC6.abvs
+StartChar: ddaknd_evowelknd.abvs
 Encoding: 65685 -1 244
 Width: 744
 GlyphClass: 2
@@ -18241,7 +18241,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA2_U0CC6.abvs
+StartChar: ddhaknd_evowelknd.abvs
 Encoding: 65686 -1 245
 Width: 744
 GlyphClass: 2
@@ -18334,7 +18334,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CC6.abvs
+StartChar: nnaknd_evowelknd.abvs
 Encoding: 65687 -1 246
 Width: 820
 GlyphClass: 2
@@ -18418,7 +18418,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CC6.abvs
+StartChar: taknd_evowelknd.abvs
 Encoding: 65688 -1 247
 Width: 567
 GlyphClass: 2
@@ -18491,7 +18491,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CC6.abvs
+StartChar: thaknd_evowelknd.abvs
 Encoding: 65689 -1 248
 Width: 732
 GlyphClass: 2
@@ -18566,7 +18566,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CC6.abvs
+StartChar: daknd_evowelknd.abvs
 Encoding: 65690 -1 249
 Width: 732
 GlyphClass: 2
@@ -18627,7 +18627,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CC6.abvs
+StartChar: dhaknd_evowelknd.abvs
 Encoding: 65691 -1 250
 Width: 732
 GlyphClass: 2
@@ -18696,7 +18696,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CC6.abvs
+StartChar: naknd_evowelknd.abvs
 Encoding: 65692 -1 251
 Width: 676
 GlyphClass: 2
@@ -18755,7 +18755,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CC6.abvs
+StartChar: paknd_evowelknd.abvs
 Encoding: 65693 -1 252
 Width: 694
 GlyphClass: 2
@@ -18828,7 +18828,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CC6.abvs
+StartChar: phaknd_evowelknd.abvs
 Encoding: 65694 -1 253
 Width: 694
 GlyphClass: 2
@@ -18909,7 +18909,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CC6.abvs
+StartChar: baknd_evowelknd.abvs
 Encoding: 65695 -1 254
 Width: 781
 GlyphClass: 2
@@ -18985,7 +18985,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CC6.abvs
+StartChar: bhaknd_evowelknd.abvs
 Encoding: 65696 -1 255
 Width: 783
 GlyphClass: 2
@@ -19069,7 +19069,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CC6.abvs
+StartChar: maknd_evowelknd.abvs
 Encoding: 65697 -1 256
 Width: 1154
 GlyphClass: 2
@@ -19148,7 +19148,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CC6.abvs
+StartChar: yaknd_evowelknd.abvs
 Encoding: 65698 -1 257
 Width: 1492
 GlyphClass: 2
@@ -19228,7 +19228,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CC6.abvs
+StartChar: raknd_evowelknd.abvs
 Encoding: 65699 -1 258
 Width: 645
 GlyphClass: 2
@@ -19280,7 +19280,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CC6.abvs
+StartChar: rraknd_evowelknd.abvs
 Encoding: 65700 -1 259
 Width: 745
 GlyphClass: 2
@@ -19375,7 +19375,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CC6.abvs
+StartChar: laknd_evowelknd.abvs
 Encoding: 65701 -1 260
 Width: 763
 GlyphClass: 2
@@ -19440,7 +19440,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CC6.abvs
+StartChar: llaknd_evowelknd.abvs
 Encoding: 65702 -1 261
 Width: 614
 GlyphClass: 2
@@ -19523,7 +19523,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CC6.abvs
+StartChar: vaknd_evowelknd.abvs
 Encoding: 65703 -1 262
 Width: 694
 GlyphClass: 2
@@ -19588,7 +19588,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CC6.abvs
+StartChar: shaknd_evowelknd.abvs
 Encoding: 65704 -1 263
 Width: 624
 GlyphClass: 2
@@ -19659,7 +19659,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB7_U0CC6.abvs
+StartChar: ssaknd_evowelknd.abvs
 Encoding: 65705 -1 264
 Width: 803
 GlyphClass: 2
@@ -19742,7 +19742,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CC6.abvs
+StartChar: saknd_evowelknd.abvs
 Encoding: 65706 -1 265
 Width: 572
 GlyphClass: 2
@@ -19807,7 +19807,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CC6.abvs
+StartChar: haknd_evowelknd.abvs
 Encoding: 65707 -1 266
 Width: 744
 GlyphClass: 2
@@ -19882,7 +19882,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CC6.akhn
+StartChar: kaknd_viramaknd_ssaknd_evowelknd.akhn
 Encoding: 65708 -1 267
 Width: 559
 GlyphClass: 2
@@ -19981,7 +19981,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CC6.akhn
+StartChar: jaknd_viramaknd_nyaknd_evowelknd.akhn
 Encoding: 65709 -1 268
 Width: 751
 GlyphClass: 2
@@ -20134,7 +20134,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CC6.akhn
+StartChar: daknd_viramaknd_daknd_evowelknd.akhn
 Encoding: 65710 -1 269
 Width: 732
 GlyphClass: 2
@@ -20224,7 +20224,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CC6.akhn
+StartChar: laknd_viramaknd_laknd_evowelknd.akhn
 Encoding: 65711 -1 270
 Width: 763
 GlyphClass: 2
@@ -20318,7 +20318,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CC7.abvs
+StartChar: kaknd_eevowelknd.abvs
 Encoding: 65712 -1 271
 Width: 985
 GlyphClass: 2
@@ -20406,7 +20406,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CC7.abvs
+StartChar: khaknd_eevowelknd.abvs
 Encoding: 65713 -1 272
 Width: 1282
 GlyphClass: 2
@@ -20517,7 +20517,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CC7.abvs
+StartChar: gaknd_eevowelknd.abvs
 Encoding: 65714 -1 273
 Width: 1110
 GlyphClass: 2
@@ -20592,7 +20592,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CC7.abvs
+StartChar: ghaknd_eevowelknd.abvs
 Encoding: 65715 -1 274
 Width: 1349
 GlyphClass: 2
@@ -20710,7 +20710,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CC7.abvs
+StartChar: ngaknd_eevowelknd.abvs
 Encoding: 65716 -1 275
 Width: 1609
 GlyphClass: 2
@@ -20836,7 +20836,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CC7.abvs
+StartChar: caknd_eevowelknd.abvs
 Encoding: 65717 -1 276
 Width: 1209
 GlyphClass: 2
@@ -20947,7 +20947,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CC7.abvs
+StartChar: chaknd_eevowelknd.abvs
 Encoding: 65718 -1 277
 Width: 1219
 GlyphClass: 2
@@ -21057,7 +21057,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CC7.abvs
+StartChar: jaknd_eevowelknd.abvs
 Encoding: 65719 -1 278
 Width: 1213
 GlyphClass: 2
@@ -21173,7 +21173,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CC7.abvs
+StartChar: jhaknd_eevowelknd.abvs
 Encoding: 65720 -1 279
 Width: 2019
 GlyphClass: 2
@@ -21290,7 +21290,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CC7.abvs
+StartChar: nyaknd_eevowelknd.abvs
 Encoding: 65721 -1 280
 Width: 1781
 GlyphClass: 2
@@ -21420,7 +21420,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CC7.abvs
+StartChar: ttaknd_eevowelknd.abvs
 Encoding: 65722 -1 281
 Width: 1294
 GlyphClass: 2
@@ -21542,7 +21542,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CC7.abvs
+StartChar: tthaknd_eevowelknd.abvs
 Encoding: 65723 -1 282
 Width: 1110
 GlyphClass: 2
@@ -21627,7 +21627,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CC7.abvs
+StartChar: ddaknd_eevowelknd.abvs
 Encoding: 65724 -1 283
 Width: 1213
 GlyphClass: 2
@@ -21739,7 +21739,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CC7.abvs
+StartChar: ddhaknd_eevowelknd.abvs
 Encoding: 65725 -1 284
 Width: 1213
 GlyphClass: 2
@@ -21859,7 +21859,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CC7.abvs
+StartChar: nnaknd_eevowelknd.abvs
 Encoding: 65726 -1 285
 Width: 1290
 GlyphClass: 2
@@ -21970,7 +21970,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CC7.abvs
+StartChar: taknd_eevowelknd.abvs
 Encoding: 65727 -1 286
 Width: 991
 GlyphClass: 2
@@ -22070,7 +22070,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CC7.abvs
+StartChar: thaknd_eevowelknd.abvs
 Encoding: 65728 -1 287
 Width: 1204
 GlyphClass: 2
@@ -22172,7 +22172,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CC7.abvs
+StartChar: daknd_eevowelknd.abvs
 Encoding: 65729 -1 288
 Width: 1204
 GlyphClass: 2
@@ -22260,7 +22260,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CC7.abvs
+StartChar: dhaknd_eevowelknd.abvs
 Encoding: 65730 -1 289
 Width: 1204
 GlyphClass: 2
@@ -22356,7 +22356,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CC7.abvs
+StartChar: naknd_eevowelknd.abvs
 Encoding: 65731 -1 290
 Width: 1118
 GlyphClass: 2
@@ -22442,7 +22442,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CC7.abvs
+StartChar: paknd_eevowelknd.abvs
 Encoding: 65732 -1 291
 Width: 1128
 GlyphClass: 2
@@ -22542,7 +22542,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CC7.abvs
+StartChar: phaknd_eevowelknd.abvs
 Encoding: 65733 -1 292
 Width: 1128
 GlyphClass: 2
@@ -22650,7 +22650,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CC7.abvs
+StartChar: baknd_eevowelknd.abvs
 Encoding: 65734 -1 293
 Width: 1234
 GlyphClass: 2
@@ -22753,7 +22753,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CC7.abvs
+StartChar: bhaknd_eevowelknd.abvs
 Encoding: 65735 -1 294
 Width: 1235
 GlyphClass: 2
@@ -22864,7 +22864,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CC7.abvs
+StartChar: maknd_eevowelknd.abvs
 Encoding: 65736 -1 295
 Width: 1622
 GlyphClass: 2
@@ -22970,7 +22970,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CC7.abvs
+StartChar: yaknd_eevowelknd.abvs
 Encoding: 65737 -1 296
 Width: 1967
 GlyphClass: 2
@@ -23077,7 +23077,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CC7.abvs
+StartChar: raknd_eevowelknd.abvs
 Encoding: 65738 -1 297
 Width: 1109
 GlyphClass: 2
@@ -23156,7 +23156,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CC7.abvs
+StartChar: rraknd_eevowelknd.abvs
 Encoding: 65739 -1 298
 Width: 1221
 GlyphClass: 2
@@ -23278,7 +23278,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CC7.abvs
+StartChar: laknd_eevowelknd.abvs
 Encoding: 65740 -1 299
 Width: 1225
 GlyphClass: 2
@@ -23370,7 +23370,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CC7.abvs
+StartChar: llaknd_eevowelknd.abvs
 Encoding: 65741 -1 300
 Width: 1045
 GlyphClass: 2
@@ -23480,7 +23480,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CC7.abvs
+StartChar: vaknd_eevowelknd.abvs
 Encoding: 65742 -1 301
 Width: 1128
 GlyphClass: 2
@@ -23572,7 +23572,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CC7.abvs
+StartChar: shaknd_eevowelknd.abvs
 Encoding: 65743 -1 302
 Width: 1066
 GlyphClass: 2
@@ -23669,7 +23669,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CC7.abvs
+StartChar: ssaknd_eevowelknd.abvs
 Encoding: 65744 -1 303
 Width: 1128
 GlyphClass: 2
@@ -23779,7 +23779,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CC7.abvs
+StartChar: saknd_eevowelknd.abvs
 Encoding: 65745 -1 304
 Width: 959
 GlyphClass: 2
@@ -23870,7 +23870,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CC7.abvs
+StartChar: haknd_eevowelknd.abvs
 Encoding: 65746 -1 305
 Width: 1188
 GlyphClass: 2
@@ -23972,7 +23972,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CC7.akhn
+StartChar: kaknd_viramaknd_ssaknd_eevowelknd.akhn
 Encoding: 65747 -1 306
 Width: 1032
 GlyphClass: 2
@@ -24098,7 +24098,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CC7.akhn
+StartChar: jaknd_viramaknd_nyaknd_eevowelknd.akhn
 Encoding: 65748 -1 307
 Width: 1226
 GlyphClass: 2
@@ -24279,7 +24279,7 @@ EndSplineSet
 LCarets2: 4 0 0 0 0 
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CC7.akhn
+StartChar: daknd_viramaknd_daknd_eevowelknd.akhn
 Encoding: 65749 -1 308
 Width: 1230
 GlyphClass: 2
@@ -24396,7 +24396,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CC7.akhn
+StartChar: laknd_viramaknd_laknd_eevowelknd.akhn
 Encoding: 65750 -1 309
 Width: 1265
 GlyphClass: 2
@@ -24517,7 +24517,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CC8.abvs
+StartChar: kaknd_aivowelknd.abvs
 Encoding: 65751 -1 310
 Width: 680
 GlyphClass: 2
@@ -24619,7 +24619,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CC8.abvs
+StartChar: khaknd_aivowelknd.abvs
 Encoding: 65752 -1 311
 Width: 1028
 GlyphClass: 2
@@ -24744,7 +24744,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CC8.abvs
+StartChar: gaknd_aivowelknd.abvs
 Encoding: 65753 -1 312
 Width: 844
 GlyphClass: 2
@@ -24833,7 +24833,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CC8.abvs
+StartChar: ghaknd_aivowelknd.abvs
 Encoding: 65754 -1 313
 Width: 998
 GlyphClass: 2
@@ -24965,7 +24965,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CC8.abvs
+StartChar: ngaknd_aivowelknd.abvs
 Encoding: 65755 -1 314
 Width: 1154
 GlyphClass: 2
@@ -25105,7 +25105,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CC8.abvs
+StartChar: caknd_aivowelknd.abvs
 Encoding: 65756 -1 315
 Width: 931
 GlyphClass: 2
@@ -25230,7 +25230,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CC8.abvs
+StartChar: chaknd_aivowelknd.abvs
 Encoding: 65757 -1 316
 Width: 946
 GlyphClass: 2
@@ -25354,7 +25354,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CC8.abvs
+StartChar: jaknd_aivowelknd.abvs
 Encoding: 65758 -1 317
 Width: 937
 GlyphClass: 2
@@ -25484,7 +25484,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CC8.abvs
+StartChar: jhaknd_aivowelknd.abvs
 Encoding: 65759 -1 318
 Width: 1711
 GlyphClass: 2
@@ -25615,7 +25615,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CC8.abvs
+StartChar: nyaknd_aivowelknd.abvs
 Encoding: 65760 -1 319
 Width: 1352
 GlyphClass: 2
@@ -25759,7 +25759,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CC8.abvs
+StartChar: ttaknd_aivowelknd.abvs
 Encoding: 65761 -1 320
 Width: 993
 GlyphClass: 2
@@ -25895,7 +25895,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CC8.abvs
+StartChar: tthaknd_aivowelknd.abvs
 Encoding: 65762 -1 321
 Width: 824
 GlyphClass: 2
@@ -25994,7 +25994,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CC8.abvs
+StartChar: ddaknd_aivowelknd.abvs
 Encoding: 65763 -1 322
 Width: 928
 GlyphClass: 2
@@ -26120,7 +26120,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CC8.abvs
+StartChar: ddhaknd_aivowelknd.abvs
 Encoding: 65764 -1 323
 Width: 928
 GlyphClass: 2
@@ -26254,7 +26254,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CC8.abvs
+StartChar: nnaknd_aivowelknd.abvs
 Encoding: 65765 -1 324
 Width: 1004
 GlyphClass: 2
@@ -26379,7 +26379,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CC8.abvs
+StartChar: taknd_aivowelknd.abvs
 Encoding: 65766 -1 325
 Width: 731
 GlyphClass: 2
@@ -26493,7 +26493,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CC8.abvs
+StartChar: thaknd_aivowelknd.abvs
 Encoding: 65767 -1 326
 Width: 918
 GlyphClass: 2
@@ -26609,7 +26609,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CC8.abvs
+StartChar: daknd_aivowelknd.abvs
 Encoding: 65768 -1 327
 Width: 918
 GlyphClass: 2
@@ -26711,7 +26711,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CC8.abvs
+StartChar: dhaknd_aivowelknd.abvs
 Encoding: 65769 -1 328
 Width: 918
 GlyphClass: 2
@@ -26821,7 +26821,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CC8.abvs
+StartChar: naknd_aivowelknd.abvs
 Encoding: 65770 -1 329
 Width: 865
 GlyphClass: 2
@@ -26921,7 +26921,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CC8.abvs
+StartChar: paknd_aivowelknd.abvs
 Encoding: 65771 -1 330
 Width: 881
 GlyphClass: 2
@@ -27035,7 +27035,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CC8.abvs
+StartChar: phaknd_aivowelknd.abvs
 Encoding: 65772 -1 331
 Width: 881
 GlyphClass: 2
@@ -27157,7 +27157,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CC8.abvs
+StartChar: baknd_aivowelknd.abvs
 Encoding: 65773 -1 332
 Width: 965
 GlyphClass: 2
@@ -27274,7 +27274,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CC8.abvs
+StartChar: bhaknd_aivowelknd.abvs
 Encoding: 65774 -1 333
 Width: 941
 GlyphClass: 2
@@ -27399,7 +27399,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CC8.abvs
+StartChar: maknd_aivowelknd.abvs
 Encoding: 65775 -1 334
 Width: 1316
 GlyphClass: 2
@@ -27519,7 +27519,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CC8.abvs
+StartChar: yaknd_aivowelknd.abvs
 Encoding: 65776 -1 335
 Width: 1647
 GlyphClass: 2
@@ -27640,7 +27640,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CC8.abvs
+StartChar: raknd_aivowelknd.abvs
 Encoding: 65777 -1 336
 Width: 783
 GlyphClass: 2
@@ -27733,7 +27733,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CC8.abvs
+StartChar: rraknd_aivowelknd.abvs
 Encoding: 65778 -1 337
 Width: 905
 GlyphClass: 2
@@ -27869,7 +27869,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CC8.abvs
+StartChar: laknd_aivowelknd.abvs
 Encoding: 65779 -1 338
 Width: 915
 GlyphClass: 2
@@ -27975,7 +27975,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CC8.abvs
+StartChar: llaknd_aivowelknd.abvs
 Encoding: 65780 -1 339
 Width: 668
 GlyphClass: 2
@@ -28099,7 +28099,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CC8.abvs
+StartChar: vaknd_aivowelknd.abvs
 Encoding: 65781 -1 340
 Width: 881
 GlyphClass: 2
@@ -28205,7 +28205,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CC8.abvs
+StartChar: shaknd_aivowelknd.abvs
 Encoding: 65782 -1 341
 Width: 793
 GlyphClass: 2
@@ -28316,7 +28316,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CC8.abvs
+StartChar: ssaknd_aivowelknd.abvs
 Encoding: 65783 -1 342
 Width: 965
 GlyphClass: 2
@@ -28440,7 +28440,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CC8.abvs
+StartChar: saknd_aivowelknd.abvs
 Encoding: 65784 -1 343
 Width: 751
 GlyphClass: 2
@@ -28545,7 +28545,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CC8.abvs
+StartChar: haknd_aivowelknd.abvs
 Encoding: 65785 -1 344
 Width: 928
 GlyphClass: 2
@@ -28661,7 +28661,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CC8.akhn
+StartChar: kaknd_viramaknd_ssaknd_aivowelknd.akhn
 Encoding: 65786 -1 345
 Width: 1097
 GlyphClass: 2
@@ -28802,7 +28802,7 @@ EndSplineSet
 LCarets2: 4 0 0 0 0 
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CC8.akhn
+StartChar: jaknd_viramaknd_nyaknd_aivowelknd.akhn
 Encoding: 65787 -1 346
 Width: 1180
 GlyphClass: 2
@@ -28998,7 +28998,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CC8.akhn
+StartChar: daknd_viramaknd_daknd_aivowelknd.akhn
 Encoding: 65788 -1 347
 Width: 1139
 GlyphClass: 2
@@ -29129,7 +29129,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CC8.akhn
+StartChar: laknd_viramaknd_laknd_aivowelknd.akhn
 Encoding: 65789 -1 348
 Width: 1161
 GlyphClass: 2
@@ -29264,7 +29264,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CC7.pstf
+StartChar: kaknd_eevowelknd.pstf
 Encoding: 65790 -1 349
 Width: 1323
 GlyphClass: 2
@@ -29360,7 +29360,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CC7.pstf
+StartChar: khaknd_eevowelknd.pstf
 Encoding: 65791 -1 350
 Width: 1633
 GlyphClass: 2
@@ -29480,7 +29480,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CCA.pstf
+StartChar: ghaknd_ovowelknd.pstf
 Encoding: 65792 -1 351
 Width: 1661
 GlyphClass: 2
@@ -29608,7 +29608,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CCA.pstf
+StartChar: ngaknd_ovowelknd.pstf
 Encoding: 65793 -1 352
 Width: 1811
 GlyphClass: 2
@@ -29744,7 +29744,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CCA.pstf
+StartChar: caknd_ovowelknd.pstf
 Encoding: 65794 -1 353
 Width: 1573
 GlyphClass: 2
@@ -29862,7 +29862,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CCA.pstf
+StartChar: chaknd_ovowelknd.pstf
 Encoding: 65795 -1 354
 Width: 1538
 GlyphClass: 2
@@ -29981,7 +29981,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCA.pstf
+StartChar: jaknd_ovowelknd.pstf
 Encoding: 65796 -1 355
 Width: 1551
 GlyphClass: 2
@@ -30105,7 +30105,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CCA.psts
+StartChar: jhaknd_ovowelknd.psts
 Encoding: 65797 -1 356
 Width: 1885
 GlyphClass: 2
@@ -30216,7 +30216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CCA.pstf
+StartChar: nyaknd_ovowelknd.pstf
 Encoding: 65798 -1 357
 Width: 1944
 GlyphClass: 2
@@ -30356,7 +30356,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CCA.pstf
+StartChar: ttaknd_ovowelknd.pstf
 Encoding: 65799 -1 358
 Width: 1632
 GlyphClass: 2
@@ -30486,7 +30486,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CCA.pstf
+StartChar: tthaknd_ovowelknd.pstf
 Encoding: 65800 -1 359
 Width: 1442
 GlyphClass: 2
@@ -30580,7 +30580,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CCA.pstf
+StartChar: ddaknd_ovowelknd.pstf
 Encoding: 65801 -1 360
 Width: 1551
 GlyphClass: 2
@@ -30699,7 +30699,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CCA.pstf
+StartChar: ddhaknd_ovowelknd.pstf
 Encoding: 65802 -1 361
 Width: 1551
 GlyphClass: 2
@@ -30826,7 +30826,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CCA.pstf
+StartChar: nnaknd_ovowelknd.pstf
 Encoding: 65803 -1 362
 Width: 1628
 GlyphClass: 2
@@ -30945,7 +30945,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCA.pstf
+StartChar: taknd_ovowelknd.pstf
 Encoding: 65804 -1 363
 Width: 1374
 GlyphClass: 2
@@ -31052,7 +31052,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CCA.pstf
+StartChar: thaknd_ovowelknd.pstf
 Encoding: 65805 -1 364
 Width: 1548
 GlyphClass: 2
@@ -31162,7 +31162,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCA.pstf
+StartChar: daknd_ovowelknd.pstf
 Encoding: 65806 -1 365
 Width: 1548
 GlyphClass: 2
@@ -31258,7 +31258,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CCA.pstf
+StartChar: dhaknd_ovowelknd.pstf
 Encoding: 65807 -1 366
 Width: 1548
 GlyphClass: 2
@@ -31362,7 +31362,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CCA.pstf
+StartChar: naknd_ovowelknd.pstf
 Encoding: 65808 -1 367
 Width: 1489
 GlyphClass: 2
@@ -31456,7 +31456,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CCA.pstf
+StartChar: baknd_ovowelknd.pstf
 Encoding: 65809 -1 368
 Width: 1427
 GlyphClass: 2
@@ -31570,7 +31570,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CC3.abvs_U0CC0.psts
+StartChar: phaknd_rvocalicvowelknd.abvs_U0CC0.psts
 Encoding: 65810 -1 369
 Width: 1421
 GlyphClass: 2
@@ -31801,7 +31801,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CCA.pstf
+StartChar: bhaknd_ovowelknd.pstf
 Encoding: 65812 -1 371
 Width: 1586
 GlyphClass: 2
@@ -31921,7 +31921,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CCA.akhn
+StartChar: maknd_ovowelknd.akhn
 Encoding: 65813 -1 372
 Width: 1512
 GlyphClass: 2
@@ -32021,7 +32021,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CCA.akhn
+StartChar: yaknd_ovowelknd.akhn
 Encoding: 65814 -1 373
 Width: 1824
 GlyphClass: 2
@@ -32123,7 +32123,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCA.pstf
+StartChar: raknd_ovowelknd.pstf
 Encoding: 65815 -1 374
 Width: 1466
 GlyphClass: 2
@@ -32210,7 +32210,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CCA.pstf
+StartChar: rraknd_ovowelknd.pstf
 Encoding: 65816 -1 375
 Width: 1552
 GlyphClass: 2
@@ -32341,7 +32341,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCA.pstf
+StartChar: laknd_ovowelknd.pstf
 Encoding: 65817 -1 376
 Width: 1563
 GlyphClass: 2
@@ -32442,7 +32442,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CCA.pstf
+StartChar: llaknd_ovowelknd.pstf
 Encoding: 65818 -1 377
 Width: 1429
 GlyphClass: 2
@@ -32562,7 +32562,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CCA.pstf
+StartChar: shaknd_ovowelknd.pstf
 Encoding: 65819 -1 378
 Width: 1421
 GlyphClass: 2
@@ -32774,7 +32774,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CCA.pstf
+StartChar: ssaknd_ovowelknd.pstf
 Encoding: 65821 -1 380
 Width: 1583
 GlyphClass: 2
@@ -32894,7 +32894,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCA.pstf
+StartChar: saknd_ovowelknd.pstf
 Encoding: 65822 -1 381
 Width: 1369
 GlyphClass: 2
@@ -32992,7 +32992,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CCA.pstf
+StartChar: haknd_ovowelknd.pstf
 Encoding: 65823 -1 382
 Width: 1559
 GlyphClass: 2
@@ -33101,7 +33101,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CCA.akhn
+StartChar: kaknd_viramaknd_ssaknd_ovowelknd.akhn
 Encoding: 65824 -1 383
 Width: 1344
 GlyphClass: 2
@@ -33234,7 +33234,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CCA.akhn
+StartChar: jaknd_viramaknd_nyaknd_ovowelknd.akhn
 Encoding: 65825 -1 384
 Width: 1564
 GlyphClass: 2
@@ -33421,7 +33421,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CCA.akhn
+StartChar: daknd_viramaknd_daknd_ovowelknd.akhn
 Encoding: 65826 -1 385
 Width: 1548
 GlyphClass: 2
@@ -33547,7 +33547,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CCA.akhn
+StartChar: laknd_viramaknd_laknd_ovowelknd.akhn
 Encoding: 65827 -1 386
 Width: 1557
 GlyphClass: 2
@@ -33677,7 +33677,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCB.pstf
+StartChar: kaknd_oovowelknd.pstf
 Encoding: 65828 -1 387
 Width: 1791
 GlyphClass: 2
@@ -33800,7 +33800,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CCB.pstf
+StartChar: khaknd_oovowelknd.pstf
 Encoding: 65829 -1 388
 Width: 2101
 GlyphClass: 2
@@ -33947,7 +33947,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CCB.pstf
+StartChar: gaknd_oovowelknd.pstf
 Encoding: 65830 -1 389
 Width: 1916
 GlyphClass: 2
@@ -34057,7 +34057,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CCB.pstf
+StartChar: ghaknd_oovowelknd.pstf
 Encoding: 65831 -1 390
 Width: 2142
 GlyphClass: 2
@@ -34212,7 +34212,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CCB.pstf
+StartChar: ngaknd_oovowelknd.pstf
 Encoding: 65832 -1 391
 Width: 2272
 GlyphClass: 2
@@ -34375,7 +34375,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CCB.pstf
+StartChar: caknd_oovowelknd.pstf
 Encoding: 65833 -1 392
 Width: 2054
 GlyphClass: 2
@@ -34520,7 +34520,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CCB.pstf
+StartChar: chaknd_oovowelknd.pstf
 Encoding: 65834 -1 393
 Width: 2012
 GlyphClass: 2
@@ -34666,7 +34666,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCB.pstf
+StartChar: jaknd_oovowelknd.pstf
 Encoding: 65835 -1 394
 Width: 2032
 GlyphClass: 2
@@ -34817,7 +34817,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CCB.pstf
+StartChar: jhaknd_oovowelknd.pstf
 Encoding: 65836 -1 395
 Width: 2357
 GlyphClass: 2
@@ -34955,7 +34955,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CCB.pstf
+StartChar: nyaknd_oovowelknd.pstf
 Encoding: 65837 -1 396
 Width: 2418
 GlyphClass: 2
@@ -35122,7 +35122,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CCB.pstf
+StartChar: ttaknd_oovowelknd.pstf
 Encoding: 65838 -1 397
 Width: 2100
 GlyphClass: 2
@@ -35279,7 +35279,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CCB.pstf
+StartChar: tthaknd_oovowelknd.pstf
 Encoding: 65839 -1 398
 Width: 1929
 GlyphClass: 2
@@ -35400,7 +35400,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CCB.pstf
+StartChar: ddaknd_oovowelknd.pstf
 Encoding: 65840 -1 399
 Width: 2032
 GlyphClass: 2
@@ -35546,7 +35546,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CCB.pstf
+StartChar: ddhaknd_oovowelknd.pstf
 Encoding: 65841 -1 400
 Width: 2032
 GlyphClass: 2
@@ -35700,7 +35700,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CCB.pstf
+StartChar: nnaknd_oovowelknd.pstf
 Encoding: 65842 -1 401
 Width: 2096
 GlyphClass: 2
@@ -35846,7 +35846,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCB.pstf
+StartChar: taknd_oovowelknd.pstf
 Encoding: 65843 -1 402
 Width: 1849
 GlyphClass: 2
@@ -35980,7 +35980,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CCB.pstf
+StartChar: thaknd_oovowelknd.pstf
 Encoding: 65844 -1 403
 Width: 2010
 GlyphClass: 2
@@ -36117,7 +36117,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCB.pstf
+StartChar: daknd_oovowelknd.pstf
 Encoding: 65845 -1 404
 Width: 2010
 GlyphClass: 2
@@ -36240,7 +36240,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CCB.pstf
+StartChar: dhaknd_oovowelknd.pstf
 Encoding: 65846 -1 405
 Width: 2010
 GlyphClass: 2
@@ -36371,7 +36371,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CCB.pstf
+StartChar: naknd_oovowelknd.pstf
 Encoding: 65847 -1 406
 Width: 1963
 GlyphClass: 2
@@ -36492,7 +36492,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CCB.pstf
+StartChar: paknd_oovowelknd.pstf
 Encoding: 65848 -1 407
 Width: 1895
 GlyphClass: 2
@@ -36633,7 +36633,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CCB.pstf
+StartChar: phaknd_oovowelknd.pstf
 Encoding: 65849 -1 408
 Width: 1895
 GlyphClass: 2
@@ -36779,7 +36779,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CCB.pstf
+StartChar: baknd_oovowelknd.pstf
 Encoding: 65850 -1 409
 Width: 2066
 GlyphClass: 2
@@ -36918,7 +36918,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CCB.pstf
+StartChar: bhaknd_oovowelknd.pstf
 Encoding: 65851 -1 410
 Width: 2067
 GlyphClass: 2
@@ -37065,7 +37065,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CCB.pstf
+StartChar: maknd_oovowelknd.pstf
 Encoding: 65852 -1 411
 Width: 1986
 GlyphClass: 2
@@ -37192,7 +37192,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CCB.akhn
+StartChar: yaknd_oovowelknd.akhn
 Encoding: 65853 -1 412
 Width: 2318
 GlyphClass: 2
@@ -37321,7 +37321,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCB.pstf
+StartChar: raknd_oovowelknd.pstf
 Encoding: 65854 -1 413
 Width: 1951
 GlyphClass: 2
@@ -37435,7 +37435,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CCB.pstf
+StartChar: rraknd_oovowelknd.pstf
 Encoding: 65855 -1 414
 Width: 2027
 GlyphClass: 2
@@ -37593,7 +37593,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCB.pstf
+StartChar: laknd_oovowelknd.pstf
 Encoding: 65856 -1 415
 Width: 2031
 GlyphClass: 2
@@ -37721,7 +37721,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CCB.pstf
+StartChar: llaknd_oovowelknd.pstf
 Encoding: 65857 -1 416
 Width: 1903
 GlyphClass: 2
@@ -37868,7 +37868,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CCB.akhn
+StartChar: vaknd_oovowelknd.akhn
 Encoding: 65858 -1 417
 Width: 1895
 GlyphClass: 2
@@ -38001,7 +38001,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CCB.pstf
+StartChar: shaknd_oovowelknd.pstf
 Encoding: 65859 -1 418
 Width: 1911
 GlyphClass: 2
@@ -38133,7 +38133,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CCB.pstf
+StartChar: ssaknd_oovowelknd.pstf
 Encoding: 65860 -1 419
 Width: 2064
 GlyphClass: 2
@@ -38280,7 +38280,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCB.pstf
+StartChar: saknd_oovowelknd.pstf
 Encoding: 65861 -1 420
 Width: 1843
 GlyphClass: 2
@@ -38405,7 +38405,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CCB.pstf
+StartChar: haknd_oovowelknd.pstf
 Encoding: 65862 -1 421
 Width: 2033
 GlyphClass: 2
@@ -38541,7 +38541,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CCB.akhn
+StartChar: kaknd_viramaknd_ssaknd_oovowelknd.akhn
 Encoding: 65863 -1 422
 Width: 1808
 GlyphClass: 2
@@ -38701,7 +38701,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CCB.akhn
+StartChar: jaknd_viramaknd_nyaknd_oovowelknd.akhn
 Encoding: 65864 -1 423
 Width: 2041
 GlyphClass: 2
@@ -38915,7 +38915,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CCB.akhn
+StartChar: daknd_viramaknd_daknd_oovowelknd.akhn
 Encoding: 65865 -1 424
 Width: 2051
 GlyphClass: 2
@@ -39067,7 +39067,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CCB.akhn
+StartChar: laknd_viramaknd_laknd_oovowelknd.akhn
 Encoding: 65866 -1 425
 Width: 2009
 GlyphClass: 2
@@ -39224,7 +39224,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCC.abvs
+StartChar: kaknd_auvowelknd.abvs
 Encoding: 65867 -1 426
 Width: 1057
 GlyphClass: 2
@@ -39303,7 +39303,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C96_U0CCC.abvs
+StartChar: khaknd_auvowelknd.abvs
 Encoding: 65868 -1 427
 Width: 1347
 GlyphClass: 2
@@ -39404,7 +39404,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CCC.abvs
+StartChar: gaknd_auvowelknd.abvs
 Encoding: 65869 -1 428
 Width: 1123
 GlyphClass: 2
@@ -39469,7 +39469,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CCC.abvs
+StartChar: ghaknd_auvowelknd.abvs
 Encoding: 65870 -1 429
 Width: 1447
 GlyphClass: 2
@@ -39577,7 +39577,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CCC.abvs
+StartChar: ngaknd_auvowelknd.abvs
 Encoding: 65871 -1 430
 Width: 1671
 GlyphClass: 2
@@ -39692,7 +39692,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CCC.abvs
+StartChar: caknd_auvowelknd.abvs
 Encoding: 65872 -1 431
 Width: 1274
 GlyphClass: 2
@@ -39793,7 +39793,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CCC.abvs
+StartChar: chaknd_auvowelknd.abvs
 Encoding: 65873 -1 432
 Width: 1245
 GlyphClass: 2
@@ -39893,7 +39893,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCC.abvs
+StartChar: jaknd_auvowelknd.abvs
 Encoding: 65874 -1 433
 Width: 1265
 GlyphClass: 2
@@ -39999,7 +39999,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CCC.abvs
+StartChar: jhaknd_auvowelknd.abvs
 Encoding: 65875 -1 434
 Width: 2018
 GlyphClass: 2
@@ -40117,7 +40117,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CCC.abvs
+StartChar: nyaknd_auvowelknd.abvs
 Encoding: 65876 -1 435
 Width: 1875
 GlyphClass: 2
@@ -40236,7 +40236,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CCC.abvs
+StartChar: ttaknd_auvowelknd.abvs
 Encoding: 65877 -1 436
 Width: 1320
 GlyphClass: 2
@@ -40348,7 +40348,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CCC.abvs
+StartChar: tthaknd_auvowelknd.abvs
 Encoding: 65878 -1 437
 Width: 1149
 GlyphClass: 2
@@ -40423,7 +40423,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CCC.abvs
+StartChar: ddaknd_auvowelknd.abvs
 Encoding: 65879 -1 438
 Width: 1245
 GlyphClass: 2
@@ -40525,7 +40525,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CCC.abvs
+StartChar: ddhaknd_auvowelknd.abvs
 Encoding: 65880 -1 439
 Width: 1258
 GlyphClass: 2
@@ -40635,7 +40635,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CCC.abvs
+StartChar: nnaknd_auvowelknd.abvs
 Encoding: 65881 -1 440
 Width: 1322
 GlyphClass: 2
@@ -40735,7 +40735,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCC.abvs
+StartChar: taknd_auvowelknd.abvs
 Encoding: 65882 -1 441
 Width: 1069
 GlyphClass: 2
@@ -40825,7 +40825,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CCC.abvs
+StartChar: thaknd_auvowelknd.abvs
 Encoding: 65883 -1 442
 Width: 1230
 GlyphClass: 2
@@ -40917,7 +40917,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCC.abvs
+StartChar: daknd_auvowelknd.abvs
 Encoding: 65884 -1 443
 Width: 1230
 GlyphClass: 2
@@ -40995,7 +40995,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CCC.abvs
+StartChar: dhaknd_auvowelknd.abvs
 Encoding: 65885 -1 444
 Width: 1230
 GlyphClass: 2
@@ -41081,7 +41081,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CCC.abvs
+StartChar: naknd_auvowelknd.abvs
 Encoding: 65886 -1 445
 Width: 1157
 GlyphClass: 2
@@ -41157,7 +41157,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CCC.abvs
+StartChar: paknd_auvowelknd.abvs
 Encoding: 65887 -1 446
 Width: 1193
 GlyphClass: 2
@@ -41246,7 +41246,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CCC.abvs
+StartChar: phaknd_auvowelknd.abvs
 Encoding: 65888 -1 447
 Width: 1193
 GlyphClass: 2
@@ -41343,7 +41343,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CCC.abvs
+StartChar: baknd_auvowelknd.abvs
 Encoding: 65889 -1 448
 Width: 1286
 GlyphClass: 2
@@ -41436,7 +41436,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CCC.abvs
+StartChar: bhaknd_auvowelknd.abvs
 Encoding: 65890 -1 449
 Width: 1287
 GlyphClass: 2
@@ -41537,7 +41537,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CCC.abvs
+StartChar: maknd_auvowelknd.abvs
 Encoding: 65891 -1 450
 Width: 1664
 GlyphClass: 2
@@ -41644,7 +41644,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CCC.abvs
+StartChar: yaknd_auvowelknd.abvs
 Encoding: 65892 -1 451
 Width: 2022
 GlyphClass: 2
@@ -41752,7 +41752,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCC.abvs
+StartChar: raknd_auvowelknd.abvs
 Encoding: 65893 -1 452
 Width: 1148
 GlyphClass: 2
@@ -41821,7 +41821,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CCC.abvs
+StartChar: rraknd_auvowelknd.abvs
 Encoding: 65894 -1 453
 Width: 1299
 GlyphClass: 2
@@ -41933,7 +41933,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCC.abvs
+StartChar: laknd_auvowelknd.abvs
 Encoding: 65895 -1 454
 Width: 1264
 GlyphClass: 2
@@ -42015,7 +42015,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CCC.abvs
+StartChar: llaknd_auvowelknd.abvs
 Encoding: 65896 -1 455
 Width: 1169
 GlyphClass: 2
@@ -42114,7 +42114,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CCC.abvs
+StartChar: vaknd_auvowelknd.abvs
 Encoding: 65897 -1 456
 Width: 1193
 GlyphClass: 2
@@ -42195,7 +42195,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CCC.abvs
+StartChar: shaknd_auvowelknd.abvs
 Encoding: 65898 -1 457
 Width: 1125
 GlyphClass: 2
@@ -42282,7 +42282,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CCC.abvs
+StartChar: ssaknd_auvowelknd.abvs
 Encoding: 65899 -1 458
 Width: 1193
 GlyphClass: 2
@@ -42381,7 +42381,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCC.abvs
+StartChar: saknd_auvowelknd.abvs
 Encoding: 65900 -1 459
 Width: 1044
 GlyphClass: 2
@@ -42461,7 +42461,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CCC.abvs
+StartChar: haknd_auvowelknd.abvs
 Encoding: 65901 -1 460
 Width: 1240
 GlyphClass: 2
@@ -42552,7 +42552,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCA_U0CB7_U0CCB.akhn
+StartChar: kaknd_ovowelknd_ssaknd_oovowelknd.akhn
 Encoding: 65902 -1 461
 Width: 1058
 GlyphClass: 2
@@ -42667,7 +42667,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CCC.akhn
+StartChar: jaknd_viramaknd_nyaknd_auvowelknd.akhn
 Encoding: 65903 -1 462
 Width: 1258
 GlyphClass: 2
@@ -42837,7 +42837,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCA_U0CA6_U0CCB.akhn
+StartChar: daknd_ovowelknd_daknd_oovowelknd.akhn
 Encoding: 65904 -1 463
 Width: 1230
 GlyphClass: 2
@@ -42944,7 +42944,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCA_U0CB2_U0CCB.akhn
+StartChar: laknd_ovowelknd_laknd_oovowelknd.akhn
 Encoding: 65905 -1 464
 Width: 1264
 GlyphClass: 2
@@ -43055,7 +43055,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD.haln
+StartChar: kaknd_viramaknd.haln
 Encoding: 65906 -1 465
 Width: 849
 GlyphClass: 2
@@ -43126,7 +43126,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C96_U0CCD.haln
+StartChar: khaknd_viramaknd.haln
 Encoding: 65907 -1 466
 Width: 1139
 GlyphClass: 2
@@ -43220,7 +43220,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C97_U0CCD.haln
+StartChar: gaknd_viramaknd.haln
 Encoding: 65908 -1 467
 Width: 915
 GlyphClass: 2
@@ -43278,7 +43278,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C98_U0CCD.haln
+StartChar: ghaknd_viramaknd.haln
 Encoding: 65909 -1 468
 Width: 1245
 GlyphClass: 2
@@ -43379,7 +43379,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C99_U0CCD.haln
+StartChar: ngaknd_viramaknd.haln
 Encoding: 65910 -1 469
 Width: 1495
 GlyphClass: 2
@@ -43486,7 +43486,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CCD.haln
+StartChar: caknd_viramaknd.haln
 Encoding: 65911 -1 470
 Width: 1066
 GlyphClass: 2
@@ -43580,7 +43580,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CCD.haln
+StartChar: chaknd_viramaknd.haln
 Encoding: 65912 -1 471
 Width: 1044
 GlyphClass: 2
@@ -43673,7 +43673,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD.haln
+StartChar: jaknd_viramaknd.haln
 Encoding: 65913 -1 472
 Width: 1057
 GlyphClass: 2
@@ -43772,7 +43772,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CCD.haln
+StartChar: jhaknd_viramaknd.haln
 Encoding: 65914 -1 473
 Width: 1862
 GlyphClass: 2
@@ -43885,7 +43885,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9E_U0CCD.haln
+StartChar: nyaknd_viramaknd.haln
 Encoding: 65915 -1 474
 Width: 1673
 GlyphClass: 2
@@ -43996,7 +43996,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9F_U0CCD.haln
+StartChar: ttaknd_viramaknd.haln
 Encoding: 65916 -1 475
 Width: 1118
 GlyphClass: 2
@@ -44101,7 +44101,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CCD.haln
+StartChar: tthaknd_viramaknd.haln
 Encoding: 65917 -1 476
 Width: 954
 GlyphClass: 2
@@ -44169,7 +44169,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CCD.haln
+StartChar: ddaknd_viramaknd.haln
 Encoding: 65918 -1 477
 Width: 1057
 GlyphClass: 2
@@ -44264,7 +44264,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CCD.haln
+StartChar: ddhaknd_viramaknd.haln
 Encoding: 65919 -1 478
 Width: 1057
 GlyphClass: 2
@@ -44367,7 +44367,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA3_U0CCD.haln
+StartChar: nnaknd_viramaknd.haln
 Encoding: 65920 -1 479
 Width: 1114
 GlyphClass: 2
@@ -44460,7 +44460,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCD.haln
+StartChar: taknd_viramaknd.haln
 Encoding: 65921 -1 480
 Width: 861
 GlyphClass: 2
@@ -44543,7 +44543,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA5_U0CCD.haln
+StartChar: thaknd_viramaknd.haln
 Encoding: 65922 -1 481
 Width: 1028
 GlyphClass: 2
@@ -44628,7 +44628,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD.haln
+StartChar: daknd_viramaknd.haln
 Encoding: 65923 -1 482
 Width: 1028
 GlyphClass: 2
@@ -44699,7 +44699,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA7_U0CCD.haln
+StartChar: dhaknd_viramaknd.haln
 Encoding: 65924 -1 483
 Width: 1028
 GlyphClass: 2
@@ -44778,7 +44778,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA8_U0CCD.haln
+StartChar: naknd_viramaknd.haln
 Encoding: 65925 -1 484
 Width: 956
 GlyphClass: 2
@@ -44847,7 +44847,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CCD.haln
+StartChar: paknd_viramaknd.haln
 Encoding: 65926 -1 485
 Width: 992
 GlyphClass: 2
@@ -44929,7 +44929,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CCD.haln
+StartChar: phaknd_viramaknd.haln
 Encoding: 65927 -1 486
 Width: 992
 GlyphClass: 2
@@ -45019,7 +45019,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CCD.haln
+StartChar: baknd_viramaknd.haln
 Encoding: 65928 -1 487
 Width: 1091
 GlyphClass: 2
@@ -45105,7 +45105,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CCD.haln
+StartChar: bhaknd_viramaknd.haln
 Encoding: 65929 -1 488
 Width: 1086
 GlyphClass: 2
@@ -45199,7 +45199,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CCD.haln
+StartChar: maknd_viramaknd.haln
 Encoding: 65930 -1 489
 Width: 1476
 GlyphClass: 2
@@ -45300,7 +45300,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CCD.haln
+StartChar: yaknd_viramaknd.haln
 Encoding: 65931 -1 490
 Width: 1768
 GlyphClass: 2
@@ -45402,7 +45402,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCD.haln
+StartChar: raknd_viramaknd.haln
 Encoding: 65932 -1 491
 Width: 946
 GlyphClass: 2
@@ -45464,7 +45464,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CCD.haln
+StartChar: rraknd_viramaknd.haln
 Encoding: 65933 -1 492
 Width: 1104
 GlyphClass: 2
@@ -45569,7 +45569,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD.haln
+StartChar: laknd_viramaknd.haln
 Encoding: 65934 -1 493
 Width: 1069
 GlyphClass: 2
@@ -45644,7 +45644,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CCD.haln
+StartChar: llaknd_viramaknd.haln
 Encoding: 65935 -1 494
 Width: 948
 GlyphClass: 2
@@ -45736,7 +45736,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CCD.haln
+StartChar: vaknd_viramaknd.haln
 Encoding: 65936 -1 495
 Width: 992
 GlyphClass: 2
@@ -45810,7 +45810,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CCD.haln
+StartChar: shaknd_viramaknd.haln
 Encoding: 65937 -1 496
 Width: 917
 GlyphClass: 2
@@ -45890,7 +45890,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB7_U0CCD.haln
+StartChar: ssaknd_viramaknd.haln
 Encoding: 65938 -1 497
 Width: 985
 GlyphClass: 2
@@ -45982,7 +45982,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCD.haln
+StartChar: saknd_viramaknd.haln
 Encoding: 65939 -1 498
 Width: 836
 GlyphClass: 2
@@ -46055,7 +46055,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CCD.haln
+StartChar: haknd_viramaknd.haln
 Encoding: 65940 -1 499
 Width: 1039
 GlyphClass: 2
@@ -46139,7 +46139,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB7_U0CCD.akhn
+StartChar: kaknd_viramaknd_ssaknd_viramaknd.akhn
 Encoding: 65941 -1 500
 Width: 907
 GlyphClass: 2
@@ -46247,7 +46247,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCD_U0C9E_U0CCD.akhn
+StartChar: jaknd_viramaknd_nyaknd_viramaknd.akhn
 Encoding: 65942 -1 501
 Width: 1050
 GlyphClass: 2
@@ -46410,7 +46410,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA6_U0CCD_U0CA6_U0CCD.akhn
+StartChar: daknd_viramaknd_daknd_viramaknd.akhn
 Encoding: 65943 -1 502
 Width: 1022
 GlyphClass: 2
@@ -46510,7 +46510,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCD_U0CB2_U0CCD.akhn
+StartChar: laknd_viramaknd_laknd_viramaknd.akhn
 Encoding: 65944 -1 503
 Width: 1056
 GlyphClass: 2
@@ -46614,7 +46614,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCB.blwf
+StartChar: kaknd_oovowelknd.blwf
 Encoding: 65945 -1 504
 Width: 107
 GlyphClass: 2
@@ -46661,7 +46661,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C96_U0CCB.blwf
+StartChar: khaknd_oovowelknd.blwf
 Encoding: 65946 -1 505
 Width: 29
 GlyphClass: 2
@@ -46725,7 +46725,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C97_U0CCB.blwf
+StartChar: gaknd_oovowelknd.blwf
 Encoding: 65947 -1 506
 Width: 0
 GlyphClass: 2
@@ -46753,7 +46753,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C98_U0CCB.blwf
+StartChar: ghaknd_oovowelknd.blwf
 Encoding: 65948 -1 507
 Width: 91
 GlyphClass: 2
@@ -46817,7 +46817,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C99_U0CCB.blwf
+StartChar: ngaknd_oovowelknd.blwf
 Encoding: 65949 -1 508
 Width: 33
 GlyphClass: 2
@@ -46893,7 +46893,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9A_U0CCB.blwf
+StartChar: caknd_oovowelknd.blwf
 Encoding: 65950 -1 509
 Width: 29
 GlyphClass: 2
@@ -46964,7 +46964,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9B_U0CCB.blwf
+StartChar: chaknd_oovowelknd.blwf
 Encoding: 65951 -1 510
 Width: 26
 GlyphClass: 2
@@ -47026,7 +47026,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9C_U0CCB.blwf
+StartChar: jaknd_oovowelknd.blwf
 Encoding: 65952 -1 511
 Width: 33
 GlyphClass: 2
@@ -47095,7 +47095,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9D_U0CCB.blwf
+StartChar: jhaknd_oovowelknd.blwf
 Encoding: 65953 -1 512
 Width: 163
 GlyphClass: 2
@@ -47158,7 +47158,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C9E_U0CCB.blwf
+StartChar: nyaknd_oovowelknd.blwf
 Encoding: 65954 -1 513
 Width: 98
 GlyphClass: 2
@@ -47233,7 +47233,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9F_U0CCB.blwf
+StartChar: ttaknd_oovowelknd.blwf
 Encoding: 65955 -1 514
 Width: 20
 GlyphClass: 2
@@ -47298,7 +47298,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA0_U0CCB.blwf
+StartChar: tthaknd_oovowelknd.blwf
 Encoding: 65956 -1 515
 Width: 0
 GlyphClass: 2
@@ -47335,7 +47335,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA1_U0CCB.blwf
+StartChar: ddaknd_oovowelknd.blwf
 Encoding: 65957 -1 516
 Width: 26
 GlyphClass: 2
@@ -47399,7 +47399,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA2_U0CCB.blwf
+StartChar: ddhaknd_oovowelknd.blwf
 Encoding: 65958 -1 517
 Width: 26
 GlyphClass: 2
@@ -47471,7 +47471,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA3_U0CCB.blwf
+StartChar: nnaknd_oovowelknd.blwf
 Encoding: 65959 -1 518
 Width: 23
 GlyphClass: 2
@@ -47537,7 +47537,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA4_U0CCB.blwf
+StartChar: taknd_oovowelknd.blwf
 Encoding: 65960 -1 519
 Width: 26
 GlyphClass: 2
@@ -47572,7 +47572,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA5_U0CCB.blwf
+StartChar: thaknd_oovowelknd.blwf
 Encoding: 65961 -1 520
 Width: 26
 GlyphClass: 2
@@ -47627,7 +47627,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA6_U0CCB.blwf
+StartChar: daknd_oovowelknd.blwf
 Encoding: 65962 -1 521
 Width: 26
 GlyphClass: 2
@@ -47668,7 +47668,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA7_U0CCB.blwf
+StartChar: dhaknd_oovowelknd.blwf
 Encoding: 65963 -1 522
 Width: 26
 GlyphClass: 2
@@ -47717,7 +47717,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA8_U0CCB.blwf
+StartChar: naknd_oovowelknd.blwf
 Encoding: 65964 -1 523
 Width: 20
 GlyphClass: 2
@@ -47769,7 +47769,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAA_U0CCB.blwf
+StartChar: paknd_oovowelknd.blwf
 Encoding: 65965 -1 524
 Width: 26
 GlyphClass: 2
@@ -47813,7 +47813,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CCB.blwf
+StartChar: phaknd_oovowelknd.blwf
 Encoding: 65966 -1 525
 Width: 26
 GlyphClass: 2
@@ -47865,7 +47865,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAC_U0CCB.blwf
+StartChar: baknd_oovowelknd.blwf
 Encoding: 65967 -1 526
 Width: 42
 GlyphClass: 2
@@ -47921,7 +47921,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAD_U0CCB.blwf
+StartChar: bhaknd_oovowelknd.blwf
 Encoding: 65968 -1 527
 Width: 42
 GlyphClass: 2
@@ -47985,7 +47985,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAE_U0CCB.blwf
+StartChar: maknd_oovowelknd.blwf
 Encoding: 65969 -1 528
 Width: 46
 GlyphClass: 2
@@ -48033,7 +48033,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAF_U0CCB.blwf
+StartChar: yaknd_oovowelknd.blwf
 Encoding: 65970 -1 529
 Width: 228
 GlyphClass: 2
@@ -48088,7 +48088,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCB.blwf
+StartChar: raknd_oovowelknd.blwf
 Encoding: 65971 -1 530
 Width: 131
 GlyphClass: 2
@@ -48111,7 +48111,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB1_U0CCB.blwf
+StartChar: rraknd_oovowelknd.blwf
 Encoding: 65972 -1 531
 Width: 0
 GlyphClass: 2
@@ -48183,7 +48183,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CCB.blwf
+StartChar: laknd_oovowelknd.blwf
 Encoding: 65973 -1 532
 Width: 39
 GlyphClass: 2
@@ -48223,7 +48223,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB3_U0CCB.blwf
+StartChar: llaknd_oovowelknd.blwf
 Encoding: 65974 -1 533
 Width: 192
 GlyphClass: 2
@@ -48286,7 +48286,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB5_U0CCB.blwf
+StartChar: vaknd_oovowelknd.blwf
 Encoding: 65975 -1 534
 Width: 26
 GlyphClass: 2
@@ -48337,7 +48337,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CCB.blwf
+StartChar: shaknd_oovowelknd.blwf
 Encoding: 65976 -1 535
 Width: 142
 GlyphClass: 2
@@ -48392,7 +48392,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB7_U0CCB.blwf
+StartChar: ssaknd_oovowelknd.blwf
 Encoding: 65977 -1 536
 Width: 85
 GlyphClass: 2
@@ -48441,7 +48441,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCB.blwf
+StartChar: saknd_oovowelknd.blwf
 Encoding: 65978 -1 537
 Width: 26
 GlyphClass: 2
@@ -48477,7 +48477,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB9_U0CCB.blwf
+StartChar: haknd_oovowelknd.blwf
 Encoding: 65979 -1 538
 Width: 65
 GlyphClass: 2
@@ -48527,7 +48527,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAA_U0CC1.psts
+StartChar: paknd_uvowelknd.psts
 Encoding: 65980 -1 539
 Width: 953
 GlyphClass: 2
@@ -48609,7 +48609,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAA_U0CC2.psts
+StartChar: paknd_uuvowelknd.psts
 Encoding: 65981 -1 540
 Width: 1421
 GlyphClass: 2
@@ -48714,7 +48714,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CCA.psts
+StartChar: paknd_ovowelknd.psts
 Encoding: 65982 -1 541
 Width: 1421
 GlyphClass: 2
@@ -48828,7 +48828,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CCB.psts
+StartChar: paknd_oovowelknd.psts
 Encoding: 65983 -1 542
 Width: 1905
 GlyphClass: 2
@@ -48969,7 +48969,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CC1.psts
+StartChar: phaknd_uvowelknd.psts
 Encoding: 65984 -1 543
 Width: 959
 GlyphClass: 2
@@ -49054,7 +49054,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CC2.psts
+StartChar: phaknd_uuvowelknd.psts
 Encoding: 65985 -1 544
 Width: 1427
 GlyphClass: 2
@@ -49164,7 +49164,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CCA.psts
+StartChar: phaknd_ovowelknd.psts
 Encoding: 65986 -1 545
 Width: 1421
 GlyphClass: 2
@@ -49284,7 +49284,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAB_U0CCB.psts
+StartChar: phaknd_oovowelknd.psts
 Encoding: 65987 -1 546
 Width: 1898
 GlyphClass: 2
@@ -49431,7 +49431,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CC1.psts
+StartChar: vaknd_uvowelknd.psts
 Encoding: 65988 -1 547
 Width: 953
 GlyphClass: 2
@@ -49503,7 +49503,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CC2.psts
+StartChar: vaknd_uuvowelknd.psts
 Encoding: 65989 -1 548
 Width: 1427
 GlyphClass: 2
@@ -49600,7 +49600,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CCA.psts
+StartChar: vaknd_ovowelknd.psts
 Encoding: 65990 -1 549
 Width: 1427
 GlyphClass: 2
@@ -49706,7 +49706,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB5_U0CCB.psts
+StartChar: vaknd_oovowelknd.psts
 Encoding: 65991 -1 550
 Width: 1924
 GlyphClass: 2
@@ -49839,7 +49839,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB6_U0CBD.abvs_U0CB0_U0CCB.blwf.blws
+StartChar: shaknd_avagrahaknd.abvs_U0CB0_U0CCB.blwf.blws
 Encoding: 65992 -1 551
 Width: 1128
 GlyphClass: 2
@@ -49927,7 +49927,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCB.blwf_U0CCD.blws
+StartChar: raknd_oovowelknd.blwf_U0CCD.blws
 Encoding: 65993 -1 552
 Width: 351
 GlyphClass: 2
@@ -49988,7 +49988,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CAA_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
+StartChar: paknd_oovowelknd.blwf_U0CB0_U0CCB.blwf.blws
 Encoding: 65994 -1 553
 Width: 137
 GlyphClass: 2
@@ -50044,7 +50044,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
+StartChar: taknd_oovowelknd.blwf_U0CB0_U0CCB.blwf.blws
 Encoding: 65995 -1 554
 Width: 137
 GlyphClass: 2
@@ -50090,7 +50090,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
+StartChar: saknd_oovowelknd.blwf_U0CB0_U0CCB.blwf.blws
 Encoding: 65996 -1 555
 Width: 137
 GlyphClass: 2
@@ -50137,7 +50137,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCB.blwf_U0CCD.blws
+StartChar: taknd_oovowelknd.blwf_U0CCD.blws
 Encoding: 65997 -1 556
 Width: 468
 GlyphClass: 2
@@ -50192,7 +50192,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCB.blwf_U0CAF_U0CCB.blwf.blws
+StartChar: taknd_oovowelknd.blwf_U0CAF_U0CCB.blwf.blws
 Encoding: 65998 -1 557
 Width: 163
 GlyphClass: 2
@@ -50251,7 +50251,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA4_U0CCB.blwf_U0CC1.blws
+StartChar: taknd_oovowelknd.blwf_U0CC1.blws
 Encoding: 65999 -1 558
 Width: 346
 GlyphClass: 2
@@ -50298,7 +50298,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
+StartChar: kaknd_oovowelknd.blwf_U0CB0_U0CCB.blwf.blws
 Encoding: 66000 -1 559
 Width: 182
 GlyphClass: 2
@@ -50356,7 +50356,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCB.blwf_U0CC1.blws
+StartChar: kaknd_oovowelknd.blwf_U0CC1.blws
 Encoding: 66001 -1 560
 Width: 425
 GlyphClass: 2
@@ -50429,7 +50429,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9A_U0CCB.blwf_U0CCD.blws
+StartChar: caknd_oovowelknd.blwf_U0CCD.blws
 Encoding: 66002 -1 561
 Width: 556
 GlyphClass: 2
@@ -50523,7 +50523,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9F_U0CCB.blwf_U0CB0_U0CCB.blwf.blws
+StartChar: ttaknd_oovowelknd.blwf_U0CB0_U0CCB.blwf.blws
 Encoding: 66003 -1 562
 Width: 137
 GlyphClass: 2
@@ -50597,7 +50597,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB0_U0CCD.rphf
+StartChar: raknd_viramaknd.rphf
 Encoding: 66004 -1 563
 Width: 640
 GlyphClass: 2
@@ -50633,7 +50633,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD.blwf
+StartChar: kaknd_viramaknd.blwf
 Encoding: 66005 -1 564
 Width: 0
 GlyphClass: 3
@@ -50680,7 +50680,7 @@ Kerns2: 75 480 "'kern' Horizontal Kerning lookup 4-1"
 LCarets2: 1 -1 
 EndChar
 
-StartChar: U0C96_U0CCD.blwf
+StartChar: khaknd_viramaknd.blwf
 Encoding: 66006 -1 565
 Width: 0
 GlyphClass: 3
@@ -50745,7 +50745,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0C97_U0CCD.blwf
+StartChar: gaknd_viramaknd.blwf
 Encoding: 66007 -1 566
 Width: 0
 GlyphClass: 3
@@ -50775,7 +50775,7 @@ Kerns2: 24 -219 "'kern' Horizontal Kerning in Kannada lookup 1"
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C98_U0CCD.blwf
+StartChar: ghaknd_viramaknd.blwf
 Encoding: 66008 -1 567
 Width: 0
 GlyphClass: 3
@@ -50840,7 +50840,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0C99_U0CCD.blwf
+StartChar: ngaknd_viramaknd.blwf
 Encoding: 66009 -1 568
 Width: 0
 GlyphClass: 3
@@ -50917,7 +50917,7 @@ EndSplineSet
 LCarets2: 1 -1 
 EndChar
 
-StartChar: U0C9A_0CCD.blwf
+StartChar: caknd_0CCD.blwf
 Encoding: 66010 -1 569
 Width: 0
 GlyphClass: 4
@@ -50988,7 +50988,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C9B_U0CCD.blwf
+StartChar: chaknd_viramaknd.blwf
 Encoding: 66011 -1 570
 Width: 0
 GlyphClass: 3
@@ -51052,7 +51052,7 @@ EndSplineSet
 LCarets2: 1 1 
 EndChar
 
-StartChar: U0C9C_U0CCD.blwf
+StartChar: jaknd_viramaknd.blwf
 Encoding: 66012 -1 571
 Width: 0
 GlyphClass: 3
@@ -51123,7 +51123,7 @@ EndSplineSet
 LCarets2: 1 5 
 EndChar
 
-StartChar: U0C9D_U0CCD.blwf
+StartChar: jhaknd_viramaknd.blwf
 Encoding: 66013 -1 572
 Width: 0
 GlyphClass: 3
@@ -51187,7 +51187,7 @@ EndSplineSet
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0C9E_U0CCD.blwf
+StartChar: nyaknd_viramaknd.blwf
 Encoding: 66014 -1 573
 Width: 0
 GlyphClass: 3
@@ -51264,7 +51264,7 @@ EndSplineSet
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0C9F_U0CCD.blwf
+StartChar: ttaknd_viramaknd.blwf
 Encoding: 66015 -1 574
 Width: 0
 GlyphClass: 3
@@ -51331,7 +51331,7 @@ EndSplineSet
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0CA0_U0CCD.blwf
+StartChar: tthaknd_viramaknd.blwf
 Encoding: 66016 -1 575
 Width: 0
 GlyphClass: 3
@@ -51370,7 +51370,7 @@ EndSplineSet
 LCarets2: 1 1 
 EndChar
 
-StartChar: U0CA1_U0CCD.blwf
+StartChar: ddaknd_viramaknd.blwf
 Encoding: 66017 -1 576
 Width: 0
 GlyphClass: 4
@@ -51434,7 +51434,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CA2_U0CCD.blwf
+StartChar: ddhaknd_viramaknd.blwf
 Encoding: 66018 -1 577
 Width: 0
 GlyphClass: 3
@@ -51507,7 +51507,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0CA3_U0CCD.blwf
+StartChar: nnaknd_viramaknd.blwf
 Encoding: 66019 -1 578
 Width: 0
 GlyphClass: 3
@@ -51574,7 +51574,7 @@ EndSplineSet
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0CA4_U0CCD.blwf
+StartChar: taknd_viramaknd.blwf
 Encoding: 66020 -1 579
 Width: 0
 GlyphClass: 3
@@ -51610,7 +51610,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CA5_U0CCD.blwf
+StartChar: thaknd_viramaknd.blwf
 Encoding: 66021 -1 580
 Width: 0
 GlyphClass: 3
@@ -51666,7 +51666,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0CA6_U0CCD.blwf
+StartChar: daknd_viramaknd.blwf
 Encoding: 66022 -1 581
 Width: 0
 GlyphClass: 3
@@ -51708,7 +51708,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0CA7_U0CCD.blwf
+StartChar: dhaknd_viramaknd.blwf
 Encoding: 66023 -1 582
 Width: 0
 GlyphClass: 3
@@ -51758,7 +51758,7 @@ EndSplineSet
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0CA8_U0CCD.blwf
+StartChar: naknd_viramaknd.blwf
 Encoding: 66024 -1 583
 Width: 0
 GlyphClass: 3
@@ -51811,7 +51811,7 @@ EndSplineSet
 LCarets2: 1 -1 
 EndChar
 
-StartChar: U0CAA_U0CCD.blwf
+StartChar: paknd_viramaknd.blwf
 Encoding: 66025 -1 584
 Width: 0
 GlyphClass: 3
@@ -51857,7 +51857,7 @@ EndSplineSet
 LCarets2: 1 -1 
 EndChar
 
-StartChar: U0CAB_U0CCD.blwf
+StartChar: phaknd_viramaknd.blwf
 Encoding: 66026 -1 585
 Width: 0
 GlyphClass: 3
@@ -51911,7 +51911,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAC_U0CCD.blwf
+StartChar: baknd_viramaknd.blwf
 Encoding: 66027 -1 586
 Width: 0
 GlyphClass: 4
@@ -51969,7 +51969,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAD_U0CCD.blwf
+StartChar: bhaknd_viramaknd.blwf
 Encoding: 66028 -1 587
 Width: 0
 GlyphClass: 3
@@ -52035,7 +52035,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0CAE_U0CCD.blwf
+StartChar: maknd_viramaknd.blwf
 Encoding: 66029 -1 588
 Width: 0
 GlyphClass: 3
@@ -52085,7 +52085,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CAF_U0CCD.blwf
+StartChar: yaknd_viramaknd.blwf
 Encoding: 66030 -1 589
 Width: 0
 GlyphClass: 3
@@ -52142,7 +52142,7 @@ EndSplineSet
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0CB0_U0CCD.blwf
+StartChar: raknd_viramaknd.blwf
 Encoding: 66031 -1 590
 Width: 64
 GlyphClass: 3
@@ -52167,7 +52167,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB1_U0CCD.blwf
+StartChar: rraknd_viramaknd.blwf
 Encoding: 66032 -1 591
 Width: 0
 GlyphClass: 3
@@ -52241,7 +52241,7 @@ EndSplineSet
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0CB2_U0CCD.blwf
+StartChar: laknd_viramaknd.blwf
 Encoding: 66033 -1 592
 Width: 0
 GlyphClass: 3
@@ -52283,7 +52283,7 @@ EndSplineSet
 LCarets2: 1 -1 
 EndChar
 
-StartChar: U0CB3_U0CCD.blwf
+StartChar: llaknd_viramaknd.blwf
 Encoding: 66034 -1 593
 Width: 0
 GlyphClass: 3
@@ -52345,7 +52345,7 @@ Kerns2: 99 220 "'kern' Horizontal Kerning lookup 4-1"  98 220 "'kern' Horizontal
 LCarets2: 1 -2 
 EndChar
 
-StartChar: U0CB5_U0CCD.blwf
+StartChar: vaknd_viramaknd.blwf
 Encoding: 66035 -1 594
 Width: 0
 GlyphClass: 3
@@ -52398,7 +52398,7 @@ Kerns2: 99 300 "'kern' Horizontal Kerning lookup 4-1"  98 300 "'kern' Horizontal
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB6_U0CCD.blwf
+StartChar: shaknd_viramaknd.blwf
 Encoding: 66036 -1 595
 Width: 0
 GlyphClass: 3
@@ -52453,7 +52453,7 @@ Kerns2: 99 160 "'kern' Horizontal Kerning lookup 4-1"  98 160 "'kern' Horizontal
 LCarets2: 1 2 
 EndChar
 
-StartChar: U0CB7_U0CCD.blwf
+StartChar: ssaknd_viramaknd.blwf
 Encoding: 66037 -1 596
 Width: 0
 GlyphClass: 4
@@ -52502,7 +52502,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB8_U0CCD.blwf
+StartChar: saknd_viramaknd.blwf
 Encoding: 66038 -1 597
 Width: 0
 GlyphClass: 3
@@ -52539,7 +52539,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0CB9_U0CCD.blwf
+StartChar: haknd_viramaknd.blwf
 Encoding: 66039 -1 598
 Width: 0
 GlyphClass: 3
@@ -52662,7 +52662,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB8_U0CCD.akhn
+StartChar: kaknd_viramaknd_saknd_viramaknd.akhn
 Encoding: 66043 -1 602
 Width: 907
 GlyphClass: 3
@@ -52756,7 +52756,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CC6_U0CB2_U0CCd_U0CD6.a
+StartChar: kaknd_evowelknd_laknd_U0CCd_ailengthmarkknd.a
 Encoding: 66044 -1 603
 Width: 977
 GlyphClass: 2
@@ -52887,7 +52887,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0CB2_U0CBF_U0CB2_U0CCD.akhn
+StartChar: laknd_ivowelknd_laknd_viramaknd.akhn
 Encoding: 66045 -1 604
 Width: 783
 GlyphClass: 3
@@ -52977,7 +52977,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C95_U0CCD_U0CB8.akhn
+StartChar: kaknd_viramaknd_saknd.akhn
 Encoding: 66046 -1 605
 Width: 1402
 GlyphClass: 3
@@ -54382,7 +54382,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20B9
+StartChar: inr_currency
 Encoding: 8377 8377 650
 Width: 631
 VWidth: 0

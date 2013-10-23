@@ -1,3 +1,4 @@
+
 # Test File For Lohit Devanagari
 # One can also test Lohit Devanagari from http://utrrs-testing.rhcloud.com/language/hi/gsub
 # Created by Sneha Kore <skore AT redhat DOT com> - 2013
@@ -248,4 +249,7 @@ Glyph Testing
 र्य
 
 ऱ्य
-
+त्त
+त्क
+त्त्क
+वर्गकिमी
