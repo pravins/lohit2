@@ -1,0 +1,690 @@
+
+# GSUB 
+
+
+lookup akhnAkhandinGujaratilookup1 {
+  lookupflag 0;
+    sub \shagujarati \viramagujarati \ragujarati  by \shagujarati_viramagujarati_ragujarati;
+    sub \tagujarati \viramagujarati \tagujarati  by \tagujarati_viramagujarati_tagujarati;
+    sub \kagujarati \viramagujarati \ssagujarati  by \kagujarati_viramagujarati_ssagujarati;
+    sub \jagujarati \viramagujarati \nyagujarati  by \jagujarati_viramagujarati_nyagujarati;
+} akhnAkhandinGujaratilookup1;
+
+lookup rphfRephForminGujaratilookup2 {
+  lookupflag 0;
+    sub \ragujarati \viramagujarati  by \rphfgujarati;
+} rphfRephForminGujaratilookup2;
+
+lookup rkrfRakarFormsinGujaratilookup5 {
+  lookupflag 0;
+    sub \kagujarati \viramagujarati \ragujarati  by \kagujarati_viramagujarati_ragujarati;
+    sub \khagujarati \viramagujarati \ragujarati  by \khagujarati_viramagujarati_ragujarati;
+    sub \gagujarati \viramagujarati \ragujarati  by \gagujarati_viramagujarati_ragujarati;
+    sub \ghagujarati \viramagujarati \ragujarati  by \ghagujarati_viramagujarati_ragujarati;
+    sub \cagujarati \viramagujarati \ragujarati  by \cagujarati_viramagujarati_ragujarati;
+    sub \jagujarati \viramagujarati \ragujarati  by \jagujarati_viramagujarati_ragujarati;
+    sub \jhagujarati \viramagujarati \ragujarati  by \jhagujarati_viramagujarati_ragujarati;
+    sub \nyagujarati \viramagujarati \ragujarati  by \nyagujarati_viramagujarati_ragujarati;
+    sub \nnagujarati \viramagujarati \ragujarati  by \nnagujarati_viramagujarati_ragujarati;
+    sub \tagujarati \viramagujarati \ragujarati  by \tagujarati_viramagujarati_ragujarati;
+    sub \thagujarati \viramagujarati \ragujarati  by \thagujarati_viramagujarati_ragujarati;
+    sub \dagujarati \viramagujarati \ragujarati  by \dagujarati_viramagujarati_ragujarati;
+    sub \dhagujarati \viramagujarati \ragujarati  by \dhagujarati_viramagujarati_ragujarati;
+    sub \nagujarati \viramagujarati \ragujarati  by \nagujarati_viramagujarati_ragujarati;
+    sub \pagujarati \viramagujarati \ragujarati  by \pagujarati_viramagujarati_ragujarati;
+    sub \phagujarati \viramagujarati \ragujarati  by \phagujarati_viramagujarati_ragujarati;
+    sub \bagujarati \viramagujarati \ragujarati  by \bagujarati_viramagujarati_ragujarati;
+    sub \bhagujarati \viramagujarati \ragujarati  by \bhagujarati_viramagujarati_ragujarati;
+    sub \magujarati \viramagujarati \ragujarati  by \magujarati_viramagujarati_ragujarati;
+    sub \yagujarati \viramagujarati \ragujarati  by \yagujarati_viramagujarati_ragujarati;
+    sub \lagujarati \viramagujarati \ragujarati  by \lagujarati_viramagujarati_ragujarati;
+    sub \llagujarati \viramagujarati \ragujarati  by \llagujarati_viramagujarati_ragujarati;
+    sub \vagujarati \viramagujarati \ragujarati  by \vagujarati_viramagujarati_ragujarati;
+    sub \shagujarati \viramagujaratiragujarati  by \shagujarati_viramagujarati_ragujarati;
+    sub \ssagujarati \viramagujarati \ragujarati  by \ssagujarati_viramagujarati_ragujarati;
+    sub \sagujarati \viramagujarati \ragujarati  by \sagujarati_viramagujarati_ragujarati;
+    sub \hagujarati \viramagujarati \ragujarati  by \hagujarati_viramdeva_ragujarati;
+} rkrfRakarFormsinGujaratilookup5;
+
+lookup blwfBelowBaseFormsinGujaratiloo {
+  lookupflag 0;
+    sub \viramagujarati \ragujarati  by \viramagujarati_ragujarati;
+} blwfBelowBaseFormsinGujaratiloo;
+
+lookup halfHalfFormsinGujaratilookup4 {
+  lookupflag 0;
+    sub \kagujarati \viramagujarati  by \kagujarati_viramagujarati;
+    sub \khagujarati \viramagujarati  by \khagujarati_viramagujarati;
+    sub \gagujarati \viramagujarati  by \gagujarati_viramagujarati;
+    sub \ghagujarati \viramagujarati  by \ghagujarati_viramagujarati;
+    sub \ngagujarati \viramagujarati  by \ngagujarati_viramagujarati;
+    sub \cagujarati \viramagujarati  by \cagujarati_viramagujarati;
+    sub \chagujarati \viramagujarati  by \chagujarati_viramagujarati;
+    sub \jagujarati \viramagujarati  by \jagujarati_viramagujarati;
+    sub \jhagujarati \viramagujarati  by \jhagujarati_viramagujarati;
+    sub \nyagujarati \viramagujarati  by \nyagujarati_viramagujarati;
+    sub \ttagujarati \viramagujarati  by \ttagujarati_viramagujarati;
+    sub \tthagujarati \viramagujarati  by \tthagujarati_viramagujarati;
+    sub \ddagujarati \viramagujarati  by \ddagujarati_viramagujarati;
+    sub \ddhagujarati \viramagujarati  by \ddhagujarati_viramagujarati;
+    sub \nnagujarati \viramagujarati  by \nnagujarati_viramagujarati;
+    sub \tagujarati \viramagujarati  by \tagujarati_viramagujarati;
+    sub \thagujarati \viramagujarati  by \thagujarati_viramagujarati;
+    sub \dagujarati \viramagujarati  by \dagujarati_viramagujarati;
+    sub \dhagujarati \viramagujarati  by \dhagujarati_viramagujarati;
+    sub \nagujarati \viramagujarati  by \nagujarati_viramagujarati;
+    sub \pagujarati \viramagujarati  by \pagujarati_viramagujarati;
+    sub \phagujarati \viramagujarati  by \phagujarati_viramagujarati;
+    sub \bagujarati \viramagujarati  by \bagujarati_viramagujarati;
+    sub \bhagujarati \viramagujarati  by \bhagujarati_viramagujarati;
+    sub \magujarati \viramagujarati  by \magujarati_viramagujarati;
+    sub \yagujarati \viramagujarati  by \yagujarati_viramagujarati;
+    sub \lagujarati \viramagujarati  by \lagujarati_viramagujarati;
+    sub \llagujarati \viramagujarati  by \llagujarati_viramagujarati;
+    sub \vagujarati \viramagujarati  by \vagujarati_viramagujarati;
+    sub \shagujarati \viramagujarati  by \shagujarati_viramagujarati;
+    sub \ssagujarati \viramagujarati  by \ssagujarati_viramagujarati;
+    sub \sagujarati \viramagujarati  by \sagujarati_viramagujarati;
+    sub \hagujarati \viramagujarati  by \hagujarati_viramagujarati;
+    sub \kagujarati_viramagujarati_ssagujarati \viramagujarati  by \ka_virama_ssa_viramagujarati;
+    sub \jagujarati_viramagujarati_nyagujarati \viramagujarati  by \ja_virama_nya_viramagujarati;
+    sub \tagujarati_viramagujarati_ragujarati \viramagujarati  by \ta_virama_ra_viramagujarati;
+    sub \tagujarati_viramagujarati_tagujarati \viramagujarati  by \ta_virama_ta_viramagujarati;
+} halfHalfFormsinGujaratilookup4;
+
+lookup cjctConjunctFormsinGujaratilook {
+  lookupflag 0;
+    sub \kagujarati_viramagujarati \kagujarati  by \kagujarati_viramagujarati_kagujarati;
+    sub \gagujarati_viramagujarati \nagujarati  by \gagujarati_viramagujarati_nagujarati;
+    sub \ngagujarati_viramagujarati \kagujarati  by \ngagujarati_viramagujarati_kagujarati;
+    sub \ngagujarati_viramagujarati \khagujarati  by \ngagujarati_viramagujarati_khagujarati;
+    sub \ngagujarati_viramagujarati \gagujarati  by \ngagujarati_viramagujarati_gagujarati;
+    sub \ngagujarati_viramagujarati \ghagujarati  by \ngagujarati_viramagujarati_ghagujarati;
+    sub \ngagujarati_viramagujarati \magujarati  by \ngagujarati_viramagujarati_magujarati;
+    sub \ngagujarati_viramagujarati \kagujarati_viramagujarati_ssagujarati  by \nga_virama_ka_virama_ssagujarati;
+    sub \jagujarati_viramagujarati \jagujarati  by \jagujarati_viramagujarati_jagujarati;
+    sub \nyagujarati_viramagujarati \cagujarati  by \nyagujarati_viramagujarati_cagujarati;
+    sub \nyagujarati_viramagujarati \jagujarati  by \nyagujarati_viramagujarati_jagujarati;
+    sub \ttagujarati_viramagujarati \ttagujarati  by \ttagujarati_viramagujarati_ttagujarati;
+    sub \ttagujarati_viramagujarati \yagujarati  by \ttagujarati_viramagujarati_yagujarati;
+    sub \ttagujarati_viramagujarati \vagujarati  by \ttagujarati_viramagujarati_vagujarati;
+    sub \tthagujarati_viramagujarati \tthagujarati  by \tthagujarati_viramagujarati_tthagujarati;
+    sub \tthagujarati_viramagujarati \yagujarati  by \tthagujarati_viramagujarati_yagujarati;
+    sub \ddagujarati_viramagujarati \ddagujarati  by \ddagujarati_viramagujarati_ddagujarati;
+    sub \ddagujarati_viramagujarati \yagujarati  by \ddagujarati_viramagujarati_yagujarati;
+    sub \ddagujarati_viramagujarati \ddhagujarati  by \ddagujarati_viramagujarati_ddhagujarati;
+    sub \ddhagujarati_viramagujarati \ddhagujarati  by \ddhagujarati_viramagujarati_ddhagujarati;
+    sub \ddhagujarati_viramagujarati \yagujarati  by \ddhagujarati_viramagujarati_yagujarati;
+    sub \dagujarati_viramagujarati \yagujarati  by \dagujarati_viramagujarati_yagujarati;
+    sub \dagujarati_viramagujarati \gagujarati  by \da_virama_gagujarati_pri_a;
+    sub \dagujarati_viramagujarati \vagujarati  by \dagujarati_viramagujarati_vagujarati_pri_a;
+    sub \dagujarati_viramagujarati \dagujarati  by \dagujarati_viramagujarati_dagujarati_pri_a;
+    sub \dagujarati_viramagujarati \dhagujarati  by \dagujarati_viramagujarati_dhagujarati_pri_a;
+    sub \dagujarati_viramagujarati \jagujarati  by \dagujarati_viramagujarati_jagujarati_pri_a;
+    sub \dagujarati_viramagujarati \magujarati  by \dagujarati_viramagujarati_magujarati_pri_a;
+    sub \dagujarati_viramagujarati \nagujarati  by \dagujarati_viramagujarati_nagujarati_pri_a;
+    sub \nagujarati_viramagujarati \nagujarati  by \nagujarati_viramagujarati_nagujarati;
+    sub \pagujarati_viramagujarati \tagujarati  by \pagujarati_viramagujarati_tagujarati;
+    sub \lagujarati_viramagujarati \lagujarati  by \lagujarati_viramagujarati_lagujarati;
+    sub \shagujarati_viramagujarati \vagujarati  by \shagujarati_viramagujarati_vagujarati_pri_a;
+    sub \shagujarati_viramagujarati \nagujarati  by \shagujarati_viramagujarati_nagujarati_pri_a;
+    sub \shagujarati_viramagujarati \cagujarati  by \shagujarati_viramagujarati_cagujarati;
+    sub \shagujarati_viramagujarati \lagujarati  by \shagujarati_viramagujarati_lagujarati;
+    sub \ssagujarati_viramagujarati \ttagujarati  by \ssagujarati_viramagujarati_ttagujarati;
+    sub \ssagujarati_viramagujarati \tthagujarati  by \ssagujarati_viramagujarati_tthagujarati;
+    sub \sagujarati_viramagujarati \nyagujarati  by \sagujarati_viramagujarati_nyagujarati;
+    sub \hagujarati_viramagujarati \magujarati  by \hagujarati_viramagujarati_magujarati;
+    sub \hagujarati_viramagujarati \yagujarati  by \hagujarati_viramagujarati_yagujarati;
+    sub \hagujarati_viramagujarati \nagujarati  by \hagujarati_viramagujarati_nagujarati;
+    sub \hagujarati_viramagujarati \nnagujarati  by \hagujarati_viramagujarati_nnagujarati;
+    sub \hagujarati_viramagujarati \lagujarati  by \hagujarati_viramagujarati_lagujarati;
+    sub \hagujarati_viramagujarati \vagujarati  by \hagujarati_viramagujarati_vagujarati;
+    sub \llagujarati_viramagujarati \yagujarati  by \llagujarati_viramagujarati_yagujarati;
+    sub \chagujarati_viramagujarati \vagujarati  by \chagujarati_viramagujarati_vagujarati;
+    sub \chagujarati_viramagujarati \yagujarati  by \chagujarati_viramagujarati_yagujarati;
+} cjctConjunctFormsinGujaratilook;
+
+lookup vatuVattuVariantsinGujaratilook {
+  lookupflag 0;
+    sub \tagujarati_viramagujarati_ragujarati \viramagujarati  by \ta_virama_ra_viramagujarati;
+    sub \tagujarati_viramagujarati_tagujarati \viramagujarati  by \ta_virama_ta_viramagujarati;
+} vatuVattuVariantsinGujaratilook;
+
+lookup abvsAboveBaseSubstitutionsinGuj {
+  lookupflag 0;
+    sub \evowelsigngujarati \anusvaragujarati  by \evowelsigngujarati_anusvaragujarati;
+    sub \evowelsigngujarati \rphfgujarati  by \evowelsigngujarati_rphfgujarati;
+    sub \evowelsigngujarati \rphfgujarati \anusvaragujarati  by \evowelsigngujarati_rphfgujarati_anusvara;
+    sub \aivowelsigngujarati \anusvaragujarati  by \aivowelsigngujarati_anusvaragujarati;
+    sub \aivowelsigngujarati \rphfgujarati  by \aivowelsigngujarati_rphfgujarati;
+    sub \aivowelsigngujarati \rphfgujarati \anusvaragujarati  by \aivowelsigngujarati_rphfgujarati_anusvara;
+    sub \ecandravowelsigngujarati \anusvaragujarati  by \ecandravowelsigngujarati_anusvara;
+    sub \rphfgujarati \anusvaragujarati  by \rphfgujarati_anusvaragujarati;
+} abvsAboveBaseSubstitutionsinGuj;
+
+lookup blwsBelowBaseSubstitutionsinGuj {
+  lookupflag 0;
+    sub \ragujarati \uvowelsigngujarati  by \ragujarati_uvowelsigngujarati_alt;
+    sub \ragujarati \uuvowelsigngujarati  by \ragujarati_uuvowelsigngujarati_alt;
+    sub \hagujarati \rvocalicvowelsigngujarati  by \hagujarati_rvocalicvowelsigngujarati;
+    sub \ragujarati \uuvowelsigngujarati  by \ragujarati_uuvowelsigngujarati;
+    sub \dagujarati \rvocalicvowelsigngujarati  by \da_rvocalicvowelsigngujarati;
+    sub \viramagujarati_ragujarati \uvowelsigngujarati  by \ragujarati_viramagujarati_ugujarati;
+    sub \viramagujarati_ragujarati \uuvowelsigngujarati  by \ragujarati_viramagujarati_uugujarati;
+    sub \nnagujarati \uvowelsigngujarati  by \nnagujarati_uvowelsigngujarati;
+} blwsBelowBaseSubstitutionsinGuj;
+
+lookup pstsPostBaseSubstitutionsinGuja {
+  lookupflag 0;
+    sub \iivowelsigngujarati \anusvaragujarati  by \iivowelsigngujarati_anusvaragujarati;
+    sub \iivowelsigngujarati \rphfgujarati  by \iivowelsigngujarati_rphfgujarati;
+    sub \iivowelsigngujarati \rphfgujarati_anusvaragujarati  by \iivowelsigngujarati_rphfgujarati_anusvara;
+    sub \ovowelsigngujarati \anusvaragujarati  by \ovowelsigngujarati_anusvaragujarati;
+    sub \ovowelsigngujarati \rphfgujarati  by \ovowelsigngujarati_rphfgujarati;
+    sub \ovowelsigngujarati \rphfgujarati_anusvaragujarati  by \ovowelsigngujarati_rphfgujarati_anusvara;
+    sub \auvowelsigngujarati \anusvaragujarati  by \auvowelsigngujarati_anusvaragujarati;
+    sub \auvowelsigngujarati \rphfgujarati  by \auvowelsigngujarati_rphfgujarati;
+    sub \auvowelsigngujarati \rphfgujarati_anusvaragujarati  by \auvowelsigngujarati_rphfgujarati_anusvara;
+    sub \ocandravowelsigngujarati \anusvaragujarati  by \ocandravowelsigngujarati_anusvara;
+    sub \igujarati \anusvaragujarati  by \igujarati_anusvaragujarati;
+    sub \iigujarati \anusvaragujarati  by \iigujarati_anusvaragujarati;
+    sub \jagujarati \aavowelsigngujarati  by \jagujarati_aavowelsigngujarati;
+    sub \jagujarati \iivowelsigngujarati  by \jagujarati_iivowelsigngujarati;
+    sub \jagujarati \ovowelsigngujarati  by \jagujarati_ovowelsigngujarati;
+    sub \jagujarati \ovowelsigngujarati \anusvaragujarati  by \ja_ovowelsign_anusvaragujarati;
+    sub \jagujarati \ovowelsigngujarati \rphfgujarati  by \ja_ovowelsign_rphfgujarati;
+    sub \jagujarati \ovowelsigngujarati \rphfgujarati_anusvaragujarati  by \ja_ovowelsign_rphfgujarati_anusvara;
+    sub \jagujarati \auvowelsigngujarati  by \jagujarati_auvowelsigngujarati;
+    sub \jagujarati \auvowelsigngujarati \anusvaragujarati  by \ja_auvowelsign_anusvaragujarati;
+    sub \jagujarati \auvowelsigngujarati \rphfgujarati  by \ja_auvowelsign_rphfgujarati;
+    sub \jagujarati \auvowelsigngujarati \rphfgujarati_anusvaragujarati  by \ja_auvowelsign_rphf_anusvara;
+    sub \jagujarati \ocandravowelsigngujarati  by \jagujarati_ocandravowelsigngujarati;
+    sub \jagujarati \ocandravowelsigngujarati \anusvaragujarati  by \ja_ocandravowelsign_anusvara;
+} pstsPostBaseSubstitutionsinGuja;
+
+lookup sub_chain_pstsgjr2_0 {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\kagujarati \jhagujarati \ttagujarati \tthagujarati \ddhagujarati \dagujarati 
+	\phagujarati \ragujarati \hagujarati 
+	\kagujarati_viramagujarati_ragujarati 
+	\ttagujarati_viramagujarati_ragujarati 
+	\tthagujarati_viramagujarati_ragujarati 
+	\ddhagujarati_viramdeva_ragujarati 
+	\phagujarati_viramagujarati_ragujarati 
+	\hagujarati_viramdeva_ragujarati ]  by [\isigngujarati ];
+} sub_chain_pstsgjr2_0;
+
+lookup sub_chain_pstsgjr2_2 {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\kagujarati_viramagujarati_kagujarati ]  by [\iisigngujarati ];
+} sub_chain_pstsgjr2_2;
+
+lookup pstsPostBaseSubstitutionslookup {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\ttagujarati_viramagujarati_yagujarati ]  by [\iisigngujarati.alt1 ];
+} pstsPostBaseSubstitutionslookup;
+
+lookup sub_chain_pstsgjr2_4 {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\tthagujarati_viramagujarati_yagujarati ]  by [\iisigngujarati.alt2 ];
+} sub_chain_pstsgjr2_4;
+
+lookup sub_chain_pstsgjr2_6 {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\ddagujarati_viramagujarati_yagujarati ]  by [\iisigngujarati.alt3 ];
+} sub_chain_pstsgjr2_6;
+
+lookup sub_chain_pstsgjr2_8 {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\ddhagujarati_viramagujarati_yagujarati ]  by [\iisigngujarati.alt4 ];
+} sub_chain_pstsgjr2_8;
+
+lookup sub_chain_pstsgjr2_10 {
+  lookupflag 0;
+    sub [\ivowelsigngujarati ]' [\chagujarati_viramagujarati_yagujarati ]  by [\iisigngujarati.alt5 ];
+} sub_chain_pstsgjr2_10;
+
+feature akhn {
+
+  script gjr2;
+     language dflt ;
+      lookup akhnAkhandinGujaratilookup1;
+
+  script gujr;
+     language dflt ;
+      lookup akhnAkhandinGujaratilookup1;
+} akhn;
+
+feature rphf {
+
+  script gjr2;
+     language dflt ;
+      lookup rphfRephForminGujaratilookup2;
+
+  script gujr;
+     language dflt ;
+      lookup rphfRephForminGujaratilookup2;
+} rphf;
+
+feature rkrf {
+
+  script gjr2;
+     language dflt ;
+      lookup rkrfRakarFormsinGujaratilookup5;
+} rkrf;
+
+feature blwf {
+
+  script gjr2;
+     language dflt ;
+      lookup blwfBelowBaseFormsinGujaratiloo;
+
+  script gujr;
+     language dflt ;
+      lookup blwfBelowBaseFormsinGujaratiloo;
+} blwf;
+
+feature half {
+
+  script gjr2;
+     language dflt ;
+      lookup halfHalfFormsinGujaratilookup4;
+
+  script gujr;
+     language dflt ;
+      lookup halfHalfFormsinGujaratilookup4;
+} half;
+
+feature cjct {
+
+  script gjr2;
+     language dflt ;
+      lookup cjctConjunctFormsinGujaratilook;
+
+  script gujr;
+     language dflt ;
+      lookup cjctConjunctFormsinGujaratilook;
+} cjct;
+
+feature vatu {
+
+  script gjr2;
+     language dflt ;
+      lookup vatuVattuVariantsinGujaratilook;
+
+  script gujr;
+     language dflt ;
+      lookup vatuVattuVariantsinGujaratilook;
+} vatu;
+
+feature abvs {
+
+  script gjr2;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionsinGuj;
+
+  script gujr;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionsinGuj;
+} abvs;
+
+feature blws {
+
+  script gjr2;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinGuj;
+
+  script gujr;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinGuj;
+} blws;
+
+feature psts {
+
+  script gjr2;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinGuja;
+      lookup sub_chain_pstsgjr2_0;
+      lookup sub_chain_pstsgjr2_2;
+      lookup pstsPostBaseSubstitutionslookup;
+      lookup sub_chain_pstsgjr2_4;
+      lookup sub_chain_pstsgjr2_6;
+      lookup sub_chain_pstsgjr2_8;
+      lookup sub_chain_pstsgjr2_10;
+
+  script gujr;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinGuja;
+      lookup sub_chain_pstsgjr2_0;
+      lookup sub_chain_pstsgjr2_2;
+      lookup pstsPostBaseSubstitutionslookup;
+      lookup sub_chain_pstsgjr2_4;
+      lookup sub_chain_pstsgjr2_6;
+      lookup sub_chain_pstsgjr2_8;
+      lookup sub_chain_pstsgjr2_10;
+} psts;
+
+# GPOS 
+
+
+lookup blwmBelowBaseMarkinGujaratilook {
+  lookupflag 0;
+  markClass [\nuktagujarati ] <anchor -432 4> @Anchor2;
+  pos base [\kagujarati ] <anchor 224 0> mark @Anchor2;
+  pos base [\khagujarati ] <anchor 228 42> mark @Anchor2;
+  pos base [\gagujarati ] <anchor 178 100> mark @Anchor2;
+  pos base [\ghagujarati ] <anchor 152 32> mark @Anchor2;
+  pos base [\ngagujarati ] <anchor 264 0> mark @Anchor2;
+  pos base [\cagujarati ] <anchor 290 58> mark @Anchor2;
+  pos base [\chagujarati ] <anchor 296 0> mark @Anchor2;
+  pos base [\jagujarati ] <anchor 368 4> mark @Anchor2;
+  pos base [\jhagujarati ] <anchor 148 356> mark @Anchor2;
+  pos base [\nyagujarati ] <anchor 322 142> mark @Anchor2;
+  pos base [\ttagujarati ] <anchor 216 0> mark @Anchor2;
+  pos base [\tthagujarati ] <anchor 256 -16> mark @Anchor2;
+  pos base [\ddagujarati ] <anchor 264 -8> mark @Anchor2;
+  pos base [\ddhagujarati ] <anchor 240 -8> mark @Anchor2;
+  pos base [\nnagujarati ] <anchor 314 -30> mark @Anchor2;
+  pos base [\tagujarati ] <anchor 64 16> mark @Anchor2;
+  pos base [\thagujarati ] <anchor 86 96> mark @Anchor2;
+  pos base [\dagujarati ] <anchor 256 -8> mark @Anchor2;
+  pos base [\dhagujarati ] <anchor 224 56> mark @Anchor2;
+  pos base [\nagujarati ] <anchor 198 60> mark @Anchor2;
+  pos base [\pagujarati ] <anchor 226 112> mark @Anchor2;
+  pos base [\phagujarati ] <anchor 142 -12> mark @Anchor2;
+  pos base [\bagujarati ] <anchor 240 90> mark @Anchor2;
+  pos base [\bhagujarati ] <anchor 364 128> mark @Anchor2;
+  pos base [\magujarati ] <anchor 280 100> mark @Anchor2;
+  pos base [\yagujarati ] <anchor 90 90> mark @Anchor2;
+  pos base [\lagujarati ] <anchor 100 34> mark @Anchor2;
+  pos base [\llagujarati ] <anchor 292 88> mark @Anchor2;
+  pos base [\vagujarati ] <anchor 244 122> mark @Anchor2;
+  pos base [\shagujarati ] <anchor 140 100> mark @Anchor2;
+  pos base [\ssagujarati ] <anchor 242 110> mark @Anchor2;
+  pos base [\sagujarati ] <anchor 94 40> mark @Anchor2;
+  pos base [\hagujarati ] <anchor 122 -14> mark @Anchor2;
+} blwmBelowBaseMarkinGujaratilook;
+
+lookup pos_mark2base_blwmgujr_0 {
+  lookupflag 0;
+  markClass [\nuktagujarati ] <anchor -426 6> @Anchor1;
+  markClass [\uvowelsigngujarati ] <anchor -118 12> @Anchor1;
+  markClass [\uuvowelsigngujarati ] <anchor -138 12> @Anchor1;
+  markClass [\rvocalicvowelsigngujarati ] <anchor -108 6> @Anchor1;
+  markClass [\rrvocalicvowelsigngujarati ] <anchor -148 6> @Anchor1;
+  markClass [\lvocalicvowelsigngujarati ] <anchor -108 28> @Anchor1;
+  markClass [\llvocalicvowelsigngujarati ] <anchor -118 42> @Anchor1;
+  markClass [\viramagujarati_ragujarati ] <anchor -124 6> @Anchor1;
+  markClass [\ragujarati_viramagujarati_ugujarati ] <anchor -120 20> @Anchor1;
+  markClass [\ragujarati_viramagujarati_uugujarati ] <anchor -116 18> @Anchor1;
+  pos base [\kagujarati ] <anchor 234 -12> mark @Anchor1;
+  pos base [\ngagujarati \ddagujarati ] <anchor 266 3> mark @Anchor1;
+  pos base [\chagujarati ] <anchor 288 3> mark @Anchor1;
+  pos base [\jagujarati ] <anchor 372 0> mark @Anchor1;
+  pos base [\ttagujarati ] <anchor 236 0> mark @Anchor1;
+  pos base [\tthagujarati ] <anchor 254 2> mark @Anchor1;
+  pos base [\ddhagujarati ] <anchor 238 0> mark @Anchor1;
+  pos base [\phagujarati ] <anchor 258 -88> mark @Anchor1;
+  pos base [\ragujarati ] <anchor 276 -6> mark @Anchor1;
+  pos base [\hagujarati ] <anchor 304 -42> mark @Anchor1;
+  pos base [\kagujarati_viramagujarati_ragujarati ] <anchor 246 8> mark @Anchor1;
+  pos base [\jagujarati_viramagujarati_ragujarati ] <anchor 402 6> mark @Anchor1;
+  pos base [\phagujarati_viramagujarati_ragujarati ] <anchor 292 -76> mark @Anchor1;
+  pos base [\hagujarati_viramdeva_ragujarati ] <anchor 354 -52> mark @Anchor1;
+  pos base [\hagujarati_rvocalicvowelsigngujarati ] <anchor 344 -48> mark @Anchor1;
+  pos base [\kagujarati_viramagujarati_kagujarati ] <anchor 632 -12> mark @Anchor1;
+  pos base [\ngagujarati_viramagujarati_kagujarati ] <anchor 274 -172> mark @Anchor1;
+  pos base [\ngagujarati_viramagujarati_khagujarati ] <anchor 446 -174> mark @Anchor1;
+  pos base [\ngagujarati_viramagujarati_gagujarati ] <anchor 360 -168> mark @Anchor1;
+  pos base [\ngagujarati_viramagujarati_ghagujarati ] <anchor 354 -182> mark @Anchor1;
+  pos base [\ngagujarati_viramagujarati_magujarati ] <anchor 348 -164> mark @Anchor1;
+  pos base [\nga_virama_ka_virama_ssagujarati ] <anchor 394 -168> mark @Anchor1;
+  pos base [\jagujarati_viramagujarati_jagujarati ] <anchor 366 -12> mark @Anchor1;
+  pos base [\ttagujarati_viramagujarati_ttagujarati ] <anchor 318 -36> mark @Anchor1;
+  pos base [\ttagujarati_viramagujarati_vagujarati ] <anchor 344 -174> mark @Anchor1;
+  pos base [\tthagujarati_viramagujarati_tthagujarati ] <anchor 312 -40> mark @Anchor1;
+  pos base [\ddagujarati_viramagujarati_ddagujarati ] <anchor 322 -76> mark @Anchor1;
+  pos base [\ddagujarati_viramagujarati_ddhagujarati ] <anchor 296 -42> mark @Anchor1;
+  pos base [\ddhagujarati_viramagujarati_ddhagujarati ] <anchor 308 -26> mark @Anchor1;
+  pos base [\da_virama_gagujarati_pri_a ] <anchor 390 -14> mark @Anchor1;
+  pos base [\dagujarati_viramagujarati_vagujarati_pri_a ] <anchor 500 -26> mark @Anchor1;
+  pos base [\dagujarati_viramagujarati_dagujarati_pri_a ] <anchor 450 -64> mark @Anchor1;
+  pos base [\dagujarati_viramagujarati_dhagujarati_pri_a ] <anchor 520 -14> mark @Anchor1;
+  pos base [\dagujarati_viramagujarati_jagujarati_pri_a ] <anchor 592 -18> mark @Anchor1;
+  pos base [\dagujarati_viramagujarati_nagujarati_pri_a ] <anchor 382 -32> mark @Anchor1;
+  pos base [\ssagujarati_viramagujarati_ttagujarati ] <anchor 546 -12> mark @Anchor1;
+  pos base [\ssagujarati_viramagujarati_tthagujarati ] <anchor 576 2> mark @Anchor1;
+  pos base [\hagujarati_viramagujarati_nagujarati ] <anchor 498 6> mark @Anchor1;
+  pos base [\hagujarati_viramagujarati_nnagujarati ] <anchor 500 -6> mark @Anchor1;
+  pos base [\hagujarati_viramagujarati_lagujarati ] <anchor 496 -6> mark @Anchor1;
+  pos base [\hagujarati_viramagujarati_vagujarati ] <anchor 456 -6> mark @Anchor1;
+  pos base [\chagujarati_viramagujarati_vagujarati ] <anchor 446 -198> mark @Anchor1;
+} pos_mark2base_blwmgujr_0;
+
+lookup abvmAboveBaseMarkinGujaratilook {
+  lookupflag 0;
+  markClass [\candrabindugujarati ] <anchor -114 -16> @Anchor0;
+  markClass [\anusvaragujarati ] <anchor -116 60> @Anchor0;
+  markClass [\ecandravowelsigngujarati \ecandravowelsigngujarati_anusvara ] <anchor -118 -6> @Anchor0;
+  markClass [\evowelsigngujarati ] <anchor -124 -8> @Anchor0;
+  markClass [\aivowelsigngujarati ] <anchor -128 0> @Anchor0;
+  markClass [\evowelsigngujarati_anusvaragujarati ] <anchor -116 -8> @Anchor0;
+  markClass [\evowelsigngujarati_rphfgujarati ] <anchor -122 -8> @Anchor0;
+  markClass [\evowelsigngujarati_rphfgujarati_anusvara ] <anchor -114 -8> @Anchor0;
+  markClass [\aivowelsigngujarati_anusvaragujarati ] <anchor -120 0> @Anchor0;
+  markClass [\aivowelsigngujarati_rphfgujarati ] <anchor -100 0> @Anchor0;
+  markClass [\aivowelsigngujarati_rphfgujarati_anusvara ] <anchor -112 0> @Anchor0;
+  markClass [\rphfgujarati ] <anchor -120 -12> @Anchor0;
+  markClass [\rphfgujarati_anusvaragujarati ] <anchor -126 -12> @Anchor0;
+  pos base [\kagujarati ] <anchor 260 0> mark @Anchor0;
+  pos base [\ngagujarati ] <anchor 288 -8> mark @Anchor0;
+  pos base [\chagujarati ] <anchor 430 -6> mark @Anchor0;
+  pos base [\jagujarati ] <anchor 526 0> mark @Anchor0;
+  pos base [\ttagujarati ] <anchor 238 -4> mark @Anchor0;
+  pos base [\tthagujarati ] <anchor 272 -8> mark @Anchor0;
+  pos base [\ddagujarati ] <anchor 272 -10> mark @Anchor0;
+  pos base [\ddhagujarati ] <anchor 264 0> mark @Anchor0;
+  pos base [\phagujarati ] <anchor 244 0> mark @Anchor0;
+  pos base [\ragujarati ] <anchor 178 0> mark @Anchor0;
+  pos base [\hagujarati ] <anchor 276 -8> mark @Anchor0;
+  pos base [\kagujarati_viramagujarati_ragujarati ] <anchor 266 0> mark @Anchor0;
+  pos base [\jagujarati_viramagujarati_ragujarati ] <anchor 546 -8> mark @Anchor0;
+  pos base [\ragujarati_uvowelsigngujarati_alt \ragujarati_uuvowelsigngujarati_alt ] <anchor 176 0> mark @Anchor0;
+  pos base [\kagujarati_viramagujarati_kagujarati ] <anchor 650 -8> mark @Anchor0;
+  pos base [\ngagujarati_viramagujarati_kagujarati ] <anchor 274 -16> mark @Anchor0;
+  pos base [\ngagujarati_viramagujarati_khagujarati ] <anchor 312 -8> mark @Anchor0;
+  pos base [\ngagujarati_viramagujarati_gagujarati \ngagujarati_viramagujarati_ghagujarati ] <anchor 296 0> mark @Anchor0;
+  pos base [\ngagujarati_viramagujarati_magujarati ] <anchor 282 0> mark @Anchor0;
+  pos base [\nga_virama_ka_virama_ssagujarati ] <anchor 302 0> mark @Anchor0;
+  pos base [\jagujarati_viramagujarati_jagujarati ] <anchor 532 -6> mark @Anchor0;
+  pos base [\ttagujarati_viramagujarati_ttagujarati ] <anchor 344 6> mark @Anchor0;
+  pos base [\ttagujarati_viramagujarati_vagujarati ] <anchor 232 -6> mark @Anchor0;
+  pos base [\tthagujarati_viramagujarati_tthagujarati ] <anchor 348 0> mark @Anchor0;
+  pos base [\ddagujarati_viramagujarati_ddagujarati ] <anchor 334 0> mark @Anchor0;
+  pos base [\ddagujarati_viramagujarati_ddhagujarati ] <anchor 354 0> mark @Anchor0;
+  pos base [\ddhagujarati_viramagujarati_ddhagujarati ] <anchor 336 0> mark @Anchor0;
+  pos base [\da_virama_gagujarati_pri_a ] <anchor 324 0> mark @Anchor0;
+  pos base [\dagujarati_viramagujarati_vagujarati_pri_a ] <anchor 406 0> mark @Anchor0;
+  pos base [\dagujarati_viramagujarati_dagujarati_pri_a ] <anchor 330 0> mark @Anchor0;
+  pos base [\dagujarati_viramagujarati_dhagujarati_pri_a ] <anchor 420 0> mark @Anchor0;
+  pos base [\dagujarati_viramagujarati_jagujarati_pri_a ] <anchor 516 -10> mark @Anchor0;
+  pos base [\dagujarati_viramagujarati_nagujarati_pri_a ] <anchor 322 0> mark @Anchor0;
+  pos base [\ssagujarati_viramagujarati_ttagujarati ] <anchor 548 -2> mark @Anchor0;
+  pos base [\ssagujarati_viramagujarati_tthagujarati ] <anchor 572 -6> mark @Anchor0;
+  pos base [\hagujarati_viramagujarati_nagujarati ] <anchor 290 -8> mark @Anchor0;
+  pos base [\hagujarati_viramagujarati_nnagujarati ] <anchor 294 -8> mark @Anchor0;
+  pos base [\hagujarati_viramagujarati_lagujarati ] <anchor 274 -8> mark @Anchor0;
+  pos base [\hagujarati_viramagujarati_vagujarati ] <anchor 316 -8> mark @Anchor0;
+  pos base [\chagujarati_viramagujarati_vagujarati ] <anchor 448 0> mark @Anchor0;
+} abvmAboveBaseMarkinGujaratilook;
+
+feature blwm {
+
+  script gujr;
+     language dflt ;
+      lookup blwmBelowBaseMarkinGujaratilook;
+      lookup pos_mark2base_blwmgujr_0;
+} blwm;
+
+feature abvm {
+
+  script gujr;
+     language dflt ;
+      lookup abvmAboveBaseMarkinGujaratilook;
+} abvm;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.notdef \.null \nonmarkingreturn \space \exclam \quotedbl 
+	\quotesingle \parenleft \parenright \comma \hyphen \period \colon \semicolon 
+	\question \underscore \grave \danda \doubledanda \visargagujarati \agujarati 
+	\aagujarati \igujarati \iigujarati \ugujarati \uugujarati \rvocalicgujarati 
+	\lvocalicgujarati \ecandragujarati \egujarati \aigujarati \ocandragujarati 
+	\ogujarati \augujarati \kagujarati \khagujarati \gagujarati \ghagujarati 
+	\ngagujarati \cagujarati \chagujarati \jagujarati \jhagujarati \nyagujarati 
+	\ttagujarati \tthagujarati \ddagujarati \ddhagujarati \nnagujarati 
+	\tagujarati \thagujarati \dagujarati \dhagujarati \nagujarati \pagujarati 
+	\phagujarati \bagujarati \bhagujarati \magujarati \yagujarati \ragujarati 
+	\lagujarati \llagujarati \vagujarati \shagujarati \ssagujarati \sagujarati 
+	\hagujarati \avagrahagujarati \aavowelsigngujarati \ivowelsigngujarati 
+	\iivowelsigngujarati \ocandravowelsigngujarati \ovowelsigngujarati 
+	\auvowelsigngujarati \omgujarati \rrvocalicgujarati \llvocalicgujarati 
+	\zerogujarati \onegujarati \twogujarati \threegujarati \fourgujarati 
+	\fivegujarati \sixgujarati \sevengujarati \eightgujarati \ninegujarati 
+	\rupeegujarati \zerowidthnonjoiner \zerowidthjoiner \endash \emdash 
+	\quoteleft \quoteright \quotedblleft \quotedblright \ellipsis \minus 
+	\dottedcircle \kagujarati_viramagujarati \khagujarati_viramagujarati 
+	\gagujarati_viramagujarati \ghagujarati_viramagujarati 
+	\ngagujarati_viramagujarati \cagujarati_viramagujarati 
+	\chagujarati_viramagujarati \jagujarati_viramagujarati 
+	\jhagujarati_viramagujarati \nyagujarati_viramagujarati 
+	\ttagujarati_viramagujarati \tthagujarati_viramagujarati 
+	\ddagujarati_viramagujarati \ddhagujarati_viramagujarati 
+	\nnagujarati_viramagujarati \tagujarati_viramagujarati 
+	\thagujarati_viramagujarati \dagujarati_viramagujarati 
+	\dhagujarati_viramagujarati \nagujarati_viramagujarati 
+	\pagujarati_viramagujarati \phagujarati_viramagujarati 
+	\bagujarati_viramagujarati \bhagujarati_viramagujarati 
+	\magujarati_viramagujarati \yagujarati_viramagujarati 
+	\lagujarati_viramagujarati \llagujarati_viramagujarati 
+	\vagujarati_viramagujarati \shagujarati_viramagujarati 
+	\ssagujarati_viramagujarati \sagujarati_viramagujarati 
+	\hagujarati_viramagujarati \ka_virama_ssa_viramagujarati 
+	\ja_virama_nya_viramagujarati \ta_virama_ra_viramagujarati 
+	\shagujarati_viramagujarati_alt \ta_virama_ta_viramagujarati 
+	\kagujarati_viramagujarati_ragujarati 
+	\khagujarati_viramagujarati_ragujarati 
+	\gagujarati_viramagujarati_ragujarati 
+	\ghagujarati_viramagujarati_ragujarati 
+	\cagujarati_viramagujarati_ragujarati 
+	\jagujarati_viramagujarati_ragujarati 
+	\jhagujarati_viramagujarati_ragujarati 
+	\nyagujarati_viramagujarati_ragujarati 
+	\nnagujarati_viramagujarati_ragujarati 
+	\tagujarati_viramagujarati_ragujarati 
+	\thagujarati_viramagujarati_ragujarati 
+	\dagujarati_viramagujarati_ragujarati 
+	\dhagujarati_viramagujarati_ragujarati 
+	\nagujarati_viramagujarati_ragujarati 
+	\pagujarati_viramagujarati_ragujarati 
+	\phagujarati_viramagujarati_ragujarati 
+	\bagujarati_viramagujarati_ragujarati 
+	\bhagujarati_viramagujarati_ragujarati 
+	\magujarati_viramagujarati_ragujarati 
+	\yagujarati_viramagujarati_ragujarati 
+	\lagujarati_viramagujarati_ragujarati 
+	\llagujarati_viramagujarati_ragujarati 
+	\vagujarati_viramagujarati_ragujarati 
+	\shagujarati_viramagujarati_ragujarati 
+	\ssagujarati_viramagujarati_ragujarati 
+	\sagujarati_viramagujarati_ragujarati \hagujarati_viramdeva_ragujarati 
+	\iivowelsigngujarati_anusvaragujarati \iivowelsigngujarati_rphfgujarati 
+	\iivowelsigngujarati_rphfgujarati_anusvara 
+	\ovowelsigngujarati_anusvaragujarati \ovowelsigngujarati_rphfgujarati 
+	\ovowelsigngujarati_rphfgujarati_anusvara 
+	\auvowelsigngujarati_anusvaragujarati \auvowelsigngujarati_rphfgujarati 
+	\auvowelsigngujarati_rphfgujarati_anusvara 
+	\ocandravowelsigngujarati_anusvara \igujarati_anusvaragujarati 
+	\iigujarati_anusvaragujarati \ugujarati_anusvaragujarati 
+	\uugujarati_anusvaragujarati \ragujarati_uvowelsigngujarati_alt 
+	\ragujarati_uuvowelsigngujarati_alt \hagujarati_rvocalicvowelsigngujarati 
+	\jagujarati_aavowelsigngujarati \jagujarati_iivowelsigngujarati 
+	\ragujarati_uuvowelsigngujarati \da_rvocalicvowelsigngujarati 
+	\kagujarati_viramagujarati_kagujarati 
+	\gagujarati_viramagujarati_nagujarati 
+	\ngagujarati_viramagujarati_kagujarati 
+	\ngagujarati_viramagujarati_khagujarati 
+	\ngagujarati_viramagujarati_gagujarati 
+	\ngagujarati_viramagujarati_ghagujarati 
+	\ngagujarati_viramagujarati_magujarati \nga_virama_ka_virama_ssagujarati 
+	\jagujarati_viramagujarati_jagujarati 
+	\nyagujarati_viramagujarati_cagujarati 
+	\nyagujarati_viramagujarati_jagujarati 
+	\ttagujarati_viramagujarati_ttagujarati 
+	\ttagujarati_viramagujarati_yagujarati 
+	\ttagujarati_viramagujarati_vagujarati 
+	\tthagujarati_viramagujarati_tthagujarati 
+	\tthagujarati_viramagujarati_yagujarati 
+	\ddagujarati_viramagujarati_ddagujarati 
+	\ddagujarati_viramagujarati_yagujarati 
+	\ddagujarati_viramagujarati_ddhagujarati 
+	\ddhagujarati_viramagujarati_ddhagujarati 
+	\ddhagujarati_viramagujarati_yagujarati 
+	\tagujarati_viramagujarati_tagujarati 
+	\dagujarati_viramagujarati_yagujarati \da_virama_gagujarati_pri_a 
+	\dagujarati_viramagujarati_vagujarati_pri_a 
+	\dagujarati_viramagujarati_dagujarati_pri_a 
+	\dagujarati_viramagujarati_dhagujarati_pri_a 
+	\dagujarati_viramagujarati_jagujarati_pri_a 
+	\dagujarati_viramagujarati_magujarati_pri_a 
+	\dagujarati_viramagujarati_nagujarati_pri_a 
+	\nagujarati_viramagujarati_nagujarati 
+	\pagujarati_viramagujarati_tagujarati 
+	\lagujarati_viramagujarati_lagujarati 
+	\shagujarati_viramagujarati_vagujarati_pri_a 
+	\shagujarati_viramagujarati_nagujarati_pri_a 
+	\shagujarati_viramagujarati_cagujarati 
+	\shagujarati_viramagujarati_lagujarati 
+	\ssagujarati_viramagujarati_ttagujarati 
+	\ssagujarati_viramagujarati_tthagujarati 
+	\sagujarati_viramagujarati_nyagujarati 
+	\hagujarati_viramagujarati_magujarati 
+	\hagujarati_viramagujarati_yagujarati 
+	\hagujarati_viramagujarati_nagujarati 
+	\hagujarati_viramagujarati_nnagujarati 
+	\hagujarati_viramagujarati_lagujarati 
+	\hagujarati_viramagujarati_vagujarati 
+	\llagujarati_viramagujarati_yagujarati 
+	\kagujarati_viramagujarati_ssagujarati 
+	\jagujarati_viramagujarati_nyagujarati \nnagujarati_uvowelsigngujarati 
+	\chagujarati_viramagujarati_vagujarati \isigngujarati \iisigngujarati 
+	\jagujarati_ovowelsigngujarati \ja_ovowelsign_anusvaragujarati 
+	\ja_ovowelsign_rphfgujarati \ja_ovowelsign_rphfgujarati_anusvara 
+	\jagujarati_auvowelsigngujarati \ja_auvowelsign_anusvaragujarati 
+	\ja_auvowelsign_rphfgujarati \ja_auvowelsign_rphf_anusvara 
+	\jagujarati_ocandravowelsigngujarati \ja_ocandravowelsign_anusvara 
+	\yagujarati_alt \numbersign \dollar \percent \ampersand \asterisk \plus \slash 
+	\zero \one \two \three \four \five \six \seven \eight \nine \less \equal \greater 
+	\bracketleft \backslash \bracketright \asciicircum \braceleft \bar \braceright 
+	\asciitilde \multiply \divide \inr_currency \iisigngujarati.alt1 
+	\iisigngujarati.alt2 \iisigngujarati.alt3 \iisigngujarati.alt4 
+	\iisigngujarati.alt5 ];
+@GDEF_Ligature = [\chagujarati_viramagujarati_yagujarati ];
+@GDEF_Mark = [\candrabindugujarati \anusvaragujarati \nuktagujarati 
+	\uvowelsigngujarati \uuvowelsigngujarati \rvocalicvowelsigngujarati 
+	\rrvocalicvowelsigngujarati \ecandravowelsigngujarati \evowelsigngujarati 
+	\aivowelsigngujarati \viramagujarati \lvocalicvowelsigngujarati 
+	\llvocalicvowelsigngujarati \evowelsigngujarati_anusvaragujarati 
+	\evowelsigngujarati_rphfgujarati 
+	\evowelsigngujarati_rphfgujarati_anusvara 
+	\aivowelsigngujarati_anusvaragujarati \aivowelsigngujarati_rphfgujarati 
+	\aivowelsigngujarati_rphfgujarati_anusvara 
+	\ecandravowelsigngujarati_anusvara \viramagujarati_ragujarati 
+	\ragujarati_viramagujarati_ugujarati 
+	\ragujarati_viramagujarati_uugujarati \rphfgujarati 
+	\rphfgujarati_anusvaragujarati ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+} GDEF;
+
