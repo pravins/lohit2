@@ -1,6 +1,6 @@
 # Glyph-name file for Lohit Gujarati
 # This file is covers all the glyph namings from fontforge application for Lohit Gujarati
-
+#
 
  *  .notdef
  *  .null
