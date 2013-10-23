@@ -1,7 +1,6 @@
 
 # GSUB 
 
-
 lookup akhnAkhandinGujaratilookup1 {
   lookupflag 0;
     sub \shagujarati \viramagujarati \ragujarati  by \shagujarati_viramagujarati_ragujarati;
