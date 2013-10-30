@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1101340800
-ModificationTime: 1381821181
+ModificationTime: 1383134708
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -82,50 +82,50 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 23-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 37 chagujarati_viramagujarati_yagujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 22 chaguj_viramaguj_yaguj
  1
   SeqLookup: 0 "Single Substitution lookup 18" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 22-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 38 ddhagujarati_viramagujarati_yagujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 23 ddhaguj_viramaguj_yaguj
  1
   SeqLookup: 0 "Single Substitution lookup 17" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 21-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 37 ddagujarati_viramagujarati_yagujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 22 ddaguj_viramaguj_yaguj
  1
   SeqLookup: 0 "Single Substitution lookup 16" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 20-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 38 tthagujarati_viramagujarati_yagujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 23 tthaguj_viramaguj_yaguj
  1
   SeqLookup: 0 "Single Substitution lookup 15" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 19-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 151 ttagujarati_viramagujarati_yagujarati shagujarati_viramagujarati_lagujarati sagujarati_viramagujarati_nyagujarati llagujarati_viramagujarati_yagujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 91 ttaguj_viramaguj_yaguj shaguj_viramaguj_laguj saguj_viramaguj_nyaguj llaguj_viramaguj_yaguj
  1
   SeqLookup: 0 "Single Substitution lookup 14" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gujarati lookup 13-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 115 kagujarati_viramagujarati_kagujarati ssagujarati_viramagujarati_ttagujarati ssagujarati_viramagujarati_tthagujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 70 kaguj_viramaguj_kaguj ssaguj_viramaguj_ttaguj ssaguj_viramaguj_tthaguj
  1
   SeqLookup: 0 "Single Substitution lookup 13" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gujarati lookup 10-1"  0 0 0 1
  1 0 1
-  Coverage: 18 ivowelsigngujarati
-  FCoverage: 323 kagujarati jhagujarati ttagujarati tthagujarati ddhagujarati dagujarati phagujarati ragujarati hagujarati kagujarati_viramagujarati_ragujarati ttagujarati_viramagujarati_ragujarati tthagujarati_viramagujarati_ragujarati ddhagujarati_viramdeva_ragujarati phagujarati_viramagujarati_ragujarati hagujarati_viramdeva_ragujarati
+  Coverage: 13 ivowelsignguj
+  FCoverage: 238 kaguj jhaguj ttaguj tthaguj ddhaguj daguj phaguj raguj haguj kaguj_viramaguj_raguj ttagujarati_viramagujarati_ragujarati tthagujarati_viramagujarati_ragujarati ddhagujarati_viramdeva_ragujarati phaguj_viramaguj_raguj haguj_viramdeva_raguj
  1
   SeqLookup: 0 "Single Substitution lookup 12" 
 EndFPST
@@ -841,7 +841,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: candrabindugujarati
+StartChar: candrabinduguj
 Encoding: 2689 2689 19
 Width: 0
 GlyphClass: 4
@@ -875,7 +875,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: anusvaragujarati
+StartChar: anusvaraguj
 Encoding: 2690 2690 20
 Width: 0
 GlyphClass: 4
@@ -897,7 +897,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: visargagujarati
+StartChar: visargaguj
 Encoding: 2691 2691 21
 Width: 305
 GlyphClass: 2
@@ -928,7 +928,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: agujarati
+StartChar: aguj
 Encoding: 2693 2693 22
 Width: 731
 GlyphClass: 2
@@ -977,7 +977,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: aagujarati
+StartChar: aaguj
 Encoding: 2694 2694 23
 Width: 971
 GlyphClass: 2
@@ -1032,7 +1032,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: igujarati
+StartChar: iguj
 Encoding: 2695 2695 24
 Width: 529
 GlyphClass: 2
@@ -1082,7 +1082,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: iigujarati
+StartChar: iiguj
 Encoding: 2696 2696 25
 Width: 532
 GlyphClass: 2
@@ -1136,7 +1136,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ugujarati
+StartChar: uguj
 Encoding: 2697 2697 26
 Width: 550
 GlyphClass: 2
@@ -1182,7 +1182,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uugujarati
+StartChar: uuguj
 Encoding: 2698 2698 27
 Width: 735
 GlyphClass: 2
@@ -1234,7 +1234,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rvocalicgujarati
+StartChar: rvocalicguj
 Encoding: 2699 2699 28
 Width: 879
 GlyphClass: 2
@@ -1295,7 +1295,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lvocalicgujarati
+StartChar: lvocalicguj
 Encoding: 2700 2700 29
 Width: 610
 GlyphClass: 2
@@ -1349,7 +1349,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ecandragujarati
+StartChar: ecandraguj
 Encoding: 2701 2701 30
 Width: 731
 GlyphClass: 2
@@ -1410,7 +1410,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: egujarati
+StartChar: eguj
 Encoding: 2703 2703 31
 Width: 731
 GlyphClass: 2
@@ -1469,7 +1469,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: aigujarati
+StartChar: aiguj
 Encoding: 2704 2704 32
 Width: 731
 GlyphClass: 2
@@ -1538,7 +1538,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ocandragujarati
+StartChar: ocandraguj
 Encoding: 2705 2705 33
 Width: 968
 GlyphClass: 2
@@ -1605,7 +1605,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ogujarati
+StartChar: oguj
 Encoding: 2707 2707 34
 Width: 971
 GlyphClass: 2
@@ -1670,7 +1670,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: augujarati
+StartChar: auguj
 Encoding: 2708 2708 35
 Width: 969
 GlyphClass: 2
@@ -1745,7 +1745,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kagujarati
+StartChar: kaguj
 Encoding: 2709 2709 36
 Width: 474
 GlyphClass: 2
@@ -1793,7 +1793,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: khagujarati
+StartChar: khaguj
 Encoding: 2710 2710 37
 Width: 636
 GlyphClass: 2
@@ -1835,7 +1835,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: gagujarati
+StartChar: gaguj
 Encoding: 2711 2711 38
 Width: 578
 GlyphClass: 2
@@ -1873,7 +1873,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ghagujarati
+StartChar: ghaguj
 Encoding: 2712 2712 39
 Width: 560
 GlyphClass: 2
@@ -1918,7 +1918,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ngagujarati
+StartChar: ngaguj
 Encoding: 2713 2713 40
 Width: 539
 GlyphClass: 2
@@ -1970,7 +1970,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: cagujarati
+StartChar: caguj
 Encoding: 2714 2714 41
 Width: 638
 GlyphClass: 2
@@ -2013,7 +2013,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: chagujarati
+StartChar: chaguj
 Encoding: 2715 2715 42
 Width: 622
 GlyphClass: 2
@@ -2073,7 +2073,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jagujarati
+StartChar: jaguj
 Encoding: 2716 2716 43
 Width: 594
 GlyphClass: 2
@@ -2129,7 +2129,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jhagujarati
+StartChar: jhaguj
 Encoding: 2717 2717 44
 Width: 620
 GlyphClass: 2
@@ -2181,7 +2181,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nyagujarati
+StartChar: nyaguj
 Encoding: 2718 2718 45
 Width: 673
 GlyphClass: 2
@@ -2220,7 +2220,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ttagujarati
+StartChar: ttaguj
 Encoding: 2719 2719 46
 Width: 442
 GlyphClass: 2
@@ -2262,7 +2262,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tthagujarati
+StartChar: tthaguj
 Encoding: 2720 2720 47
 Width: 495
 GlyphClass: 2
@@ -2307,7 +2307,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ddagujarati
+StartChar: ddaguj
 Encoding: 2721 2721 48
 Width: 498
 GlyphClass: 2
@@ -2349,7 +2349,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ddhagujarati
+StartChar: ddhaguj
 Encoding: 2722 2722 49
 Width: 478
 GlyphClass: 2
@@ -2406,7 +2406,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nnagujarati
+StartChar: nnaguj
 Encoding: 2723 2723 50
 Width: 758
 GlyphClass: 2
@@ -2458,7 +2458,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tagujarati
+StartChar: taguj
 Encoding: 2724 2724 51
 Width: 561
 GlyphClass: 2
@@ -2488,7 +2488,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: thagujarati
+StartChar: thaguj
 Encoding: 2725 2725 52
 Width: 594
 GlyphClass: 2
@@ -2536,7 +2536,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dagujarati
+StartChar: daguj
 Encoding: 2726 2726 53
 Width: 465
 GlyphClass: 2
@@ -2577,7 +2577,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dhagujarati
+StartChar: dhaguj
 Encoding: 2727 2727 54
 Width: 596
 GlyphClass: 2
@@ -2616,7 +2616,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nagujarati
+StartChar: naguj
 Encoding: 2728 2728 55
 Width: 587
 GlyphClass: 2
@@ -2655,7 +2655,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: pagujarati
+StartChar: paguj
 Encoding: 2730 2730 56
 Width: 562
 GlyphClass: 2
@@ -2691,7 +2691,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: phagujarati
+StartChar: phaguj
 Encoding: 2731 2731 57
 Width: 444
 GlyphClass: 2
@@ -2744,7 +2744,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bagujarati
+StartChar: baguj
 Encoding: 2732 2732 58
 Width: 664
 GlyphClass: 2
@@ -2783,7 +2783,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bhagujarati
+StartChar: bhaguj
 Encoding: 2733 2733 59
 Width: 695
 GlyphClass: 2
@@ -2825,7 +2825,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: magujarati
+StartChar: maguj
 Encoding: 2734 2734 60
 Width: 566
 GlyphClass: 2
@@ -2873,7 +2873,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: yagujarati
+StartChar: yaguj
 Encoding: 2735 2735 61
 Width: 554
 GlyphClass: 2
@@ -2914,7 +2914,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ragujarati
+StartChar: raguj
 Encoding: 2736 2736 62
 Width: 373
 GlyphClass: 2
@@ -2954,7 +2954,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lagujarati
+StartChar: laguj
 Encoding: 2738 2738 63
 Width: 608
 GlyphClass: 2
@@ -2992,7 +2992,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: llagujarati
+StartChar: llaguj
 Encoding: 2739 2739 64
 Width: 666
 GlyphClass: 2
@@ -3034,7 +3034,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: vagujarati
+StartChar: vaguj
 Encoding: 2741 2741 65
 Width: 550
 GlyphClass: 2
@@ -3068,7 +3068,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: shagujarati
+StartChar: shaguj
 Encoding: 2742 2742 66
 Width: 611
 GlyphClass: 2
@@ -3116,7 +3116,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ssagujarati
+StartChar: ssaguj
 Encoding: 2743 2743 67
 Width: 552
 GlyphClass: 2
@@ -3156,7 +3156,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sagujarati
+StartChar: saguj
 Encoding: 2744 2744 68
 Width: 630
 GlyphClass: 2
@@ -3204,7 +3204,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: hagujarati
+StartChar: haguj
 Encoding: 2745 2745 69
 Width: 468
 GlyphClass: 2
@@ -3257,7 +3257,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nuktagujarati
+StartChar: nuktaguj
 Encoding: 2748 2748 70
 Width: 0
 GlyphClass: 4
@@ -3280,7 +3280,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: avagrahagujarati
+StartChar: avagrahaguj
 Encoding: 2749 2749 71
 Width: 525
 GlyphClass: 2
@@ -3323,7 +3323,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: aavowelsigngujarati
+StartChar: aavowelsignguj
 Encoding: 2750 2750 72
 Width: 240
 GlyphClass: 2
@@ -3340,7 +3340,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ivowelsigngujarati
+StartChar: ivowelsignguj
 Encoding: 2751 2751 73
 Width: 240
 GlyphClass: 2
@@ -3363,16 +3363,16 @@ SplineSet
  90 500 l 1,16,-1
  90 500 l 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 18-1" iisigngujarati.alt5
-Substitution2: "Single Substitution lookup 17-1" iisigngujarati.alt4
-Substitution2: "Single Substitution lookup 16-1" iisigngujarati.alt3
-Substitution2: "Single Substitution lookup 15-1" iisigngujarati.alt2
-Substitution2: "Single Substitution lookup 14-1" iisigngujarati.alt1
-Substitution2: "Single Substitution lookup 13-1" iisigngujarati
-Substitution2: "Single Substitution lookup 12-1" isigngujarati
+Substitution2: "Single Substitution lookup 12-1" isignguj
+Substitution2: "Single Substitution lookup 13-1" iisignguj
+Substitution2: "Single Substitution lookup 14-1" iisignguj.alt1
+Substitution2: "Single Substitution lookup 15-1" iisignguj.alt2
+Substitution2: "Single Substitution lookup 16-1" iisignguj.alt3
+Substitution2: "Single Substitution lookup 17-1" iisignguj.alt4
+Substitution2: "Single Substitution lookup 18-1" iisignguj.alt5
 EndChar
 
-StartChar: iivowelsigngujarati
+StartChar: iivowelsignguj
 Encoding: 2752 2752 74
 Width: 240
 GlyphClass: 2
@@ -3399,7 +3399,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uvowelsigngujarati
+StartChar: uvowelsignguj
 Encoding: 2753 2753 75
 Width: 0
 GlyphClass: 4
@@ -3431,7 +3431,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uuvowelsigngujarati
+StartChar: uuvowelsignguj
 Encoding: 2754 2754 76
 Width: 0
 GlyphClass: 4
@@ -3463,7 +3463,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rvocalicvowelsigngujarati
+StartChar: rvocalicvowelsignguj
 Encoding: 2755 2755 77
 Width: 0
 GlyphClass: 4
@@ -3493,7 +3493,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rrvocalicvowelsigngujarati
+StartChar: rrvocalicvowelsignguj
 Encoding: 2756 2756 78
 Width: 0
 GlyphClass: 4
@@ -3536,7 +3536,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ecandravowelsigngujarati
+StartChar: ecandravowelsignguj
 Encoding: 2757 2757 79
 Width: 0
 GlyphClass: 4
@@ -3560,7 +3560,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: evowelsigngujarati
+StartChar: evowelsignguj
 Encoding: 2759 2759 80
 Width: 0
 GlyphClass: 4
@@ -3582,7 +3582,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: aivowelsigngujarati
+StartChar: aivowelsignguj
 Encoding: 2760 2760 81
 Width: 0
 GlyphClass: 4
@@ -3614,7 +3614,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ocandravowelsigngujarati
+StartChar: ocandravowelsignguj
 Encoding: 2761 2761 82
 Width: 240
 GlyphClass: 2
@@ -3643,7 +3643,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ovowelsigngujarati
+StartChar: ovowelsignguj
 Encoding: 2763 2763 83
 Width: 240
 GlyphClass: 2
@@ -3670,7 +3670,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: auvowelsigngujarati
+StartChar: auvowelsignguj
 Encoding: 2764 2764 84
 Width: 240
 GlyphClass: 2
@@ -3707,7 +3707,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: viramagujarati
+StartChar: viramaguj
 Encoding: 2765 2765 85
 Width: 0
 GlyphClass: 4
@@ -3726,7 +3726,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: omgujarati
+StartChar: omguj
 Encoding: 2768 2768 86
 Width: 1009
 GlyphClass: 2
@@ -3816,7 +3816,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rrvocalicgujarati
+StartChar: rrvocalicguj
 Encoding: 2784 2784 87
 Width: 917
 GlyphClass: 2
@@ -3897,7 +3897,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: llvocalicgujarati
+StartChar: llvocalicguj
 Encoding: 2785 2785 88
 Width: 592
 GlyphClass: 2
@@ -3962,7 +3962,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lvocalicvowelsigngujarati
+StartChar: lvocalicvowelsignguj
 Encoding: 2786 2786 89
 Width: 0
 GlyphClass: 4
@@ -4017,7 +4017,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: llvocalicvowelsigngujarati
+StartChar: llvocalicvowelsignguj
 Encoding: 2787 2787 90
 Width: 0
 GlyphClass: 4
@@ -4083,7 +4083,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zerogujarati
+StartChar: zeroguj
 Encoding: 2790 2790 91
 Width: 550
 GlyphClass: 2
@@ -4114,7 +4114,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: onegujarati
+StartChar: oneguj
 Encoding: 2791 2791 92
 Width: 549
 GlyphClass: 2
@@ -4154,7 +4154,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: twogujarati
+StartChar: twoguj
 Encoding: 2792 2792 93
 Width: 549
 GlyphClass: 2
@@ -4204,7 +4204,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: threegujarati
+StartChar: threeguj
 Encoding: 2793 2793 94
 Width: 549
 GlyphClass: 2
@@ -4246,7 +4246,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fourgujarati
+StartChar: fourguj
 Encoding: 2794 2794 95
 Width: 552
 GlyphClass: 2
@@ -4287,7 +4287,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: fivegujarati
+StartChar: fiveguj
 Encoding: 2795 2795 96
 Width: 550
 GlyphClass: 2
@@ -4330,7 +4330,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sixgujarati
+StartChar: sixguj
 Encoding: 2796 2796 97
 Width: 550
 GlyphClass: 2
@@ -4375,7 +4375,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: sevengujarati
+StartChar: sevenguj
 Encoding: 2797 2797 98
 Width: 549
 GlyphClass: 2
@@ -4413,7 +4413,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: eightgujarati
+StartChar: eightguj
 Encoding: 2798 2798 99
 Width: 550
 GlyphClass: 2
@@ -4442,7 +4442,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ninegujarati
+StartChar: nineguj
 Encoding: 2799 2799 100
 Width: 550
 GlyphClass: 2
@@ -4479,7 +4479,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rupeegujarati
+StartChar: rupeeguj
 Encoding: 2801 2801 101
 Width: 717
 GlyphClass: 2
@@ -4897,7 +4897,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kagujarati_viramagujarati
+StartChar: kaguj_viramaguj
 Encoding: 65571 -1 113
 Width: 419
 GlyphClass: 2
@@ -4940,10 +4940,10 @@ SplineSet
  311 -10 311 -10 234 -10 c 1,44,-1
  234 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" kagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" kaguj viramaguj
 EndChar
 
-StartChar: khagujarati_viramagujarati
+StartChar: khaguj_viramaguj
 Encoding: 65572 -1 114
 Width: 467
 GlyphClass: 2
@@ -4978,10 +4978,10 @@ SplineSet
  92 175 92 175 92 235 c 1,30,-1
  92 235 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" khagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" khaguj viramaguj
 EndChar
 
-StartChar: gagujarati_viramagujarati
+StartChar: gaguj_viramaguj
 Encoding: 65573 -1 115
 Width: 397
 GlyphClass: 2
@@ -5010,10 +5010,10 @@ SplineSet
  250 145 250 145 173 145 c 1,26,-1
  173 145 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" gagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" gaguj viramaguj
 EndChar
 
-StartChar: ghagujarati_viramagujarati
+StartChar: ghaguj_viramaguj
 Encoding: 65574 -1 116
 Width: 389
 GlyphClass: 2
@@ -5051,10 +5051,10 @@ SplineSet
  59 353 59 353 59 385 c 1,37,-1
  59 385 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ghagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ghaguj viramaguj
 EndChar
 
-StartChar: ngagujarati_viramagujarati
+StartChar: ngaguj_viramaguj
 Encoding: 65575 -1 117
 Width: 491
 GlyphClass: 2
@@ -5109,10 +5109,10 @@ SplineSet
  496 -235 l 1,56,-1
  496 -235 l 1,50,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ngagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ngaguj viramaguj
 EndChar
 
-StartChar: cagujarati_viramagujarati
+StartChar: caguj_viramaguj
 Encoding: 65576 -1 118
 Width: 468
 GlyphClass: 2
@@ -5148,10 +5148,10 @@ SplineSet
  33 265 l 1,35,-1
  33 265 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" cagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" caguj viramaguj
 EndChar
 
-StartChar: chagujarati_viramagujarati
+StartChar: chaguj_viramaguj
 Encoding: 65577 -1 119
 Width: 546
 GlyphClass: 2
@@ -5214,10 +5214,10 @@ SplineSet
  541 -240 l 5,68,-1
  541 -240 l 5,62,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" chagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" chaguj viramaguj
 EndChar
 
-StartChar: jagujarati_viramagujarati
+StartChar: jaguj_viramaguj
 Encoding: 65578 -1 120
 Width: 496
 GlyphClass: 2
@@ -5268,10 +5268,10 @@ SplineSet
  342 50 342 50 367 50 c 1,57,-1
  367 50 l 1,45,46
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" jagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" jaguj viramaguj
 EndChar
 
-StartChar: jhagujarati_viramagujarati
+StartChar: jhaguj_viramaguj
 Encoding: 65579 -1 121
 Width: 555
 GlyphClass: 2
@@ -5317,10 +5317,10 @@ SplineSet
  484 -10 484 -10 420 -10 c 1,51,-1
  420 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" jhagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" jhaguj viramaguj
 EndChar
 
-StartChar: nyagujarati_viramagujarati
+StartChar: nyaguj_viramaguj
 Encoding: 65580 -1 122
 Width: 502
 GlyphClass: 2
@@ -5352,10 +5352,10 @@ SplineSet
  53 177 53 177 22 230 c 1,29,-1
  22 230 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" nyagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" nyaguj viramaguj
 EndChar
 
-StartChar: ttagujarati_viramagujarati
+StartChar: ttaguj_viramaguj
 Encoding: 65581 -1 123
 Width: 398
 GlyphClass: 2
@@ -5400,10 +5400,10 @@ SplineSet
  478 -235 l 1,45,-1
  478 -235 l 1,39,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ttagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ttaguj viramaguj
 EndChar
 
-StartChar: tthagujarati_viramagujarati
+StartChar: tthaguj_viramaguj
 Encoding: 65582 -1 124
 Width: 433
 GlyphClass: 2
@@ -5451,10 +5451,10 @@ SplineSet
  508 -245 l 1,47,-1
  508 -245 l 1,41,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" tthagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" tthaguj viramaguj
 EndChar
 
-StartChar: ddagujarati_viramagujarati
+StartChar: ddaguj_viramaguj
 Encoding: 65583 -1 125
 Width: 442
 GlyphClass: 2
@@ -5499,10 +5499,10 @@ SplineSet
  517 -240 l 1,43,-1
  517 -240 l 1,37,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ddagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ddaguj viramaguj
 EndChar
 
-StartChar: ddhagujarati_viramagujarati
+StartChar: ddhaguj_viramaguj
 Encoding: 65584 -1 126
 Width: 424
 GlyphClass: 2
@@ -5562,10 +5562,10 @@ SplineSet
  494 -235 l 1,66,-1
  494 -235 l 1,60,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ddhagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ddhaguj viramaguj
 EndChar
 
-StartChar: nnagujarati_viramagujarati
+StartChar: nnaguj_viramaguj
 Encoding: 65585 -1 127
 Width: 578
 GlyphClass: 2
@@ -5608,10 +5608,10 @@ SplineSet
  419 160 419 160 344 160 c 1,43,-1
  344 160 l 1,17,18
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" nnagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" nnaguj viramaguj
 EndChar
 
-StartChar: tagujarati_viramagujarati
+StartChar: taguj_viramaguj
 Encoding: 65586 -1 128
 Width: 391
 GlyphClass: 2
@@ -5634,10 +5634,10 @@ SplineSet
  41 121 41 121 41 210 c 1,16,-1
  41 210 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" tagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" taguj viramaguj
 EndChar
 
-StartChar: thagujarati_viramagujarati
+StartChar: thaguj_viramaguj
 Encoding: 65587 -1 129
 Width: 424
 GlyphClass: 2
@@ -5678,10 +5678,10 @@ SplineSet
  182 361 182 361 224 350 c 1,42,-1
  224 350 l 1,30,31
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" thagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" thaguj viramaguj
 EndChar
 
-StartChar: dagujarati_viramagujarati
+StartChar: daguj_viramaguj
 Encoding: 65588 -1 130
 Width: 431
 GlyphClass: 2
@@ -5727,10 +5727,10 @@ SplineSet
  506 -240 l 1,44,-1
  506 -240 l 1,38,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" dagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" daguj viramaguj
 EndChar
 
-StartChar: dhagujarati_viramagujarati
+StartChar: dhaguj_viramaguj
 Encoding: 65589 -1 131
 Width: 426
 GlyphClass: 2
@@ -5764,10 +5764,10 @@ SplineSet
  290 50 290 50 226 50 c 1,33,-1
  226 50 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" dhagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" dhaguj viramaguj
 EndChar
 
-StartChar: nagujarati_viramagujarati
+StartChar: naguj_viramaguj
 Encoding: 65590 -1 132
 Width: 417
 GlyphClass: 2
@@ -5799,10 +5799,10 @@ SplineSet
  153 110 153 110 192 110 c 1,28,-1
  192 110 l 1,16,17
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" nagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" naguj viramaguj
 EndChar
 
-StartChar: pagujarati_viramagujarati
+StartChar: paguj_viramaguj
 Encoding: 65591 -1 133
 Width: 392
 GlyphClass: 2
@@ -5831,10 +5831,10 @@ SplineSet
  97 390 l 1,24,-1
  97 390 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" pagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" paguj viramaguj
 EndChar
 
-StartChar: phagujarati_viramagujarati
+StartChar: phaguj_viramaguj
 Encoding: 65592 -1 134
 Width: 383
 GlyphClass: 2
@@ -5882,10 +5882,10 @@ SplineSet
  70 42 70 42 37 75 c 1,51,-1
  37 75 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" phagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" phaguj viramaguj
 EndChar
 
-StartChar: bagujarati_viramagujarati
+StartChar: baguj_viramaguj
 Encoding: 65593 -1 135
 Width: 495
 GlyphClass: 2
@@ -5917,10 +5917,10 @@ SplineSet
  45 215 45 215 45 300 c 1,27,-1
  45 300 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" bagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" baguj viramaguj
 EndChar
 
-StartChar: bhagujarati_viramagujarati
+StartChar: bhaguj_viramaguj
 Encoding: 65594 -1 136
 Width: 525
 GlyphClass: 2
@@ -5955,10 +5955,10 @@ SplineSet
  50 197 50 197 50 290 c 1,33,-1
  50 290 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" bhagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" bhaguj viramaguj
 EndChar
 
-StartChar: magujarati_viramagujarati
+StartChar: maguj_viramaguj
 Encoding: 65595 -1 137
 Width: 356
 GlyphClass: 2
@@ -5999,10 +5999,10 @@ SplineSet
  131 100 131 100 156 100 c 1,37,-1
  156 100 l 1,26,27
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" magujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" maguj viramaguj
 EndChar
 
-StartChar: yagujarati_viramagujarati
+StartChar: yaguj_viramaguj
 Encoding: 65596 -1 138
 Width: 384
 GlyphClass: 2
@@ -6036,10 +6036,10 @@ SplineSet
  34 197 34 197 34 280 c 1,31,-1
  34 280 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" yagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" yaguj viramaguj
 EndChar
 
-StartChar: lagujarati_viramagujarati
+StartChar: laguj_viramaguj
 Encoding: 65597 -1 139
 Width: 438
 GlyphClass: 2
@@ -6070,10 +6070,10 @@ SplineSet
  248 0 l 1,23,-1
  248 0 l 1,5,6
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" lagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" laguj viramaguj
 EndChar
 
-StartChar: llagujarati_viramagujarati
+StartChar: llaguj_viramaguj
 Encoding: 65598 -1 140
 Width: 426
 GlyphClass: 2
@@ -6106,11 +6106,11 @@ SplineSet
  46 215 46 215 46 300 c 1,30,-1
  46 300 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" llagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" llaguj viramaguj
 LCarets2: 1 0 
 EndChar
 
-StartChar: vagujarati_viramagujarati
+StartChar: vaguj_viramaguj
 Encoding: 65599 -1 141
 Width: 380
 GlyphClass: 2
@@ -6137,10 +6137,10 @@ SplineSet
  40 241 40 241 40 320 c 1,22,-1
  40 320 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" vagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" vaguj viramaguj
 EndChar
 
-StartChar: shagujarati_viramagujarati
+StartChar: shaguj_viramaguj
 Encoding: 65600 -1 142
 Width: 393
 GlyphClass: 2
@@ -6179,10 +6179,10 @@ SplineSet
  286 0 l 1,39,-1
  286 0 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" shagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" shaguj viramaguj
 EndChar
 
-StartChar: ssagujarati_viramagujarati
+StartChar: ssaguj_viramaguj
 Encoding: 65601 -1 143
 Width: 403
 GlyphClass: 2
@@ -6215,10 +6215,10 @@ SplineSet
  218 160 218 160 268 160 c 1,27,-1
  268 160 l 1,19,20
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ssagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" ssaguj viramaguj
 EndChar
 
-StartChar: sagujarati_viramagujarati
+StartChar: saguj_viramaguj
 Encoding: 65602 -1 144
 Width: 421
 GlyphClass: 2
@@ -6259,10 +6259,10 @@ SplineSet
  21 470 l 1,39,-1
  21 470 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" sagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" saguj viramaguj
 EndChar
 
-StartChar: hagujarati_viramagujarati
+StartChar: haguj_viramaguj
 Encoding: 65603 -1 145
 Width: 441
 GlyphClass: 2
@@ -6304,10 +6304,10 @@ SplineSet
  338 -50 338 -50 301 -50 c 1,44,-1
  301 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" hagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" haguj viramaguj
 EndChar
 
-StartChar: ka_virama_ssa_viramagujarati
+StartChar: ka_virama_ssa_viramaguj
 Encoding: 65604 -1 146
 Width: 465
 GlyphClass: 2
@@ -6358,10 +6358,10 @@ SplineSet
  335 -75 l 1,57,-1
  335 -75 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" kagujarati_viramagujarati_ssagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" kaguj_viramaguj_ssaguj viramaguj
 EndChar
 
-StartChar: ja_virama_nya_viramagujarati
+StartChar: ja_virama_nya_viramaguj
 Encoding: 65605 -1 147
 Width: 473
 GlyphClass: 2
@@ -6403,10 +6403,10 @@ SplineSet
  328 -65 l 1,43,-1
  328 -65 l 1,0,1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" jagujarati_viramagujarati_nyagujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" jaguj_viramaguj_nyaguj viramaguj
 EndChar
 
-StartChar: ta_virama_ra_viramagujarati
+StartChar: ta_virama_ra_viramaguj
 Encoding: 65606 -1 148
 Width: 403
 GlyphClass: 2
@@ -6431,11 +6431,11 @@ SplineSet
  98 100 l 1,18,-1
  98 100 l 1,0,-1
 EndSplineSet
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" tagujarati_viramagujarati_ragujarati viramagujarati
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 7-1" tagujarati_viramagujarati_ragujarati viramagujarati
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" taguj_viramaguj_raguj viramaguj
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 7-1" taguj_viramaguj_raguj viramaguj
 EndChar
 
-StartChar: shagujarati_viramagujarati_alt
+StartChar: shaguj_viramaguj_alt
 Encoding: 65607 -1 149
 Width: 479
 GlyphClass: 2
@@ -6477,7 +6477,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: ta_virama_ta_viramagujarati
+StartChar: ta_virama_ta_viramaguj
 Encoding: 65608 -1 150
 Width: 428
 GlyphClass: 2
@@ -6502,11 +6502,11 @@ SplineSet
  88 119 88 119 88 195 c 1,18,-1
  88 195 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Gujarati lookup 7-1" tagujarati_viramagujarati_tagujarati viramagujarati 
-Ligature2: "'half' Half Forms in Gujarati lookup 4-1" tagujarati_viramagujarati_tagujarati viramagujarati 
+Ligature2: "'vatu' Vattu Variants in Gujarati lookup 7-1" taguj_viramaguj_taguj viramaguj 
+Ligature2: "'half' Half Forms in Gujarati lookup 4-1" taguj_viramaguj_taguj viramaguj 
 EndChar
 
-StartChar: kagujarati_viramagujarati_ragujarati
+StartChar: kaguj_viramaguj_raguj
 Encoding: 65609 -1 151
 Width: 462
 GlyphClass: 2
@@ -6554,10 +6554,11 @@ SplineSet
  307 0 307 0 235 0 c 1,47,-1
  235 0 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" kagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" kaguj raguj viramaguj 
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" kaguj viramaguj raguj
 EndChar
 
-StartChar: khagujarati_viramagujarati_ragujarati
+StartChar: khaguj_viramaguj_raguj
 Encoding: 65610 -1 152
 Width: 636
 GlyphClass: 2
@@ -6600,10 +6601,10 @@ SplineSet
  91 218 91 218 91 280 c 1,38,-1
  91 280 l 1,0,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" khagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" khaguj viramaguj raguj
 EndChar
 
-StartChar: gagujarati_viramagujarati_ragujarati
+StartChar: gaguj_viramaguj_raguj
 Encoding: 65611 -1 153
 Width: 581
 GlyphClass: 2
@@ -6642,10 +6643,10 @@ SplineSet
  253 145 253 145 176 145 c 1,35,-1
  176 145 l 1,9,10
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" gagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" gaguj viramaguj raguj
 EndChar
 
-StartChar: ghagujarati_viramagujarati_ragujarati
+StartChar: ghaguj_viramaguj_raguj
 Encoding: 65612 -1 154
 Width: 564
 GlyphClass: 2
@@ -6688,10 +6689,10 @@ SplineSet
  414 500 l 1,41,-1
  414 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" ghagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" ghaguj viramaguj raguj
 EndChar
 
-StartChar: cagujarati_viramagujarati_ragujarati
+StartChar: caguj_viramaguj_raguj
 Encoding: 65614 -1 155
 Width: 638
 GlyphClass: 2
@@ -6732,10 +6733,10 @@ SplineSet
  33 265 l 1,39,-1
  33 265 l 1,0,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" cagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" caguj viramaguj raguj
 EndChar
 
-StartChar: jagujarati_viramagujarati_ragujarati
+StartChar: jaguj_viramaguj_raguj
 Encoding: 65616 -1 156
 Width: 611
 GlyphClass: 2
@@ -6794,10 +6795,10 @@ SplineSet
  366 50 366 50 391 50 c 1,62,-1
  391 50 l 1,50,51
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" jagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" jaguj viramaguj raguj
 EndChar
 
-StartChar: jhagujarati_viramagujarati_ragujarati
+StartChar: jhaguj_viramaguj_raguj
 Encoding: 65617 -1 157
 Width: 631
 GlyphClass: 2
@@ -6849,11 +6850,11 @@ SplineSet
  495 -10 495 -10 433 -10 c 1,57,-1
  433 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" jhagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" jhaguj viramaguj raguj
 LCarets2: 1 0 
 EndChar
 
-StartChar: nyagujarati_viramagujarati_ragujarati
+StartChar: nyaguj_viramaguj_raguj
 Encoding: 65618 -1 158
 Width: 673
 GlyphClass: 2
@@ -6893,10 +6894,10 @@ SplineSet
  54 177 54 177 23 230 c 1,37,-1
  23 230 l 1,0,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" nyagujarati viramagujarati ragujarati 
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" nyaguj viramaguj raguj
 EndChar
 
-StartChar: nnagujarati_viramagujarati_ragujarati
+StartChar: nnaguj_viramaguj_raguj
 Encoding: 65623 -1 159
 Width: 764
 GlyphClass: 2
@@ -6949,10 +6950,10 @@ SplineSet
  614 500 l 1,52,-1
  614 500 l 1,44,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" nnagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" nnaguj viramaguj raguj
 EndChar
 
-StartChar: tagujarati_viramagujarati_ragujarati
+StartChar: taguj_viramaguj_raguj
 Encoding: 65624 -1 160
 Width: 573
 GlyphClass: 2
@@ -6981,10 +6982,10 @@ SplineSet
  423 500 l 1,22,-1
  423 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" tagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" taguj viramaguj raguj
 EndChar
 
-StartChar: thagujarati_viramagujarati_ragujarati
+StartChar: thaguj_viramaguj_raguj
 Encoding: 65625 -1 161
 Width: 600
 GlyphClass: 2
@@ -7030,10 +7031,10 @@ SplineSet
  188 361 188 361 230 350 c 1,46,-1
  230 350 l 1,34,35
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" thagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" thaguj viramaguj raguj
 EndChar
 
-StartChar: dagujarati_viramagujarati_ragujarati
+StartChar: daguj_viramaguj_raguj
 Encoding: 65626 -1 162
 Width: 499
 GlyphClass: 2
@@ -7085,10 +7086,11 @@ SplineSet
  311 158 311 158 318 145 c 1,56,-1
  318 145 l 1,44,45
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" dagujarati viramagujarati ragujarati
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj raguj 
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" daguj viramaguj raguj
 EndChar
 
-StartChar: dhagujarati_viramagujarati_ragujarati
+StartChar: dhaguj_viramaguj_raguj
 Encoding: 65627 -1 163
 Width: 601
 GlyphClass: 2
@@ -7127,10 +7129,10 @@ SplineSet
  66 146 66 146 66 190 c 1,37,-1
  66 190 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" dhagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" dhaguj viramaguj raguj
 EndChar
 
-StartChar: nagujarati_viramagujarati_ragujarati
+StartChar: naguj_viramaguj_raguj
 Encoding: 65628 -1 164
 Width: 589
 GlyphClass: 2
@@ -7170,10 +7172,10 @@ SplineSet
  163 175 163 175 194 175 c 1,36,-1
  194 175 l 1,24,25
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" nagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" naguj viramaguj raguj
 EndChar
 
-StartChar: pagujarati_viramagujarati_ragujarati
+StartChar: paguj_viramaguj_raguj
 Encoding: 65629 -1 165
 Width: 573
 GlyphClass: 2
@@ -7207,10 +7209,10 @@ SplineSet
  108 400 l 1,28,-1
  108 400 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" pagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" paguj viramaguj raguj
 EndChar
 
-StartChar: phagujarati_viramagujarati_ragujarati
+StartChar: phaguj_viramaguj_raguj
 Encoding: 65630 -1 166
 Width: 464
 GlyphClass: 2
@@ -7262,10 +7264,10 @@ SplineSet
  365 -110 l 1,54,-1
  365 -110 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" phagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" phaguj viramaguj raguj
 EndChar
 
-StartChar: bagujarati_viramagujarati_ragujarati
+StartChar: baguj_viramaguj_raguj
 Encoding: 65631 -1 167
 Width: 667
 GlyphClass: 2
@@ -7305,10 +7307,10 @@ SplineSet
  47 235 47 235 47 312 c 1,35,-1
  47 312 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" bagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" baguj viramaguj raguj
 EndChar
 
-StartChar: bhagujarati_viramagujarati_ragujarati
+StartChar: bhaguj_viramaguj_raguj
 Encoding: 65632 -1 168
 Width: 692
 GlyphClass: 2
@@ -7351,10 +7353,10 @@ SplineSet
  47 214 47 214 47 290 c 1,41,-1
  47 290 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" bhagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" bhaguj viramaguj raguj
 EndChar
 
-StartChar: magujarati_viramagujarati_ragujarati
+StartChar: maguj_viramaguj_raguj
 Encoding: 65633 -1 169
 Width: 566
 GlyphClass: 2
@@ -7403,10 +7405,10 @@ SplineSet
  128 120 128 120 151 120 c 1,45,-1
  151 120 l 1,34,35
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" magujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" maguj viramaguj raguj
 EndChar
 
-StartChar: yagujarati_viramagujarati_ragujarati
+StartChar: yaguj_viramaguj_raguj
 Encoding: 65634 -1 170
 Width: 570
 GlyphClass: 2
@@ -7445,10 +7447,10 @@ SplineSet
  50 217 50 217 50 280 c 1,35,-1
  50 280 l 1,0,-1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" yagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" yaguj viramaguj raguj
 EndChar
 
-StartChar: lagujarati_viramagujarati_ragujarati
+StartChar: laguj_viramaguj_raguj
 Encoding: 65635 -1 171
 Width: 608
 GlyphClass: 2
@@ -7487,10 +7489,10 @@ SplineSet
  248 0 l 1,31,-1
  248 0 l 1,13,14
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" lagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" laguj viramaguj raguj
 EndChar
 
-StartChar: llagujarati_viramagujarati_ragujarati
+StartChar: llaguj_viramaguj_raguj
 Encoding: 65636 -1 172
 Width: 666
 GlyphClass: 2
@@ -7533,10 +7535,10 @@ SplineSet
  46 215 46 215 46 300 c 1,42,-1
  46 300 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" llagujarati viramagujarati ragujarati 
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" llaguj viramaguj raguj
 EndChar
 
-StartChar: vagujarati_viramagujarati_ragujarati
+StartChar: vaguj_viramaguj_raguj
 Encoding: 65637 -1 173
 Width: 559
 GlyphClass: 2
@@ -7568,11 +7570,11 @@ SplineSet
  49 246 49 246 49 320 c 1,26,-1
  49 320 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" vagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" vaguj viramaguj raguj
 LCarets2: 1 0 
 EndChar
 
-StartChar: shagujarati_viramagujarati_ragujarati
+StartChar: shaguj_viramaguj_raguj
 Encoding: 65638 -1 174
 Width: 635
 GlyphClass: 2
@@ -7620,11 +7622,11 @@ SplineSet
  218 365 218 365 250 350 c 1,50,-1
  250 350 l 1,38,39
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" shagujarati viramagujarati ragujarati 
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" shagujarati viramagujaratiragujarati
+Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" shaguj viramaguj raguj 
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" shaguj viramaguj raguj
 EndChar
 
-StartChar: ssagujarati_viramagujarati_ragujarati
+StartChar: ssaguj_viramaguj_raguj
 Encoding: 65639 -1 175
 Width: 562
 GlyphClass: 2
@@ -7660,10 +7662,10 @@ SplineSet
  150 290 l 2,33,34
  152 220 152 220 234 198 c 0,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" ssagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" ssaguj viramaguj raguj
 EndChar
 
-StartChar: sagujarati_viramagujarati_ragujarati
+StartChar: saguj_viramaguj_raguj
 Encoding: 65640 -1 176
 Width: 630
 GlyphClass: 2
@@ -7712,10 +7714,10 @@ SplineSet
  20 470 l 1,47,-1
  20 470 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" sagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" saguj viramaguj raguj
 EndChar
 
-StartChar: hagujarati_viramdeva_ragujarati
+StartChar: haguj_viramdeva_raguj
 Encoding: 65641 -1 177
 Width: 539
 GlyphClass: 2
@@ -7763,10 +7765,10 @@ SplineSet
  298 300 l 1,48,-1
  298 300 l 1,0,1
 EndSplineSet
-Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" hagujarati viramagujarati ragujarati
+Ligature2: "'rkrf' Rakar Forms in Gujarati lookup 5-1" haguj viramaguj raguj
 EndChar
 
-StartChar: evowelsigngujarati_anusvaragujarati
+StartChar: evowelsignguj_anusvaraguj
 Encoding: 65642 -1 178
 Width: 0
 GlyphClass: 4
@@ -7796,10 +7798,10 @@ SplineSet
  -47 635 -47 635 -70 635 c 1,23,-1
  -70 635 l 1,11,12
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" evowelsigngujarati anusvaragujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" evowelsignguj anusvaraguj
 EndChar
 
-StartChar: evowelsigngujarati_rphfgujarati
+StartChar: evowelsignguj_rphfguj
 Encoding: 65643 -1 179
 Width: 0
 GlyphClass: 4
@@ -7830,10 +7832,10 @@ SplineSet
  -406 705 -406 705 -445 705 c 1,26,-1
  -445 705 l 1,0,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" evowelsigngujarati rphfgujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" evowelsignguj rphfguj
 EndChar
 
-StartChar: evowelsigngujarati_rphfgujarati_anusvara
+StartChar: evowelsignguj_rphfguj_anusvara
 Encoding: 65644 -1 180
 Width: 0
 GlyphClass: 4
@@ -7874,10 +7876,10 @@ SplineSet
  -406 705 -406 705 -445 705 c 1,39,-1
  -445 705 l 1,13,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" evowelsigngujarati rphfgujarati anusvaragujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" evowelsignguj rphfguj anusvaraguj
 EndChar
 
-StartChar: aivowelsigngujarati_anusvaragujarati
+StartChar: aivowelsignguj_anusvaraguj
 Encoding: 65645 -1 181
 Width: 0
 GlyphClass: 4
@@ -7917,10 +7919,10 @@ SplineSet
  -27 645 -27 645 -50 645 c 1,34,-1
  -50 645 l 1,22,23
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" aivowelsigngujarati anusvaragujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" aivowelsignguj anusvaraguj
 EndChar
 
-StartChar: aivowelsigngujarati_rphfgujarati
+StartChar: aivowelsignguj_rphfguj
 Encoding: 65646 -1 182
 Width: 0
 GlyphClass: 4
@@ -7959,10 +7961,10 @@ SplineSet
  -461 705 -461 705 -500 705 c 1,34,-1
  -500 705 l 1,24,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" aivowelsigngujarati rphfgujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" aivowelsignguj rphfguj
 EndChar
 
-StartChar: aivowelsigngujarati_rphfgujarati_anusvara
+StartChar: aivowelsignguj_rphfguj_anusvara
 Encoding: 65647 -1 183
 Width: 0
 GlyphClass: 4
@@ -8011,10 +8013,10 @@ SplineSet
  -461 705 -461 705 -500 705 c 1,47,-1
  -500 705 l 1,37,-1
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" aivowelsigngujarati rphfgujarati anusvaragujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" aivowelsignguj rphfguj anusvaraguj
 EndChar
 
-StartChar: iivowelsigngujarati_anusvaragujarati
+StartChar: iivowelsignguj_anusvaraguj
 Encoding: 65648 -1 184
 Width: 240
 GlyphClass: 2
@@ -8049,10 +8051,10 @@ SplineSet
  228 630 228 630 205 630 c 1,31,-1
  205 630 l 1,19,20
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iivowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iivowelsignguj anusvaraguj
 EndChar
 
-StartChar: iivowelsigngujarati_rphfgujarati
+StartChar: iivowelsignguj_rphfguj
 Encoding: 65649 -1 185
 Width: 240
 GlyphClass: 2
@@ -8086,10 +8088,10 @@ SplineSet
  -150 560 l 1,31,-1
  -150 560 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iivowelsigngujarati rphfgujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iivowelsignguj rphfguj
 EndChar
 
-StartChar: iivowelsigngujarati_rphfgujarati_anusvara
+StartChar: iivowelsignguj_rphfguj_anusvara
 Encoding: 65650 -1 186
 Width: 240
 GlyphClass: 2
@@ -8134,10 +8136,10 @@ SplineSet
  -150 560 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iivowelsigngujarati rphfgujarati_anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iivowelsignguj rphfguj_anusvaraguj
 EndChar
 
-StartChar: ovowelsigngujarati_anusvaragujarati
+StartChar: ovowelsignguj_anusvaraguj
 Encoding: 65651 -1 187
 Width: 240
 GlyphClass: 2
@@ -8172,10 +8174,10 @@ SplineSet
  163 640 163 640 140 640 c 1,28,-1
  140 640 l 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ovowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ovowelsignguj anusvaraguj
 EndChar
 
-StartChar: ovowelsigngujarati_rphfgujarati
+StartChar: ovowelsignguj_rphfguj
 Encoding: 65652 -1 188
 Width: 240
 GlyphClass: 2
@@ -8212,10 +8214,10 @@ SplineSet
  -205 710 l 1,5,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ovowelsigngujarati rphfgujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ovowelsignguj rphfguj
 EndChar
 
-StartChar: ovowelsigngujarati_rphfgujarati_anusvara
+StartChar: ovowelsignguj_rphfguj_anusvara
 Encoding: 65653 -1 189
 Width: 240
 GlyphClass: 2
@@ -8261,10 +8263,10 @@ SplineSet
  -166 715 -166 715 -205 715 c 1,44,-1
  -205 715 l 1,18,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ovowelsigngujarati rphfgujarati_anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ovowelsignguj rphfguj_anusvaraguj
 EndChar
 
-StartChar: auvowelsigngujarati_anusvaragujarati
+StartChar: auvowelsignguj_anusvaraguj
 Encoding: 65654 -1 190
 Width: 240
 GlyphClass: 2
@@ -8309,10 +8311,10 @@ SplineSet
  -224 705 -224 705 -265 705 c 1,39,-1
  -265 705 l 1,29,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" auvowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" auvowelsignguj anusvaraguj
 EndChar
 
-StartChar: auvowelsigngujarati_rphfgujarati
+StartChar: auvowelsignguj_rphfguj
 Encoding: 65655 -1 191
 Width: 240
 GlyphClass: 2
@@ -8356,10 +8358,10 @@ SplineSet
  -224 705 -224 705 -265 705 c 1,39,-1
  -265 705 l 1,29,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" auvowelsigngujarati rphfgujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" auvowelsignguj rphfguj
 EndChar
 
-StartChar: auvowelsigngujarati_rphfgujarati_anusvara
+StartChar: auvowelsignguj_rphfguj_anusvara
 Encoding: 65656 -1 192
 Width: 240
 GlyphClass: 2
@@ -8413,10 +8415,10 @@ SplineSet
  -224 705 -224 705 -265 705 c 1,52,-1
  -265 705 l 1,42,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" auvowelsigngujarati rphfgujarati_anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" auvowelsignguj rphfguj_anusvaraguj
 EndChar
 
-StartChar: ecandravowelsigngujarati_anusvara
+StartChar: ecandravowelsignguj_anusvara
 Encoding: 65657 -1 193
 Width: 0
 GlyphClass: 4
@@ -8448,10 +8450,10 @@ SplineSet
  -90 500 -90 500 -120 500 c 1,27,-1
  -120 500 l 1,13,14
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" ecandravowelsigngujarati anusvaragujarati
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" ecandravowelsignguj anusvaraguj
 EndChar
 
-StartChar: ocandravowelsigngujarati_anusvara
+StartChar: ocandravowelsignguj_anusvara
 Encoding: 65658 -1 194
 Width: 240
 GlyphClass: 2
@@ -8488,10 +8490,10 @@ SplineSet
  138 625 138 625 115 625 c 1,32,-1
  115 625 l 1,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ocandravowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" ocandravowelsignguj anusvaraguj
 EndChar
 
-StartChar: igujarati_anusvaragujarati
+StartChar: iguj_anusvaraguj
 Encoding: 65659 -1 195
 Width: 529
 GlyphClass: 2
@@ -8549,10 +8551,10 @@ SplineSet
  251 590 251 590 228 590 c 1,66,-1
  228 590 l 1,54,55
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" igujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iguj anusvaraguj
 EndChar
 
-StartChar: iigujarati_anusvaragujarati
+StartChar: iiguj_anusvaraguj
 Encoding: 65660 -1 196
 Width: 533
 GlyphClass: 2
@@ -8614,10 +8616,10 @@ SplineSet
  270 590 270 590 247 590 c 1,72,-1
  247 590 l 1,60,61
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iigujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" iiguj anusvaraguj
 EndChar
 
-StartChar: ugujarati_anusvaragujarati
+StartChar: uguj_anusvaraguj
 Encoding: 65661 -1 197
 Width: 551
 GlyphClass: 2
@@ -8673,7 +8675,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uugujarati_anusvaragujarati
+StartChar: uuguj_anusvaraguj
 Encoding: 65662 -1 198
 Width: 735
 GlyphClass: 2
@@ -8735,7 +8737,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ragujarati_uvowelsigngujarati_alt
+StartChar: raguj_uvowelsignguj_alt
 Encoding: 65663 -1 199
 Width: 664
 GlyphClass: 2
@@ -8787,10 +8789,10 @@ SplineSet
  515 100 515 100 434 100 c 1,54,-1
  434 100 l 1,34,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" ragujarati uvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" raguj uvowelsignguj
 EndChar
 
-StartChar: ragujarati_uuvowelsigngujarati_alt
+StartChar: raguj_uuvowelsignguj_alt
 Encoding: 65664 -1 200
 Width: 680
 GlyphClass: 2
@@ -8845,10 +8847,10 @@ SplineSet
  580 60 l 1,58,-1
  580 60 l 1,32,33
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" ragujarati uuvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" raguj uuvowelsignguj
 EndChar
 
-StartChar: hagujarati_rvocalicvowelsigngujarati
+StartChar: haguj_rvocalicvowelsignguj
 Encoding: 65665 -1 201
 Width: 545
 GlyphClass: 2
@@ -8905,10 +8907,10 @@ SplineSet
  460 -55 l 1,64,-1
  460 -55 l 1,0,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" hagujarati rvocalicvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" haguj rvocalicvowelsignguj
 EndChar
 
-StartChar: jagujarati_aavowelsigngujarati
+StartChar: jaguj_aavowelsignguj
 Encoding: 65666 -1 202
 Width: 779
 GlyphClass: 2
@@ -8962,10 +8964,10 @@ SplineSet
  375 50 375 50 398 50 c 1,60,-1
  398 50 l 1,48,49
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati aavowelsigngujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj aavowelsignguj
 EndChar
 
-StartChar: jagujarati_iivowelsigngujarati
+StartChar: jaguj_iivowelsignguj
 Encoding: 65667 -1 203
 Width: 784
 GlyphClass: 2
@@ -9028,10 +9030,10 @@ SplineSet
  357 185 357 185 367 185 c 1,75,-1
  367 185 l 1,63,64
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati iivowelsigngujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj iivowelsignguj
 EndChar
 
-StartChar: ragujarati_uuvowelsigngujarati
+StartChar: raguj_uuvowelsignguj
 Encoding: 65668 -1 204
 Width: 437
 GlyphClass: 2
@@ -9081,10 +9083,10 @@ SplineSet
  353 -130 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" ragujarati uuvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" raguj uuvowelsignguj
 EndChar
 
-StartChar: da_rvocalicvowelsigngujarati
+StartChar: da_rvocalicvowelsignguj
 Encoding: 65669 -1 205
 Width: 466
 GlyphClass: 2
@@ -9128,10 +9130,10 @@ SplineSet
  184 260 184 260 238 260 c 1,47,-1
  238 260 l 1,0,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" dagujarati rvocalicvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" daguj rvocalicvowelsignguj
 EndChar
 
-StartChar: kagujarati_viramagujarati_kagujarati
+StartChar: kaguj_viramaguj_kaguj
 Encoding: 65670 -1 206
 Width: 885
 GlyphClass: 2
@@ -9204,10 +9206,10 @@ SplineSet
  309 -10 309 -10 232 -10 c 1,84,-1
  232 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" kagujarati_viramagujarati kagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" kaguj_viramaguj kaguj
 EndChar
 
-StartChar: gagujarati_viramagujarati_nagujarati
+StartChar: gaguj_viramaguj_naguj
 Encoding: 65671 -1 207
 Width: 634
 GlyphClass: 2
@@ -9253,13 +9255,13 @@ SplineSet
  484 230 l 1,46,-1
  484 230 l 1,27,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" gagujarati_viramagujarati nagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" gaguj_viramaguj naguj
 EndChar
 
-StartChar: ngagujarati_viramagujarati_kagujarati
+StartChar: ngaguj_viramaguj_kaguj
 Encoding: 65672 -1 208
 Width: 555
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 274 -172 basechar 0
 AnchorPoint: "Anchor-0" 274 -16 basechar 0
@@ -9342,13 +9344,13 @@ SplineSet
  503 355 503 355 482 355 c 1,99,-1
  482 355 l 1,87,88
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ngagujarati_viramagujarati kagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ngaguj_viramaguj kaguj
 EndChar
 
-StartChar: ngagujarati_viramagujarati_khagujarati
+StartChar: ngaguj_viramaguj_khaguj
 Encoding: 65673 -1 209
 Width: 585
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 446 -174 basechar 0
 AnchorPoint: "Anchor-0" 312 -8 basechar 0
@@ -9443,13 +9445,13 @@ SplineSet
  538 355 538 355 517 355 c 1,110,-1
  517 355 l 1,98,99
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ngagujarati_viramagujarati khagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ngaguj_viramaguj khaguj
 EndChar
 
-StartChar: ngagujarati_viramagujarati_gagujarati
+StartChar: ngaguj_viramaguj_gaguj
 Encoding: 65674 -1 210
 Width: 551
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 360 -168 basechar 0
 AnchorPoint: "Anchor-0" 296 0 basechar 0
@@ -9520,13 +9522,13 @@ SplineSet
  502 355 502 355 481 355 c 1,84,-1
  481 355 l 1,72,73
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ngagujarati_viramagujarati gagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ngaguj_viramaguj gaguj
 EndChar
 
-StartChar: ngagujarati_viramagujarati_ghagujarati
+StartChar: ngaguj_viramaguj_ghaguj
 Encoding: 65675 -1 211
 Width: 552
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 354 -182 basechar 0
 AnchorPoint: "Anchor-0" 296 0 basechar 0
@@ -9607,13 +9609,13 @@ SplineSet
  503 355 503 355 482 355 c 1,95,-1
  482 355 l 1,83,84
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ngagujarati_viramagujarati ghagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ngaguj_viramaguj ghaguj
 EndChar
 
-StartChar: ngagujarati_viramagujarati_magujarati
+StartChar: ngaguj_viramaguj_maguj
 Encoding: 65676 -1 212
 Width: 548
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 348 -164 basechar 0
 AnchorPoint: "Anchor-0" 282 0 basechar 0
@@ -9698,13 +9700,13 @@ SplineSet
  499 355 499 355 478 355 c 1,96,-1
  478 355 l 1,84,85
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ngagujarati_viramagujarati magujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ngaguj_viramaguj maguj
 EndChar
 
-StartChar: nga_virama_ka_virama_ssagujarati
+StartChar: nga_virama_ka_virama_ssaguj
 Encoding: 65677 -1 213
 Width: 555
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 394 -168 basechar 0
 AnchorPoint: "Anchor-0" 302 0 basechar 0
@@ -9799,10 +9801,10 @@ SplineSet
  506 355 506 355 485 355 c 1,116,-1
  485 355 l 1,104,105
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ngagujarati_viramagujarati kagujarati_viramagujarati_ssagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ngaguj_viramaguj kaguj_viramaguj_ssaguj
 EndChar
 
-StartChar: jagujarati_viramagujarati_jagujarati
+StartChar: jaguj_viramaguj_jaguj
 Encoding: 65678 -1 214
 Width: 599
 GlyphClass: 2
@@ -9897,10 +9899,10 @@ SplineSet
  345 253 345 253 370 253 c 1,115,-1
  370 253 l 1,103,104
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" jagujarati_viramagujarati jagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" jaguj_viramaguj jaguj
 EndChar
 
-StartChar: nyagujarati_viramagujarati_cagujarati
+StartChar: nyaguj_viramaguj_caguj
 Encoding: 65679 -1 215
 Width: 631
 GlyphClass: 2
@@ -9950,10 +9952,10 @@ SplineSet
  481 500 l 1,51,-1
  481 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" nyagujarati_viramagujarati cagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" nyaguj_viramaguj caguj
 EndChar
 
-StartChar: nyagujarati_viramagujarati_jagujarati
+StartChar: nyaguj_viramaguj_jaguj
 Encoding: 65680 -1 216
 Width: 661
 GlyphClass: 2
@@ -10003,10 +10005,10 @@ SplineSet
  511 500 l 1,51,-1
  511 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" nyagujarati_viramagujarati jagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" nyaguj_viramaguj jaguj
 EndChar
 
-StartChar: ttagujarati_viramagujarati_ttagujarati
+StartChar: ttaguj_viramaguj_ttaguj
 Encoding: 65681 -1 217
 Width: 588
 GlyphClass: 2
@@ -10064,10 +10066,10 @@ SplineSet
  372 -50 372 -50 283 -50 c 1,66,-1
  283 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ttagujarati_viramagujarati ttagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ttaguj_viramaguj ttaguj
 EndChar
 
-StartChar: ttagujarati_viramagujarati_yagujarati
+StartChar: ttaguj_viramaguj_yaguj
 Encoding: 65682 -1 218
 Width: 941
 GlyphClass: 2
@@ -10130,11 +10132,11 @@ SplineSet
  287 -10 287 -10 226 -10 c 1,72,-1
  226 -10 l 1,0,1
 EndSplineSet
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ttaguj_viramaguj yaguj
 LCarets2: 1 0 
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ttagujarati_viramagujarati yagujarati
 EndChar
 
-StartChar: ttagujarati_viramagujarati_vagujarati
+StartChar: ttaguj_viramaguj_vaguj
 Encoding: 65683 -1 219
 Width: 443
 GlyphClass: 2
@@ -10194,10 +10196,10 @@ SplineSet
  244 119 244 119 221 119 c 1,66,-1
  221 119 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ttagujarati_viramagujarati vagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ttaguj_viramaguj vaguj
 EndChar
 
-StartChar: tthagujarati_viramagujarati_tthagujarati
+StartChar: tthaguj_viramaguj_tthaguj
 Encoding: 65684 -1 220
 Width: 610
 GlyphClass: 2
@@ -10263,10 +10265,10 @@ SplineSet
  214 250 214 250 305 250 c 1,75,-1
  305 250 l 1,63,64
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" tthagujarati_viramagujarati tthagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" tthaguj_viramaguj tthaguj
 EndChar
 
-StartChar: tthagujarati_viramagujarati_yagujarati
+StartChar: tthaguj_viramaguj_yaguj
 Encoding: 65685 -1 221
 Width: 1023
 GlyphClass: 2
@@ -10335,10 +10337,10 @@ SplineSet
  193 25 193 25 253 25 c 1,76,-1
  253 25 l 1,64,65
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" tthagujarati_viramagujarati yagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" tthaguj_viramaguj yaguj
 EndChar
 
-StartChar: ddagujarati_viramagujarati_ddagujarati
+StartChar: ddaguj_viramaguj_ddaguj
 Encoding: 65686 -1 222
 Width: 592
 GlyphClass: 2
@@ -10408,10 +10410,10 @@ SplineSet
  419 -90 419 -90 324 -90 c 1,84,-1
  324 -90 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ddagujarati_viramagujarati ddagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ddaguj_viramaguj ddaguj
 EndChar
 
-StartChar: ddagujarati_viramagujarati_yagujarati
+StartChar: ddaguj_viramaguj_yaguj
 Encoding: 65687 -1 223
 Width: 1012
 GlyphClass: 2
@@ -10477,10 +10479,9 @@ SplineSet
  724 45 724 45 662 45 c 1,72,-1
  662 45 l 1,37,38
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ddagujarati_viramagujarati yagujarati
 EndChar
 
-StartChar: ddagujarati_viramagujarati_ddhagujarati
+StartChar: ddaguj_viramaguj_ddhaguj
 Encoding: 65688 -1 224
 Width: 604
 GlyphClass: 2
@@ -10552,10 +10553,10 @@ SplineSet
  415 10 415 10 434 10 c 1,85,-1
  434 10 l 1,73,74
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ddagujarati_viramagujarati ddhagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ddaguj_viramaguj ddhaguj
 EndChar
 
-StartChar: ddhagujarati_viramagujarati_ddhagujarati
+StartChar: ddhaguj_viramaguj_ddhaguj
 Encoding: 65689 -1 225
 Width: 602
 GlyphClass: 2
@@ -10631,10 +10632,10 @@ SplineSet
  407 235 407 235 434 235 c 1,90,-1
  434 235 l 1,78,79
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ddhagujarati_viramagujarati ddhagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ddhaguj_viramaguj ddhaguj
 EndChar
 
-StartChar: ddhagujarati_viramagujarati_yagujarati
+StartChar: ddhaguj_viramaguj_yaguj
 Encoding: 65690 -1 226
 Width: 990
 GlyphClass: 2
@@ -10713,10 +10714,11 @@ SplineSet
  317 60 317 60 340 60 c 1,92,-1
  340 60 l 1,80,81
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ddhagujarati_viramagujarati yagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ddhaguj_viramaguj yaguj
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ddaguj_viramaguj yaguj
 EndChar
 
-StartChar: tagujarati_viramagujarati_tagujarati
+StartChar: taguj_viramaguj_taguj
 Encoding: 65691 -1 227
 Width: 598
 GlyphClass: 2
@@ -10745,10 +10747,10 @@ SplineSet
  88 118 88 118 88 195 c 1,22,-1
  88 195 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" tagujarati viramagujarati tagujarati
+Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" taguj viramaguj taguj
 EndChar
 
-StartChar: dagujarati_viramagujarati_yagujarati
+StartChar: daguj_viramaguj_yaguj
 Encoding: 65692 -1 228
 Width: 588
 GlyphClass: 2
@@ -10795,10 +10797,11 @@ SplineSet
  28 317 28 317 28 355 c 1,50,-1
  28 355 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati yagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj yaguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj yaguj 
 EndChar
 
-StartChar: da_virama_gagujarati_pri_a
+StartChar: da_virama_gaguj_pri_a
 Encoding: 65693 -1 229
 Width: 493
 GlyphClass: 2
@@ -10866,10 +10869,10 @@ SplineSet
  308 173 308 173 315 160 c 1,79,-1
  315 160 l 1,67,68
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati gagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj gaguj 
 EndChar
 
-StartChar: dagujarati_viramagujarati_vagujarati_pri_a
+StartChar: daguj_viramaguj_vaguj_pri_a
 Encoding: 65694 -1 230
 Width: 602
 GlyphClass: 2
@@ -10934,10 +10937,11 @@ SplineSet
  419 172 419 172 429 155 c 1,73,-1
  429 155 l 1,61,62
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati vagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj vaguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj vaguj 
 EndChar
 
-StartChar: dagujarati_viramagujarati_dagujarati_pri_a
+StartChar: daguj_viramaguj_daguj_pri_a
 Encoding: 65695 -1 231
 Width: 518
 GlyphClass: 2
@@ -11005,10 +11009,11 @@ SplineSet
  368 104 368 104 380 90 c 1,78,-1
  380 90 l 1,66,67
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati dagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj daguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj daguj 
 EndChar
 
-StartChar: dagujarati_viramagujarati_dhagujarati_pri_a
+StartChar: daguj_viramaguj_dhaguj_pri_a
 Encoding: 65696 -1 232
 Width: 600
 GlyphClass: 2
@@ -11086,10 +11091,11 @@ SplineSet
  421 168 421 168 428 155 c 1,94,-1
  428 155 l 1,82,83
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati dhagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj dhaguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj dhaguj 
 EndChar
 
-StartChar: dagujarati_viramagujarati_jagujarati_pri_a
+StartChar: daguj_viramaguj_jaguj_pri_a
 Encoding: 65697 -1 233
 Width: 687
 GlyphClass: 2
@@ -11167,10 +11173,11 @@ SplineSet
  499 166 499 166 511 145 c 1,93,-1
  511 145 l 1,81,82
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati jagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj jaguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj jaguj 
 EndChar
 
-StartChar: dagujarati_viramagujarati_magujarati_pri_a
+StartChar: daguj_viramaguj_maguj_pri_a
 Encoding: 65698 -1 234
 Width: 645
 GlyphClass: 2
@@ -11227,10 +11234,11 @@ SplineSet
  212 55 212 55 235 55 c 1,61,-1
  235 55 l 1,51,52
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati magujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj maguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj maguj 
 EndChar
 
-StartChar: dagujarati_viramagujarati_nagujarati_pri_a
+StartChar: daguj_viramaguj_naguj_pri_a
 Encoding: 65699 -1 235
 Width: 506
 GlyphClass: 2
@@ -11292,10 +11300,11 @@ SplineSet
  318 158 318 158 325 145 c 1,69,-1
  325 145 l 1,57,58
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" dagujarati_viramagujarati nagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" daguj_viramaguj naguj
+Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" daguj_viramaguj naguj 
 EndChar
 
-StartChar: nagujarati_viramagujarati_nagujarati
+StartChar: naguj_viramaguj_naguj
 Encoding: 65700 -1 236
 Width: 556
 GlyphClass: 2
@@ -11333,10 +11342,10 @@ SplineSet
  406 310 l 1,36,-1
  406 310 l 1,0,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" nagujarati_viramagujarati nagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" naguj_viramaguj naguj
 EndChar
 
-StartChar: pagujarati_viramagujarati_tagujarati
+StartChar: paguj_viramaguj_taguj
 Encoding: 65701 -1 237
 Width: 561
 GlyphClass: 2
@@ -11376,10 +11385,10 @@ SplineSet
  76 93 76 93 76 145 c 1,37,-1
  76 145 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" pagujarati_viramagujarati tagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" paguj_viramaguj taguj
 EndChar
 
-StartChar: lagujarati_viramagujarati_lagujarati
+StartChar: laguj_viramaguj_laguj
 Encoding: 65702 -1 238
 Width: 669
 GlyphClass: 2
@@ -11429,11 +11438,11 @@ SplineSet
  269 -25 l 1,46,-1
  269 -25 l 1,13,14
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" lagujarati_viramagujarati lagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" laguj_viramaguj laguj
 LCarets2: 1 0 
 EndChar
 
-StartChar: shagujarati_viramagujarati_vagujarati_pri_a
+StartChar: shaguj_viramaguj_vaguj_pri_a
 Encoding: 65703 -1 239
 Width: 645
 GlyphClass: 2
@@ -11492,10 +11501,10 @@ SplineSet
  216 376 216 376 245 365 c 1,64,-1
  245 365 l 1,52,53
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" shagujarati_viramagujarati vagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" shaguj_viramaguj vaguj
 EndChar
 
-StartChar: shagujarati_viramagujarati_nagujarati_pri_a
+StartChar: shaguj_viramaguj_naguj_pri_a
 Encoding: 65704 -1 240
 Width: 646
 GlyphClass: 2
@@ -11548,10 +11557,10 @@ SplineSet
  214 351 214 351 246 340 c 1,57,-1
  246 340 l 1,45,46
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" shagujarati_viramagujarati nagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" shaguj_viramaguj naguj
 EndChar
 
-StartChar: shagujarati_viramagujarati_cagujarati
+StartChar: shaguj_viramaguj_caguj
 Encoding: 65705 -1 241
 Width: 646
 GlyphClass: 2
@@ -11609,10 +11618,10 @@ SplineSet
  231 384 231 384 261 370 c 1,61,-1
  261 370 l 1,49,50
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" shagujarati_viramagujarati cagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" shaguj_viramaguj caguj
 EndChar
 
-StartChar: shagujarati_viramagujarati_lagujarati
+StartChar: shaguj_viramaguj_laguj
 Encoding: 65706 -1 242
 Width: 961
 GlyphClass: 2
@@ -11675,11 +11684,11 @@ SplineSet
  811 500 l 1,66,-1
  811 500 l 1,58,-1
 EndSplineSet
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" shaguj_viramaguj laguj
 LCarets2: 1 0 
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" shagujarati_viramagujarati lagujarati
 EndChar
 
-StartChar: ssagujarati_viramagujarati_ttagujarati
+StartChar: ssaguj_viramaguj_ttaguj
 Encoding: 65707 -1 243
 Width: 764
 GlyphClass: 2
@@ -11739,10 +11748,10 @@ SplineSet
  218 160 218 160 268 160 c 1,64,-1
  268 160 l 1,56,57
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ssagujarati_viramagujarati ttagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ssaguj_viramaguj ttaguj
 EndChar
 
-StartChar: ssagujarati_viramagujarati_tthagujarati
+StartChar: ssaguj_viramaguj_tthaguj
 Encoding: 65708 -1 244
 Width: 814
 GlyphClass: 2
@@ -11807,10 +11816,10 @@ SplineSet
  516 35 516 35 578 35 c 1,69,-1
  578 35 l 1,57,58
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" ssagujarati_viramagujarati tthagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ssaguj_viramaguj tthaguj
 EndChar
 
-StartChar: sagujarati_viramagujarati_nyagujarati
+StartChar: saguj_viramaguj_nyaguj
 Encoding: 65709 -1 245
 Width: 904
 GlyphClass: 2
@@ -11871,11 +11880,11 @@ SplineSet
  39 245 l 1,62,-1
  39 245 l 1,23,-1
 EndSplineSet
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" saguj_viramaguj nyaguj
 LCarets2: 1 0 
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" sagujarati_viramagujarati nyagujarati
 EndChar
 
-StartChar: hagujarati_viramagujarati_magujarati
+StartChar: haguj_viramaguj_maguj
 Encoding: 65710 -1 246
 Width: 779
 GlyphClass: 2
@@ -11937,10 +11946,10 @@ SplineSet
  353 105 353 105 374 105 c 1,66,-1
  374 105 l 1,56,57
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" hagujarati_viramagujarati magujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" haguj_viramaguj maguj
 EndChar
 
-StartChar: hagujarati_viramagujarati_yagujarati
+StartChar: haguj_viramaguj_yaguj
 Encoding: 65711 -1 247
 Width: 771
 GlyphClass: 2
@@ -11997,10 +12006,10 @@ SplineSet
  51 72 51 72 51 165 c 1,62,-1
  51 165 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" hagujarati_viramagujarati yagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" haguj_viramaguj yaguj
 EndChar
 
-StartChar: hagujarati_viramagujarati_nagujarati
+StartChar: haguj_viramaguj_naguj
 Encoding: 65712 -1 248
 Width: 578
 GlyphClass: 2
@@ -12066,10 +12075,10 @@ SplineSet
  278 58 278 58 301 58 c 1,73,-1
  301 58 l 1,61,62
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" hagujarati_viramagujarati nagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" haguj_viramaguj naguj
 EndChar
 
-StartChar: hagujarati_viramagujarati_nnagujarati
+StartChar: haguj_viramaguj_nnaguj
 Encoding: 65713 -1 249
 Width: 584
 GlyphClass: 2
@@ -12133,10 +12142,10 @@ SplineSet
  244 313 244 313 231 306 c 1,69,-1
  231 306 l 1,55,-1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" hagujarati_viramagujarati nnagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" haguj_viramaguj nnaguj
 EndChar
 
-StartChar: hagujarati_viramagujarati_lagujarati
+StartChar: haguj_viramaguj_laguj
 Encoding: 65714 -1 250
 Width: 578
 GlyphClass: 2
@@ -12202,10 +12211,10 @@ SplineSet
  113 387 113 387 113 410 c 1,69,-1
  113 410 l 1,19,20
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" hagujarati_viramagujarati lagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" haguj_viramaguj laguj
 EndChar
 
-StartChar: hagujarati_viramagujarati_vagujarati
+StartChar: haguj_viramaguj_vaguj
 Encoding: 65715 -1 251
 Width: 541
 GlyphClass: 2
@@ -12267,10 +12276,10 @@ SplineSet
  113 387 113 387 113 410 c 1,68,-1
  113 410 l 1,0,1
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" hagujarati_viramagujarati vagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" haguj_viramaguj vaguj
 EndChar
 
-StartChar: llagujarati_viramagujarati_yagujarati
+StartChar: llaguj_viramaguj_yaguj
 Encoding: 65716 -1 252
 Width: 966
 GlyphClass: 2
@@ -12332,11 +12341,11 @@ SplineSet
  446 197 446 197 446 280 c 1,66,-1
  446 280 l 1,31,-1
 EndSplineSet
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" llaguj_viramaguj yaguj
 LCarets2: 1 0 
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" llagujarati_viramagujarati yagujarati
 EndChar
 
-StartChar: kagujarati_viramagujarati_ssagujarati
+StartChar: kaguj_viramaguj_ssaguj
 Encoding: 65717 -1 253
 Width: 637
 GlyphClass: 2
@@ -12390,10 +12399,10 @@ SplineSet
  337 -75 l 1,59,-1
  337 -75 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" kagujarati viramagujarati ssagujarati
+Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" kaguj viramaguj ssaguj
 EndChar
 
-StartChar: jagujarati_viramagujarati_nyagujarati
+StartChar: jaguj_viramaguj_nyaguj
 Encoding: 65718 -1 254
 Width: 668
 GlyphClass: 2
@@ -12439,10 +12448,10 @@ SplineSet
  328 -80 l 1,47,-1
  328 -80 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" jagujarati viramagujarati nyagujarati
+Ligature2: "'akhn' Akhand in Gujarati lookup 1-1" jaguj viramaguj nyaguj
 EndChar
 
-StartChar: viramagujarati_ragujarati
+StartChar: viramaguj_raguj
 Encoding: 65719 -1 255
 Width: 0
 GlyphClass: 4
@@ -12461,10 +12470,10 @@ SplineSet
  -262 -198 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Gujarati lookup 3-1" viramagujarati ragujarati 
+Ligature2: "'blwf' Below Base Forms in Gujarati lookup 3-1" viramaguj raguj 
 EndChar
 
-StartChar: ragujarati_viramagujarati_ugujarati
+StartChar: raguj_viramaguj_uvowelsignguj
 Encoding: 65720 -1 256
 Width: 0
 GlyphClass: 4
@@ -12499,10 +12508,10 @@ SplineSet
  16 -250 16 -250 -85 -250 c 1,31,-1
  -85 -250 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" viramagujarati_ragujarati uvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" viramaguj_raguj uvowelsignguj
 EndChar
 
-StartChar: ragujarati_viramagujarati_uugujarati
+StartChar: raguj_viramaguj_uuvowelsignguj
 Encoding: 65721 -1 257
 Width: 0
 GlyphClass: 4
@@ -12533,10 +12542,10 @@ SplineSet
  265 -240 l 1,25,-1
  265 -240 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" viramagujarati_ragujarati uuvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" viramaguj_raguj uuvowelsignguj
 EndChar
 
-StartChar: rphfgujarati
+StartChar: rphfguj
 Encoding: 65722 -1 258
 Width: 0
 GlyphClass: 4
@@ -12562,11 +12571,10 @@ SplineSet
  -125 485 l 5,20,-1
  -125 485 l 5,0,1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'rphf' Reph Form in Gujarati lookup 2-1" ragujarati viramagujarati
+Ligature2: "'rphf' Reph Form in Gujarati lookup 2-1" raguj viramaguj
 EndChar
 
-StartChar: rphfgujarati_anusvaragujarati
+StartChar: rphfguj_anusvaraguj
 Encoding: 65723 -1 259
 Width: 0
 GlyphClass: 4
@@ -12602,11 +12610,10 @@ SplineSet
  -47 550 -47 550 -70 550 c 1,33,-1
  -70 550 l 1,21,22
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" rphfgujarati anusvaragujarati
-LCarets2: 1 0 
+Ligature2: "'abvs' Above Base Substitutions in Gujarati lookup 8-1" rphfguj anusvaraguj
 EndChar
 
-StartChar: nnagujarati_uvowelsigngujarati
+StartChar: nnaguj_uvowelsignguj
 Encoding: 65724 -1 260
 Width: 759
 GlyphClass: 2
@@ -12675,11 +12682,11 @@ SplineSet
  631 -205 631 -205 554 -205 c 1,75,-1
  554 -205 l 1,49,50
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" nnagujarati uvowelsigngujarati
+Ligature2: "'blws' Below Base Substitutions in Gujarati lookup 6-1" nnaguj uvowelsignguj
 LCarets2: 1 0 
 EndChar
 
-StartChar: chagujarati_viramagujarati_vagujarati
+StartChar: chaguj_viramaguj_vaguj
 Encoding: 65725 -1 261
 Width: 602
 GlyphClass: 2
@@ -12757,10 +12764,10 @@ SplineSet
  399 339 399 339 430 339 c 1,89,-1
  430 339 l 1,77,78
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" chagujarati_viramagujarati vagujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" chaguj_viramaguj vaguj
 EndChar
 
-StartChar: isigngujarati
+StartChar: isignguj
 Encoding: 65726 -1 262
 Width: 240
 GlyphClass: 2
@@ -12787,7 +12794,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: iisigngujarati
+StartChar: iisignguj
 Encoding: 65727 -1 263
 Width: 240
 GlyphClass: 2
@@ -12812,7 +12819,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: jagujarati_ovowelsigngujarati
+StartChar: jaguj_ovowelsignguj
 Encoding: 65728 -1 264
 Width: 779
 GlyphClass: 2
@@ -12876,10 +12883,10 @@ SplineSet
  377 710 377 710 338 710 c 1,71,-1
  338 710 l 1,61,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati ovowelsigngujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj ovowelsignguj
 EndChar
 
-StartChar: ja_ovowelsign_anusvaragujarati
+StartChar: ja_ovowelsign_anusvaraguj
 Encoding: 65729 -1 265
 Width: 779
 GlyphClass: 2
@@ -12953,10 +12960,10 @@ SplineSet
  736 645 736 645 713 645 c 1,84,-1
  713 645 l 1,72,73
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati ovowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj ovowelsignguj anusvaraguj
 EndChar
 
-StartChar: ja_ovowelsign_rphfgujarati
+StartChar: ja_ovowelsign_rphfguj
 Encoding: 65730 -1 266
 Width: 779
 GlyphClass: 2
@@ -13031,10 +13038,10 @@ SplineSet
  372 715 372 715 333 715 c 1,87,-1
  333 715 l 1,61,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati ovowelsigngujarati rphfgujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj ovowelsignguj rphfguj
 EndChar
 
-StartChar: ja_ovowelsign_rphfgujarati_anusvara
+StartChar: ja_ovowelsign_rphfguj_anusvara
 Encoding: 65731 -1 267
 Width: 779
 GlyphClass: 2
@@ -13119,10 +13126,10 @@ SplineSet
  372 715 372 715 333 715 c 1,100,-1
  333 715 l 1,74,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati ovowelsigngujarati rphfgujarati_anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj ovowelsignguj rphfguj_anusvaraguj
 EndChar
 
-StartChar: jagujarati_auvowelsigngujarati
+StartChar: jaguj_auvowelsignguj
 Encoding: 65732 -1 268
 Width: 779
 GlyphClass: 2
@@ -13196,10 +13203,10 @@ SplineSet
  302 705 302 705 263 705 c 1,82,-1
  263 705 l 1,72,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati auvowelsigngujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj auvowelsignguj
 EndChar
 
-StartChar: ja_auvowelsign_anusvaragujarati
+StartChar: ja_auvowelsign_anusvaraguj
 Encoding: 65733 -1 269
 Width: 779
 GlyphClass: 2
@@ -13283,10 +13290,10 @@ SplineSet
  756 635 756 635 733 635 c 1,95,-1
  733 635 l 1,83,84
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati auvowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj auvowelsignguj anusvaraguj
 EndChar
 
-StartChar: ja_auvowelsign_rphfgujarati
+StartChar: ja_auvowelsign_rphfguj
 Encoding: 65734 -1 270
 Width: 779
 GlyphClass: 2
@@ -13369,7 +13376,7 @@ SplineSet
  312 705 312 705 273 705 c 1,95,-1
  273 705 l 1,85,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati auvowelsigngujarati rphfgujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj auvowelsignguj rphfguj
 EndChar
 
 StartChar: ja_auvowelsign_rphf_anusvara
@@ -13465,10 +13472,10 @@ SplineSet
  322 705 322 705 283 705 c 1,108,-1
  283 705 l 1,98,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati auvowelsigngujarati rphfgujarati_anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj auvowelsignguj rphfguj_anusvaraguj
 EndChar
 
-StartChar: jagujarati_ocandravowelsigngujarati
+StartChar: jaguj_ocandravowelsignguj
 Encoding: 65736 -1 272
 Width: 779
 GlyphClass: 2
@@ -13534,7 +13541,7 @@ SplineSet
  693 505 693 505 663 505 c 1,75,-1
  663 505 l 1,61,62
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati ocandravowelsigngujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj ocandravowelsignguj
 EndChar
 
 StartChar: ja_ocandravowelsign_anusvara
@@ -13613,10 +13620,10 @@ SplineSet
  693 505 693 505 663 505 c 1,88,-1
  663 505 l 1,74,75
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jagujarati ocandravowelsigngujarati anusvaragujarati
+Ligature2: "'psts' Post Base Substitutions in Gujarati lookup 9-1" jaguj ocandravowelsignguj anusvaraguj
 EndChar
 
-StartChar: yagujarati_alt
+StartChar: yaguj_alt
 Encoding: 65738 -1 274
 Width: 606
 GlyphClass: 2
@@ -14614,7 +14621,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: chagujarati_viramagujarati_yagujarati
+StartChar: chaguj_viramaguj_yaguj
 Encoding: 65570 -1 306
 Width: 1112
 Flags: W
@@ -14697,10 +14704,9 @@ SplineSet
  824 45 824 45 762 45 c 1,97,-1
  762 45 l 1,62,63
 EndSplineSet
-Ligature2: "'cjct' Conjunct Forms in Gujarati lookup 5-1" chagujarati_viramagujarati yagujarati
 EndChar
 
-StartChar: iisigngujarati.alt1
+StartChar: iisignguj.alt1
 Encoding: 65569 -1 307
 Width: 240
 Flags: W
@@ -14724,7 +14730,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: iisigngujarati.alt2
+StartChar: iisignguj.alt2
 Encoding: 65568 -1 308
 Width: 240
 Flags: W
@@ -14748,7 +14754,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: iisigngujarati.alt3
+StartChar: iisignguj.alt3
 Encoding: 65567 -1 309
 Width: 240
 Flags: W
@@ -14772,7 +14778,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: iisigngujarati.alt4
+StartChar: iisignguj.alt4
 Encoding: 65566 -1 310
 Width: 240
 Flags: W
@@ -14782,10 +14788,10 @@ SplineSet
 90 500 m 1,0,1
  90 604 90 604 251.5 674.5 c 128,-1,2
  413 745 413 745 583 745 c 0,3,4
- 850.535 745 850.535 745 995.5 676.5 c 4,5,6
- 1132 612 1132 612 1142 496 c 5,7,-1
- 1082 496 l 5,8,9
- 1066.28 585.064 1066.28 585.064 937.5 636 c 4,10,11
+ 850.535 745 850.535 745 995.5 676.5 c 0,5,6
+ 1132 612 1132 612 1142 496 c 1,7,-1
+ 1082 496 l 1,8,9
+ 1066.28 585.064 1066.28 585.064 937.5 636 c 0,10,11
  788.327 695 788.327 695 583 695 c 0,12,13
  438 695 438 695 294 639 c 128,-1,14
  150 583 150 583 150 500 c 2,15,-1
@@ -14796,7 +14802,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: iisigngujarati.alt5
+StartChar: iisignguj.alt5
 Encoding: 65565 -1 311
 Width: 240
 Flags: W
@@ -14820,7 +14826,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: ivowelsigngujarati_rphfgujarati
+StartChar: ivowelsignguj_rphfguj
 Encoding: 65564 -1 312
 Width: 240
 Flags: W
@@ -14851,10 +14857,10 @@ SplineSet
  90 0 l 1,33,-1
  90 500 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ivowelsigngujarati rphfgujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ivowelsignguj rphfguj
 EndChar
 
-StartChar: ivowelsign_rphf_anusvara
+StartChar: ivowelsignguj_rphfguj_anusvara
 Encoding: 65563 -1 313
 Width: 240
 Flags: W
@@ -14895,7 +14901,7 @@ SplineSet
  90 0 l 1,45,-1
  90 500 l 2,13,14
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ivowelsigngujarati rphfgujarati_anusvaragujarati
+Ligature2: "'pres' Pre Base Substitutions lookup 24-1" ivowelsignguj rphfguj_anusvaraguj
 EndChar
 EndChars
 EndSplineFont

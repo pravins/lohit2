@@ -6290,7 +6290,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kaknd_U0CCd_ssaknd.akhn
+StartChar: kaknd_viramaknd_ssaknd.akhn
 Encoding: 65552 -1 111
 Width: 558
 GlyphClass: 2
@@ -6375,8 +6375,7 @@ SplineSet
  140 -364 140 -364 102 -326 c 128,-1,48
  64 -288 64 -288 64 -234 c 129,-1,49
 EndSplineSet
-Kerns2: 98 80 "'kern' Horizontal Kerning lookup 4-1"  97 80 "'kern' Horizontal Kerning lookup 4-1"  66 370 "'kern' Horizontal Kerning lookup 4-1"  65 370 "'kern' Horizontal Kerning lookup 4-1" 
-LCarets2: 2 0 0 
+Kerns2: 65 370 "'kern' Horizontal Kerning lookup 4-1"  66 370 "'kern' Horizontal Kerning lookup 4-1"  97 80 "'kern' Horizontal Kerning lookup 4-1"  98 80 "'kern' Horizontal Kerning lookup 4-1" 
 EndChar
 
 StartChar: jaknd_viramaknd_nyaknd.akhn
