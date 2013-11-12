@@ -3,8 +3,8 @@ FontName: Lohit-Gujarati
 FullName: Lohit Gujarati
 FamilyName: Lohit Gujarati
 Weight: Book
-Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\n\n  Licensed under the SIL Open Font License 1.1 (see file OFL.txt).
-Version: 2.5.3
+Copyright: Copyright 2011-13 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore At redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
+Version: 2.91.0
 ItalicAngle: 0
 UnderlinePosition: -300
 UnderlineWidth: 20
@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1101340800
-ModificationTime: 1383134708
+ModificationTime: 1384247938
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -75,9 +75,9 @@ Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 22"  {"'psts' Post Base Sub
 Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17-1"  } []
 Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 23"  {"'psts' Post Base Substitutions lookup 23-1"  } ['psts' ('gjr2' <'dflt' > 'gujr' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 18"  {"Single Substitution lookup 18-1"  } []
-Lookup: 260 0 0 "'blwm' Below Base Mark in Gujarati lookup 0"  {"'blwm' Below Base Mark in Gujarati lookup 0 subtable"  } ['blwm' ('gujr' <'dflt' > ) ]
-Lookup: 260 0 0 "'blwm' Below Base Mark in Gujarati lookup 1"  {"'blwm' Below Base Mark in Gujarati lookup 1 subtable"  } ['blwm' ('gujr' <'dflt' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Gujarati lookup 2"  {"'abvm' Above Base Mark in Gujarati lookup 2 subtable"  } ['abvm' ('gujr' <'dflt' > ) ]
+Lookup: 260 0 0 "'blwm' Below Base Mark in Gujarati lookup 0"  {"'blwm' Below Base Mark in Gujarati lookup 0 subtable"  } ['blwm' ('gjr2' <'dflt' > 'gujr' <'dflt' > ) ]
+Lookup: 260 0 0 "'blwm' Below Base Mark in Gujarati lookup 1"  {"'blwm' Below Base Mark in Gujarati lookup 1 subtable"  } ['blwm' ('gjr2' <'dflt' > 'gujr' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark in Gujarati lookup 2"  {"'abvm' Above Base Mark in Gujarati lookup 2 subtable"  } ['abvm' ('gjr2' <'dflt' > 'gujr' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 23-1"  0 0 0 1
@@ -411,7 +411,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3" 
+LangName: 1033 "" "" "Regular" "FontForge 2.0 : Lohit Gujarati : 12-11-2013" "" "2.91.0" "" "Lohit is a trademark of Red Hat, Inc.+AAoA" "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -419,7 +419,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
+WinInfo: 0 27 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Gujarati lookup 2 subtable" "Anchor-1"  "'blwm' Below Base Mark in Gujarati lookup 1 subtable" "Anchor-2"  "'blwm' Below Base Mark in Gujarati lookup 0 subtable" 
@@ -4550,7 +4550,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zerowidthnonjoiner
+StartChar: uni200C
 Encoding: 8204 8204 102
 Width: 220
 GlyphClass: 2
@@ -4567,7 +4567,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zerowidthjoiner
+StartChar: uni200D
 Encoding: 8205 8205 103
 Width: 480
 GlyphClass: 2

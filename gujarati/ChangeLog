@@ -1,6 +1,7 @@
 				  lohit-gujarati
-Current Version :- 2.5.3
+Current Version :- 2.91.0
 
+* Tue Nov 21 2013 Pravin Satpute <psatpute@redhat.com> - 2.91.0
 - Removed the rakkar glyphs for "cha","tta","ttha","dda","ddha" & written rule seperately for them for trakkar form(ra_virama_uvowel & ra_virama_uuvowel)
 - added iivowelsigngujarati EMatras.
 
