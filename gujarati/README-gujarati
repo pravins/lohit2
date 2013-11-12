@@ -1,11 +1,10 @@
-This readme is specifically for Lohit Devanagari. For instruction on installation and other stuff open README
+This readme is specifically for Lohit Gujarati. For instruction on installation and other stuff open README
 - To generate ttf from feature file
 
 Glyphs not in used:
-	- yapostdeva
-	- nadeva_viramadeva_alt
-	- glyph244
-       
+	- halant character series (no longer available)
+	- .notdef 
+	      
 Glyph naming guidelines:
 	- AGL guidelines are followed https://sourceforge.net/adobe/aglfn/wiki/Home/
 	- For some discussion happened regarding using proper names can be found at https://sourceforge.net/adobe/aglfn/discussion/discussion/thread/f212153e/
@@ -98,8 +97,8 @@ Glyph names are as follows, please check sfd file for actual shapes
 * eightguj
 * nineguj
 * rupeeguj
-* uni200C
-* uni200D
+* zerowidthnonjoiner
+* zerowidthjoiner
 * endash
 * emdash
 * quoteleft

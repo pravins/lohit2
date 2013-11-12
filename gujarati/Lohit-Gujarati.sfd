@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1101340800
-ModificationTime: 1384247938
+ModificationTime: 1384256179
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -125,7 +125,7 @@ EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gujarati lookup 10-1"  0 0 0 1
  1 0 1
   Coverage: 13 ivowelsignguj
-  FCoverage: 238 kaguj jhaguj ttaguj tthaguj ddhaguj daguj phaguj raguj haguj kaguj_viramaguj_raguj ttagujarati_viramagujarati_ragujarati tthagujarati_viramagujarati_ragujarati ddhagujarati_viramdeva_ragujarati phaguj_viramaguj_raguj haguj_viramdeva_raguj
+  FCoverage: 149 kaguj jhaguj ttaguj tthaguj ddhaguj daguj phaguj raguj haguj kaguj_viramaguj_raguj daguj_viramaguj_raguj phaguj_viramaguj_raguj haguj_viramdeva_raguj
  1
   SeqLookup: 0 "Single Substitution lookup 12" 
 EndFPST
@@ -4550,7 +4550,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni200C
+StartChar: zerowidthnonjoiner
 Encoding: 8204 8204 102
 Width: 220
 GlyphClass: 2
@@ -4567,7 +4567,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni200D
+StartChar: zerowidthjoiner
 Encoding: 8205 8205 103
 Width: 480
 GlyphClass: 2

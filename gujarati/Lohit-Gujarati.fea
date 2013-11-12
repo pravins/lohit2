@@ -1,12 +1,3 @@
-# How to use
-# On Linux running make will generate ttf for you. For other platforms follow below steps
-# 1. Open Lohit-Gujarati.sfd in Fontforge
-# 2. Click on Fontforge File -> Merge Feature info and Select this feature file and save
-# 3. Now Generate ttf as you do for other fonts.
-# 4. Done
-# Copyright (C) 2013 Pravin Satpute <psatpute AT redhat DOT com> and Sneha Kore <skore AT redhat DOT com>
-# License: OFL 1.1
-# License URL: http://scripts.sil.org/OFL
 
 # GSUB 
 
@@ -228,10 +219,8 @@ lookup pstsPostBaseSubstitutionsinGuja {
 lookup sub_chain_pstsgjr2_0 {
   lookupflag 0;
     sub [\ivowelsignguj ]' [\kaguj \jhaguj \ttaguj \tthaguj \ddhaguj \daguj \phaguj \raguj \haguj 
-	\kaguj_viramaguj_raguj \ttagujarati_viramagujarati_ragujarati 
-	\tthagujarati_viramagujarati_ragujarati 
-	\ddhagujarati_viramdeva_ragujarati \phaguj_viramaguj_raguj 
-	\haguj_viramdeva_raguj ]  by [\isignguj ];
+	\kaguj_viramaguj_raguj \daguj_viramaguj_raguj 
+	\phaguj_viramaguj_raguj \haguj_viramdeva_raguj ]  by [\isignguj ];
 } sub_chain_pstsgjr2_0;
 
 lookup sub_chain_pstsgjr2_2 {
@@ -586,8 +575,8 @@ feature abvm {
 	\ivowelsignguj \iivowelsignguj \ocandravowelsignguj \ovowelsignguj 
 	\auvowelsignguj \omguj \rrvocalicguj \llvocalicguj \zeroguj \oneguj \twoguj 
 	\threeguj \fourguj \fiveguj \sixguj \sevenguj \eightguj \nineguj \rupeeguj 
-	\uni200C \uni200D \endash \emdash \quoteleft \quoteright \quotedblleft 
-	\quotedblright \ellipsis \minus \dottedcircle \kaguj_viramaguj 
+	\zerowidthnonjoiner \zerowidthjoiner \endash \emdash \quoteleft \quoteright 
+	\quotedblleft \quotedblright \ellipsis \minus \dottedcircle \kaguj_viramaguj 
 	\khaguj_viramaguj \gaguj_viramaguj \ghaguj_viramaguj \ngaguj_viramaguj 
 	\caguj_viramaguj \chaguj_viramaguj \jaguj_viramaguj \jhaguj_viramaguj 
 	\nyaguj_viramaguj \ttaguj_viramaguj \tthaguj_viramaguj \ddaguj_viramaguj 
