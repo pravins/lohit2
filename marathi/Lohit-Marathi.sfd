@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1385027555
+ModificationTime: 1385098824
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -53,29 +53,29 @@ OS2StrikeYPos: 333
 OS2Vendor: 'ACE '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80008023.00002042.00000000.00000000
-Lookup: 4 0 0 "NuktaFormslookup5"  {"NuktaFormslookup5 subtable"  } ['nukt' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "AkhandFormslookup6"  {"AkhandFormslookup6 subtable"  } ['akhn' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "RephFormlookup7"  {"RephFormlookup7 subtable"  } ['rphf' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "BelowBaseFormslookup9"  {"BelowBaseFormslookup9 subtable"  } ['blwf' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "HalfFormslookup10"  {"HalfFormslookup10 subtable"  } ['half' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "VattuVariantslookup30"  {"VattuVariantslookup30 subtable"  } ['vatu' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
-Lookup: 4 0 0 "ConjunctFormslookup11"  {"ConjunctFormslookup11 subtable"  } ['cjct' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "PreBaseSubstitutionslookup1"  {"PreBaseSubstitutionslookup1 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 4 0 0 "NuktaFormslookup5"  {"NuktaFormslookup5 subtable"  } ['nukt' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "AkhandFormslookup6"  {"AkhandFormslookup6 subtable"  } ['akhn' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "RephFormlookup7"  {"RephFormlookup7 subtable"  } ['rphf' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "BelowBaseFormslookup9"  {"BelowBaseFormslookup9 subtable"  } ['blwf' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "HalfFormslookup10"  {"HalfFormslookup10 subtable"  } ['half' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "VattuVariantslookup30"  {"VattuVariantslookup30 subtable"  } ['vatu' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "ConjunctFormslookup11"  {"ConjunctFormslookup11 subtable"  } ['cjct' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "PreBaseSubstitutionslookup1"  {"PreBaseSubstitutionslookup1 subtable"  } ['pres' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
 Lookup: 1 0 0 "SingleSubs_ExtdISign_lookup13"  {"SingleSubs_ExtdISign_lookup13 per glyph data 0"  "SingleSubs_ExtdISign_lookup13 per glyph data 1"  } []
-Lookup: 6 0 0 "PresSub_Chain_VowelSign"  {"PresSub_Chain_VowelSign contextual 0"  "PresSub_Chain_VowelSign contextual 1"  "PresSub_Chain_VowelSign contextual 2"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 6 0 0 "PresSub_Chain_VowelSign"  {"PresSub_Chain_VowelSign contextual 0"  "PresSub_Chain_VowelSign contextual 1"  "PresSub_Chain_VowelSign contextual 2"  } ['pres' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 15"  {"Single Substitution lookup 15 subtable"  } []
-Lookup: 6 0 0 "PresSub_Chain_IVowelSign_0"  {"PresSub_Chain_IVowelSign_0 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 6 0 0 "PresSub_Chain_IVowelSign_0"  {"PresSub_Chain_IVowelSign_0 subtable"  } ['pres' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 17"  {"Single Substitution lookup 17 subtable"  } []
-Lookup: 6 0 0 "PresSub_Chain_IVowelSign_1"  {"PresSub_Chain_IVowelSign_1 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 6 0 0 "PresSub_Chain_IVowelSign_1"  {"PresSub_Chain_IVowelSign_1 subtable"  } ['pres' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 19"  {"Single Substitution lookup 19 subtable"  } []
-Lookup: 4 0 0 "PreBaseSubstitutionslookup2"  {"PreBaseSubstitutionslookup2 subtable"  } ['pres' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "AboveBaseSubstitutionslookup"  {"AboveBaseSubstitutionslookup subtable"  } ['abvs' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "PostBaseSubstitutionslookup"  {"PostBaseSubstitutionslookup subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 4 0 0 "BlwsSub_Ligature_Ukaar"  {"BlwsSub_Ligature_Ukaar subtable"  } ['blws' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 6 0 0 "PstsSub_Chain_ExtdEMatra"  {"PstsSub_Chain_ExtdEMatra subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 4 0 0 "PreBaseSubstitutionslookup2"  {"PreBaseSubstitutionslookup2 subtable"  } ['pres' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "AboveBaseSubstitutionslookup"  {"AboveBaseSubstitutionslookup subtable"  } ['abvs' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "PostBaseSubstitutionslookup"  {"PostBaseSubstitutionslookup subtable"  } ['psts' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 4 0 0 "BlwsSub_Ligature_Ukaar"  {"BlwsSub_Ligature_Ukaar subtable"  } ['blws' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 6 0 0 "PstsSub_Chain_ExtdEMatra"  {"PstsSub_Chain_ExtdEMatra subtable"  } ['psts' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 25"  {"Single Substitution lookup 25 subtable"  } []
-Lookup: 4 0 0 "PstsSub_Ligature_Ra"  {"PstsSub_Ligature_Ra subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 6 0 0 "PstsSub_Chain_Eyelash"  {"PstsSub_Chain_Eyelash-1"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 4 0 0 "PstsSub_Ligature_Ra"  {"PstsSub_Ligature_Ra subtable"  } ['psts' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
+Lookup: 6 0 0 "PstsSub_Chain_Eyelash"  {"PstsSub_Chain_Eyelash-1"  } ['psts' ('dev2' <'dflt' > 'deva' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 28"  {"Ligature Substitution lookup 28 subtable"  } []
 Lookup: 260 0 0 "blwmBelowBaseMarklookup0"  {"blwmBelowBaseMarklookup0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 262 0 0 "abvmAboveBaseMarklookup1"  {"abvmAboveBaseMarklookup1 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
