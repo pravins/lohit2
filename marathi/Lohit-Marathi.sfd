@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1385369741
+ModificationTime: 1385370485
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -9295,6 +9295,7 @@ SplineSet
  577 606 l 1,25,-1
  -13 606 l 1,0,-1
 EndSplineSet
+Ligature2: "PreBaseSubstitutionslookup1 subtable" tadeva_viramadeva tadeva 
 EndChar
 
 StartChar: kadeva_viramadeva_ssadeva
@@ -11345,8 +11346,8 @@ SplineSet
  272 108 272 108 345 47 c 1,21,-1
  298 0 l 1,4,5
 EndSplineSet
-Ligature2: "HalfFormslookup10 subtable" tadeva_viramadeva_tadeva viramadeva
 Ligature2: "PreBaseSubstitutionslookup1 subtable" tadeva_viramadeva tadeva_viramadeva
+Ligature2: "HalfFormslookup10 subtable" tadeva_viramadeva_tadeva viramadeva
 EndChar
 
 StartChar: ka_virama_ssa_viramadeva
