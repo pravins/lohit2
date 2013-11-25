@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1385110917
+ModificationTime: 1385369741
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -13139,6 +13139,7 @@ SplineSet
  365 606 l 1,93,-1
  -13 606 l 1,29,-1
 EndSplineSet
+Ligature2: "ConjunctFormslookup11 subtable" kadeva_viramadeva kadeva 
 EndChar
 
 StartChar: ta_virama_ta_virama_kadeva
@@ -15061,7 +15062,7 @@ SplineSet
  382 606 l 1,63,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Ligature2: "ConjunctFormslookup11 subtable" dadeva_viramadeva gadeva 
+Ligature2: "ConjunctFormslookup11 subtable" dadeva_viramadeva gadeva
 EndChar
 
 StartChar: dadeva_viramadeva_ghadeva
@@ -18082,7 +18083,7 @@ SplineSet
  373 198 l 17,14,-1
 EndSplineSet
 Ligature2: "VattuVariantslookup30 subtable" badeva viramadeva_radeva viramadeva 
-Ligature2: "HalfFormslookup10 subtable" badeva_viramadeva_radeva viramadeva 
+Ligature2: "HalfFormslookup10 subtable" badeva_viramadeva_radeva viramadeva
 EndChar
 
 StartChar: uniFFFF
