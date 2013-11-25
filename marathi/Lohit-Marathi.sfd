@@ -9081,7 +9081,6 @@ SplineSet
  -84 691 -84 691 -41 666 c 1,19,-1
  -128 666 l 1,0,1
 EndSplineSet
-Ligature2: "AboveBaseSubstitutionslookup subtable" radeva viramadeva
 Ligature2: "RephFormlookup7 subtable" radeva viramadeva
 EndChar
 
@@ -12275,8 +12274,9 @@ SplineSet
  286 306 286 306 257.5 299.5 c 128,-1,17
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
+Ligature2: "HalfFormslookup10 subtable" radeva viramadeva zerowidthjoiner 
+Ligature2: "Ligature Substitution lookup 28 subtable" viramadeva_radeva zerowidthjoiner
 Ligature2: "Ligature Substitution lookup 28 subtable" rradeva viramadeva
-Ligature2: "Ligature Substitution lookup 28 subtable" radeva_viramadeva zerowidthjoiner
 EndChar
 
 StartChar: kadeva_viramadeva_radeva
@@ -15985,7 +15985,7 @@ SplineSet
  60 313 l 1,60,-1
  13 360 l 1,23,-1
 EndSplineSet
-Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva_alt cadeva
+Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva cadeva
 EndChar
 
 StartChar: shadeva_viramadeva_nadeva
@@ -16046,7 +16046,7 @@ SplineSet
  174 64 174 64 157.5 81.5 c 128,-1,57
  141 99 141 99 141 120 c 0,10,11
 EndSplineSet
-Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva_alt nadeva
+Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva nadeva
 EndChar
 
 StartChar: shadeva_viramadeva_ladeva
@@ -16111,8 +16111,8 @@ SplineSet
  746 606 l 1,65,-1
  426 606 l 1,12,-1
 EndSplineSet
+Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva ladeva
 Ligature2: "ConjunctFormslookup11 subtable" shadeva viramadeva ladeva
-Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva_alt ladeva
 EndChar
 
 StartChar: shadeva_viramadeva_vadeva
@@ -16174,7 +16174,7 @@ SplineSet
  237 93 237 93 184.5 130.5 c 128,-1,12
  132 168 132 168 132 220 c 128,-1,13
 EndSplineSet
-Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva_alt vadeva
+Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva vadeva
 EndChar
 
 StartChar: ssadeva_viramadeva_ttadeva
