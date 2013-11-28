@@ -17279,7 +17279,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" hamlm_viramamlm ramlm
 EndChar
 
-StartChar: rramlm_viramamlm_rramlm_viramamlm_ramlm
+StartChar: rra_virama_rra_virama_ra
 Encoding: 65710 -1 264
 Width: 903
 GlyphClass: 3
@@ -17336,7 +17336,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ramlm_viramamlm rramlm_viramamlm rramlm
 EndChar
 
-StartChar: nnamlm_viramamlm_ttamlm_viramamlm_ramlm
+StartChar: nna_virama_tta_virama_ra
 Encoding: 65711 -1 265
 Width: 1577
 GlyphClass: 3
@@ -17436,7 +17436,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ramlm_viramamlm ngamlm_viramamlm_ngamlm
 EndChar
 
-StartChar: namlm_viramamlm_damlm_viramamlm_ramlm
+StartChar: na_virama_da_virama_ra
 Encoding: 65712 -1 266
 Width: 1103
 GlyphClass: 3
@@ -17500,7 +17500,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_damlm viramamlm ramlm
 EndChar
 
-StartChar: namlm_viramamlm_tamlm_viramamlm_ramlm
+StartChar: na_virama_ta_virama_ra
 Encoding: 65713 -1 267
 Width: 1432
 GlyphClass: 3
@@ -17571,7 +17571,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_tamlm viramamlm ramlm
 EndChar
 
-StartChar: mamlm_viramamlm_pamlm_viramamlm_ramlm
+StartChar: ma_virama_pa_virama_ra
 Encoding: 65714 -1 268
 Width: 1371
 GlyphClass: 3
@@ -17660,11 +17660,10 @@ SplineSet
  -37 795 -37 795 -52.5 779 c 128,-1,19
  -68 763 -68 763 -68 740 c 128,-1,20
 EndSplineSet
-LCarets2: 1 0 
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" uvowelmlm viramamlm
 EndChar
 
-StartChar: namlm_viramamlm_dhamlm_viramamlm_ramlm
+StartChar: na_virama_dha_virama_ra
 Encoding: 65716 -1 270
 Width: 1647
 GlyphClass: 3
@@ -17738,7 +17737,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_dhamlm viramamlm ramlm
 EndChar
 
-StartChar: nnamlm_viramamlm_ttamlm_viramamlm
+StartChar: nna_virama_tta_virama
 Encoding: 65717 -1 271
 Width: 1435
 GlyphClass: 3
@@ -18086,7 +18085,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" mamlm_viramamlm_pamlm viramamlm
 EndChar
 
-StartChar: namlm_viramamlm_dhamlm_viramamlm
+StartChar: na_virama_dha_virama
 Encoding: 65721 -1 275
 Width: 1511
 GlyphClass: 3
@@ -18172,7 +18171,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_dhamlm viramamlm
 EndChar
 
-StartChar: ssamlm_viramamlm_ttamlm_viramamlm_ramlm
+StartChar: ssa_virama_tta_virama_ra
 Encoding: 65722 -1 276
 Width: 1257
 GlyphClass: 3
@@ -18393,7 +18392,7 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" samlm_viramamlm_tamlm viramamlm
 EndChar
 
-StartChar: samlm_viramamlm_tamlm_viramamlm_ramlm
+StartChar: sa_virama_ta_virama_ra
 Encoding: 65724 -1 278
 Width: 1235
 GlyphClass: 3
