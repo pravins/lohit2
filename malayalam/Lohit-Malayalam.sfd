@@ -75,65 +75,65 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 13 subtable"  0 0 0 1
  2 1 0
-  Coverage: 11 U0D2F U0D4D
-  Coverage: 11 U0D2F U0D4D
-  BCoverage: 22 U0D31_U0D4D_U0D31.akhn
+  Coverage: 15 yamlm viramamlm
+  Coverage: 15 yamlm viramamlm
+  BCoverage: 23 rramlm_viramamlm_rramlm
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 12 subtable"  0 0 0 1
  2 1 0
-  Coverage: 11 U0D2F U0D4D
-  Coverage: 11 U0D2F U0D4D
-  BCoverage: 8 glyph157
+  Coverage: 15 yamlm viramamlm
+  Coverage: 15 yamlm viramamlm
+  BCoverage: 21 lamlm_viramamlm_lamlm
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 11 subtable"  0 0 0 1
  2 1 0
-  Coverage: 17 U0D2F U0D35 U0D4D
-  Coverage: 17 U0D2F U0D35 U0D4D
-  BCoverage: 8 glyph138
+  Coverage: 21 yamlm vamlm viramamlm
+  Coverage: 21 yamlm vamlm viramamlm
+  BCoverage: 21 rramlm_viramamlm.pstf
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 10 subtable"  0 0 0 1
  2 1 0
-  Coverage: 17 U0D2F U0D35 U0D4D
-  Coverage: 17 U0D2F U0D35 U0D4D
-  BCoverage: 8 glyph222
+  Coverage: 21 yamlm vamlm viramamlm
+  Coverage: 21 yamlm vamlm viramamlm
+  BCoverage: 20 lamlm_viramamlm.blwf
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 9 subtable"  0 0 0 1
  2 1 0
-  Coverage: 17 U0D2F U0D35 U0D4D
-  Coverage: 17 U0D2F U0D35 U0D4D
-  BCoverage: 693 U0D15_U0D4D_U0D37.akhn glyph140 glyph141 glyph142 glyph143 glyph144 glyph145 glyph146 glyph147 glyph148 glyph149 glyph150 glyph151 glyph152 glyph153 glyph154 glyph155 glyph156 glyph157 glyph158 glyph159 glyph160 glyph161 glyph162 glyph163 glyph164 glyph165 U0D31_U0D4D_U0D31.akhn glyph167 glyph168 glyph169 glyph170 glyph171 glyph172 glyph173 glyph174 glyph175 glyph176 glyph177 glyph178 glyph179 glyph180 glyph181 glyph182 glyph183 glyph184 glyph185 glyph186 glyph187 glyph188 glyph189 glyph190 glyph191 glyph192 glyph193 glyph194 glyph195 glyph196 glyph197 glyph198 glyph199 glyph201 glyph202 glyph203 glyph204 glyph205 glyph206 glyph208 glyph209 glyph210 glyph211 glyph212 glyph213 glyph214
+  Coverage: 21 yamlm vamlm viramamlm
+  Coverage: 21 yamlm vamlm viramamlm
+  BCoverage: 1626 kamlm_viramamlm_ssamlm kamlm_viramamlm_kamlm ngamlm_viramamlm_kamlm ngamlm_viramamlm_ngamlm camlm_viramamlm_camlm nyamlm_viramamlm_camlm nyamlm_virama_nyamlm ttamlm_viramamlm_ttamlm nnamlm_viramamlm_ttamlm nnamlm_viramamlm_nnamlm tamlm_viramamlm_tamlm namlm_viramamlm_tamlm namlm_viramamlm_namlm pamlm_viramamlm_pamlm mamlm_viramamlm_pamlm mamlm_viramamlm_mamlm yamlm_viramamlm_yamlm vamlm_viramamlm_vamlm lamlm_viramamlm_lamlm kamlm_viramamlm_lamlm gamlm_viramamlm_lamlm pamlm_viramamlm_lamlm bamlm_viramamlm_lamlm mamlm_viramamlm_lamlm shamlm_viramamlm_lamlm samlm_viramamlm_lamlm hamlm_viramamlm_lamlm rramlm_viramamlm_rramlm damlm_virama_damlm samlm_viramamlm_samlm gamlm_viramamlm_gamlm camlm_viramamlm_chamlm jamlm_viramamlm_jamlm kamlm_viramamlm_tamlm tamlm_viramamlm_namlm ssamlm_viramamlm_ttamlm namlm_viramamlm_damlm bamlm_viramamlm_bamlm shamlm_viramamlm_shamlm namlm_viramamlm_dhamlm samlm_viramamlm_thamlm tamlm_viramamlm_thamlm namlm_viramamlm_thamlm shamlm_viramamlm_camlm hamlm_viramamlm_namlm damlm_viramamlm_dhamlm llamlm_viramamlm_llamlm hamlm_viramamlm_mamlm glyph187 tamlm_viramamlm_samlm namlm_viramamlm_mamlm tamlm_viramamlm_mamlm nnamlm_viramamlm_mamlm jamlm_viramamlm_nyamlm tamlm_viramamlm_bhamlm gamlm_viramamlm_mamlm samlm_viramalm_kamlm gamlm_viramamlm_namlm nnamlm_viramamlm_ddamlm nyamlm_viramamlm_jamlm samlm_viramamlm_namlm sa_rra_virama_rra_virama ddamlm_viramamlm_ddamlm bamlm_viramamlm_dhamlm bamlm_viramamlm_damlm kamlm_viramamlm_ttamlm glyph206 yamlm_viramamlm_kamlm glyph209 la_virama_ka_virama_ka ssamlm_viramamlm_kamlm lamlm_viramamlm_kamlm samlm_viramamlm_tamlm samlm_viramamlm_phamlm
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable"  0 0 0 1
  2 1 0
-  Coverage: 17 U0D2F U0D35 U0D4D
-  Coverage: 17 U0D2F U0D35 U0D4D
-  BCoverage: 215 U0D15 U0D16 U0D17 U0D18 U0D19 U0D1A U0D1B U0D1C U0D1D U0D1E U0D1F U0D20 U0D21 U0D22 U0D23 U0D24 U0D25 U0D26 U0D27 U0D28 U0D2A U0D2B U0D2C U0D2D U0D2E U0D2F U0D30 U0D31 U0D32 U0D33 U0D34 U0D35 U0D36 U0D37 U0D38 U0D39
+  Coverage: 21 yamlm vamlm viramamlm
+  Coverage: 21 yamlm vamlm viramamlm
+  BCoverage: 238 kamlm khamlm gamlm ghamlm ngamlm camlm chamlm jamlm jhamlm nyamlm ttamlm tthamlm ddamlm ddhamlm nnamlm tamlm thamlm damlm dhamlm namlm pamlm phamlm bamlm bhamlm mamlm yamlm ramlm rramlm lamlm llamlm lllamlm vamlm shamlm ssamlm samlm hamlm
  0
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  0 0 0 1
  2 1 0
-  Coverage: 11 U0D30 U0D4D
-  Coverage: 11 U0D30 U0D4D
-  BCoverage: 693 U0D15_U0D4D_U0D37.akhn glyph140 glyph141 glyph142 glyph143 glyph144 glyph145 glyph146 glyph147 glyph148 glyph149 glyph150 glyph151 glyph152 glyph153 glyph154 glyph155 glyph156 glyph157 glyph158 glyph159 glyph160 glyph161 glyph162 glyph163 glyph164 glyph165 U0D31_U0D4D_U0D31.akhn glyph167 glyph168 glyph169 glyph170 glyph171 glyph172 glyph173 glyph174 glyph175 glyph176 glyph177 glyph178 glyph179 glyph180 glyph181 glyph182 glyph183 glyph184 glyph185 glyph186 glyph187 glyph188 glyph189 glyph190 glyph191 glyph192 glyph193 glyph194 glyph195 glyph196 glyph197 glyph198 glyph199 glyph201 glyph202 glyph203 glyph204 glyph205 glyph206 glyph208 glyph209 glyph210 glyph211 glyph212 glyph213 glyph214
+  Coverage: 15 ramlm viramamlm
+  Coverage: 15 ramlm viramamlm
+  BCoverage: 1626 kamlm_viramamlm_ssamlm kamlm_viramamlm_kamlm ngamlm_viramamlm_kamlm ngamlm_viramamlm_ngamlm camlm_viramamlm_camlm nyamlm_viramamlm_camlm nyamlm_virama_nyamlm ttamlm_viramamlm_ttamlm nnamlm_viramamlm_ttamlm nnamlm_viramamlm_nnamlm tamlm_viramamlm_tamlm namlm_viramamlm_tamlm namlm_viramamlm_namlm pamlm_viramamlm_pamlm mamlm_viramamlm_pamlm mamlm_viramamlm_mamlm yamlm_viramamlm_yamlm vamlm_viramamlm_vamlm lamlm_viramamlm_lamlm kamlm_viramamlm_lamlm gamlm_viramamlm_lamlm pamlm_viramamlm_lamlm bamlm_viramamlm_lamlm mamlm_viramamlm_lamlm shamlm_viramamlm_lamlm samlm_viramamlm_lamlm hamlm_viramamlm_lamlm rramlm_viramamlm_rramlm damlm_virama_damlm samlm_viramamlm_samlm gamlm_viramamlm_gamlm camlm_viramamlm_chamlm jamlm_viramamlm_jamlm kamlm_viramamlm_tamlm tamlm_viramamlm_namlm ssamlm_viramamlm_ttamlm namlm_viramamlm_damlm bamlm_viramamlm_bamlm shamlm_viramamlm_shamlm namlm_viramamlm_dhamlm samlm_viramamlm_thamlm tamlm_viramamlm_thamlm namlm_viramamlm_thamlm shamlm_viramamlm_camlm hamlm_viramamlm_namlm damlm_viramamlm_dhamlm llamlm_viramamlm_llamlm hamlm_viramamlm_mamlm glyph187 tamlm_viramamlm_samlm namlm_viramamlm_mamlm tamlm_viramamlm_mamlm nnamlm_viramamlm_mamlm jamlm_viramamlm_nyamlm tamlm_viramamlm_bhamlm gamlm_viramamlm_mamlm samlm_viramalm_kamlm gamlm_viramamlm_namlm nnamlm_viramamlm_ddamlm nyamlm_viramamlm_jamlm samlm_viramamlm_namlm sa_rra_virama_rra_virama ddamlm_viramamlm_ddamlm bamlm_viramamlm_dhamlm bamlm_viramamlm_damlm kamlm_viramamlm_ttamlm glyph206 yamlm_viramamlm_kamlm glyph209 la_virama_ka_virama_ka ssamlm_viramamlm_kamlm lamlm_viramamlm_kamlm samlm_viramamlm_tamlm samlm_viramamlm_phamlm
  0
 EndFPST
 ChainSub2: coverage "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable"  0 0 0 1
  2 1 0
-  Coverage: 11 U0D30 U0D4D
-  Coverage: 11 U0D30 U0D4D
-  BCoverage: 215 U0D15 U0D16 U0D17 U0D18 U0D19 U0D1A U0D1B U0D1C U0D1D U0D1E U0D1F U0D20 U0D21 U0D22 U0D23 U0D24 U0D25 U0D26 U0D27 U0D28 U0D2A U0D2B U0D2C U0D2D U0D2E U0D2F U0D30 U0D31 U0D32 U0D33 U0D34 U0D35 U0D36 U0D37 U0D38 U0D39
+  Coverage: 15 ramlm viramamlm
+  Coverage: 15 ramlm viramamlm
+  BCoverage: 238 kamlm khamlm gamlm ghamlm ngamlm camlm chamlm jamlm jhamlm nyamlm ttamlm tthamlm ddamlm ddhamlm nnamlm tamlm thamlm damlm dhamlm namlm pamlm phamlm bamlm bhamlm mamlm yamlm ramlm rramlm lamlm llamlm lllamlm vamlm shamlm ssamlm samlm hamlm
  0
 EndFPST
 ChainSub2: coverage "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable"  0 0 0 1
  2 1 0
-  Coverage: 5 U0D4D
-  Coverage: 5 U0D2F
-  BCoverage: 5 U0D33
+  Coverage: 9 viramamlm
+  Coverage: 5 yamlm
+  BCoverage: 6 llamlm
  0
 EndFPST
 TtTable: prep
@@ -352,7 +352,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "anchor-1"  "'abvm' Above Base Mark lookup 0-1" 
@@ -397,7 +397,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: U0D31_U0D4D_U0D31_U0D4D
+StartChar: rramlm_viramamlm_rramlm_viramamlm
 Encoding: 65538 -1 3
 Width: 743
 GlyphClass: 2
@@ -458,7 +458,7 @@ SplineSet
  104 -285 104 -285 69.5 -222.5 c 128,-1,65
  35 -160 35 -160 35 -86 c 0,32,33
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D31_U0D4D_U0D31.akhn U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" rramlm_viramamlm_rramlm viramamlm
 EndChar
 
 StartChar: space
@@ -469,7 +469,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: U0D02
+StartChar: anusvaramlm
 Encoding: 3330 3330 5
 Width: 533
 GlyphClass: 2
@@ -500,7 +500,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D03
+StartChar: visergamlm
 Encoding: 3331 3331 6
 Width: 351
 GlyphClass: 2
@@ -551,7 +551,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D05
+StartChar: amlm
 Encoding: 3333 3333 7
 Width: 1253
 GlyphClass: 2
@@ -641,7 +641,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D06
+StartChar: aamlm
 Encoding: 3334 3334 8
 Width: 1438
 GlyphClass: 2
@@ -747,7 +747,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D07
+StartChar: imlm
 Encoding: 3335 3335 9
 Width: 974
 GlyphClass: 2
@@ -814,7 +814,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D08
+StartChar: iimlm
 Encoding: 3336 3336 10
 Width: 1617
 GlyphClass: 2
@@ -918,7 +918,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D09
+StartChar: umlm
 Encoding: 3337 3337 11
 Width: 699
 GlyphClass: 2
@@ -974,7 +974,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D0A
+StartChar: uumlm
 Encoding: 3338 3338 12
 Width: 1355
 GlyphClass: 2
@@ -1067,7 +1067,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D0B
+StartChar: rvocalicmlm
 Encoding: 3339 3339 13
 Width: 876
 GlyphClass: 2
@@ -1146,7 +1146,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D0C
+StartChar: lvocalicmlm
 Encoding: 3340 3340 14
 Width: 1043
 GlyphClass: 2
@@ -1212,7 +1212,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D0E
+StartChar: emlm
 Encoding: 3342 3342 15
 Width: 1347
 GlyphClass: 2
@@ -1274,7 +1274,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D0F
+StartChar: eemlm
 Encoding: 3343 3343 16
 Width: 1364
 GlyphClass: 2
@@ -1351,7 +1351,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D10
+StartChar: aimlm
 Encoding: 3344 3344 17
 Width: 2010
 GlyphClass: 2
@@ -1446,7 +1446,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D12
+StartChar: omlm
 Encoding: 3346 3346 18
 Width: 722
 GlyphClass: 2
@@ -1507,7 +1507,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D13
+StartChar: oomlm
 Encoding: 3347 3347 19
 Width: 1214
 GlyphClass: 2
@@ -1588,7 +1588,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D14
+StartChar: aumlm
 Encoding: 3348 3348 20
 Width: 1382
 GlyphClass: 2
@@ -1686,7 +1686,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D15
+StartChar: kamlm
 Encoding: 3349 3349 21
 Width: 1015
 GlyphClass: 2
@@ -1754,7 +1754,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D16
+StartChar: khamlm
 Encoding: 3350 3350 22
 Width: 1010
 GlyphClass: 2
@@ -1804,7 +1804,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D17
+StartChar: gamlm
 Encoding: 3351 3351 23
 Width: 913
 GlyphClass: 2
@@ -1854,7 +1854,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D18
+StartChar: ghamlm
 Encoding: 3352 3352 24
 Width: 1372
 GlyphClass: 2
@@ -1911,7 +1911,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D19
+StartChar: ngamlm
 Encoding: 3353 3353 25
 Width: 1067
 GlyphClass: 2
@@ -1980,7 +1980,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D1A
+StartChar: camlm
 Encoding: 3354 3354 26
 Width: 1152
 GlyphClass: 2
@@ -2018,7 +2018,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D1B
+StartChar: chamlm
 Encoding: 3355 3355 27
 Width: 1500
 GlyphClass: 2
@@ -2079,7 +2079,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D1C
+StartChar: jamlm
 Encoding: 3356 3356 28
 Width: 831
 GlyphClass: 2
@@ -2162,7 +2162,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D1D
+StartChar: jhamlm
 Encoding: 3357 3357 29
 Width: 1606
 GlyphClass: 2
@@ -2243,7 +2243,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D1E
+StartChar: nyamlm
 Encoding: 3358 3358 30
 Width: 1277
 GlyphClass: 2
@@ -2325,7 +2325,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D1F
+StartChar: ttamlm
 Encoding: 3359 3359 31
 Width: 594
 GlyphClass: 2
@@ -2367,7 +2367,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D20
+StartChar: tthamlm
 Encoding: 3360 3360 32
 Width: 660
 GlyphClass: 2
@@ -2399,7 +2399,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D21
+StartChar: ddamlm
 Encoding: 3361 3361 33
 Width: 1183
 GlyphClass: 2
@@ -2454,7 +2454,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D22
+StartChar: ddhamlm
 Encoding: 3362 3362 34
 Width: 1232
 GlyphClass: 2
@@ -2522,7 +2522,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D23
+StartChar: nnamlm
 Encoding: 3363 3363 35
 Width: 1290
 GlyphClass: 2
@@ -2589,7 +2589,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D24
+StartChar: tamlm
 Encoding: 3364 3364 36
 Width: 883
 GlyphClass: 2
@@ -2647,7 +2647,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D25
+StartChar: thamlm
 Encoding: 3365 3365 37
 Width: 914
 GlyphClass: 2
@@ -2681,7 +2681,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D26
+StartChar: damlm
 Encoding: 3366 3366 38
 Width: 654
 GlyphClass: 2
@@ -2726,7 +2726,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D27
+StartChar: dhamlm
 Encoding: 3367 3367 39
 Width: 904
 GlyphClass: 2
@@ -2769,7 +2769,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D28
+StartChar: namlm
 Encoding: 3368 3368 40
 Width: 904
 GlyphClass: 2
@@ -2812,7 +2812,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D2A
+StartChar: pamlm
 Encoding: 3370 3370 41
 Width: 1000
 GlyphClass: 2
@@ -2849,7 +2849,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D2B
+StartChar: phamlm
 Encoding: 3371 3371 42
 Width: 1139
 GlyphClass: 2
@@ -2898,7 +2898,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D2C
+StartChar: bamlm
 Encoding: 3372 3372 43
 Width: 1360
 GlyphClass: 2
@@ -2960,7 +2960,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D2D
+StartChar: bhamlm
 Encoding: 3373 3373 44
 Width: 663
 GlyphClass: 2
@@ -3020,7 +3020,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D2E
+StartChar: mamlm
 Encoding: 3374 3374 45
 Width: 702
 GlyphClass: 2
@@ -3060,7 +3060,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D2F
+StartChar: yamlm
 Encoding: 3375 3375 46
 Width: 953
 GlyphClass: 2
@@ -3123,7 +3123,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D30
+StartChar: ramlm
 Encoding: 3376 3376 47
 Width: 649
 GlyphClass: 2
@@ -3164,7 +3164,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D31
+StartChar: rramlm
 Encoding: 3377 3377 48
 Width: 710
 GlyphClass: 2
@@ -3196,7 +3196,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D32
+StartChar: lamlm
 Encoding: 3378 3378 49
 Width: 819
 GlyphClass: 2
@@ -3232,7 +3232,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D33
+StartChar: llamlm
 Encoding: 3379 3379 50
 Width: 663
 GlyphClass: 2
@@ -3298,7 +3298,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D34
+StartChar: lllamlm
 Encoding: 3380 3380 51
 Width: 645
 GlyphClass: 2
@@ -3356,7 +3356,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D35
+StartChar: vamlm
 Encoding: 3381 3381 52
 Width: 1043
 GlyphClass: 2
@@ -3393,7 +3393,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D36
+StartChar: shamlm
 Encoding: 3382 3382 53
 Width: 940
 GlyphClass: 2
@@ -3450,7 +3450,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D37
+StartChar: ssamlm
 Encoding: 3383 3383 54
 Width: 1153
 GlyphClass: 2
@@ -3514,7 +3514,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D38
+StartChar: samlm
 Encoding: 3384 3384 55
 Width: 1138
 GlyphClass: 2
@@ -3569,7 +3569,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D39
+StartChar: hamlm
 Encoding: 3385 3385 56
 Width: 1218
 GlyphClass: 2
@@ -3621,7 +3621,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D3E
+StartChar: aavowelmlm
 Encoding: 3390 3390 57
 Width: 498
 GlyphClass: 2
@@ -3652,7 +3652,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D3F
+StartChar: ivowelmlm
 Encoding: 3391 3391 58
 Width: 226
 GlyphClass: 2
@@ -3679,7 +3679,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D40
+StartChar: iivowelmlm
 Encoding: 3392 3392 59
 Width: 226
 GlyphClass: 2
@@ -3717,7 +3717,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D41
+StartChar: uvowelmlm
 Encoding: 3393 3393 60
 Width: 289
 GlyphClass: 2
@@ -3757,7 +3757,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D42
+StartChar: uuvowelmlm
 Encoding: 3394 3394 61
 Width: 289
 GlyphClass: 2
@@ -3811,7 +3811,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D43
+StartChar: rvocalicvowelmlm
 Encoding: 3395 3395 62
 Width: 293
 GlyphClass: 2
@@ -3855,7 +3855,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D46
+StartChar: evowelmlm
 Encoding: 3398 3398 63
 Width: 690
 GlyphClass: 2
@@ -3899,7 +3899,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D47
+StartChar: eevowelmlm
 Encoding: 3399 3399 64
 Width: 545
 GlyphClass: 2
@@ -3958,7 +3958,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D48
+StartChar: aivowelmlm
 Encoding: 3400 3400 65
 Width: 1366
 GlyphClass: 2
@@ -4035,7 +4035,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D4A
+StartChar: ovowelmlm
 Encoding: 3402 3402 66
 Width: 1206
 GlyphClass: 2
@@ -4106,7 +4106,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D4B
+StartChar: oovowelmlm
 Encoding: 3403 3403 67
 Width: 1050
 GlyphClass: 2
@@ -4189,7 +4189,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D4C
+StartChar: auvowelmlm
 Encoding: 3404 3404 68
 Width: 1357
 GlyphClass: 2
@@ -4270,7 +4270,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D4D
+StartChar: viramamlm
 Encoding: 3405 3405 69
 Width: 0
 GlyphClass: 2
@@ -4301,7 +4301,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D57
+StartChar: aulengthmarkmlm
 Encoding: 3415 3415 70
 Width: 667
 GlyphClass: 2
@@ -4349,7 +4349,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D60
+StartChar: rrvocalicmlm
 Encoding: 3424 3424 71
 Width: 876
 GlyphClass: 2
@@ -4448,7 +4448,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D61
+StartChar: llvocalicmlm
 Encoding: 3425 3425 72
 Width: 1283
 GlyphClass: 2
@@ -4533,7 +4533,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D66
+StartChar: zeromlm
 Encoding: 3430 3430 73
 Width: 844
 GlyphClass: 2
@@ -4564,7 +4564,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D67
+StartChar: onemlm
 Encoding: 3431 3431 74
 Width: 878
 GlyphClass: 2
@@ -4605,7 +4605,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D68
+StartChar: twomlm
 Encoding: 3432 3432 75
 Width: 902
 GlyphClass: 2
@@ -4639,7 +4639,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D69
+StartChar: threemlm
 Encoding: 3433 3433 76
 Width: 1017
 GlyphClass: 2
@@ -4681,7 +4681,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D6A
+StartChar: fourmlm
 Encoding: 3434 3434 77
 Width: 647
 GlyphClass: 2
@@ -4734,7 +4734,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D6B
+StartChar: fivemlm
 Encoding: 3435 3435 78
 Width: 964
 GlyphClass: 2
@@ -4792,7 +4792,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D6C
+StartChar: sixmlm
 Encoding: 3436 3436 79
 Width: 1339
 GlyphClass: 2
@@ -4847,7 +4847,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D6D
+StartChar: sevenmlm
 Encoding: 3437 3437 80
 Width: 549
 GlyphClass: 2
@@ -4892,7 +4892,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D6E
+StartChar: eightmlm
 Encoding: 3438 3438 81
 Width: 1041
 GlyphClass: 2
@@ -4933,7 +4933,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D6F
+StartChar: ninemlm
 Encoding: 3439 3439 82
 Width: 959
 GlyphClass: 2
@@ -4999,7 +4999,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii61664
+StartChar: zerowidthnonjoiner
 Encoding: 8204 8204 83
 Width: 0
 GlyphClass: 2
@@ -5016,7 +5016,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii301
+StartChar: zerowidthjoiner
 Encoding: 8205 8205 84
 Width: 0
 GlyphClass: 2
@@ -5035,7 +5035,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni25CC
+StartChar: dottedcircle
 Encoding: 9676 9676 85
 Width: 950
 GlyphClass: 2
@@ -5154,7 +5154,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph225
+StartChar: lamlm_viramamlm
 Encoding: 65539 -1 86
 Width: 0
 GlyphClass: 3
@@ -5200,10 +5200,10 @@ SplineSet
  -819 -248 -819 -248 -819 -176 c 1,50,-1
  -819 -176 l 1,13,14
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" U0D32 U0D4D
+Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" lamlm viramamlm
 EndChar
 
-StartChar: glyph226
+StartChar: ramlm_viramamlm
 Encoding: 65540 -1 87
 Width: 228
 GlyphClass: 3
@@ -5224,7 +5224,7 @@ SplineSet
  90 452 90 452 116 585 c 1,14,-1
  116 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam lookup 17-1" U0D30 U0D4D
+Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam lookup 17-1" ramlm viramamlm
 EndChar
 
 StartChar: glyph84
@@ -5365,7 +5365,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D34_U0D4D.half_U0D35
+StartChar: lllamlm_viramamlm.half_vamlm
 Encoding: 65547 -1 94
 Width: 1734
 GlyphClass: 2
@@ -5461,8 +5461,7 @@ SplineSet
  460 709 460 709 460 762 c 1,113,-1
  460 762 l 1,89,90
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions lookup 17-1" U0D34 glyph139
+Ligature2: "'psts' Post Base Substitutions lookup 17-1" lllamlm vamlm_viramamlm.pstf
 EndChar
 
 StartChar: glyph91
@@ -5488,7 +5487,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D24_U0D4D_U0D32
+StartChar: tamlm_viramamlm_lamlm
 Encoding: 65549 -1 96
 Width: 883
 GlyphClass: 2
@@ -5574,10 +5573,10 @@ SplineSet
  44 191 44 191 44 281 c 1,113,-1
  44 281 l 1,64,65
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 7 subtable" U0D24_U0D4D.half U0D32
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 7 subtable" tamlm_viramamlm lamlm
 EndChar
 
-StartChar: U0D2B_U0D4D_U0D32
+StartChar: phamlm_viramamlm_lamlm
 Encoding: 65550 -1 97
 Width: 1139
 GlyphClass: 2
@@ -5654,10 +5653,10 @@ SplineSet
  724 408 724 408 724 328 c 1,94,-1
  724 328 l 1,86,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 7 subtable" U0D2B_U0D4D.half U0D32
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 7 subtable" phamlm_viramamlm lamlm
 EndChar
 
-StartChar: U0D35_U0D4D_U0D32
+StartChar: vamlm_viramamlm_lamlm
 Encoding: 65551 -1 98
 Width: 1043
 GlyphClass: 2
@@ -5725,7 +5724,7 @@ SplineSet
  40 175 40 175 40 281 c 1,85,-1
  40 281 l 1,54,55
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 7 subtable" U0D35_U0D4D.half U0D32
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 7 subtable" vamlm_viramamlm lamlm
 EndChar
 
 StartChar: glyph95
@@ -5881,7 +5880,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D15_U0D4D.half
+StartChar: kamlm_viramamlm
 Encoding: 65557 -1 104
 Width: 1014
 GlyphClass: 2
@@ -5966,10 +5965,10 @@ SplineSet
  759 709 759 709 759 762 c 1,93,-1
  759 762 l 1,69,70
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D15 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" kamlm viramamlm
 EndChar
 
-StartChar: U0D16_U0D4D.half
+StartChar: khamlm_viramamlm
 Encoding: 65558 -1 105
 Width: 1009
 GlyphClass: 2
@@ -6036,10 +6035,10 @@ SplineSet
  809 709 809 709 809 762 c 1,71,-1
  809 762 l 1,47,48
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D16 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" khamlm viramamlm
 EndChar
 
-StartChar: U0D17_U0D4D.half
+StartChar: gamlm_viramamlm
 Encoding: 65559 -1 106
 Width: 910
 GlyphClass: 2
@@ -6106,10 +6105,10 @@ SplineSet
  741 709 741 709 741 762 c 1,73,-1
  741 762 l 1,49,50
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D17 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" gamlm viramamlm
 EndChar
 
-StartChar: U0D18_U0D4D.half
+StartChar: ghamlm_viramamlm
 Encoding: 65560 -1 107
 Width: 1372
 GlyphClass: 2
@@ -6183,10 +6182,10 @@ SplineSet
  1178 709 1178 709 1178 762 c 1,78,-1
  1178 762 l 1,54,55
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D18 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ghamlm viramamlm
 EndChar
 
-StartChar: U0D19_U0D4D.half
+StartChar: ngamlm_viramamlm
 Encoding: 65561 -1 108
 Width: 1066
 GlyphClass: 2
@@ -6272,10 +6271,10 @@ SplineSet
  891 709 891 709 891 762 c 1,99,-1
  891 762 l 1,75,76
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D19 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ngamlm viramamlm
 EndChar
 
-StartChar: U0D1A_U0D4D.half
+StartChar: camlm_viramamlm
 Encoding: 65562 -1 109
 Width: 1152
 GlyphClass: 2
@@ -6330,10 +6329,10 @@ SplineSet
  961 709 961 709 961 762 c 1,57,-1
  961 762 l 1,33,34
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D1A U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" camlm viramamlm
 EndChar
 
-StartChar: U0D1B_U0D4D.half
+StartChar: chamlm_viramamlm
 Encoding: 65563 -1 110
 Width: 1499
 GlyphClass: 2
@@ -6411,10 +6410,10 @@ SplineSet
  1340 709 1340 709 1340 762 c 1,89,-1
  1340 762 l 1,65,66
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D1B U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" chamlm viramamlm
 EndChar
 
-StartChar: U0D1C_U0D4D.half
+StartChar: jamlm_viramamlm
 Encoding: 65564 -1 111
 Width: 829
 GlyphClass: 2
@@ -6514,10 +6513,10 @@ SplineSet
  658 709 658 709 658 762 c 1,117,-1
  658 762 l 1,93,94
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D1C U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" jamlm viramamlm
 EndChar
 
-StartChar: U0D1D_U0D4D.half
+StartChar: jhamlm_viramamlm
 Encoding: 65565 -1 112
 Width: 1606
 GlyphClass: 2
@@ -6615,10 +6614,10 @@ SplineSet
  1427 709 1427 709 1427 762 c 1,120,-1
  1427 762 l 1,96,97
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D1D U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" jhamlm viramamlm
 EndChar
 
-StartChar: U0D1E_U0D4D.half
+StartChar: nyamlm_viramamlm
 Encoding: 65566 -1 113
 Width: 1277
 GlyphClass: 2
@@ -6717,10 +6716,10 @@ SplineSet
  1114 709 1114 709 1114 762 c 1,117,-1
  1114 762 l 1,93,94
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D1E U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" nyamlm viramamlm
 EndChar
 
-StartChar: U0D1F_U0D4D.half
+StartChar: ttamlm_viramamlm
 Encoding: 65567 -1 114
 Width: 592
 GlyphClass: 2
@@ -6779,10 +6778,10 @@ SplineSet
  429 709 429 709 429 762 c 1,65,-1
  429 762 l 1,41,42
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D1F U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ttamlm viramamlm
 EndChar
 
-StartChar: U0D20_U0D4D.half
+StartChar: tthamlm_viramamlm
 Encoding: 65568 -1 115
 Width: 660
 GlyphClass: 2
@@ -6831,10 +6830,10 @@ SplineSet
  482 709 482 709 482 762 c 1,44,-1
  482 762 l 1,20,21
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D20 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" tthamlm viramamlm
 EndChar
 
-StartChar: U0D21_U0D4D.half
+StartChar: ddamlm_viramamlm
 Encoding: 65569 -1 116
 Width: 1183
 GlyphClass: 2
@@ -6906,10 +6905,10 @@ SplineSet
  1009 709 1009 709 1009 762 c 1,83,-1
  1009 762 l 1,59,60
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D21 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ddamlm viramamlm
 EndChar
 
-StartChar: U0D22_U0D4D.half
+StartChar: ddhamlm_viramamlm
 Encoding: 65570 -1 117
 Width: 1232
 GlyphClass: 2
@@ -6994,10 +6993,10 @@ SplineSet
  1058 709 1058 709 1058 762 c 1,99,-1
  1058 762 l 1,75,76
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D22 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ddhamlm viramamlm
 EndChar
 
-StartChar: U0D23_U0D4D.half
+StartChar: nnamlm_viramamlm
 Encoding: 65571 -1 118
 Width: 1288
 GlyphClass: 2
@@ -7081,10 +7080,10 @@ SplineSet
  1069 709 1069 709 1069 762 c 1,96,-1
  1069 762 l 1,72,73
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D23 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" nnamlm viramamlm
 EndChar
 
-StartChar: U0D24_U0D4D.half
+StartChar: tamlm_viramamlm
 Encoding: 65572 -1 119
 Width: 883
 GlyphClass: 2
@@ -7159,10 +7158,10 @@ SplineSet
  711 709 711 709 711 762 c 1,86,-1
  711 762 l 1,62,63
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D24 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" tamlm viramamlm
 EndChar
 
-StartChar: U0D25_U0D4D.half
+StartChar: thamlm_viramamlm
 Encoding: 65573 -1 120
 Width: 913
 GlyphClass: 2
@@ -7213,10 +7212,10 @@ SplineSet
  728 709 728 709 728 762 c 1,46,-1
  728 762 l 1,22,23
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D25 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" thamlm viramamlm
 EndChar
 
-StartChar: U0D26_U0D4D.half
+StartChar: damlm_viramamlm
 Encoding: 65574 -1 121
 Width: 651
 GlyphClass: 2
@@ -7278,10 +7277,10 @@ SplineSet
  468 709 468 709 468 762 c 1,68,-1
  468 762 l 1,44,45
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D26 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" damlm viramamlm
 EndChar
 
-StartChar: U0D27_U0D4D.half
+StartChar: dhamlm_viramamlm
 Encoding: 65575 -1 122
 Width: 902
 GlyphClass: 2
@@ -7341,10 +7340,10 @@ SplineSet
  710 709 710 709 710 762 c 1,66,-1
  710 762 l 1,42,43
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D27 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" dhamlm viramamlm
 EndChar
 
-StartChar: U0D28_U0D4D.half
+StartChar: namlm_viramamlm
 Encoding: 65576 -1 123
 Width: 904
 GlyphClass: 2
@@ -7404,10 +7403,10 @@ SplineSet
  705 709 705 709 705 762 c 1,66,-1
  705 762 l 1,42,43
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D28 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" namlm viramamlm
 EndChar
 
-StartChar: U0D2A_U0D4D.half
+StartChar: pamlm_viramamlm
 Encoding: 65577 -1 124
 Width: 1000
 GlyphClass: 2
@@ -7461,10 +7460,10 @@ SplineSet
  809 709 809 709 809 762 c 1,54,-1
  809 762 l 1,30,31
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D2A U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" pamlm viramamlm
 EndChar
 
-StartChar: U0D2B_U0D4D.half
+StartChar: phamlm_viramamlm
 Encoding: 65578 -1 125
 Width: 1139
 GlyphClass: 2
@@ -7530,10 +7529,10 @@ SplineSet
  950 709 950 709 950 762 c 1,67,-1
  950 762 l 1,43,44
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D2B U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" phamlm viramamlm
 EndChar
 
-StartChar: U0D2C_U0D4D.half
+StartChar: bamlm_viramamlm
 Encoding: 65579 -1 126
 Width: 1360
 GlyphClass: 2
@@ -7612,10 +7611,10 @@ SplineSet
  1166 709 1166 709 1166 762 c 1,88,-1
  1166 762 l 1,64,65
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D2C U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" bamlm viramamlm
 EndChar
 
-StartChar: U0D2D_U0D4D.half
+StartChar: bhamlm_viramamlm
 Encoding: 65580 -1 127
 Width: 662
 GlyphClass: 2
@@ -7692,10 +7691,10 @@ SplineSet
  491 709 491 709 491 762 c 1,91,-1
  491 762 l 1,67,68
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D2D U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" bhamlm viramamlm
 EndChar
 
-StartChar: U0D2E_U0D4D.half
+StartChar: mamlm_viramamlm
 Encoding: 65581 -1 128
 Width: 702
 GlyphClass: 2
@@ -7752,10 +7751,10 @@ SplineSet
  508 709 508 709 508 762 c 1,56,-1
  508 762 l 1,32,33
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D2E U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" mamlm viramamlm
 EndChar
 
-StartChar: U0D2F_U0D4D.half
+StartChar: yamlm_viramamlm
 Encoding: 65582 -1 129
 Width: 952
 GlyphClass: 2
@@ -7835,10 +7834,10 @@ SplineSet
  750 709 750 709 750 762 c 1,91,-1
  750 762 l 1,67,68
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D2F U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" yamlm viramamlm
 EndChar
 
-StartChar: U0D30_U0D4D.half
+StartChar: ramlm_viramamlm.half
 Encoding: 65583 -1 130
 Width: 646
 GlyphClass: 2
@@ -7896,10 +7895,10 @@ SplineSet
  460 703 460 703 460 756 c 1,68,-1
  460 756 l 1,42,43
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D30 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ramlm viramamlm
 EndChar
 
-StartChar: U0D31_U0D4D.half
+StartChar: rramlm_viramamlm
 Encoding: 65584 -1 131
 Width: 710
 GlyphClass: 2
@@ -7948,10 +7947,10 @@ SplineSet
  507 709 507 709 507 762 c 1,49,-1
  507 762 l 1,25,26
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D31 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" rramlm viramamlm
 EndChar
 
-StartChar: U0D32_U0D4D.half
+StartChar: lamlm_viramamlm.half
 Encoding: 65585 -1 132
 Width: 819
 GlyphClass: 3
@@ -8004,10 +8003,10 @@ SplineSet
  629 709 629 709 629 762 c 1,49,-1
  629 762 l 1,25,26
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D32 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" lamlm viramamlm
 EndChar
 
-StartChar: U0D33_U0D4D.half
+StartChar: llamlm_viramamlm
 Encoding: 65586 -1 133
 Width: 662
 GlyphClass: 2
@@ -8090,10 +8089,10 @@ SplineSet
  38 175 38 175 38 257 c 1,94,-1
  38 257 l 1,35,36
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D33 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" llamlm viramamlm
 EndChar
 
-StartChar: U0D34_U0D4D.half
+StartChar: lllamlm_viramamlm
 Encoding: 65587 -1 134
 Width: 642
 GlyphClass: 2
@@ -8164,11 +8163,10 @@ SplineSet
  460 709 460 709 460 762 c 1,81,-1
  460 762 l 1,57,58
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D34 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" lllamlm viramamlm
 EndChar
 
-StartChar: U0D35_U0D4D.half
+StartChar: vamlm_viramamlm
 Encoding: 65588 -1 135
 Width: 1041
 GlyphClass: 2
@@ -8222,10 +8220,10 @@ SplineSet
  852 709 852 709 852 762 c 1,54,-1
  852 762 l 1,30,31
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D35 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" vamlm viramamlm
 EndChar
 
-StartChar: U0D36_U0D4D.half
+StartChar: shamlm_viramamlm
 Encoding: 65589 -1 136
 Width: 939
 GlyphClass: 2
@@ -8299,10 +8297,10 @@ SplineSet
  746 709 746 709 746 762 c 1,82,-1
  746 762 l 1,58,59
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D36 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" shamlm viramamlm
 EndChar
 
-StartChar: U0D37_U0D4D.half
+StartChar: ssamlm_viramamlm
 Encoding: 65590 -1 137
 Width: 1153
 GlyphClass: 2
@@ -8383,10 +8381,10 @@ SplineSet
  958 709 958 709 958 762 c 1,85,-1
  958 762 l 1,61,62
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D37 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ssamlm viramamlm
 EndChar
 
-StartChar: U0D38_U0D4D.half
+StartChar: samlm_viramamlm
 Encoding: 65591 -1 138
 Width: 1136
 GlyphClass: 2
@@ -8458,10 +8456,10 @@ SplineSet
  962 709 962 709 962 762 c 1,84,-1
  962 762 l 1,60,61
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D38 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" samlm viramamlm
 EndChar
 
-StartChar: U0D39_U0D4D.half
+StartChar: hamlm_viramamlm
 Encoding: 65592 -1 139
 Width: 1218
 GlyphClass: 2
@@ -8530,10 +8528,10 @@ SplineSet
  1027 709 1027 709 1027 762 c 1,75,-1
  1027 762 l 1,51,52
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" U0D39 U0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" hamlm viramamlm
 EndChar
 
-StartChar: U0D15_U0D4D_U0D37.akhn
+StartChar: kamlm_viramamlm_ssamlm
 Encoding: 65593 -1 140
 Width: 1602
 GlyphClass: 2
@@ -8629,13 +8627,12 @@ SplineSet
  1255 70 l 1,104,-1
  1255 70 l 1,98,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 14 subtable" U0D15_U0D4D.half U0D37
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D15_U0D4D.half U0D37
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D15 U0D4D U0D37
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" kamlm viramamlm ssamlm
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" kamlm_viramamlm ssamlm
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 14 subtable" kamlm_viramamlm ssamlm
 EndChar
 
-StartChar: glyph137
+StartChar: yamlm_viramamlm.pstf
 Encoding: 65594 -1 141
 Width: 390
 GlyphClass: 2
@@ -8672,10 +8669,10 @@ SplineSet
  176 585 l 1,36,-1
  176 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" U0D2F U0D4D
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" yamlm viramamlm
 EndChar
 
-StartChar: glyph138
+StartChar: rramlm_viramamlm.pstf
 Encoding: 65595 -1 142
 Width: 228
 GlyphClass: 2
@@ -8696,10 +8693,10 @@ SplineSet
  90 452 90 452 116 585 c 1,14,-1
  116 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" U0D31 U0D4D
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" rramlm viramamlm
 EndChar
 
-StartChar: glyph139
+StartChar: vamlm_viramamlm.pstf
 Encoding: 65596 -1 143
 Width: 237
 GlyphClass: 2
@@ -8716,10 +8713,10 @@ SplineSet
  163 585 l 1,6,-1
  163 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" U0D35 U0D4D
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" vamlm viramamlm
 EndChar
 
-StartChar: glyph140
+StartChar: kamlm_viramamlm_kamlm
 Encoding: 65597 -1 144
 Width: 1412
 GlyphClass: 2
@@ -8803,11 +8800,10 @@ SplineSet
  29 88 29 88 29 156 c 1,93,-1
  29 156 l 1,40,41
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D15 U0D4D U0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" kamlm viramamlm kamlm
 EndChar
 
-StartChar: glyph141
+StartChar: ngamlm_viramamlm_kamlm
 Encoding: 65598 -1 145
 Width: 1032
 GlyphClass: 2
@@ -8887,11 +8883,10 @@ SplineSet
  391 268 l 1,90,-1
  391 268 l 1,83,84
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D19 U0D4D U0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ngamlm viramamlm kamlm
 EndChar
 
-StartChar: glyph142
+StartChar: ngamlm_viramamlm_ngamlm
 Encoding: 65599 -1 146
 Width: 1391
 GlyphClass: 2
@@ -8984,11 +8979,10 @@ SplineSet
  516 283 516 283 516 222 c 1,109,-1
  516 222 l 1,98,99
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D19 U0D4D U0D19
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ngamlm viramamlm ngamlm
 EndChar
 
-StartChar: glyph143
+StartChar: camlm_viramamlm_camlm
 Encoding: 65600 -1 147
 Width: 1117
 GlyphClass: 2
@@ -9032,11 +9026,10 @@ SplineSet
  9 70 l 1,37,-1
  9 70 l 1,4,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1A U0D4D U0D1A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" camlm viramamlm camlm
 EndChar
 
-StartChar: glyph144
+StartChar: nyamlm_viramamlm_camlm
 Encoding: 65601 -1 148
 Width: 1593
 GlyphClass: 2
@@ -9122,11 +9115,10 @@ SplineSet
  40 152 40 152 40 269 c 1,99,-1
  40 269 l 1,24,25
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1E U0D4D U0D1A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nyamlm viramamlm camlm
 EndChar
 
-StartChar: glyph145
+StartChar: nyamlm_virama_nyamlm
 Encoding: 65602 -1 149
 Width: 2068
 GlyphClass: 2
@@ -9243,11 +9235,10 @@ SplineSet
  1534 303 1534 303 1534 239 c 1,140,-1
  1534 239 l 1,129,130
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1E U0D4D U0D1E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nyamlm viramamlm nyamlm
 EndChar
 
-StartChar: glyph146
+StartChar: ttamlm_viramamlm_ttamlm
 Encoding: 65603 -1 150
 Width: 598
 GlyphClass: 2
@@ -9298,11 +9289,10 @@ SplineSet
  29 333 29 333 29 386 c 1,55,-1
  29 386 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1F U0D4D U0D1F
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ttamlm viramamlm ttamlm
 EndChar
 
-StartChar: glyph147
+StartChar: nnamlm_viramamlm_ttamlm
 Encoding: 65604 -1 151
 Width: 1417
 GlyphClass: 2
@@ -9395,11 +9385,10 @@ SplineSet
  134 215 134 215 134 169 c 1,113,-1
  134 169 l 1,104,105
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D23 U0D4D U0D1F
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nnamlm viramamlm ttamlm
 EndChar
 
-StartChar: glyph148
+StartChar: nnamlm_viramamlm_nnamlm
 Encoding: 65605 -1 152
 Width: 1288
 GlyphClass: 2
@@ -9519,11 +9508,10 @@ SplineSet
  341 -339 341 -339 341 -257 c 1,141,-1
  341 -257 l 1,81,82
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D23 U0D4D U0D23
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nnamlm viramamlm nnamlm
 EndChar
 
-StartChar: glyph149
+StartChar: tamlm_viramamlm_tamlm
 Encoding: 65606 -1 153
 Width: 1583
 GlyphClass: 2
@@ -9616,11 +9604,10 @@ SplineSet
  46 158 46 158 46 257 c 1,111,-1
  46 257 l 1,24,25
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D24 U0D4D U0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" tamlm viramamlm tamlm
 EndChar
 
-StartChar: glyph150
+StartChar: namlm_viramamlm_tamlm
 Encoding: 65607 -1 154
 Width: 1291
 GlyphClass: 2
@@ -9687,11 +9674,10 @@ SplineSet
  42 195 42 195 42 289 c 1,76,-1
  42 289 l 1,12,13
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D U0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm tamlm
 EndChar
 
-StartChar: glyph151
+StartChar: namlm_viramamlm_namlm
 Encoding: 65608 -1 155
 Width: 1330
 GlyphClass: 2
@@ -9743,11 +9729,10 @@ SplineSet
  46 180 46 180 46 269 c 1,56,-1
  46 269 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D U0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm namlm
 EndChar
 
-StartChar: glyph152
+StartChar: pamlm_viramamlm_pamlm
 Encoding: 65609 -1 156
 Width: 1000
 GlyphClass: 2
@@ -9803,11 +9788,10 @@ SplineSet
  33 138 33 138 33 199 c 1,60,-1
  33 199 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D2A U0D4D U0D2A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" pamlm viramamlm pamlm
 EndChar
 
-StartChar: glyph153
+StartChar: mamlm_viramamlm_pamlm
 Encoding: 65610 -1 157
 Width: 1268
 GlyphClass: 2
@@ -9853,11 +9837,10 @@ SplineSet
  43 179 43 179 43 281 c 1,46,-1
  43 281 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D2E U0D4D U0D2A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" mamlm viramamlm pamlm
 EndChar
 
-StartChar: glyph154
+StartChar: mamlm_viramamlm_mamlm
 Encoding: 65611 -1 158
 Width: 1170
 GlyphClass: 2
@@ -9918,11 +9901,10 @@ SplineSet
  832 105 832 105 772 70 c 1,61,-1
  772 70 l 1,50,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D2E U0D4D U0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" mamlm viramamlm mamlm
 EndChar
 
-StartChar: glyph155
+StartChar: yamlm_viramamlm_yamlm
 Encoding: 65612 -1 159
 Width: 997
 GlyphClass: 2
@@ -9987,12 +9969,11 @@ SplineSet
  40 199 40 199 40 339 c 1,67,-1
  40 339 l 1,29,30
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 14 subtable" U0D2F glyph137
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2F_U0D4D.half U0D2F
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" yamlm_viramamlm yamlm
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 14 subtable" yamlm yamlm_viramamlm.pstf
 EndChar
 
-StartChar: glyph156
+StartChar: vamlm_viramamlm_vamlm
 Encoding: 65613 -1 160
 Width: 1043
 GlyphClass: 2
@@ -10035,12 +10016,11 @@ SplineSet
  450 -211 l 1,36,-1
  450 -211 l 1,33,-1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 14 subtable" U0D35 glyph139
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D35_U0D4D.half U0D35
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 14 subtable" vamlm vamlm_viramamlm.pstf
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" vamlm_viramamlm vamlm
 EndChar
 
-StartChar: glyph157
+StartChar: lamlm_viramamlm_lamlm
 Encoding: 65614 -1 161
 Width: 835
 GlyphClass: 2
@@ -10111,11 +10091,10 @@ SplineSet
  137 432 137 432 137 364 c 1,72,-1
  137 364 l 1,64,-1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D32_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" lamlm_viramamlm.half lamlm
 EndChar
 
-StartChar: glyph158
+StartChar: kamlm_viramamlm_lamlm
 Encoding: 65615 -1 162
 Width: 962
 GlyphClass: 2
@@ -10219,11 +10198,10 @@ SplineSet
  367 421 367 421 367 351 c 1,120,-1
  367 351 l 1,114,-1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D15_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" kamlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph159
+StartChar: gamlm_viramamlm_lamlm
 Encoding: 65616 -1 163
 Width: 910
 GlyphClass: 2
@@ -10306,11 +10284,10 @@ SplineSet
  46 -248 46 -248 46 -176 c 1,95,-1
  46 -176 l 1,10,11
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D17_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" gamlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph160
+StartChar: pamlm_viramamlm_lamlm
 Encoding: 65617 -1 164
 Width: 1000
 GlyphClass: 2
@@ -10381,11 +10358,10 @@ SplineSet
  114 -248 114 -248 114 -176 c 1,77,-1
  114 -176 l 1,10,11
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2A_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" pamlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph161
+StartChar: bamlm_viramamlm_lamlm
 Encoding: 65618 -1 165
 Width: 1360
 GlyphClass: 2
@@ -10481,11 +10457,10 @@ SplineSet
  135 219 135 219 135 176 c 1,110,-1
  135 176 l 1,100,101
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2C_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" bamlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph162
+StartChar: mamlm_viramamlm_lamlm
 Encoding: 65619 -1 166
 Width: 705
 GlyphClass: 2
@@ -10553,11 +10528,10 @@ SplineSet
  380 111 380 111 322 70 c 1,83,-1
  322 70 l 1,72,-1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2E_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" mamlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph163
+StartChar: shamlm_viramamlm_lamlm
 Encoding: 65620 -1 167
 Width: 937
 GlyphClass: 2
@@ -10648,11 +10622,10 @@ SplineSet
  644 258 644 258 644 199 c 1,106,-1
  644 199 l 1,94,95
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D36_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" shamlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph164
+StartChar: samlm_viramamlm_lamlm
 Encoding: 65621 -1 168
 Width: 1183
 GlyphClass: 2
@@ -10743,11 +10716,10 @@ SplineSet
  43 200 43 200 43 300 c 1,108,-1
  43 300 l 1,49,50
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D38_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" samlm_viramamlm lamlm
 EndChar
 
-StartChar: glyph165
+StartChar: hamlm_viramamlm_lamlm
 Encoding: 65622 -1 169
 Width: 1218
 GlyphClass: 2
@@ -10833,11 +10805,10 @@ SplineSet
  185 -248 185 -248 185 -176 c 1,98,-1
  185 -176 l 1,10,11
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D39_U0D4D.half U0D32
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" hamlm_viramamlm lamlm
 EndChar
 
-StartChar: U0D31_U0D4D_U0D31.akhn
+StartChar: rramlm_viramamlm_rramlm
 Encoding: 65623 -1 170
 Width: 711
 GlyphClass: 2
@@ -10889,11 +10860,10 @@ SplineSet
  40 201 40 201 40 269 c 1,54,-1
  40 269 l 1,18,19
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D31 U0D31 U0D4D
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" rramlm rramlm viramamlm
 EndChar
 
-StartChar: glyph167
+StartChar: damlm_virama_damlm
 Encoding: 65624 -1 171
 Width: 696
 GlyphClass: 2
@@ -10949,11 +10919,10 @@ SplineSet
  43 187 43 187 43 257 c 1,62,-1
  43 257 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D26 U0D4D U0D26
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" damlm viramamlm damlm
 EndChar
 
-StartChar: glyph168
+StartChar: samlm_viramamlm_samlm
 Encoding: 65625 -1 172
 Width: 1182
 GlyphClass: 2
@@ -11049,11 +11018,10 @@ SplineSet
  308 -291 308 -291 308 -212 c 1,119,-1
  308 -212 l 1,60,61
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D4D U0D38
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm viramamlm samlm
 EndChar
 
-StartChar: glyph169
+StartChar: gamlm_viramamlm_gamlm
 Encoding: 65626 -1 173
 Width: 910
 GlyphClass: 2
@@ -11139,11 +11107,10 @@ SplineSet
  268 -203 l 1,97,-1
  268 -203 l 1,49,50
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D17 U0D4D U0D17
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" gamlm viramamlm gamlm
 EndChar
 
-StartChar: glyph170
+StartChar: camlm_viramamlm_chamlm
 Encoding: 65627 -1 174
 Width: 1152
 GlyphClass: 2
@@ -11227,11 +11194,10 @@ SplineSet
  829 -163 829 -163 829 -211 c 1,96,-1
  829 -211 l 1,85,86
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1A U0D4D U0D1B
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" camlm viramamlm chamlm
 EndChar
 
-StartChar: glyph171
+StartChar: jamlm_viramamlm_jamlm
 Encoding: 65628 -1 175
 Width: 1483
 GlyphClass: 2
@@ -11361,11 +11327,10 @@ SplineSet
  1238 97 1238 97 1238 70 c 1,163,-1
  1238 70 l 1,151,152
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1C U0D4D U0D1C
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" jamlm viramamlm jamlm
 EndChar
 
-StartChar: glyph172
+StartChar: kamlm_viramamlm_tamlm
 Encoding: 65629 -1 176
 Width: 1628
 GlyphClass: 2
@@ -11463,11 +11428,10 @@ SplineSet
  27 91 27 91 27 164 c 1,109,-1
  27 164 l 1,40,41
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D15 U0D4D U0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" kamlm viramamlm tamlm
 EndChar
 
-StartChar: glyph173
+StartChar: tamlm_viramamlm_namlm
 Encoding: 65630 -1 177
 Width: 1251
 GlyphClass: 2
@@ -11534,11 +11498,10 @@ SplineSet
  40 191 40 191 40 281 c 1,75,-1
  40 281 l 1,12,13
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D24 U0D4D U0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" tamlm viramamlm namlm
 EndChar
 
-StartChar: glyph174
+StartChar: ssamlm_viramamlm_ttamlm
 Encoding: 65631 -1 178
 Width: 1175
 GlyphClass: 2
@@ -11624,11 +11587,10 @@ SplineSet
  582 453 582 453 582 410 c 1,94,-1
  582 410 l 1,84,85
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D37 U0D4D U0D1F
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ssamlm viramamlm ttamlm
 EndChar
 
-StartChar: glyph175
+StartChar: namlm_viramamlm_damlm
 Encoding: 65632 -1 179
 Width: 996
 GlyphClass: 2
@@ -11682,11 +11644,10 @@ SplineSet
  40 210 40 210 40 304 c 1,58,-1
  40 304 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D U0D26
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm damlm
 EndChar
 
-StartChar: glyph176
+StartChar: bamlm_viramamlm_bamlm
 Encoding: 65633 -1 180
 Width: 1360
 GlyphClass: 2
@@ -11754,11 +11715,10 @@ SplineSet
  749 -216 l 1,70,-1
  749 -216 l 1,67,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D2C U0D4D U0D2C
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" bamlm viramamlm bamlm
 EndChar
 
-StartChar: glyph177
+StartChar: shamlm_viramamlm_shamlm
 Encoding: 65634 -1 181
 Width: 939
 GlyphClass: 2
@@ -11858,11 +11818,10 @@ SplineSet
  261 -203 l 1,116,-1
  261 -203 l 1,71,72
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D36 U0D4D U0D36
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" shamlm viramamlm shamlm
 EndChar
 
-StartChar: glyph178
+StartChar: namlm_viramamlm_dhamlm
 Encoding: 65635 -1 182
 Width: 1511
 GlyphClass: 2
@@ -11926,11 +11885,10 @@ SplineSet
  40 198 40 198 40 281 c 1,74,-1
  40 281 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D U0D27
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm dhamlm
 EndChar
 
-StartChar: glyph179
+StartChar: samlm_viramamlm_thamlm
 Encoding: 65636 -1 183
 Width: 1749
 GlyphClass: 2
@@ -12000,11 +11958,10 @@ SplineSet
  1286 70 l 1,77,-1
  1286 70 l 1,69,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D4D U0D25
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm viramamlm thamlm
 EndChar
 
-StartChar: glyph180
+StartChar: tamlm_viramamlm_thamlm
 Encoding: 65637 -1 184
 Width: 1511
 GlyphClass: 2
@@ -12077,11 +12034,10 @@ SplineSet
  42 191 42 191 42 281 c 1,79,-1
  42 281 l 1,21,22
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D24 U0D4D U0D25
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" tamlm viramamlm thamlm
 EndChar
 
-StartChar: glyph181
+StartChar: namlm_viramamlm_thamlm
 Encoding: 65638 -1 185
 Width: 1509
 GlyphClass: 2
@@ -12139,11 +12095,10 @@ SplineSet
  1047 70 l 1,59,-1
  1047 70 l 1,51,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D U0D25
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm thamlm
 EndChar
 
-StartChar: glyph182
+StartChar: shamlm_viramamlm_camlm
 Encoding: 65639 -1 186
 Width: 1442
 GlyphClass: 2
@@ -12211,11 +12166,10 @@ SplineSet
  697 374 697 374 697 339 c 1,78,-1
  697 339 l 1,66,67
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D36 U0D4D U0D1A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" shamlm viramamlm camlm
 EndChar
 
-StartChar: glyph183
+StartChar: hamlm_viramamlm_namlm
 Encoding: 65640 -1 187
 Width: 1477
 GlyphClass: 2
@@ -12276,11 +12230,10 @@ SplineSet
  33 132 33 132 33 199 c 1,69,-1
  33 199 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D39 U0D4D U0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" hamlm viramamlm namlm
 EndChar
 
-StartChar: glyph184
+StartChar: damlm_viramamlm_dhamlm
 Encoding: 65641 -1 188
 Width: 1288
 GlyphClass: 2
@@ -12343,11 +12296,10 @@ SplineSet
  44 180 44 180 44 257 c 1,71,-1
  44 257 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D26 U0D4D U0D27
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" damlm viramamlm dhamlm
 EndChar
 
-StartChar: glyph185
+StartChar: llamlm_viramamlm_llamlm
 Encoding: 65642 -1 189
 Width: 1282
 GlyphClass: 2
@@ -12461,12 +12413,11 @@ SplineSet
  740 245 740 245 740 211 c 1,136,-1
  740 211 l 1,127,128
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D33_U0D4D.half U0D33
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D33 glyph222
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" llamlm lamlm_viramamlm.blwf
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" llamlm_viramamlm llamlm
 EndChar
 
-StartChar: glyph186
+StartChar: hamlm_viramamlm_mamlm
 Encoding: 65643 -1 190
 Width: 1192
 GlyphClass: 2
@@ -12523,8 +12474,7 @@ SplineSet
  868 110 868 110 810 70 c 1,56,-1
  810 70 l 1,45,-1
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D39_U0D4D.half U0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" hamlm_viramamlm mamlm
 EndChar
 
 StartChar: glyph187
@@ -12603,7 +12553,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph188
+StartChar: tamlm_viramamlm_samlm
 Encoding: 65645 -1 192
 Width: 1507
 GlyphClass: 2
@@ -12682,11 +12632,10 @@ SplineSet
  43 199 43 199 43 281 c 1,94,-1
  43 281 l 1,12,13
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D24 U0D4D U0D38
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" tamlm viramamlm samlm
 EndChar
 
-StartChar: glyph189
+StartChar: namlm_viramamlm_mamlm
 Encoding: 65646 -1 193
 Width: 1056
 GlyphClass: 2
@@ -12737,11 +12686,10 @@ SplineSet
  733 110 733 110 675 70 c 1,51,-1
  675 70 l 1,40,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D U0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm mamlm
 EndChar
 
-StartChar: glyph190
+StartChar: tamlm_viramamlm_mamlm
 Encoding: 65647 -1 194
 Width: 1347
 GlyphClass: 2
@@ -12820,11 +12768,10 @@ SplineSet
  1024 110 1024 110 967 70 c 1,89,-1
  967 70 l 1,78,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D24 U0D4D U0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" tamlm viramamlm mamlm
 EndChar
 
-StartChar: glyph191
+StartChar: nnamlm_viramamlm_mamlm
 Encoding: 65648 -1 195
 Width: 1339
 GlyphClass: 2
@@ -12899,11 +12846,10 @@ SplineSet
  1038 113 1038 113 983 70 c 1,82,-1
  983 70 l 1,71,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D23 U0D4D U0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nnamlm viramamlm mamlm
 EndChar
 
-StartChar: glyph192
+StartChar: jamlm_viramamlm_nyamlm
 Encoding: 65649 -1 196
 Width: 2085
 GlyphClass: 2
@@ -13036,11 +12982,10 @@ SplineSet
  1583 271 1583 271 1583 211 c 1,164,-1
  1583 211 l 1,153,154
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1C U0D4D U0D1E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" jamlm viramamlm nyamlm
 EndChar
 
-StartChar: glyph193
+StartChar: tamlm_viramamlm_bhamlm
 Encoding: 65650 -1 197
 Width: 1331
 GlyphClass: 2
@@ -13137,11 +13082,10 @@ SplineSet
  43 199 43 199 43 281 c 1,119,-1
  43 281 l 1,12,13
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D24 U0D4D U0D2D
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" tamlm viramamlm bhamlm
 EndChar
 
-StartChar: glyph194
+StartChar: gamlm_viramamlm_mamlm
 Encoding: 65651 -1 198
 Width: 1063
 GlyphClass: 2
@@ -13197,11 +13141,10 @@ SplineSet
  741 110 741 110 684 70 c 1,55,-1
  684 70 l 1,44,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D17 U0D4D U0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" gamlm viramamlm mamlm
 EndChar
 
-StartChar: glyph195
+StartChar: samlm_viramalm_kamlm
 Encoding: 65652 -1 199
 Width: 1138
 GlyphClass: 2
@@ -13310,11 +13253,10 @@ SplineSet
  654 -106 654 -106 654 -144 c 1,131,-1
  654 -144 l 1,124,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D4D U0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm viramamlm kamlm
 EndChar
 
-StartChar: glyph196
+StartChar: gamlm_viramamlm_namlm
 Encoding: 65653 -1 200
 Width: 1283
 GlyphClass: 2
@@ -13369,11 +13311,10 @@ SplineSet
  47 328 l 1,59,-1
  47 328 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D17 U0D4D U0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" gamlm viramamlm namlm
 EndChar
 
-StartChar: glyph197
+StartChar: nnamlm_viramamlm_ddamlm
 Encoding: 65654 -1 201
 Width: 1905
 GlyphClass: 2
@@ -13461,11 +13402,10 @@ SplineSet
  42 154 42 154 42 263 c 1,102,-1
  42 263 l 1,11,12
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D23 U0D4D U0D21
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nnamlm viramamlm ddamlm
 EndChar
 
-StartChar: glyph198
+StartChar: nyamlm_viramamlm_jamlm
 Encoding: 65655 -1 202
 Width: 1481
 GlyphClass: 2
@@ -13583,11 +13523,10 @@ SplineSet
  1216 97 1216 97 1216 70 c 1,146,-1
  1216 70 l 1,134,135
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D1E U0D4D U0D1C
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nyamlm viramamlm jamlm
 EndChar
 
-StartChar: glyph199
+StartChar: samlm_viramamlm_namlm
 Encoding: 65656 -1 203
 Width: 1182
 GlyphClass: 2
@@ -13669,11 +13608,10 @@ SplineSet
  42 197 42 197 42 294 c 1,100,-1
  42 294 l 1,0,1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D4D U0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm viramamlm namlm
 EndChar
 
-StartChar: U0D28_U0D4D.half_U0D31.pres
+StartChar: namlm_viramamlm_rramlm
 Encoding: 65657 -1 204
 Width: 958
 GlyphClass: 2
@@ -13758,12 +13696,11 @@ SplineSet
  42 201 42 201 42 293 c 1,104,-1
  42 293 l 1,13,14
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D31 U0D4D
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D28_U0D4D.half U0D31
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm rramlm
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm rramlm viramamlm
 EndChar
 
-StartChar: glyph201
+StartChar: sa_rra_virama_rra_virama
 Encoding: 65658 -1 205
 Width: 1183
 GlyphClass: 2
@@ -13857,11 +13794,10 @@ SplineSet
  389 52 389 52 394 52 c 1,116,-1
  394 52 l 1,99,-1
 EndSplineSet
-LCarets2: 4 0 0 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D31 U0D4D U0D31 U0D4D
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm rramlm viramamlm rramlm viramamlm
 EndChar
 
-StartChar: glyph202
+StartChar: ddamlm_viramamlm_ddamlm
 Encoding: 65659 -1 206
 Width: 1186
 GlyphClass: 2
@@ -13957,11 +13893,10 @@ SplineSet
  337 -303 337 -303 337 -224 c 1,117,-1
  337 -224 l 1,58,59
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D21 U0D4D U0D21
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ddamlm viramamlm ddamlm
 EndChar
 
-StartChar: glyph203
+StartChar: bamlm_viramamlm_dhamlm
 Encoding: 65660 -1 207
 Width: 1360
 GlyphClass: 2
@@ -14052,11 +13987,10 @@ SplineSet
  646 -247 646 -247 646 -174 c 1,105,-1
  646 -174 l 1,64,65
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D2C U0D4D U0D27
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" bamlm viramamlm dhamlm
 EndChar
 
-StartChar: glyph204
+StartChar: bamlm_viramamlm_damlm
 Encoding: 65661 -1 208
 Width: 1360
 GlyphClass: 2
@@ -14148,11 +14082,10 @@ SplineSet
  42 147 42 147 42 251 c 1,106,-1
  42 251 l 1,11,12
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D2C U0D4D U0D26
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" bamlm viramamlm damlm
 EndChar
 
-StartChar: glyph205
+StartChar: kamlm_viramamlm_ttamlm
 Encoding: 65662 -1 209
 Width: 993
 GlyphClass: 2
@@ -14246,8 +14179,7 @@ SplineSet
  27 95 27 95 27 163 c 1,108,-1
  27 163 l 1,26,27
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D15 U0D4D U0D1F
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" kamlm viramamlm ttamlm
 EndChar
 
 StartChar: glyph206
@@ -14321,7 +14253,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph208
+StartChar: yamlm_viramamlm_kamlm
 Encoding: 65664 -1 211
 Width: 928
 GlyphClass: 2
@@ -14438,8 +14370,7 @@ SplineSet
  143 -288 143 -288 143 -243 c 1,140,-1
  143 -243 l 1,98,99
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2F_U0D4D.half U0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" yamlm_viramamlm kamlm
 EndChar
 
 StartChar: glyph209
@@ -14579,7 +14510,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph210
+StartChar: la_virama_ka_virama_ka
 Encoding: 65666 -1 213
 Width: 875
 GlyphClass: 2
@@ -14689,11 +14620,10 @@ SplineSet
  270 -95 270 -95 270 -126 c 1,120,-1
  270 -126 l 1,113,-1
 EndSplineSet
-LCarets2: 4 0 0 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D32 U0D4D U0D15 U0D4D U0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" lamlm viramamlm kamlm viramamlm kamlm
 EndChar
 
-StartChar: glyph211
+StartChar: ssamlm_viramamlm_kamlm
 Encoding: 65667 -1 214
 Width: 1153
 GlyphClass: 2
@@ -14810,11 +14740,10 @@ SplineSet
  672 -87 672 -87 672 -125 c 1,132,-1
  672 -125 l 1,125,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D37 U0D4D U0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ssamlm viramamlm kamlm
 EndChar
 
-StartChar: glyph212
+StartChar: lamlm_viramamlm_kamlm
 Encoding: 65668 -1 215
 Width: 828
 GlyphClass: 2
@@ -14903,11 +14832,10 @@ SplineSet
  347 -87 347 -87 347 -125 c 1,96,-1
  347 -125 l 1,89,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D32 U0D4D U0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" lamlm viramamlm kamlm
 EndChar
 
-StartChar: glyph213
+StartChar: samlm_viramamlm_tamlm
 Encoding: 65669 -1 216
 Width: 1095
 GlyphClass: 2
@@ -15006,11 +14934,10 @@ SplineSet
  369 -236 369 -236 369 -185 c 1,122,-1
  369 -185 l 1,73,74
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D4D U0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm viramamlm tamlm
 EndChar
 
-StartChar: glyph214
+StartChar: samlm_viramamlm_phamlm
 Encoding: 65670 -1 217
 Width: 1095
 GlyphClass: 2
@@ -15100,8 +15027,7 @@ SplineSet
  775 -109 775 -109 775 -148 c 1,106,-1
  775 -148 l 1,97,-1
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D38 U0D4D U0D2B
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" samlm viramamlm phamlm
 EndChar
 
 StartChar: glyph215
@@ -15405,7 +15331,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph222
+StartChar: lamlm_viramamlm.blwf
 Encoding: 65678 -1 225
 Width: 0
 GlyphClass: 2
@@ -15451,7 +15377,7 @@ SplineSet
  -819 -248 -819 -248 -819 -176 c 1,50,-1
  -819 -176 l 1,13,14
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" U0D32 U0D4D
+Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" lamlm viramamlm
 EndChar
 
 StartChar: glyph223
@@ -15531,7 +15457,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0031
+StartChar: digitone
 Encoding: 49 49 228
 Width: 623
 GlyphClass: 2
@@ -15556,7 +15482,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0032
+StartChar: digittwo
 Encoding: 50 50 229
 Width: 623
 GlyphClass: 2
@@ -15591,7 +15517,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0033
+StartChar: digitthree
 Encoding: 51 51 230
 Width: 623
 GlyphClass: 2
@@ -15633,7 +15559,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0034
+StartChar: digitfour
 Encoding: 52 52 231
 Width: 624
 GlyphClass: 2
@@ -15662,7 +15588,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0035
+StartChar: digitfive
 Encoding: 53 53 232
 Width: 623
 GlyphClass: 2
@@ -15698,7 +15624,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0036
+StartChar: digitsix
 Encoding: 54 54 233
 Width: 624
 GlyphClass: 2
@@ -15739,7 +15665,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0037
+StartChar: digitseven
 Encoding: 55 55 234
 Width: 624
 GlyphClass: 2
@@ -15761,7 +15687,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0038
+StartChar: digiteight
 Encoding: 56 56 235
 Width: 624
 GlyphClass: 2
@@ -15810,7 +15736,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0039
+StartChar: digitnine
 Encoding: 57 57 236
 Width: 624
 GlyphClass: 2
@@ -15851,7 +15777,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0030
+StartChar: digitzero
 Encoding: 48 48 237
 Width: 624
 GlyphClass: 2
@@ -15913,7 +15839,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0964
+StartChar: dandamlm
 Encoding: 2404 2404 239
 Width: 304
 GlyphClass: 2
@@ -15930,7 +15856,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0965
+StartChar: doubledandamlm
 Encoding: 2405 2405 240
 Width: 493
 GlyphClass: 2
@@ -15953,7 +15879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0D15_U0D4D_U0D30
+StartChar: kamlm_viramamlm_ramlm
 Encoding: 65687 -1 241
 Width: 1123
 GlyphClass: 3
@@ -16021,10 +15947,10 @@ SplineSet
  876 -19 876 -19 835 16 c 1,68,-1
  854 80 l 1,33,34
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D15_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" kamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D17_U0D4D_U0D30
+StartChar: gamlm_viramamlm_ramlm
 Encoding: 65688 -1 242
 Width: 969
 GlyphClass: 3
@@ -16079,10 +16005,10 @@ SplineSet
  140 -180 140 -180 70 -103.5 c 128,-1,55
  0 -27 0 -27 0 123 c 0,44,45
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D17_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" gamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D18_U0D4D_U0D30
+StartChar: ghamlm_viramamlm_ramlm
 Encoding: 65689 -1 243
 Width: 1469
 GlyphClass: 3
@@ -16142,10 +16068,10 @@ SplineSet
  170 -180 170 -180 100 -103.5 c 128,-1,55
  30 -27 30 -27 30 123 c 0,44,45
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D18_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ghamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D1B_U0D4D_U0D30
+StartChar: chamlm_viramamlm_ramlm
 Encoding: 65690 -1 244
 Width: 1640
 GlyphClass: 3
@@ -16207,10 +16133,10 @@ SplineSet
  1269 318 1269 318 1269 240 c 128,-1,57
  1269 162 1269 162 1307 110 c 128,-1,58
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D1B_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" chamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D1C_U0D4D_U0D30
+StartChar: jamlm_viramamlm_ramlm
 Encoding: 65691 -1 245
 Width: 947
 GlyphClass: 3
@@ -16294,10 +16220,10 @@ SplineSet
  624 47 624 47 624 101 c 0,89,90
  624 115 624 115 630 131 c 1,28,29
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D1C_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" jamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D1D_U0D4D_U0D30
+StartChar: jhamlm_viramamlm_ramlm
 Encoding: 65692 -1 246
 Width: 1662
 GlyphClass: 3
@@ -16378,10 +16304,10 @@ SplineSet
  363 294 363 294 393.5 364.5 c 128,-1,92
  424 435 424 435 480 482 c 1,21,22
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D1D_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" jhamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D1F_U0D4D_U0D30
+StartChar: ttamlm_viramamlm_ramlm
 Encoding: 65693 -1 247
 Width: 675
 GlyphClass: 3
@@ -16427,10 +16353,10 @@ SplineSet
  576 534 576 534 621 481 c 1,50,-1
  574 434 l 1,12,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D1F_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ttamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D21_U0D4D_UD30
+StartChar: ddamlm_viramamlm_ramlm
 Encoding: 65694 -1 248
 Width: 1281
 GlyphClass: 3
@@ -16490,10 +16416,10 @@ SplineSet
  137 168 137 168 137 272 c 0,65,12
  137 398 137 398 209 487 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D21_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ddamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D22_0D4D_0D30
+StartChar: ddhamlm_viramamlm_ramlm
 Encoding: 65695 -1 249
 Width: 1316
 GlyphClass: 3
@@ -16564,10 +16490,10 @@ SplineSet
  1083 61 1083 61 1113 83 c 128,-1,77
  1143 105 1143 105 1165 143 c 1,20,21
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D22_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ddhamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D24_U0D4D_U0D30
+StartChar: tamlm_viramamlm_ramlm
 Encoding: 65696 -1 250
 Width: 943
 GlyphClass: 3
@@ -16621,10 +16547,10 @@ SplineSet
  340 112 340 112 340 202 c 0,62,63
  340 324 340 324 459 466 c 1,21,22
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D24_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" tamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D26_U0D4D_U0D30
+StartChar: damlm_viramamlm_ramlm
 Encoding: 65697 -1 251
 Width: 710
 GlyphClass: 3
@@ -16671,10 +16597,10 @@ SplineSet
  183 128 183 128 248 48 c 1,49,-1
  194 1 l 1,12,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D26_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" damlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D27_U0D4D_U0D30
+StartChar: dhamlm_viramamlm_ramlm
 Encoding: 65698 -1 252
 Width: 968
 GlyphClass: 3
@@ -16722,10 +16648,10 @@ SplineSet
  106 155 106 155 106 276 c 0,49,12
  106 367 106 367 146.5 446.5 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D27_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" dhamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D28_U0D4D_U0D30
+StartChar: namlm_viramamlm_ramlm
 Encoding: 65699 -1 253
 Width: 964
 GlyphClass: 3
@@ -16773,10 +16699,10 @@ SplineSet
  106 192 106 192 106 282 c 0,50,12
  106 411 106 411 176.5 502 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D28_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D2A_U0D4D_U0D30
+StartChar: pamlm_viramamlm_ramlm
 Encoding: 65700 -1 254
 Width: 1061
 GlyphClass: 3
@@ -16817,10 +16743,10 @@ SplineSet
  279 434 279 434 366 434 c 128,-1,12
  453 434 453 434 515 367 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2A_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" pamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D2B_U0D4D_U0D30
+StartChar: phamlm_viramamlm_ramlm
 Encoding: 65701 -1 255
 Width: 1220
 GlyphClass: 3
@@ -16872,10 +16798,10 @@ SplineSet
  836 409 836 409 836 329 c 2,51,-1
  836 71 l 1,44,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2B_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" phamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D2C_U0D4D_U0D30
+StartChar: bamlm_viramamlm_ramlm
 Encoding: 65702 -1 256
 Width: 1384
 GlyphClass: 3
@@ -16941,10 +16867,10 @@ SplineSet
  106 145 106 145 106 252 c 0,66,20
  106 393 106 393 188 493 c 128,-1,21
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2C_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" bamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D2D_0UD4D_U0D30
+StartChar: bhamlm_viramamlm_ramlm
 Encoding: 65703 -1 257
 Width: 714
 GlyphClass: 3
@@ -17006,10 +16932,10 @@ SplineSet
  506 519 506 519 433 519 c 0,68,12
  327 519 327 519 251.5 433 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2D_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" bhamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D2E_0UD4D_U0D30
+StartChar: mamlm_viramamlm_ramlm
 Encoding: 65704 -1 258
 Width: 732
 GlyphClass: 3
@@ -17052,10 +16978,10 @@ SplineSet
  106 294 l 2,39,32
  106 415 106 415 191.5 500.5 c 128,-1,33
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D2E_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" mamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D35_U0D4D_U0D30
+StartChar: vamlm_viramamlm_ramlm
 Encoding: 65705 -1 259
 Width: 1138
 GlyphClass: 3
@@ -17096,10 +17022,10 @@ SplineSet
  338 599 338 599 459 599 c 128,-1,12
  580 599 580 599 665.5 506 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D35_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" vamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D36_U0D4D_U0D30
+StartChar: shamlm_viramamlm_ramlm
 Encoding: 65706 -1 260
 Width: 1050
 GlyphClass: 3
@@ -17159,10 +17085,10 @@ SplineSet
  166 319 l 2,62,21
  166 425 166 425 228 500.5 c 128,-1,22
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D36_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" shamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D37_U0D4D_U0D30
+StartChar: ssamlm_viramamlm_ramlm
 Encoding: 65707 -1 261
 Width: 1190
 GlyphClass: 3
@@ -17228,10 +17154,10 @@ SplineSet
  866 71 l 1,66,-1
  1077 71 l 1,61,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D37_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ssamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D38_U0D4D_U0D30
+StartChar: samlm_viramamlm_ramlm
 Encoding: 65708 -1 262
 Width: 1192
 GlyphClass: 3
@@ -17291,10 +17217,10 @@ SplineSet
  106 198 106 198 106 291 c 0,65,12
  106 416 106 416 171 504.5 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D38_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" samlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D39_U0D4D_U0D30
+StartChar: hamlm_viramamlm_ramlm
 Encoding: 65709 -1 263
 Width: 1324
 GlyphClass: 3
@@ -17350,10 +17276,10 @@ SplineSet
  443 434 443 434 505 365.5 c 128,-1,58
  567 297 567 297 567 200 c 0,12,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" U0D39_U0D4D.half U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" hamlm_viramamlm ramlm
 EndChar
 
-StartChar: U0D31_U0D4D_U0D31_U0D4D_U0D30
+StartChar: rramlm_viramamlm_rramlm_viramamlm_ramlm
 Encoding: 65710 -1 264
 Width: 903
 GlyphClass: 3
@@ -17407,10 +17333,10 @@ SplineSet
  327 -305 327 -305 292.5 -242.5 c 128,-1,59
  258 -180 258 -180 258 -106 c 0,26,27
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph226 U0D31_U0D4D.half U0D31
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ramlm_viramamlm rramlm_viramamlm rramlm
 EndChar
 
-StartChar: glyph147_U0D4D_U0D30
+StartChar: nnamlm_viramamlm_ttamlm_viramamlm_ramlm
 Encoding: 65711 -1 265
 Width: 1577
 GlyphClass: 3
@@ -17507,10 +17433,10 @@ SplineSet
  290 216 290 216 290 170 c 128,-1,102
  290 124 290 124 319 91 c 128,-1,103
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph226 glyph142
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ramlm_viramamlm ngamlm_viramamlm_ngamlm
 EndChar
 
-StartChar: glyph175_U0D4D_U0D30
+StartChar: namlm_viramamlm_damlm_viramamlm_ramlm
 Encoding: 65712 -1 266
 Width: 1103
 GlyphClass: 3
@@ -17571,10 +17497,10 @@ SplineSet
  156 211 156 211 156 305 c 0,66,12
  156 424 156 424 228 508.5 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph175 U0D4D U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_damlm viramamlm ramlm
 EndChar
 
-StartChar: glyph150_U0D4D_U0D30
+StartChar: namlm_viramamlm_tamlm_viramamlm_ramlm
 Encoding: 65713 -1 267
 Width: 1432
 GlyphClass: 3
@@ -17642,10 +17568,10 @@ SplineSet
  829 298 829 298 856.5 373.5 c 128,-1,75
  884 449 884 449 934 499 c 1,21,22
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph150 U0D4D U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_tamlm viramamlm ramlm
 EndChar
 
-StartChar: glyph153_U0D4D_U0D30
+StartChar: mamlm_viramamlm_pamlm_viramamlm_ramlm
 Encoding: 65714 -1 268
 Width: 1371
 GlyphClass: 3
@@ -17697,10 +17623,10 @@ SplineSet
  714 593 714 593 768 593 c 0,55,12
  867 593 867 593 936.5 502 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph153 U0D4D U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" mamlm_viramamlm_pamlm viramamlm ramlm
 EndChar
 
-StartChar: U0D41_U0D4D
+StartChar: uvowelmlm_viramamlm
 Encoding: 65715 -1 269
 Width: 96
 GlyphClass: 3
@@ -17735,10 +17661,10 @@ SplineSet
  -68 763 -68 763 -68 740 c 128,-1,20
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" U0D41 U0D4D
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 15 subtable" uvowelmlm viramamlm
 EndChar
 
-StartChar: glyph178_U0D4D_U0D30
+StartChar: namlm_viramamlm_dhamlm_viramamlm_ramlm
 Encoding: 65716 -1 270
 Width: 1647
 GlyphClass: 3
@@ -17809,10 +17735,10 @@ SplineSet
  186 199 186 199 186 282 c 0,82,12
  186 411 186 411 258 502 c 128,-1,13
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph178 U0D4D U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_dhamlm viramamlm ramlm
 EndChar
 
-StartChar: glyph147_U0D4D
+StartChar: nnamlm_viramamlm_ttamlm_viramamlm
 Encoding: 65717 -1 271
 Width: 1435
 GlyphClass: 3
@@ -17924,10 +17850,10 @@ SplineSet
  134 215 134 215 134 169 c 1,140,-1
  134 169 l 1,131,132
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph147 U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" nnamlm_viramamlm_ttamlm viramamlm
 EndChar
 
-StartChar: glyph175_U0D4D
+StartChar: namlm_viramamlm_damlm_viramamlm
 Encoding: 65718 -1 272
 Width: 996
 GlyphClass: 3
@@ -18000,10 +17926,10 @@ SplineSet
  40 210 40 210 40 304 c 1,85,-1
  40 304 l 1,27,28
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph175 U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_damlm viramamlm
 EndChar
 
-StartChar: glyph150_U0D4D
+StartChar: namlm_viramamlm_tamlm_viramamlm
 Encoding: 65719 -1 273
 Width: 1291
 GlyphClass: 3
@@ -18089,10 +18015,10 @@ SplineSet
  42 195 42 195 42 289 c 1,103,-1
  42 289 l 1,39,40
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph150 U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_tamlm viramamlm
 EndChar
 
-StartChar: glyph153_U0D4D
+StartChar: mamlm_viramamlm_pamlm_viramamlm
 Encoding: 65720 -1 274
 Width: 1268
 GlyphClass: 3
@@ -18157,10 +18083,10 @@ SplineSet
  43 179 43 179 43 281 c 1,73,-1
  43 281 l 1,27,28
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph153 U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" mamlm_viramamlm_pamlm viramamlm
 EndChar
 
-StartChar: glyph178_U0D4D
+StartChar: namlm_viramamlm_dhamlm_viramamlm
 Encoding: 65721 -1 275
 Width: 1511
 GlyphClass: 3
@@ -18243,10 +18169,10 @@ SplineSet
  40 198 40 198 40 281 c 1,101,-1
  40 281 l 1,27,28
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph178 U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" namlm_viramamlm_dhamlm viramamlm
 EndChar
 
-StartChar: glyph174_U0D4D_U0D30
+StartChar: ssamlm_viramamlm_ttamlm_viramamlm_ramlm
 Encoding: 65722 -1 276
 Width: 1257
 GlyphClass: 3
@@ -18343,10 +18269,10 @@ SplineSet
  692 453 692 453 692 410 c 1,109,-1
  692 410 l 1,99,100
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph174 U0D4D U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" ssamlm_viramamlm_ttamlm viramamlm ramlm
 EndChar
 
-StartChar: glyph213_U0D4D
+StartChar: samlm_viramamlm_tamlm_viramamlm
 Encoding: 65723 -1 277
 Width: 1095
 GlyphClass: 3
@@ -18464,10 +18390,10 @@ SplineSet
  369 -236 369 -236 369 -185 c 1,149,-1
  369 -185 l 1,100,101
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph213 U0D4D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" samlm_viramamlm_tamlm viramamlm
 EndChar
 
-StartChar: glyph213_U0D4D_U0D30
+StartChar: samlm_viramamlm_tamlm_viramamlm_ramlm
 Encoding: 65724 -1 278
 Width: 1235
 GlyphClass: 3
@@ -18577,10 +18503,10 @@ SplineSet
  515 -236 515 -236 515 -185 c 1,137,-1
  515 -185 l 1,88,89
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" glyph213 U0D4D U0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 6 subtable" samlm_viramamlm_tamlm viramamlm ramlm
 EndChar
 
-StartChar: uni0D7E
+StartChar: chillullmlm
 Encoding: 3454 3454 279
 Width: 1024
 GlyphClass: 2
@@ -18650,12 +18576,11 @@ SplineSet
  48 328 l 1,81,-1
  48 328 l 1,13,14
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D33_U0D4D.half afii301
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D33 U0D4D afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" llamlm viramamlm afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" llamlm_viramamlm afii301
 EndChar
 
-StartChar: uni0D7A
+StartChar: chillunnmlm
 Encoding: 3450 3450 280
 Width: 1414
 GlyphClass: 2
@@ -18745,12 +18670,11 @@ SplineSet
  1084 300 1084 300 1084 239 c 1,108,-1
  1084 239 l 1,96,97
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D23_U0D4D.half afii301
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D23 U0D4D afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nnamlm viramamlm afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" nnamlm_viramamlm afii301
 EndChar
 
-StartChar: uni0D7B
+StartChar: chillunmlm
 Encoding: 3451 3451 281
 Width: 1024
 GlyphClass: 2
@@ -18816,12 +18740,11 @@ SplineSet
  42 201 42 201 42 293 c 1,77,-1
  42 293 l 1,13,14
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28_U0D4D.half afii301
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D28 U0D4D afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm viramamlm afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" namlm_viramamlm afii301
 EndChar
 
-StartChar: uni0D7C
+StartChar: chillurrmlm
 Encoding: 3452 3452 282
 Width: 646
 GlyphClass: 2
@@ -18874,12 +18797,11 @@ SplineSet
  43 172 43 172 43 263 c 1,57,-1
  43 263 l 1,12,13
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D30_U0D4D.half afii301
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D30 U0D4D afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ramlm viramamlm afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ramlm_viramamlm.half afii301
 EndChar
 
-StartChar: uni0D7D
+StartChar: chillulmlm
 Encoding: 3453 3453 283
 Width: 989
 GlyphClass: 2
@@ -18960,12 +18882,11 @@ SplineSet
  46 189 46 189 46 281 c 1,96,-1
  46 281 l 1,25,26
 EndSplineSet
-LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D32_U0D4D.half afii301
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" U0D32 U0D4D afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" lamlm viramamlm afii301
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" lamlm_viramamlm.half afii301
 EndChar
 
-StartChar: uni0D7F
+StartChar: chillukmlm
 Encoding: 3455 3455 284
 Width: 1117
 GlyphClass: 2
@@ -19054,7 +18975,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D79
+StartChar: datemarkmlm
 Encoding: 3449 3449 285
 Width: 1088
 GlyphClass: 2
@@ -19101,7 +19022,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D70
+StartChar: tenmlm
 Encoding: 3440 3440 286
 Width: 1104
 GlyphClass: 2
@@ -19144,7 +19065,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D73
+StartChar: onequartermlm
 Encoding: 3443 3443 287
 Width: 888
 GlyphClass: 2
@@ -19182,7 +19103,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D71
+StartChar: onehundredmlm
 Encoding: 3441 3441 288
 Width: 1088
 GlyphClass: 2
@@ -19224,7 +19145,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D72
+StartChar: onethousandmlm
 Encoding: 3442 3442 289
 Width: 1294
 GlyphClass: 2
@@ -19276,7 +19197,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D74
+StartChar: onehalfmlm
 Encoding: 3444 3444 290
 Width: 850
 GlyphClass: 2
@@ -19342,7 +19263,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D75
+StartChar: threequartersmlm
 Encoding: 3445 3445 291
 Width: 1032
 GlyphClass: 2
@@ -19423,7 +19344,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D63
+StartChar: llvocalicvowelmlm
 Encoding: 3427 3427 292
 Width: 0
 GlyphClass: 2
@@ -19501,7 +19422,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D62
+StartChar: lvocalicvowelmlm
 Encoding: 3426 3426 293
 Width: 0
 GlyphClass: 2
@@ -19559,7 +19480,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20B9
+StartChar: inr_currency
 Encoding: 8377 8377 294
 Width: 624
 Flags: W
@@ -19591,7 +19512,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D3D
+StartChar: avagrahamlm
 Encoding: 3389 3389 295
 Width: 354
 Flags: W
@@ -19614,7 +19535,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D44
+StartChar: rrvocalicvowel
 Encoding: 3396 3396 296
 Width: 345
 Flags: W
@@ -19679,7 +19600,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D29
+StartChar: nnnamlm
 Encoding: 3369 3369 297
 Width: 1012
 Flags: W
@@ -19732,7 +19653,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D3A
+StartChar: tttamlm
 Encoding: 3386 3386 298
 Width: 914
 Flags: W
@@ -19754,7 +19675,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D4E
+StartChar: dotrephmlm
 Encoding: 3406 3406 299
 Width: 0
 GlyphClass: 4
