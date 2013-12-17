@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159524182
-ModificationTime: 1386855242
+ModificationTime: 1387269284
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,6 +55,8 @@ OS2UnicodeRanges: 80808001.00002000.00000000.00000000
 Lookup: 4 0 0 "'akhn' Akhand lookup 0"  {"'akhn' Akhand lookup 0-1"  } ['akhn' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pref' Pre Base Forms lookup 1"  {"'pref' Pre Base Forms lookup 1-1"  } ['pref' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 2"  {"'blwf' Below Base Forms lookup 2-1"  } ['blwf' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "'half' Half Forms lookup 5"  {"'half' Half Forms lookup 5-1"  } ['half' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 4"  {"'blws' Below Base Substitutions lookup 4-1"  } ['blws' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms lookup 3"  {"'pstf' Post Base Forms lookup 3-1"  } ['pstf' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark lookup 0"  {"'abvm' Above Base Mark lookup 0-1"  } ['abvm' ('DFLT' <'dflt' > 'deva' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -5348,6 +5350,7 @@ SplineSet
  44 191 44 191 44 281 c 1,113,-1
  44 281 l 1,64,65
 EndSplineSet
+Ligature2: "'blws' Below Base Substitutions lookup 4-1" tamlm viramamlm lamlm 
 Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm lamlm
 EndChar
 
@@ -5428,6 +5431,7 @@ SplineSet
  724 408 724 408 724 328 c 1,94,-1
  724 328 l 1,86,-1
 EndSplineSet
+Ligature2: "'blws' Below Base Substitutions lookup 4-1" phamlm viramamlm lamlm
 Ligature2: "'akhn' Akhand lookup 0-1" phamlm viramamlm lamlm
 EndChar
 
@@ -5499,6 +5503,7 @@ SplineSet
  40 175 40 175 40 281 c 1,85,-1
  40 281 l 1,54,55
 EndSplineSet
+Ligature2: "'blws' Below Base Substitutions lookup 4-1" vamlm viramamlm lamlm 
 Ligature2: "'akhn' Akhand lookup 0-1" vamlm viramamlm lamlm
 EndChar
 
@@ -15576,6 +15581,7 @@ SplineSet
  -37 795 -37 795 -52.5 779 c 128,-1,19
  -68 763 -68 763 -68 740 c 128,-1,20
 EndSplineSet
+Ligature2: "'pstf' Post Base Forms lookup 3-1" viramamlm uvowelmlm 
 EndChar
 
 StartChar: nna_virama_tta_virama
@@ -16197,6 +16203,7 @@ SplineSet
  48 328 l 1,81,-1
  48 328 l 1,13,14
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" llamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillunnmlm
@@ -16289,6 +16296,7 @@ SplineSet
  1084 300 1084 300 1084 239 c 1,108,-1
  1084 239 l 1,96,97
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" nnamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillunmlm
@@ -16357,6 +16365,7 @@ SplineSet
  42 201 42 201 42 293 c 1,77,-1
  42 293 l 1,13,14
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" namlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillurrmlm
@@ -16412,6 +16421,8 @@ SplineSet
  43 172 43 172 43 263 c 1,57,-1
  43 263 l 1,12,13
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" ramlm viramamlm zerowidthjoiner
+Ligature2: "'half' Half Forms lookup 5-1" rramlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillulmlm
@@ -16495,6 +16506,7 @@ SplineSet
  46 189 46 189 46 281 c 1,96,-1
  46 281 l 1,25,26
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" lamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillukmlm
@@ -16584,6 +16596,7 @@ SplineSet
  368 421 368 421 368 351 c 1,100,-1
  368 351 l 1,93,-1
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" kamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: datemarkmlm
