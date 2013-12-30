@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159524182
-ModificationTime: 1387878411
+ModificationTime: 1388384160
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9023,6 +9023,7 @@ Encoding: 65604 -1 140
 Width: 1417
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 945 721.5 basechar 0
 AnchorPoint: "anchor-1" 690 650 basechar 0
 LayerCount: 2
 Fore
@@ -9111,6 +9112,7 @@ SplineSet
  134 215 134 215 134 169 c 1,113,-1
  134 169 l 1,104,105
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" nnamlm viramamlm ttamlm
 EndChar
 
@@ -9338,6 +9340,7 @@ Encoding: 65607 -1 143
 Width: 1291
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 1255.5 592.5 basechar 0
 AnchorPoint: "anchor-1" 650 650 basechar 0
 LayerCount: 2
 Fore
@@ -9400,6 +9403,7 @@ SplineSet
  42 195 42 195 42 289 c 1,76,-1
  42 289 l 1,12,13
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm tamlm
 EndChar
 
@@ -9522,6 +9526,7 @@ Encoding: 65610 -1 146
 Width: 1268
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 1250.5 597 basechar 0
 AnchorPoint: "anchor-1" 626 650 basechar 0
 LayerCount: 2
 Fore
@@ -9563,6 +9568,7 @@ SplineSet
  43 179 43 179 43 281 c 1,46,-1
  43 281 l 1,0,1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" mamlm viramamlm pamlm
 EndChar
 
@@ -10541,6 +10547,7 @@ Encoding: 65623 -1 159
 Width: 711
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 516 622.7 basechar 0
 AnchorPoint: "anchor-1" 357 650 basechar 0
 LayerCount: 2
 Fore
@@ -10588,6 +10595,7 @@ SplineSet
  40 201 40 201 40 269 c 1,54,-1
  40 269 l 1,18,19
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" rramlm viramamlm rramlm
 EndChar
 
@@ -11323,6 +11331,7 @@ Encoding: 65632 -1 168
 Width: 996
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 1001.5 595 basechar 0
 AnchorPoint: "anchor-1" 470 650 basechar 0
 LayerCount: 2
 Fore
@@ -11372,6 +11381,7 @@ SplineSet
  40 210 40 210 40 304 c 1,58,-1
  40 304 l 1,0,1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm damlm
 EndChar
 
@@ -11554,6 +11564,7 @@ Encoding: 65635 -1 171
 Width: 1511
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 1462 656.5 basechar 0
 AnchorPoint: "anchor-1" 751 650 basechar 0
 LayerCount: 2
 Fore
@@ -11613,6 +11624,7 @@ SplineSet
  40 198 40 198 40 281 c 1,74,-1
  40 281 l 1,0,1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm dhamlm
 EndChar
 
@@ -14565,6 +14577,7 @@ Encoding: 65669 -1 205
 Width: 1095
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor-2" 1049.5 597.7 basechar 0
 AnchorPoint: "anchor-1" 584 650 basechar 0
 LayerCount: 2
 Fore
@@ -14659,6 +14672,7 @@ SplineSet
  369 -236 369 -236 369 -185 c 1,122,-1
  369 -185 l 1,73,74
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm tamlm
 EndChar
 
