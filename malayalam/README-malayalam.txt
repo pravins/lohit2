@@ -220,8 +220,4 @@ Malayalam /nr/ And /nt/
 	-  ആൻ്റോ	<0D06,0D7B,0D4D,0D31,0D47,0D3E>	/aantoo/	(proper name)
 	-  എൻോൺ	<0D0E,0D7B,0D31,0D47,0D3E,0D7A>	/enrool/	(enroll - English word)
 
-References : 
-	- NotoSansMalayalam
-	- SakalBharti
-	- TDIL 
 
