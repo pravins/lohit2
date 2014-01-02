@@ -139,6 +139,10 @@ Characters where YAKAR, LAKAR, VAKAR combinations wouldn't come after chillu cha
 Rendering order : 
 
 				ക ാ -> കാ
+				ക െ -> കെ
+				ക ൈ -> കൈ
+				ക ൊ -> കൊ
+				ക ോ -> കോ
 
 
 Glyph Testing : 

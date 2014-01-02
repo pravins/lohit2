@@ -220,4 +220,153 @@ Malayalam /nr/ And /nt/
 	-  ആൻ്റോ	<0D06,0D7B,0D4D,0D31,0D47,0D3E>	/aantoo/	(proper name)
 	-  എൻോൺ	<0D0E,0D7B,0D31,0D47,0D3E,0D7A>	/enrool/	(enroll - English word)
 
+As per Malayalam Script details specified in TDIL , the phonology  be specified as : 
+
+Dead Consonant Rule :
+				ക്
+				ക്യ
+				യ്യ
+				ക്റ
+				ക്ര  
+				ഗ്ര 
+				ക്ല
+				ക്വ
+				വ്വ
+
+Ligature Rule :
+				ഗ്ഗ
+				ഡ്ഡ
+				ണ്ണ
+				പ്പ
+				ശ്ശ
+				സ്സ
+				റ്റ
+				സ്റ്റ
+
+				(a)	
+				ട്ട
+				ദ്ദ
+
+				(b)	
+				ത്ത
+				മ്മ 
+				ള്ള
+
+				(c)
+				ജ്ജ
+				ഞ്ഞ
+				ന്ന
+				ക്ക
+
+				(d)
+				ങ്ങ
+
+				(e)
+				വ്വ
+				ബ്ബ
+				ച്ച
+				യ്യ
+				ല്ല
+
+				(f)
+				ച്ഛ
+
+Complex Consonant Conjuncts :
+
+				(g)
+				ക്ത
+				ഗ്മ
+	
+				(h)
+				ഹ്മ
+				ഹ്ന
+				ന്മ
+				ണ്മ
+				ണ്ട
+				ജ്ഞ
+				ഞ്ച
+				ന്ധ
+				ന്ദ 
+
+				(i)
+				ത്ഥ
+				സ്ഥ
+				ക്ഷ
+
+conjuncts : 
+	
+				ക്ക 
+				ച്ച
+				ട്ട
+				ന്ന
+				പ്പ
+				ഗ്ഗ
+				ജ്ജ 
+				ഡ്ഡ
+				ദ്ദ
+				ബ്ബ
+				ങ്ങ
+				ഞ്ഞ
+				ണ്ണ
+				ന്ന
+				മ്മ
+				യ്യ
+				ല്ല
+				വ്വ
+				ശ്ശ
+				സ്സ
+				ള്ള
+				റ്റ
+				ക്ത
+				ക്ഷ
+				ഗ്ന
+				ഗ്മ
+				ങ്ക
+				ച്ഛ
+				ജ്ഞ 
+				ഞ്ച
+				ണ്ട
+				ണ്മ
+				ത്ഥ
+				ത്മ
+				ത്ഭ
+				ത്സ
+				ദ്ധ
+				ന്ത
+				ന്ഥ
+				ന്ദ
+				ന്ധ
+				മ്പ
+				ന്മ
+				ന്റ
+				ബദ
+				ബ്ധ
+				ശ്ച
+				ഷ്ട
+				സ്ഥ
+				ഹ്ന
+				ഹ്മ
+
+alternate conjuncts :
+	
+				ക്ക
+				ക്ത
+				ത്ത
+				പ്പ
+				സ്ഥ 
+
+Characters where YAKAR, LAKAR, VAKAR combinations wouldn't come after chillu characters : 
+
+				ൻ്ര
+				ൽ്വ
+				ൾ്യ
+				ൺ്ല
+
+Rendering order : 
+
+				കാ
+				കെ
+				കൈ
+				കൊ
+				കോ
 
