@@ -13532,6 +13532,7 @@ SplineSet
  389 52 389 52 394 52 c 1,116,-1
  394 52 l 1,99,-1
 EndSplineSet
+Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm rramlm viramamlm rramlm 
 EndChar
 
 StartChar: ddamlm_viramamlm_ddamlm
@@ -16387,6 +16388,7 @@ SplineSet
  42 201 42 201 42 293 c 1,77,-1
  42 293 l 1,13,14
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'half' Half Forms lookup 5-1" namlm viramamlm zerowidthjoiner
 EndChar
 
