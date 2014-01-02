@@ -1,5 +1,5 @@
-# Test File For Lohit Devanagari  
-# One can also test Lohit Devanagari from http://utrrs-testing.rhcloud.com/language/hi/gsub  
+# Test File For Lohit Malayalam
+# One can also test Lohit Malayalam from http://utrrs-testing.rhcloud.com/language/ml/gsub  
 # Created by Sneha Kore <skore AT redhat DOT com> - 2013
 
 As per Microsoft typography for Developing OpenType Fonts for Malayalam Script, the features can be specified in the order given as : 
