@@ -10545,7 +10545,7 @@ EndChar
 StartChar: rramlm_viramamlm_rramlm
 Encoding: 65623 -1 159
 Width: 711
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 AnchorPoint: "anchor-2" 516 622.7 basechar 0
 AnchorPoint: "anchor-1" 357 650 basechar 0
@@ -10595,7 +10595,6 @@ SplineSet
  40 201 40 201 40 269 c 1,54,-1
  40 269 l 1,18,19
 EndSplineSet
-LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0-1" rramlm viramamlm rramlm
 EndChar
 
