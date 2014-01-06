@@ -357,11 +357,10 @@ alternate conjuncts :
 
 Characters where YAKAR, LAKAR, VAKAR combinations wouldn't come after chillu characters : 
 
-				ൻ്ര
-				ൽ്വ
-				ൾ്യ
-				ൺ്ല
-
+				ൻര
+				ൽവ
+				ൾയ
+				ൺല
 Rendering order : 
 
 				കാ

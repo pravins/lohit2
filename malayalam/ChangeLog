@@ -1,6 +1,28 @@
 				  lohit-malayalam
 Current Version :- 2.5.3
 
+* Mon Jan 6 2014 Sneha Kore <skore@redhat.com> - 2.5.3 : 
+- akhand lookup updated for proper rendering of u0d7b u0d4d u0d31 {bug id 1016984}
+
+* Fri Jan 3 2014 Sneha Kore <skore@redhat.com> - 2.5.3 : 
+- Lohit-Malayalam testing on W8 
+
+* Dec 23-27 2012 Sneha Kore <skore@redhat.com> - 2.5.3 : 
+- Lookups added for psts feature tag (post-base substitution feature)
+- tested Lohit Malayalam on utrrs http://utrrs-testing.rhcloud.com/language/ml/gsub
+- done with Malayalam lookup writing https://github.com/pravins/lohit2/tree/master/malayalam
+
+* Fri Dec 20 2012 Sneha Kore <skore@redhat.com> - 2.5.3 : 
+- testfile completion
+- lookup for half feature tag added with inclusion chillu characters
+
+* Fri Dec 13 2012 Sneha Kore <skore@redhat.com> - 2.5.3 : 
+-Lookups for akhand & pref features added to Lohit-Malayalam
+
+* Wed Dec 11 2012 Sneha Kore <skore@redhat.com> - 2.5.3
+- GSUB cleanup for Lohit-Malayalam
+- anchor-2 added to 36 (from u0d15 to u0d39) glyphs  & 7 more glyphs 
+- 38 glyphs removed which are no longer used (for more details, README file is updated )
 - Corrected width of U+0D74 character
 
 * Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
