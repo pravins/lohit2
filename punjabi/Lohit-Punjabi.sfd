@@ -67,29 +67,29 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'psts' Post Base Substitutions in Gurmukhi lookup 6 subtable"  0 0 0 1
  1 1 0
-  Coverage: 5 u0A70
-  BCoverage: 5 u0A4C
+  Coverage: 9 tippiguru
+  BCoverage: 11 auvowelguru
  1
   SeqLookup: 0 "Single Substitution lookup 9" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gurmukhi lookup 5 subtable"  0 0 0 1
  1 1 0
-  Coverage: 5 u0A70
-  BCoverage: 5 u0A4B
+  Coverage: 9 tippiguru
+  BCoverage: 11 oovowelguru
  1
   SeqLookup: 0 "Single Substitution lookup 9" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gurmukhi lookup 4 subtable"  0 0 0 1
  1 1 0
-  Coverage: 5 u0A70
-  BCoverage: 5 u0A48
+  Coverage: 9 tippiguru
+  BCoverage: 11 aivowelguru
  1
   SeqLookup: 0 "Single Substitution lookup 9" 
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions in Gurmukhi lookup 3 subtable"  0 0 0 1
  1 1 0
-  Coverage: 5 u0A70
-  BCoverage: 5 u0A47
+  Coverage: 9 tippiguru
+  BCoverage: 11 eevowelguru
  1
   SeqLookup: 0 "Single Substitution lookup 9" 
 EndFPST
@@ -531,7 +531,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 37 14
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 293164 146582 97721 0 1048576 97721 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2189,7 +2189,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0964
+StartChar: dandaguru
 Encoding: 2404 2404 48
 Width: 275
 GlyphClass: 2
@@ -2206,7 +2206,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0965
+StartChar: dbldandaguru
 Encoding: 2405 2405 49
 Width: 435
 GlyphClass: 2
@@ -2229,7 +2229,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0A01
+StartChar: adakbindiguru
 Encoding: 2561 2561 50
 Width: 0
 GlyphClass: 4
@@ -2262,7 +2262,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A02
+StartChar: bindiguru
 Encoding: 2562 2562 51
 Width: 0
 GlyphClass: 4
@@ -2284,7 +2284,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0A03
+StartChar: visergaguru
 Encoding: 2563 2563 52
 Width: 316
 GlyphClass: 2
@@ -2331,7 +2331,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A05
+StartChar: aguru
 Encoding: 2565 2565 53
 Width: 619
 GlyphClass: 2
@@ -2397,7 +2397,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A06
+StartChar: aaguru
 Encoding: 2566 2566 54
 Width: 854
 GlyphClass: 2
@@ -2472,7 +2472,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A07
+StartChar: iguru
 Encoding: 2567 2567 55
 Width: 685
 GlyphClass: 2
@@ -2529,7 +2529,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A08
+StartChar: iiguru
 Encoding: 2568 2568 56
 Width: 688
 GlyphClass: 2
@@ -2586,7 +2586,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A09
+StartChar: uguru
 Encoding: 2569 2569 57
 Width: 532
 GlyphClass: 2
@@ -2651,7 +2651,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A0A
+StartChar: uuguru
 Encoding: 2570 2570 58
 Width: 532
 GlyphClass: 2
@@ -2721,7 +2721,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A0F
+StartChar: eeguru
 Encoding: 2575 2575 59
 Width: 458
 GlyphClass: 2
@@ -2774,7 +2774,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A10
+StartChar: aiguru
 Encoding: 2576 2576 60
 Width: 619
 GlyphClass: 2
@@ -2848,7 +2848,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A13
+StartChar: ooguru
 Encoding: 2579 2579 61
 Width: 533
 GlyphClass: 2
@@ -2899,7 +2899,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A14
+StartChar: auguru
 Encoding: 2580 2580 62
 Width: 619
 GlyphClass: 2
@@ -2977,7 +2977,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A15
+StartChar: kaguru
 Encoding: 2581 2581 63
 Width: 487
 GlyphClass: 2
@@ -3020,7 +3020,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A16
+StartChar: khaguru
 Encoding: 2582 2582 64
 Width: 477
 GlyphClass: 2
@@ -3062,7 +3062,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A17
+StartChar: gaguru
 Encoding: 2583 2583 65
 Width: 556
 GlyphClass: 2
@@ -3101,7 +3101,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A18
+StartChar: ghaguru
 Encoding: 2584 2584 66
 Width: 586
 GlyphClass: 2
@@ -3174,7 +3174,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A19
+StartChar: ngaguru
 Encoding: 2585 2585 67
 Width: 487
 GlyphClass: 2
@@ -3225,7 +3225,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A1A
+StartChar: caguru
 Encoding: 2586 2586 68
 Width: 494
 GlyphClass: 2
@@ -3285,7 +3285,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A1B
+StartChar: chaguru
 Encoding: 2587 2587 69
 Width: 519
 GlyphClass: 2
@@ -3340,7 +3340,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A1C
+StartChar: jaguru
 Encoding: 2588 2588 70
 Width: 483
 GlyphClass: 2
@@ -3404,7 +3404,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A1D
+StartChar: jhaguru
 Encoding: 2589 2589 71
 Width: 439
 GlyphClass: 2
@@ -3454,7 +3454,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A1E
+StartChar: nyaguru
 Encoding: 2590 2590 72
 Width: 483
 GlyphClass: 2
@@ -3530,7 +3530,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A1F
+StartChar: ttaguru
 Encoding: 2591 2591 73
 Width: 438
 GlyphClass: 2
@@ -3578,7 +3578,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A20
+StartChar: tthaguru
 Encoding: 2592 2592 74
 Width: 480
 GlyphClass: 2
@@ -3616,7 +3616,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A21
+StartChar: ddaguru
 Encoding: 2593 2593 75
 Width: 477
 GlyphClass: 2
@@ -3672,7 +3672,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A22
+StartChar: ddhaguru
 Encoding: 2594 2594 76
 Width: 510
 GlyphClass: 2
@@ -3720,7 +3720,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A23
+StartChar: nnaguru
 Encoding: 2595 2595 77
 Width: 508
 GlyphClass: 2
@@ -3780,7 +3780,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A24
+StartChar: taguru
 Encoding: 2596 2596 78
 Width: 475
 GlyphClass: 2
@@ -3837,7 +3837,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A25
+StartChar: thaguru
 Encoding: 2597 2597 79
 Width: 464
 GlyphClass: 2
@@ -3880,7 +3880,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A26
+StartChar: daguru
 Encoding: 2598 2598 80
 Width: 509
 GlyphClass: 2
@@ -3946,7 +3946,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A27
+StartChar: dhaguru
 Encoding: 2599 2599 81
 Width: 464
 GlyphClass: 2
@@ -3985,7 +3985,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A28
+StartChar: naguru
 Encoding: 2600 2600 82
 Width: 470
 GlyphClass: 2
@@ -4039,7 +4039,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A2A
+StartChar: paguru
 Encoding: 2602 2602 83
 Width: 464
 GlyphClass: 2
@@ -4098,7 +4098,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A2B
+StartChar: phaguru
 Encoding: 2603 2603 84
 Width: 448
 GlyphClass: 2
@@ -4142,7 +4142,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A2C
+StartChar: baguru
 Encoding: 2604 2604 85
 Width: 485
 GlyphClass: 2
@@ -4187,7 +4187,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A2D
+StartChar: bhaguru
 Encoding: 2605 2605 86
 Width: 452
 GlyphClass: 2
@@ -4238,7 +4238,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A2E
+StartChar: maguru
 Encoding: 2606 2606 87
 Width: 508
 GlyphClass: 2
@@ -4309,7 +4309,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A2F
+StartChar: yaguru
 Encoding: 2607 2607 88
 Width: 550
 GlyphClass: 2
@@ -4349,7 +4349,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A30
+StartChar: raguru
 Encoding: 2608 2608 89
 Width: 441
 GlyphClass: 2
@@ -4384,7 +4384,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A32
+StartChar: laguru
 Encoding: 2610 2610 90
 Width: 542
 GlyphClass: 2
@@ -4433,7 +4433,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A33
+StartChar: llaguru
 Encoding: 2611 2611 91
 Width: 542
 GlyphClass: 2
@@ -4489,10 +4489,10 @@ SplineSet
  431 -57 431 -57 431 -40 c 256,61,50
  431 -23 431 -23 442.5 -11.5 c 128,-1,51
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A32 u0A3C
+Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" laguru u0A3C
 EndChar
 
-StartChar: u0A35
+StartChar: vaguru
 Encoding: 2613 2613 92
 Width: 471
 GlyphClass: 2
@@ -4564,7 +4564,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A36
+StartChar: shaguru
 Encoding: 2614 2614 93
 Width: 507
 GlyphClass: 2
@@ -4610,7 +4610,7 @@ EndSplineSet
 Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A38 u0A3C
 EndChar
 
-StartChar: u0A38
+StartChar: saguru
 Encoding: 2616 2616 94
 Width: 507
 GlyphClass: 2
@@ -4646,7 +4646,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A39
+StartChar: haguru
 Encoding: 2617 2617 95
 Width: 464
 GlyphClass: 2
@@ -4695,7 +4695,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A3C
+StartChar: nuktaguru
 Encoding: 2620 2620 96
 Width: 0
 GlyphClass: 2
@@ -4715,7 +4715,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A3E
+StartChar: aavowelguru
 Encoding: 2622 2622 97
 Width: 230
 GlyphClass: 2
@@ -4750,7 +4750,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A3F
+StartChar: ivowelguru
 Encoding: 2623 2623 98
 Width: 230
 GlyphClass: 2
@@ -4784,7 +4784,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A40
+StartChar: iivowelguru
 Encoding: 2624 2624 99
 Width: 230
 GlyphClass: 2
@@ -4818,7 +4818,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A41
+StartChar: uvowelguru
 Encoding: 2625 2625 100
 Width: 0
 GlyphClass: 4
@@ -4851,7 +4851,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A42
+StartChar: uuvowelguru
 Encoding: 2626 2626 101
 Width: 0
 GlyphClass: 4
@@ -4891,7 +4891,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A47
+StartChar: eevowelguru
 Encoding: 2631 2631 102
 Width: 0
 GlyphClass: 4
@@ -4915,7 +4915,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A48
+StartChar: aivowelguru
 Encoding: 2632 2632 103
 Width: 0
 GlyphClass: 4
@@ -4949,7 +4949,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A4B
+StartChar: oovowelguru
 Encoding: 2635 2635 104
 Width: 0
 GlyphClass: 4
@@ -4984,7 +4984,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A4C
+StartChar: auvowelguru
 Encoding: 2636 2636 105
 Width: 0
 GlyphClass: 4
@@ -5022,7 +5022,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A4D
+StartChar: viramaguru
 Encoding: 2637 2637 106
 Width: 0
 GlyphClass: 2
@@ -5039,7 +5039,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A59
+StartChar: khhaguru
 Encoding: 2649 2649 107
 Width: 501
 GlyphClass: 2
@@ -5088,11 +5088,10 @@ SplineSet
  135 240 135 240 121 220 c 1,48,38
  151 178 151 178 188 154 c 128,-1,39
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A16 u0A3C
+Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" khaguru nuktaguru
 EndChar
 
-StartChar: u0A5A
+StartChar: ghhaguru
 Encoding: 2650 2650 108
 Width: 579
 GlyphClass: 2
@@ -5138,10 +5137,10 @@ SplineSet
  109 257 109 257 109 240 c 0,43,33
  109 205 109 205 160 152.5 c 128,-1,34
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A17 u0A3C
+Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" gaguru nuktaguru
 EndChar
 
-StartChar: u0A5B
+StartChar: zaguru
 Encoding: 2651 2651 109
 Width: 483
 GlyphClass: 2
@@ -5182,10 +5181,10 @@ SplineSet
  -10 450 l 1,36,-1
  -10 500 l 1,12,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A1C u0A3C
+Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" jaguru nuktaguru
 EndChar
 
-StartChar: u0A5C
+StartChar: rraguru
 Encoding: 2652 2652 110
 Width: 513
 GlyphClass: 2
@@ -5252,10 +5251,10 @@ SplineSet
  -10 500 l 1,56,-1
  523 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A21 u0A3C
+Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" ddaguru nuktaguru
 EndChar
 
-StartChar: u0A5E
+StartChar: faguru
 Encoding: 2654 2654 111
 Width: 480
 GlyphClass: 2
@@ -5306,10 +5305,10 @@ SplineSet
  201 141 201 141 177 115 c 1,53,42
  203 84 203 84 236 67 c 128,-1,43
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" u0A2B u0A3C
+Ligature2: "'nukt' Nukta Forms in Gurmukhi lookup 2 subtable" phaguru nuktaguru
 EndChar
 
-StartChar: u0A66
+StartChar: zeroguru
 Encoding: 2662 2662 112
 Width: 480
 GlyphClass: 2
@@ -5338,7 +5337,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A67
+StartChar: oneguru
 Encoding: 2663 2663 113
 Width: 480
 GlyphClass: 2
@@ -5374,7 +5373,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A68
+StartChar: twoguru
 Encoding: 2664 2664 114
 Width: 479
 GlyphClass: 2
@@ -5412,7 +5411,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A69
+StartChar: threeguru
 Encoding: 2665 2665 115
 Width: 480
 GlyphClass: 2
@@ -5465,7 +5464,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A6A
+StartChar: fourguru
 Encoding: 2666 2666 116
 Width: 480
 GlyphClass: 2
@@ -5512,7 +5511,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A6B
+StartChar: fiveguru
 Encoding: 2667 2667 117
 Width: 480
 GlyphClass: 2
@@ -5561,7 +5560,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A6C
+StartChar: sixguru
 Encoding: 2668 2668 118
 Width: 479
 GlyphClass: 2
@@ -5614,7 +5613,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A6D
+StartChar: sevenguru
 Encoding: 2669 2669 119
 Width: 480
 GlyphClass: 2
@@ -5644,7 +5643,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A6E
+StartChar: eightguru
 Encoding: 2670 2670 120
 Width: 480
 GlyphClass: 2
@@ -5676,7 +5675,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A6F
+StartChar: nineguru
 Encoding: 2671 2671 121
 Width: 480
 GlyphClass: 4
@@ -5717,7 +5716,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A70
+StartChar: tippiguru
 Encoding: 2672 2672 122
 Width: 0
 GlyphClass: 4
@@ -5749,7 +5748,7 @@ EndSplineSet
 Substitution2: "Single Substitution lookup 9 subtable" glyph147
 EndChar
 
-StartChar: u0A71
+StartChar: addakguru
 Encoding: 2673 2673 123
 Width: 0
 GlyphClass: 4
@@ -5781,7 +5780,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A72
+StartChar: iriguru
 Encoding: 2674 2674 124
 Width: 458
 GlyphClass: 2
@@ -5821,7 +5820,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A73
+StartChar: uraguru
 Encoding: 2675 2675 125
 Width: 531
 GlyphClass: 2
@@ -5874,7 +5873,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A74
+StartChar: ekonkarguru
 Encoding: 2676 2676 126
 Width: 895
 GlyphClass: 2
@@ -5960,7 +5959,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii61664
+StartChar: zerowidthnonjoiner
 Encoding: 8204 8204 127
 Width: 220
 GlyphClass: 2
@@ -5985,7 +5984,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii301
+StartChar: zerowidthjoiner
 Encoding: 8205 8205 128
 Width: 220
 GlyphClass: 2
@@ -6291,7 +6290,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni25CC
+StartChar: dottedcircle
 Encoding: 9676 9676 137
 Width: 720
 GlyphClass: 2
@@ -6411,7 +6410,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A15_u0A30_u0A4D.blwf.vatu
+StartChar: kaguru_raguru_viramaguru.blwf.vatu
 Encoding: 65539 -1 138
 Width: 487
 GlyphClass: 2
@@ -6466,10 +6465,10 @@ SplineSet
  86 167 86 167 112.5 143.5 c 128,-1,47
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" u0A15 u0A30_u0A4D.blwf
+Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" kaguru raguru_viramaguru.blwf
 EndChar
 
-StartChar: u0A21_u0A30_u0A4D.blwf.vatu
+StartChar: ddaguru_raguru_viramaguru.blwf.vatu
 Encoding: 65540 -1 139
 Width: 479
 GlyphClass: 2
@@ -6539,10 +6538,10 @@ SplineSet
  86 82 86 82 112.5 66 c 128,-1,70
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" u0A21 u0A30_u0A4D.blwf
+Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" ddaguru raguru_viramaguru.blwf
 EndChar
 
-StartChar: u0A24_u0A30_u0A4D.blwf.vatu
+StartChar: taguru_raguru_viramaguru.blwf.vatu
 Encoding: 65541 -1 140
 Width: 477
 GlyphClass: 2
@@ -6613,10 +6612,10 @@ SplineSet
  487 500 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" u0A24 u0A30_u0A4D.blwf
+Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" taguru raguru_viramaguru.blwf
 EndChar
 
-StartChar: u0A26_u0A30_u0A4D.blwf.vatu
+StartChar: daguru_raguru_viramaguru.blwf.vatu
 Encoding: 65542 -1 141
 Width: 510
 GlyphClass: 2
@@ -6683,10 +6682,10 @@ SplineSet
  520 500 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" u0A26 u0A30_u0A4D.blwf
+Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" daguru raguru_viramaguru.blwf
 EndChar
 
-StartChar: u0A2D_u0A30_u0A4D.blwf.vatu
+StartChar: bhaguru_raguru_viramaguru.blwf.vatu
 Encoding: 65543 -1 142
 Width: 456
 GlyphClass: 2
@@ -6751,10 +6750,10 @@ SplineSet
  100 239 100 239 120.5 224.5 c 128,-1,62
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" u0A2D u0A30_u0A4D.blwf
+Ligature2: "'vatu' Vattu Variants in Gurmukhi lookup 8 subtable" bhaguru raguru_viramaguru.blwf
 EndChar
 
-StartChar: u0A39_u0A4D.blwf
+StartChar: haguru_viramaguru.blwf
 Encoding: 65544 -1 143
 Width: 0
 GlyphClass: 2
@@ -6783,10 +6782,10 @@ SplineSet
  -295 -99 -295 -99 -280.5 -84.5 c 128,-1,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Gurmukhi lookup 1 subtable" u0A39 u0A4D
+Ligature2: "'blwf' Below Base Forms in Gurmukhi lookup 1 subtable" haguru viramaguru
 EndChar
 
-StartChar: u0A35_u0A4D.blwf
+StartChar: vaguru_viramaguru.blwf
 Encoding: 65545 -1 144
 Width: 0
 GlyphClass: 2
@@ -6824,10 +6823,10 @@ SplineSet
  -315 -65 -315 -65 -294.5 -47.5 c 128,-1,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms in Gurmukhi lookup 1 subtable" u0A35 u0A4D
+Ligature2: "'blwf' Below Base Forms in Gurmukhi lookup 1 subtable" vaguru viramaguru
 EndChar
 
-StartChar: u0A30_u0A4D.blwf
+StartChar: raguru_viramaguru.blwf
 Encoding: 65546 -1 145
 Width: 0
 GlyphClass: 4
@@ -6851,10 +6850,10 @@ SplineSet
  -210 -150 -210 -150 -210 -125 c 0,16,0
  -210 -98 -210 -98 -189.5 -79 c 128,-1,1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Gurmukhi lookup 1 subtable" u0A30 u0A4D
+Ligature2: "'blwf' Below Base Forms in Gurmukhi lookup 1 subtable" raguru viramaguru
 EndChar
 
-StartChar: u0A47_u0A02.abvs
+StartChar: eevowelguru_bindiguru.abvs
 Encoding: 65547 -1 146
 Width: 0
 GlyphClass: 4
@@ -6885,10 +6884,10 @@ SplineSet
  -110 666 -110 666 -110 685 c 256,27,16
  -110 704 -110 704 -97 717 c 128,-1,17
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A47 u0A02
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" eevowelguru bindiguru
 EndChar
 
-StartChar: u0A48_u0A02.abvs
+StartChar: aivowelguru_bindiguru.abvs
 Encoding: 65548 -1 147
 Width: 0
 GlyphClass: 4
@@ -6930,10 +6929,10 @@ SplineSet
  -105 679 -105 679 -92 692 c 128,-1,32
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A48 u0A02
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" aivowelguru bindiguru
 EndChar
 
-StartChar: u0A4B_u0A02.abvs
+StartChar: oovowelguru_bindiguru.abvs
 Encoding: 65549 -1 148
 Width: 0
 GlyphClass: 4
@@ -6967,10 +6966,10 @@ SplineSet
  -85 641 -85 641 -85 660 c 256,31,20
  -85 679 -85 679 -72 692 c 128,-1,21
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A4B u0A02
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" oovowelguru bindiguru
 EndChar
 
-StartChar: u0A4C_u0A02.abvs
+StartChar: auvowelguru_bindiguru.abvs
 Encoding: 65550 -1 149
 Width: 0
 GlyphClass: 2
@@ -7014,10 +7013,10 @@ SplineSet
  -15 676 -15 676 -15 695 c 256,46,35
  -15 714 -15 714 -2 727 c 128,-1,36
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A4C u0A02
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" auvowelguru bindiguru
 EndChar
 
-StartChar: u0A40_u0A02.abvs
+StartChar: iivowelguru_bindiguru.abvs
 Encoding: 65551 -1 150
 Width: 230
 GlyphClass: 2
@@ -7059,7 +7058,7 @@ SplineSet
  -140 628 -140 628 -99 669 c 128,-1,13
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A40 u0A02
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" iivowelguru bindiguru
 EndChar
 
 StartChar: glyph147
@@ -7185,10 +7184,10 @@ SplineSet
  552 500 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'psts' Post Base Substitutions in Gurmukhi lookup 7 subtable" u0A2F u0A4D
+Ligature2: "'psts' Post Base Substitutions in Gurmukhi lookup 7 subtable" yaguru viramaguru
 EndChar
 
-StartChar: uni0A51
+StartChar: udaatguru
 Encoding: 2641 2641 154
 Width: 0
 Flags: W
@@ -7205,7 +7204,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0A75
+StartChar: yakashguru
 Encoding: 2677 2677 155
 Width: 0
 Flags: W
@@ -7223,7 +7222,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0A40_u0A70.abvs
+StartChar: iivowelguru_tippiguru.abvs
 Encoding: 65538 -1 156
 Width: 230
 Flags: W
@@ -7274,10 +7273,10 @@ SplineSet
  -140 628 -140 628 -99 669 c 128,-1,27
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A40 u0A70
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" iivowelguru tippiguru
 EndChar
 
-StartChar: u0A40_u0A71.abvs
+StartChar: iivowelguru_addakguru.abvs
 Encoding: 65537 -1 157
 Width: 230
 Flags: W
@@ -7320,10 +7319,10 @@ SplineSet
  -140 628 -140 628 -99 669 c 128,-1,15
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A40 u0A71
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" iivowelguru addakguru
 EndChar
 
-StartChar: u0A47_u0A71.abvs
+StartChar: eevowelguru_addakguru.abvs
 Encoding: 65528 -1 158
 AltUni2: 00fff8.ffffffff.0 00fff8.ffffffff.0
 Width: 0
@@ -7356,10 +7355,10 @@ SplineSet
  -405 661 -405 661 -405 675 c 0,29,14
  -405 694 -405 694 -384.5 707 c 128,-1,15
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A47 u0A71
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" eevowelguru addakguru
 EndChar
 
-StartChar: u0A48_u0A71.abvs
+StartChar: aivowelguru_addakguru.abvs
 Encoding: 65529 -1 159
 AltUni2: 00fff9.ffffffff.0 00fff9.ffffffff.0
 Width: 0
@@ -7402,10 +7401,10 @@ SplineSet
  -415 700 -415 700 -415 710 c 0,44,14
  -415 727 -415 727 -394.5 738.5 c 128,-1,15
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A48 u0A71
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" aivowelguru addakguru
 EndChar
 
-StartChar: u0A4B_u0A71.abvs
+StartChar: oovowelguru_addakguru.abvs
 Encoding: 65530 -1 160
 AltUni2: 00fffa.ffffffff.0 00fffa.ffffffff.0
 Width: 0
@@ -7441,10 +7440,10 @@ SplineSet
  -395 645 -395 645 -395 695 c 1,33,-1
  -375 695 l 1,14,15
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A4B u0A71
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" oovowelguru addakguru
 EndChar
 
-StartChar: u0A4C_u0A71.abvs
+StartChar: auvowelguru_addakguru.abvs
 Encoding: 65531 -1 161
 AltUni2: 00fffb.ffffffff.0 00fffb.ffffffff.0
 Width: 0
@@ -7490,10 +7489,10 @@ SplineSet
  -205 583 -205 583 -205 615 c 0,48,14
  -205 626 -205 626 -202.5 636 c 128,-1,15
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A4C u0A71
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" auvowelguru addakguru
 EndChar
 
-StartChar: u0A47_u0A70.abvs
+StartChar: eevowelguru_tippiguru.abvs
 Encoding: 65524 -1 162
 AltUni2: 00fff4.ffffffff.0 00fff4.ffffffff.0
 Width: 0
@@ -7534,10 +7533,10 @@ SplineSet
  -405 661 -405 661 -405 675 c 0,41,26
  -405 694 -405 694 -384.5 707 c 128,-1,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A47 u0A70
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" eevowelguru tippiguru
 EndChar
 
-StartChar: u0A48_u0A70.abvs
+StartChar: aivowelguru_tippiguru.abvs
 Encoding: 65525 -1 163
 AltUni2: 00fff5.ffffffff.0 00fff5.ffffffff.0
 Width: 0
@@ -7588,10 +7587,10 @@ SplineSet
  -415 700 -415 700 -415 710 c 0,56,26
  -415 727 -415 727 -394.5 738.5 c 128,-1,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A48 u0A70
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" aivowelguru tippiguru
 EndChar
 
-StartChar: u0A4B_u0A70.abvs
+StartChar: oovowelguru_tippiguru.abvs
 Encoding: 65526 -1 164
 AltUni2: 00fff6.ffffffff.0 00fff6.ffffffff.0
 Width: 0
@@ -7635,10 +7634,10 @@ SplineSet
  -395 645 -395 645 -395 695 c 1,45,-1
  -375 695 l 1,26,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A4B u0A70
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" oovowelguru tippiguru
 EndChar
 
-StartChar: u0A4C_u0A70.abvs
+StartChar: auvowelguru_tippiguru.abvs
 Encoding: 65527 -1 165
 AltUni2: 00fff7.ffffffff.0 00fff7.ffffffff.0
 Width: 0
@@ -7692,10 +7691,10 @@ SplineSet
  -205 583 -205 583 -205 615 c 0,60,26
  -205 626 -205 626 -202.5 636 c 128,-1,27
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" u0A4C u0A70
+Ligature2: "'abvs' Above Base Substitutions in Gurmukhi lookup 0 subtable" auvowelguru tippiguru
 EndChar
 
-StartChar: uni20B9
+StartChar: inr_currency
 Encoding: 8377 8377 166
 Width: 475
 Flags: W
