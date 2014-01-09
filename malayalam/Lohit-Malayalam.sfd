@@ -300,6 +300,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "anchor2"  "abvmAboveBaseMarklookup0 subtable" "anchor1"  "abvmAboveBaseMarklookup0 subtable" "anchor-2"  "'abvm' Above Base Mark lookup 0-1" "anchor-1"  "'abvm' Above Base Mark lookup 0-1" 
@@ -13561,7 +13562,6 @@ SplineSet
  42 201 42 201 42 293 c 1,104,-1
  42 293 l 1,13,14
 EndSplineSet
-Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm rramlm
 Ligature2: "akhnAkhandlookup0 subtable" chillunmlm viramamlm rramlm
 EndChar
 
