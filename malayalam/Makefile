@@ -1,9 +1,19 @@
-all: ttf woff eot ttf-dist sfd-dist web-dist
+all: generate ttf woff eot ttf-dist sfd-dist web-dist
 
 version:= 2.5.3
 
+generate : ttf 
+	cp ../scripts/auto_test.py .;	
+	@echo "----------Generating  test-case-output from ttf file-----------"
+	python auto_test.py test.txt Lohit-Malayalam.ttf generate
+
+test: test-ttf
+	@echo "----------Testing actual-output with expected-output----------"
+	python auto_test.py std-test-out.txt Lohit-Devanagari.ttf testing
+
 ttf: ttf-bin
 	@echo "----------Generating ttf from sfd file----------"
+	python apply_featurefile.py Lohit-Malayalam.sfd Lohit-Malayalam.fea
 	./generate.pe *.sfd
 	@echo "----------Finished generating ttf file----------"
 	@echo " "
@@ -50,4 +60,4 @@ clean: cleanall
 	rm -rf *.tar.gz
 	rm -rf lohit-malayalam*
 
-.PHONY: ttf-bin woff-bin eot-bin webdist dist cleanall version
+.PHONY: generate-test test-ttf ttf-bin woff-bin eot-bin webdist dist cleanall version

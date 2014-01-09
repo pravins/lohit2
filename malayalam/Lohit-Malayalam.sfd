@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159524182
-ModificationTime: 1388384160
+ModificationTime: 1389249022
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,59 +52,37 @@ OS2StrikeYPos: 250
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80808001.00002000.00000000.00000000
-Lookup: 4 0 0 "'akhn' Akhand lookup 0"  {"'akhn' Akhand lookup 0-1"  } ['akhn' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'pref' Pre Base Forms lookup 1"  {"'pref' Pre Base Forms lookup 1-1"  } ['pref' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms lookup 2"  {"'blwf' Below Base Forms lookup 2-1"  } ['blwf' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms lookup 7"  {"'blwf' Below Base Forms lookup 7-1"  } ['blwf' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' Half Forms lookup 5"  {"'half' Half Forms lookup 5-1"  } ['half' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms lookup 3"  {"'pstf' Post Base Forms lookup 3-1"  } ['pstf' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 4"  {"'blws' Below Base Substitutions lookup 4-1"  } ['blws' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 7"  {"'psts' Post Base Substitutions lookup 7-1"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 6 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam2 lookup 10"  {"'psts' Post Base Substitutions in Malay+AQEA-lam2 lookup 10-1"  } ['psts' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "Ligature Substitution lookup 9"  {"Ligature Substitution lookup 9-1"  } []
-Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 12"  {"'psts' Post Base Substitutions lookup 12-1"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 11"  {"Single Substitution lookup 11-1"  } []
-Lookup: 1 0 0 "Single Substitution lookup 13"  {"Single Substitution lookup 13-1"  } []
-Lookup: 260 0 0 "'abvm' Above Base Mark lookup 0"  {"'abvm' Above Base Mark lookup 0-1"  } ['abvm' ('DFLT' <'dflt' > 'deva' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "akhnAkhandlookup0"  {"akhnAkhandlookup0 subtable"  } ['akhn' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "prefPreBaseFormslookup1"  {"prefPreBaseFormslookup1 subtable"  } ['pref' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "blwfBelowBaseFormslookup2"  {"blwfBelowBaseFormslookup2 subtable"  } ['blwf' ('mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "blwfBelowBaseFormslookup7"  {"blwfBelowBaseFormslookup7 subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "halfHalfFormslookup5"  {"halfHalfFormslookup5 subtable"  } ['half' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "pstfPostBaseFormslookup3"  {"pstfPostBaseFormslookup3 subtable"  } ['pstf' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "blwsBelowBaseSubstitutionslooku"  {"blwsBelowBaseSubstitutionslooku subtable"  } ['blws' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "pstsPostBaseSubstitutionslookup"  {"pstsPostBaseSubstitutionslookup subtable"  } ['psts' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 6 0 0 "pstsPostBaseSubstitutionsinMala"  {"pstsPostBaseSubstitutionsinMala subtable"  } ['psts' ('mlm2' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 9"  {"Single Substitution lookup 9 subtable"  } []
+Lookup: 1 0 0 "SingleSubstitutionlookup11"  {"SingleSubstitutionlookup11 subtable"  } []
+Lookup: 1 0 0 "SingleSubstitutionlookup13"  {"SingleSubstitutionlookup13 subtable"  } []
+Lookup: 6 0 0 "sub_chain_pstsmlm2_0"  {"sub_chain_pstsmlm2_0 subtable"  } ['psts' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark lookup 0"  {"'abvm' Above Base Mark lookup 0-1"  } ['abvm' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 260 0 0 "abvmAboveBaseMarklookup0"  {"abvmAboveBaseMarklookup0 subtable"  } ['abvm' ('mlym' <'dflt' > 'mlm2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: class "'psts' Post Base Substitutions lookup 12-1"  3 3 3 1
-  Class: 34 rramlm_viramamlm lllamlm_viramamlm
-  Class: 5 lamlm
-  BClass: 34 rramlm_viramamlm lllamlm_viramamlm
-  BClass: 5 lamlm
-  FClass: 34 rramlm_viramamlm lllamlm_viramamlm
-  FClass: 5 lamlm
+ChainSub2: coverage "sub_chain_pstsmlm2_0 subtable"  0 0 0 1
  2 0 0
-  ClsList: 1 2
-  BClsList:
-  FClsList:
- 2
-  SeqLookup: 0 "Single Substitution lookup 11" 
-  SeqLookup: 1 "Single Substitution lookup 13" 
-  ClassNames: "All_Others"  "1"  "2"  
-  BClassNames: "All_Others"  "1"  "2"  
-  FClassNames: "All_Others"  "1"  "2"  
-EndFPST
-ChainSub2: class "'psts' Post Base Substitutions in Malay+AQEA-lam2 lookup 10-1"  4 4 4 1
-  Class: 14 rramlm lllamlm
-  Class: 9 viramamlm
-  Class: 6 llamlm
-  BClass: 14 rramlm lllamlm
-  BClass: 9 viramamlm
-  BClass: 6 llamlm
-  FClass: 14 rramlm lllamlm
-  FClass: 9 viramamlm
-  FClass: 6 llamlm
- 1 1 1
-  ClsList: 2
-  BClsList: 1
-  FClsList: 3
+  Coverage: 34 rramlm_viramamlm lllamlm_viramamlm
+  Coverage: 5 lamlm
  1
-  SeqLookup: 0 "Ligature Substitution lookup 9" 
-  ClassNames: "All_Others"  "1"  "2"  "3"  
-  BClassNames: "All_Others"  "1"  "2"  "3"  
-  FClassNames: "All_Others"  "1"  "2"  "3"  
+  SeqLookup: 0 "SingleSubstitutionlookup11" 
+EndFPST
+ChainSub2: coverage "pstsPostBaseSubstitutionsinMala subtable"  0 0 0 1
+ 1 1 1
+  Coverage: 9 viramamlm
+  BCoverage: 14 rramlm lllamlm
+  FCoverage: 6 llamlm
+ 1
+  SeqLookup: 0 "Single Substitution lookup 9" 
 EndFPST
 TtTable: prep
 NPUSHB
@@ -322,10 +300,9 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "anchor-2"  "'abvm' Above Base Mark lookup 0-1" "anchor-1"  "'abvm' Above Base Mark lookup 0-1" 
+AnchorClass2: "anchor2"  "abvmAboveBaseMarklookup0 subtable" "anchor1"  "abvmAboveBaseMarklookup0 subtable" "anchor-2"  "'abvm' Above Base Mark lookup 0-1" "anchor-1"  "'abvm' Above Base Mark lookup 0-1" 
 BeginChars: 65725 257
 
 StartChar: .null
@@ -1637,6 +1614,8 @@ Encoding: 3349 3349 20
 Width: 1015
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 510 659 basechar 0
+AnchorPoint: "anchor2" 910 590 basechar 0
 AnchorPoint: "anchor-2" 910 590 basechar 0
 AnchorPoint: "anchor-1" 510 659 basechar 0
 LayerCount: 2
@@ -1706,6 +1685,8 @@ Encoding: 3350 3350 21
 Width: 1010
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 510 650 basechar 0
+AnchorPoint: "anchor2" 964 600 basechar 0
 AnchorPoint: "anchor-2" 964.5 600 basechar 0
 AnchorPoint: "anchor-1" 510 650 basechar 0
 LayerCount: 2
@@ -1757,6 +1738,8 @@ Encoding: 3351 3351 22
 Width: 913
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 460 650 basechar 0
+AnchorPoint: "anchor2" 894 587 basechar 0
 AnchorPoint: "anchor-2" 894.5 587.1 basechar 0
 AnchorPoint: "anchor-1" 460 650 basechar 0
 LayerCount: 2
@@ -1808,6 +1791,8 @@ Encoding: 3352 3352 23
 Width: 1372
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 691 650 basechar 0
+AnchorPoint: "anchor2" 1330 597 basechar 0
 AnchorPoint: "anchor-2" 1330 597 basechar 0
 AnchorPoint: "anchor-1" 691 650 basechar 0
 LayerCount: 2
@@ -1866,6 +1851,8 @@ Encoding: 3353 3353 24
 Width: 1067
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 560 650 basechar 0
+AnchorPoint: "anchor2" 1054 592 basechar 0
 AnchorPoint: "anchor-2" 1054 591.5 basechar 0
 AnchorPoint: "anchor-1" 560 650 basechar 0
 LayerCount: 2
@@ -1936,6 +1923,8 @@ Encoding: 3354 3354 25
 Width: 1152
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 575 650 basechar 0
+AnchorPoint: "anchor2" 1118 596 basechar 0
 AnchorPoint: "anchor-2" 1118.5 596.5 basechar 0
 AnchorPoint: "anchor-1" 575 650 basechar 0
 LayerCount: 2
@@ -1975,6 +1964,8 @@ Encoding: 3355 3355 26
 Width: 1500
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 750 650 basechar 0
+AnchorPoint: "anchor2" 1498 601 basechar 0
 AnchorPoint: "anchor-2" 1498.5 601 basechar 0
 AnchorPoint: "anchor-1" 750 650 basechar 0
 LayerCount: 2
@@ -2037,6 +2028,8 @@ Encoding: 3356 3356 27
 Width: 831
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 460 648 basechar 0
+AnchorPoint: "anchor2" 812 584 basechar 0
 AnchorPoint: "anchor-2" 812.5 583.8 basechar 0
 AnchorPoint: "anchor-1" 460 648 basechar 0
 LayerCount: 2
@@ -2121,6 +2114,8 @@ Encoding: 3357 3357 28
 Width: 1606
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 850 650 basechar 0
+AnchorPoint: "anchor2" 1596 606 basechar 0
 AnchorPoint: "anchor-2" 1595.5 606 basechar 0
 AnchorPoint: "anchor-1" 850 650 basechar 0
 LayerCount: 2
@@ -2203,6 +2198,8 @@ Encoding: 3358 3358 29
 Width: 1277
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 650 650 basechar 0
+AnchorPoint: "anchor2" 1210 598 basechar 0
 AnchorPoint: "anchor-2" 1209.5 597.5 basechar 0
 AnchorPoint: "anchor-1" 650 650 basechar 0
 LayerCount: 2
@@ -2286,6 +2283,8 @@ Encoding: 3359 3359 30
 Width: 594
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 297 650 basechar 0
+AnchorPoint: "anchor2" 582 587 basechar 0
 AnchorPoint: "anchor-2" 582.5 587.1 basechar 0
 AnchorPoint: "anchor-1" 297 650 basechar 0
 LayerCount: 2
@@ -2329,6 +2328,8 @@ Encoding: 3360 3360 31
 Width: 660
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 330 650 basechar 0
+AnchorPoint: "anchor2" 644 585 basechar 0
 AnchorPoint: "anchor-2" 643.5 585.1 basechar 0
 AnchorPoint: "anchor-1" 330 650 basechar 0
 LayerCount: 2
@@ -2362,6 +2363,8 @@ Encoding: 3361 3361 32
 Width: 1183
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 620 650 basechar 0
+AnchorPoint: "anchor2" 1160 604 basechar 0
 AnchorPoint: "anchor-2" 1160.5 603.5 basechar 0
 AnchorPoint: "anchor-1" 620 650 basechar 0
 LayerCount: 2
@@ -2418,6 +2421,8 @@ Encoding: 3362 3362 33
 Width: 1232
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 620 650 basechar 0
+AnchorPoint: "anchor2" 1167 604 basechar 0
 AnchorPoint: "anchor-2" 1167 604.5 basechar 0
 AnchorPoint: "anchor-1" 620 650 basechar 0
 LayerCount: 2
@@ -2487,6 +2492,8 @@ Encoding: 3363 3363 34
 Width: 1290
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 690 650 basechar 0
+AnchorPoint: "anchor2" 1224 606 basechar 0
 AnchorPoint: "anchor-2" 1224.5 606.5 basechar 0
 AnchorPoint: "anchor-1" 690 650 basechar 0
 LayerCount: 2
@@ -2555,6 +2562,8 @@ Encoding: 3364 3364 35
 Width: 883
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 450 650 basechar 0
+AnchorPoint: "anchor2" 868 597 basechar 0
 AnchorPoint: "anchor-2" 868 597.1 basechar 0
 AnchorPoint: "anchor-1" 450 650 basechar 0
 LayerCount: 2
@@ -2614,6 +2623,8 @@ Encoding: 3365 3365 36
 Width: 914
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 460 650 basechar 0
+AnchorPoint: "anchor2" 887 596 basechar 0
 AnchorPoint: "anchor-2" 887 595.8 basechar 0
 AnchorPoint: "anchor-1" 460 650 basechar 0
 LayerCount: 2
@@ -2649,6 +2660,8 @@ Encoding: 3366 3366 37
 Width: 654
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 340 650 basechar 0
+AnchorPoint: "anchor2" 637 578 basechar 0
 AnchorPoint: "anchor-2" 637 577.8 basechar 0
 AnchorPoint: "anchor-1" 340 650 basechar 0
 LayerCount: 2
@@ -2695,6 +2708,8 @@ Encoding: 3367 3367 38
 Width: 904
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 455 650 basechar 0
+AnchorPoint: "anchor2" 882 596 basechar 0
 AnchorPoint: "anchor-2" 881.5 595.8 basechar 0
 AnchorPoint: "anchor-1" 455 650 basechar 0
 LayerCount: 2
@@ -2739,6 +2754,8 @@ Encoding: 3368 3368 39
 Width: 904
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 450 650 basechar 0
+AnchorPoint: "anchor2" 864 605 basechar 0
 AnchorPoint: "anchor-2" 864.5 604.8 basechar 0
 AnchorPoint: "anchor-1" 450 650 basechar 0
 LayerCount: 2
@@ -2783,6 +2800,8 @@ Encoding: 3370 3370 40
 Width: 1000
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 500 650 basechar 0
+AnchorPoint: "anchor2" 964 596 basechar 0
 AnchorPoint: "anchor-2" 963.5 595.5 basechar 0
 AnchorPoint: "anchor-1" 500 650 basechar 0
 LayerCount: 2
@@ -2821,6 +2840,8 @@ Encoding: 3371 3371 41
 Width: 1139
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 568 650 basechar 0
+AnchorPoint: "anchor2" 1108 597 basechar 0
 AnchorPoint: "anchor-2" 1107.5 597 basechar 0
 AnchorPoint: "anchor-1" 568 650 basechar 0
 LayerCount: 2
@@ -2871,6 +2892,8 @@ Encoding: 3372 3372 42
 Width: 1360
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 690 650 basechar 0
+AnchorPoint: "anchor2" 1320 596 basechar 0
 AnchorPoint: "anchor-2" 1320 595.5 basechar 0
 AnchorPoint: "anchor-1" 690 650 basechar 0
 LayerCount: 2
@@ -2934,6 +2957,8 @@ Encoding: 3373 3373 43
 Width: 663
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 360 650 basechar 0
+AnchorPoint: "anchor2" 652 596 basechar 0
 AnchorPoint: "anchor-2" 651.5 596.2 basechar 0
 AnchorPoint: "anchor-1" 360 650 basechar 0
 LayerCount: 2
@@ -2995,6 +3020,8 @@ Encoding: 3374 3374 44
 Width: 702
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 360 650 basechar 0
+AnchorPoint: "anchor2" 670 600 basechar 0
 AnchorPoint: "anchor-2" 670.5 599.5 basechar 0
 AnchorPoint: "anchor-1" 360 650 basechar 0
 LayerCount: 2
@@ -3036,6 +3063,8 @@ Encoding: 3375 3375 45
 Width: 953
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 510 650 basechar 0
+AnchorPoint: "anchor2" 908 597 basechar 0
 AnchorPoint: "anchor-2" 908.5 597 basechar 0
 AnchorPoint: "anchor-1" 510 650 basechar 0
 LayerCount: 2
@@ -3100,6 +3129,8 @@ Encoding: 3376 3376 46
 Width: 649
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 330 650 basechar 0
+AnchorPoint: "anchor2" 624 590 basechar 0
 AnchorPoint: "anchor-2" 623.837 590.1 basechar 0
 AnchorPoint: "anchor-1" 330 650 basechar 0
 LayerCount: 2
@@ -3142,6 +3173,8 @@ Encoding: 3377 3377 47
 Width: 710
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 360 650 basechar 0
+AnchorPoint: "anchor2" 662 595 basechar 0
 AnchorPoint: "anchor-2" 662 595.1 basechar 0
 AnchorPoint: "anchor-1" 360 650 basechar 0
 LayerCount: 2
@@ -3175,6 +3208,8 @@ Encoding: 3378 3378 48
 Width: 819
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 440 650 basechar 0
+AnchorPoint: "anchor2" 918 596 basechar 0
 AnchorPoint: "anchor-2" 918.5 596.1 basechar 0
 AnchorPoint: "anchor-1" 440 650 basechar 0
 LayerCount: 2
@@ -3212,6 +3247,8 @@ Encoding: 3379 3379 49
 Width: 663
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 330 650 basechar 0
+AnchorPoint: "anchor2" 750 596 basechar 0
 AnchorPoint: "anchor-2" 749.5 596.4 basechar 0
 AnchorPoint: "anchor-1" 330 650 basechar 0
 LayerCount: 2
@@ -3272,7 +3309,7 @@ SplineSet
  38 175 38 175 38 257 c 1,69,-1
  38 257 l 1,10,11
 EndSplineSet
-Substitution2: "Single Substitution lookup 13-1" viramamlm_lamlm
+Substitution2: "SingleSubstitutionlookup13 subtable" viramamlm_lamlm
 EndChar
 
 StartChar: lllamlm
@@ -3280,6 +3317,8 @@ Encoding: 3380 3380 50
 Width: 645
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 340 650 basechar 0
+AnchorPoint: "anchor2" 624 597 basechar 0
 AnchorPoint: "anchor-2" 623.5 597 basechar 0
 AnchorPoint: "anchor-1" 340 650 basechar 0
 LayerCount: 2
@@ -3339,6 +3378,8 @@ Encoding: 3381 3381 51
 Width: 1043
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 550 650 basechar 0
+AnchorPoint: "anchor2" 1012 595 basechar 0
 AnchorPoint: "anchor-2" 1012.5 595.2 basechar 0
 AnchorPoint: "anchor-1" 550 650 basechar 0
 LayerCount: 2
@@ -3377,6 +3418,8 @@ Encoding: 3382 3382 52
 Width: 940
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 490 650 basechar 0
+AnchorPoint: "anchor2" 910 597 basechar 0
 AnchorPoint: "anchor-2" 910.5 597.1 basechar 0
 AnchorPoint: "anchor-1" 490 650 basechar 0
 LayerCount: 2
@@ -3435,6 +3478,8 @@ Encoding: 3383 3383 53
 Width: 1153
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 575 650 basechar 0
+AnchorPoint: "anchor2" 1114 596 basechar 0
 AnchorPoint: "anchor-2" 1114.5 596.5 basechar 0
 AnchorPoint: "anchor-1" 575 650 basechar 0
 LayerCount: 2
@@ -3500,6 +3545,8 @@ Encoding: 3384 3384 54
 Width: 1138
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 590 650 basechar 0
+AnchorPoint: "anchor2" 1120 596 basechar 0
 AnchorPoint: "anchor-2" 1120.5 596.1 basechar 0
 AnchorPoint: "anchor-1" 590 650 basechar 0
 LayerCount: 2
@@ -3556,6 +3603,8 @@ Encoding: 3385 3385 55
 Width: 1218
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 600 650 basechar 0
+AnchorPoint: "anchor2" 1186 597 basechar 0
 AnchorPoint: "anchor-2" 1186 596.8 basechar 0
 AnchorPoint: "anchor-1" 600 650 basechar 0
 LayerCount: 2
@@ -4258,6 +4307,7 @@ Encoding: 3405 3405 68
 Width: 0
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor2" -70 596 mark 0
 AnchorPoint: "anchor-2" -70 596 mark 0
 LayerCount: 2
 Fore
@@ -4283,6 +4333,7 @@ SplineSet
  -224 709 -224 709 -224 762 c 1,26,-1
  -224 762 l 1,0,1
 EndSplineSet
+Substitution2: "Single Substitution lookup 9 subtable" viramamlm_lamlm
 EndChar
 
 StartChar: aulengthmarkmlm
@@ -5184,10 +5235,9 @@ SplineSet
  -819 -248 -819 -248 -819 -176 c 5,50,-1
  -819 -176 l 5,13,14
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 9-1" viramamlm llamlm
-Ligature2: "'blwf' Below Base Forms lookup 7-1" lamlm viramamlm
+Ligature2: "blwfBelowBaseFormslookup7 subtable" lamlm viramamlm
+Ligature2: "blwfBelowBaseFormslookup2 subtable" viramamlm lamlm
 LCarets2: 1 0 
-Ligature2: "'blwf' Below Base Forms lookup 2-1" viramamlm lamlm
 EndChar
 
 StartChar: ramlm_viramamlm
@@ -5211,8 +5261,8 @@ SplineSet
  90 452 90 452 116 585 c 1,14,-1
  116 585 l 1,0,-1
 EndSplineSet
+Ligature2: "prefPreBaseFormslookup1 subtable" viramamlm ramlm
 LCarets2: 2 0 0 
-Ligature2: "'pref' Pre Base Forms lookup 1-1" viramamlm ramlm
 EndChar
 
 StartChar: lllamlm_viramamlm.half_vamlm
@@ -5311,7 +5361,7 @@ SplineSet
  460 709 460 709 460 762 c 1,113,-1
  460 762 l 1,89,90
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 7-1" lllamlm viramamlm_vamlm.pstf
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" lllamlm viramamlm_vamlm.pstf
 EndChar
 
 StartChar: tamlm_viramamlm_lamlm
@@ -5400,8 +5450,8 @@ SplineSet
  44 191 44 191 44 281 c 1,113,-1
  44 281 l 1,64,65
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 4-1" tamlm viramamlm lamlm
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm lamlm
+Ligature2: "blwsBelowBaseSubstitutionslooku subtable" tamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm lamlm
 EndChar
 
 StartChar: phamlm_viramamlm_lamlm
@@ -5481,8 +5531,8 @@ SplineSet
  724 408 724 408 724 328 c 1,94,-1
  724 328 l 1,86,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 4-1" phamlm viramamlm lamlm
-Ligature2: "'akhn' Akhand lookup 0-1" phamlm viramamlm lamlm
+Ligature2: "blwsBelowBaseSubstitutionslooku subtable" phamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" phamlm viramamlm lamlm
 EndChar
 
 StartChar: vamlm_viramamlm_lamlm
@@ -5553,8 +5603,8 @@ SplineSet
  40 175 40 175 40 281 c 1,85,-1
  40 281 l 1,54,55
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 4-1" vamlm viramamlm lamlm
-Ligature2: "'akhn' Akhand lookup 0-1" vamlm viramamlm lamlm
+Ligature2: "blwsBelowBaseSubstitutionslooku subtable" vamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" vamlm viramamlm lamlm
 EndChar
 
 StartChar: viramamlm_lamlm.alt1
@@ -7681,7 +7731,7 @@ SplineSet
  507 709 507 709 507 762 c 1,49,-1
  507 762 l 1,25,26
 EndSplineSet
-Substitution2: "Single Substitution lookup 11-1" rramlm
+Substitution2: "SingleSubstitutionlookup11 subtable" rramlm
 EndChar
 
 StartChar: lamlm_viramamlm
@@ -7895,7 +7945,7 @@ SplineSet
  460 709 460 709 460 762 c 1,81,-1
  460 762 l 1,57,58
 EndSplineSet
-Substitution2: "Single Substitution lookup 11-1" lllamlm
+Substitution2: "SingleSubstitutionlookup11 subtable" lllamlm
 EndChar
 
 StartChar: vamlm_viramamlm
@@ -8263,6 +8313,7 @@ Encoding: 65593 -1 129
 Width: 1602
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 505 650 basechar 0
 AnchorPoint: "anchor-1" 505 650 basechar 0
 LayerCount: 2
 Fore
@@ -8354,8 +8405,8 @@ SplineSet
  1255 70 l 1,104,-1
  1255 70 l 1,98,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" kamlm viramamlm ssamlm
-Ligature2: "'psts' Post Base Substitutions lookup 7-1" kamlm viramamlm ssamlm
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" kamlm viramamlm ssamlm
+Ligature2: "akhnAkhandlookup0 subtable" kamlm viramamlm ssamlm
 EndChar
 
 StartChar: viramamlm_yamlm.pstf
@@ -8395,7 +8446,7 @@ SplineSet
  176 585 l 1,36,-1
  176 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms lookup 3-1" viramamlm yamlm
+Ligature2: "pstfPostBaseFormslookup3 subtable" viramamlm yamlm
 EndChar
 
 StartChar: viramamlm_ramlm.pstf
@@ -8419,7 +8470,7 @@ SplineSet
  90 452 90 452 116 585 c 1,14,-1
  116 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms lookup 3-1" viramamlm ramlm
+Ligature2: "pstfPostBaseFormslookup3 subtable" viramamlm ramlm
 EndChar
 
 StartChar: viramamlm_vamlm.pstf
@@ -8439,7 +8490,7 @@ SplineSet
  163 585 l 1,6,-1
  163 585 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms lookup 3-1" viramamlm vamlm
+Ligature2: "pstfPostBaseFormslookup3 subtable" viramamlm vamlm
 EndChar
 
 StartChar: kamlm_viramamlm_kamlm
@@ -8447,6 +8498,7 @@ Encoding: 65597 -1 133
 Width: 1412
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 700 650 basechar 0
 AnchorPoint: "anchor-1" 700 650 basechar 0
 LayerCount: 2
 Fore
@@ -8526,7 +8578,7 @@ SplineSet
  29 88 29 88 29 156 c 1,93,-1
  29 156 l 1,40,41
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" kamlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" kamlm viramamlm kamlm
 EndChar
 
 StartChar: ngamlm_viramamlm_kamlm
@@ -8534,6 +8586,7 @@ Encoding: 65598 -1 134
 Width: 1032
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 515 650 basechar 0
 AnchorPoint: "anchor-1" 515 650 basechar 0
 LayerCount: 2
 Fore
@@ -8609,7 +8662,7 @@ SplineSet
  391 268 l 1,90,-1
  391 268 l 1,83,84
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" ngamlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" ngamlm viramamlm kamlm
 EndChar
 
 StartChar: ngamlm_viramamlm_ngamlm
@@ -8617,6 +8670,7 @@ Encoding: 65599 -1 135
 Width: 1391
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 700 650 basechar 0
 AnchorPoint: "anchor-1" 700 650 basechar 0
 LayerCount: 2
 Fore
@@ -8705,7 +8759,7 @@ SplineSet
  516 283 516 283 516 222 c 1,109,-1
  516 222 l 1,98,99
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" ngamlm viramamlm ngamlm
+Ligature2: "akhnAkhandlookup0 subtable" ngamlm viramamlm ngamlm
 EndChar
 
 StartChar: camlm_viramamlm_camlm
@@ -8713,6 +8767,7 @@ Encoding: 65600 -1 136
 Width: 1117
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 610 650 basechar 0
 AnchorPoint: "anchor-1" 610 650 basechar 0
 LayerCount: 2
 Fore
@@ -8752,7 +8807,7 @@ SplineSet
  9 70 l 1,37,-1
  9 70 l 1,4,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" camlm viramamlm camlm
+Ligature2: "akhnAkhandlookup0 subtable" camlm viramamlm camlm
 EndChar
 
 StartChar: nyamlm_viramamlm_camlm
@@ -8760,6 +8815,7 @@ Encoding: 65601 -1 137
 Width: 1593
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 800 650 basechar 0
 AnchorPoint: "anchor-1" 800 650 basechar 0
 LayerCount: 2
 Fore
@@ -8841,7 +8897,7 @@ SplineSet
  40 152 40 152 40 269 c 1,99,-1
  40 269 l 1,24,25
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" nyamlm viramamlm camlm
+Ligature2: "akhnAkhandlookup0 subtable" nyamlm viramamlm camlm
 EndChar
 
 StartChar: nyamlm_virama_nyamlm
@@ -8849,6 +8905,7 @@ Encoding: 65602 -1 138
 Width: 2068
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 1000 650 basechar 0
 AnchorPoint: "anchor-1" 1000 650 basechar 0
 LayerCount: 2
 Fore
@@ -8961,7 +9018,7 @@ SplineSet
  1534 303 1534 303 1534 239 c 1,140,-1
  1534 239 l 1,129,130
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" nyamlm viramamlm nyamlm
+Ligature2: "akhnAkhandlookup0 subtable" nyamlm viramamlm nyamlm
 EndChar
 
 StartChar: ttamlm_viramamlm_ttamlm
@@ -8969,6 +9026,7 @@ Encoding: 65603 -1 139
 Width: 598
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 281 650 basechar 0
 AnchorPoint: "anchor-1" 281 650 basechar 0
 LayerCount: 2
 Fore
@@ -9015,7 +9073,7 @@ SplineSet
  29 333 29 333 29 386 c 1,55,-1
  29 386 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" ttamlm viramamlm ttamlm
+Ligature2: "akhnAkhandlookup0 subtable" ttamlm viramamlm ttamlm
 EndChar
 
 StartChar: nnamlm_viramamlm_ttamlm
@@ -9023,6 +9081,8 @@ Encoding: 65604 -1 140
 Width: 1417
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 690 650 basechar 0
+AnchorPoint: "anchor2" 945 722 basechar 0
 AnchorPoint: "anchor-2" 945 721.5 basechar 0
 AnchorPoint: "anchor-1" 690 650 basechar 0
 LayerCount: 2
@@ -9112,8 +9172,8 @@ SplineSet
  134 215 134 215 134 169 c 1,113,-1
  134 169 l 1,104,105
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" nnamlm viramamlm ttamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" nnamlm viramamlm ttamlm
 EndChar
 
 StartChar: nnamlm_viramamlm_nnamlm
@@ -9121,6 +9181,8 @@ Encoding: 65605 -1 141
 Width: 1288
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 690 650 basechar 0
+AnchorPoint: "anchor2" 1224 606 basechar 0
 AnchorPoint: "anchor-1" 690 650 basechar 0
 LayerCount: 2
 Fore
@@ -9236,7 +9298,7 @@ SplineSet
  341 -339 341 -339 341 -257 c 1,141,-1
  341 -257 l 1,81,82
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" nnamlm viramamlm nnamlm
+Ligature2: "akhnAkhandlookup0 subtable" nnamlm viramamlm nnamlm
 EndChar
 
 StartChar: tamlm_viramamlm_tamlm
@@ -9244,6 +9306,7 @@ Encoding: 65606 -1 142
 Width: 1583
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 798 650 basechar 0
 AnchorPoint: "anchor-1" 798 650 basechar 0
 LayerCount: 2
 Fore
@@ -9332,7 +9395,7 @@ SplineSet
  46 158 46 158 46 257 c 1,111,-1
  46 257 l 1,24,25
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm tamlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm tamlm
 EndChar
 
 StartChar: namlm_viramamlm_tamlm
@@ -9340,6 +9403,8 @@ Encoding: 65607 -1 143
 Width: 1291
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 650 650 basechar 0
+AnchorPoint: "anchor2" 1256 592 basechar 0
 AnchorPoint: "anchor-2" 1255.5 592.5 basechar 0
 AnchorPoint: "anchor-1" 650 650 basechar 0
 LayerCount: 2
@@ -9403,8 +9468,8 @@ SplineSet
  42 195 42 195 42 289 c 1,76,-1
  42 289 l 1,12,13
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm tamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm tamlm
 EndChar
 
 StartChar: namlm_viramamlm_namlm
@@ -9412,6 +9477,7 @@ Encoding: 65608 -1 144
 Width: 1330
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 669 650 basechar 0
 AnchorPoint: "anchor-1" 669 650 basechar 0
 LayerCount: 2
 Fore
@@ -9459,7 +9525,7 @@ SplineSet
  46 180 46 180 46 269 c 1,56,-1
  46 269 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm namlm
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm namlm
 EndChar
 
 StartChar: pamlm_viramamlm_pamlm
@@ -9467,6 +9533,7 @@ Encoding: 65609 -1 145
 Width: 1000
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 470 650 basechar 0
 AnchorPoint: "anchor-1" 470 650 basechar 0
 LayerCount: 2
 Fore
@@ -9518,7 +9585,7 @@ SplineSet
  33 138 33 138 33 199 c 1,60,-1
  33 199 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" pamlm viramamlm pamlm
+Ligature2: "akhnAkhandlookup0 subtable" pamlm viramamlm pamlm
 EndChar
 
 StartChar: mamlm_viramamlm_pamlm
@@ -9526,6 +9593,8 @@ Encoding: 65610 -1 146
 Width: 1268
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 626 650 basechar 0
+AnchorPoint: "anchor2" 1250 597 basechar 0
 AnchorPoint: "anchor-2" 1250.5 597 basechar 0
 AnchorPoint: "anchor-1" 626 650 basechar 0
 LayerCount: 2
@@ -9568,8 +9637,8 @@ SplineSet
  43 179 43 179 43 281 c 1,46,-1
  43 281 l 1,0,1
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" mamlm viramamlm pamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" mamlm viramamlm pamlm
 EndChar
 
 StartChar: mamlm_viramamlm_mamlm
@@ -9577,6 +9646,7 @@ Encoding: 65611 -1 147
 Width: 1170
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 589 650 basechar 0
 AnchorPoint: "anchor-1" 589 650 basechar 0
 LayerCount: 2
 Fore
@@ -9633,7 +9703,7 @@ SplineSet
  832 105 832 105 772 70 c 1,61,-1
  772 70 l 1,50,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" mamlm viramamlm mamlm
+Ligature2: "akhnAkhandlookup0 subtable" mamlm viramamlm mamlm
 EndChar
 
 StartChar: yamlm_viramamlm_yamlm
@@ -9641,6 +9711,8 @@ Encoding: 65612 -1 148
 Width: 997
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 500 650 basechar 0
+AnchorPoint: "anchor2" 964 596 basechar 0
 AnchorPoint: "anchor-1" 500 650 basechar 0
 LayerCount: 2
 Fore
@@ -9701,8 +9773,8 @@ SplineSet
  40 199 40 199 40 339 c 1,67,-1
  40 339 l 1,29,30
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 7-1" yamlm viramamlm_yamlm.pstf
-Ligature2: "'akhn' Akhand lookup 0-1" yamlm viramamlm yamlm
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" yamlm viramamlm_yamlm.pstf
+Ligature2: "akhnAkhandlookup0 subtable" yamlm viramamlm yamlm
 EndChar
 
 StartChar: vamlm_viramamlm_vamlm
@@ -9710,6 +9782,8 @@ Encoding: 65613 -1 149
 Width: 1043
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 510 650 basechar 0
+AnchorPoint: "anchor2" 964 600 basechar 0
 AnchorPoint: "anchor-1" 510 650 basechar 0
 LayerCount: 2
 Fore
@@ -9748,8 +9822,8 @@ SplineSet
  450 -211 l 1,36,-1
  450 -211 l 1,33,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 7-1" vamlm viramamlm_vamlm.pstf
-Ligature2: "'akhn' Akhand lookup 0-1" vamlm viramamlm vamlm
+Ligature2: "pstsPostBaseSubstitutionslookup subtable" vamlm viramamlm_vamlm.pstf
+Ligature2: "akhnAkhandlookup0 subtable" vamlm viramamlm vamlm
 EndChar
 
 StartChar: lamlm_viramamlm_lamlm
@@ -9757,6 +9831,7 @@ Encoding: 65614 -1 150
 Width: 835
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 410 650 basechar 0
 AnchorPoint: "anchor-1" 410 650 basechar 0
 LayerCount: 2
 Fore
@@ -9823,7 +9898,7 @@ SplineSet
  137 432 137 432 137 364 c 1,72,-1
  137 364 l 1,64,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" lamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" lamlm viramamlm lamlm
 EndChar
 
 StartChar: kamlm_viramamlm_lamlm
@@ -9831,6 +9906,7 @@ Encoding: 65615 -1 151
 Width: 962
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 480 650 basechar 0
 AnchorPoint: "anchor-1" 480 650 basechar 0
 LayerCount: 2
 Fore
@@ -9930,8 +10006,8 @@ SplineSet
  367 421 367 421 367 351 c 1,120,-1
  367 351 l 1,114,-1
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" kamlm viramamlm lamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" kamlm viramamlm lamlm
 EndChar
 
 StartChar: gamlm_viramamlm_lamlm
@@ -9939,6 +10015,8 @@ Encoding: 65616 -1 152
 Width: 910
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 490 650 basechar 0
+AnchorPoint: "anchor2" 910 597 basechar 0
 AnchorPoint: "anchor-1" 490 650 basechar 0
 LayerCount: 2
 Fore
@@ -10017,8 +10095,8 @@ SplineSet
  46 -248 46 -248 46 -176 c 1,95,-1
  46 -176 l 1,10,11
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" gamlm viramamlm lamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" gamlm viramamlm lamlm
 EndChar
 
 StartChar: pamlm_viramamlm_lamlm
@@ -10026,6 +10104,7 @@ Encoding: 65617 -1 153
 Width: 1000
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 470 650 basechar 0
 AnchorPoint: "anchor-1" 470 650 basechar 0
 LayerCount: 2
 Fore
@@ -10092,7 +10171,7 @@ SplineSet
  114 -248 114 -248 114 -176 c 1,77,-1
  114 -176 l 1,10,11
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" pamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" pamlm viramamlm lamlm
 EndChar
 
 StartChar: bamlm_viramamlm_lamlm
@@ -10100,6 +10179,7 @@ Encoding: 65618 -1 154
 Width: 1360
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 539 650 basechar 0
 AnchorPoint: "anchor-1" 539 650 basechar 0
 LayerCount: 2
 Fore
@@ -10191,7 +10271,7 @@ SplineSet
  135 219 135 219 135 176 c 1,110,-1
  135 176 l 1,100,101
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" bamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" bamlm viramamlm lamlm
 EndChar
 
 StartChar: mamlm_viramamlm_lamlm
@@ -10199,6 +10279,7 @@ Encoding: 65619 -1 155
 Width: 705
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 350 650 basechar 0
 AnchorPoint: "anchor-1" 350 650 basechar 0
 LayerCount: 2
 Fore
@@ -10262,7 +10343,7 @@ SplineSet
  380 111 380 111 322 70 c 1,83,-1
  322 70 l 1,72,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" mamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" mamlm viramamlm lamlm
 EndChar
 
 StartChar: shamlm_viramamlm_lamlm
@@ -10270,6 +10351,7 @@ Encoding: 65620 -1 156
 Width: 937
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 480 650 basechar 0
 AnchorPoint: "anchor-1" 480 650 basechar 0
 LayerCount: 2
 Fore
@@ -10356,7 +10438,7 @@ SplineSet
  644 258 644 258 644 199 c 1,106,-1
  644 199 l 1,94,95
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" shamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" shamlm viramamlm lamlm
 EndChar
 
 StartChar: samlm_viramamlm_lamlm
@@ -10364,6 +10446,7 @@ Encoding: 65621 -1 157
 Width: 1183
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 612 650 basechar 0
 AnchorPoint: "anchor-1" 612 650 basechar 0
 LayerCount: 2
 Fore
@@ -10450,7 +10533,7 @@ SplineSet
  43 200 43 200 43 300 c 1,108,-1
  43 300 l 1,49,50
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm lamlm
 EndChar
 
 StartChar: hamlm_viramamlm_lamlm
@@ -10458,6 +10541,8 @@ Encoding: 65622 -1 158
 Width: 1218
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 590 650 basechar 0
+AnchorPoint: "anchor2" 1120 596 basechar 0
 AnchorPoint: "anchor-1" 590 650 basechar 0
 LayerCount: 2
 Fore
@@ -10539,7 +10624,7 @@ SplineSet
  185 -248 185 -248 185 -176 c 1,98,-1
  185 -176 l 1,10,11
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" hamlm viramamlm lamlm
+Ligature2: "akhnAkhandlookup0 subtable" hamlm viramamlm lamlm
 EndChar
 
 StartChar: rramlm_viramamlm_rramlm
@@ -10547,6 +10632,8 @@ Encoding: 65623 -1 159
 Width: 711
 GlyphClass: 3
 Flags: W
+AnchorPoint: "anchor1" 357 650 basechar 0
+AnchorPoint: "anchor2" 516 623 basechar 0
 AnchorPoint: "anchor-2" 516 622.7 basechar 0
 AnchorPoint: "anchor-1" 357 650 basechar 0
 LayerCount: 2
@@ -10595,7 +10682,7 @@ SplineSet
  40 201 40 201 40 269 c 1,54,-1
  40 269 l 1,18,19
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" rramlm viramamlm rramlm
+Ligature2: "akhnAkhandlookup0 subtable" rramlm viramamlm rramlm
 EndChar
 
 StartChar: damlm_virama_damlm
@@ -10603,6 +10690,7 @@ Encoding: 65624 -1 160
 Width: 696
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 370 650 basechar 0
 AnchorPoint: "anchor-1" 370 650 basechar 0
 LayerCount: 2
 Fore
@@ -10654,7 +10742,7 @@ SplineSet
  43 187 43 187 43 257 c 1,62,-1
  43 257 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" damlm viramamlm damlm
+Ligature2: "akhnAkhandlookup0 subtable" damlm viramamlm damlm
 EndChar
 
 StartChar: samlm_viramamlm_samlm
@@ -10662,6 +10750,7 @@ Encoding: 65625 -1 161
 Width: 1182
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 581 650 basechar 0
 AnchorPoint: "anchor-1" 581 650 basechar 0
 LayerCount: 2
 Fore
@@ -10753,7 +10842,7 @@ SplineSet
  308 -291 308 -291 308 -212 c 1,119,-1
  308 -212 l 1,60,61
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm samlm
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm samlm
 EndChar
 
 StartChar: gamlm_viramamlm_gamlm
@@ -10761,6 +10850,7 @@ Encoding: 65626 -1 162
 Width: 910
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 468 649 basechar 0
 AnchorPoint: "anchor-1" 468 649.3 basechar 0
 LayerCount: 2
 Fore
@@ -10842,7 +10932,7 @@ SplineSet
  268 -203 l 1,97,-1
  268 -203 l 1,49,50
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" gamlm viramamlm gamlm
+Ligature2: "akhnAkhandlookup0 subtable" gamlm viramamlm gamlm
 EndChar
 
 StartChar: camlm_viramamlm_chamlm
@@ -10850,6 +10940,7 @@ Encoding: 65627 -1 163
 Width: 1152
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 580 650 basechar 0
 AnchorPoint: "anchor-1" 580 650 basechar 0
 LayerCount: 2
 Fore
@@ -10929,7 +11020,7 @@ SplineSet
  829 -163 829 -163 829 -211 c 1,96,-1
  829 -211 l 1,85,86
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" camlm viramamlm chamlm
+Ligature2: "akhnAkhandlookup0 subtable" camlm viramamlm chamlm
 EndChar
 
 StartChar: jamlm_viramamlm_jamlm
@@ -10937,6 +11028,7 @@ Encoding: 65628 -1 164
 Width: 1483
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 740 650 basechar 0
 AnchorPoint: "anchor-1" 740 650 basechar 0
 LayerCount: 2
 Fore
@@ -11062,7 +11154,7 @@ SplineSet
  1238 97 1238 97 1238 70 c 1,163,-1
  1238 70 l 1,151,152
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" jamlm viramamlm jamlm
+Ligature2: "akhnAkhandlookup0 subtable" jamlm viramamlm jamlm
 EndChar
 
 StartChar: kamlm_viramamlm_tamlm
@@ -11070,6 +11162,7 @@ Encoding: 65629 -1 165
 Width: 1628
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 799 650 basechar 0
 AnchorPoint: "anchor-1" 799 650 basechar 0
 LayerCount: 2
 Fore
@@ -11163,7 +11256,7 @@ SplineSet
  27 91 27 91 27 164 c 1,109,-1
  27 164 l 1,40,41
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" kamlm viramamlm tamlm
+Ligature2: "akhnAkhandlookup0 subtable" kamlm viramamlm tamlm
 EndChar
 
 StartChar: tamlm_viramamlm_namlm
@@ -11171,6 +11264,7 @@ Encoding: 65630 -1 166
 Width: 1251
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 610 650 basechar 0
 AnchorPoint: "anchor-1" 610 650 basechar 0
 LayerCount: 2
 Fore
@@ -11233,7 +11327,7 @@ SplineSet
  40 191 40 191 40 281 c 1,75,-1
  40 281 l 1,12,13
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm namlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm namlm
 EndChar
 
 StartChar: ssamlm_viramamlm_ttamlm
@@ -11241,6 +11335,8 @@ Encoding: 65631 -1 167
 Width: 1175
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 600 650 basechar 0
+AnchorPoint: "anchor2" 1186 597 basechar 0
 AnchorPoint: "anchor-1" 600 650 basechar 0
 LayerCount: 2
 Fore
@@ -11322,7 +11418,7 @@ SplineSet
  582 453 582 453 582 410 c 1,94,-1
  582 410 l 1,84,85
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" ssamlm viramamlm ttamlm
+Ligature2: "akhnAkhandlookup0 subtable" ssamlm viramamlm ttamlm
 EndChar
 
 StartChar: namlm_viramamlm_damlm
@@ -11330,6 +11426,8 @@ Encoding: 65632 -1 168
 Width: 996
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 470 650 basechar 0
+AnchorPoint: "anchor2" 1002 595 basechar 0
 AnchorPoint: "anchor-2" 1001.5 595 basechar 0
 AnchorPoint: "anchor-1" 470 650 basechar 0
 LayerCount: 2
@@ -11380,8 +11478,8 @@ SplineSet
  40 210 40 210 40 304 c 1,58,-1
  40 304 l 1,0,1
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm damlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm damlm
 EndChar
 
 StartChar: bamlm_viramamlm_bamlm
@@ -11389,6 +11487,7 @@ Encoding: 65633 -1 169
 Width: 1360
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 701 650 basechar 0
 AnchorPoint: "anchor-1" 701 650 basechar 0
 LayerCount: 2
 Fore
@@ -11452,7 +11551,7 @@ SplineSet
  749 -216 l 1,70,-1
  749 -216 l 1,67,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" bamlm viramamlm bamlm
+Ligature2: "akhnAkhandlookup0 subtable" bamlm viramamlm bamlm
 EndChar
 
 StartChar: shamlm_viramamlm_shamlm
@@ -11460,6 +11559,8 @@ Encoding: 65634 -1 170
 Width: 939
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 450 650 basechar 0
+AnchorPoint: "anchor2" 868 597 basechar 0
 AnchorPoint: "anchor-1" 450 650 basechar 0
 LayerCount: 2
 Fore
@@ -11555,7 +11656,7 @@ SplineSet
  261 -203 l 1,116,-1
  261 -203 l 1,71,72
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" shamlm viramamlm shamlm
+Ligature2: "akhnAkhandlookup0 subtable" shamlm viramamlm shamlm
 EndChar
 
 StartChar: namlm_viramamlm_dhamlm
@@ -11563,6 +11664,8 @@ Encoding: 65635 -1 171
 Width: 1511
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 751 650 basechar 0
+AnchorPoint: "anchor2" 1462 656 basechar 0
 AnchorPoint: "anchor-2" 1462 656.5 basechar 0
 AnchorPoint: "anchor-1" 751 650 basechar 0
 LayerCount: 2
@@ -11623,8 +11726,8 @@ SplineSet
  40 198 40 198 40 281 c 1,74,-1
  40 281 l 1,0,1
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm dhamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm dhamlm
 EndChar
 
 StartChar: samlm_viramamlm_thamlm
@@ -11632,6 +11735,7 @@ Encoding: 65636 -1 172
 Width: 1749
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 840 650 basechar 0
 AnchorPoint: "anchor-1" 840 650 basechar 0
 LayerCount: 2
 Fore
@@ -11697,7 +11801,7 @@ SplineSet
  1286 70 l 1,77,-1
  1286 70 l 1,69,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm thamlm
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm thamlm
 EndChar
 
 StartChar: tamlm_viramamlm_thamlm
@@ -11705,6 +11809,7 @@ Encoding: 65637 -1 173
 Width: 1511
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 780 650 basechar 0
 AnchorPoint: "anchor-1" 780 650 basechar 0
 LayerCount: 2
 Fore
@@ -11773,7 +11878,7 @@ SplineSet
  42 191 42 191 42 281 c 1,79,-1
  42 281 l 1,21,22
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm thamlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm thamlm
 EndChar
 
 StartChar: namlm_viramamlm_thamlm
@@ -11781,6 +11886,7 @@ Encoding: 65638 -1 174
 Width: 1509
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 790 650 basechar 0
 AnchorPoint: "anchor-1" 790 650 basechar 0
 LayerCount: 2
 Fore
@@ -11834,7 +11940,7 @@ SplineSet
  1047 70 l 1,59,-1
  1047 70 l 1,51,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm thamlm
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm thamlm
 EndChar
 
 StartChar: shamlm_viramamlm_camlm
@@ -11842,6 +11948,7 @@ Encoding: 65639 -1 175
 Width: 1442
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 720 650 basechar 0
 AnchorPoint: "anchor-1" 720 650 basechar 0
 LayerCount: 2
 Fore
@@ -11905,7 +12012,7 @@ SplineSet
  697 374 697 374 697 339 c 1,78,-1
  697 339 l 1,66,67
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" shamlm viramamlm camlm
+Ligature2: "akhnAkhandlookup0 subtable" shamlm viramamlm camlm
 EndChar
 
 StartChar: hamlm_viramamlm_namlm
@@ -11913,6 +12020,8 @@ Encoding: 65640 -1 176
 Width: 1477
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 690 650 basechar 0
+AnchorPoint: "anchor2" 1224 606 basechar 0
 AnchorPoint: "anchor-1" 690 650 basechar 0
 LayerCount: 2
 Fore
@@ -11969,7 +12078,7 @@ SplineSet
  33 132 33 132 33 199 c 1,69,-1
  33 199 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" hamlm viramamlm namlm
+Ligature2: "akhnAkhandlookup0 subtable" hamlm viramamlm namlm
 EndChar
 
 StartChar: damlm_viramamlm_dhamlm
@@ -11977,6 +12086,7 @@ Encoding: 65641 -1 177
 Width: 1288
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 640 650 basechar 0
 AnchorPoint: "anchor-1" 640 650 basechar 0
 LayerCount: 2
 Fore
@@ -12035,7 +12145,7 @@ SplineSet
  44 180 44 180 44 257 c 1,71,-1
  44 257 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" damlm viramamlm dhamlm
+Ligature2: "akhnAkhandlookup0 subtable" damlm viramamlm dhamlm
 EndChar
 
 StartChar: llamlm_viramamlm_llamlm
@@ -12043,6 +12153,8 @@ Encoding: 65642 -1 178
 Width: 1282
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 620 650 basechar 0
+AnchorPoint: "anchor2" 1160 604 basechar 0
 AnchorPoint: "anchor-1" 620 650 basechar 0
 LayerCount: 2
 Fore
@@ -12152,7 +12264,7 @@ SplineSet
  740 245 740 245 740 211 c 1,136,-1
  740 211 l 1,127,128
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" llamlm viramamlm llamlm
+Ligature2: "akhnAkhandlookup0 subtable" llamlm viramamlm llamlm
 EndChar
 
 StartChar: hamlm_viramamlm_mamlm
@@ -12160,6 +12272,7 @@ Encoding: 65643 -1 179
 Width: 1192
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 570 650 basechar 0
 AnchorPoint: "anchor-1" 570 650 basechar 0
 LayerCount: 2
 Fore
@@ -12212,7 +12325,7 @@ SplineSet
  868 110 868 110 810 70 c 1,56,-1
  810 70 l 1,45,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" hamlm viramamlm mamlm
+Ligature2: "akhnAkhandlookup0 subtable" hamlm viramamlm mamlm
 EndChar
 
 StartChar: glyph187
@@ -12220,6 +12333,7 @@ Encoding: 65644 -1 180
 Width: 1266
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 640 650 basechar 0
 AnchorPoint: "anchor-1" 640 650 basechar 0
 LayerCount: 2
 Fore
@@ -12296,6 +12410,7 @@ Encoding: 65645 -1 181
 Width: 1507
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 790 650 basechar 0
 AnchorPoint: "anchor-1" 790 650 basechar 0
 LayerCount: 2
 Fore
@@ -12370,7 +12485,7 @@ SplineSet
  43 199 43 199 43 281 c 1,94,-1
  43 281 l 1,12,13
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm samlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm samlm
 EndChar
 
 StartChar: namlm_viramamlm_mamlm
@@ -12378,6 +12493,7 @@ Encoding: 65646 -1 182
 Width: 1056
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 540 650 basechar 0
 AnchorPoint: "anchor-1" 540 650 basechar 0
 LayerCount: 2
 Fore
@@ -12424,7 +12540,7 @@ SplineSet
  733 110 733 110 675 70 c 1,51,-1
  675 70 l 1,40,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm mamlm
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm mamlm
 EndChar
 
 StartChar: tamlm_viramamlm_mamlm
@@ -12432,6 +12548,7 @@ Encoding: 65647 -1 183
 Width: 1347
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 680 650 basechar 0
 AnchorPoint: "anchor-1" 680 650 basechar 0
 LayerCount: 2
 Fore
@@ -12506,7 +12623,7 @@ SplineSet
  1024 110 1024 110 967 70 c 1,89,-1
  967 70 l 1,78,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm mamlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm mamlm
 EndChar
 
 StartChar: nnamlm_viramamlm_mamlm
@@ -12514,6 +12631,7 @@ Encoding: 65648 -1 184
 Width: 1339
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 640 650 basechar 0
 AnchorPoint: "anchor-1" 640 650 basechar 0
 LayerCount: 2
 Fore
@@ -12584,7 +12702,7 @@ SplineSet
  1038 113 1038 113 983 70 c 1,82,-1
  983 70 l 1,71,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" nnamlm viramamlm mamlm
+Ligature2: "akhnAkhandlookup0 subtable" nnamlm viramamlm mamlm
 EndChar
 
 StartChar: jamlm_viramamlm_nyamlm
@@ -12592,6 +12710,7 @@ Encoding: 65649 -1 185
 Width: 2085
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 1030 650 basechar 0
 AnchorPoint: "anchor-1" 1030 650 basechar 0
 LayerCount: 2
 Fore
@@ -12720,7 +12839,7 @@ SplineSet
  1583 271 1583 271 1583 211 c 1,164,-1
  1583 211 l 1,153,154
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" jamlm viramamlm nyamlm
+Ligature2: "akhnAkhandlookup0 subtable" jamlm viramamlm nyamlm
 EndChar
 
 StartChar: tamlm_viramamlm_bhamlm
@@ -12728,6 +12847,7 @@ Encoding: 65650 -1 186
 Width: 1331
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 670 650 basechar 0
 AnchorPoint: "anchor-1" 670 650 basechar 0
 LayerCount: 2
 Fore
@@ -12820,7 +12940,7 @@ SplineSet
  43 199 43 199 43 281 c 1,119,-1
  43 281 l 1,12,13
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" tamlm viramamlm bhamlm
+Ligature2: "akhnAkhandlookup0 subtable" tamlm viramamlm bhamlm
 EndChar
 
 StartChar: gamlm_viramamlm_mamlm
@@ -12828,6 +12948,7 @@ Encoding: 65651 -1 187
 Width: 1063
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 513 650 basechar 0
 AnchorPoint: "anchor-1" 513 650 basechar 0
 LayerCount: 2
 Fore
@@ -12879,7 +13000,7 @@ SplineSet
  741 110 741 110 684 70 c 1,55,-1
  684 70 l 1,44,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" gamlm viramamlm mamlm
+Ligature2: "akhnAkhandlookup0 subtable" gamlm viramamlm mamlm
 EndChar
 
 StartChar: samlm_viramalm_kamlm
@@ -12887,6 +13008,7 @@ Encoding: 65652 -1 188
 Width: 1138
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 604 650 basechar 0
 AnchorPoint: "anchor-1" 604 650 basechar 0
 LayerCount: 2
 Fore
@@ -12991,7 +13113,7 @@ SplineSet
  654 -106 654 -106 654 -144 c 1,131,-1
  654 -144 l 1,124,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm kamlm
 EndChar
 
 StartChar: gamlm_viramamlm_namlm
@@ -12999,6 +13121,7 @@ Encoding: 65653 -1 189
 Width: 1283
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 639 650 basechar 0
 AnchorPoint: "anchor-1" 639 650 basechar 0
 LayerCount: 2
 Fore
@@ -13049,7 +13172,7 @@ SplineSet
  47 328 l 1,59,-1
  47 328 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" gamlm viramamlm namlm
+Ligature2: "akhnAkhandlookup0 subtable" gamlm viramamlm namlm
 EndChar
 
 StartChar: nnamlm_viramamlm_ddamlm
@@ -13057,6 +13180,7 @@ Encoding: 65654 -1 190
 Width: 1905
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 910 650 basechar 0
 AnchorPoint: "anchor-1" 910 650 basechar 0
 LayerCount: 2
 Fore
@@ -13140,7 +13264,7 @@ SplineSet
  42 154 42 154 42 263 c 1,102,-1
  42 263 l 1,11,12
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" nnamlm viramamlm ddamlm
+Ligature2: "akhnAkhandlookup0 subtable" nnamlm viramamlm ddamlm
 EndChar
 
 StartChar: nyamlm_viramamlm_jamlm
@@ -13148,6 +13272,7 @@ Encoding: 65655 -1 191
 Width: 1481
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 724 650 basechar 0
 AnchorPoint: "anchor-1" 724 650 basechar 0
 LayerCount: 2
 Fore
@@ -13261,7 +13386,7 @@ SplineSet
  1216 97 1216 97 1216 70 c 1,146,-1
  1216 70 l 1,134,135
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" nyamlm viramamlm jamlm
+Ligature2: "akhnAkhandlookup0 subtable" nyamlm viramamlm jamlm
 EndChar
 
 StartChar: samlm_viramamlm_namlm
@@ -13269,6 +13394,7 @@ Encoding: 65656 -1 192
 Width: 1182
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 593 650 basechar 0
 AnchorPoint: "anchor-1" 593 650 basechar 0
 LayerCount: 2
 Fore
@@ -13346,7 +13472,7 @@ SplineSet
  42 197 42 197 42 294 c 1,100,-1
  42 294 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm namlm
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm namlm
 EndChar
 
 StartChar: namlm_viramamlm_rramlm
@@ -13354,6 +13480,7 @@ Encoding: 65657 -1 193
 Width: 958
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 279 650 basechar 0
 AnchorPoint: "anchor-1" 279 650 basechar 0
 LayerCount: 2
 Fore
@@ -13434,8 +13561,8 @@ SplineSet
  42 201 42 201 42 293 c 1,104,-1
  42 293 l 1,13,14
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" chillunmlm viramamlm rramlm 
-Ligature2: "'akhn' Akhand lookup 0-1" namlm viramamlm rramlm
+Ligature2: "akhnAkhandlookup0 subtable" namlm viramamlm rramlm
+Ligature2: "akhnAkhandlookup0 subtable" chillunmlm viramamlm rramlm
 EndChar
 
 StartChar: sa_rra_virama_rra_virama
@@ -13443,6 +13570,7 @@ Encoding: 65658 -1 194
 Width: 1183
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 621 650 basechar 0
 AnchorPoint: "anchor-1" 621 650 basechar 0
 LayerCount: 2
 Fore
@@ -13532,7 +13660,7 @@ SplineSet
  389 52 389 52 394 52 c 1,116,-1
  394 52 l 1,99,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm rramlm viramamlm rramlm 
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm rramlm viramamlm rramlm
 EndChar
 
 StartChar: ddamlm_viramamlm_ddamlm
@@ -13540,6 +13668,7 @@ Encoding: 65659 -1 195
 Width: 1186
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 613 650 basechar 0
 AnchorPoint: "anchor-1" 613 650 basechar 0
 LayerCount: 2
 Fore
@@ -13631,7 +13760,7 @@ SplineSet
  337 -303 337 -303 337 -224 c 1,117,-1
  337 -224 l 1,58,59
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" ddamlm viramamlm ddamlm
+Ligature2: "akhnAkhandlookup0 subtable" ddamlm viramamlm ddamlm
 EndChar
 
 StartChar: bamlm_viramamlm_dhamlm
@@ -13639,6 +13768,7 @@ Encoding: 65660 -1 196
 Width: 1360
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 712 650 basechar 0
 AnchorPoint: "anchor-1" 712 650 basechar 0
 LayerCount: 2
 Fore
@@ -13725,7 +13855,7 @@ SplineSet
  646 -247 646 -247 646 -174 c 1,105,-1
  646 -174 l 1,64,65
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" bamlm viramamlm dhamlm
+Ligature2: "akhnAkhandlookup0 subtable" bamlm viramamlm dhamlm
 EndChar
 
 StartChar: bamlm_viramamlm_damlm
@@ -13733,6 +13863,7 @@ Encoding: 65661 -1 197
 Width: 1360
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 712 650 basechar 0
 AnchorPoint: "anchor-1" 712 650 basechar 0
 LayerCount: 2
 Fore
@@ -13820,7 +13951,7 @@ SplineSet
  42 147 42 147 42 251 c 1,106,-1
  42 251 l 1,11,12
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" bamlm viramamlm damlm
+Ligature2: "akhnAkhandlookup0 subtable" bamlm viramamlm damlm
 EndChar
 
 StartChar: kamlm_viramamlm_ttamlm
@@ -13828,6 +13959,7 @@ Encoding: 65662 -1 198
 Width: 993
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 492 650 basechar 0
 AnchorPoint: "anchor-1" 492 650 basechar 0
 LayerCount: 2
 Fore
@@ -13917,7 +14049,7 @@ SplineSet
  27 95 27 95 27 163 c 1,108,-1
  27 163 l 1,26,27
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" kamlm viramamlm ttamlm
+Ligature2: "akhnAkhandlookup0 subtable" kamlm viramamlm ttamlm
 EndChar
 
 StartChar: glyph206
@@ -13925,6 +14057,7 @@ Encoding: 65663 -1 199
 Width: 927
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 472 650 basechar 0
 AnchorPoint: "anchor-1" 472 650 basechar 0
 LayerCount: 2
 Fore
@@ -13996,6 +14129,7 @@ Encoding: 65664 -1 200
 Width: 928
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 492 650 basechar 0
 AnchorPoint: "anchor-1" 492 650 basechar 0
 LayerCount: 2
 Fore
@@ -14108,7 +14242,7 @@ SplineSet
  143 -288 143 -288 143 -243 c 1,140,-1
  143 -243 l 1,98,99
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" yamlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" yamlm viramamlm kamlm
 EndChar
 
 StartChar: glyph209
@@ -14116,6 +14250,7 @@ Encoding: 65665 -1 201
 Width: 920
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 482 650 basechar 0
 AnchorPoint: "anchor-1" 482 650 basechar 0
 LayerCount: 2
 Fore
@@ -14253,6 +14388,7 @@ Encoding: 65666 -1 202
 Width: 875
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 452 650 basechar 0
 AnchorPoint: "anchor-1" 452 650 basechar 0
 LayerCount: 2
 Fore
@@ -14358,7 +14494,7 @@ SplineSet
  270 -95 270 -95 270 -126 c 1,120,-1
  270 -126 l 1,113,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" lamlm viramamlm kamlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" lamlm viramamlm kamlm viramamlm kamlm
 EndChar
 
 StartChar: ssamlm_viramamlm_kamlm
@@ -14366,6 +14502,7 @@ Encoding: 65667 -1 203
 Width: 1153
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 545 650 basechar 0
 AnchorPoint: "anchor-1" 545 650 basechar 0
 LayerCount: 2
 Fore
@@ -14478,7 +14615,7 @@ SplineSet
  672 -87 672 -87 672 -125 c 1,132,-1
  672 -125 l 1,125,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" ssamlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" ssamlm viramamlm kamlm
 EndChar
 
 StartChar: lamlm_viramamlm_kamlm
@@ -14486,6 +14623,7 @@ Encoding: 65668 -1 204
 Width: 828
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 451 650 basechar 0
 AnchorPoint: "anchor-1" 451 650 basechar 0
 LayerCount: 2
 Fore
@@ -14570,7 +14708,7 @@ SplineSet
  347 -87 347 -87 347 -125 c 1,96,-1
  347 -125 l 1,89,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" lamlm viramamlm kamlm
+Ligature2: "akhnAkhandlookup0 subtable" lamlm viramamlm kamlm
 EndChar
 
 StartChar: samlm_viramamlm_tamlm
@@ -14578,6 +14716,8 @@ Encoding: 65669 -1 205
 Width: 1095
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 584 650 basechar 0
+AnchorPoint: "anchor2" 1050 598 basechar 0
 AnchorPoint: "anchor-2" 1049.5 597.7 basechar 0
 AnchorPoint: "anchor-1" 584 650 basechar 0
 LayerCount: 2
@@ -14673,8 +14813,8 @@ SplineSet
  369 -236 369 -236 369 -185 c 1,122,-1
  369 -185 l 1,73,74
 EndSplineSet
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm tamlm
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm tamlm
 EndChar
 
 StartChar: samlm_viramamlm_phamlm
@@ -14682,6 +14822,7 @@ Encoding: 65670 -1 206
 Width: 1095
 GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 592 650 basechar 0
 AnchorPoint: "anchor-1" 592 650 basechar 0
 LayerCount: 2
 Fore
@@ -14767,7 +14908,7 @@ SplineSet
  775 -109 775 -109 775 -148 c 1,106,-1
  775 -148 l 1,97,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0-1" samlm viramamlm phamlm
+Ligature2: "akhnAkhandlookup0 subtable" samlm viramamlm phamlm
 EndChar
 
 StartChar: glyph215
@@ -15604,7 +15745,7 @@ SplineSet
  -37 795 -37 795 -52.5 779 c 128,-1,19
  -68 763 -68 763 -68 740 c 128,-1,20
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms lookup 3-1" viramamlm uvowelmlm
+Ligature2: "pstfPostBaseFormslookup3 subtable" viramamlm uvowelmlm
 EndChar
 
 StartChar: nna_virama_tta_virama
@@ -16226,7 +16367,7 @@ SplineSet
  48 328 l 1,81,-1
  48 328 l 1,13,14
 EndSplineSet
-Ligature2: "'half' Half Forms lookup 5-1" llamlm viramamlm zerowidthjoiner
+Ligature2: "halfHalfFormslookup5 subtable" llamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillunnmlm
@@ -16319,7 +16460,7 @@ SplineSet
  1084 300 1084 300 1084 239 c 1,108,-1
  1084 239 l 1,96,97
 EndSplineSet
-Ligature2: "'half' Half Forms lookup 5-1" nnamlm viramamlm zerowidthjoiner
+Ligature2: "halfHalfFormslookup5 subtable" nnamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillunmlm
@@ -16388,8 +16529,8 @@ SplineSet
  42 201 42 201 42 293 c 1,77,-1
  42 293 l 1,13,14
 EndSplineSet
+Ligature2: "halfHalfFormslookup5 subtable" namlm viramamlm zerowidthjoiner
 LCarets2: 2 0 0 
-Ligature2: "'half' Half Forms lookup 5-1" namlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillurrmlm
@@ -16445,8 +16586,8 @@ SplineSet
  43 172 43 172 43 263 c 1,57,-1
  43 263 l 1,12,13
 EndSplineSet
-Ligature2: "'half' Half Forms lookup 5-1" ramlm viramamlm zerowidthjoiner
-Ligature2: "'half' Half Forms lookup 5-1" rramlm viramamlm zerowidthjoiner
+Ligature2: "halfHalfFormslookup5 subtable" rramlm viramamlm zerowidthjoiner
+Ligature2: "halfHalfFormslookup5 subtable" ramlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillulmlm
@@ -16530,7 +16671,7 @@ SplineSet
  46 189 46 189 46 281 c 1,96,-1
  46 281 l 1,25,26
 EndSplineSet
-Ligature2: "'half' Half Forms lookup 5-1" lamlm viramamlm zerowidthjoiner
+Ligature2: "halfHalfFormslookup5 subtable" lamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: chillukmlm
@@ -16620,7 +16761,7 @@ SplineSet
  368 421 368 421 368 351 c 1,100,-1
  368 351 l 1,93,-1
 EndSplineSet
-Ligature2: "'half' Half Forms lookup 5-1" kamlm viramamlm zerowidthjoiner
+Ligature2: "halfHalfFormslookup5 subtable" kamlm viramamlm zerowidthjoiner
 EndChar
 
 StartChar: datemarkmlm
@@ -17131,6 +17272,7 @@ EndChar
 StartChar: inr_currency
 Encoding: 8377 8377 251
 Width: 624
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -17163,6 +17305,7 @@ EndChar
 StartChar: avagrahamlm
 Encoding: 3389 3389 252
 Width: 354
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -17186,6 +17329,7 @@ EndChar
 StartChar: rrvocalicvowel
 Encoding: 3396 3396 253
 Width: 345
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -17251,7 +17395,10 @@ EndChar
 StartChar: nnnamlm
 Encoding: 3369 3369 254
 Width: 1012
+GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 550 650 basechar 0
+AnchorPoint: "anchor2" 970 598 basechar 0
 AnchorPoint: "anchor-2" 970 597.5 basechar 0
 AnchorPoint: "anchor-1" 550 650 basechar 0
 LayerCount: 2
@@ -17305,7 +17452,9 @@ EndChar
 StartChar: tttamlm
 Encoding: 3386 3386 255
 Width: 914
+GlyphClass: 2
 Flags: W
+AnchorPoint: "anchor1" 470 650 basechar 0
 AnchorPoint: "anchor-1" 470 650 basechar 0
 LayerCount: 2
 Fore
@@ -17329,6 +17478,7 @@ Encoding: 3406 3406 256
 Width: 0
 GlyphClass: 4
 Flags: W
+AnchorPoint: "anchor1" -131 670 mark 0
 AnchorPoint: "anchor-1" -131 670 mark 0
 LayerCount: 2
 Fore
