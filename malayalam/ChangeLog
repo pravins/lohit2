@@ -2,18 +2,18 @@
 Current Version :- 2.5.3
 
 * Mon Jan 6 2014 Sneha Kore <skore@redhat.com> - 2.5.3 : 
-- fixing of bugs on fedora : 
+- Fixing of bugs on fedora : 
 	- Wrong rendering for റ്റ് in Lohit Malayalam {bug id  : 995790}
 	- Unicode standard sequence for stacked chillu-N and RRA not supported in Lohit Malayalam  {bug id 1016984}
 - Lohit-Malayalam testing on W8 
 - Lookups added for psts feature tag (post-base substitution feature)
-- tested Lohit Malayalam on utrrs http://utrrs-testing.rhcloud.com/language/ml/gsub
-- done with Malayalam lookup writing https://github.com/pravins/lohit2/tree/master/malayalam
-- testfile completion
-- lookup for half feature tag added with inclusion chillu characters
--Lookups for akhand & pref features added to Lohit-Malayalam
+- Tested Lohit Malayalam on utrrs http://utrrs-testing.rhcloud.com/language/ml/gsub
+- Done with Malayalam lookup writing https://github.com/pravins/lohit2/tree/master/malayalam
+- Testfile completion
+- Lookup for half feature tag added with inclusion chillu characters
+- Lookups for akhand & pref features added to Lohit-Malayalam
 - GSUB cleanup for Lohit-Malayalam
-- anchor-2 added to 36 (from u0d15 to u0d39) glyphs  & 7 more glyphs 
+- Anchor-2 added to 36 (from u0d15 to u0d39) glyphs  & 7 more glyphs 
 - 38 glyphs removed which are no longer used (for more details, README file is updated )
 - Corrected width of U+0D74 character
 
