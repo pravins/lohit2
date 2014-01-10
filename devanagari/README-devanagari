@@ -1,22 +1,56 @@
+
 This readme is specifically for Lohit Devanagari. For instruction on installation and other stuff open README
-- To generate ttf from feature file
+	- To generate ttf from feature file
 
-Known Issue:
-	- Ligature starting with name ivowelsigndeva_* are not enabled due to problem with Harfbuzz NG. 
-    	- https://bugs.freedesktop.org/show_bug.cgi?id=69266
-
-Glyphs not in used:
+Glyphs not in use:
 	- yapostdeva
 	- nadeva_viramadeva_alt
+	- viramadeva_radeva_alt	
 	- glyph244
        
 Glyph naming guidelines:
 	- AGL guidelines are followed https://sourceforge.net/adobe/aglfn/wiki/Home/
 	- For some discussion happened regarding using proper names can be found at https://sourceforge.net/adobe/aglfn/discussion/discussion/thread/f212153e/
-	- Presently lohit following http://kaz.dl.sourceforge.net/project/aglfn.adobe/glyphlist.txt
+	- Presently lohit following http://kaz.dl.sourceforge.net/project/aglfn.adobe/glyphlist.txt with some exceptions
 	- Though uniXXXX is recommended by AGL, we are using glyphlist for easy maintainance and reusability of Feature file
 
+Glyphs Exceeding 31 Character Limit :
+
+	-isign_ra_virama_anusvara
+	-isigndeva_ra_virama.alt1
+	-isign_ra_virama_anusvara.alt1	
+	-isigndeva_ra_virama.alt2
+	-isign_ra_virama_anusvara.alt2	
+	-isigndeva_ra_virama.alt3
+	-isign_ra_virama_anusvara.alt3	
+	-isigndeva_ra_virama.alt4
+	-isign_ra_virama_anusvara.alt4	
+	-isigndeva_ra_virama.tha
+	-isign_ra_virama_anusvara.tha	
+	-isigndeva_ra_virama.ja
+	-isign_ra_virama_anusvara.ja
+	-iisign_ra_virama_anusvara
+	-iisigndeva_ra_virama_.alt1
+	-iisigndeva_ra_virama_anusvara.alt1	
+	-da_dha_ra_ya
+	
+Usage of matras additionally included : 
+
+	isigndeva.alt1 :  खि ख़ि त्ति ग्गि ग़्गि ख्रि स्रि ह्यि लि 
+
+	isigndeva.alt2 : क्गि ख्गि ग्कि घ्कि ङ्चि च्छि छ्गि ज्कि झ्ति ञ्ति ट्ति ठ्ति ड्ति ढ्ति ण्ति त्कि थ्कि द्कि ध्कि न्कि प्कि फ्कि ब्कि भ्कि म्कि य्कि ल्कि व्कि श्कि ष्खि स्कि ळ्कि क्ष्कि ज्ञ्कि ड्यि ढ्यि ऩ्कि  ळ्कि क़्कि ख़्कि ज्कि फ़्कि श्कि त्त्खि ट्यि ठ्यि द्ध्र्यि स्ञि
+
+	isigndeva.alt3 : रि ऱि
+
+	isigndeva.alt4 : घि ङि चि डि ति धि यि क्षि ङ्कि ङ्खि ङ्गि ङ्घि ङ्क्षि च्चि छ्वि ड्डि ड्ढि द्घि द्धि न्नि श्चि श्वि श्नि श्लि घ्रि च्रि ध्रि न्रि प्रि क्ष्रि 
+		
+	isigndeva.tha :  छि णि थि भि ळि ऴि शि श्रि ज्ञि भ्रि थ्रि ज्ञ्रि शि
+
+	isigndeva.ja : जि झि ञि सि ज्रि झ्रि ञ्चि ञ्जि द्मि द्यि ल्लि ह्मि लि
+
+
 Glyph names are as follows, please check sfd file for actual shapes
+ 
 * candrabinduinverteddeva
 * candrabindudeva
 * anusvaradeva
@@ -28,14 +62,14 @@ Glyph names are as follows, please check sfd file for actual shapes
 * iideva
 * udeva
 * uudeva
-* vocalicrdeva
-* vocalicldeva
-* candraedeva
-* shortedeva
+* rvocalicdeva
+* lvocalicdeva
+* ecandradeva
+* eshortdeva
 * edeva
 * aideva
-* candraodeva
-* shortodeva
+* ocandradeva
+* oshortdeva
 * odeva
 * audeva
 * kadeva
@@ -75,36 +109,36 @@ Glyph names are as follows, please check sfd file for actual shapes
 * ssadeva
 * sadeva
 * hadeva
-* oevowelsigndeva
-* ooevowelsigndeva
+* oesigndeva
+* ooesigndeva
 * nuktadeva
 * avagrahadeva
-* aavowelsigndeva
-* ivowelsigndeva
-* iivowelsigndeva
-* uvowelsigndeva
-* uuvowelsigndeva
-* rvocalicvowelsigndeva
-* rrvocalicvowelsigndeva
-* ecandravowelsigndeva
-* eshortvowelsigndeva
-* evowelsigndeva
-* aivowelsigndeva
-* ocandravowelsigndeva
-* oshortvowelsigndeva
-* ovowelsigndeva
-* auvowelsigndeva
+* aasigndeva
+* isigndeva
+* iisigndeva
+* usigndeva
+* uusigndeva
+* rvocalicsigndeva
+* rrvocalicsigndeva
+* ecandrasigndeva
+* eshortsigndeva
+* esigndeva
+* aisigndeva
+* ocandrasigndeva
+* oshortsigndeva
+* osigndeva
+* ausigndeva
 * viramadeva
-* eprishthamatravowelsigndeva
-* awvowelsigndeva
+* eprishthamatrasigndeva
+* awsigndeva
 * omdeva
 * udattadeva
 * anudattadeva
 * gravedeva
 * acutedeva
-* longecandravowelsigndeva
-* uevowelsigndeva
-* uuevowelsigndeva
+* ecandralongsigndeva
+* uesigndeva
+* uuesigndeva
 * qadeva
 * khhadeva
 * ghhadeva
@@ -115,10 +149,10 @@ Glyph names are as follows, please check sfd file for actual shapes
 * yyadeva
 * rrvocalicdeva
 * llvocalicdeva
-* lvocalicvowelsigndeva
-* llvocalicvowelsigndeva
-* dandadeva
-* dbldandadeva
+* lvocalicsigndeva
+* llvocalicsigndeva
+* danda
+* dbldanda
 * zerodeva
 * onedeva
 * twodeva
@@ -139,13 +173,19 @@ Glyph names are as follows, please check sfd file for actual shapes
 * uuedeva
 * zhadeva
 * yaheavydeva
-* gabardeva
-* jabardeva
+* ggadeva
+* jjadeva
 * glottalstopdeva
 * dddadeva
 * bbadeva
 * zerowidthnonjoiner
-* zerowidthjoiner
+* endash
+* emdash
+* quoteleft
+* quoteright
+* quotedblleft
+* quotedblright
+* ellipsis
 * inr_currency
 * minus
 * dottedcircle
@@ -177,17 +217,17 @@ Glyph names are as follows, please check sfd file for actual shapes
 * gapfillerdeva
 * caretdeva
 * headstrokedeva
-* extendedisigndeva
-* evowelsigndeva_anusvaradeva
-* evowelsigndeva_rphfdeva
-* evowel_rphf_anuswaradeva
-* aivowelsigndeva_anusvaradeva
-* aivowelsigndeva_rphfdeva
-* aivowelsign_rphf_anuswaradeva
-* rphfdeva
-* rphfdeva_anuswaradeva
+* isigndeva.alt1
+* esigndeva_anusvaradeva
+* esign_ra_virama.alt1
+* esign_ra_virama_anusvara
+* aisigndeva_anusvaradeva
+* aisign_ra_virama.alt1
+* aisign_ra_virama_anusvara
+* radeva_viramadeva
+* radeva_viramadeva_anusvaradeva
 * viramadeva_radeva_alt
-* vatudeva
+* viramadeva_radeva
 * shadeva_viramadeva_radeva
 * phadeva_radeva_nuktadeva
 * tadeva_viramadeva_tadeva
@@ -220,8 +260,8 @@ Glyph names are as follows, please check sfd file for actual shapes
 * bhadeva_viramadeva
 * madeva_viramadeva
 * yadeva_viramadeva
-* extendedivowelsigndeva
-* extendedivowelsign_anuswaradeva
+* isigndeva.alt2
+* isigndeva_anusvara.alt2
 * ladeva_viramadeva
 * lladeva_viramadeva
 * llladeva_viramadeva
@@ -236,29 +276,29 @@ Glyph names are as follows, please check sfd file for actual shapes
 * zadeva_viramadeva
 * fadeva_viramadeva
 * shadeva_viramadeva_alt
-* ta_virama_ra_virama_deva
+* ta_virama_ra_viramadeva
 * ta_virama_ta_viramadeva
 * ka_virama_ssa_viramadeva
 * ja_virama_nya_viramadeva
-* ivowelsigndeva_anusvaradeva
-* ivowelsigndeva_rphfdeva
-* ivowel_rphf_anusvaradeva
-* shortiiivowelsigndeva
-* shortiiivowel_anuswaradeva
-* shortiiivowelsign_rphf
-* shortiiivowel_rphf_anusvara
-* iivowelsigndeva_anusvaradeva
-* iivowelsigndeva_rphfdeva
-* iivowelsign_rphf_anusvaradeva
-* extendediideva
-* extendediideva_anusvaradeva
-* extendediideva_rphfdeva
-* extendedii_rphf_anusvaradeva
+* isigndeva_anusvaradeva
+* isign_ra_virama
+* isign_ra_virama_anusvara
+* isigndeva.alt3
+* isigndeva_anusvaradeva.alt3
+* isign_ra_virama.alt3
+* isign_ra_virama_anusvara.alt3
+* iisigndeva_anusvaradeva
+* iisigndeva_ra_virama
+* iisign_ra_virama_anusvara
+* iisigndeva.alt1
+* iisigndeva_anusvaradeva.alt1
+* iisigndeva_ra_virama.alt1
+* iisign_ra_virama_anusvara.alt1
 * vattudeva_ulowdeva
 * vattudeva_uulowdeva
 * glyph244
-* yapostdeva
-* radeva_viramadeva
+* yadeva_alt
+* radeva_viramadeva.alt
 * kadeva_viramadeva_radeva
 * khadeva_viramadeva_radeva
 * gadeva_viramadeva_radeva
@@ -274,9 +314,9 @@ Glyph names are as follows, please check sfd file for actual shapes
 * vadeva_viramadeva_radeva
 * sadeva_viramadeva_radeva
 * hadeva_viramadeva_radeva
-* sha_virama_rvocalicvoweldeva
+* sha_virama_rvocalicdeva
 * kadeva_viramadeva_kadeva
-* ta_virama_ta_virama_kadeva
+* kadeva_viramadeva_tadeva
 * kadeva_viramadeva_ladeva
 * kadeva_viramadeva_vadeva
 * gadeva_viramadeva_nadeva
@@ -293,7 +333,7 @@ Glyph names are as follows, please check sfd file for actual shapes
 * nyadeva_viramadeva_jadeva
 * ttadeva_viramadeva_ttadeva
 * ttadeva_viramadeva_tthadeva
-* ttadeva_viraamdeva_yadeva
+* ttadeva_viramadeva_yadeva
 * ttadeva_viramadeva_vadeva
 * tthadeva_viraamdeva_tthadeva
 * tthadeva_viraamdeva_yadeva
@@ -302,15 +342,15 @@ Glyph names are as follows, please check sfd file for actual shapes
 * ddadeva_viramadeva_yadeva
 * ddhadeva_viramadeva_ddhadeva
 * ddhadeva_viramadeva_yadeva
-* dadeva_viraamdeva_gadeva
+* dadeva_viramadeva_gadeva
 * dadeva_viramadeva_ghadeva
 * dadeva_viramadeva_dadeva
 * dadeva_viramadeva_dhadeva
 * dadeva_viramadeva_nadeva
 * dadeva_viramadeva_badeva
 * dadeva_viramadeva_bhadeva
-* dadeva_viraamdeva_madeva
-* dadeva_viraamdeva_yadeva
+* dadeva_viramadeva_madeva
+* dadeva_viramadeva_yadeva
 * dadeva_viramadeva_vadeva
 * nadeva_viramadeva_nadeva
 * padeva_viramadeva_tadeva
@@ -331,9 +371,9 @@ Glyph names are as follows, please check sfd file for actual shapes
 * hadeva_viramadeva_vadeva
 * sa_virama_ta_virama_radeva
 * ja_virama_ja_viramadeva
-* dadeva_rvocalicvowelsigndeva
-* radeva_uvowelsigndeva
-* radeva_uuvowelsigndeva
+* dadeva_rvocalicsigndeva
+* radeva_usigndeva
+* radeva_uusigndeva
 * hadeva_rvocalicdeva
 * nadeva_viramadeva_alt
 * ghadeva_viramadeva_radeva
@@ -343,25 +383,44 @@ Glyph names are as follows, please check sfd file for actual shapes
 * nadeva_viramadeva_radeva
 * ladeva_viramadeva_radeva
 * nga_virama_ka_viramadeva
-* ovowelsigndeva_anusvaradeva
-* ovowelsigndeva_rphfdeva
-* ovowelsign_rphf_anusvaradeva
-* auvowelsigndeva_anusvaradeva
-* auvowelsigndeva_rphfdeva
-* auvowelsign_rphf_anusvaradeva
+* osigndeva_anusvaradeva
+* osign_ra_virama.alt1
+* osign_ra_virama_anusvara
+* ausigndeva_anusvaradeva
+* ausign_ra_virama.alt1
+* ausign_ra_virama_anusvara
 * nyadeva_viramadeva_radeva
 * nnadeva_viramadeva_radeva
 * yadeva_viramadeva_radeva
 * ssadeva_viramadeva_radeva
 * ka_virama_ssa_virama_radeva
 * ja_virama_nya_virama_radeva
-* nep_kadeva_viramadeva_radeva
-* nep_eightdeva
-* nep_fivedeva
-* nep_zhadeva
-* daddharayadeva
-* nep_jhadeva
-* nep_jhadeva_viramadeva
-* mr_ladeva
-* mr_shadeva
-* mr_shadeva_viramadeva
+* kadeva_viramadeva_radeva.np
+* eightdeva.np
+* fivedeva.np
+* zhadeva.np
+* da_ddha_ra_yadeva
+* jhadeva.np
+* nep_jha_virama
+* ladeva.mr
+* shadeva.mr
+* shadeva_viramadeva.mr
+* zerowidthjoiner
+* ba_virama_ra_viramadeva
+* isign_ra_virama.alt2
+* isign_ra_virama_anusvara.alt2
+* isigndeva_anusvaradeva.alt4
+* isigndeva.alt4
+* isign_ra_virama.alt4
+* isign_ra_virama_anusvara.alt4
+* isigndeva_anusvara.alt1
+* isign_ra_virama.alt1
+* isign_ra_virama_anusvara.alt1
+* isigndeva_anusvara.tha
+* isign_ra_virama_anusvara.tha
+* isign_ra_virama.tha
+* isigndeva.tha
+* isigndeva.ja
+* isigndeva_anusvaradeva.ja
+* isign_ra_virama.ja
+* isign_ra_virama_anusvara.ja
