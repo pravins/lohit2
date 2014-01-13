@@ -15079,8 +15079,8 @@ SplineSet
  42 201 42 201 42 293 c 1,104,-1
  42 293 l 1,13,14
 EndSplineSet
-Ligature2: "'akhn' Akhand lookup 0 subtable" chillunmlm viramamlm rramlm
 Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm rramlm
+Ligature2: "'akhn' Akhand lookup 0 subtable" chillunmlm viramamlm rramlm
 EndChar
 
 StartChar: sa_rra_virama_rra_virama
