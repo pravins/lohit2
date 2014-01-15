@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159495707
-ModificationTime: 1389597358
+ModificationTime: 1389768803
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -51,6 +51,7 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'ACE '
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 0"  {"'nukt' Nukta Forms lookup 0-1"  } ['nukt' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms lookup 1"  {"'blwf' Below Base Forms lookup 1-1"  } ['blwf' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark lookup 2"  {"'blwm' Below Base Mark lookup 2-1"  } ['blwm' ('guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Gurmukhi lookup 0"  {"'abvm' Above Base Mark in Gurmukhi lookup 0 subtable"  } ['abvm' ('guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Gurmukhi lookup 1"  {"'abvm' Above Base Mark in Gurmukhi lookup 1 subtable"  } ['abvm' ('guru' <'dflt' > ) ]
@@ -6879,6 +6880,7 @@ SplineSet
  -295 -99 -295 -99 -280.5 -84.5 c 128,-1,1
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms lookup 1-1" haguru viramaguru
 LCarets2: 1 0 
 EndChar
 
@@ -6920,6 +6922,7 @@ SplineSet
  -315 -65 -315 -65 -294.5 -47.5 c 128,-1,1
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms lookup 1-1" vaguru viramaguru
 LCarets2: 1 0 
 EndChar
 
@@ -6948,6 +6951,7 @@ SplineSet
  -210 -98 -210 -98 -189.5 -79 c 128,-1,1
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms lookup 1-1" raguru viramaguru
 EndChar
 
 StartChar: eevowelguru_bindiguru.abvs

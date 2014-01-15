@@ -14,7 +14,8 @@ Dead Consonant Rule :
 				ക ് ല -> ക്ല
 				ക ് വ -> ക്വ
 				വ ് വ -> വ്വ
-
+				ക ് ള -> ക്ള     	
+				ല ് ല -> ല്ല
 Ligature Rule :
 				ഗ ് ഗ -> ഗ്ഗ
 				ഡ ് ഡ -> ‍ ഡ്ഡ
@@ -23,7 +24,7 @@ Ligature Rule :
 				ശ ് ശ -> ശ്ശ
 				സ ് സ -> സ്സ
 				റ ് റ -> റ്റ
-				ഡ ് റ ് റ -> സ്റ്റ
+				സ ് റ ് റ -> സ്റ്റ
 
 			(a)	ട ് ട -> ട്ട
 				ദ ് ദ -> ദ്ദ
@@ -68,7 +69,6 @@ Complex Consonant Conjuncts :
 
 
 conjuncts : 
-	
 				ക ് ക ->ക്ക 
 				ച ് ച -> ച്ച
 				ട ് ട -> ട്ട
@@ -113,14 +113,14 @@ conjuncts :
 				മ ് പ -> മ്പ
 				ന ് മ -> ന്മ
 				ന ് റ -> ന്റ
-				ബ ് ദ -> ബദ
+				ബ ് ദ -> ബ്ദ
 				ബ ് ധ -> ബ്ധ
 				ശ ് ച -> ശ്ച
 				ഷ ് ട -> ഷ്ട
 				സ ് ഥ -> സ്ഥ
 				ഹ ് ന -> ഹ്ന
 				ഹ ് മ -> ഹ്മ
-
+				
 alternate conjuncts :
 	
 				ക ് ക -> ക്ക
@@ -137,13 +137,12 @@ Characters where YAKAR, LAKAR, VAKAR combinations wouldn't come after chillu cha
 				ൺ ല -> ൺല
 
 Rendering order : 
-
 				ക ാ -> കാ
 				ക െ -> കെ
 				ക ൈ -> കൈ
 				ക ൊ -> കൊ
 				ക ോ -> കോ
-
+				ക ൌ -> കൌ
 
 Glyph Testing : 
 
