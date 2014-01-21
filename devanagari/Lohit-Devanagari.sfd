@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1380641824
+ModificationTime: 1389882688
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -92,22 +92,22 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: glyph "PstsSub_Chain_Eyelash-1"  0 0 0 4
  String: 18 rradeva viramadeva
- BString: 0
+ BString: 0 
  FString: 6 yadeva
  1
   SeqLookup: 0 "Ligature Substitution lookup 28" 
  String: 18 rradeva viramadeva
- BString: 0
+ BString: 0 
  FString: 6 hadeva
  1
   SeqLookup: 0 "Ligature Substitution lookup 28" 
  String: 24 rphfdeva zerowidthjoiner
- BString: 0
+ BString: 0 
  FString: 6 yadeva
  1
   SeqLookup: 0 "Ligature Substitution lookup 28" 
  String: 24 rphfdeva zerowidthjoiner
- BString: 0
+ BString: 0 
  FString: 6 hadeva
  1
   SeqLookup: 0 "Ligature Substitution lookup 28" 
@@ -441,7 +441,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 0 34 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -11290,7 +11290,7 @@ EndChar
 StartChar: ta_virama_ra_viramadeva
 Encoding: 65597 -1 274
 Width: 371
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
