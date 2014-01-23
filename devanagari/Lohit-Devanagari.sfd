@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1390375732
+ModificationTime: 1390394631
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -4691,7 +4691,7 @@ StartChar: sadeva
 Encoding: 2360 2360 105
 Width: 709
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor3" 576 665 basechar 0
 AnchorPoint: "Anchor3" 576 665 basechar 0
 LayerCount: 2
@@ -4727,7 +4727,7 @@ SplineSet
  310 405 310 405 304 386 c 1,24,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable" 
 EndChar
 
 StartChar: hadeva
@@ -4937,13 +4937,13 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
-Substitution2: "Single Substitution lookup 23 subtable" isigndeva.ja
-Substitution2: "Single Substitution lookup 21 subtable" isigndeva.tha
-Substitution2: "Single Substitution lookup 19 subtable" isigndeva.alt4
-Substitution2: "Single Substitution lookup 17 subtable" isigndeva.alt2
-Substitution2: "Single Substitution lookup 15 subtable" isigndeva.alt3
+Kerns2: 51 0 "abvmAboveBaseMarklookup4 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable" 
 Substitution2: "Single Substitution lookup 14 subtable" isigndeva.alt1
+Substitution2: "Single Substitution lookup 15 subtable" isigndeva.alt3
+Substitution2: "Single Substitution lookup 17 subtable" isigndeva.alt2
+Substitution2: "Single Substitution lookup 19 subtable" isigndeva.alt4
+Substitution2: "Single Substitution lookup 21 subtable" isigndeva.tha
+Substitution2: "Single Substitution lookup 23 subtable" isigndeva.ja
 EndChar
 
 StartChar: iisigndeva
@@ -11084,7 +11084,7 @@ EndChar
 StartChar: isigndeva_anusvara.alt2
 Encoding: 65582 -1 259
 Width: 266
-GlyphClass: 4
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -11120,7 +11120,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 anusvaradeva
-LCarets2: 1 0 
 EndChar
 
 StartChar: ladeva_viramadeva
@@ -11278,7 +11277,7 @@ EndChar
 StartChar: vadeva_viramadeva
 Encoding: 65586 -1 263
 Width: 346
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
@@ -11309,6 +11308,7 @@ SplineSet
  265 146 265 146 226 146 c 0,4,5
 EndSplineSet
 Validated: 1
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" vadeva viramadeva
 EndChar
 
@@ -19283,10 +19283,8 @@ EndChar
 StartChar: isign_ra_virama.alt2
 Encoding: 65537 -1 405
 Width: 266
-GlyphClass: 4
+GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor3" 1193 676 mark 0
-AnchorPoint: "Anchor3" 1193 676 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19330,7 +19328,7 @@ SplineSet
  100 606 l 1,54,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 1
+LCarets2: 1 0 
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 radeva_viramadeva
 EndChar
 
@@ -19386,7 +19384,6 @@ SplineSet
  1200 771 l 1,53,-1
 EndSplineSet
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 radeva_viramadeva anusvaradeva
-LCarets2: 2 0 0 
 EndChar
 
 StartChar: isigndeva_anusvaradeva.alt4
