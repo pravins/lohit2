@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159524182
-ModificationTime: 1390462806
+ModificationTime: 1390806617
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,30 +63,9 @@ Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 6"  {"'blws' Below Base Su
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 7"  {"'psts' Post Base Substitutions lookup 7 subtable"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 6 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam2 lookup 8"  {"'psts' Post Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable"  } ['psts' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 9"  {"Ligature Substitution lookup 9 subtable"  } []
-Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 10"  {"'psts' Post Base Substitutions lookup 10 subtable"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 11"  {"Single Substitution lookup 11 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 12"  {"Single Substitution lookup 12 subtable"  } []
 Lookup: 260 0 0 "'abvm' Above Base Mark lookup 0"  {"'abvm' Above Base Mark lookup 0 subtable"  } ['abvm' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: class "'psts' Post Base Substitutions lookup 10 subtable"  3 3 3 1
-  Class: 34 rramlm_viramamlm lllamlm_viramamlm
-  Class: 5 lamlm
-  BClass: 34 rramlm_viramamlm lllamlm_viramamlm
-  BClass: 5 lamlm
-  FClass: 34 rramlm_viramamlm lllamlm_viramamlm
-  FClass: 5 lamlm
- 2 0 0
-  ClsList: 1 2
-  BClsList:
-  FClsList:
- 2
-  SeqLookup: 0 "Single Substitution lookup 11" 
-  SeqLookup: 1 "Single Substitution lookup 12" 
-  ClassNames: "0"  "1"  "2"  
-  BClassNames: "0"  "1"  "2"  
-  FClassNames: "0"  "1"  "2"  
-EndFPST
 ChainSub2: class "'psts' Post Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable"  4 4 4 1
   Class: 14 rramlm lllamlm
   Class: 9 viramamlm
@@ -326,6 +305,8 @@ DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 38 14
+BeginPrivate: 0
+EndPrivate
 Grid
 657 866 m 5
  688.333 847.333 704 821 704 787 c 132
@@ -3778,7 +3759,6 @@ SplineSet
  38 175 38 175 38 257 c 1,69,-1
  38 257 l 1,10,11
 EndSplineSet
-Substitution2: "Single Substitution lookup 12 subtable" viramamlm_lamlm
 EndChar
 
 StartChar: lllamlm

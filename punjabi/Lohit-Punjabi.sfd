@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159495707
-ModificationTime: 1389768803
+ModificationTime: 1390467412
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -50,6 +50,7 @@ OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'ACE '
+Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 0"  {"'nukt' Nukta Forms lookup 0-1"  } ['nukt' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 1"  {"'blwf' Below Base Forms lookup 1-1"  } ['blwf' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark lookup 2"  {"'blwm' Below Base Mark lookup 2-1"  } ['blwm' ('guru' <'dflt' > ) ]
@@ -495,12 +496,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 293164 146582 97721 0 1048576 97721 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-2"  "'blwm' Below Base Mark lookup 2-1" "Anchor-0"  "'abvm' Above Base Mark in Gurmukhi lookup 1 subtable" "Anchor-1"  "'abvm' Above Base Mark in Gurmukhi lookup 0 subtable" 
-BeginChars: 65555 167
+BeginChars: 65555 166
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -6986,55 +6987,11 @@ SplineSet
  -110 704 -110 704 -97 717 c 128,-1,17
 EndSplineSet
 Validated: 1
-EndChar
-
-StartChar: aivowelguru_bindiguru.abvs
-Encoding: 65548 -1 147
-Width: 0
-GlyphClass: 4
-Flags: W
-AnchorPoint: "Anchor-1" -110 496 mark 0
-LayerCount: 2
-Fore
-SplineSet
--394.5 738.5 m 128,-1,1
- -374 750 -374 750 -345 750 c 0,2,3
- -280 750 -280 750 -212 687.5 c 128,-1,4
- -144 625 -144 625 -95 520 c 1,5,-1
- -125 520 l 1,6,7
- -149 544 -149 544 -181.5 557 c 128,-1,8
- -214 570 -214 570 -250 570 c 0,9,10
- -270 570 -270 570 -307.5 557.5 c 128,-1,11
- -345 545 -345 545 -365 545 c 0,12,13
- -382 545 -382 545 -393.5 554 c 128,-1,14
- -405 563 -405 563 -405 575 c 0,15,16
- -405 592 -405 592 -380 603.5 c 128,-1,17
- -355 615 -355 615 -320 615 c 0,18,19
- -265 615 -265 615 -214.5 595.5 c 128,-1,20
- -164 576 -164 576 -125 540 c 1,21,22
- -167 612 -167 612 -215 653.5 c 128,-1,23
- -263 695 -263 695 -305 695 c 0,24,25
- -316 695 -316 695 -337.5 690 c 128,-1,26
- -359 685 -359 685 -370 685 c 0,27,28
- -389 685 -389 685 -402 692.5 c 128,-1,29
- -415 700 -415 700 -415 710 c 0,30,0
- -415 727 -415 727 -394.5 738.5 c 128,-1,1
--92 692 m 128,-1,32
- -79 705 -79 705 -60 705 c 256,33,34
- -41 705 -41 705 -28 692 c 128,-1,35
- -15 679 -15 679 -15 660 c 256,36,37
- -15 641 -15 641 -28 628 c 128,-1,38
- -41 615 -41 615 -60 615 c 256,39,40
- -79 615 -79 615 -92 628 c 128,-1,41
- -105 641 -105 641 -105 660 c 256,42,31
- -105 679 -105 679 -92 692 c 128,-1,32
-EndSplineSet
-Validated: 1
-LCarets2: 1 0 
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" eevowelguru bindiguru
 EndChar
 
 StartChar: oovowelguru_bindiguru.abvs
-Encoding: 65549 -1 148
+Encoding: 65549 -1 147
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -7068,10 +7025,11 @@ SplineSet
  -85 679 -85 679 -72 692 c 128,-1,21
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" oovowelguru bindiguru
 EndChar
 
 StartChar: auvowelguru_bindiguru.abvs
-Encoding: 65550 -1 149
+Encoding: 65550 -1 148
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -7115,10 +7073,11 @@ SplineSet
  -15 714 -15 714 -2 727 c 128,-1,36
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" auvowelguru bindiguru
 EndChar
 
 StartChar: iivowelguru_bindiguru.abvs
-Encoding: 65551 -1 150
+Encoding: 65551 -1 149
 Width: 230
 GlyphClass: 2
 Flags: W
@@ -7159,11 +7118,12 @@ SplineSet
  -140 628 -140 628 -99 669 c 128,-1,13
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" iivowelguru bindiguru
 LCarets2: 1 0 
 EndChar
 
 StartChar: glyph147
-Encoding: 65552 -1 151
+Encoding: 65552 -1 150
 Width: 198
 GlyphClass: 2
 Flags: W
@@ -7189,7 +7149,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph148
-Encoding: 65553 -1 152
+Encoding: 65553 -1 151
 Width: 298
 GlyphClass: 2
 Flags: W
@@ -7231,7 +7191,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph149
-Encoding: 65554 -1 153
+Encoding: 65554 -1 152
 Width: 542
 GlyphClass: 2
 Flags: W
@@ -7291,7 +7251,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: udaatguru
-Encoding: 2641 2641 154
+Encoding: 2641 2641 153
 Width: 0
 Flags: W
 AnchorPoint: "Anchor-2" -47 0 mark 0
@@ -7309,7 +7269,7 @@ Validated: 33
 EndChar
 
 StartChar: yakashguru
-Encoding: 2677 2677 155
+Encoding: 2677 2677 154
 Width: 0
 Flags: W
 AnchorPoint: "Anchor-2" -150 4 mark 0
@@ -7328,7 +7288,7 @@ Validated: 33
 EndChar
 
 StartChar: iivowelguru_tippiguru.abvs
-Encoding: 65538 -1 156
+Encoding: 65538 -1 155
 Width: 230
 Flags: W
 LayerCount: 2
@@ -7378,11 +7338,12 @@ SplineSet
  -140 628 -140 628 -99 669 c 128,-1,27
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" iivowelguru tippiguru
 LCarets2: 1 0 
 EndChar
 
 StartChar: iivowelguru_addakguru.abvs
-Encoding: 65537 -1 157
+Encoding: 65537 -1 156
 Width: 230
 Flags: W
 LayerCount: 2
@@ -7424,11 +7385,12 @@ SplineSet
  -140 628 -140 628 -99 669 c 128,-1,15
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" iivowelguru addakguru 
 LCarets2: 1 0 
 EndChar
 
 StartChar: eevowelguru_addakguru.abvs
-Encoding: 65528 -1 158
+Encoding: 65528 -1 157
 AltUni2: 00fff8.ffffffff.0 00fff8.ffffffff.0
 Width: 0
 Flags: W
@@ -7461,10 +7423,11 @@ SplineSet
  -405 694 -405 694 -384.5 707 c 128,-1,15
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" eevowelguru addakguru
 EndChar
 
 StartChar: aivowelguru_addakguru.abvs
-Encoding: 65529 -1 159
+Encoding: 65529 -1 158
 AltUni2: 00fff9.ffffffff.0 00fff9.ffffffff.0
 Width: 0
 Flags: W
@@ -7507,10 +7470,11 @@ SplineSet
  -415 727 -415 727 -394.5 738.5 c 128,-1,15
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" aivowelguru addakguru
 EndChar
 
 StartChar: oovowelguru_addakguru.abvs
-Encoding: 65530 -1 160
+Encoding: 65530 -1 159
 AltUni2: 00fffa.ffffffff.0 00fffa.ffffffff.0
 Width: 0
 Flags: W
@@ -7546,10 +7510,11 @@ SplineSet
  -375 695 l 1,14,15
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" oovowelguru addakguru
 EndChar
 
 StartChar: auvowelguru_addakguru.abvs
-Encoding: 65531 -1 161
+Encoding: 65531 -1 160
 AltUni2: 00fffb.ffffffff.0 00fffb.ffffffff.0
 Width: 0
 Flags: W
@@ -7595,10 +7560,11 @@ SplineSet
  -205 626 -205 626 -202.5 636 c 128,-1,15
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" auvowelguru addakguru
 EndChar
 
 StartChar: eevowelguru_tippiguru.abvs
-Encoding: 65524 -1 162
+Encoding: 65524 -1 161
 AltUni2: 00fff4.ffffffff.0 00fff4.ffffffff.0
 Width: 0
 Flags: W
@@ -7639,10 +7605,11 @@ SplineSet
  -405 694 -405 694 -384.5 707 c 128,-1,27
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" eevowelguru tippiguru
 EndChar
 
 StartChar: aivowelguru_tippiguru.abvs
-Encoding: 65525 -1 163
+Encoding: 65525 -1 162
 AltUni2: 00fff5.ffffffff.0 00fff5.ffffffff.0
 Width: 0
 Flags: W
@@ -7693,10 +7660,11 @@ SplineSet
  -415 727 -415 727 -394.5 738.5 c 128,-1,27
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" aivowelguru tippiguru
 EndChar
 
 StartChar: oovowelguru_tippiguru.abvs
-Encoding: 65526 -1 164
+Encoding: 65526 -1 163
 AltUni2: 00fff6.ffffffff.0 00fff6.ffffffff.0
 Width: 0
 Flags: W
@@ -7740,10 +7708,11 @@ SplineSet
  -375 695 l 1,26,27
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" oovowelguru tippiguru
 EndChar
 
 StartChar: auvowelguru_tippiguru.abvs
-Encoding: 65527 -1 165
+Encoding: 65527 -1 164
 AltUni2: 00fff7.ffffffff.0 00fff7.ffffffff.0
 Width: 0
 Flags: W
@@ -7797,10 +7766,11 @@ SplineSet
  -205 626 -205 626 -202.5 636 c 128,-1,27
 EndSplineSet
 Validated: 1
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" auvowelguru tippiguru
 EndChar
 
 StartChar: inr_currency
-Encoding: 8377 8377 166
+Encoding: 8377 8377 165
 Width: 475
 Flags: W
 LayerCount: 2
