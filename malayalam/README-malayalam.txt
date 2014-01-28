@@ -220,4 +220,7 @@ Malayalam /nr/ And /nt/
 	-  ആൻ്റോ	<0D06,0D7B,0D4D,0D31,0D47,0D3E>	/aantoo/	(proper name)
 	-  എൻോൺ	<0D0E,0D7B,0D31,0D47,0D3E,0D7A>	/enrool/	(enroll - English word)
 
+advantageous over the fonts carrying additional overhead for maintaining the glyphs :
+
+	Some fonts have written lookups which are mapping the 'halant ligatures' with the 'ligature omitting virama sign' for e.g. replacing "rra_virama" with "rra" itself  & then applying the preceeding substitution thereby resulting to additional overhead for maintaining that lookup, meant for replacement, even when there is availability of proper glyph.
 
