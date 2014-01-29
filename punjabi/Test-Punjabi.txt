@@ -1,84 +1,36 @@
-# Test File For Lohit Punjabi
+# Test File For Lohit Punjabi  
 # One can also test Lohit Punjabi from http://utrrs-testing.rhcloud.com/language/pa/gsub
-# Created by Sneha Kore <skore AT redhat DOT com> - 2013
+# Created by Sneha Kore <skore AT redhat DOT com> - 2014
 
-As per Microsoft typography for Developing OpenType Fonts for Punjabi, we followed Gurmukhi Script. The features can be specified in the order given as :
+The alphabets (Sequnenced as per Gurmukhi script details in TDIL ) :
 
-ਅ	
-ਆ
-ਇ
-ਈ
-ਉ
-ਊ
-ਏ
-ਐ
-ਓ
-ਔ 
-ਕ
-ਖ 
-ਗ
-ਘ
-ਙ
-ਚ
-ਛ
-ਜ
-ਝ
-ਞ
-ਟ
-ਠ
-ਡ
-ਢ
-ਣ
-ਤ
-ਥ
-ਦ
-ਧ
-ਨ
-ਪ	
-ਫ
-ਬ
-ਭ
-ਮ
-ਯ
-ਰ
-ਲ
-ਲ਼
-വ
-ਸ਼
-ਸ
-ਹ
-਼
-ਾ
-ਿ
-ੀ
-ੁ  
-ੂ
-ੇ
-ੈ
-ੋ
-ੌ
-੍
-ੑ
-ਖ਼
-ਗ਼
-ਜ਼
-ੜ
-ਫ਼
-੦
-੧
-੨
-੩
-੪
-੫
-੬
-੭
-੮
-੯
-ੰ
-ੱ
-ੲ
-ੳ
-ੴ
-ੵ
-‌    
+	ਕ	ਖ	ਗ	ਘ	ਙ	ਚ	ਛ	ਜ	ਝ	ਞ	ਟ	ਠ	ਡ	ਢ	ਣ	ਤ	ਥ	ਦ	ਧ	ਨ	ਪ	ਫ	ਬ	ਭ	ਮ	ਯ	ਰ	ਲ	ਵ	ਸ	ਹ	ਲ਼	ਅ	ਉ	ਸ਼	ਫ਼	ਗ਼	ਲ਼	ਜ਼	ਖ਼	ਅ	ਆ	ਇ	ਈ	ਉ	ਊ	ਏ	ਐ	ਓ	ਔ	
+
+	ਕ	ਕਾ	ਕੇ	ਕੈ	ਕੋ	ਕੌ	ਕਿ	ਕੀ	ਕੁ	ਕੂ
+
+	੧	੨	੩	੪	੫	੬	੭	੮	੯	੦	
+
+As per Microsoft typography for Developing OpenType Fonts for Gurmukhi Script, the features can be specified in the order given as : 
+
+>>Basic Shaping Forms :
+
+<feature tag > nukt : Nukta form substitution
+			ਗ਼	ਜ਼  	ਖ਼	ਲ਼	 ਫ਼	 ਡ਼	 ਸ਼
+
+<feature tag> blwf : Below-base form substitution
+			ਹ੍ਕ	ਰ੍ਕ	ਵ੍ਕ   
+
+<feature tag> abvs : Above-base substitution
+			ੀੰ  ੀੱ  ੀਂ ੈੰ ੈੱ ੈਂ  ੇੰ  ੇੱ  ੇਂ  ੋੰ  ੋੱ  ੋਂ  ੌੰ  ੌੱ  ੌਂ
+			ਰੀੰ	ਕੀੱ	ਕੀਂ
+			ਕੈੰ	ਕੈੱ	ਕੈਂ
+			ਕੇੰ	ਕੇੱ	ਕੇਂ
+			ਕੋੰ	ਕੋੱ	ਕੋਂ
+			ਕੌੰ	ਕੌੱ	ਕੌਂ
+
+<feature tag> pstf : Post-base form substitution
+			ਕ੍ਯ
+
+<feature tag> vatu : Vattu variants
+			ਕ੍ਰ	ਤ੍ਰ	ਭ੍ਰ	ਦ੍ਰ	ਡ੍ਰ 
 
