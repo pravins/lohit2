@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1390394631
+ModificationTime: 1391080289
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -86,6 +86,8 @@ Lookup: 1 0 0 "Single Substitution lookup 29"  {"Single Substitution lookup 29 s
 Lookup: 4 0 0 "PstsSub_Ligature_Ra"  {"PstsSub_Ligature_Ra subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "LigatureSubstitutionlookup28"  {"LigatureSubstitutionlookup28 subtable"  } []
 Lookup: 6 0 0 "PstsSub_Chain_Eyelash"  {"PstsSub_Chain_Eyelash contextual 0"  "PstsSub_Chain_Eyelash contextual 1"  "PstsSub_Chain_Eyelash contextual 2"  "PstsSub_Chain_Eyelash contextual 3"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
+Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 33"  {"'psts' Post Base Substitutions lookup 33-1"  } ['psts' ('dev2' <'MAR ' 'NEP ' 'dflt' > 'deva' <'MAR ' 'NEP ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 35"  {"Single Substitution lookup 35-1"  } []
 Lookup: 260 0 0 "blwmBelowBaseMarklookup0"  {"blwmBelowBaseMarklookup0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 262 0 0 "abvmAboveBaseMarklookup1"  {"abvmAboveBaseMarklookup1 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 260 0 0 "abvmAboveBaseMarklookup2"  {"abvmAboveBaseMarklookup2 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
@@ -100,6 +102,26 @@ Lookup: 258 0 0 "abvmAboveBaseMarklookup4-0"  {"abvmAboveBaseMarklookup4-0 subta
 Lookup: 258 0 0 "blwmBelowBaseMarklookup5-0"  {"blwmBelowBaseMarklookup5-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: class "'psts' Post Base Substitutions lookup 33-1"  4 4 4 1
+  Class: 595 kadeva_viramadeva khadeva_viramadeva gadeva_viramadeva ghadeva_viramadeva cadeva_viramadeva chadeva_viramadeva jadeva_viramadeva jhadeva_viramadeva nyadeva_viramadeva tadeva_viramadeva thadeva_viramadeva dadeva_viramadeva dhadeva_viramadeva nadeva_viramadeva padeva_viramadeva phadeva_viramadeva badeva_viramadeva bhadeva_viramadeva madeva_viramadeva yadeva_viramadeva ladeva_viramadeva lladeva_viramadeva vadeva_viramadeva shadeva_viramadeva ssadeva_viramadeva sadeva_viramadeva hadeva_viramadeva ta_virama_ra_viramadeva ta_virama_ta_viramadeva ka_virama_ssa_viramadeva ja_virama_nya_viramadeva
+  Class: 6 hadeva
+  Class: 20 isign_ra_virama.alt2
+  BClass: 595 kadeva_viramadeva khadeva_viramadeva gadeva_viramadeva ghadeva_viramadeva cadeva_viramadeva chadeva_viramadeva jadeva_viramadeva jhadeva_viramadeva nyadeva_viramadeva tadeva_viramadeva thadeva_viramadeva dadeva_viramadeva dhadeva_viramadeva nadeva_viramadeva padeva_viramadeva phadeva_viramadeva badeva_viramadeva bhadeva_viramadeva madeva_viramadeva yadeva_viramadeva ladeva_viramadeva lladeva_viramadeva vadeva_viramadeva shadeva_viramadeva ssadeva_viramadeva sadeva_viramadeva hadeva_viramadeva ta_virama_ra_viramadeva ta_virama_ta_viramadeva ka_virama_ssa_viramadeva ja_virama_nya_viramadeva
+  BClass: 6 hadeva
+  BClass: 20 isign_ra_virama.alt2
+  FClass: 595 kadeva_viramadeva khadeva_viramadeva gadeva_viramadeva ghadeva_viramadeva cadeva_viramadeva chadeva_viramadeva jadeva_viramadeva jhadeva_viramadeva nyadeva_viramadeva tadeva_viramadeva thadeva_viramadeva dadeva_viramadeva dhadeva_viramadeva nadeva_viramadeva padeva_viramadeva phadeva_viramadeva badeva_viramadeva bhadeva_viramadeva madeva_viramadeva yadeva_viramadeva ladeva_viramadeva lladeva_viramadeva vadeva_viramadeva shadeva_viramadeva ssadeva_viramadeva sadeva_viramadeva hadeva_viramadeva ta_virama_ra_viramadeva ta_virama_ta_viramadeva ka_virama_ssa_viramadeva ja_virama_nya_viramadeva
+  FClass: 6 hadeva
+  FClass: 20 isign_ra_virama.alt2
+ 1 0 2
+  ClsList: 3
+  BClsList:
+  FClsList: 1 2
+ 1
+  SeqLookup: 0 "Single Substitution lookup 35" 
+  ClassNames: "All_Others"  "1"  "2"  "3"  
+  BClassNames: "All_Others"  "1"  "2"  "3"  
+  FClassNames: "All_Others"  "1"  "2"  "3"  
+EndFPST
 ChainSub2: glyph "PstsSub_Chain_Eyelash contextual 3"  0 0 0 1
  String: 33 viramadeva_radeva zerowidthjoiner
  BString: 0 
@@ -4691,7 +4713,7 @@ StartChar: sadeva
 Encoding: 2360 2360 105
 Width: 709
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor3" 576 665 basechar 0
 AnchorPoint: "Anchor3" 576 665 basechar 0
 LayerCount: 2
@@ -4727,7 +4749,7 @@ SplineSet
  310 405 310 405 304 386 c 1,24,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: hadeva
@@ -4937,13 +4959,13 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable" 
-Substitution2: "Single Substitution lookup 14 subtable" isigndeva.alt1
-Substitution2: "Single Substitution lookup 15 subtable" isigndeva.alt3
-Substitution2: "Single Substitution lookup 17 subtable" isigndeva.alt2
-Substitution2: "Single Substitution lookup 19 subtable" isigndeva.alt4
-Substitution2: "Single Substitution lookup 21 subtable" isigndeva.tha
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Substitution2: "Single Substitution lookup 23 subtable" isigndeva.ja
+Substitution2: "Single Substitution lookup 21 subtable" isigndeva.tha
+Substitution2: "Single Substitution lookup 19 subtable" isigndeva.alt4
+Substitution2: "Single Substitution lookup 17 subtable" isigndeva.alt2
+Substitution2: "Single Substitution lookup 15 subtable" isigndeva.alt3
+Substitution2: "Single Substitution lookup 14 subtable" isigndeva.alt1
 EndChar
 
 StartChar: iisigndeva
@@ -11084,7 +11106,7 @@ EndChar
 StartChar: isigndeva_anusvara.alt2
 Encoding: 65582 -1 259
 Width: 266
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -11120,6 +11142,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 anusvaradeva
+LCarets2: 1 0 
 EndChar
 
 StartChar: ladeva_viramadeva
@@ -11277,7 +11300,7 @@ EndChar
 StartChar: vadeva_viramadeva
 Encoding: 65586 -1 263
 Width: 346
-GlyphClass: 3
+GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
@@ -11308,7 +11331,6 @@ SplineSet
  265 146 265 146 226 146 c 0,4,5
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" vadeva viramadeva
 EndChar
 
@@ -11779,8 +11801,6 @@ SplineSet
  165 53 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "VattuVariantslookup30 subtable" tadeva viramadeva_radeva viramadeva
-Ligature2: "VattuVariantslookup30 subtable" tadeva_viramadeva viramadeva_radeva
 Ligature2: "HalfFormslookup10 subtable" tadeva_viramadeva_radeva viramadeva
 EndChar
 
@@ -19278,13 +19298,16 @@ Validated: 1
 Ligature2: "VattuVariantslookup30 subtable" badeva viramadeva_radeva viramadeva
 Ligature2: "VattuVariantslookup30 subtable" badeva_viramadeva viramadeva_radeva
 Ligature2: "HalfFormslookup10 subtable" badeva_viramadeva_radeva viramadeva
+LCarets2: 2 0 0 
 EndChar
 
 StartChar: isign_ra_virama.alt2
 Encoding: 65537 -1 405
 Width: 266
-GlyphClass: 3
+GlyphClass: 4
 Flags: W
+AnchorPoint: "Anchor3" 1193 676 mark 0
+AnchorPoint: "Anchor3" 1193 676 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19328,7 +19351,8 @@ SplineSet
  100 606 l 1,54,-1
  -13 606 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
+Validated: 1
+Substitution2: "Single Substitution lookup 35-1" isign_ra_virama.alt1
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 radeva_viramadeva
 EndChar
 
@@ -19384,6 +19408,7 @@ SplineSet
  1200 771 l 1,53,-1
 EndSplineSet
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 radeva_viramadeva anusvaradeva
+LCarets2: 2 0 0 
 EndChar
 
 StartChar: isigndeva_anusvaradeva.alt4

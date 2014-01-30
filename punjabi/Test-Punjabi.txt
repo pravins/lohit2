@@ -34,3 +34,4 @@ As per Microsoft typography for Developing OpenType Fonts for Gurmukhi Script, t
 <feature tag> vatu : Vattu variants
 			ਕ੍ਰ	ਤ੍ਰ	ਭ੍ਰ	ਦ੍ਰ	ਡ੍ਰ 
 
+	

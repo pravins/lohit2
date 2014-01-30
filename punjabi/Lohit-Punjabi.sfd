@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159495707
-ModificationTime: 1390902691
+ModificationTime: 1391074512
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -53,6 +53,7 @@ OS2Vendor: 'ACE '
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 0"  {"'nukt' Nukta Forms lookup 0-1"  } ['nukt' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 1"  {"'blwf' Below Base Forms lookup 1-1"  } ['blwf' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 5"  {"'blws' Below Base Substitutions lookup 5-1"  } ['blws' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms lookup 7"  {"'pstf' Post Base Forms lookup 7-1"  } ['pstf' ('DFLT' <'dflt' > 'deva' <'dflt' > 'gur2' <'dflt' > 'guru' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "'vatu' Vattu Variants lookup 6"  {"'vatu' Vattu Variants lookup 6-1"  } ['vatu' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark lookup 2"  {"'blwm' Below Base Mark lookup 2-1"  } ['blwm' ('guru' <'dflt' > ) ]
@@ -6566,7 +6567,8 @@ SplineSet
  86 167 86 167 112.5 143.5 c 128,-1,47
 EndSplineSet
 Validated: 513
-Ligature2: "'vatu' Vattu Variants lookup 6-1" kaguru viramaguru raguru 
+Ligature2: "'blws' Below Base Substitutions lookup 5-1" kaguru viramaguru raguru 
+Ligature2: "'vatu' Vattu Variants lookup 6-1" kaguru viramaguru raguru
 LCarets2: 1 0 
 EndChar
 
@@ -6640,7 +6642,8 @@ SplineSet
  86 82 86 82 112.5 66 c 128,-1,70
 EndSplineSet
 Validated: 513
-Ligature2: "'vatu' Vattu Variants lookup 6-1" ddaguru viramaguru raguru 
+Ligature2: "'vatu' Vattu Variants lookup 6-1" ddaguru viramaguru raguru
+Ligature2: "'blws' Below Base Substitutions lookup 5-1" ddaguru viramaguru raguru
 LCarets2: 1 0 
 EndChar
 
@@ -6715,7 +6718,8 @@ SplineSet
  487 500 l 1,0,-1
 EndSplineSet
 Validated: 545
-Ligature2: "'vatu' Vattu Variants lookup 6-1" taguru viramaguru raguru 
+Ligature2: "'blws' Below Base Substitutions lookup 5-1" taguru viramaguru raguru
+Ligature2: "'vatu' Vattu Variants lookup 6-1" taguru viramaguru raguru
 LCarets2: 1 0 
 EndChar
 
@@ -6787,6 +6791,7 @@ SplineSet
 EndSplineSet
 Validated: 513
 Ligature2: "'vatu' Vattu Variants lookup 6-1" daguru viramaguru raguru
+Ligature2: "'blws' Below Base Substitutions lookup 5-1" daguru viramaguru raguru
 LCarets2: 1 0 
 EndChar
 
@@ -6855,7 +6860,8 @@ SplineSet
  100 239 100 239 120.5 224.5 c 128,-1,62
 EndSplineSet
 Validated: 545
-Ligature2: "'vatu' Vattu Variants lookup 6-1" bhaguru viramaguru raguru 
+Ligature2: "'vatu' Vattu Variants lookup 6-1" bhaguru viramaguru raguru
+Ligature2: "'blws' Below Base Substitutions lookup 5-1" bhaguru viramaguru raguru
 LCarets2: 1 0 
 EndChar
 
