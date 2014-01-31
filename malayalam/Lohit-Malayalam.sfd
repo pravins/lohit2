@@ -3,8 +3,8 @@ FontName: Lohit-Malayalam
 FullName: Lohit Malayalam
 FamilyName: Lohit Malayalam
 Weight: Book
-Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\n\n  Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 2.5.3
+Copyright: Copyright 2013-14 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore At redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
+Version: 2.91.0
 ItalicAngle: 0
 UnderlinePosition: -300
 UnderlineWidth: 20
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159524182
-ModificationTime: 1390806617
+ModificationTime: 1391161889
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -295,8 +295,8 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "FontForge 1.0 : Lohit Malayalam : 19-7-2006" "" "Version 2.5.3" 
-GaspTable: 1 65535 2 0
+LangName: 1033 "" "" "Regular" "FontForge 1.0 : Lohit Malayalam : 19-7-2006" "" "2.91.0" "" "Lohit is a trademark of Red Hat, Inc." "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
+GaspTable: 2 8 2 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -307,62 +307,9 @@ FitToEm: 1
 WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
-Grid
-657 866 m 5
- 688.333 847.333 704 821 704 787 c 132
- 704 753 689.167 723.333 659.5 698 c 132
- 629.833 672.667 594 660 552 660 c 132
- 510 660 474.167 672.667 444.5 698 c 132
- 414.833 723.333 400 753.667 400 789 c 4
- 400 804.333 404.167 819 412.5 833 c 132
- 420.833 847 432 858 446 866 c 5
- 493 836 l 5
- 477.667 823.333 470 807.5 470 788.5 c 132
- 470 769.5 478 753.167 494 739.5 c 132
- 510 725.833 529.333 719 552 719 c 132
- 574.667 719 594 725.833 610 739.5 c 132
- 626 753.167 634 769 634 787 c 132
- 634 805 626 821.333 610 836 c 5
- 657 866 l 5
-141 136 m 5
- 187 175.333 245.5 195 316.5 195 c 132
- 387.5 195 446 175.333 492 136 c 5
- 514 154.667 531.167 177.333 543.5 204 c 132
- 555.833 230.667 562 258.667 562 288 c 4
- 562 360.667 538 422.833 490 474.5 c 132
- 442 526.167 384.167 552 316.5 552 c 132
- 248.833 552 191 527.333 143 478 c 132
- 95 428.667 71 369.333 71 300 c 4
- 71 266.667 77.1667 235.667 89.5 207 c 132
- 101.833 178.333 119 154.667 141 136 c 5
-35 -86 m 4
- 35 -22.6667 54.6667 32 94 78 c 5
- 64 103.333 40.8333 135.333 24.5 174 c 132
- 8.16667 212.667 0 254.667 0 300 c 4
- 0 389.333 30.8333 465.5 92.5 528.5 c 132
- 154.167 591.5 228.667 623 316 623 c 132
- 403.333 623 477.833 590.333 539.5 525 c 132
- 601.167 459.667 632 380.667 632 288 c 4
- 632 246 623.833 206.667 607.5 170 c 132
- 591.164 133.333 568.331 102.667 539 78 c 5
- 577.667 32.6667 597 -22 597 -86 c 4
- 597 -131.333 585.667 -174.667 563 -216 c 132
- 540.333 -257.333 508.667 -292 468 -320 c 5
- 433 -262 l 5
- 462.333 -245.334 485.333 -221.167 502 -189.5 c 132
- 518.667 -157.833 527 -123.333 527 -86 c 4
- 527 -28 506.333 21.6667 465 63 c 132
- 423.667 104.333 374 125 316 125 c 132
- 258 125 208.5 104.333 167.5 63 c 132
- 126.5 21.6667 106 -28 106 -86 c 4
- 106 -127.333 114.333 -164.667 131 -198 c 132
- 147.667 -231.333 170.333 -256.333 199 -273 c 5
- 164 -320 l 5
- 124 -296.667 92.5 -264.167 69.5 -222.5 c 132
- 46.5 -180.833 35 -135.333 35 -86 c 4
-EndSplineSet
+TeXData: 1 0 0 358400 179200 119466 0 1048576 119466 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark lookup 0 subtable" "Anchor-1"  "'abvm' Above Base Mark lookup 0 subtable" 
-BeginChars: 65678 215
+BeginChars: 65678 213
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -3271,7 +3218,7 @@ Width: 1000
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 500 650 basechar 0
-AnchorPoint: "Anchor-0" 963 595 basechar 0
+AnchorPoint: "Anchor-0" 993 595 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3358,8 +3305,8 @@ Encoding: 3372 3372 55
 Width: 1360
 GlyphClass: 2
 Flags: W
+AnchorPoint: "Anchor-0" 1370 595 basechar 0
 AnchorPoint: "Anchor-1" 690 650 basechar 0
-AnchorPoint: "Anchor-0" 1320 595 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6324,7 +6271,6 @@ SplineSet
  43 172 43 172 43 263 c 1,57,-1
  43 263 l 1,12,13
 EndSplineSet
-Ligature2: "'half' Half Forms lookup 4 subtable" rramlm viramamlm zerowidthjoiner
 Ligature2: "'half' Half Forms lookup 4 subtable" ramlm viramamlm zerowidthjoiner
 EndChar
 
@@ -7711,6 +7657,7 @@ SplineSet
  516 283 516 283 516 222 c 1,109,-1
  516 222 l 1,98,99
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 0 subtable" ngamlm viramamlm ngamlm
 EndChar
 
@@ -8029,8 +7976,8 @@ Encoding: 65594 -1 137
 Width: 1417
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 690 650 basechar 0
 AnchorPoint: "Anchor-0" 1398 596 basechar 0
+AnchorPoint: "Anchor-1" 690 650 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12990,6 +12937,7 @@ SplineSet
  43 199 43 199 43 281 c 1,78,-1
  43 281 l 1,12,13
 EndSplineSet
+Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm damlm 
 EndChar
 
 StartChar: yamlm_viramamlm_kamlm
@@ -13247,6 +13195,7 @@ SplineSet
  12 -284 12 -284 12 -237 c 1,164,-1
  12 -237 l 1,110,111
 EndSplineSet
+Ligature2: "'akhn' Akhand lookup 0 subtable" yamlm viramamlm kamlm viramamlm kamlm
 EndChar
 
 StartChar: la_virama_ka_virama_ka
@@ -14146,74 +14095,6 @@ SplineSet
  -509 -204 l 1,9,-1
  -509 -204 l 1,6,-1
 EndSplineSet
-EndChar
-
-StartChar: U0030
-Encoding: 65670 -1 213
-Width: 624
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-44 361 m 1,0,1
- 44 512 44 512 115.5 624.5 c 128,-1,2
- 187 737 187 737 312 737 c 128,-1,3
- 437 737 437 737 508.5 624.5 c 128,-1,4
- 580 512 580 512 580 361 c 0,5,6
- 580 211 580 211 508.5 99.5 c 128,-1,7
- 437 -12 437 -12 312 -12 c 128,-1,8
- 187 -12 187 -12 115.5 99.5 c 128,-1,9
- 44 211 44 211 44 361 c 1,10,-1
- 44 361 l 1,0,1
-113 361 m 1,11,12
- 113 239 113 239 164 149.5 c 128,-1,13
- 215 60 215 60 312 60 c 128,-1,14
- 409 60 409 60 460 149.5 c 128,-1,15
- 511 239 511 239 511 361 c 0,16,17
- 511 484 511 484 460 574 c 128,-1,18
- 409 664 409 664 312 664 c 128,-1,19
- 215 664 215 664 164 574 c 128,-1,20
- 113 484 113 484 113 361 c 1,21,-1
- 113 361 l 1,11,12
-EndSplineSet
-EndChar
-
-StartChar: uvowelmlm_viramamlm
-Encoding: 65671 -1 214
-Width: 96
-GlyphClass: 3
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--89 675 m 1,0,1
- -110 701 -110 701 -110 738 c 128,-1,2
- -110 775 -110 775 -82.5 803 c 128,-1,3
- -55 831 -55 831 -16.5 831 c 128,-1,4
- 22 831 22 831 50 803 c 128,-1,5
- 78 775 78 775 78 736.5 c 128,-1,6
- 78 698 78 698 53 670 c 1,7,8
- 9 614 9 614 -63 614 c 128,-1,9
- -135 614 -135 614 -179.5 652 c 128,-1,10
- -224 690 -224 690 -224 743 c 0,11,12
- -224 766 -224 766 -211.5 787 c 128,-1,13
- -199 808 -199 808 -178 820 c 1,14,-1
- -131 790 l 1,15,16
- -154 771 -154 771 -154 742.5 c 128,-1,17
- -154 714 -154 714 -134.5 697 c 128,-1,18
- -115 680 -115 680 -89 675 c 1,0,1
--68 740 m 128,-1,20
- -68 717 -68 717 -52.5 701 c 128,-1,21
- -37 685 -37 685 -15 685 c 128,-1,22
- 7 685 7 685 22.5 701 c 128,-1,23
- 38 717 38 717 38 735 c 128,-1,24
- 38 753 38 753 32 765 c 0,25,26
- 15 795 15 795 -17 795 c 0,27,28
- -37 795 -37 795 -52.5 779 c 128,-1,19
- -68 763 -68 763 -68 740 c 128,-1,20
-EndSplineSet
-Ligature2: "'pstf' Post Base Forms lookup 5 subtable" viramamlm uvowelmlm
 EndChar
 EndChars
 EndSplineFont
