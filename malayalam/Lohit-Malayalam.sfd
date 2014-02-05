@@ -825,7 +825,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: visergamlm
+StartChar: visargamlm
 Encoding: 3331 3331 17
 Width: 351
 GlyphClass: 2
@@ -11163,7 +11163,7 @@ EndSplineSet
 Ligature2: "'akhn' Akhand lookup 0 subtable" hamlm viramamlm mamlm
 EndChar
 
-StartChar: glyph187
+StartChar: shamlm_viramamlm_ramlm
 Encoding: 65634 -1 177
 Width: 1266
 GlyphClass: 2
@@ -11237,6 +11237,7 @@ SplineSet
  191 328 l 1,83,-1
  191 328 l 1,13,14
 EndSplineSet
+Ligature2: "'akhn' Akhand lookup 0 subtable" shamlm viramamlm ramlm 
 EndChar
 
 StartChar: tamlm_viramamlm_samlm

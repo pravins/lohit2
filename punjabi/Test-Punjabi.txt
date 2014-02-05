@@ -18,7 +18,7 @@ As per Microsoft typography for Developing OpenType Fonts for Gurmukhi Script, t
 			ਗ਼	ਜ਼  	ਖ਼	ਲ਼	 ਫ਼	 ਡ਼	 ਸ਼
 
 <feature tag> blwf : Below-base form substitution
-			ਹ੍ਕ	ਰ੍ਕ	ਵ੍ਕ   
+			ਪੜ੍ਹ	ਪੜ੍ਰ	ਪੜ੍ਵ  
 
 <feature tag> abvs : Above-base substitution
 			ੀੰ  ੀੱ  ੀਂ ੈੰ ੈੱ ੈਂ  ੇੰ  ੇੱ  ੇਂ  ੋੰ  ੋੱ  ੋਂ  ੌੰ  ੌੱ  ੌਂ

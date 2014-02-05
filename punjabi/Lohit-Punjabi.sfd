@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159495707
-ModificationTime: 1391074512
+ModificationTime: 1391582920
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -6894,7 +6894,7 @@ SplineSet
  -295 -99 -295 -99 -280.5 -84.5 c 128,-1,1
 EndSplineSet
 Validated: 1
-Ligature2: "'blwf' Below Base Forms lookup 1-1" haguru viramaguru
+Ligature2: "'blwf' Below Base Forms lookup 1-1" viramaguru haguru 
 EndChar
 
 StartChar: vaguru_viramaguru.blwf
@@ -6935,7 +6935,7 @@ SplineSet
  -315 -65 -315 -65 -294.5 -47.5 c 128,-1,1
 EndSplineSet
 Validated: 1
-Ligature2: "'blwf' Below Base Forms lookup 1-1" vaguru viramaguru
+Ligature2: "'blwf' Below Base Forms lookup 1-1" viramaguru vaguru 
 EndChar
 
 StartChar: raguru_viramaguru.blwf
@@ -6963,7 +6963,7 @@ SplineSet
  -210 -98 -210 -98 -189.5 -79 c 128,-1,1
 EndSplineSet
 Validated: 1
-Ligature2: "'blwf' Below Base Forms lookup 1-1" raguru viramaguru
+Ligature2: "'blwf' Below Base Forms lookup 1-1" viramaguru raguru 
 EndChar
 
 StartChar: eevowelguru_bindiguru.abvs
