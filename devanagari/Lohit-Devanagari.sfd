@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1391080289
+ModificationTime: 1391601348
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -19306,8 +19306,6 @@ Encoding: 65537 -1 405
 Width: 266
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" 1193 676 mark 0
-AnchorPoint: "Anchor3" 1193 676 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19351,7 +19349,7 @@ SplineSet
  100 606 l 1,54,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Validated: 1
+LCarets2: 1 0 
 Substitution2: "Single Substitution lookup 35-1" isign_ra_virama.alt1
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 radeva_viramadeva
 EndChar
