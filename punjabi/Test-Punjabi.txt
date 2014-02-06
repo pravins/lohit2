@@ -4,9 +4,21 @@
 
 The alphabets (Sequnenced as per Gurmukhi script details in TDIL ) :
 
-	ਕ	ਖ	ਗ	ਘ	ਙ	ਚ	ਛ	ਜ	ਝ	ਞ	ਟ	ਠ	ਡ	ਢ	ਣ	ਤ	ਥ	ਦ	ਧ	ਨ	ਪ	ਫ	ਬ	ਭ	ਮ	ਯ	ਰ	ਲ	ਵ	ਸ	ਹ	ਲ਼	ਅ	ਉ	ਸ਼	ਫ਼	ਗ਼	ਲ਼	ਜ਼	ਖ਼	ਅ	ਆ	ਇ	ਈ	ਉ	ਊ	ਏ	ਐ	ਓ	ਔ	
+	ਕ	ਖ	ਗ	ਘ	ਙ	ਚ	ਛ	ਜ	ਝ	ਞ	ਟ	ਠ	ਡ	ਢ	ਣ	ਤ	ਥ	ਦ	ਧ	ਨ	ਪ	ਫ	ਬ	ਭ	ਮ	ਯ	ਰ	ਲ	ਵ	ਸ	ਹ	ਲ਼	ਅ	ਉ	ਸ਼	ਫ਼	ਗ਼	ਲ਼	ਜ਼	ਖ਼		
 
-	ਕ	ਕਾ	ਕੇ	ਕੈ	ਕੋ	ਕੌ	ਕਿ	ਕੀ	ਕੁ	ਕੂ
+Independant Vowel Letters :
+
+	ਅ	ਆ	ਇ	ਈ	ਉ	ਊ	ਏ	ਐ	ਓ	ਔ	:	ਕ	ਕਾ	ਕੇ	ਕੈ	ਕੋ	ਕੌ	ਕਿ	ਕੀ	ਕੁ	ਕੂ
+
+Consonant Conjuncts
+
+	ੜ੍ਹ	ਲ਼੍ਹ	ਨ੍ਹ	ਮ੍ਹ	ਪ੍ਰ	ਕ੍ਰ	ਸ਼੍ਰ	ਸ੍ਵ
+
+Simple Half Forms
+
+	ਪ੍ਰ	ਮ੍ਵ	ੜ੍ਹ	
+
+Digits
 
 	੧	੨	੩	੪	੫	੬	੭	੮	੯	੦	
 
