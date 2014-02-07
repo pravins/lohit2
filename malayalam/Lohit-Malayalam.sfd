@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159524182
-ModificationTime: 1391161889
+ModificationTime: 1391777090
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -309,7 +309,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 358400 179200 119466 0 1048576 119466 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark lookup 0 subtable" "Anchor-1"  "'abvm' Above Base Mark lookup 0 subtable" 
-BeginChars: 65678 213
+BeginChars: 65678 212
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -6784,107 +6784,8 @@ EndSplineSet
 Ligature2: "'pref' Pre Base Forms lookup 1 subtable" viramamlm ramlm
 EndChar
 
-StartChar: lllamlm_viramamlm.half_vamlm
-Encoding: 65541 -1 120
-Width: 1734
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-780 281 m 1,0,1
- 780 412 780 412 866 505 c 128,-1,2
- 952 598 952 598 1073 598 c 256,3,4
- 1194 598 1194 598 1279.5 505 c 128,-1,5
- 1365 412 1365 412 1365 281 c 0,6,7
- 1365 223 1365 223 1345.5 168.5 c 128,-1,8
- 1326 114 1326 114 1289 70 c 1,9,-1
- 1634 70 l 1,10,-1
- 1634 585 l 1,11,-1
- 1705 585 l 1,12,-1
- 1705 0 l 1,13,-1
- 1190 0 l 1,14,-1
- 1190 70 l 1,15,16
- 1240 112 1240 112 1267.5 167.5 c 128,-1,17
- 1295 223 1295 223 1295 281 c 0,18,19
- 1295 383 1295 383 1230 455.5 c 128,-1,20
- 1165 528 1165 528 1073 528 c 256,21,22
- 981 528 981 528 916 455.5 c 128,-1,23
- 851 383 851 383 851 281 c 0,24,25
- 851 206 851 206 893 145 c 128,-1,26
- 935 84 935 84 1003 59 c 1,27,-1
- 984 0 l 1,28,29
- 896 16 896 16 838 95.5 c 128,-1,30
- 780 175 780 175 780 281 c 1,31,-1
- 780 281 l 1,0,1
-29 445 m 1,32,33
- 29 486 29 486 41 522 c 128,-1,34
- 53 558 53 558 75 585 c 1,35,-1
- 139 550 l 1,36,37
- 120 527 120 527 109.5 500 c 128,-1,38
- 99 473 99 473 99 445 c 0,39,40
- 99 377 99 377 165.5 329 c 128,-1,41
- 232 281 232 281 326 281 c 1,42,43
- 306 323 306 323 296 358.5 c 128,-1,44
- 286 394 286 394 286 421 c 0,45,46
- 286 494 286 494 334 545.5 c 128,-1,47
- 382 597 382 597 450 597 c 128,-1,48
- 518 597 518 597 566 547 c 128,-1,49
- 614 497 614 497 614 426 c 0,50,51
- 614 353 614 353 557.5 295 c 128,-1,52
- 501 237 501 237 415 222 c 1,53,54
- 420 207 420 207 423 186.5 c 128,-1,55
- 426 166 426 166 426 140 c 0,56,57
- 426 82 426 82 391.5 41 c 128,-1,58
- 357 0 357 0 309 0 c 0,59,60
- 262 0 262 0 223 12 c 128,-1,61
- 184 24 184 24 157 47 c 1,62,-1
- 186 99 l 1,63,64
- 211 85 211 85 236.5 77.5 c 128,-1,65
- 262 70 262 70 286 70 c 0,66,67
- 315 70 315 70 335.5 94 c 128,-1,68
- 356 118 356 118 356 152 c 0,69,70
- 356 173 356 173 354.5 188 c 128,-1,71
- 353 203 353 203 350 211 c 1,72,73
- 217 211 217 211 123 279.5 c 128,-1,74
- 29 348 29 348 29 445 c 1,75,-1
- 29 445 l 1,32,33
-356 421 m 1,76,77
- 356 383 356 383 366.5 350 c 128,-1,78
- 377 317 377 317 397 293 c 1,79,80
- 460 304 460 304 501.5 341.5 c 128,-1,81
- 543 379 543 379 543 426 c 0,82,83
- 543 468 543 468 517 497.5 c 128,-1,84
- 491 527 491 527 455 527 c 0,85,86
- 414 527 414 527 385 496 c 128,-1,87
- 356 465 356 465 356 421 c 1,88,-1
- 356 421 l 1,76,77
-460 762 m 1,89,90
- 460 785 460 785 472.5 805.5 c 128,-1,91
- 485 826 485 826 507 839 c 1,92,-1
- 554 809 l 1,93,94
- 543 799 543 799 536.5 787 c 128,-1,95
- 530 775 530 775 530 762 c 0,96,97
- 530 733 530 733 554 712.5 c 128,-1,98
- 578 692 578 692 612 692 c 128,-1,99
- 646 692 646 692 670 712.5 c 128,-1,100
- 694 733 694 733 694 762 c 0,101,102
- 694 775 694 775 688 787.5 c 128,-1,103
- 682 800 682 800 671 809 c 1,104,-1
- 718 839 l 1,105,106
- 739 827 739 827 751.5 806 c 128,-1,107
- 764 785 764 785 764 762 c 0,108,109
- 764 709 764 709 719.5 671 c 128,-1,110
- 675 633 675 633 612 633 c 128,-1,111
- 549 633 549 633 504.5 671 c 128,-1,112
- 460 709 460 709 460 762 c 1,113,-1
- 460 762 l 1,89,90
-EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 7 subtable" lllamlm viramamlm_vamlm.pstf
-EndChar
-
 StartChar: tamlm_viramamlm_lamlm
-Encoding: 65542 -1 121
+Encoding: 65542 -1 120
 Width: 883
 GlyphClass: 2
 Flags: W
@@ -6974,7 +6875,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm lamlm
 EndChar
 
 StartChar: phamlm_viramamlm_lamlm
-Encoding: 65543 -1 122
+Encoding: 65543 -1 121
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7055,7 +6956,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" phamlm viramamlm lamlm
 EndChar
 
 StartChar: vamlm_viramamlm_lamlm
-Encoding: 65544 -1 123
+Encoding: 65544 -1 122
 Width: 1043
 GlyphClass: 2
 Flags: W
@@ -7127,7 +7028,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" vamlm viramamlm lamlm
 EndChar
 
 StartChar: viramamlm_lamlm.alt1
-Encoding: 65545 -1 124
+Encoding: 65545 -1 123
 Width: 883
 GlyphClass: 2
 Flags: W
@@ -7169,7 +7070,7 @@ EndSplineSet
 EndChar
 
 StartChar: viramamlm_lamlm.alt2
-Encoding: 65546 -1 125
+Encoding: 65546 -1 124
 Width: 1139
 GlyphClass: 2
 Flags: W
@@ -7211,7 +7112,7 @@ EndSplineSet
 EndChar
 
 StartChar: kamlm_viramamlm_ssamlm
-Encoding: 65583 -1 126
+Encoding: 65583 -1 125
 Width: 1602
 GlyphClass: 2
 Flags: W
@@ -7311,7 +7212,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" kamlm viramamlm ssamlm
 EndChar
 
 StartChar: viramamlm_yamlm.pstf
-Encoding: 65584 -1 127
+Encoding: 65584 -1 126
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -7351,7 +7252,7 @@ Ligature2: "'pstf' Post Base Forms lookup 5 subtable" viramamlm yamlm
 EndChar
 
 StartChar: viramamlm_ramlm.pstf
-Encoding: 65585 -1 128
+Encoding: 65585 -1 127
 Width: 228
 GlyphClass: 2
 Flags: W
@@ -7375,7 +7276,7 @@ Ligature2: "'pstf' Post Base Forms lookup 5 subtable" viramamlm ramlm
 EndChar
 
 StartChar: viramamlm_vamlm.pstf
-Encoding: 65586 -1 129
+Encoding: 65586 -1 128
 Width: 237
 GlyphClass: 2
 Flags: W
@@ -7395,7 +7296,7 @@ Ligature2: "'pstf' Post Base Forms lookup 5 subtable" viramamlm vamlm
 EndChar
 
 StartChar: kamlm_viramamlm_kamlm
-Encoding: 65587 -1 130
+Encoding: 65587 -1 129
 Width: 1412
 GlyphClass: 2
 Flags: W
@@ -7482,7 +7383,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" kamlm viramamlm kamlm
 EndChar
 
 StartChar: ngamlm_viramamlm_kamlm
-Encoding: 65588 -1 131
+Encoding: 65588 -1 130
 Width: 1032
 GlyphClass: 2
 Flags: W
@@ -7565,7 +7466,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" ngamlm viramamlm kamlm
 EndChar
 
 StartChar: ngamlm_viramamlm_ngamlm
-Encoding: 65589 -1 132
+Encoding: 65589 -1 131
 Width: 1391
 GlyphClass: 2
 Flags: W
@@ -7662,7 +7563,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" ngamlm viramamlm ngamlm
 EndChar
 
 StartChar: camlm_viramamlm_camlm
-Encoding: 65590 -1 133
+Encoding: 65590 -1 132
 Width: 1117
 GlyphClass: 2
 Flags: W
@@ -7709,7 +7610,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" camlm viramamlm camlm
 EndChar
 
 StartChar: nyamlm_viramamlm_camlm
-Encoding: 65591 -1 134
+Encoding: 65591 -1 133
 Width: 1593
 GlyphClass: 2
 Flags: W
@@ -7798,7 +7699,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nyamlm viramamlm camlm
 EndChar
 
 StartChar: nyamlm_virama_nyamlm
-Encoding: 65592 -1 135
+Encoding: 65592 -1 134
 Width: 2068
 GlyphClass: 2
 Flags: W
@@ -7918,7 +7819,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nyamlm viramamlm nyamlm
 EndChar
 
 StartChar: ttamlm_viramamlm_ttamlm
-Encoding: 65593 -1 136
+Encoding: 65593 -1 135
 Width: 598
 GlyphClass: 2
 Flags: W
@@ -7972,7 +7873,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" ttamlm viramamlm ttamlm
 EndChar
 
 StartChar: nnamlm_viramamlm_ttamlm
-Encoding: 65594 -1 137
+Encoding: 65594 -1 136
 Width: 1417
 GlyphClass: 2
 Flags: W
@@ -8070,7 +7971,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nnamlm viramamlm ttamlm
 EndChar
 
 StartChar: nnamlm_viramamlm_nnamlm
-Encoding: 65595 -1 138
+Encoding: 65595 -1 137
 Width: 1288
 GlyphClass: 2
 Flags: W
@@ -8193,7 +8094,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nnamlm viramamlm nnamlm
 EndChar
 
 StartChar: tamlm_viramamlm_tamlm
-Encoding: 65596 -1 139
+Encoding: 65596 -1 138
 Width: 1583
 GlyphClass: 2
 Flags: W
@@ -8289,7 +8190,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm tamlm
 EndChar
 
 StartChar: namlm_viramamlm_tamlm
-Encoding: 65597 -1 140
+Encoding: 65597 -1 139
 Width: 1291
 GlyphClass: 2
 Flags: W
@@ -8360,7 +8261,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm tamlm
 EndChar
 
 StartChar: namlm_viramamlm_namlm
-Encoding: 65598 -1 141
+Encoding: 65598 -1 140
 Width: 1330
 GlyphClass: 2
 Flags: W
@@ -8415,7 +8316,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm namlm
 EndChar
 
 StartChar: pamlm_viramamlm_pamlm
-Encoding: 65599 -1 142
+Encoding: 65599 -1 141
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -8474,7 +8375,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" pamlm viramamlm pamlm
 EndChar
 
 StartChar: mamlm_viramamlm_pamlm
-Encoding: 65600 -1 143
+Encoding: 65600 -1 142
 Width: 1268
 GlyphClass: 2
 Flags: W
@@ -8524,7 +8425,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" mamlm viramamlm pamlm
 EndChar
 
 StartChar: mamlm_viramamlm_mamlm
-Encoding: 65601 -1 144
+Encoding: 65601 -1 143
 Width: 1170
 GlyphClass: 2
 Flags: W
@@ -8588,7 +8489,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" mamlm viramamlm mamlm
 EndChar
 
 StartChar: yamlm_viramamlm_yamlm
-Encoding: 65602 -1 145
+Encoding: 65602 -1 144
 Width: 997
 GlyphClass: 2
 Flags: W
@@ -8657,7 +8558,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" yamlm viramamlm yamlm
 EndChar
 
 StartChar: vamlm_viramamlm_vamlm
-Encoding: 65603 -1 146
+Encoding: 65603 -1 145
 Width: 1043
 GlyphClass: 2
 Flags: W
@@ -8704,7 +8605,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" vamlm viramamlm vamlm
 EndChar
 
 StartChar: lamlm_viramamlm_lamlm
-Encoding: 65604 -1 147
+Encoding: 65604 -1 146
 Width: 835
 GlyphClass: 2
 Flags: W
@@ -8778,7 +8679,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" lamlm viramamlm lamlm
 EndChar
 
 StartChar: kamlm_viramamlm_lamlm
-Encoding: 65605 -1 148
+Encoding: 65605 -1 147
 Width: 962
 GlyphClass: 2
 Flags: W
@@ -8885,7 +8786,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" kamlm viramamlm lamlm
 EndChar
 
 StartChar: gamlm_viramamlm_lamlm
-Encoding: 65606 -1 149
+Encoding: 65606 -1 148
 Width: 910
 GlyphClass: 2
 Flags: W
@@ -8971,7 +8872,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" gamlm viramamlm lamlm
 EndChar
 
 StartChar: pamlm_viramamlm_lamlm
-Encoding: 65607 -1 150
+Encoding: 65607 -1 149
 Width: 1000
 GlyphClass: 2
 Flags: W
@@ -9045,7 +8946,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" pamlm viramamlm lamlm
 EndChar
 
 StartChar: bamlm_viramamlm_lamlm
-Encoding: 65608 -1 151
+Encoding: 65608 -1 150
 Width: 1360
 GlyphClass: 2
 Flags: W
@@ -9144,7 +9045,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" bamlm viramamlm lamlm
 EndChar
 
 StartChar: mamlm_viramamlm_lamlm
-Encoding: 65609 -1 152
+Encoding: 65609 -1 151
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -9215,7 +9116,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" mamlm viramamlm lamlm
 EndChar
 
 StartChar: shamlm_viramamlm_lamlm
-Encoding: 65610 -1 153
+Encoding: 65610 -1 152
 Width: 937
 GlyphClass: 2
 Flags: W
@@ -9309,7 +9210,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" shamlm viramamlm lamlm
 EndChar
 
 StartChar: samlm_viramamlm_lamlm
-Encoding: 65611 -1 154
+Encoding: 65611 -1 153
 Width: 1183
 GlyphClass: 2
 Flags: W
@@ -9403,7 +9304,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm lamlm
 EndChar
 
 StartChar: hamlm_viramamlm_lamlm
-Encoding: 65612 -1 155
+Encoding: 65612 -1 154
 Width: 1218
 GlyphClass: 2
 Flags: W
@@ -9492,7 +9393,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" hamlm viramamlm lamlm
 EndChar
 
 StartChar: rramlm_viramamlm_rramlm
-Encoding: 65613 -1 156
+Encoding: 65613 -1 155
 Width: 711
 GlyphClass: 3
 Flags: W
@@ -9549,7 +9450,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" rramlm viramamlm rramlm
 EndChar
 
 StartChar: damlm_virama_damlm
-Encoding: 65614 -1 157
+Encoding: 65614 -1 156
 Width: 696
 GlyphClass: 2
 Flags: W
@@ -9608,7 +9509,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" damlm viramamlm damlm
 EndChar
 
 StartChar: samlm_viramamlm_samlm
-Encoding: 65615 -1 158
+Encoding: 65615 -1 157
 Width: 1182
 GlyphClass: 2
 Flags: W
@@ -9707,7 +9608,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm samlm
 EndChar
 
 StartChar: gamlm_viramamlm_gamlm
-Encoding: 65616 -1 159
+Encoding: 65616 -1 158
 Width: 910
 GlyphClass: 2
 Flags: W
@@ -9796,7 +9697,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" gamlm viramamlm gamlm
 EndChar
 
 StartChar: camlm_viramamlm_chamlm
-Encoding: 65617 -1 160
+Encoding: 65617 -1 159
 Width: 1152
 GlyphClass: 2
 Flags: W
@@ -9883,7 +9784,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" camlm viramamlm chamlm
 EndChar
 
 StartChar: jamlm_viramamlm_jamlm
-Encoding: 65618 -1 161
+Encoding: 65618 -1 160
 Width: 1483
 GlyphClass: 2
 Flags: W
@@ -10016,7 +9917,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" jamlm viramamlm jamlm
 EndChar
 
 StartChar: kamlm_viramamlm_tamlm
-Encoding: 65619 -1 162
+Encoding: 65619 -1 161
 Width: 1628
 GlyphClass: 2
 Flags: W
@@ -10117,7 +10018,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" kamlm viramamlm tamlm
 EndChar
 
 StartChar: tamlm_viramamlm_namlm
-Encoding: 65620 -1 163
+Encoding: 65620 -1 162
 Width: 1251
 GlyphClass: 2
 Flags: W
@@ -10187,7 +10088,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm namlm
 EndChar
 
 StartChar: ssamlm_viramamlm_ttamlm
-Encoding: 65621 -1 164
+Encoding: 65621 -1 163
 Width: 1175
 GlyphClass: 2
 Flags: W
@@ -10276,7 +10177,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" ssamlm viramamlm ttamlm
 EndChar
 
 StartChar: namlm_viramamlm_damlm
-Encoding: 65622 -1 165
+Encoding: 65622 -1 164
 Width: 996
 GlyphClass: 2
 Flags: W
@@ -10334,7 +10235,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm damlm
 EndChar
 
 StartChar: bamlm_viramamlm_bamlm
-Encoding: 65623 -1 166
+Encoding: 65623 -1 165
 Width: 1360
 GlyphClass: 2
 Flags: W
@@ -10405,7 +10306,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" bamlm viramamlm bamlm
 EndChar
 
 StartChar: shamlm_viramamlm_shamlm
-Encoding: 65624 -1 167
+Encoding: 65624 -1 166
 Width: 939
 GlyphClass: 2
 Flags: W
@@ -10508,7 +10409,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" shamlm viramamlm shamlm
 EndChar
 
 StartChar: namlm_viramamlm_dhamlm
-Encoding: 65625 -1 168
+Encoding: 65625 -1 167
 Width: 1511
 GlyphClass: 2
 Flags: W
@@ -10576,7 +10477,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm dhamlm
 EndChar
 
 StartChar: samlm_viramamlm_thamlm
-Encoding: 65626 -1 169
+Encoding: 65626 -1 168
 Width: 1749
 GlyphClass: 2
 Flags: W
@@ -10649,7 +10550,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm thamlm
 EndChar
 
 StartChar: tamlm_viramamlm_thamlm
-Encoding: 65627 -1 170
+Encoding: 65627 -1 169
 Width: 1511
 GlyphClass: 2
 Flags: W
@@ -10725,7 +10626,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm thamlm
 EndChar
 
 StartChar: namlm_viramamlm_thamlm
-Encoding: 65628 -1 171
+Encoding: 65628 -1 170
 Width: 1509
 GlyphClass: 2
 Flags: W
@@ -10786,7 +10687,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm thamlm
 EndChar
 
 StartChar: shamlm_viramamlm_camlm
-Encoding: 65629 -1 172
+Encoding: 65629 -1 171
 Width: 1442
 GlyphClass: 2
 Flags: W
@@ -10857,7 +10758,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" shamlm viramamlm camlm
 EndChar
 
 StartChar: hamlm_viramamlm_namlm
-Encoding: 65630 -1 173
+Encoding: 65630 -1 172
 Width: 1477
 GlyphClass: 2
 Flags: W
@@ -10921,7 +10822,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" hamlm viramamlm namlm
 EndChar
 
 StartChar: damlm_viramamlm_dhamlm
-Encoding: 65631 -1 174
+Encoding: 65631 -1 173
 Width: 1288
 GlyphClass: 2
 Flags: W
@@ -10987,7 +10888,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" damlm viramamlm dhamlm
 EndChar
 
 StartChar: llamlm_viramamlm_llamlm
-Encoding: 65632 -1 175
+Encoding: 65632 -1 174
 Width: 1282
 GlyphClass: 2
 Flags: W
@@ -11104,7 +11005,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" llamlm viramamlm llamlm
 EndChar
 
 StartChar: hamlm_viramamlm_mamlm
-Encoding: 65633 -1 176
+Encoding: 65633 -1 175
 Width: 1192
 GlyphClass: 2
 Flags: W
@@ -11164,7 +11065,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" hamlm viramamlm mamlm
 EndChar
 
 StartChar: shamlm_viramamlm_ramlm
-Encoding: 65634 -1 177
+Encoding: 65634 -1 176
 Width: 1266
 GlyphClass: 2
 Flags: W
@@ -11241,7 +11142,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" shamlm viramamlm ramlm
 EndChar
 
 StartChar: tamlm_viramamlm_samlm
-Encoding: 65635 -1 178
+Encoding: 65635 -1 177
 Width: 1507
 GlyphClass: 2
 Flags: W
@@ -11323,7 +11224,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm samlm
 EndChar
 
 StartChar: namlm_viramamlm_mamlm
-Encoding: 65636 -1 179
+Encoding: 65636 -1 178
 Width: 1056
 GlyphClass: 2
 Flags: W
@@ -11377,7 +11278,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" namlm viramamlm mamlm
 EndChar
 
 StartChar: tamlm_viramamlm_mamlm
-Encoding: 65637 -1 180
+Encoding: 65637 -1 179
 Width: 1347
 GlyphClass: 2
 Flags: W
@@ -11459,7 +11360,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm mamlm
 EndChar
 
 StartChar: nnamlm_viramamlm_mamlm
-Encoding: 65638 -1 181
+Encoding: 65638 -1 180
 Width: 1339
 GlyphClass: 2
 Flags: W
@@ -11537,7 +11438,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nnamlm viramamlm mamlm
 EndChar
 
 StartChar: jamlm_viramamlm_nyamlm
-Encoding: 65639 -1 182
+Encoding: 65639 -1 181
 Width: 2085
 GlyphClass: 2
 Flags: W
@@ -11673,7 +11574,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" jamlm viramamlm nyamlm
 EndChar
 
 StartChar: tamlm_viramamlm_bhamlm
-Encoding: 65640 -1 183
+Encoding: 65640 -1 182
 Width: 1331
 GlyphClass: 2
 Flags: W
@@ -11773,7 +11674,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm bhamlm
 EndChar
 
 StartChar: gamlm_viramamlm_mamlm
-Encoding: 65641 -1 184
+Encoding: 65641 -1 183
 Width: 1063
 GlyphClass: 2
 Flags: W
@@ -11832,7 +11733,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" gamlm viramamlm mamlm
 EndChar
 
 StartChar: samlm_viramalm_kamlm
-Encoding: 65642 -1 185
+Encoding: 65642 -1 184
 Width: 1138
 GlyphClass: 2
 Flags: W
@@ -11944,7 +11845,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm kamlm
 EndChar
 
 StartChar: gamlm_viramamlm_namlm
-Encoding: 65643 -1 186
+Encoding: 65643 -1 185
 Width: 1283
 GlyphClass: 2
 Flags: W
@@ -12002,7 +11903,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" gamlm viramamlm namlm
 EndChar
 
 StartChar: nnamlm_viramamlm_ddamlm
-Encoding: 65644 -1 187
+Encoding: 65644 -1 186
 Width: 1905
 GlyphClass: 2
 Flags: W
@@ -12093,7 +11994,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nnamlm viramamlm ddamlm
 EndChar
 
 StartChar: nyamlm_viramamlm_jamlm
-Encoding: 65645 -1 188
+Encoding: 65645 -1 187
 Width: 1481
 GlyphClass: 2
 Flags: W
@@ -12214,7 +12115,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" nyamlm viramamlm jamlm
 EndChar
 
 StartChar: samlm_viramamlm_namlm
-Encoding: 65646 -1 189
+Encoding: 65646 -1 188
 Width: 1182
 GlyphClass: 2
 Flags: W
@@ -12299,7 +12200,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm namlm
 EndChar
 
 StartChar: namlm_viramamlm_rramlm
-Encoding: 65647 -1 190
+Encoding: 65647 -1 189
 Width: 958
 GlyphClass: 2
 Flags: W
@@ -12388,7 +12289,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" chillunmlm viramamlm rramlm
 EndChar
 
 StartChar: sa_rra_virama_rra_virama
-Encoding: 65648 -1 191
+Encoding: 65648 -1 190
 Width: 1183
 GlyphClass: 2
 Flags: W
@@ -12485,7 +12386,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm rramlm viramamlm rr
 EndChar
 
 StartChar: ddamlm_viramamlm_ddamlm
-Encoding: 65649 -1 192
+Encoding: 65649 -1 191
 Width: 1186
 GlyphClass: 2
 Flags: W
@@ -12584,7 +12485,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" ddamlm viramamlm ddamlm
 EndChar
 
 StartChar: bamlm_viramamlm_dhamlm
-Encoding: 65650 -1 193
+Encoding: 65650 -1 192
 Width: 1360
 GlyphClass: 2
 Flags: W
@@ -12678,7 +12579,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" bamlm viramamlm dhamlm
 EndChar
 
 StartChar: bamlm_viramamlm_damlm
-Encoding: 65651 -1 194
+Encoding: 65651 -1 193
 Width: 1360
 GlyphClass: 2
 Flags: W
@@ -12773,7 +12674,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" bamlm viramamlm damlm
 EndChar
 
 StartChar: kamlm_viramamlm_ttamlm
-Encoding: 65652 -1 195
+Encoding: 65652 -1 194
 Width: 993
 GlyphClass: 2
 Flags: W
@@ -12870,7 +12771,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" kamlm viramamlm ttamlm
 EndChar
 
 StartChar: glyph206
-Encoding: 65653 -1 196
+Encoding: 65653 -1 195
 Width: 927
 GlyphClass: 2
 Flags: W
@@ -12942,7 +12843,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" tamlm viramamlm damlm
 EndChar
 
 StartChar: yamlm_viramamlm_kamlm
-Encoding: 65654 -1 197
+Encoding: 65654 -1 196
 Width: 928
 GlyphClass: 2
 Flags: W
@@ -13062,7 +12963,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" yamlm viramamlm kamlm
 EndChar
 
 StartChar: glyph209
-Encoding: 65655 -1 198
+Encoding: 65655 -1 197
 Width: 920
 GlyphClass: 2
 Flags: W
@@ -13200,7 +13101,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" yamlm viramamlm kamlm viramamlm kam
 EndChar
 
 StartChar: la_virama_ka_virama_ka
-Encoding: 65656 -1 199
+Encoding: 65656 -1 198
 Width: 875
 GlyphClass: 2
 Flags: W
@@ -13313,7 +13214,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" lamlm viramamlm kamlm viramamlm kam
 EndChar
 
 StartChar: ssamlm_viramamlm_kamlm
-Encoding: 65657 -1 200
+Encoding: 65657 -1 199
 Width: 1153
 GlyphClass: 2
 Flags: W
@@ -13433,7 +13334,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" ssamlm viramamlm kamlm
 EndChar
 
 StartChar: lamlm_viramamlm_kamlm
-Encoding: 65658 -1 201
+Encoding: 65658 -1 200
 Width: 828
 GlyphClass: 2
 Flags: W
@@ -13525,7 +13426,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" lamlm viramamlm kamlm
 EndChar
 
 StartChar: samlm_viramamlm_tamlm
-Encoding: 65659 -1 202
+Encoding: 65659 -1 201
 Width: 1095
 GlyphClass: 2
 Flags: W
@@ -13628,7 +13529,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm tamlm
 EndChar
 
 StartChar: samlm_viramamlm_phamlm
-Encoding: 65660 -1 203
+Encoding: 65660 -1 202
 Width: 1095
 GlyphClass: 2
 Flags: W
@@ -13721,7 +13622,7 @@ Ligature2: "'akhn' Akhand lookup 0 subtable" samlm viramamlm phamlm
 EndChar
 
 StartChar: glyph215
-Encoding: 65661 -1 204
+Encoding: 65661 -1 203
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13763,7 +13664,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph216
-Encoding: 65662 -1 205
+Encoding: 65662 -1 204
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13804,7 +13705,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph217
-Encoding: 65663 -1 206
+Encoding: 65663 -1 205
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13861,7 +13762,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph218
-Encoding: 65664 -1 207
+Encoding: 65664 -1 206
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13905,7 +13806,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph219
-Encoding: 65665 -1 208
+Encoding: 65665 -1 207
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13947,7 +13848,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph220
-Encoding: 65666 -1 209
+Encoding: 65666 -1 208
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13983,7 +13884,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph221
-Encoding: 65667 -1 210
+Encoding: 65667 -1 209
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -14022,7 +13923,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph223
-Encoding: 65668 -1 211
+Encoding: 65668 -1 210
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -14076,7 +13977,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph224
-Encoding: 65669 -1 212
+Encoding: 65669 -1 211
 Width: 0
 GlyphClass: 2
 Flags: W
