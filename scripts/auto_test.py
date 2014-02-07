@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -i*-
 # Copyright (C) 2013-14, Sneha Kore <skore@redhat.com>, Pravin Satpute <psatpute@redhat.com>
+# This script requires hb-shape utility from available in harfbuzz-devel rpm
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

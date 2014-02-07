@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -i*-
 # Copyright (C) 2013-14, Sneha Kore <skore@redhat.com>, Pravin Satpute <psatpute@redhat.com>
+# This script requires hb-shape utility from available in harfbuzz-devel rpm 
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -30,7 +31,7 @@ def generate_stdfile(txt_file,ttf_file):
 		words=string.split()	
 		status, output = commands.getstatusoutput("hb-shape %s %s"%(ttf_file,words[0]))
 		# Write output to the output file		
-		print "Output : "	+output+"\n"	
+		# print "Output : "	+output+"\n"	
 		outputfile.write(words[0]+"\t"+""+output+"\n")
 	print "std-test-out.txt file generated!!"
 	outputfile.close()
