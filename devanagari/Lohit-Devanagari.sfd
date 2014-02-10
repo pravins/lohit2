@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1391765758
+ModificationTime: 1386758108
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -86,8 +86,6 @@ Lookup: 1 0 0 "Single Substitution lookup 29"  {"Single Substitution lookup 29 s
 Lookup: 4 0 0 "PstsSub_Ligature_Ra"  {"PstsSub_Ligature_Ra subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 4 0 0 "LigatureSubstitutionlookup28"  {"LigatureSubstitutionlookup28 subtable"  } []
 Lookup: 6 0 0 "PstsSub_Chain_Eyelash"  {"PstsSub_Chain_Eyelash contextual 0"  "PstsSub_Chain_Eyelash contextual 1"  "PstsSub_Chain_Eyelash contextual 2"  "PstsSub_Chain_Eyelash contextual 3"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 6 0 0 "pstsPostBaseSubstitutionslookup"  {"pstsPostBaseSubstitutionslookup subtable"  } ['psts' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 34"  {"Single Substitution lookup 34 subtable"  } []
 Lookup: 260 0 0 "blwmBelowBaseMarklookup0"  {"blwmBelowBaseMarklookup0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 262 0 0 "abvmAboveBaseMarklookup1"  {"abvmAboveBaseMarklookup1 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 260 0 0 "abvmAboveBaseMarklookup2"  {"abvmAboveBaseMarklookup2 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
@@ -100,56 +98,8 @@ Lookup: 260 0 0 "abvmAboveBaseMarklookup2-0"  {"abvmAboveBaseMarklookup2-0 subta
 Lookup: 260 0 0 "abvmAboveBaseMarklookup3-0"  {"abvmAboveBaseMarklookup3-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 258 0 0 "abvmAboveBaseMarklookup4-0"  {"abvmAboveBaseMarklookup4-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 258 0 0 "blwmBelowBaseMarklookup5-0"  {"blwmBelowBaseMarklookup5-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup4-1"  {"abvmAboveBaseMarklookup4-1 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup5-1"  {"blwmBelowBaseMarklookup5-1 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "blwmBelowBaseMarklookup00"  {"blwmBelowBaseMarklookup00 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 262 0 0 "abvmAboveBaseMarklookup10"  {"abvmAboveBaseMarklookup10 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "abvmAboveBaseMarklookup20"  {"abvmAboveBaseMarklookup20 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "abvmAboveBaseMarklookup30"  {"abvmAboveBaseMarklookup30 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup40"  {"abvmAboveBaseMarklookup40 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup50"  {"blwmBelowBaseMarklookup50 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup4-2"  {"abvmAboveBaseMarklookup4-2 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup5-2"  {"blwmBelowBaseMarklookup5-2 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup40-0"  {"abvmAboveBaseMarklookup40-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup50-0"  {"blwmBelowBaseMarklookup50-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup41"  {"abvmAboveBaseMarklookup41 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup51"  {"blwmBelowBaseMarklookup51 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "pos_mark2base_blwmdeva_0"  {"pos_mark2base_blwmdeva_0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 262 0 0 "pos_mark2mark_abvmdeva_0"  {"pos_mark2mark_abvmdeva_0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "pos_mark2base_abvmdeva_0"  {"pos_mark2base_abvmdeva_0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "pos_mark2base_abvmdeva_2"  {"pos_mark2base_abvmdeva_2 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_abvmdeva_0"  {"pos_pair_abvmdeva_0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_blwmdeva_0"  {"pos_pair_blwmdeva_0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup4-3"  {"abvmAboveBaseMarklookup4-3 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup5-3"  {"blwmBelowBaseMarklookup5-3 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup40-1"  {"abvmAboveBaseMarklookup40-1 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup50-1"  {"blwmBelowBaseMarklookup50-1 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup41-0"  {"abvmAboveBaseMarklookup41-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup51-0"  {"blwmBelowBaseMarklookup51-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_abvmdeva_0-0"  {"pos_pair_abvmdeva_0-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_blwmdeva_0-0"  {"pos_pair_blwmdeva_0-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup42"  {"abvmAboveBaseMarklookup42 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup52"  {"blwmBelowBaseMarklookup52 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup400"  {"abvmAboveBaseMarklookup400 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup500"  {"blwmBelowBaseMarklookup500 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_abvmdeva_2"  {"pos_pair_abvmdeva_2 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_blwmdeva_2"  {"pos_pair_blwmdeva_2 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "pos_mark2base_blwmdeva_2"  {"pos_mark2base_blwmdeva_2 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 262 0 0 "pos_mark2mark_abvmdeva_2"  {"pos_mark2mark_abvmdeva_2 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "pos_mark2base_abvmdeva_4"  {"pos_mark2base_abvmdeva_4 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "pos_mark2base_abvmdeva_6"  {"pos_mark2base_abvmdeva_6 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_abvmdeva_4"  {"pos_pair_abvmdeva_4 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "pos_pair_blwmdeva_4"  {"pos_pair_blwmdeva_4 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "pstsPostBaseSubstitutionslookup subtable"  0 0 0 1
- 1 0 2
-  Coverage: 20 isign_ra_virama.alt2
-  FCoverage: 595 kadeva_viramadeva khadeva_viramadeva gadeva_viramadeva ghadeva_viramadeva cadeva_viramadeva chadeva_viramadeva jadeva_viramadeva jhadeva_viramadeva nyadeva_viramadeva tadeva_viramadeva thadeva_viramadeva dadeva_viramadeva dhadeva_viramadeva nadeva_viramadeva padeva_viramadeva phadeva_viramadeva badeva_viramadeva bhadeva_viramadeva madeva_viramadeva yadeva_viramadeva ladeva_viramadeva lladeva_viramadeva vadeva_viramadeva shadeva_viramadeva ssadeva_viramadeva sadeva_viramadeva hadeva_viramadeva ta_virama_ra_viramadeva ta_virama_ta_viramadeva ka_virama_ssa_viramadeva ja_virama_nya_viramadeva
-  FCoverage: 6 hadeva
- 1
-  SeqLookup: 0 "Single Substitution lookup 34" 
-EndFPST
 ChainSub2: glyph "PstsSub_Chain_Eyelash contextual 3"  0 0 0 1
  String: 33 viramadeva_radeva zerowidthjoiner
  BString: 0 
@@ -518,10 +468,11 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor0"  "pos_mark2base_blwmdeva_2 subtable" "Anchor1"  "pos_mark2mark_abvmdeva_2 subtable" "Anchor2"  "pos_mark2base_abvmdeva_4 subtable" "Anchor3"  "pos_mark2base_abvmdeva_6 subtable" "Anchor0"  "pos_mark2base_blwmdeva_0 subtable" "Anchor1"  "pos_mark2mark_abvmdeva_0 subtable" "Anchor2"  "pos_mark2base_abvmdeva_0 subtable" "Anchor3"  "pos_mark2base_abvmdeva_2 subtable" "Anchor0"  "blwmBelowBaseMarklookup00 subtable" "Anchor1"  "abvmAboveBaseMarklookup10 subtable" "Anchor2"  "abvmAboveBaseMarklookup20 subtable" "Anchor3"  "abvmAboveBaseMarklookup30 subtable" "Anchor0"  "blwmBelowBaseMarklookup0-0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1-0 subtable" "Anchor2"  "abvmAboveBaseMarklookup2-0 subtable" "Anchor3"  "abvmAboveBaseMarklookup3-0 subtable" "Anchor0"  "blwmBelowBaseMarklookup0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1 subtable" "Anchor2"  "abvmAboveBaseMarklookup2 subtable" "Anchor3"  "abvmAboveBaseMarklookup3 subtable" 
+AnchorClass2: "Anchor0"  "blwmBelowBaseMarklookup0-0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1-0 subtable" "Anchor2"  "abvmAboveBaseMarklookup2-0 subtable" "Anchor3"  "abvmAboveBaseMarklookup3-0 subtable" "Anchor0"  "blwmBelowBaseMarklookup0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1 subtable" "Anchor2"  "abvmAboveBaseMarklookup2 subtable" "Anchor3"  "abvmAboveBaseMarklookup3 subtable" 
 BeginChars: 65728 422
 
 StartChar: .notdef
@@ -1911,15 +1862,6 @@ AnchorPoint: "Anchor1" -127 5 mark 0
 AnchorPoint: "Anchor3" -120 666 mark 0
 AnchorPoint: "Anchor2" -127 5 mark 0
 AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1954,15 +1896,6 @@ AnchorPoint: "Anchor1" -127 5 mark 0
 AnchorPoint: "Anchor3" -120 666 mark 0
 AnchorPoint: "Anchor2" -127 5 mark 0
 AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1991,9 +1924,6 @@ Encoding: 2306 2306 51
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -133 666 mark 0
-AnchorPoint: "Anchor3" -133 666 mark 0
-AnchorPoint: "Anchor3" -133 666 mark 0
 AnchorPoint: "Anchor3" -133 666 mark 0
 AnchorPoint: "Anchor3" -133 666 mark 0
 LayerCount: 2
@@ -2114,20 +2044,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 636 664 basechar 0
 AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2187,20 +2103,6 @@ Encoding: 2310 2310 55
 Width: 1042
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
-AnchorPoint: "Anchor3" 792 664 basechar 0
 AnchorPoint: "Anchor3" 792 664 basechar 0
 AnchorPoint: "Anchor3" 792 664 basechar 0
 LayerCount: 2
@@ -2268,20 +2170,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 377 664 basechar 0
 AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
-AnchorPoint: "Anchor3" 377 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2335,20 +2223,6 @@ Encoding: 2312 2312 57
 Width: 510
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
-AnchorPoint: "Anchor3" 439 579 basechar 0
 AnchorPoint: "Anchor3" 439 579 basechar 0
 AnchorPoint: "Anchor3" 439 579 basechar 0
 LayerCount: 2
@@ -2424,20 +2298,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 461 664 basechar 0
 AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
-AnchorPoint: "Anchor3" 461 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2480,20 +2340,6 @@ Encoding: 2314 2314 59
 Width: 921
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
-AnchorPoint: "Anchor3" 453 664 basechar 0
 AnchorPoint: "Anchor3" 453 664 basechar 0
 AnchorPoint: "Anchor3" 453 664 basechar 0
 LayerCount: 2
@@ -2551,34 +2397,6 @@ Encoding: 2315 2315 60
 Width: 864
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor3" 460 664 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
-AnchorPoint: "Anchor0" 471 26 basechar 0
 AnchorPoint: "Anchor3" 460 664 basechar 0
 AnchorPoint: "Anchor0" 471 26 basechar 0
 AnchorPoint: "Anchor3" 460 664 basechar 0
@@ -2817,20 +2635,6 @@ Encoding: 2319 2319 64
 Width: 486
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
-AnchorPoint: "Anchor3" 265 664 basechar 0
 AnchorPoint: "Anchor3" 265 664 basechar 0
 AnchorPoint: "Anchor3" 265 664 basechar 0
 LayerCount: 2
@@ -3208,34 +3012,6 @@ Width: 749
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor0" 380 23 basechar 0
-AnchorPoint: "Anchor3" 381 664 basechar 0
 AnchorPoint: "Anchor0" 380 23 basechar 0
 AnchorPoint: "Anchor3" 381 664 basechar 0
 AnchorPoint: "Anchor0" 380 23 basechar 0
@@ -3292,34 +3068,6 @@ Encoding: 2326 2326 71
 Width: 825
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor3" 693 664 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
-AnchorPoint: "Anchor0" 695 29 basechar 0
 AnchorPoint: "Anchor3" 693 664 basechar 0
 AnchorPoint: "Anchor0" 695 29 basechar 0
 AnchorPoint: "Anchor3" 693 664 basechar 0
@@ -3387,20 +3135,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 386 664 basechar 0
 AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3434,20 +3168,6 @@ Encoding: 2328 2328 73
 Width: 636
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
-AnchorPoint: "Anchor3" 506 664 basechar 0
 AnchorPoint: "Anchor3" 506 664 basechar 0
 AnchorPoint: "Anchor3" 506 664 basechar 0
 LayerCount: 2
@@ -3490,7 +3210,7 @@ SplineSet
  -13 606 l 1,20,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: ngadeva
@@ -3498,34 +3218,6 @@ Encoding: 2329 2329 74
 Width: 717
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor3" 499 664 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
-AnchorPoint: "Anchor0" 394 50 basechar 0
 AnchorPoint: "Anchor3" 499 664 basechar 0
 AnchorPoint: "Anchor0" 394 50 basechar 0
 AnchorPoint: "Anchor3" 499 664 basechar 0
@@ -3579,7 +3271,7 @@ SplineSet
  -13 606 l 1,12,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: cadeva
@@ -3587,20 +3279,6 @@ Encoding: 2330 2330 75
 Width: 637
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
-AnchorPoint: "Anchor3" 503 664 basechar 0
 AnchorPoint: "Anchor3" 503 664 basechar 0
 AnchorPoint: "Anchor3" 503 664 basechar 0
 LayerCount: 2
@@ -3635,7 +3313,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: chadeva
@@ -3643,34 +3321,6 @@ Encoding: 2331 2331 76
 Width: 709
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
-AnchorPoint: "Anchor0" 322 61 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
 AnchorPoint: "Anchor0" 322 61 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
@@ -3728,7 +3378,7 @@ SplineSet
  437 33 437 33 310 33 c 0,38,39
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: jadeva
@@ -3736,20 +3386,6 @@ Encoding: 2332 2332 77
 Width: 728
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
-AnchorPoint: "Anchor3" 596 664 basechar 0
 AnchorPoint: "Anchor3" 596 664 basechar 0
 AnchorPoint: "Anchor3" 596 664 basechar 0
 LayerCount: 2
@@ -3789,20 +3425,6 @@ Encoding: 2333 2333 78
 Width: 731
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
-AnchorPoint: "Anchor3" 600 664 basechar 0
 AnchorPoint: "Anchor3" 600 664 basechar 0
 AnchorPoint: "Anchor3" 600 664 basechar 0
 LayerCount: 2
@@ -3865,7 +3487,7 @@ SplineSet
  318 -47 l 5,21,22
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 Substitution2: "LocalizedNpFormslookup2 subtable" jhadeva.np
 EndChar
 
@@ -3874,20 +3496,6 @@ Encoding: 2334 2334 79
 Width: 737
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
 AnchorPoint: "Anchor3" 603 664 basechar 0
 AnchorPoint: "Anchor3" 603 664 basechar 0
 LayerCount: 2
@@ -3931,7 +3539,7 @@ SplineSet
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: ttadeva
@@ -3939,34 +3547,6 @@ Encoding: 2335 2335 80
 Width: 565
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
-AnchorPoint: "Anchor0" 324 45 basechar 0
 AnchorPoint: "Anchor3" 421 664 basechar 0
 AnchorPoint: "Anchor0" 324 45 basechar 0
 AnchorPoint: "Anchor3" 421 664 basechar 0
@@ -3999,7 +3579,7 @@ SplineSet
  399 13 399 13 325 13 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: tthadeva
@@ -4007,34 +3587,6 @@ Encoding: 2336 2336 81
 Width: 580
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor3" 422 664 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
-AnchorPoint: "Anchor0" 316 39 basechar 0
 AnchorPoint: "Anchor3" 422 664 basechar 0
 AnchorPoint: "Anchor0" 316 39 basechar 0
 AnchorPoint: "Anchor3" 422 664 basechar 0
@@ -4071,7 +3623,7 @@ SplineSet
  409 7 409 7 324 7 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: ddadeva
@@ -4079,34 +3631,6 @@ Encoding: 2337 2337 82
 Width: 631
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor3" 495 664 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
-AnchorPoint: "Anchor0" 378 45 basechar 0
 AnchorPoint: "Anchor3" 495 664 basechar 0
 AnchorPoint: "Anchor0" 378 45 basechar 0
 AnchorPoint: "Anchor3" 495 664 basechar 0
@@ -4159,34 +3683,6 @@ Width: 579
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor0" 332 47 basechar 0
-AnchorPoint: "Anchor3" 428 664 basechar 0
 AnchorPoint: "Anchor0" 332 47 basechar 0
 AnchorPoint: "Anchor3" 428 664 basechar 0
 AnchorPoint: "Anchor0" 332 47 basechar 0
@@ -4238,34 +3734,6 @@ Width: 669
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor0" 529 29 basechar 0
-AnchorPoint: "Anchor3" 540 664 basechar 0
 AnchorPoint: "Anchor0" 529 29 basechar 0
 AnchorPoint: "Anchor3" 540 664 basechar 0
 AnchorPoint: "Anchor0" 529 29 basechar 0
@@ -4298,7 +3766,7 @@ SplineSet
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: tadeva
@@ -4306,20 +3774,6 @@ Encoding: 2340 2340 85
 Width: 608
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
-AnchorPoint: "Anchor3" 478 664 basechar 0
 AnchorPoint: "Anchor3" 478 664 basechar 0
 AnchorPoint: "Anchor3" 478 664 basechar 0
 LayerCount: 2
@@ -4348,7 +3802,7 @@ SplineSet
  43 250 43 250 43 326 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: thadeva
@@ -4356,20 +3810,6 @@ Encoding: 2341 2341 86
 Width: 685
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
-AnchorPoint: "Anchor3" 555 664 basechar 0
 AnchorPoint: "Anchor3" 555 664 basechar 0
 AnchorPoint: "Anchor3" 555 664 basechar 0
 LayerCount: 2
@@ -4414,7 +3854,7 @@ SplineSet
  354 133 354 133 300 133 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: dadeva
@@ -4422,34 +3862,6 @@ Encoding: 2342 2342 87
 Width: 541
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor3" 417 666 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
-AnchorPoint: "Anchor0" 458 7 basechar 0
 AnchorPoint: "Anchor3" 417 666 basechar 0
 AnchorPoint: "Anchor0" 458 7 basechar 0
 AnchorPoint: "Anchor3" 417 666 basechar 0
@@ -4486,7 +3898,7 @@ SplineSet
  -21 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: dhadeva
@@ -4494,20 +3906,6 @@ Encoding: 2343 2343 88
 Width: 648
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
-AnchorPoint: "Anchor3" 520 664 basechar 0
 AnchorPoint: "Anchor3" 520 664 basechar 0
 AnchorPoint: "Anchor3" 520 664 basechar 0
 LayerCount: 2
@@ -4559,7 +3957,7 @@ SplineSet
  332 113 332 113 276 113 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: nadeva
@@ -4567,20 +3965,6 @@ Encoding: 2344 2344 89
 Width: 585
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
-AnchorPoint: "Anchor3" 455 664 basechar 0
 AnchorPoint: "Anchor3" 455 664 basechar 0
 AnchorPoint: "Anchor3" 455 664 basechar 0
 LayerCount: 2
@@ -4616,20 +4000,6 @@ Encoding: 2345 2345 90
 Width: 585
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
-AnchorPoint: "Anchor3" 452 666 basechar 0
 AnchorPoint: "Anchor3" 452 666 basechar 0
 AnchorPoint: "Anchor3" 452 666 basechar 0
 LayerCount: 2
@@ -4673,20 +4043,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 404 664 basechar 0
 AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
-AnchorPoint: "Anchor3" 404 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4714,7 +4070,7 @@ SplineSet
  57 294 57 294 57 366 c 2,9,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: phadeva
@@ -4722,34 +4078,6 @@ Encoding: 2347 2347 92
 Width: 774
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor3" 386 664 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
-AnchorPoint: "Anchor0" 391 23 basechar 0
 AnchorPoint: "Anchor3" 386 664 basechar 0
 AnchorPoint: "Anchor0" 391 23 basechar 0
 AnchorPoint: "Anchor3" 386 664 basechar 0
@@ -4804,20 +4132,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 407 666 basechar 0
 AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
-AnchorPoint: "Anchor3" 407 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4856,7 +4170,7 @@ SplineSet
  39 248 39 248 39 320 c 0,10,11
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: bhadeva
@@ -4864,20 +4178,6 @@ Encoding: 2349 2349 94
 Width: 657
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
 LayerCount: 2
@@ -4920,7 +4220,7 @@ SplineSet
  119 306 119 306 119 326 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: madeva
@@ -4928,20 +4228,6 @@ Encoding: 2350 2350 95
 Width: 579
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
-AnchorPoint: "Anchor3" 447 664 basechar 0
 AnchorPoint: "Anchor3" 447 664 basechar 0
 AnchorPoint: "Anchor3" 447 664 basechar 0
 LayerCount: 2
@@ -4973,7 +4259,7 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: yadeva
@@ -4981,34 +4267,6 @@ Encoding: 2351 2351 96
 Width: 596
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
 AnchorPoint: "Anchor3" 464 664 basechar 0
 AnchorPoint: "Anchor0" 466 26 basechar 0
 AnchorPoint: "Anchor3" 464 664 basechar 0
@@ -5055,20 +4313,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 331 664 basechar 0
 AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
-AnchorPoint: "Anchor3" 331 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5103,20 +4347,6 @@ Encoding: 2353 2353 98
 Width: 442
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
-AnchorPoint: "Anchor3" 335 665 basechar 0
 AnchorPoint: "Anchor3" 335 665 basechar 0
 AnchorPoint: "Anchor3" 335 665 basechar 0
 LayerCount: 2
@@ -5161,20 +4391,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 597 664 basechar 0
 AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5210,7 +4426,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 Substitution2: "LocalizedMrForms_lookup0 subtable" ladeva.mr
 EndChar
 
@@ -5219,34 +4435,6 @@ Encoding: 2355 2355 100
 Width: 735
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor3" 519 664 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
-AnchorPoint: "Anchor0" 527 101 basechar 0
 AnchorPoint: "Anchor3" 519 664 basechar 0
 AnchorPoint: "Anchor0" 527 101 basechar 0
 AnchorPoint: "Anchor3" 519 664 basechar 0
@@ -5305,34 +4493,6 @@ Encoding: 2356 2356 101
 Width: 733
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor3" 515 664 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
-AnchorPoint: "Anchor0" 553 98 basechar 0
 AnchorPoint: "Anchor3" 515 664 basechar 0
 AnchorPoint: "Anchor0" 553 98 basechar 0
 AnchorPoint: "Anchor3" 515 664 basechar 0
@@ -5399,20 +4559,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 410 665 basechar 0
 AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
-AnchorPoint: "Anchor3" 410 665 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5445,7 +4591,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: shadeva
@@ -5453,20 +4599,6 @@ Encoding: 2358 2358 103
 Width: 676
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
-AnchorPoint: "Anchor3" 546 664 basechar 0
 AnchorPoint: "Anchor3" 546 664 basechar 0
 AnchorPoint: "Anchor3" 546 664 basechar 0
 LayerCount: 2
@@ -5511,7 +4643,7 @@ SplineSet
  330 0 l 1,20,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 Substitution2: "LocalizedMrForms_lookup0 subtable" shadeva.mr
 EndChar
 
@@ -5520,20 +4652,6 @@ Encoding: 2359 2359 104
 Width: 535
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
-AnchorPoint: "Anchor3" 404 666 basechar 0
 AnchorPoint: "Anchor3" 404 666 basechar 0
 AnchorPoint: "Anchor3" 404 666 basechar 0
 LayerCount: 2
@@ -5566,7 +4684,7 @@ SplineSet
  -13 606 l 1,11,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: sadeva
@@ -5574,20 +4692,6 @@ Encoding: 2360 2360 105
 Width: 709
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
-AnchorPoint: "Anchor3" 576 665 basechar 0
 AnchorPoint: "Anchor3" 576 665 basechar 0
 AnchorPoint: "Anchor3" 576 665 basechar 0
 LayerCount: 2
@@ -5623,7 +4727,7 @@ SplineSet
  310 405 310 405 304 386 c 1,24,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: hadeva
@@ -5631,34 +4735,6 @@ Encoding: 2361 2361 106
 Width: 527
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor3" 401 666 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
-AnchorPoint: "Anchor0" 335 2 basechar 0
 AnchorPoint: "Anchor3" 401 666 basechar 0
 AnchorPoint: "Anchor0" 335 2 basechar 0
 AnchorPoint: "Anchor3" 401 666 basechar 0
@@ -5706,7 +4782,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "pos_pair_blwmdeva_4 subtable"  109 0 "pos_pair_blwmdeva_2 subtable"  109 0 "blwmBelowBaseMarklookup500 subtable"  109 0 "blwmBelowBaseMarklookup52 subtable"  109 0 "pos_pair_blwmdeva_0-0 subtable"  109 0 "blwmBelowBaseMarklookup51-0 subtable"  109 0 "blwmBelowBaseMarklookup50-1 subtable"  109 0 "blwmBelowBaseMarklookup5-3 subtable"  109 0 "pos_pair_blwmdeva_0 subtable"  109 0 "blwmBelowBaseMarklookup51 subtable"  109 0 "blwmBelowBaseMarklookup50-0 subtable"  109 0 "blwmBelowBaseMarklookup5-2 subtable"  109 0 "blwmBelowBaseMarklookup50 subtable"  109 0 "blwmBelowBaseMarklookup5-1 subtable"  109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
+Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: oesigndeva
@@ -5714,9 +4790,6 @@ Encoding: 2362 2362 107
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -133 666 mark 0
-AnchorPoint: "Anchor3" -133 666 mark 0
-AnchorPoint: "Anchor3" -133 666 mark 0
 AnchorPoint: "Anchor3" -133 666 mark 0
 AnchorPoint: "Anchor3" -133 666 mark 0
 LayerCount: 2
@@ -5864,7 +4937,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Substitution2: "Single Substitution lookup 23 subtable" isigndeva.ja
 Substitution2: "Single Substitution lookup 21 subtable" isigndeva.tha
 Substitution2: "Single Substitution lookup 19 subtable" isigndeva.alt4
@@ -5878,20 +4951,6 @@ Encoding: 2368 2368 113
 Width: 266
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
-AnchorPoint: "Anchor2" 263 55 basechar 0
 AnchorPoint: "Anchor2" 263 55 basechar 0
 AnchorPoint: "Anchor2" 263 55 basechar 0
 LayerCount: 2
@@ -5932,9 +4991,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor0" -143 61 mark 0
 AnchorPoint: "Anchor0" -143 61 mark 0
-AnchorPoint: "Anchor0" -143 61 mark 0
-AnchorPoint: "Anchor0" -143 61 mark 0
-AnchorPoint: "Anchor0" -143 61 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5966,9 +5022,6 @@ Encoding: 2370 2370 115
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor0" -130 69 mark 0
-AnchorPoint: "Anchor0" -130 69 mark 0
-AnchorPoint: "Anchor0" -130 69 mark 0
 AnchorPoint: "Anchor0" -130 69 mark 0
 AnchorPoint: "Anchor0" -130 69 mark 0
 LayerCount: 2
@@ -6004,9 +5057,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor0" -127 50 mark 0
 AnchorPoint: "Anchor0" -127 50 mark 0
-AnchorPoint: "Anchor0" -127 50 mark 0
-AnchorPoint: "Anchor0" -127 50 mark 0
-AnchorPoint: "Anchor0" -127 50 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6036,9 +5086,6 @@ Encoding: 2372 2372 117
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor0" -130 69 mark 0
-AnchorPoint: "Anchor0" -130 69 mark 0
-AnchorPoint: "Anchor0" -130 69 mark 0
 AnchorPoint: "Anchor0" -130 69 mark 0
 AnchorPoint: "Anchor0" -130 69 mark 0
 LayerCount: 2
@@ -6083,9 +5130,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -127 666 mark 0
 AnchorPoint: "Anchor3" -127 666 mark 0
-AnchorPoint: "Anchor3" -127 666 mark 0
-AnchorPoint: "Anchor3" -127 666 mark 0
-AnchorPoint: "Anchor3" -127 666 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6111,9 +5155,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -127 665 mark 0
 AnchorPoint: "Anchor3" -127 665 mark 0
-AnchorPoint: "Anchor3" -127 665 mark 0
-AnchorPoint: "Anchor3" -127 665 mark 0
-AnchorPoint: "Anchor3" -127 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6130,7 +5171,7 @@ SplineSet
  -241 807 -241 807 -296 807 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: esigndeva
@@ -6138,23 +5179,6 @@ Encoding: 2375 2375 120
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -122 664 mark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor3" -122 664 mark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor3" -122 664 mark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
-AnchorPoint: "Anchor1" 0 0 basemark 0
 AnchorPoint: "Anchor3" -122 664 mark 0
 AnchorPoint: "Anchor1" 0 0 basemark 0
 AnchorPoint: "Anchor3" -122 664 mark 0
@@ -6176,23 +5200,6 @@ Encoding: 2376 2376 121
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -135 664 mark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor3" -135 664 mark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor3" -135 664 mark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
-AnchorPoint: "Anchor1" 55 63 basemark 0
 AnchorPoint: "Anchor3" -135 664 mark 0
 AnchorPoint: "Anchor1" 55 63 basemark 0
 AnchorPoint: "Anchor3" -135 664 mark 0
@@ -6282,20 +5289,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor2" 231 111 basechar 0
 AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
-AnchorPoint: "Anchor2" 231 111 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6323,20 +5316,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor2" 335 71 basechar 0
 AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
-AnchorPoint: "Anchor2" 335 71 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6358,7 +5337,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: viramadeva
@@ -6366,9 +5345,6 @@ Encoding: 2381 2381 126
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor0" -119 42 mark 0
-AnchorPoint: "Anchor0" -119 42 mark 0
-AnchorPoint: "Anchor0" -119 42 mark 0
 AnchorPoint: "Anchor0" -119 42 mark 0
 AnchorPoint: "Anchor0" -119 42 mark 0
 LayerCount: 2
@@ -6543,9 +5519,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -127 666 mark 0
 AnchorPoint: "Anchor3" -127 666 mark 0
-AnchorPoint: "Anchor3" -127 666 mark 0
-AnchorPoint: "Anchor3" -127 666 mark 0
-AnchorPoint: "Anchor3" -127 666 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6582,9 +5555,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -69 664 mark 0
 AnchorPoint: "Anchor3" -69 664 mark 0
-AnchorPoint: "Anchor3" -69 664 mark 0
-AnchorPoint: "Anchor3" -69 664 mark 0
-AnchorPoint: "Anchor3" -69 664 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6604,9 +5574,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -143 665 mark 0
 AnchorPoint: "Anchor3" -143 665 mark 0
-AnchorPoint: "Anchor3" -143 665 mark 0
-AnchorPoint: "Anchor3" -143 665 mark 0
-AnchorPoint: "Anchor3" -143 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6624,15 +5591,6 @@ Encoding: 2389 2389 134
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
-AnchorPoint: "Anchor3" -120 666 mark 0
-AnchorPoint: "Anchor2" -127 5 mark 0
-AnchorPoint: "Anchor1" -127 5 mark 0
 AnchorPoint: "Anchor3" -120 666 mark 0
 AnchorPoint: "Anchor2" -127 5 mark 0
 AnchorPoint: "Anchor1" -127 5 mark 0
@@ -6669,9 +5627,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor0" -259 -1 mark 0
 AnchorPoint: "Anchor0" -259 -1 mark 0
-AnchorPoint: "Anchor0" -259 -1 mark 0
-AnchorPoint: "Anchor0" -259 -1 mark 0
-AnchorPoint: "Anchor0" -259 -1 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6695,9 +5650,6 @@ Encoding: 2391 2391 136
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor0" -265 0 mark 0
-AnchorPoint: "Anchor0" -265 0 mark 0
-AnchorPoint: "Anchor0" -265 0 mark 0
 AnchorPoint: "Anchor0" -265 0 mark 0
 AnchorPoint: "Anchor0" -265 0 mark 0
 LayerCount: 2
@@ -6734,34 +5686,6 @@ Encoding: 2392 2392 137
 Width: 753
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor3" 385 664 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
-AnchorPoint: "Anchor0" 386 23 basechar 0
 AnchorPoint: "Anchor3" 385 664 basechar 0
 AnchorPoint: "Anchor0" 386 23 basechar 0
 AnchorPoint: "Anchor3" 385 664 basechar 0
@@ -6825,20 +5749,6 @@ Encoding: 2393 2393 138
 Width: 836
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
-AnchorPoint: "Anchor3" 707 664 basechar 0
 AnchorPoint: "Anchor3" 707 664 basechar 0
 AnchorPoint: "Anchor3" 707 664 basechar 0
 LayerCount: 2
@@ -6912,20 +5822,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 392 666 basechar 0
 AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
-AnchorPoint: "Anchor3" 392 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6965,20 +5861,6 @@ Encoding: 2395 2395 140
 Width: 733
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
-AnchorPoint: "Anchor3" 603 664 basechar 0
 AnchorPoint: "Anchor3" 603 664 basechar 0
 AnchorPoint: "Anchor3" 603 664 basechar 0
 LayerCount: 2
@@ -7024,34 +5906,6 @@ Encoding: 2396 2396 141
 Width: 632
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor3" 502 664 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
-AnchorPoint: "Anchor0" 407 50 basechar 0
 AnchorPoint: "Anchor3" 502 664 basechar 0
 AnchorPoint: "Anchor0" 407 50 basechar 0
 AnchorPoint: "Anchor3" 502 664 basechar 0
@@ -7110,34 +5964,6 @@ Width: 572
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor0" 332 58 basechar 0
-AnchorPoint: "Anchor3" 427 664 basechar 0
 AnchorPoint: "Anchor0" 332 58 basechar 0
 AnchorPoint: "Anchor3" 427 664 basechar 0
 AnchorPoint: "Anchor0" 332 58 basechar 0
@@ -7194,34 +6020,6 @@ Encoding: 2398 2398 143
 Width: 765
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor3" 379 664 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
-AnchorPoint: "Anchor0" 380 21 basechar 0
 AnchorPoint: "Anchor3" 379 664 basechar 0
 AnchorPoint: "Anchor0" 380 21 basechar 0
 AnchorPoint: "Anchor3" 379 664 basechar 0
@@ -7282,20 +6080,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 465 665 basechar 0
 AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
-AnchorPoint: "Anchor3" 465 665 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7342,34 +6126,6 @@ Encoding: 2400 2400 145
 Width: 882
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor3" 467 666 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
-AnchorPoint: "Anchor0" 468 15 basechar 0
 AnchorPoint: "Anchor3" 467 666 basechar 0
 AnchorPoint: "Anchor0" 468 15 basechar 0
 AnchorPoint: "Anchor3" 467 666 basechar 0
@@ -7508,9 +6264,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor0" -141 37 mark 0
 AnchorPoint: "Anchor0" -141 37 mark 0
-AnchorPoint: "Anchor0" -141 37 mark 0
-AnchorPoint: "Anchor0" -141 37 mark 0
-AnchorPoint: "Anchor0" -141 37 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7565,9 +6318,6 @@ Encoding: 2403 2403 148
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor0" -138 34 mark 0
-AnchorPoint: "Anchor0" -138 34 mark 0
-AnchorPoint: "Anchor0" -138 34 mark 0
 AnchorPoint: "Anchor0" -138 34 mark 0
 AnchorPoint: "Anchor0" -138 34 mark 0
 LayerCount: 2
@@ -8127,20 +6877,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 636 664 basechar 0
 AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8211,20 +6947,6 @@ Encoding: 2419 2419 164
 Width: 768
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
-AnchorPoint: "Anchor3" 636 664 basechar 0
 AnchorPoint: "Anchor3" 636 664 basechar 0
 AnchorPoint: "Anchor3" 636 664 basechar 0
 LayerCount: 2
@@ -8442,20 +7164,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 640 711 basechar 0
 AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8526,20 +7234,6 @@ Encoding: 2423 2423 168
 Width: 768
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
-AnchorPoint: "Anchor0" 640 711 basechar 0
 AnchorPoint: "Anchor0" 640 711 basechar 0
 AnchorPoint: "Anchor0" 640 711 basechar 0
 LayerCount: 2
@@ -8676,34 +7370,6 @@ Width: 596
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor0" 466 26 basechar 0
-AnchorPoint: "Anchor3" 464 664 basechar 0
 AnchorPoint: "Anchor0" 466 26 basechar 0
 AnchorPoint: "Anchor3" 464 664 basechar 0
 AnchorPoint: "Anchor0" 466 26 basechar 0
@@ -8752,20 +7418,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 390 663 basechar 0
 AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
-AnchorPoint: "Anchor3" 390 663 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8802,20 +7454,6 @@ Encoding: 2428 2428 172
 Width: 728
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
-AnchorPoint: "Anchor3" 596 666 basechar 0
 AnchorPoint: "Anchor3" 596 666 basechar 0
 AnchorPoint: "Anchor3" 596 666 basechar 0
 LayerCount: 2
@@ -8888,20 +7526,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 497 666 basechar 0
 AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
-AnchorPoint: "Anchor3" 497 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8954,20 +7578,6 @@ Encoding: 2431 2431 175
 Width: 537
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
-AnchorPoint: "Anchor3" 406 665 basechar 0
 AnchorPoint: "Anchor3" 406 665 basechar 0
 AnchorPoint: "Anchor3" 406 665 basechar 0
 LayerCount: 2
@@ -9347,9 +7957,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -127 721 mark 0
 AnchorPoint: "Anchor3" -127 721 mark 0
-AnchorPoint: "Anchor3" -127 721 mark 0
-AnchorPoint: "Anchor3" -127 721 mark 0
-AnchorPoint: "Anchor3" -127 721 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9380,9 +7987,6 @@ Encoding: 43233 43233 188
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
@@ -9418,9 +8022,6 @@ Encoding: 43234 43234 189
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 675 mark 0
-AnchorPoint: "Anchor3" -137 675 mark 0
-AnchorPoint: "Anchor3" -137 675 mark 0
 AnchorPoint: "Anchor3" -137 675 mark 0
 AnchorPoint: "Anchor3" -137 675 mark 0
 LayerCount: 2
@@ -9462,9 +8063,6 @@ Encoding: 43235 43235 190
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -147 671 mark 0
-AnchorPoint: "Anchor3" -147 671 mark 0
-AnchorPoint: "Anchor3" -147 671 mark 0
 AnchorPoint: "Anchor3" -147 671 mark 0
 AnchorPoint: "Anchor3" -147 671 mark 0
 LayerCount: 2
@@ -9519,9 +8117,6 @@ Encoding: 43236 43236 191
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -130 681 mark 0
-AnchorPoint: "Anchor3" -130 681 mark 0
-AnchorPoint: "Anchor3" -130 681 mark 0
 AnchorPoint: "Anchor3" -130 681 mark 0
 AnchorPoint: "Anchor3" -130 681 mark 0
 LayerCount: 2
@@ -9627,9 +8222,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -137 679 mark 0
 AnchorPoint: "Anchor3" -137 679 mark 0
-AnchorPoint: "Anchor3" -137 679 mark 0
-AnchorPoint: "Anchor3" -137 679 mark 0
-AnchorPoint: "Anchor3" -137 679 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9684,9 +8276,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9732,9 +8321,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9766,9 +8352,6 @@ Encoding: 43241 43241 196
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 674 mark 0
-AnchorPoint: "Anchor3" -137 674 mark 0
-AnchorPoint: "Anchor3" -137 674 mark 0
 AnchorPoint: "Anchor3" -137 674 mark 0
 AnchorPoint: "Anchor3" -137 674 mark 0
 LayerCount: 2
@@ -9816,9 +8399,6 @@ Encoding: 43242 43242 197
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
@@ -9888,9 +8468,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9935,9 +8512,6 @@ Encoding: 43244 43244 199
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -131 681 mark 0
-AnchorPoint: "Anchor3" -131 681 mark 0
-AnchorPoint: "Anchor3" -131 681 mark 0
 AnchorPoint: "Anchor3" -131 681 mark 0
 AnchorPoint: "Anchor3" -131 681 mark 0
 LayerCount: 2
@@ -9999,9 +8573,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10035,9 +8606,6 @@ Encoding: 43246 43246 201
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
@@ -10074,9 +8642,6 @@ Encoding: 43247 43247 202
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
@@ -10117,9 +8682,6 @@ Encoding: 43248 43248 203
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
@@ -10183,9 +8745,6 @@ Encoding: 43249 43249 204
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
-AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 AnchorPoint: "Anchor3" -137 681 mark 0
 LayerCount: 2
@@ -10532,34 +9091,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
 AnchorPoint: "Anchor0" 324 56 basechar 0
 AnchorPoint: "Anchor3" 529 668 basechar 0
 AnchorPoint: "Anchor0" 324 56 basechar 0
@@ -10616,34 +9147,6 @@ Encoding: 43257 43257 212
 Width: 709
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor3" 529 668 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
-AnchorPoint: "Anchor0" 324 56 basechar 0
 AnchorPoint: "Anchor3" 529 668 basechar 0
 AnchorPoint: "Anchor0" 324 56 basechar 0
 AnchorPoint: "Anchor3" 529 668 basechar 0
@@ -10763,9 +9266,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -125 665 mark 0
 AnchorPoint: "Anchor3" -125 665 mark 0
-AnchorPoint: "Anchor3" -125 665 mark 0
-AnchorPoint: "Anchor3" -125 665 mark 0
-AnchorPoint: "Anchor3" -125 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10791,9 +9291,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -115 664 mark 0
 AnchorPoint: "Anchor3" -115 664 mark 0
-AnchorPoint: "Anchor3" -115 664 mark 0
-AnchorPoint: "Anchor3" -115 664 mark 0
-AnchorPoint: "Anchor3" -115 664 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10816,7 +9313,7 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" esigndeva radeva_viramadeva
 EndChar
 
@@ -10825,9 +9322,6 @@ Encoding: 65541 -1 218
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -117 673 mark 0
-AnchorPoint: "Anchor3" -117 673 mark 0
-AnchorPoint: "Anchor3" -117 673 mark 0
 AnchorPoint: "Anchor3" -117 673 mark 0
 AnchorPoint: "Anchor3" -117 673 mark 0
 LayerCount: 2
@@ -10867,9 +9361,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -131 665 mark 0
 AnchorPoint: "Anchor3" -131 665 mark 0
-AnchorPoint: "Anchor3" -131 665 mark 0
-AnchorPoint: "Anchor3" -131 665 mark 0
-AnchorPoint: "Anchor3" -131 665 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10898,9 +9389,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -111 671 mark 0
 AnchorPoint: "Anchor3" -111 671 mark 0
-AnchorPoint: "Anchor3" -111 671 mark 0
-AnchorPoint: "Anchor3" -111 671 mark 0
-AnchorPoint: "Anchor3" -111 671 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10926,7 +9414,7 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" aisigndeva radeva_viramadeva
 EndChar
 
@@ -10934,9 +9422,6 @@ StartChar: aisign_ra_virama_anusvara
 Encoding: 65544 -1 221
 Width: 0
 GlyphClass: 4
-AnchorPoint: "Anchor3" -113 666 mark 0
-AnchorPoint: "Anchor3" -113 666 mark 0
-AnchorPoint: "Anchor3" -113 666 mark 0
 AnchorPoint: "Anchor3" -113 666 mark 0
 AnchorPoint: "Anchor3" -113 666 mark 0
 LayerCount: 2
@@ -10979,9 +9464,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor3" -71 664 mark 0
 AnchorPoint: "Anchor3" -71 664 mark 0
-AnchorPoint: "Anchor3" -71 664 mark 0
-AnchorPoint: "Anchor3" -71 664 mark 0
-AnchorPoint: "Anchor3" -71 664 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11010,9 +9492,6 @@ Encoding: 65546 -1 223
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor3" -112 665 mark 0
-AnchorPoint: "Anchor3" -112 665 mark 0
-AnchorPoint: "Anchor3" -112 665 mark 0
 AnchorPoint: "Anchor3" -112 665 mark 0
 AnchorPoint: "Anchor3" -112 665 mark 0
 LayerCount: 2
@@ -11067,9 +9546,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor0" -135 128 mark 0
 AnchorPoint: "Anchor0" -135 128 mark 0
-AnchorPoint: "Anchor0" -135 128 mark 0
-AnchorPoint: "Anchor0" -135 128 mark 0
-AnchorPoint: "Anchor0" -135 128 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11083,8 +9559,8 @@ SplineSet
  -360 -220 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "BelowBaseFormslookup9 subtable" viramadeva radeva
 Ligature2: "BelowBaseFormslookup9 subtable" radeva viramadeva
+Ligature2: "BelowBaseFormslookup9 subtable" viramadeva radeva
 EndChar
 
 StartChar: shadeva_viramadeva_radeva
@@ -11092,20 +9568,6 @@ Encoding: 65549 -1 226
 Width: 709
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
-AnchorPoint: "Anchor3" 578 664 basechar 0
 AnchorPoint: "Anchor3" 578 664 basechar 0
 AnchorPoint: "Anchor3" 578 664 basechar 0
 LayerCount: 2
@@ -11149,11 +9611,11 @@ SplineSet
  13 290 l 1,12,-1
 EndSplineSet
 Validated: 1
-Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva viramadeva radeva
 Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva.mr radeva
-Ligature2: "VattuVariantslookup30 subtable" shadeva viramadeva_radeva
-Ligature2: "VattuVariantslookup30 subtable" shadeva_viramadeva_alt radeva
+Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva viramadeva radeva
 Ligature2: "VattuVariantslookup30 subtable" shadeva.mr viramadeva_radeva
+Ligature2: "VattuVariantslookup30 subtable" shadeva_viramadeva_alt radeva
+Ligature2: "VattuVariantslookup30 subtable" shadeva viramadeva_radeva
 EndChar
 
 StartChar: phadeva_radeva_nuktadeva
@@ -11161,34 +9623,6 @@ Encoding: 65550 -1 227
 Width: 794
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor3" 412 664 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
-AnchorPoint: "Anchor0" 415 23 basechar 0
 AnchorPoint: "Anchor3" 412 664 basechar 0
 AnchorPoint: "Anchor0" 415 23 basechar 0
 AnchorPoint: "Anchor3" 412 664 basechar 0
@@ -11288,20 +9722,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 528 666 basechar 0
 AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
-AnchorPoint: "Anchor3" 528 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11362,7 +9782,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "AkhandFormslookup6 subtable" kadeva viramadeva ssadeva
-LCarets2: 2 0 0 
 EndChar
 
 StartChar: jadeva_viramadeva_nyadeva
@@ -11370,20 +9789,6 @@ Encoding: 65553 -1 230
 Width: 711
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
-AnchorPoint: "Anchor3" 579 665 basechar 0
 AnchorPoint: "Anchor3" 579 665 basechar 0
 AnchorPoint: "Anchor3" 579 665 basechar 0
 LayerCount: 2
@@ -11439,8 +9844,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "AkhandFormslookup6 subtable" jadeva viramadeva nyadeva
-Ligature2: "LocalizedMrHalfFormslookup1 subtable" jadeva viramadeva nyadeva
-LCarets2: 2 0 0 
 EndChar
 
 StartChar: kadeva_viramadeva
@@ -12675,7 +11078,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: isigndeva_anusvara.alt2
@@ -12757,8 +11160,8 @@ SplineSet
  294 0 l 1,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "HalfFormslookup10 subtable" ladeva.mr viramadeva
 Ligature2: "HalfFormslookup10 subtable" ladeva viramadeva
+Ligature2: "HalfFormslookup10 subtable" ladeva.mr viramadeva
 EndChar
 
 StartChar: lladeva_viramadeva
@@ -13376,7 +11779,7 @@ SplineSet
  165 53 l 1,4,-1
 EndSplineSet
 Validated: 1
-Ligature2: "VattuVariantslookup30 subtable" tadeva viramadeva_radeva viramadeva
+Ligature2: "VattuVariantslookup30 subtable" tadeva_viramadeva viramadeva_radeva
 Ligature2: "HalfFormslookup10 subtable" tadeva_viramadeva_radeva viramadeva
 EndChar
 
@@ -13623,7 +12026,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "PostBaseSubstitutionslookup subtable" isigndeva radeva_viramadeva
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva radeva_viramadeva
 EndChar
@@ -13716,7 +12119,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: isigndeva_anusvaradeva.alt3
@@ -13806,7 +12209,7 @@ SplineSet
  280 666 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt3 radeva_viramadeva
 EndChar
 
@@ -13950,7 +12353,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Substitution2: "Single Substitution lookup 29 subtable" iisigndeva_ra_virama.alt1
 Ligature2: "PostBaseSubstitutionslookup subtable" iisigndeva radeva_viramadeva
 EndChar
@@ -14015,20 +12418,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor2" 207 111 basechar 0
 AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
-AnchorPoint: "Anchor2" 207 111 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14057,7 +12446,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: iisigndeva_anusvaradeva.alt1
@@ -14145,7 +12534,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "PostBaseSubstitutionslookup subtable" iisigndeva.alt1 radeva_viramadeva
 EndChar
 
@@ -14208,9 +12597,6 @@ GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor0" -127 63 mark 0
 AnchorPoint: "Anchor0" -127 63 mark 0
-AnchorPoint: "Anchor0" -127 63 mark 0
-AnchorPoint: "Anchor0" -127 63 mark 0
-AnchorPoint: "Anchor0" -127 63 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14250,9 +12636,6 @@ Encoding: 65616 -1 293
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor0" -127 58 mark 0
-AnchorPoint: "Anchor0" -127 58 mark 0
-AnchorPoint: "Anchor0" -127 58 mark 0
 AnchorPoint: "Anchor0" -127 58 mark 0
 AnchorPoint: "Anchor0" -127 58 mark 0
 LayerCount: 2
@@ -14392,8 +12775,8 @@ SplineSet
  229 293 229 293 201 293 c 0,4,5
 EndSplineSet
 Validated: 1
-Ligature2: "LigatureSubstitutionlookup28 subtable" viramadeva_radeva zerowidthjoiner
 Ligature2: "LigatureSubstitutionlookup28 subtable" rradeva viramadeva
+Ligature2: "LigatureSubstitutionlookup28 subtable" viramadeva_radeva zerowidthjoiner
 Ligature2: "HalfFormslookup10 subtable" radeva viramadeva zerowidthjoiner
 EndChar
 
@@ -14402,34 +12785,6 @@ Encoding: 65622 -1 297
 Width: 769
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
 AnchorPoint: "Anchor3" 396 666 basechar 0
 AnchorPoint: "Anchor0" 394 31 basechar 0
 AnchorPoint: "Anchor3" 396 666 basechar 0
@@ -14489,20 +12844,6 @@ Encoding: 65623 -1 298
 Width: 820
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
-AnchorPoint: "Anchor0" 692 15 basechar 0
 AnchorPoint: "Anchor0" 692 15 basechar 0
 AnchorPoint: "Anchor0" 692 15 basechar 0
 LayerCount: 2
@@ -14844,34 +13185,6 @@ Width: 797
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor0" 412 15 basechar 0
-AnchorPoint: "Anchor3" 412 666 basechar 0
 AnchorPoint: "Anchor0" 412 15 basechar 0
 AnchorPoint: "Anchor3" 412 666 basechar 0
 AnchorPoint: "Anchor0" 412 15 basechar 0
@@ -15156,20 +13469,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 330 -85 basechar 0
 AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
-AnchorPoint: "Anchor0" 330 -85 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15280,8 +13579,8 @@ SplineSet
  13 313 l 1,12,-1
 EndSplineSet
 Validated: 1
-Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva rvocalicsigndeva
 Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva.mr rvocalicsigndeva
+Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva rvocalicsigndeva
 LCarets2: 1 0 
 EndChar
 
@@ -15290,34 +13589,6 @@ Encoding: 65638 -1 313
 Width: 777
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor3" 400 666 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
-AnchorPoint: "Anchor0" 402 31 basechar 0
 AnchorPoint: "Anchor3" 400 666 basechar 0
 AnchorPoint: "Anchor0" 402 31 basechar 0
 AnchorPoint: "Anchor3" 400 666 basechar 0
@@ -15408,34 +13679,6 @@ Width: 813
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor0" 436 23 basechar 0
-AnchorPoint: "Anchor3" 434 664 basechar 0
 AnchorPoint: "Anchor0" 436 23 basechar 0
 AnchorPoint: "Anchor3" 434 664 basechar 0
 AnchorPoint: "Anchor0" 436 23 basechar 0
@@ -15489,34 +13732,6 @@ Encoding: 65640 -1 315
 Width: 760
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor3" 394 665 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
-AnchorPoint: "Anchor0" 551 -111 basechar 0
 AnchorPoint: "Anchor3" 394 665 basechar 0
 AnchorPoint: "Anchor0" 551 -111 basechar 0
 AnchorPoint: "Anchor3" 394 665 basechar 0
@@ -15604,34 +13819,6 @@ Encoding: 65641 -1 316
 Width: 764
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor3" 403 666 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
-AnchorPoint: "Anchor0" 398 23 basechar 0
 AnchorPoint: "Anchor3" 403 666 basechar 0
 AnchorPoint: "Anchor0" 398 23 basechar 0
 AnchorPoint: "Anchor3" 403 666 basechar 0
@@ -15755,34 +13942,6 @@ Width: 707
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor0" 343 -138 basechar 0
-AnchorPoint: "Anchor3" 487 664 basechar 0
 AnchorPoint: "Anchor0" 343 -138 basechar 0
 AnchorPoint: "Anchor3" 487 664 basechar 0
 AnchorPoint: "Anchor0" 343 -138 basechar 0
@@ -15883,34 +14042,6 @@ Encoding: 65644 -1 319
 Width: 712
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor3" 504 664 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
-AnchorPoint: "Anchor0" 474 -90 basechar 0
 AnchorPoint: "Anchor3" 504 664 basechar 0
 AnchorPoint: "Anchor0" 474 -90 basechar 0
 AnchorPoint: "Anchor3" 504 664 basechar 0
@@ -16017,34 +14148,6 @@ Width: 680
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor0" 450 -90 basechar 0
-AnchorPoint: "Anchor3" 470 665 basechar 0
 AnchorPoint: "Anchor0" 450 -90 basechar 0
 AnchorPoint: "Anchor3" 470 665 basechar 0
 AnchorPoint: "Anchor0" 450 -90 basechar 0
@@ -16128,34 +14231,6 @@ Encoding: 65646 -1 321
 Width: 676
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor3" 474 666 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
-AnchorPoint: "Anchor0" 442 -117 basechar 0
 AnchorPoint: "Anchor3" 474 666 basechar 0
 AnchorPoint: "Anchor0" 442 -117 basechar 0
 AnchorPoint: "Anchor3" 474 666 basechar 0
@@ -16251,34 +14326,6 @@ Width: 708
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor0" 495 -106 basechar 0
-AnchorPoint: "Anchor3" 496 665 basechar 0
 AnchorPoint: "Anchor0" 495 -106 basechar 0
 AnchorPoint: "Anchor3" 496 665 basechar 0
 AnchorPoint: "Anchor0" 495 -106 basechar 0
@@ -16361,34 +14408,6 @@ Encoding: 65648 -1 323
 Width: 707
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor3" 492 666 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
-AnchorPoint: "Anchor0" 500 -63 basechar 0
 AnchorPoint: "Anchor3" 492 666 basechar 0
 AnchorPoint: "Anchor0" 500 -63 basechar 0
 AnchorPoint: "Anchor3" 492 666 basechar 0
@@ -16561,20 +14580,6 @@ Encoding: 65650 -1 325
 Width: 668
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
-AnchorPoint: "Anchor0" 452 -103 basechar 0
 AnchorPoint: "Anchor0" 452 -103 basechar 0
 AnchorPoint: "Anchor0" 452 -103 basechar 0
 LayerCount: 2
@@ -16840,20 +14845,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 308 -117 basechar 0
 AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
-AnchorPoint: "Anchor0" 308 -117 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16910,20 +14901,6 @@ Encoding: 65655 -1 330
 Width: 579
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
-AnchorPoint: "Anchor0" 311 -101 basechar 0
 AnchorPoint: "Anchor0" 311 -101 basechar 0
 AnchorPoint: "Anchor0" 311 -101 basechar 0
 LayerCount: 2
@@ -16987,20 +14964,6 @@ Encoding: 65656 -1 331
 Width: 1207
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
-AnchorPoint: "Anchor0" 1078 23 basechar 0
 AnchorPoint: "Anchor0" 1078 23 basechar 0
 AnchorPoint: "Anchor0" 1078 23 basechar 0
 LayerCount: 2
@@ -17069,20 +15032,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 416 -146 basechar 0
 AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
-AnchorPoint: "Anchor0" 416 -146 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17143,20 +15092,6 @@ Encoding: 65658 -1 333
 Width: 600
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
-AnchorPoint: "Anchor0" 319 -106 basechar 0
 AnchorPoint: "Anchor0" 319 -106 basechar 0
 AnchorPoint: "Anchor0" 319 -106 basechar 0
 LayerCount: 2
@@ -17297,20 +15232,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 370 -114 basechar 0
 AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
-AnchorPoint: "Anchor0" 370 -114 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17387,20 +15308,6 @@ Encoding: 65661 -1 336
 Width: 628
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
-AnchorPoint: "Anchor0" 410 -178 basechar 0
 AnchorPoint: "Anchor0" 410 -178 basechar 0
 AnchorPoint: "Anchor0" 410 -178 basechar 0
 LayerCount: 2
@@ -17557,20 +15464,6 @@ Encoding: 65663 -1 338
 Width: 596
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
-AnchorPoint: "Anchor0" 338 -109 basechar 0
 AnchorPoint: "Anchor0" 338 -109 basechar 0
 AnchorPoint: "Anchor0" 338 -109 basechar 0
 LayerCount: 2
@@ -17731,20 +15624,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 447 5 basechar 0
 AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
-AnchorPoint: "Anchor0" 447 5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17808,20 +15687,6 @@ Encoding: 65666 -1 341
 Width: 665
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
-AnchorPoint: "Anchor0" 601 -79 basechar 0
 AnchorPoint: "Anchor0" 601 -79 basechar 0
 AnchorPoint: "Anchor0" 601 -79 basechar 0
 LayerCount: 2
@@ -17902,20 +15767,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 474 -13 basechar 0
 AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
-AnchorPoint: "Anchor0" 474 -13 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17975,20 +15826,6 @@ Encoding: 65668 -1 343
 Width: 732
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
-AnchorPoint: "Anchor0" 665 -82 basechar 0
 AnchorPoint: "Anchor0" 665 -82 basechar 0
 AnchorPoint: "Anchor0" 665 -82 basechar 0
 LayerCount: 2
@@ -18071,20 +15908,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 500 23 basechar 0
 AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
-AnchorPoint: "Anchor0" 500 23 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18142,20 +15965,6 @@ Encoding: 65670 -1 345
 Width: 549
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
-AnchorPoint: "Anchor0" 458 13 basechar 0
 AnchorPoint: "Anchor0" 458 13 basechar 0
 AnchorPoint: "Anchor0" 458 13 basechar 0
 LayerCount: 2
@@ -18226,20 +16035,6 @@ Encoding: 65671 -1 346
 Width: 617
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
-AnchorPoint: "Anchor0" 545 13 basechar 0
 AnchorPoint: "Anchor0" 545 13 basechar 0
 AnchorPoint: "Anchor0" 545 13 basechar 0
 LayerCount: 2
@@ -18424,20 +16219,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 479 10 basechar 0
 AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
-AnchorPoint: "Anchor0" 479 10 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18601,20 +16382,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 466 -31 basechar 0
 AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
-AnchorPoint: "Anchor0" 466 -31 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18678,34 +16445,6 @@ Encoding: 65678 -1 353
 Width: 776
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor3" 399 665 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
-AnchorPoint: "Anchor0" 532 -106 basechar 0
 AnchorPoint: "Anchor3" 399 665 basechar 0
 AnchorPoint: "Anchor0" 532 -106 basechar 0
 AnchorPoint: "Anchor3" 399 665 basechar 0
@@ -18788,20 +16527,6 @@ Encoding: 65679 -1 354
 Width: 736
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
-AnchorPoint: "Anchor0" 612 18 basechar 0
 AnchorPoint: "Anchor0" 612 18 basechar 0
 AnchorPoint: "Anchor0" 612 18 basechar 0
 LayerCount: 2
@@ -18935,20 +16660,6 @@ GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor3" 494 664 basechar 0
 AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
-AnchorPoint: "Anchor3" 494 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19011,20 +16722,6 @@ Encoding: 65682 -1 357
 Width: 912
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
-AnchorPoint: "Anchor0" 780 23 basechar 0
 AnchorPoint: "Anchor0" 780 23 basechar 0
 AnchorPoint: "Anchor0" 780 23 basechar 0
 LayerCount: 2
@@ -19159,20 +16856,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor0" 338 18 basechar 0
 AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
-AnchorPoint: "Anchor0" 338 18 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19220,20 +16903,6 @@ Encoding: 65685 -1 360
 Width: 600
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
-AnchorPoint: "Anchor0" 316 26 basechar 0
 AnchorPoint: "Anchor0" 316 26 basechar 0
 AnchorPoint: "Anchor0" 316 26 basechar 0
 LayerCount: 2
@@ -19287,34 +16956,6 @@ Encoding: 65686 -1 361
 Width: 720
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor3" 418 664 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
-AnchorPoint: "Anchor0" 633 15 basechar 0
 AnchorPoint: "Anchor3" 418 664 basechar 0
 AnchorPoint: "Anchor0" 633 15 basechar 0
 AnchorPoint: "Anchor3" 418 664 basechar 0
@@ -19386,34 +17027,6 @@ Width: 620
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor0" 540 23 basechar 0
-AnchorPoint: "Anchor3" 422 665 basechar 0
 AnchorPoint: "Anchor0" 540 23 basechar 0
 AnchorPoint: "Anchor3" 422 665 basechar 0
 AnchorPoint: "Anchor0" 540 23 basechar 0
@@ -19479,34 +17092,6 @@ Encoding: 65688 -1 363
 Width: 740
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor3" 609 665 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
-AnchorPoint: "Anchor0" 612 15 basechar 0
 AnchorPoint: "Anchor3" 609 665 basechar 0
 AnchorPoint: "Anchor0" 612 15 basechar 0
 AnchorPoint: "Anchor3" 609 665 basechar 0
@@ -19579,34 +17164,6 @@ Width: 797
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor0" 668 21 basechar 0
-AnchorPoint: "Anchor3" 666 664 basechar 0
 AnchorPoint: "Anchor0" 668 21 basechar 0
 AnchorPoint: "Anchor3" 666 664 basechar 0
 AnchorPoint: "Anchor0" 668 21 basechar 0
@@ -19675,34 +17232,6 @@ Encoding: 65690 -1 365
 Width: 647
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor3" 421 664 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
-AnchorPoint: "Anchor0" 567 21 basechar 0
 AnchorPoint: "Anchor3" 421 664 basechar 0
 AnchorPoint: "Anchor0" 567 21 basechar 0
 AnchorPoint: "Anchor3" 421 664 basechar 0
@@ -19776,34 +17305,6 @@ Encoding: 65691 -1 366
 Width: 576
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor3" 420 665 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
-AnchorPoint: "Anchor0" 490 18 basechar 0
 AnchorPoint: "Anchor3" 420 665 basechar 0
 AnchorPoint: "Anchor0" 490 18 basechar 0
 AnchorPoint: "Anchor3" 420 665 basechar 0
@@ -20043,20 +17544,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 280 665 basechar 0
 AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
-AnchorPoint: "Anchor3" 280 665 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20104,20 +17591,6 @@ Encoding: 65696 -1 371
 Width: 760
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
-AnchorPoint: "Anchor3" 279 665 basechar 0
 AnchorPoint: "Anchor3" 279 665 basechar 0
 AnchorPoint: "Anchor3" 279 665 basechar 0
 LayerCount: 2
@@ -20539,8 +18012,8 @@ SplineSet
  365 20 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "VattuVariantslookup30 subtable" ladeva viramadeva_radeva
 Ligature2: "VattuVariantslookup30 subtable" ladeva.mr viramadeva_radeva
+Ligature2: "VattuVariantslookup30 subtable" ladeva viramadeva_radeva
 EndChar
 
 StartChar: nga_virama_ka_viramadeva
@@ -20696,7 +18169,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" osigndeva radeva_viramadeva
 EndChar
 
@@ -20813,7 +18286,7 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "pos_pair_abvmdeva_4 subtable"  51 0 "pos_pair_abvmdeva_2 subtable"  51 0 "abvmAboveBaseMarklookup400 subtable"  51 0 "abvmAboveBaseMarklookup42 subtable"  51 0 "pos_pair_abvmdeva_0-0 subtable"  51 0 "abvmAboveBaseMarklookup41-0 subtable"  51 0 "abvmAboveBaseMarklookup40-1 subtable"  51 0 "abvmAboveBaseMarklookup4-3 subtable"  51 0 "pos_pair_abvmdeva_0 subtable"  51 0 "abvmAboveBaseMarklookup41 subtable"  51 0 "abvmAboveBaseMarklookup40-0 subtable"  51 0 "abvmAboveBaseMarklookup4-2 subtable"  51 0 "abvmAboveBaseMarklookup40 subtable"  51 0 "abvmAboveBaseMarklookup4-1 subtable"  51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
+Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" ausigndeva radeva_viramadeva
 EndChar
 
@@ -21181,34 +18654,6 @@ Width: 771
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor0" 394 31 basechar 0
-AnchorPoint: "Anchor3" 396 666 basechar 0
 AnchorPoint: "Anchor0" 394 31 basechar 0
 AnchorPoint: "Anchor3" 396 666 basechar 0
 AnchorPoint: "Anchor0" 394 31 basechar 0
@@ -21404,20 +18849,6 @@ GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor0" 1162 -21 basechar 0
 AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
-AnchorPoint: "Anchor0" 1162 -21 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21519,8 +18950,8 @@ SplineSet
  643 606 l 1,111,-1
 EndSplineSet
 Validated: 33
-Ligature2: "ConjunctFormslookup11 subtable" dadeva_viramadeva dhadeva_viramadeva_radeva viramadeva yadeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva_viramadeva_dhadeva viramadeva_radeva viramadeva yadeva
+Ligature2: "ConjunctFormslookup11 subtable" dadeva_viramadeva dhadeva_viramadeva_radeva viramadeva yadeva
 EndChar
 
 StartChar: jhadeva.np
@@ -21528,20 +18959,6 @@ Encoding: 65723 -1 398
 Width: 913
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
 LayerCount: 2
@@ -21607,20 +19024,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 526 664 basechar 0
 AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
-AnchorPoint: "Anchor3" 526 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21674,20 +19077,6 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor3" 597 664 basechar 0
 AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
-AnchorPoint: "Anchor3" 597 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21737,20 +19126,6 @@ Encoding: 65726 -1 401
 Width: 676
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
-AnchorPoint: "Anchor3" 546 663 basechar 0
 AnchorPoint: "Anchor3" 546 663 basechar 0
 AnchorPoint: "Anchor3" 546 663 basechar 0
 LayerCount: 2
@@ -21899,8 +19274,8 @@ SplineSet
  373 198 l 17,14,-1
 EndSplineSet
 Validated: 1
-Ligature2: "VattuVariantslookup30 subtable" badeva_viramadeva viramadeva_radeva
 Ligature2: "VattuVariantslookup30 subtable" badeva viramadeva_radeva viramadeva
+Ligature2: "VattuVariantslookup30 subtable" badeva_viramadeva viramadeva_radeva
 Ligature2: "HalfFormslookup10 subtable" badeva_viramadeva_radeva viramadeva
 LCarets2: 2 0 0 
 EndChar
@@ -21910,6 +19285,8 @@ Encoding: 65537 -1 405
 Width: 266
 GlyphClass: 4
 Flags: W
+AnchorPoint: "Anchor3" 1193 676 mark 0
+AnchorPoint: "Anchor3" 1193 676 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21953,9 +19330,8 @@ SplineSet
  100 606 l 1,54,-1
  -13 606 l 1,0,-1
 EndSplineSet
-Substitution2: "Single Substitution lookup 34 subtable" isign_ra_virama.alt1
+Validated: 1
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt2 radeva_viramadeva
-LCarets2: 1 0 
 EndChar
 
 StartChar: isign_ra_virama_anusvara.alt2
