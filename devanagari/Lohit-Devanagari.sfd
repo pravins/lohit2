@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1392120497
+ModificationTime: 1392186756
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -94,12 +94,6 @@ Lookup: 260 0 0 "abvmAboveBaseMarklookup2"  {"abvmAboveBaseMarklookup2 subtable"
 Lookup: 260 0 0 "abvmAboveBaseMarklookup3"  {"abvmAboveBaseMarklookup3 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 258 0 0 "abvmAboveBaseMarklookup4"  {"abvmAboveBaseMarklookup4 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 Lookup: 258 0 0 "blwmBelowBaseMarklookup5"  {"blwmBelowBaseMarklookup5 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "blwmBelowBaseMarklookup0-0"  {"blwmBelowBaseMarklookup0-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 262 0 0 "abvmAboveBaseMarklookup1-0"  {"abvmAboveBaseMarklookup1-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "abvmAboveBaseMarklookup2-0"  {"abvmAboveBaseMarklookup2-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 260 0 0 "abvmAboveBaseMarklookup3-0"  {"abvmAboveBaseMarklookup3-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "abvmAboveBaseMarklookup4-0"  {"abvmAboveBaseMarklookup4-0 subtable"  } ['abvm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
-Lookup: 258 0 0 "blwmBelowBaseMarklookup5-0"  {"blwmBelowBaseMarklookup5-0 subtable"  } ['blwm' ('deva' <'dflt' 'MAR ' 'NEP ' > 'dev2' <'dflt' 'MAR ' 'NEP ' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: class "'psts' Post Base Substitutions lookup 33-1"  4 4 4 1
@@ -494,7 +488,7 @@ WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 323584 161792 107861 0 1048576 107861 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor0"  "blwmBelowBaseMarklookup0-0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1-0 subtable" "Anchor2"  "abvmAboveBaseMarklookup2-0 subtable" "Anchor3"  "abvmAboveBaseMarklookup3-0 subtable" "Anchor0"  "blwmBelowBaseMarklookup0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1 subtable" "Anchor2"  "abvmAboveBaseMarklookup2 subtable" "Anchor3"  "abvmAboveBaseMarklookup3 subtable" 
+AnchorClass2: "Anchor0"  "blwmBelowBaseMarklookup0 subtable" "Anchor1"  "abvmAboveBaseMarklookup1 subtable" "Anchor2"  "abvmAboveBaseMarklookup2 subtable" "Anchor3"  "abvmAboveBaseMarklookup3 subtable" 
 BeginChars: 65728 422
 
 StartChar: .notdef
@@ -3232,7 +3226,6 @@ SplineSet
  -13 606 l 1,20,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: ngadeva
@@ -3293,7 +3286,6 @@ SplineSet
  -13 606 l 1,12,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: cadeva
@@ -3335,7 +3327,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: chadeva
@@ -3400,7 +3391,6 @@ SplineSet
  437 33 437 33 310 33 c 0,38,39
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: jadeva
@@ -3509,7 +3499,6 @@ SplineSet
  318 -47 l 5,21,22
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 Substitution2: "LocalizedNpFormslookup2 subtable" jhadeva.np
 EndChar
 
@@ -3561,7 +3550,6 @@ SplineSet
  289 120 289 120 218 120 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: ttadeva
@@ -3601,7 +3589,6 @@ SplineSet
  399 13 399 13 325 13 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: tthadeva
@@ -3645,7 +3632,6 @@ SplineSet
  409 7 409 7 324 7 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: ddadeva
@@ -3788,7 +3774,6 @@ SplineSet
  286 160 286 160 224 160 c 0,9,10
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: tadeva
@@ -3824,7 +3809,6 @@ SplineSet
  43 250 43 250 43 326 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: thadeva
@@ -3876,7 +3860,6 @@ SplineSet
  354 133 354 133 300 133 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: dadeva
@@ -3920,7 +3903,6 @@ SplineSet
  -21 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: dhadeva
@@ -3979,7 +3961,6 @@ SplineSet
  332 113 332 113 276 113 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: nadeva
@@ -4092,7 +4073,6 @@ SplineSet
  57 294 57 294 57 366 c 2,9,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: phadeva
@@ -4192,7 +4172,6 @@ SplineSet
  39 248 39 248 39 320 c 0,10,11
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: bhadeva
@@ -4242,7 +4221,6 @@ SplineSet
  119 306 119 306 119 326 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: madeva
@@ -4281,7 +4259,6 @@ SplineSet
  -13 606 l 1,4,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: yadeva
@@ -4448,7 +4425,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 Substitution2: "LocalizedMrForms_lookup0 subtable" ladeva.mr
 EndChar
 
@@ -4613,7 +4589,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: shadeva
@@ -4665,7 +4640,6 @@ SplineSet
  330 0 l 1,20,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 Substitution2: "LocalizedMrForms_lookup0 subtable" shadeva.mr
 EndChar
 
@@ -4706,7 +4680,6 @@ SplineSet
  -13 606 l 1,11,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: sadeva
@@ -4749,7 +4722,6 @@ SplineSet
  310 405 310 405 304 386 c 1,24,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: hadeva
@@ -4804,7 +4776,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 109 0 "blwmBelowBaseMarklookup5-0 subtable"  109 0 "blwmBelowBaseMarklookup5 subtable" 
 EndChar
 
 StartChar: oesigndeva
@@ -4959,7 +4930,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Substitution2: "Single Substitution lookup 23 subtable" isigndeva.ja
 Substitution2: "Single Substitution lookup 21 subtable" isigndeva.tha
 Substitution2: "Single Substitution lookup 19 subtable" isigndeva.alt4
@@ -5193,7 +5163,6 @@ SplineSet
  -241 807 -241 807 -296 807 c 0,0,1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: esigndeva
@@ -5359,7 +5328,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: viramadeva
@@ -9335,7 +9303,6 @@ SplineSet
  -156 666 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" esigndeva radeva_viramadeva
 EndChar
 
@@ -9436,7 +9403,6 @@ SplineSet
  -172 666 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" aisigndeva radeva_viramadeva
 EndChar
 
@@ -11100,7 +11066,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Substitution2: "Single Substitution lookup 34-1" isigndeva.alt1
 EndChar
 
@@ -12051,7 +12016,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "PostBaseSubstitutionslookup subtable" isigndeva radeva_viramadeva
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva radeva_viramadeva
 EndChar
@@ -12144,7 +12108,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: isigndeva_anusvaradeva.alt3
@@ -12234,7 +12197,6 @@ SplineSet
  280 666 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "PreBaseSubstitutionslookup2 subtable" isigndeva.alt3 radeva_viramadeva
 EndChar
 
@@ -12378,7 +12340,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Substitution2: "Single Substitution lookup 29 subtable" iisigndeva_ra_virama.alt1
 Ligature2: "PostBaseSubstitutionslookup subtable" iisigndeva radeva_viramadeva
 EndChar
@@ -12471,7 +12432,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 EndChar
 
 StartChar: iisigndeva_anusvaradeva.alt1
@@ -12559,7 +12519,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "PostBaseSubstitutionslookup subtable" iisigndeva.alt1 radeva_viramadeva
 EndChar
 
@@ -18194,7 +18153,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" osigndeva radeva_viramadeva
 EndChar
 
@@ -18311,7 +18269,6 @@ SplineSet
  -13 606 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 51 0 "abvmAboveBaseMarklookup4-0 subtable"  51 0 "abvmAboveBaseMarklookup4 subtable" 
 Ligature2: "AboveBaseSubstitutionslookup subtable" ausigndeva radeva_viramadeva
 EndChar
 
