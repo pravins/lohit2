@@ -7418,7 +7418,7 @@ EndSplineSet
 Ligature2: "'akhn' Akhand lookup 0 subtable" nyamlm viramamlm camlm
 EndChar
 
-StartChar: nyamlm_virama_nyamlm
+StartChar: nyamlm_viramamlm_nyamlm
 Encoding: 65592 -1 134
 Width: 2068
 GlyphClass: 2
@@ -9169,7 +9169,7 @@ LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand lookup 0 subtable" rramlm viramamlm rramlm
 EndChar
 
-StartChar: damlm_virama_damlm
+StartChar: damlm_viramamlm_damlm
 Encoding: 65614 -1 156
 Width: 696
 GlyphClass: 2
@@ -11452,7 +11452,7 @@ EndSplineSet
 Ligature2: "'akhn' Akhand lookup 0 subtable" gamlm viramamlm mamlm
 EndChar
 
-StartChar: samlm_viramalm_kamlm
+StartChar: samlm_viramamlm_kamlm
 Encoding: 65642 -1 184
 Width: 1138
 GlyphClass: 2
