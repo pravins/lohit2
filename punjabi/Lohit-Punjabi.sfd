@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159495707
-ModificationTime: 1391582920
+ModificationTime: 1392705740
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ Lookup: 4 0 0 "'nukt' Nukta Forms lookup 0"  {"'nukt' Nukta Forms lookup 0-1"  }
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 1"  {"'blwf' Below Base Forms lookup 1-1"  } ['blwf' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 5"  {"'blws' Below Base Substitutions lookup 5-1"  } ['blws' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms lookup 7"  {"'pstf' Post Base Forms lookup 7-1"  } ['pstf' ('DFLT' <'dflt' > 'deva' <'dflt' > 'gur2' <'dflt' > 'guru' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'pstf' Post Base Forms lookup 7"  {"'pstf' Post Base Forms lookup 7-1"  } ['pstf' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'vatu' Vattu Variants lookup 6"  {"'vatu' Vattu Variants lookup 6-1"  } ['vatu' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark lookup 2"  {"'blwm' Below Base Mark lookup 2-1"  } ['blwm' ('guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Gurmukhi lookup 0"  {"'abvm' Above Base Mark in Gurmukhi lookup 0 subtable"  } ['abvm' ('guru' <'dflt' > ) ]
@@ -7258,7 +7258,7 @@ SplineSet
  552 500 l 1,0,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'pstf' Post Base Forms lookup 7-1" viramaguru yaguru
+Ligature2: "'pstf' Post Base Forms lookup 7-1" viramaguru yaguru 
 LCarets2: 1 0 
 EndChar
 
