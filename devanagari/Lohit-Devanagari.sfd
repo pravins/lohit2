@@ -4,7 +4,7 @@ FullName: Lohit Devanagari
 FamilyName: Lohit Devanagari
 Weight: Book
 Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore At redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 2.93.0
+Version: 2.94.0
 ItalicAngle: 0
 UnderlinePosition: -399
 UnderlineWidth: 26
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159459513
-ModificationTime: 1392369867
+ModificationTime: 1392784791
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -471,8 +471,8 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "FontForge 2.0 : Lohit Devanagari : 17-9-2013" "" "2.93.0" "" "Lohit is a trademark of Red Hat, Inc.+AAoA" "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
-GaspTable: 1 65535 2 0
+LangName: 1033 "" "" "Regular" "FontForge 2.0 : Lohit Devanagari : 17-9-2013" "" "2.94.0" "" "Lohit is a trademark of Red Hat, Inc.+AAoA" "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
+GaspTable: 2 8 2 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -6862,11 +6862,11 @@ AnchorPoint: "DVAnchor3" 596 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--2 -61 m 5
- -2 -1 l 5
- 627 -1 l 5
- 627 -61 l 5
- -2 -61 l 5
+-2 -61 m 5,0,-1
+ -2 -1 l 5,1,-1
+ 627 -1 l 5,2,-1
+ 627 -61 l 5,3,-1
+ -2 -61 l 5,0,-1
 EndSplineSet
 Refer: 77 2332 N 1 0 0 1 0 0 2
 EndChar
@@ -8951,6 +8951,7 @@ SplineSet
  13 290 l 1,12,-1
 EndSplineSet
 Validated: 1
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva_viramadeva.mr radeva
 Ligature2: "PreBaseSubstitutionslookup1 subtable" shadeva viramadeva radeva
 Ligature2: "VattuVariantslookup30 subtable" shadeva.mr viramadeva_radeva
