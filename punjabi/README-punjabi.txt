@@ -12,6 +12,12 @@ Glyph naming guidelines:
 	- Presently lohit following http://kaz.dl.sourceforge.net/project/aglfn.adobe/glyphlist.txt with some exceptions
 	- Though uniXXXX is recommended by AGL, we are using glyphlist for easy maintainance and reusability of Feature file
 
+Features : 
+	-supoort for both guru & gur2 script tag
+	-Follows AGL
+	-implementation of "copy reference" feature to the glyphs in sfd file
+	-application of automated testing script to Lohit-punjabi
+
 Glyph names are as follows, please check sfd file for actual shapes
 
    * .notdef
