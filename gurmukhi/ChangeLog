@@ -1,6 +1,27 @@
 				  lohit-punjabi
 Current Version :- 2.5.3
 
+* Thu Feb 21 2014 Sneha Kore <skore@redhat.com> - 2.91.0
+- Issue reported & fixed against Lohit-Punjabi https://github.com/pravins/lohit2/issues/8 
+- "Copy Reference" feature implemented for Lohit-Punjabi fontforge glyphs 
+- glyph design improved for :
+	- aivowelguru
+	- oovowelguru
+	- auvowelguru
+	- aivowelguru_tippiguru
+        - oovowelguru_tippiguru
+        - auvowelguru_tippiguru
+	- aivowelguru_addakguru
+        - oovowelguru_addakguru
+        - auvowelguru_addakguru
+        - oovowelguru_bindiguru
+        - auvowelguru_bindiguru
+
+- README-File added to git repo fo Lohit-Punjabi https://github.com/pravins/lohit2/blob/master/punjabi/README-punjabi.txt
+- Testfile created for Lohit-Punjabi
+- Automated Testing script applied
+- Testing on W8, harfbuzz, & utrrs as well.
+
 * Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
 - Dropping RFN from OFL.txt
 - Skipped 2.5.2, for matching version with family
