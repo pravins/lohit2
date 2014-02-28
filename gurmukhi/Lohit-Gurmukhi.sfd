@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159495707
-ModificationTime: 1393234929
+ModificationTime: 1393579896
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -56,29 +56,28 @@ Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Su
 Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 5"  {"'blws' Below Base Substitutions lookup 5-1"  } ['blws' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms lookup 7"  {"'pstf' Post Base Forms lookup 7-1"  } ['pstf' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 4 0 0 "'vatu' Vattu Variants lookup 6"  {"'vatu' Vattu Variants lookup 6-1"  } ['vatu' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
-Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 6"  {"'psts' Post Base Substitutions lookup 6-1"  } ['psts' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 8"  {"Single Substitution lookup 8-1"  } []
+Lookup: 6 0 0 "'psts' Post Base Substitutions lookup 7"  {"'psts' Post Base Substitutions lookup 7-1"  } ['psts' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 6"  {"Single Substitution lookup 6-1"  } []
 Lookup: 260 0 0 "'blwm' Below Base Mark lookup 2"  {"'blwm' Below Base Mark lookup 2-1"  } ['blwm' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Gurmukhi lookup 0"  {"'abvm' Above Base Mark in Gurmukhi lookup 0 subtable"  } ['abvm' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Gurmukhi lookup 1"  {"'abvm' Above Base Mark in Gurmukhi lookup 1 subtable"  } ['abvm' ('gur2' <'dflt' > 'guru' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: class "'psts' Post Base Substitutions lookup 6-1"  4 4 4 1
+ChainSub2: coverage "'psts' Post Base Substitutions lookup 7-1"  4 4 4 1
   Class: 7 uraguru
-  Class: 19 bindiguru addakguru
+  Class: 9 addakguru
   Class: 6 eeguru
   BClass: 7 uraguru
-  BClass: 19 bindiguru addakguru
+  BClass: 9 addakguru
   BClass: 6 eeguru
   FClass: 7 uraguru
-  FClass: 19 bindiguru addakguru
+  FClass: 9 addakguru
   FClass: 6 eeguru
- 1 1 1
-  ClsList: 2
-  BClsList: 1
-  FClsList: 3
+ 1 1 0
+  Coverage: 19 addakguru bindiguru
+  BCoverage: 7 uraguru
  1
-  SeqLookup: 0 "Single Substitution lookup 8" 
+  SeqLookup: 0 "Single Substitution lookup 6" 
   ClassNames: "All_Others"  "1"  "2"  "3"  
   BClassNames: "All_Others"  "1"  "2"  "3"  
   FClassNames: "All_Others"  "1"  "2"  "3"  
@@ -527,7 +526,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 293164 146582 97721 0 1048576 97721 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "GRAnchor2"  "'blwm' Below Base Mark lookup 2-1" "GRAnchor0"  "'abvm' Above Base Mark in Gurmukhi lookup 1 subtable" "GRAnchor1"  "'abvm' Above Base Mark in Gurmukhi lookup 0 subtable" 
-BeginChars: 65555 165
+BeginChars: 65555 166
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -2314,7 +2313,7 @@ SplineSet
  -160 679 -160 679 -147 692 c 128,-1,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 8-1" bindiguru.alt
+Substitution2: "Single Substitution lookup 6-1" bindiguru.alt
 EndChar
 
 StartChar: visargaguru
@@ -5562,7 +5561,7 @@ SplineSet
  -255 674 -255 674 -255 740 c 1,11,-1
  -235 740 l 1,0,1
 EndSplineSet
-Substitution2: "Single Substitution lookup 8-1" addakguru.alt
+Substitution2: "Single Substitution lookup 6-1" addakguru.alt
 EndChar
 
 StartChar: iriguru
@@ -6680,6 +6679,7 @@ SplineSet
  -110 668 -110 668 -110 687 c 256,27,16
  -110 706 -110 706 -97 719 c 128,-1,17
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" eevowelguru bindiguru
 EndChar
 
@@ -6816,7 +6816,7 @@ EndChar
 StartChar: bindiguru.alt
 Encoding: 65552 -1 149
 Width: 198
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -6842,7 +6842,7 @@ EndChar
 StartChar: addakguru.alt
 Encoding: 65553 -1 150
 Width: 298
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -7469,6 +7469,51 @@ SplineSet
  259.757 295.835 259.757 295.835 268.85 375.438 c 0,0,1
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: aivowelguru_bindiguru
+Encoding: 65548 -1 165
+Width: 769
+GlyphClass: 4
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-97.2021 520 m 1,0,1
+ -125.218 642.382 -125.218 642.382 -189.021 746.479 c 0,2,3
+ -244.725 835.479 -244.725 835.479 -314.941 844.091 c 0,4,5
+ -382.562 851.725 -382.562 851.725 -385.67 815.314 c 0,6,7
+ -386.701 803.227 -386.701 803.227 -377.522 793.553 c 0,8,9
+ -369.375 784.965 -369.375 784.965 -354.812 784.965 c 0,10,11
+ -352.039 784.965 -352.039 784.965 -345.105 785.658 c 128,-1,12
+ -338.171 786.352 -338.171 786.352 -330.37 787.045 c 128,-1,13
+ -322.569 787.738 -322.569 787.738 -315.288 787.932 c 128,-1,14
+ -308.007 788.125 -308.007 788.125 -304.54 788.125 c 0,15,16
+ -252.106 788.125 -252.106 788.125 -202.874 705.608 c 0,17,18
+ -183.459 673.364 -183.459 673.364 -168.479 646.682 c 128,-1,19
+ -153.5 620 -153.5 620 -135 570 c 1,20,21
+ -210.665 681.972 -210.665 681.972 -313.024 699.98 c 0,22,23
+ -379 711 -379 711 -379.939 666.043 c 0,24,25
+ -379.939 654.948 -379.939 654.948 -373.525 648.188 c 128,-1,26
+ -367.111 641.427 -367.111 641.427 -359.83 641.427 c 0,27,28
+ -357.403 641.427 -357.403 641.427 -349.949 642.641 c 128,-1,29
+ -342.495 643.854 -342.495 643.854 -333.134 645.414 c 128,-1,30
+ -323.772 646.975 -323.772 646.975 -314.238 648.361 c 128,-1,31
+ -304.704 649.748 -304.704 649.748 -298.116 649.748 c 0,32,33
+ -252.004 649.748 -252.004 649.748 -220.8 628.599 c 0,34,35
+ -204.015 617.604 -204.015 617.604 -184.65 594.906 c 0,36,37
+ -145 546 -145 546 -138.071 520 c 1,38,-1
+ -97.2021 520 l 1,0,1
+-92 692 m 128,-1,40
+ -79 705 -79 705 -60 705 c 128,-1,41
+ -41 705 -41 705 -28 692 c 128,-1,42
+ -15 679 -15 679 -15 660 c 128,-1,43
+ -15 641 -15 641 -28 628 c 128,-1,44
+ -41 615 -41 615 -60 615 c 128,-1,45
+ -79 615 -79 615 -92 628 c 128,-1,46
+ -105 641 -105 641 -105 660 c 128,-1,39
+ -105 679 -105 679 -92 692 c 128,-1,40
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
