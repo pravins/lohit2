@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1350557501
+ModificationTime: 1394101327
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,29 +50,23 @@ OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'ACE '
-Lookup: 4 0 0 "'abvs' Above Base Substitutions in Bengali lookup 0"  {"'abvs' Above Base Substitutions in Bengali lookup 0"  } ['abvs' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Bengali lookup 1"  {"'blwf' Below Base Forms in Bengali lookup 1"  } ['blwf' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions in Bengali lookup 2"  {"'blws' Below Base Substitutions in Bengali lookup 2"  } ['blws' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' Half Forms in Bengali lookup 3"  {"'half' Half Forms in Bengali lookup 3"  } ['half' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms in Bengali lookup 4"  {"'haln' Halant Forms in Bengali lookup 4"  } ['haln' ('beng' <'dflt' > ) ]
-Lookup: 1 0 0 "'init' Initial Forms in Bengali lookup 5"  {"'init' Initial Forms in Bengali lookup 5"  } ['init' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'nukt' Nukta Forms in Bengali lookup 6"  {"'nukt' Nukta Forms in Bengali lookup 6"  } ['nukt' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'pres' Pre Base Substitutions in Bengali lookup 7"  {"'pres' Pre Base Substitutions in Bengali lookup 7"  } ['pres' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms in Bengali lookup 8"  {"'pstf' Post Base Forms in Bengali lookup 8"  } ['pstf' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'psts' Post Base Substitutions in Bengali lookup 9"  {"'psts' Post Base Substitutions in Bengali lookup 9"  } ['psts' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'rphf' Reph Form in Bengali lookup 10"  {"'rphf' Reph Form in Bengali lookup 10"  } ['rphf' ('beng' <'dflt' > ) ]
-Lookup: 4 0 0 "'vatu' Vattu Variants in Bengali lookup 11"  {"'vatu' Vattu Variants in Bengali lookup 11"  } ['vatu' ('beng' <'dflt' > ) ]
-Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 0"  {"'blwm' Below Base Mark in Bengali lookup 0"  } ['blwm' ('beng' <'dflt' > ) ]
-Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 1"  {"'abvm' Above Base Mark in Bengali lookup 1"  } ['abvm' ('beng' <'dflt' > ) ]
-Lookup: 264 0 0 "'abvm' Above Base Mark in Bengali lookup 2"  {"'abvm' Above Base Mark in Bengali lookup 2"  } ['abvm' ('beng' <'dflt' > ) ]
+Lookup: 1 0 0 "'init' Initial Forms lookup 0"  {"'init' Initial Forms lookup 0-1"  "'init' Initial Forms lookup 0-2"  } ['init' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'nukt' Nukta Forms lookup 2"  {"'nukt' Nukta Forms lookup 2-1"  } ['nukt' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms lookup 4"  {"'blwf' Below Base Forms lookup 4-1"  } ['blwf' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'half' Half Forms lookup 5"  {"'half' Half Forms lookup 5-1"  } ['half' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 0"  {"'blwm' Below Base Mark in Bengali lookup 0"  } ['blwm' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 1"  {"'abvm' Above Base Mark in Bengali lookup 1"  } ['abvm' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 264 0 0 "'abvm' Above Base Mark in Bengali lookup 2"  {"'abvm' Above Base Mark in Bengali lookup 2"  } ['abvm' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 257 0 0 "Single Positioning lookup 3"  {"Single Positioning lookup 3"  } []
 MarkAttachClasses: 1
 DEI: 91125
 ChainPos2: coverage "'abvm' Above Base Mark in Bengali lookup 2"  0 0 0 1
  1 2 0
   Coverage: 5 u0981
-  BCoverage: 842 u0995 u0996 u0997 u0998 u0999 u099A u099B u099C u099D u099E u099F u09A0 u09A1 u09A2 u09A3 u09A4 u09A5 u09A6 u09A7 u09A8 u09AA u09AB u09AC u09AD u09AE u09AF u09B0 u09B2 u09B6 u09B7 u09B8 u09B9 u09DC u09DD u09DF u09F0 u09F1 u0995_u09CD.half u0996_u09CD.half u0997_u09CD.half u0998_u09CD.half u0999_u09CD.half u099A_u09CD.half u099B_u09CD.half u099C_u09CD.half u099D_u09CD.half u099E_u09CD.half u099F_u09CD.half u09A0_u09CD.half u09A1_u09CD.half u09A2_u09CD.half u09A3_u09CD.half u09A5_u09CD.half u09A6_u09CD.half u09A7_u09CD.half u09A8_u09CD.half u09AA_u09CD.half u09AB_u09CD.half u09AC_u09CD.half u09AD_u09CD.half u09AE_u09CD.half u09AF_u09CD.half u09B0_u09CD.half u09B2_u09CD.half u09B6_u09CD.half u09B7_u09CD.half u09B8_u09CD.half u09B9_u09CD.half u09DC_u09CD.half u09DD_u09CD.half u09DF_u09CD.half glyph475 u09F1_u09CD.half u09F0_u09CD.half
-  BCoverage: 5 u09BF
+  BCoverage: 1135 kabeng khabeng gabeng ghabeng ngabeng cabeng chabeng jabeng jhabeng nyabeng ttabeng tthabeng ddabeng ddhabeng nnabeng tabeng thabeng dabeng dhabeng nabeng pabeng phabeng babeng bhabeng mabeng yabeng rabeng labeng shabeng ssabeng sabeng habeng rrabeng rhabeng yyabeng u09F0 u09F1 kabeng_viramabeng.half khabeng_viramabeng.half gabeng_viramabeng.half ghabeng_viramabeng.half ngabeng_viramabeng.half cabeng_viramabeng.half chabeng_viramabeng.half jabeng_viramabeng.half jhabeng_viramabeng.half nyabeng_viramabeng.half ttabeng_viramabeng.half tthabeng_viramabeng.half ddabeng_viramabeng.half ddhabeng_viramabeng.half nnabeng_viramabeng.half thabeng_viramabeng.half dabeng_viramabeng.half dhabeng_viramabeng.half nabeng_viramabeng.half pabeng_viramabeng.half phabeng_viramabeng.half babeng_viramabeng.half bhabeng_viramabeng.half mabeng_viramabeng.half yabeng_viramabeng.half rabeng_viramabeng.half labeng_viramabeng.half shabeng_viramabeng.half ssabeng_viramabeng.half sabeng_viramabeng.half habeng_viramabeng.half rrabeng_viramabeng.half rhabeng_viramabeng.half yyabeng_viramabeng.half glyph475 u09F1_viramabeng.half u09F0_viramabeng.half
+  BCoverage: 10 ivowelbeng
  1
   SeqLookup: 0 "Single Positioning lookup 3" 
 EndFPST
@@ -359,12 +353,13 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3" 
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -36
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 29 29 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-1"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-2"  "'blwm' Below Base Mark in Bengali lookup 0" 
@@ -3604,7 +3599,7 @@ EndSplineSet
 Position2: "Single Positioning lookup 3" dx=50 dy=115 dh=0 dv=0
 EndChar
 
-StartChar: u0982
+StartChar: anusvarabeng
 Encoding: 2434 2434 52
 Width: 331
 GlyphClass: 2
@@ -3678,7 +3673,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0983
+StartChar: visargabeng
 Encoding: 2435 2435 53
 Width: 410
 GlyphClass: 2
@@ -3768,7 +3763,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0985
+StartChar: abeng
 Encoding: 2437 2437 54
 Width: 666
 GlyphClass: 2
@@ -3860,7 +3855,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0986
+StartChar: aabeng
 Encoding: 2438 2438 55
 Width: 897
 GlyphClass: 2
@@ -3976,7 +3971,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0987
+StartChar: ibeng
 Encoding: 2439 2439 56
 Width: 400
 GlyphClass: 2
@@ -4077,7 +4072,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0988
+StartChar: iibeng
 Encoding: 2440 2440 57
 Width: 502
 GlyphClass: 2
@@ -4194,7 +4189,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0989
+StartChar: ubeng
 Encoding: 2441 2441 58
 Width: 599
 GlyphClass: 2
@@ -4296,7 +4291,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u098A
+StartChar: uubeng
 Encoding: 2442 2442 59
 Width: 653
 GlyphClass: 2
@@ -4403,7 +4398,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u098B
+StartChar: rvocalic
 Encoding: 2443 2443 60
 Width: 636
 GlyphClass: 2
@@ -4512,7 +4507,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u098C
+StartChar: lvocalic
 Encoding: 2444 2444 61
 Width: 463
 GlyphClass: 2
@@ -4601,7 +4596,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u098F
+StartChar: ebeng
 Encoding: 2447 2447 62
 Width: 585
 GlyphClass: 2
@@ -4690,7 +4685,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0990
+StartChar: aibeng
 Encoding: 2448 2448 63
 Width: 618
 GlyphClass: 2
@@ -4792,7 +4787,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0993
+StartChar: obeng
 Encoding: 2451 2451 64
 Width: 566
 GlyphClass: 2
@@ -4884,7 +4879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0994
+StartChar: aubeng
 Encoding: 2452 2452 65
 Width: 631
 GlyphClass: 2
@@ -4991,7 +4986,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0995
+StartChar: kabeng
 Encoding: 2453 2453 66
 Width: 538
 GlyphClass: 2
@@ -5076,7 +5071,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0996
+StartChar: khabeng
 Encoding: 2454 2454 67
 Width: 505
 GlyphClass: 2
@@ -5168,7 +5163,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0997
+StartChar: gabeng
 Encoding: 2455 2455 68
 Width: 504
 GlyphClass: 2
@@ -5255,7 +5250,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0998
+StartChar: ghabeng
 Encoding: 2456 2456 69
 Width: 475
 GlyphClass: 2
@@ -5335,7 +5330,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0999
+StartChar: ngabeng
 Encoding: 2457 2457 70
 Width: 564
 GlyphClass: 2
@@ -5437,7 +5432,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u099A
+StartChar: cabeng
 Encoding: 2458 2458 71
 Width: 415
 GlyphClass: 2
@@ -5514,7 +5509,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u099B
+StartChar: chabeng
 Encoding: 2459 2459 72
 Width: 466
 GlyphClass: 2
@@ -5609,7 +5604,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u099C
+StartChar: jabeng
 Encoding: 2460 2460 73
 Width: 688
 GlyphClass: 2
@@ -5707,7 +5702,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u099D
+StartChar: jhabeng
 Encoding: 2461 2461 74
 Width: 582
 GlyphClass: 2
@@ -5794,7 +5789,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u099E
+StartChar: nyabeng
 Encoding: 2462 2462 75
 Width: 812
 GlyphClass: 2
@@ -5923,7 +5918,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u099F
+StartChar: ttabeng
 Encoding: 2463 2463 76
 Width: 419
 GlyphClass: 2
@@ -6023,7 +6018,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A0
+StartChar: tthabeng
 Encoding: 2464 2464 77
 Width: 411
 GlyphClass: 2
@@ -6116,7 +6111,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A1
+StartChar: ddabeng
 Encoding: 2465 2465 78
 Width: 566
 GlyphClass: 2
@@ -6194,7 +6189,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A2
+StartChar: ddhabeng
 Encoding: 2466 2466 79
 Width: 435
 GlyphClass: 2
@@ -6265,7 +6260,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A3
+StartChar: nnabeng
 Encoding: 2467 2467 80
 Width: 465
 GlyphClass: 2
@@ -6347,7 +6342,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A4
+StartChar: tabeng
 Encoding: 2468 2468 81
 Width: 577
 GlyphClass: 2
@@ -6429,7 +6424,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A5
+StartChar: thabeng
 Encoding: 2469 2469 82
 Width: 498
 GlyphClass: 2
@@ -6517,7 +6512,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A6
+StartChar: dabeng
 Encoding: 2470 2470 83
 Width: 404
 GlyphClass: 2
@@ -6586,7 +6581,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A7
+StartChar: dhabeng
 Encoding: 2471 2471 84
 Width: 431
 GlyphClass: 2
@@ -6674,7 +6669,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A8
+StartChar: nabeng
 Encoding: 2472 2472 85
 Width: 459
 GlyphClass: 2
@@ -6747,7 +6742,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AA
+StartChar: pabeng
 Encoding: 2474 2474 86
 Width: 522
 GlyphClass: 2
@@ -6835,7 +6830,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AB
+StartChar: phabeng
 Encoding: 2475 2475 87
 Width: 562
 GlyphClass: 2
@@ -6911,7 +6906,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AC
+StartChar: babeng
 Encoding: 2476 2476 88
 Width: 428
 GlyphClass: 2
@@ -6981,7 +6976,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AD
+StartChar: bhabeng
 Encoding: 2477 2477 89
 Width: 573
 GlyphClass: 2
@@ -7065,7 +7060,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AE
+StartChar: mabeng
 Encoding: 2478 2478 90
 Width: 427
 GlyphClass: 2
@@ -7140,7 +7135,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AF
+StartChar: yabeng
 Encoding: 2479 2479 91
 Width: 443
 GlyphClass: 2
@@ -7210,7 +7205,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B0
+StartChar: rabeng
 Encoding: 2480 2480 92
 Width: 423
 GlyphClass: 2
@@ -7290,7 +7285,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B2
+StartChar: labeng
 Encoding: 2482 2482 93
 Width: 573
 GlyphClass: 2
@@ -7378,7 +7373,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B6
+StartChar: shabeng
 Encoding: 2486 2486 94
 Width: 455
 GlyphClass: 2
@@ -7477,7 +7472,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B7
+StartChar: ssabeng
 Encoding: 2487 2487 95
 Width: 424
 GlyphClass: 2
@@ -7551,7 +7546,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B8
+StartChar: sabeng
 Encoding: 2488 2488 96
 Width: 508
 GlyphClass: 2
@@ -7634,7 +7629,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B9
+StartChar: habeng
 Encoding: 2489 2489 97
 Width: 404
 GlyphClass: 2
@@ -7711,7 +7706,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09BC
+StartChar: nuktabeng
 Encoding: 2492 2492 98
 Width: 0
 GlyphClass: 4
@@ -7772,7 +7767,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09BD
+StartChar: avagrahabeng
 Encoding: 2493 2493 99
 Width: 418
 GlyphClass: 2
@@ -7844,7 +7839,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09BE
+StartChar: aavowelbeng
 Encoding: 2494 2494 100
 Width: 223
 GlyphClass: 2
@@ -7917,7 +7912,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09BF
+StartChar: ivowelbeng
 Encoding: 2495 2495 101
 Width: 220
 GlyphClass: 2
@@ -7995,7 +7990,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C0
+StartChar: iivowelbeng
 Encoding: 2496 2496 102
 Width: 220
 GlyphClass: 2
@@ -8084,7 +8079,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C1
+StartChar: uvowelbeng
 Encoding: 2497 2497 103
 Width: 0
 GlyphClass: 4
@@ -8158,7 +8153,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C2
+StartChar: uuvowelbeng
 Encoding: 2498 2498 104
 Width: 0
 GlyphClass: 4
@@ -8229,7 +8224,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C3
+StartChar: rvocalicvowelbeng
 Encoding: 2499 2499 105
 Width: 0
 GlyphClass: 4
@@ -8279,7 +8274,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C4
+StartChar: rrvocalicvowelbeng
 Encoding: 2500 2500 106
 Width: 0
 GlyphClass: 4
@@ -8333,7 +8328,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C7
+StartChar: evowelbeng
 Encoding: 2503 2503 107
 Width: 309
 GlyphClass: 2
@@ -8399,10 +8394,10 @@ SplineSet
  -10 465 l 1,29,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Bengali lookup 5" u09C7.init
+Substitution2: "'init' Initial Forms lookup 0-1" evowelbeng.init
 EndChar
 
-StartChar: u09C8
+StartChar: aivowelbeng
 Encoding: 2504 2504 108
 Width: 323
 GlyphClass: 2
@@ -8498,10 +8493,10 @@ SplineSet
  -10 500 l 1,61,-1
  -10 500 l 1,0,-1
 EndSplineSet
-Substitution2: "'init' Initial Forms in Bengali lookup 5" u09C8.init
+Substitution2: "'init' Initial Forms lookup 0-1" aivowelbeng.init
 EndChar
 
-StartChar: u09CB
+StartChar: ovowelbeng
 Encoding: 2507 2507 109
 Width: 600
 GlyphClass: 2
@@ -8607,7 +8602,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09CC
+StartChar: auvowelbeng
 Encoding: 2508 2508 110
 Width: 925
 GlyphClass: 2
@@ -8720,7 +8715,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09CD
+StartChar: viramabeng
 Encoding: 2509 2509 111
 Width: 0
 GlyphClass: 4
@@ -8768,7 +8763,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni09CE
+StartChar: khandatabeng
 Encoding: 2510 2510 112
 Width: 411
 GlyphClass: 2
@@ -8812,9 +8807,10 @@ SplineSet
  206 325 206 325 230 325 c 1,41,-1
  230 325 l 1,32,33
 EndSplineSet
+Ligature2: "'half' Half Forms lookup 5-1" tabeng viramabeng zerowidthjoiner
 EndChar
 
-StartChar: u09D7
+StartChar: aulengthmarkbeng
 Encoding: 2519 2519 113
 Width: 220
 GlyphClass: 2
@@ -8894,7 +8890,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09DC
+StartChar: rrabeng
 Encoding: 2524 2524 114
 Width: 549
 GlyphClass: 2
@@ -8981,10 +8977,9 @@ SplineSet
  305 -115 305 -115 288 -115 c 1,51,-1
  288 -115 l 1,39,40
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Bengali lookup 6" u09A1 u09BC
 EndChar
 
-StartChar: u09DD
+StartChar: rhabeng
 Encoding: 2525 2525 115
 Width: 419
 GlyphClass: 2
@@ -9065,10 +9060,9 @@ SplineSet
  197 -120 197 -120 180 -120 c 1,42,-1
  180 -120 l 1,30,31
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Bengali lookup 6" u09A2 u09BC
 EndChar
 
-StartChar: u09DF
+StartChar: yyabeng
 Encoding: 2527 2527 116
 Width: 453
 GlyphClass: 2
@@ -9155,10 +9149,10 @@ SplineSet
  157 -5 157 -5 143 -5 c 1,34,-1
  143 -5 l 1,22,23
 EndSplineSet
-Ligature2: "'nukt' Nukta Forms in Bengali lookup 6" u09AF u09BC
+Ligature2: "'nukt' Nukta Forms lookup 2-1" yabeng nuktabeng
 EndChar
 
-StartChar: u09E0
+StartChar: rrvocalicbeng
 Encoding: 2528 2528 117
 Width: 636
 GlyphClass: 2
@@ -9278,7 +9272,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E1
+StartChar: llvocalicbeng
 Encoding: 2529 2529 118
 Width: 463
 GlyphClass: 2
@@ -9414,7 +9408,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E2
+StartChar: lvocalicvowelbeng
 Encoding: 2530 2530 119
 Width: 0
 GlyphClass: 4
@@ -9520,7 +9514,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E3
+StartChar: llvocalicvowelbeng
 Encoding: 2531 2531 120
 Width: 0
 GlyphClass: 4
@@ -9675,7 +9669,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E6
+StartChar: zerobeng
 Encoding: 2534 2534 121
 Width: 500
 GlyphClass: 2
@@ -9745,7 +9739,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E7
+StartChar: onebeng
 Encoding: 2535 2535 122
 Width: 499
 GlyphClass: 2
@@ -9818,7 +9812,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E8
+StartChar: twobeng
 Encoding: 2536 2536 123
 Width: 500
 GlyphClass: 2
@@ -9885,7 +9879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09E9
+StartChar: threebeng
 Encoding: 2537 2537 124
 Width: 500
 GlyphClass: 2
@@ -9960,7 +9954,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09EA
+StartChar: fourbeng
 Encoding: 2538 2538 125
 Width: 499
 GlyphClass: 2
@@ -10048,7 +10042,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09EB
+StartChar: fivebeng
 Encoding: 2539 2539 126
 Width: 499
 GlyphClass: 2
@@ -10136,7 +10130,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09EC
+StartChar: sixbeng
 Encoding: 2540 2540 127
 Width: 500
 GlyphClass: 2
@@ -10211,7 +10205,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09ED
+StartChar: sevenbeng
 Encoding: 2541 2541 128
 Width: 500
 GlyphClass: 2
@@ -10292,7 +10286,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09EE
+StartChar: eightbeng
 Encoding: 2542 2542 129
 Width: 499
 GlyphClass: 2
@@ -10386,7 +10380,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09EF
+StartChar: ninebeng
 Encoding: 2543 2543 130
 Width: 499
 GlyphClass: 2
@@ -10635,7 +10629,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09F2
+StartChar: rupeemarkbeng
 Encoding: 2546 2546 133
 Width: 469
 VWidth: 499
@@ -10657,7 +10651,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09F3
+StartChar: rupeesignbeng
 Encoding: 2547 2547 134
 Width: 383
 VWidth: 499
@@ -10905,7 +10899,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09FA
+StartChar: issharbeng
 Encoding: 2554 2554 141
 Width: 471
 GlyphClass: 2
@@ -10935,7 +10929,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii61664
+StartChar: zerowidthnonjoiner
 Encoding: 8204 8204 142
 Width: 0
 GlyphClass: 2
@@ -11003,7 +10997,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii301
+StartChar: zerowidthjoiner
 Encoding: 8205 8205 143
 Width: 0
 GlyphClass: 2
@@ -11588,7 +11582,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni25CC
+StartChar: dottedcircle
 Encoding: 9676 9676 152
 Width: 720
 GlyphClass: 2
@@ -11765,7 +11759,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09AF_u09CD.pstf
+StartChar: yabeng_viramabeng.pstf
 Encoding: 65537 -1 153
 Width: 223
 GlyphClass: 2
@@ -11825,10 +11819,9 @@ SplineSet
  123 10 123 10 80 -10 c 1,24,-1
  80 -10 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Bengali lookup 8" u09AF u09CD
 EndChar
 
-StartChar: u0995_u09CD.half_u0995.pres
+StartChar: kabeng_viramabeng.half_u0995.pres
 Encoding: 65538 -1 154
 Width: 566
 GlyphClass: 2
@@ -11932,10 +11925,9 @@ SplineSet
  151 252 151 252 170 230 c 1,73,-1
  170 230 l 1,63,64
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u0995
 EndChar
 
-StartChar: u0995_u09CD.half_u099F.pres
+StartChar: kabeng_viramabeng.half_u099F.pres
 Encoding: 65539 -1 155
 Width: 464
 GlyphClass: 2
@@ -12059,10 +12051,9 @@ SplineSet
  204 250 204 250 223 210 c 1,94,-1
  223 210 l 1,84,85
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u099F
 EndChar
 
-StartChar: u0995_u09CD.half_u09A4.pres
+StartChar: kabeng_viramabeng.half_u09A4.pres
 Encoding: 65540 -1 156
 Width: 747
 GlyphClass: 2
@@ -12173,10 +12164,9 @@ SplineSet
  -10 465 l 1,90,-1
  -10 465 l 1,86,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09A4
 EndChar
 
-StartChar: u0995_u09CD.half_u09A4_u09B0_u09CD.blwf.vatu.pres
+StartChar: kabeng_viramabeng.half_u09A4_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65541 -1 157
 Width: 747
 GlyphClass: 2
@@ -12302,10 +12292,9 @@ SplineSet
  -10 465 l 1,115,-1
  -10 465 l 1,111,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09A4_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u0995_u09CD.half_u09A4_u09AC_u09CD.blwf.pres
+StartChar: kabeng_viramabeng.half_u09A4_u09AC_u09CD.blwf.pres
 Encoding: 65542 -1 158
 Width: 672
 GlyphClass: 2
@@ -12430,10 +12419,9 @@ SplineSet
  -10 465 l 1,106,-1
  -10 465 l 1,102,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09A4 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0995_u09CD.half_u09A8.pres
+StartChar: kabeng_viramabeng.half_u09A8.pres
 Encoding: 65543 -1 159
 Width: 550
 GlyphClass: 2
@@ -12493,10 +12481,9 @@ SplineSet
  265 184 265 184 303 130 c 1,59,-1
  303 130 l 1,52,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09A8
 EndChar
 
-StartChar: u0995_u09CD.half_u09AE.pres
+StartChar: kabeng_viramabeng.half_u09AE.pres
 Encoding: 65544 -1 160
 Width: 603
 GlyphClass: 2
@@ -12556,10 +12543,9 @@ SplineSet
  199 239 199 239 223 205 c 1,61,-1
  223 205 l 1,54,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09AE
 EndChar
 
-StartChar: u0995_u09B0_u09CD.blwf.vatu
+StartChar: kabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65545 -1 161
 Width: 643
 GlyphClass: 2
@@ -12667,10 +12653,9 @@ SplineSet
  -10 465 l 1,84,-1
  -10 465 l 1,80,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u0995 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u0995_u09CD.half_u09B2.pres
+StartChar: kabeng_viramabeng.half_u09B2.pres
 Encoding: 65546 -1 162
 Width: 602
 GlyphClass: 2
@@ -12789,10 +12774,9 @@ SplineSet
  312 183 312 183 342 130 c 1,85,-1
  342 130 l 1,78,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B2
 EndChar
 
-StartChar: u0995_u09AC_u09CD.blwf.blws
+StartChar: kabeng_babeng_viramabeng.blwf.blws
 Encoding: 65547 -1 163
 Width: 552
 GlyphClass: 2
@@ -12886,10 +12870,9 @@ SplineSet
  151 252 151 252 168 235 c 1,58,-1
  168 235 l 1,48,49
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0995 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0995_u09CD.half_u09B7.pres
+StartChar: kabeng_viramabeng.half_u09B7.pres
 Encoding: 65548 -1 164
 Width: 623
 GlyphClass: 2
@@ -12995,10 +12978,10 @@ SplineSet
  328 335 328 335 384 335 c 1,76,-1
  384 335 l 1,71,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B7
+Ligature2: "'akhn' Akhand lookup 2-1" kabeng viramabeng ssabeng
 EndChar
 
-StartChar: u0995_u09CD.half_u09B7_u09CD.half_u09A3.pres
+StartChar: kabeng_viramabeng.half_u09B7_u09CD.half_u09A3.pres
 Encoding: 65549 -1 165
 Width: 640
 GlyphClass: 2
@@ -13122,10 +13105,9 @@ SplineSet
  333 354 333 354 384 345 c 1,95,-1
  384 345 l 1,90,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B7_u09CD.half u09A3
 EndChar
 
-StartChar: u0995_u09CD.half_u09B7_u09CD.half_u09AE.pres
+StartChar: kabeng_viramabeng.half_u09B7_u09CD.half_u09AE.pres
 Encoding: 65550 -1 166
 Width: 668
 GlyphClass: 2
@@ -13249,10 +13231,9 @@ SplineSet
  279 390 279 390 293 390 c 1,102,-1
  293 390 l 1,95,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B7_u09CD.half u09AE
 EndChar
 
-StartChar: u0995_u09CD.half_u09B7_u09B0_u09CD.blwf.vatu.pres
+StartChar: kabeng_viramabeng.half_u09B7_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65551 -1 167
 Width: 641
 GlyphClass: 2
@@ -13374,10 +13355,9 @@ SplineSet
  346 335 346 335 402 335 c 1,95,-1
  402 335 l 1,90,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B7_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u0995_u09CD.half_u09B7_u09AC_u09CD.blwf.pres
+StartChar: kabeng_viramabeng.half_u09B7_u09AC_u09CD.blwf.pres
 Encoding: 65552 -1 168
 Width: 619
 GlyphClass: 2
@@ -13492,10 +13472,9 @@ SplineSet
  324 335 324 335 380 335 c 1,92,-1
  380 335 l 1,87,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B7 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0995_u09CD.half_u09B8.pres
+StartChar: kabeng_viramabeng.half_u09B8.pres
 Encoding: 65553 -1 169
 Width: 565
 GlyphClass: 2
@@ -13596,10 +13575,9 @@ SplineSet
  191 231 191 231 215 190 c 1,72,-1
  215 190 l 1,65,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u09B8
 EndChar
 
-StartChar: u0996_u09B0_u09CD.blwf.vatu
+StartChar: khabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65554 -1 170
 Width: 572
 GlyphClass: 2
@@ -13703,10 +13681,9 @@ SplineSet
  442 0 l 1,76,-1
  442 0 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u0996 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u0996_u09AC_u09CD.blwf.blws
+StartChar: khabeng_babeng_viramabeng.blwf.blws
 Encoding: 65555 -1 171
 Width: 471
 GlyphClass: 2
@@ -13818,10 +13795,9 @@ SplineSet
  314 54 314 54 341 15 c 1,66,-1
  341 15 l 1,59,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0996 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0997_afii61664_u09C1.blws
+StartChar: gabeng_zerowidthnonjoiner_uvowelbeng.blws
 Encoding: 65556 -1 172
 Width: 682
 GlyphClass: 2
@@ -13931,11 +13907,9 @@ SplineSet
  490 -10 490 -10 407 -10 c 1,84,-1
  407 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0997 u09C1
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0997 afii61664 u09C1
 EndChar
 
-StartChar: u0997_u09CD.half_u0997.pres
+StartChar: gabeng_viramabeng.half_u0997.pres
 Encoding: 65557 -1 173
 Width: 434
 GlyphClass: 2
@@ -14044,10 +14018,9 @@ SplineSet
  304 560 l 1,78,-1
  304 560 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u0997
 EndChar
 
-StartChar: u0997_u09CD.half_u09A6.pres
+StartChar: gabeng_viramabeng.half_u09A6.pres
 Encoding: 65558 -1 174
 Width: 671
 GlyphClass: 2
@@ -14136,10 +14109,9 @@ SplineSet
  580 0 l 1,61,-1
  580 0 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09A6
 EndChar
 
-StartChar: u0997_u09CD.half_u09A7.pres
+StartChar: gabeng_viramabeng.half_u09A7.pres
 Encoding: 65559 -1 175
 Width: 585
 GlyphClass: 2
@@ -14254,10 +14226,9 @@ SplineSet
  305 51 305 51 330 15 c 1,84,-1
  330 15 l 1,77,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09A7
 EndChar
 
-StartChar: u0997_u09CD.half_u09A7_u09AC_u09CD.blwf.pres
+StartChar: gabeng_viramabeng.half_u09A7_u09AC_u09CD.blwf.pres
 Encoding: 65560 -1 176
 Width: 585
 GlyphClass: 2
@@ -14347,10 +14318,9 @@ SplineSet
  324 50 324 50 330 50 c 1,101,-1
  330 50 l 1,91,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09A7 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0997_u09CD.half_u09A7_u09B0_u09CD.blwf.vatu.pres
+StartChar: gabeng_viramabeng.half_u09A7_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65561 -1 177
 Width: 625
 GlyphClass: 2
@@ -14484,10 +14454,9 @@ SplineSet
  347 51 347 51 372 15 c 1,100,-1
  372 15 l 1,93,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09A7_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u0997_u09CD.half_u09A8.pres
+StartChar: gabeng_viramabeng.half_u09A8.pres
 Encoding: 65562 -1 178
 Width: 462
 GlyphClass: 2
@@ -14578,10 +14547,9 @@ SplineSet
  37 363 37 363 37 380 c 1,61,-1
  37 380 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09A8
 EndChar
 
-StartChar: u0997_u09CD.half_u09AE.pres
+StartChar: gabeng_viramabeng.half_u09AE.pres
 Encoding: 65563 -1 179
 Width: 639
 GlyphClass: 2
@@ -14681,10 +14649,9 @@ SplineSet
  487 108 487 108 509 70 c 1,63,-1
  509 70 l 1,57,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09AE
 EndChar
 
-StartChar: u0997_u09B0_u09CD.blwf.vatu
+StartChar: gabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65564 -1 180
 Width: 576
 GlyphClass: 2
@@ -14786,10 +14753,9 @@ SplineSet
  446 -50 l 1,64,-1
  446 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u0997 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u0997_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: gabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65565 -1 181
 Width: 725
 GlyphClass: 2
@@ -14906,10 +14872,9 @@ SplineSet
  441 -50 l 1,90,-1
  441 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0997_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u0997_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: gabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65566 -1 182
 Width: 709
 GlyphClass: 2
@@ -15025,10 +14990,9 @@ SplineSet
  442 -50 l 1,88,-1
  442 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0997_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u0997_u09CD.half_u09B2.pres
+StartChar: gabeng_viramabeng.half_u09B2.pres
 Encoding: 65567 -1 183
 Width: 499
 GlyphClass: 2
@@ -15146,10 +15110,9 @@ SplineSet
  369 0 l 1,84,-1
  369 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0997_u09CD.half u09B2
 EndChar
 
-StartChar: u0997_u09AC_u09CD.blwf.blws
+StartChar: gabeng_babeng_viramabeng.blwf.blws
 Encoding: 65568 -1 184
 Width: 433
 GlyphClass: 2
@@ -15243,10 +15206,9 @@ SplineSet
  284 77 284 77 303 55 c 1,58,-1
  303 55 l 1,51,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0997 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0998_u09CD.half_u09A8.pres
+StartChar: ghabeng_viramabeng.half_u09A8.pres
 Encoding: 65569 -1 185
 Width: 497
 GlyphClass: 2
@@ -15329,10 +15291,9 @@ SplineSet
  317 194 317 194 367 135 c 1,52,-1
  367 135 l 1,38,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0998_u09CD.half u09A8
 EndChar
 
-StartChar: u0998_u09B0_u09CD.blwf.vatu
+StartChar: ghabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65570 -1 186
 Width: 537
 GlyphClass: 2
@@ -15422,10 +15383,9 @@ SplineSet
  370 144 370 144 407 100 c 1,58,-1
  407 100 l 1,44,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u0998 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u0998_u09AC_u09CD.blwf.blws
+StartChar: ghabeng_babeng_viramabeng.blwf.blws
 Encoding: 65571 -1 187
 Width: 475
 GlyphClass: 2
@@ -15511,10 +15471,9 @@ SplineSet
  341 92 341 92 345 93 c 1,54,-1
  345 93 l 1,34,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u0998 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u0999_u09CD.half_u0995.pres
+StartChar: ngabeng_viramabeng.half_u0995.pres
 Encoding: 65572 -1 188
 Width: 481
 GlyphClass: 2
@@ -15619,10 +15578,9 @@ SplineSet
  302 400 302 400 330 400 c 1,76,-1
  330 400 l 1,69,70
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0995
 EndChar
 
-StartChar: u0999_u09CD.half_u0995_u09B0_u09CD.blwf.vatu.pres
+StartChar: ngabeng_viramabeng.half_u0995_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65573 -1 189
 Width: 593
 GlyphClass: 2
@@ -15743,10 +15701,9 @@ SplineSet
  414 400 414 400 442 400 c 1,95,-1
  442 400 l 1,88,89
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0995_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u0999_u09CD.half_u0995_u09CD.half_u09B7.pres
+StartChar: ngabeng_viramabeng.half_u0995_u09CD.half_u09B7.pres
 Encoding: 65574 -1 190
 Width: 1112
 GlyphClass: 2
@@ -15907,10 +15864,9 @@ SplineSet
  810 335 810 335 862 335 c 1,157,-1
  862 335 l 1,152,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0995_u09CD.half u09B7
 EndChar
 
-StartChar: u0999_u09CD.half_u0995_u09CD.half_u09B7_u09B0_u09CD.blwf.vatu.pres
+StartChar: ngabeng_viramabeng.half_u0995_u09CD.half_u09B7_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65575 -1 191
 Width: 1112
 GlyphClass: 2
@@ -16089,10 +16045,9 @@ SplineSet
  810 335 810 335 862 335 c 1,176,-1
  862 335 l 1,171,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0995_u09CD.half u09B7_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u0999_u09CD.half_u0996.pres
+StartChar: ngabeng_viramabeng.half_u0996.pres
 Encoding: 65576 -1 192
 Width: 724
 GlyphClass: 2
@@ -16221,10 +16176,9 @@ SplineSet
  -10 465 l 1,103,-1
  -10 465 l 1,99,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0996
 EndChar
 
-StartChar: u0999_u09CD.half_u0997.pres
+StartChar: ngabeng_viramabeng.half_u0997.pres
 Encoding: 65577 -1 193
 Width: 510
 GlyphClass: 2
@@ -16326,10 +16280,9 @@ SplineSet
  331 400 331 400 358 400 c 1,82,-1
  358 400 l 1,75,76
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0997
 EndChar
 
-StartChar: u0999_u09CD.half_u0998.pres
+StartChar: ngabeng_viramabeng.half_u0998.pres
 Encoding: 65578 -1 194
 Width: 892
 GlyphClass: 2
@@ -16462,10 +16415,9 @@ SplineSet
  731 115 731 115 762 70 c 1,107,-1
  762 70 l 1,90,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0998
 EndChar
 
-StartChar: u0999_u09CD.half_u0998_u09B0_u09CD.blwf.vatu.pres
+StartChar: ngabeng_viramabeng.half_u0998_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65579 -1 195
 Width: 901
 GlyphClass: 2
@@ -16604,10 +16556,9 @@ SplineSet
  734 144 734 144 771 100 c 1,132,-1
  771 100 l 1,118,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u0998_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u0999_u09CD.half_u09AE.pres
+StartChar: ngabeng_viramabeng.half_u09AE.pres
 Encoding: 65580 -1 196
 Width: 670
 GlyphClass: 2
@@ -16726,10 +16677,9 @@ SplineSet
  357 400 357 400 380 400 c 1,96,-1
  380 400 l 1,86,87
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0999_u09CD.half u09AE
 EndChar
 
-StartChar: u0999_u09B0_u09CD.blwf.vatu
+StartChar: ngabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65581 -1 197
 Width: 571
 GlyphClass: 2
@@ -16843,10 +16793,9 @@ SplineSet
  323 365 323 365 338 365 c 1,100,-1
  338 365 l 1,88,89
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u0999 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u099A_u09CD.half_u099A.pres
+StartChar: cabeng_viramabeng.half_u099A.pres
 Encoding: 65582 -1 198
 Width: 617
 GlyphClass: 2
@@ -16939,10 +16888,9 @@ SplineSet
  263 311 263 311 297 295 c 1,54,-1
  297 295 l 1,49,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099A_u09CD.half u099A
 EndChar
 
-StartChar: u099A_u09CD.half_u099B.pres
+StartChar: cabeng_viramabeng.half_u099B.pres
 Encoding: 65583 -1 199
 Width: 728
 GlyphClass: 2
@@ -17044,10 +16992,9 @@ SplineSet
  399 225 399 225 413 225 c 1,76,-1
  413 225 l 1,66,67
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099A_u09CD.half u099B
 EndChar
 
-StartChar: u099A_u09CD.half_u099B_u09B0_u09CD.blwf.vatu.pres
+StartChar: cabeng_viramabeng.half_u099B_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65584 -1 200
 Width: 752
 GlyphClass: 2
@@ -17169,10 +17116,9 @@ SplineSet
  147 55 147 55 164 55 c 1,101,-1
  164 55 l 1,91,92
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099A_u09CD.half u099B_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u099A_u09CD.half_u099B_u09AC_u09CD.blwf.pres
+StartChar: cabeng_viramabeng.half_u099B_u09AC_u09CD.blwf.pres
 Encoding: 65585 -1 201
 Width: 723
 GlyphClass: 2
@@ -17301,10 +17247,9 @@ SplineSet
  136 60 136 60 144 60 c 1,100,-1
  144 60 l 1,89,90
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099A_u09CD.half u099B_u09AC_u09CD.blwf.blws
 EndChar
 
-StartChar: u099A_u09CD.half_u099E.pres
+StartChar: cabeng_viramabeng.half_u099E.pres
 Encoding: 65586 -1 202
 Width: 771
 GlyphClass: 2
@@ -17443,10 +17388,9 @@ SplineSet
  120 180 120 180 134 180 c 1,122,-1
  134 180 l 1,112,113
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099A_u09CD.half u099E
 EndChar
 
-StartChar: u099A_u09CD.half_u09A8.pres
+StartChar: cabeng_viramabeng.half_u09A8.pres
 Encoding: 65587 -1 203
 Width: 416
 GlyphClass: 2
@@ -17542,10 +17486,9 @@ SplineSet
  120 164 l 1,57,-1
  120 164 l 1,44,45
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099A_u09CD.half u09A8
 EndChar
 
-StartChar: u099A_u09B0_u09CD.blwf.vatu
+StartChar: cabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65588 -1 204
 Width: 429
 GlyphClass: 2
@@ -17634,10 +17577,9 @@ SplineSet
  123 114 l 1,58,-1
  123 114 l 1,45,46
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u099A u09B0_u09CD.blwf
 EndChar
 
-StartChar: u099A_u09AC_u09CD.blwf.blws
+StartChar: cabeng_babeng_viramabeng.blwf.blws
 Encoding: 65589 -1 205
 Width: 413
 GlyphClass: 2
@@ -17722,10 +17664,9 @@ SplineSet
  221 -69 221 -69 239 -95 c 1,50,-1
  239 -95 l 1,43,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u099A u09AC_u09CD.blwf
 EndChar
 
-StartChar: u099B_u09B0_u09CD.blwf.vatu
+StartChar: chabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65590 -1 206
 Width: 507
 GlyphClass: 2
@@ -17833,10 +17774,9 @@ SplineSet
  164 220 164 220 176 220 c 1,85,-1
  176 220 l 1,77,78
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u099B u09B0_u09CD.blwf
 EndChar
 
-StartChar: u099B_u09AC_u09CD.blwf.blws
+StartChar: chabeng_babeng_viramabeng.blwf.blws
 Encoding: 65591 -1 207
 Width: 466
 GlyphClass: 2
@@ -17945,10 +17885,9 @@ SplineSet
  336 -107 336 -107 352 -130 c 1,85,-1
  352 -130 l 1,78,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u099B u09AC_u09CD.blwf
 EndChar
 
-StartChar: u099C_u09CD.half_u099C.pres
+StartChar: jabeng_viramabeng.half_u099C.pres
 Encoding: 65592 -1 208
 Width: 807
 GlyphClass: 2
@@ -18067,10 +18006,9 @@ SplineSet
  461 115 461 115 500 115 c 1,112,-1
  500 115 l 1,76,77
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099C_u09CD.half u099C
 EndChar
 
-StartChar: u099C_u09CD.half_u099C_u09AC_u09CD.blwf.pres
+StartChar: jabeng_viramabeng.half_u099C_u09AC_u09CD.blwf.pres
 Encoding: 65593 -1 209
 Width: 810
 GlyphClass: 2
@@ -18200,10 +18138,9 @@ SplineSet
  685 -10 685 -10 713 -30 c 1,126,-1
  713 -30 l 1,117,118
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099C_u09CD.half u099C_u09AC_u09CD.blwf.blws
 EndChar
 
-StartChar: u099C_u09CD.half_u099D.pres
+StartChar: jabeng_viramabeng.half_u099D.pres
 Encoding: 65594 -1 210
 Width: 722
 GlyphClass: 2
@@ -18313,10 +18250,9 @@ SplineSet
  567 0 567 0 592 -30 c 1,78,-1
  592 -30 l 1,69,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099C_u09CD.half u099D
 EndChar
 
-StartChar: u099C_u09CD.half_u099E.pres
+StartChar: jabeng_viramabeng.half_u099E.pres
 Encoding: 65595 -1 211
 Width: 736
 GlyphClass: 2
@@ -18433,10 +18369,10 @@ SplineSet
  257 260 257 260 286 260 c 1,94,-1
  286 260 l 1,84,85
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099C_u09CD.half u099E
+Ligature2: "'akhn' Akhand lookup 2-1" jabeng viramabeng nyabeng
 EndChar
 
-StartChar: u099C_u09B0_u09CD.blwf.vatu
+StartChar: jabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65596 -1 212
 Width: 675
 GlyphClass: 2
@@ -18542,10 +18478,9 @@ SplineSet
  60 207 60 207 60 325 c 1,87,-1
  60 325 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u099C u09B0_u09CD.blwf
 EndChar
 
-StartChar: u099C_u09AC_u09CD.blwf.blws
+StartChar: jabeng_babeng_viramabeng.blwf.blws
 Encoding: 65597 -1 213
 Width: 638
 GlyphClass: 2
@@ -18649,10 +18584,9 @@ SplineSet
  488 12 488 12 526 -10 c 1,82,-1
  526 -10 l 1,73,74
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u099C u09AC_u09CD.blwf
 EndChar
 
-StartChar: u099D_u09B0_u09CD.blwf.vatu
+StartChar: jhabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65598 -1 214
 Width: 636
 GlyphClass: 2
@@ -18755,10 +18689,9 @@ SplineSet
  328 136 328 136 361 85 c 1,55,-1
  361 85 l 1,48,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u099D u09B0_u09CD.blwf
 EndChar
 
-StartChar: u099E_u09CD.half_u099A.pres
+StartChar: nyabeng_viramabeng.half_u099A.pres
 Encoding: 65599 -1 215
 Width: 672
 GlyphClass: 2
@@ -18883,10 +18816,9 @@ SplineSet
  461 120 461 120 502 120 c 1,91,-1
  502 120 l 1,60,61
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099E_u09CD.half u099A
 EndChar
 
-StartChar: u099E_u09CD.half_u099A_u09AC_u09CD.blwf.pres
+StartChar: nyabeng_viramabeng.half_u099A_u09AC_u09CD.blwf.pres
 Encoding: 65600 -1 216
 Width: 672
 GlyphClass: 2
@@ -19020,10 +18952,9 @@ SplineSet
  306 -94 306 -94 322 -117 c 1,106,-1
  322 -117 l 1,99,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099E_u09CD.half u099A u09AC_u09CD.blwf
 EndChar
 
-StartChar: u099E_u09CD.half_u099B.pres
+StartChar: nyabeng_viramabeng.half_u099B.pres
 Encoding: 65601 -1 217
 Width: 571
 GlyphClass: 2
@@ -19165,10 +19096,9 @@ SplineSet
  394 220 394 220 428 220 c 1,122,-1
  428 220 l 1,92,93
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099E_u09CD.half u099B
 EndChar
 
-StartChar: u099E_u09CD.half_u099C.pres
+StartChar: nyabeng_viramabeng.half_u099C.pres
 Encoding: 65602 -1 218
 Width: 657
 GlyphClass: 2
@@ -19313,10 +19243,9 @@ SplineSet
  444 250 444 250 482 250 c 1,139,-1
  482 250 l 1,106,107
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099E_u09CD.half u099C
 EndChar
 
-StartChar: u099E_u09CD.half_u099D.pres
+StartChar: nyabeng_viramabeng.half_u099D.pres
 Encoding: 65603 -1 219
 Width: 627
 GlyphClass: 2
@@ -19463,10 +19392,9 @@ SplineSet
  456 240 456 240 482 240 c 1,128,-1
  482 240 l 1,98,99
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099E_u09CD.half u099D
 EndChar
 
-StartChar: u099E_u09CD.half_u09A7.pres
+StartChar: nyabeng_viramabeng.half_u09A7.pres
 Encoding: 65604 -1 220
 Width: 532
 GlyphClass: 2
@@ -19600,10 +19528,9 @@ SplineSet
  359 245 359 245 385 245 c 1,111,-1
  385 245 l 1,81,82
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099E_u09CD.half u09A7
 EndChar
 
-StartChar: u099F_u09CD.half_u099F.pres
+StartChar: ttabeng_viramabeng.half_u099F.pres
 Encoding: 65605 -1 221
 Width: 485
 GlyphClass: 2
@@ -19713,10 +19640,9 @@ SplineSet
  325 -80 325 -80 261 -80 c 1,76,-1
  261 -80 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099F_u09CD.half u099F
 EndChar
 
-StartChar: u099F_u09CD.half_u099F_u09B0_u09CD.blwf.vatu.pres
+StartChar: ttabeng_viramabeng.half_u099F_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65606 -1 222
 Width: 485
 GlyphClass: 2
@@ -19840,10 +19766,9 @@ SplineSet
  293 -80 293 -80 261 -80 c 1,101,-1
  261 -80 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099F_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u099F_u09CD.half_u09AE.pres
+StartChar: ttabeng_viramabeng.half_u09AE.pres
 Encoding: 65607 -1 223
 Width: 619
 GlyphClass: 2
@@ -19957,10 +19882,9 @@ SplineSet
  489 465 l 1,89,-1
  489 465 l 1,62,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u099F_u09CD.half u09AE
 EndChar
 
-StartChar: u099F_u09B0_u09CD.blwf.vatu
+StartChar: ttabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65608 -1 224
 Width: 546
 GlyphClass: 2
@@ -20075,10 +19999,9 @@ SplineSet
  -10 465 l 1,87,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u099F u09B0_u09CD.blwf
 EndChar
 
-StartChar: u099F_u09AC_u09CD.blwf.blws
+StartChar: ttabeng_babeng_viramabeng.blwf.blws
 Encoding: 65609 -1 225
 Width: 429
 GlyphClass: 2
@@ -20188,10 +20111,9 @@ SplineSet
  262 -14 262 -14 280 -40 c 1,78,-1
  280 -40 l 1,71,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u099F u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A0_u09B0_u09CD.blwf.vatu
+StartChar: tthabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65610 -1 226
 Width: 423
 GlyphClass: 2
@@ -20296,10 +20218,9 @@ SplineSet
  146 65 146 65 197 65 c 1,72,-1
  197 65 l 1,60,61
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A0 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A1_u09CD.half_u0997.pres
+StartChar: ddabeng_viramabeng.half_u0997.pres
 Encoding: 65611 -1 227
 Width: 982
 GlyphClass: 2
@@ -20415,10 +20336,9 @@ SplineSet
  852 0 l 1,82,-1
  852 0 l 1,39,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A1_u09CD.half u0997
 EndChar
 
-StartChar: u09A1_u09CD.half_u09A1.pres
+StartChar: ddabeng_viramabeng.half_u09A1.pres
 Encoding: 65612 -1 228
 Width: 927
 GlyphClass: 2
@@ -20528,10 +20448,9 @@ SplineSet
  594 50 594 50 661 50 c 1,84,-1
  661 50 l 1,51,52
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A1_u09CD.half u09A1
 EndChar
 
-StartChar: u09A1_u09CD.half_u09AE.pres
+StartChar: ddabeng_viramabeng.half_u09AE.pres
 Encoding: 65613 -1 229
 Width: 755
 GlyphClass: 2
@@ -20622,10 +20541,9 @@ SplineSet
  625 465 l 1,65,-1
  625 465 l 1,47,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A1_u09CD.half u09AE
 EndChar
 
-StartChar: u09A1_u09B0_u09CD.blwf.vatu
+StartChar: ddabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65614 -1 230
 Width: 564
 GlyphClass: 2
@@ -20716,10 +20634,9 @@ SplineSet
  499 127 499 127 489 110 c 1,63,-1
  489 110 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A1 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A1_u09AC_u09CD.blwf.blws
+StartChar: ddabeng_babeng_viramabeng.blwf.blws
 Encoding: 65615 -1 231
 Width: 565
 GlyphClass: 2
@@ -20806,10 +20723,9 @@ SplineSet
  301 -97 301 -97 317 -120 c 1,55,-1
  317 -120 l 1,48,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A1 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A2_u09B0_u09CD.blwf.vatu
+StartChar: ddhabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65616 -1 232
 Width: 548
 GlyphClass: 2
@@ -20898,10 +20814,9 @@ SplineSet
  -10 465 l 1,60,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A2 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A3_u09CD.half_u099F.pres
+StartChar: nnabeng_viramabeng.half_u099F.pres
 Encoding: 65617 -1 233
 Width: 638
 GlyphClass: 2
@@ -21023,10 +20938,9 @@ SplineSet
  303 500 l 1,90,-1
  303 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u099F
 EndChar
 
-StartChar: u09A3_u09CD.half_u099F_u09B0_u09CD.blwf.vatu.pres
+StartChar: nnabeng_viramabeng.half_u099F_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65618 -1 234
 Width: 648
 GlyphClass: 2
@@ -21163,10 +21077,9 @@ SplineSet
  303 500 l 1,115,-1
  303 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A0.pres
+StartChar: nnabeng_viramabeng.half_u09A0.pres
 Encoding: 65619 -1 235
 Width: 533
 GlyphClass: 2
@@ -21273,10 +21186,9 @@ SplineSet
  255 60 255 60 305 60 c 1,78,-1
  305 60 l 1,63,64
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A0
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A0_u09B0_u09CD.blwf.vatu.pres
+StartChar: nnabeng_viramabeng.half_u09A0_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65620 -1 236
 Width: 544
 GlyphClass: 2
@@ -21397,10 +21309,9 @@ SplineSet
  255 60 255 60 305 60 c 1,103,-1
  305 60 l 1,88,89
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A0_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A1.pres
+StartChar: nnabeng_viramabeng.half_u09A1.pres
 Encoding: 65621 -1 237
 Width: 652
 GlyphClass: 2
@@ -21507,10 +21418,9 @@ SplineSet
  468 -10 468 -10 389 -10 c 1,76,-1
  389 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A1
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A1_u09B0_u09CD.blwf.vatu.pres
+StartChar: nnabeng_viramabeng.half_u09A1_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65622 -1 238
 Width: 710
 GlyphClass: 2
@@ -21618,10 +21528,9 @@ SplineSet
  560 15 560 15 478 0 c 1,80,-1
  478 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A1_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A2.pres
+StartChar: nnabeng_viramabeng.half_u09A2.pres
 Encoding: 65623 -1 239
 Width: 647
 GlyphClass: 2
@@ -21715,10 +21624,9 @@ SplineSet
  304 500 l 1,57,-1
  304 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A2
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A2_u09B0_u09CD.blwf.vatu.pres
+StartChar: nnabeng_viramabeng.half_u09A2_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65624 -1 240
 Width: 654
 GlyphClass: 2
@@ -21827,10 +21735,9 @@ SplineSet
  304 500 l 1,82,-1
  304 500 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A2_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A3_u09CD.half_u09A3.pres
+StartChar: nnabeng_viramabeng.half_u09A3.pres
 Encoding: 65625 -1 241
 Width: 476
 GlyphClass: 2
@@ -21933,10 +21840,9 @@ SplineSet
  346 560 l 1,63,-1
  346 560 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09A3
 EndChar
 
-StartChar: u09A3_u09CD.half_u09AE.pres
+StartChar: nnabeng_viramabeng.half_u09AE.pres
 Encoding: 65626 -1 242
 Width: 624
 GlyphClass: 2
@@ -22034,10 +21940,9 @@ SplineSet
  468 107 468 107 494 70 c 1,56,-1
  494 70 l 1,50,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A3_u09CD.half u09AE
 EndChar
 
-StartChar: u09A3_u09B0_u09CD.blwf.vatu
+StartChar: nnabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65627 -1 243
 Width: 502
 GlyphClass: 2
@@ -22130,10 +22035,9 @@ SplineSet
  372 0 l 1,55,-1
  372 0 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A3 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A3_u09AC_u09CD.blwf.blws
+StartChar: nnabeng_babeng_viramabeng.blwf.blws
 Encoding: 65628 -1 244
 Width: 444
 GlyphClass: 2
@@ -22222,10 +22126,9 @@ SplineSet
  285 79 285 79 314 55 c 1,51,-1
  314 55 l 1,44,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A3 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A4_u09CD.half_u09A4.pres
+StartChar: tabeng_viramabeng.half_u09A4.pres
 Encoding: 65629 -1 245
 Width: 550
 GlyphClass: 2
@@ -22316,10 +22219,9 @@ SplineSet
  -10 465 l 1,63,-1
  -10 465 l 1,59,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A4_u09CD.half u09A4
 EndChar
 
-StartChar: u09A4_u09CD.half_u09A4_u09AC_u09CD.blwf.pres
+StartChar: tabeng_viramabeng.half_u09A4_u09AC_u09CD.blwf.pres
 Encoding: 65630 -1 246
 Width: 521
 GlyphClass: 2
@@ -22426,10 +22328,9 @@ SplineSet
  -10 465 l 1,80,-1
  -10 465 l 1,76,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A4_u09CD.half u09A4_u09AC_u09CD.blwf.blws
 EndChar
 
-StartChar: u09A4_u09CD.half_u09A5.pres
+StartChar: tabeng_viramabeng.half_u09A5.pres
 Encoding: 65631 -1 247
 Width: 589
 GlyphClass: 2
@@ -22524,10 +22425,9 @@ SplineSet
  19 383 19 383 19 419 c 1,66,-1
  19 419 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A4_u09CD.half u09A5
 EndChar
 
-StartChar: u09A4_u09CD.half_u09A8.pres
+StartChar: tabeng_viramabeng.half_u09A8.pres
 Encoding: 65632 -1 248
 Width: 564
 GlyphClass: 2
@@ -22623,10 +22523,9 @@ SplineSet
  -10 465 l 1,63,-1
  -10 465 l 1,59,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A4_u09CD.half u09A8
 EndChar
 
-StartChar: u09A4_u09CD.half_u09AE.pres
+StartChar: tabeng_viramabeng.half_u09AE.pres
 Encoding: 65633 -1 249
 Width: 741
 GlyphClass: 2
@@ -22718,10 +22617,9 @@ SplineSet
  611 0 l 1,65,-1
  611 0 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A4_u09CD.half u09AE
 EndChar
 
-StartChar: u09A4_u09B0_u09CD.blwf.vatu
+StartChar: tabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65634 -1 250
 Width: 565
 GlyphClass: 2
@@ -22808,10 +22706,9 @@ SplineSet
  -10 465 l 1,57,-1
  -10 465 l 1,53,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A4 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A4_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: tabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65635 -1 251
 Width: 726
 GlyphClass: 2
@@ -22920,10 +22817,9 @@ SplineSet
  -10 465 l 1,85,-1
  -10 465 l 1,81,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A4_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09A4_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: tabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65636 -1 252
 Width: 722
 GlyphClass: 2
@@ -23031,10 +22927,9 @@ SplineSet
  -10 465 l 1,83,-1
  -10 465 l 1,79,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A4_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09A4_u09CD.half_u09B2.pres
+StartChar: tabeng_viramabeng.half_u09B2.pres
 Encoding: 65637 -1 253
 Width: 564
 GlyphClass: 2
@@ -23145,7 +23040,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A4_u09AC_u09CD.blwf.blws
+StartChar: tabeng_babeng_viramabeng.blwf.blws
 Encoding: 65638 -1 254
 Width: 547
 GlyphClass: 2
@@ -23235,10 +23130,9 @@ SplineSet
  -10 465 l 1,59,-1
  -10 465 l 1,55,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A4 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A5_u09B0_u09CD.blwf.vatu
+StartChar: thabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65639 -1 255
 Width: 549
 GlyphClass: 2
@@ -23343,10 +23237,9 @@ SplineSet
  94 255 l 1,70,-1
  94 255 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A5 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A5_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: thabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65640 -1 256
 Width: 708
 GlyphClass: 2
@@ -23465,10 +23358,9 @@ SplineSet
  95 255 l 1,98,-1
  95 255 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A5_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09A5_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: thabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65641 -1 257
 Width: 694
 GlyphClass: 2
@@ -23586,10 +23478,9 @@ SplineSet
  95 255 l 1,96,-1
  95 255 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A5_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09A5_u09AC_u09CD.blwf.blws
+StartChar: thabeng_babeng_viramabeng.blwf.blws
 Encoding: 65642 -1 258
 Width: 483
 GlyphClass: 2
@@ -23694,10 +23585,9 @@ SplineSet
  337 23 337 23 353 0 c 1,60,-1
  353 0 l 1,53,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A5 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A6_u09CD.half_u0997.pres
+StartChar: dabeng_viramabeng.half_u0997.pres
 Encoding: 65643 -1 259
 Width: 813
 GlyphClass: 2
@@ -23815,10 +23705,9 @@ SplineSet
  293 -10 l 1,72,-1
  293 -10 l 1,44,45
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u0997
 EndChar
 
-StartChar: u09A6_u09CD.half_u0998.pres
+StartChar: dabeng_viramabeng.half_u0998.pres
 Encoding: 65644 -1 260
 Width: 783
 GlyphClass: 2
@@ -23912,10 +23801,9 @@ SplineSet
  608 114 608 114 653 50 c 1,57,-1
  653 50 l 1,43,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u0998
 EndChar
 
-StartChar: u09A6_u09CD.half_u09A6.pres
+StartChar: dabeng_viramabeng.half_u09A6.pres
 Encoding: 65645 -1 261
 Width: 569
 GlyphClass: 2
@@ -23987,10 +23875,9 @@ SplineSet
  488 -15 l 1,39,-1
  488 -15 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09A6
 EndChar
 
-StartChar: u09A6_u09CD.half_u09A6_u09B0_u09CD.blwf.vatu.pres
+StartChar: dabeng_viramabeng.half_u09A6_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65646 -1 262
 Width: 592
 GlyphClass: 2
@@ -24083,10 +23970,9 @@ SplineSet
  501 -15 l 1,58,-1
  501 -15 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09A6_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A6_u09CD.half_u09A6_u09AC_u09CD.blwf.pres
+StartChar: dabeng_viramabeng.half_u09A6_u09AC_u09CD.blwf.pres
 Encoding: 65647 -1 263
 Width: 571
 GlyphClass: 2
@@ -24171,10 +24057,9 @@ SplineSet
  460 -36 460 -36 495 -65 c 1,56,-1
  495 -65 l 1,47,48
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09A6_u09AC_u09CD.blwf.blws
 EndChar
 
-StartChar: u09A6_u09CD.half_u09A7.pres
+StartChar: dabeng_viramabeng.half_u09A7.pres
 Encoding: 65648 -1 264
 Width: 564
 GlyphClass: 2
@@ -24267,10 +24152,9 @@ SplineSet
  292 73 292 73 315 40 c 1,59,-1
  315 40 l 1,52,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09A7
 EndChar
 
-StartChar: u09A6_u09CD.half_u09A7_u09AC_u09CD.blwf.pres
+StartChar: dabeng_viramabeng.half_u09A7_u09AC_u09CD.blwf.pres
 Encoding: 65649 -1 265
 Width: 552
 GlyphClass: 2
@@ -24375,10 +24259,9 @@ SplineSet
  327 140 327 140 345 115 c 1,73,-1
  345 115 l 1,66,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09A7_u09AC_u09CD.blwf.blws
 EndChar
 
-StartChar: u09A6_u09CD.half_u09A8.pres
+StartChar: dabeng_viramabeng.half_u09A8.pres
 Encoding: 65650 -1 266
 Width: 443
 GlyphClass: 2
@@ -24454,10 +24337,9 @@ SplineSet
  363 -5 l 1,46,-1
  363 -5 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09A8
 EndChar
 
-StartChar: u09A6_u09CD.half_u09AD.pres
+StartChar: dabeng_viramabeng.half_u09AD.pres
 Encoding: 65651 -1 267
 Width: 566
 GlyphClass: 2
@@ -24557,10 +24439,9 @@ SplineSet
  422 -60 422 -60 343 -60 c 1,71,-1
  343 -60 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09AD
 EndChar
 
-StartChar: u09A6_u09CD.half_u09AD_u09B0_u09CD.blwf.vatu.pres
+StartChar: dabeng_viramabeng.half_u09AD_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65652 -1 268
 Width: 494
 GlyphClass: 2
@@ -24664,10 +24545,9 @@ SplineSet
  208 -90 208 -90 184 -90 c 1,82,-1
  184 -90 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09AD_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A6_u09CD.half_u09AE.pres
+StartChar: dabeng_viramabeng.half_u09AE.pres
 Encoding: 65653 -1 269
 Width: 536
 GlyphClass: 2
@@ -24749,10 +24629,9 @@ SplineSet
  392 80 392 80 406 60 c 1,47,-1
  406 60 l 1,31,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A6_u09CD.half u09AE
 EndChar
 
-StartChar: u09A6_u09B0_u09CD.blwf.vatu
+StartChar: dabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65654 -1 270
 Width: 511
 GlyphClass: 2
@@ -24836,10 +24715,9 @@ SplineSet
  409 -20 l 1,53,-1
  409 -20 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A6 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A6_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: dabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65655 -1 271
 Width: 676
 GlyphClass: 2
@@ -24943,10 +24821,9 @@ SplineSet
  414 -30 l 1,83,-1
  414 -30 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A6_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09A6_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: dabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65656 -1 272
 Width: 657
 GlyphClass: 2
@@ -25054,10 +24931,9 @@ SplineSet
  419 -25 l 1,81,-1
  419 -25 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A6_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09A6_u09AC_u09CD.blwf.blws
+StartChar: dabeng_babeng_viramabeng.blwf.blws
 Encoding: 65657 -1 273
 Width: 457
 GlyphClass: 2
@@ -25129,10 +25005,9 @@ SplineSet
  325 82 325 82 344 55 c 1,37,-1
  344 55 l 1,30,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A6 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A7_u09CD.half_u09A8.pres
+StartChar: dhabeng_viramabeng.half_u09A8.pres
 Encoding: 65658 -1 274
 Width: 430
 GlyphClass: 2
@@ -25237,10 +25112,9 @@ SplineSet
  259 166 259 166 300 125 c 1,61,-1
  300 125 l 1,56,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A7_u09CD.half u09A8
 EndChar
 
-StartChar: u09A7_u09CD.half_u09AE.pres
+StartChar: dhabeng_viramabeng.half_u09AE.pres
 Encoding: 65659 -1 275
 Width: 531
 GlyphClass: 2
@@ -25348,10 +25222,9 @@ SplineSet
  251 355 l 1,58,-1
  251 355 l 1,53,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A7_u09CD.half u09AE
 EndChar
 
-StartChar: u09A7_u09B0_u09CD.blwf.vatu
+StartChar: dhabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65660 -1 276
 Width: 524
 GlyphClass: 2
@@ -25451,10 +25324,9 @@ SplineSet
  353 139 353 139 394 80 c 1,66,-1
  394 80 l 1,61,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A7 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A7_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: dhabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65661 -1 277
 Width: 653
 GlyphClass: 2
@@ -25576,10 +25448,9 @@ SplineSet
  336 142 336 142 369 95 c 1,94,-1
  369 95 l 1,89,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A7_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09A7_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: dhabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65662 -1 278
 Width: 645
 GlyphClass: 2
@@ -25700,10 +25571,9 @@ SplineSet
  339 148 339 148 372 90 c 1,92,-1
  372 90 l 1,87,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A7_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09A7_u09AC_u09CD.blwf.blws
+StartChar: dhabeng_babeng_viramabeng.blwf.blws
 Encoding: 65663 -1 279
 Width: 708
 GlyphClass: 2
@@ -25806,10 +25676,9 @@ SplineSet
  534 132 534 132 578 70 c 1,61,-1
  578 70 l 1,54,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A7 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A8_u09CD.half_u099F.pres
+StartChar: nabeng_viramabeng.half_u099F.pres
 Encoding: 65664 -1 280
 Width: 605
 GlyphClass: 2
@@ -25921,10 +25790,9 @@ SplineSet
  430 25 430 25 367 25 c 1,79,-1
  367 25 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u099F
 EndChar
 
-StartChar: u09A8_u09CD.half_u099F_u09B0_u09CD.blwf.vatu.pres
+StartChar: nabeng_viramabeng.half_u099F_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65665 -1 281
 Width: 646
 GlyphClass: 2
@@ -26055,10 +25923,9 @@ SplineSet
  35 287 35 287 35 310 c 1,111,-1
  35 310 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A0.pres
+StartChar: nabeng_viramabeng.half_u09A0.pres
 Encoding: 65666 -1 282
 Width: 497
 GlyphClass: 2
@@ -26163,10 +26030,9 @@ SplineSet
  227 60 227 60 278 60 c 1,68,-1
  278 60 l 1,56,57
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A0
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A1.pres
+StartChar: nabeng_viramabeng.half_u09A1.pres
 Encoding: 65667 -1 283
 Width: 614
 GlyphClass: 2
@@ -26255,10 +26121,9 @@ SplineSet
  435 -10 435 -10 340 -10 c 1,56,-1
  340 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A1
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A1_u09B0_u09CD.blwf.vatu.pres
+StartChar: nabeng_viramabeng.half_u09A1_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65668 -1 284
 Width: 623
 GlyphClass: 2
@@ -26361,7 +26226,6 @@ SplineSet
  387 -10 387 -10 342 -10 c 1,81,-1
  342 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A1_u09B0_u09CD.blwf.vatu
 EndChar
 
 StartChar: glyph283
@@ -26490,7 +26354,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A4.pres
+StartChar: nabeng_viramabeng.half_u09A4.pres
 Encoding: 65670 -1 286
 Width: 530
 GlyphClass: 2
@@ -26591,10 +26455,9 @@ SplineSet
  371 -10 371 -10 290 -10 c 1,75,-1
  290 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A4
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A4.pres_u09C1.blws
+StartChar: nabeng_viramabeng.half_u09A4.pres_u09C1.blws
 Encoding: 65671 -1 287
 Width: 605
 GlyphClass: 2
@@ -26709,10 +26572,9 @@ SplineSet
  456 -70 456 -70 390 -70 c 1,97,-1
  390 -70 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A8_u09CD.half_u09A4.pres u09C1
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A4_u09B0_u09CD.blwf.vatu.pres
+StartChar: nabeng_viramabeng.half_u09A4_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65672 -1 288
 Width: 534
 GlyphClass: 2
@@ -26817,10 +26679,9 @@ SplineSet
  -10 465 l 1,89,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A4_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A4_u09AC_u09CD.blwf.pres
+StartChar: nabeng_viramabeng.half_u09A4_u09AC_u09CD.blwf.pres
 Encoding: 65673 -1 289
 Width: 544
 GlyphClass: 2
@@ -26931,10 +26792,9 @@ SplineSet
  280 -132 280 -132 304 -160 c 1,92,-1
  304 -160 l 1,85,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A4_u09AC_u09CD.blwf.blws
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A5.pres
+StartChar: nabeng_viramabeng.half_u09A5.pres
 Encoding: 65674 -1 290
 Width: 454
 GlyphClass: 2
@@ -27036,10 +26896,9 @@ SplineSet
  455 -85 l 1,82,-1
  455 -85 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A5
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A5_u09B0_u09CD.blwf.vatu.pres
+StartChar: nabeng_viramabeng.half_u09A5_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65675 -1 291
 Width: 455
 GlyphClass: 2
@@ -27159,10 +27018,9 @@ SplineSet
  455 -85 l 1,107,-1
  455 -85 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A5_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A6.pres
+StartChar: nabeng_viramabeng.half_u09A6.pres
 Encoding: 65676 -1 292
 Width: 617
 GlyphClass: 2
@@ -27238,10 +27096,9 @@ SplineSet
  537 -5 l 1,46,-1
  537 -5 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A6
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A6_u09B0_u09CD.blwf.vatu.pres
+StartChar: nabeng_viramabeng.half_u09A6_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65677 -1 293
 Width: 622
 GlyphClass: 2
@@ -27335,10 +27192,9 @@ SplineSet
  518 -25 l 1,72,-1
  518 -25 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A6_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A6_u09AC_u09CD.blwf.pres
+StartChar: nabeng_viramabeng.half_u09A6_u09AC_u09CD.blwf.pres
 Encoding: 65678 -1 294
 Width: 573
 GlyphClass: 2
@@ -27428,10 +27284,9 @@ SplineSet
  426 42 426 42 450 25 c 1,64,-1
  450 25 l 1,55,56
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A6 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A7.pres
+StartChar: nabeng_viramabeng.half_u09A7.pres
 Encoding: 65679 -1 295
 Width: 609
 GlyphClass: 2
@@ -27529,10 +27384,9 @@ SplineSet
  289 104 289 104 316 65 c 1,67,-1
  316 65 l 1,60,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A7
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A7_u09AC_u09CD.blwf.pres
+StartChar: nabeng_viramabeng.half_u09A7_u09AC_u09CD.blwf.pres
 Encoding: 65680 -1 296
 Width: 609
 GlyphClass: 2
@@ -27639,10 +27493,9 @@ SplineSet
  300 -87 300 -87 316 -110 c 1,82,-1
  316 -110 l 1,75,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A7 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A7_u09B0_u09CD.blwf.vatu.pres
+StartChar: nabeng_viramabeng.half_u09A7_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65681 -1 297
 Width: 689
 GlyphClass: 2
@@ -27754,10 +27607,9 @@ SplineSet
  373 102 373 102 400 55 c 1,92,-1
  400 55 l 1,85,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A7_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09A8_u09CD.half_u09A8.pres
+StartChar: nabeng_viramabeng.half_u09A8.pres
 Encoding: 65682 -1 298
 Width: 439
 GlyphClass: 2
@@ -27833,10 +27685,9 @@ SplineSet
  -10 465 l 1,46,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09A8
 EndChar
 
-StartChar: u09A8_u09CD.half_u09AE.pres
+StartChar: nabeng_viramabeng.half_u09AE.pres
 Encoding: 65683 -1 299
 Width: 582
 GlyphClass: 2
@@ -27918,10 +27769,9 @@ SplineSet
  424 108 424 108 452 75 c 1,47,-1
  452 75 l 1,41,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09AE
 EndChar
 
-StartChar: u09A8_u09B0_u09CD.blwf.vatu
+StartChar: nabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65684 -1 300
 Width: 513
 GlyphClass: 2
@@ -28005,10 +27855,9 @@ SplineSet
  383 0 l 1,49,-1
  383 0 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09A8 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09A8_u09AC_u09CD.blwf.blws
+StartChar: nabeng_babeng_viramabeng.blwf.blws
 Encoding: 65685 -1 301
 Width: 408
 GlyphClass: 2
@@ -28085,10 +27934,9 @@ SplineSet
  262 98 262 98 278 70 c 1,41,-1
  278 70 l 1,34,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09A8 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09A8_u09CD.half_u09B8.pres
+StartChar: nabeng_viramabeng.half_u09B8.pres
 Encoding: 65686 -1 302
 Width: 605
 GlyphClass: 2
@@ -28179,10 +28027,9 @@ SplineSet
  465 334 465 334 475 320 c 1,61,-1
  475 320 l 1,50,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09A8_u09CD.half u09B8
 EndChar
 
-StartChar: u09AA_u09CD.half_u099F.pres
+StartChar: pabeng_viramabeng.half_u099F.pres
 Encoding: 65687 -1 303
 Width: 701
 GlyphClass: 2
@@ -28306,10 +28153,9 @@ SplineSet
  180 352 180 352 180 320 c 1,95,-1
  180 320 l 1,83,84
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u099F
 EndChar
 
-StartChar: u09AA_u09CD.half_u09A4.pres
+StartChar: pabeng_viramabeng.half_u09A4.pres
 Encoding: 65688 -1 304
 Width: 632
 GlyphClass: 2
@@ -28418,10 +28264,9 @@ SplineSet
  291 370 291 370 291 345 c 1,72,-1
  291 345 l 1,60,61
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09A4
 EndChar
 
-StartChar: u09AA_u09CD.half_u09A4.pres_u09C1.blws
+StartChar: pabeng_viramabeng.half_u09A4.pres_u09C1.blws
 Encoding: 65689 -1 305
 Width: 612
 GlyphClass: 2
@@ -28561,10 +28406,9 @@ SplineSet
  210 370 210 370 210 345 c 1,102,-1
  210 345 l 1,90,91
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AA_u09CD.half_u09A4.pres u09C1
 EndChar
 
-StartChar: u09AA_u09CD.half_u09A4_u09B0_u09CD.blwf.vatu.pres
+StartChar: pabeng_viramabeng.half_u09A4_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65690 -1 306
 Width: 547
 GlyphClass: 2
@@ -28678,10 +28522,9 @@ SplineSet
  186 370 186 370 186 345 c 1,87,-1
  186 345 l 1,75,76
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09A4_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09AA_u09CD.half_u09A8.pres
+StartChar: pabeng_viramabeng.half_u09A8.pres
 Encoding: 65691 -1 307
 Width: 506
 GlyphClass: 2
@@ -28778,10 +28621,9 @@ SplineSet
  171 374 171 374 171 350 c 1,63,-1
  171 350 l 1,51,52
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09A8
 EndChar
 
-StartChar: u09AA_u09CD.half_u09AA.pres
+StartChar: pabeng_viramabeng.half_u09AA.pres
 Encoding: 65692 -1 308
 Width: 522
 GlyphClass: 2
@@ -28899,10 +28741,9 @@ SplineSet
  349 231 349 231 392 195 c 1,84,-1
  392 195 l 1,73,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09AA
 EndChar
 
-StartChar: u09AA_u09CD.half_u09AE.pres
+StartChar: pabeng_viramabeng.half_u09AE.pres
 Encoding: 65693 -1 309
 Width: 690
 GlyphClass: 2
@@ -28992,10 +28833,9 @@ SplineSet
  532 108 532 108 560 75 c 1,62,-1
  560 75 l 1,56,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09AE
 EndChar
 
-StartChar: u09AA_u09B0_u09CD.blwf.vatu
+StartChar: pabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65694 -1 310
 Width: 574
 GlyphClass: 2
@@ -29095,10 +28935,9 @@ SplineSet
  253 343 253 343 264 320 c 1,66,-1
  264 320 l 1,56,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09AA u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09AA_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: pabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65695 -1 311
 Width: 712
 GlyphClass: 2
@@ -29220,10 +29059,9 @@ SplineSet
  234 339 234 339 245 315 c 1,94,-1
  245 315 l 1,84,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AA_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09AA_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: pabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65696 -1 312
 Width: 733
 GlyphClass: 2
@@ -29344,10 +29182,9 @@ SplineSet
  248 342 248 342 263 310 c 1,92,-1
  263 310 l 1,82,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AA_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09AA_u09CD.half_u09B2.pres
+StartChar: pabeng_viramabeng.half_u09B2.pres
 Encoding: 65697 -1 313
 Width: 525
 GlyphClass: 2
@@ -29465,10 +29302,9 @@ SplineSet
  198 367 198 367 205 340 c 1,86,-1
  205 340 l 1,74,75
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09B2
 EndChar
 
-StartChar: u09AA_u09CD.half_u09B8.pres
+StartChar: pabeng_viramabeng.half_u09B8.pres
 Encoding: 65698 -1 314
 Width: 666
 GlyphClass: 2
@@ -29574,10 +29410,9 @@ SplineSet
  406 356 406 356 406 315 c 1,80,-1
  406 315 l 1,69,70
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AA_u09CD.half u09B8
 EndChar
 
-StartChar: u09AB_u09CD.half_u099F.pres
+StartChar: phabeng_viramabeng.half_u099F.pres
 Encoding: 65699 -1 315
 Width: 606
 GlyphClass: 2
@@ -29697,10 +29532,9 @@ SplineSet
  296 410 l 1,89,-1
  296 410 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AB_u09CD.half u099F
 EndChar
 
-StartChar: u09AB_u09B0_u09CD.blwf.vatu
+StartChar: phabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65700 -1 316
 Width: 694
 GlyphClass: 2
@@ -29803,10 +29637,9 @@ SplineSet
  413 -50 l 1,62,-1
  413 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09AB u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09AB_u09CD.half_u09B2.pres
+StartChar: phabeng_viramabeng.half_u09B2.pres
 Encoding: 65701 -1 317
 Width: 605
 GlyphClass: 2
@@ -29917,10 +29750,9 @@ SplineSet
  363 -70 l 1,79,-1
  363 -70 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AB_u09CD.half u09B2
 EndChar
 
-StartChar: u09AC_u09CD.half_u099C.pres
+StartChar: babeng_viramabeng.half_u099C.pres
 Encoding: 65702 -1 318
 Width: 759
 GlyphClass: 2
@@ -30034,10 +29866,9 @@ SplineSet
  261 294 261 294 290 270 c 1,86,-1
  290 270 l 1,79,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u099C
 EndChar
 
-StartChar: u09AC_u09CD.half_u099D.pres
+StartChar: babeng_viramabeng.half_u099D.pres
 Encoding: 65703 -1 319
 Width: 540
 GlyphClass: 2
@@ -30143,10 +29974,9 @@ SplineSet
  412 225 412 225 436 190 c 1,57,-1
  436 190 l 1,51,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u099D
 EndChar
 
-StartChar: u09AC_u09CD.half_u09A1.pres
+StartChar: babeng_viramabeng.half_u09A1.pres
 Encoding: 65704 -1 320
 Width: 567
 GlyphClass: 2
@@ -30235,10 +30065,9 @@ SplineSet
  240 285 240 285 254 265 c 1,53,-1
  254 265 l 1,46,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09A1
 EndChar
 
-StartChar: u09AC_u09CD.half_u09A2.pres
+StartChar: babeng_viramabeng.half_u09A2.pres
 Encoding: 65705 -1 321
 Width: 513
 GlyphClass: 2
@@ -30321,10 +30150,9 @@ SplineSet
  160 246 160 246 182 220 c 1,45,-1
  182 220 l 1,38,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09A2
 EndChar
 
-StartChar: u09AC_u09CD.half_u09A6.pres
+StartChar: babeng_viramabeng.half_u09A6.pres
 Encoding: 65706 -1 322
 Width: 540
 GlyphClass: 2
@@ -30400,10 +30228,9 @@ SplineSet
  196 240 196 240 216 205 c 1,43,-1
  216 205 l 1,36,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09A6
 EndChar
 
-StartChar: u09AC_u09CD.half_u09A6_u09B0_u09CD.blwf.vatu.pres
+StartChar: babeng_viramabeng.half_u09A6_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65707 -1 323
 Width: 558
 GlyphClass: 2
@@ -30500,10 +30327,9 @@ SplineSet
  214 240 214 240 234 205 c 1,62,-1
  234 205 l 1,55,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09A6_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09AC_u09CD.half_u09A7.pres
+StartChar: babeng_viramabeng.half_u09A7.pres
 Encoding: 65708 -1 324
 Width: 552
 GlyphClass: 2
@@ -30609,10 +30435,9 @@ SplineSet
  131 246 131 246 150 235 c 1,71,-1
  150 235 l 1,61,62
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09A7
 EndChar
 
-StartChar: u09AC_u09AC_u09CD.blwf.blws
+StartChar: babeng_babeng_viramabeng.blwf.blws
 Encoding: 65709 -1 325
 Width: 716
 GlyphClass: 2
@@ -30693,10 +30518,9 @@ SplineSet
  561 128 561 128 586 75 c 1,44,-1
  586 75 l 1,37,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AC u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09AC_u09CD.half_u09AD.pres
+StartChar: babeng_viramabeng.half_u09AD.pres
 Encoding: 65710 -1 326
 Width: 581
 GlyphClass: 2
@@ -30797,10 +30621,9 @@ SplineSet
  388 278 388 278 428 250 c 1,70,-1
  428 250 l 1,63,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09AD
 EndChar
 
-StartChar: u09AC_u09B0_u09CD.blwf.vatu
+StartChar: babeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65711 -1 327
 Width: 547
 GlyphClass: 2
@@ -30890,10 +30713,9 @@ SplineSet
  391 135 391 135 417 90 c 1,48,-1
  417 90 l 1,41,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09AC u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09AC_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: babeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65712 -1 328
 Width: 639
 GlyphClass: 2
@@ -30996,10 +30818,9 @@ SplineSet
  311 139 311 139 352 80 c 1,70,-1
  352 80 l 1,63,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AC_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09AC_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: babeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65713 -1 329
 Width: 623
 GlyphClass: 2
@@ -31104,10 +30925,9 @@ SplineSet
  309 136 309 136 352 75 c 1,68,-1
  352 75 l 1,61,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AC_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09AC_u09CD.half_u09B2.pres
+StartChar: babeng_viramabeng.half_u09B2.pres
 Encoding: 65714 -1 330
 Width: 489
 GlyphClass: 2
@@ -31206,10 +31026,9 @@ SplineSet
  335 186 335 186 359 145 c 1,61,-1
  359 145 l 1,54,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AC_u09CD.half u09B2
 EndChar
 
-StartChar: u09AD_u09B0_u09CD.blwf.vatu
+StartChar: bhabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65715 -1 331
 Width: 565
 GlyphClass: 2
@@ -31296,10 +31115,9 @@ SplineSet
  -10 465 l 1,57,-1
  -10 465 l 1,53,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09AD u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09AD_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: bhabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65716 -1 332
 Width: 696
 GlyphClass: 2
@@ -31407,10 +31225,9 @@ SplineSet
  -10 465 l 1,83,-1
  -10 465 l 1,79,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AD_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09AD_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: bhabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65717 -1 333
 Width: 700
 GlyphClass: 2
@@ -31521,10 +31338,9 @@ SplineSet
  -10 465 l 1,84,-1
  -10 465 l 1,80,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AD_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09AD_u09CD.half_u09B2.pres
+StartChar: bhabeng_viramabeng.half_u09B2.pres
 Encoding: 65718 -1 334
 Width: 579
 GlyphClass: 2
@@ -31637,10 +31453,9 @@ SplineSet
  -10 465 l 1,91,-1
  -10 465 l 1,87,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AD_u09CD.half u09B2
 EndChar
 
-StartChar: u09AE_u09CD.half_u09A4.pres
+StartChar: mabeng_viramabeng.half_u09A4.pres
 Encoding: 65719 -1 335
 Width: 542
 GlyphClass: 2
@@ -31741,10 +31556,9 @@ SplineSet
  383 -10 383 -10 302 -10 c 1,75,-1
  302 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09A4
 EndChar
 
-StartChar: u09AE_u09CD.half_u09A6.pres
+StartChar: mabeng_viramabeng.half_u09A6.pres
 Encoding: 65720 -1 336
 Width: 723
 GlyphClass: 2
@@ -31832,10 +31646,9 @@ SplineSet
  230 335 230 335 251 335 c 1,64,-1
  251 335 l 1,51,52
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09A6
 EndChar
 
-StartChar: u09AE_u09CD.half_u09A8.pres
+StartChar: mabeng_viramabeng.half_u09A8.pres
 Encoding: 65721 -1 337
 Width: 425
 GlyphClass: 2
@@ -31922,10 +31735,9 @@ SplineSet
  273 252 273 252 295 230 c 1,51,-1
  295 230 l 1,43,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09A8
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AA.pres
+StartChar: mabeng_viramabeng.half_u09AA.pres
 Encoding: 65722 -1 338
 Width: 891
 GlyphClass: 2
@@ -32044,10 +31856,9 @@ SplineSet
  260 330 260 330 286 330 c 1,84,-1
  286 330 l 1,71,72
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AA
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AA_u09B0_u09CD.blwf.vatu.pres
+StartChar: mabeng_viramabeng.half_u09AA_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65723 -1 339
 Width: 871
 GlyphClass: 2
@@ -32182,10 +31993,9 @@ SplineSet
  285 320 285 320 306 320 c 1,107,-1
  306 320 l 1,91,92
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AA_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AB.pres
+StartChar: mabeng_viramabeng.half_u09AB.pres
 Encoding: 65724 -1 340
 Width: 708
 GlyphClass: 2
@@ -32292,10 +32102,9 @@ SplineSet
  255 335 255 335 281 335 c 1,79,-1
  281 335 l 1,66,67
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AB
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AB_u09B0_u09CD.blwf.vatu.pres
+StartChar: mabeng_viramabeng.half_u09AB_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65725 -1 341
 Width: 732
 GlyphClass: 2
@@ -32417,10 +32226,9 @@ SplineSet
  279 335 279 335 305 335 c 1,96,-1
  305 335 l 1,83,84
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AB_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09AE_u09AC_u09CD.blwf.blws
+StartChar: mabeng_babeng_viramabeng.blwf.blws
 Encoding: 65726 -1 342
 Width: 453
 GlyphClass: 2
@@ -32514,10 +32322,9 @@ SplineSet
  258 332 258 332 285 332 c 1,60,-1
  285 332 l 1,47,48
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09AE u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AD.pres
+StartChar: mabeng_viramabeng.half_u09AD.pres
 Encoding: 65727 -1 343
 Width: 608
 GlyphClass: 2
@@ -32627,10 +32434,9 @@ SplineSet
  426 340 426 340 455 340 c 1,84,-1
  455 340 l 1,71,72
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AD
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AD_u09B0_u09CD.blwf.vatu.pres
+StartChar: mabeng_viramabeng.half_u09AD_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65728 -1 344
 Width: 562
 GlyphClass: 2
@@ -32755,10 +32561,9 @@ SplineSet
  306 335 306 335 337 335 c 1,108,-1
  337 335 l 1,95,96
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AD_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09AE_u09CD.half_u09AE.pres
+StartChar: mabeng_viramabeng.half_u09AE.pres
 Encoding: 65729 -1 345
 Width: 571
 GlyphClass: 2
@@ -32854,10 +32659,9 @@ SplineSet
  228 340 228 340 241 340 c 1,66,-1
  241 340 l 1,55,56
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09AE
 EndChar
 
-StartChar: u09AE_u09B0_u09CD.blwf.vatu
+StartChar: mabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65730 -1 346
 Width: 548
 GlyphClass: 2
@@ -32959,10 +32763,9 @@ SplineSet
  340 330 340 330 351 330 c 1,74,-1
  351 330 l 1,58,59
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09AE u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09AE_u09CD.half_u09B2.pres
+StartChar: mabeng_viramabeng.half_u09B2.pres
 Encoding: 65731 -1 347
 Width: 532
 GlyphClass: 2
@@ -33087,10 +32890,9 @@ SplineSet
  344 330 344 330 359 330 c 1,98,-1
  359 330 l 1,82,83
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09B2
 EndChar
 
-StartChar: u09AF_u09B0_u09CD.blwf.vatu
+StartChar: yabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65732 -1 348
 Width: 483
 GlyphClass: 2
@@ -33171,10 +32973,9 @@ SplineSet
  315 124 315 124 353 70 c 1,40,-1
  353 70 l 1,33,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09AF u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09B0_u09C1.blws
+StartChar: rabeng_uvowelbeng.blws
 Encoding: 65733 -1 349
 Width: 590
 GlyphClass: 2
@@ -33271,10 +33072,9 @@ SplineSet
  142 15 142 15 128 15 c 1,64,-1
  128 15 l 1,52,53
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B0 u09C1
 EndChar
 
-StartChar: u09B0_u09C2.blws
+StartChar: rabeng_uuvowelbeng.blws
 Encoding: 65734 -1 350
 Width: 560
 GlyphClass: 2
@@ -33373,10 +33173,9 @@ SplineSet
  122 15 122 15 108 15 c 1,62,-1
  108 15 l 1,50,51
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B0 u09C2
 EndChar
 
-StartChar: u09B2_u09CD.half_u0995.pres
+StartChar: labeng_viramabeng.half_u0995.pres
 Encoding: 65735 -1 351
 Width: 620
 GlyphClass: 2
@@ -33484,10 +33283,9 @@ SplineSet
  357 95 357 95 391 55 c 1,81,-1
  391 55 l 1,74,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u0995
 EndChar
 
-StartChar: u09B2_u09CD.half_u0997.pres
+StartChar: labeng_viramabeng.half_u0997.pres
 Encoding: 65736 -1 352
 Width: 524
 GlyphClass: 2
@@ -33595,10 +33393,9 @@ SplineSet
  394 0 l 1,84,-1
  394 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u0997
 EndChar
 
-StartChar: u09B2_u09CD.half_u0997.pres_afii61664_u09C1.blws
+StartChar: labeng_viramabeng.half_u0997.pres_afii61664_u09C1.blws
 Encoding: 65737 -1 353
 Width: 703
 GlyphClass: 2
@@ -33737,10 +33534,9 @@ SplineSet
  535 -100 535 -100 438 -100 c 1,129,-1
  438 -100 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B2_u09CD.half_u0997.pres afii61664 u09C1
 EndChar
 
-StartChar: u09B2_u09CD.half_u0998.pres
+StartChar: labeng_viramabeng.half_u0998.pres
 Encoding: 65738 -1 354
 Width: 790
 GlyphClass: 2
@@ -33839,10 +33635,9 @@ SplineSet
  628 120 628 120 660 65 c 1,76,-1
  660 65 l 1,59,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u0998
 EndChar
 
-StartChar: u09B2_u09CD.half_u099F.pres
+StartChar: labeng_viramabeng.half_u099F.pres
 Encoding: 65739 -1 355
 Width: 638
 GlyphClass: 2
@@ -33968,10 +33763,9 @@ SplineSet
  32 234 32 234 32 275 c 1,101,-1
  32 275 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u099F
 EndChar
 
-StartChar: u09B2_u09CD.half_u099F_u09B0_u09CD.blwf.vatu.pres
+StartChar: labeng_viramabeng.half_u099F_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65740 -1 356
 Width: 726
 GlyphClass: 2
@@ -34123,10 +33917,9 @@ SplineSet
  30 266 30 266 30 305 c 1,129,-1
  30 305 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09B2_u09CD.half_u09A1.pres
+StartChar: labeng_viramabeng.half_u09A1.pres
 Encoding: 65741 -1 357
 Width: 661
 GlyphClass: 2
@@ -34226,10 +34019,9 @@ SplineSet
  -10 465 l 1,73,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09A1
 EndChar
 
-StartChar: u09B2_u09CD.half_u09A1_u09B0_u09CD.blwf.vatu.pres
+StartChar: labeng_viramabeng.half_u09A1_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65742 -1 358
 Width: 668
 GlyphClass: 2
@@ -34344,10 +34136,9 @@ SplineSet
  -10 465 l 1,98,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09A1_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09B2_u09CD.half_u09A2.pres
+StartChar: labeng_viramabeng.half_u09A2.pres
 Encoding: 65743 -1 359
 Width: 638
 GlyphClass: 2
@@ -34473,10 +34264,9 @@ SplineSet
  32 234 32 234 32 275 c 1,101,-1
  32 275 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09A2
 EndChar
 
-StartChar: u09B2_u09CD.half_u09A6.pres
+StartChar: labeng_viramabeng.half_u09A6.pres
 Encoding: 65744 -1 360
 Width: 722
 GlyphClass: 2
@@ -34566,10 +34356,9 @@ SplineSet
  31 266 31 266 31 305 c 1,69,-1
  31 305 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09A6
 EndChar
 
-StartChar: u09B2_u09CD.half_u09AA.pres
+StartChar: labeng_viramabeng.half_u09AA.pres
 Encoding: 65745 -1 361
 Width: 549
 GlyphClass: 2
@@ -34671,10 +34460,9 @@ SplineSet
  229 65 229 65 232 35 c 1,84,-1
  232 35 l 1,72,73
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09AA
 EndChar
 
-StartChar: u09B2_u09CD.half_u09AB.pres
+StartChar: labeng_viramabeng.half_u09AB.pres
 Encoding: 65746 -1 362
 Width: 826
 GlyphClass: 2
@@ -34781,10 +34569,9 @@ SplineSet
  570 -50 l 1,80,-1
  570 -50 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09AB
 EndChar
 
-StartChar: u09B2_u09AC_u09CD.blwf.blws
+StartChar: labeng_babeng_viramabeng.blwf.blws
 Encoding: 65747 -1 363
 Width: 528
 GlyphClass: 2
@@ -34878,10 +34665,9 @@ SplineSet
  369 89 369 89 398 60 c 1,65,-1
  398 60 l 1,58,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B2 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09B2_u09CD.half_u09AE.pres
+StartChar: labeng_viramabeng.half_u09AE.pres
 Encoding: 65748 -1 364
 Width: 681
 GlyphClass: 2
@@ -34979,10 +34765,9 @@ SplineSet
  532 98 532 98 551 65 c 1,71,-1
  551 65 l 1,65,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09AE
 EndChar
 
-StartChar: u09B2_u09B0_u09CD.blwf.vatu
+StartChar: labeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65749 -1 365
 Width: 606
 GlyphClass: 2
@@ -35081,10 +34866,9 @@ SplineSet
  476 0 l 1,71,-1
  476 0 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09B2 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09B2_u09CD.half_u09B2.pres
+StartChar: labeng_viramabeng.half_u09B2.pres
 Encoding: 65750 -1 366
 Width: 547
 GlyphClass: 2
@@ -35198,10 +34982,9 @@ SplineSet
  275 174 275 174 287 140 c 1,91,-1
  287 140 l 1,56,57
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09B2
 EndChar
 
-StartChar: u09B6_afii61664_u09C1.blws
+StartChar: shabeng_zerowidthnonjoiner_uvowelbeng.blws
 Encoding: 65751 -1 367
 Width: 662
 GlyphClass: 2
@@ -35325,11 +35108,9 @@ SplineSet
  461 -10 461 -10 370 -10 c 1,89,-1
  370 -10 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B6 u09C1
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B6 afii61664 u09C1
 EndChar
 
-StartChar: u09B6_u09CD.half_u099A.pres
+StartChar: shabeng_viramabeng.half_u099A.pres
 Encoding: 65752 -1 368
 Width: 610
 GlyphClass: 2
@@ -35441,10 +35222,9 @@ SplineSet
  361 80 361 80 378 80 c 1,68,-1
  378 80 l 1,58,59
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B6_u09CD.half u099A
 EndChar
 
-StartChar: u09B6_u09CD.half_u099B.pres
+StartChar: shabeng_viramabeng.half_u099B.pres
 Encoding: 65753 -1 369
 Width: 712
 GlyphClass: 2
@@ -35568,10 +35348,9 @@ SplineSet
  383 210 383 210 397 210 c 1,93,-1
  397 210 l 1,83,84
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B6_u09CD.half u099B
 EndChar
 
-StartChar: u09B6_u09CD.half_u09A4.pres
+StartChar: shabeng_viramabeng.half_u09A4.pres
 Encoding: 65754 -1 370
 Width: 572
 GlyphClass: 2
@@ -35692,10 +35471,9 @@ SplineSet
  -10 465 l 1,84,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B6_u09CD.half u09A4
 EndChar
 
-StartChar: u09B6_u09CD.half_u09A8.pres
+StartChar: shabeng_viramabeng.half_u09A8.pres
 Encoding: 65755 -1 371
 Width: 484
 GlyphClass: 2
@@ -35798,10 +35576,9 @@ SplineSet
  354 0 l 1,66,-1
  354 0 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B6_u09CD.half u09A8
 EndChar
 
-StartChar: u09B6_u09CD.half_u09AE.pres
+StartChar: shabeng_viramabeng.half_u09AE.pres
 Encoding: 65756 -1 372
 Width: 599
 GlyphClass: 2
@@ -35910,10 +35687,9 @@ SplineSet
  448 95 448 95 469 65 c 1,67,-1
  469 65 l 1,61,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B6_u09CD.half u09AE
 EndChar
 
-StartChar: u09B6_u09AC_u09CD.blwf.blws
+StartChar: shabeng_babeng_viramabeng.blwf.blws
 Encoding: 65757 -1 373
 Width: 439
 GlyphClass: 2
@@ -36016,10 +35792,9 @@ SplineSet
  287 97 287 97 309 65 c 1,63,-1
  309 65 l 1,56,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B6 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09B6_u09B0_u09CD.blwf.vatu
+StartChar: shabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65758 -1 374
 Width: 559
 GlyphClass: 2
@@ -36127,10 +35902,9 @@ SplineSet
  429 0 l 1,73,-1
  429 0 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09B6 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09B6_u09B0_u09CD.blwf.vatu_u09C0.psts
+StartChar: shabeng_rabeng_viramabeng.blwf.vatu_u09C0.psts
 Encoding: 65759 -1 375
 Width: 800
 GlyphClass: 2
@@ -36272,10 +36046,9 @@ SplineSet
  496 500 l 1,108,-1
  496 500 l 1,91,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Bengali lookup 9" u09B6_u09B0_u09CD.blwf.vatu u09C0
 EndChar
 
-StartChar: u09B6_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: shabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65760 -1 376
 Width: 755
 GlyphClass: 2
@@ -36405,10 +36178,9 @@ SplineSet
  467 0 l 1,101,-1
  467 0 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B6_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09B6_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: shabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65761 -1 377
 Width: 737
 GlyphClass: 2
@@ -36537,10 +36309,9 @@ SplineSet
  470 0 l 1,99,-1
  470 0 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B6_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09B6_u09CD.half_u09B2.pres
+StartChar: shabeng_viramabeng.half_u09B2.pres
 Encoding: 65762 -1 378
 Width: 502
 GlyphClass: 2
@@ -36659,10 +36430,9 @@ SplineSet
  372 0 l 1,89,-1
  372 0 l 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B6_u09CD.half u09B2
 EndChar
 
-StartChar: u09B7_u09CD.half_u0995.pres
+StartChar: ssabeng_viramabeng.half_u0995.pres
 Encoding: 65763 -1 379
 Width: 514
 GlyphClass: 2
@@ -36767,10 +36537,9 @@ SplineSet
  254 372 254 372 265 310 c 1,74,-1
  265 310 l 1,64,65
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u0995
 EndChar
 
-StartChar: u09B7_u09CD.half_u0995_u09B0_u09CD.blwf.vatu.pres
+StartChar: ssabeng_viramabeng.half_u0995_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65764 -1 380
 Width: 689
 GlyphClass: 2
@@ -36902,10 +36671,9 @@ SplineSet
  267 305 l 1,116,-1
  267 305 l 1,108,109
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u0995_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09B7_u09CD.half_u099F.pres
+StartChar: ssabeng_viramabeng.half_u099F.pres
 Encoding: 65765 -1 381
 Width: 461
 GlyphClass: 2
@@ -37031,10 +36799,9 @@ SplineSet
  238 331 238 331 251 295 c 1,98,-1
  251 295 l 1,85,86
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u099F
 EndChar
 
-StartChar: u09B7_u09CD.half_u099F_u09B0_u09CD.blwf.vatu.pres
+StartChar: ssabeng_viramabeng.half_u099F_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65766 -1 382
 Width: 490
 GlyphClass: 2
@@ -37178,10 +36945,9 @@ SplineSet
  305 335 305 335 318 300 c 1,128,-1
  318 300 l 1,115,116
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09B7_u09CD.half_u09A0.pres
+StartChar: ssabeng_viramabeng.half_u09A0.pres
 Encoding: 65767 -1 383
 Width: 501
 GlyphClass: 2
@@ -37293,10 +37059,9 @@ SplineSet
  265 325 l 1,72,-1
  265 325 l 1,64,65
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u09A0
 EndChar
 
-StartChar: u09B7_u09CD.half_u09A3.pres
+StartChar: ssabeng_viramabeng.half_u09A3.pres
 Encoding: 65768 -1 384
 Width: 668
 GlyphClass: 2
@@ -37410,10 +37175,9 @@ SplineSet
  307 290 l 1,73,-1
  307 290 l 1,70,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u09A3
 EndChar
 
-StartChar: u09B7_u09CD.half_u09AA.pres
+StartChar: ssabeng_viramabeng.half_u09AA.pres
 Encoding: 65769 -1 385
 Width: 837
 GlyphClass: 2
@@ -37529,10 +37293,9 @@ SplineSet
  272 320 l 1,77,-1
  272 320 l 1,69,70
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u09AA
 EndChar
 
-StartChar: u09B7_u09CD.half_u09AA_u09B0_u09CD.blwf.vatu.pres
+StartChar: ssabeng_viramabeng.half_u09AA_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65770 -1 386
 Width: 835
 GlyphClass: 2
@@ -37672,10 +37435,9 @@ SplineSet
  219 354 219 354 250 310 c 1,109,-1
  250 310 l 1,99,100
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u09AA_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09B7_u09CD.half_u09AB.pres
+StartChar: ssabeng_viramabeng.half_u09AB.pres
 Encoding: 65771 -1 387
 Width: 689
 GlyphClass: 2
@@ -37779,10 +37541,9 @@ SplineSet
  276 310 l 1,71,-1
  276 310 l 1,63,64
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u09AB
 EndChar
 
-StartChar: u09B7_u09B0_u09CD.blwf.vatu
+StartChar: ssabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65772 -1 388
 Width: 487
 GlyphClass: 2
@@ -37867,10 +37628,9 @@ SplineSet
  357 295 l 1,43,-1
  357 295 l 1,40,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09B7 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09B7_u09AC_u09CD.blwf.blws
+StartChar: ssabeng_babeng_viramabeng.blwf.blws
 Encoding: 65773 -1 389
 Width: 406
 GlyphClass: 2
@@ -37963,10 +37723,9 @@ SplineSet
  239 371 239 371 259 315 c 1,56,-1
  259 315 l 1,46,47
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B7 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09B7_u09CD.half_u09AE.pres
+StartChar: ssabeng_viramabeng.half_u09AE.pres
 Encoding: 65774 -1 390
 Width: 544
 GlyphClass: 2
@@ -38065,10 +37824,9 @@ SplineSet
  230 362 230 362 259 300 c 1,70,-1
  259 300 l 1,60,61
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B7_u09CD.half u09AE
 EndChar
 
-StartChar: u09B8_u09CD.half_u0995.pres
+StartChar: sabeng_viramabeng.half_u0995.pres
 Encoding: 65775 -1 391
 Width: 554
 GlyphClass: 2
@@ -38173,10 +37931,9 @@ SplineSet
  303 341 303 341 348 345 c 1,75,-1
  348 345 l 1,65,66
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u0995
 EndChar
 
-StartChar: u09B8_u09CD.half_u0995_u09B0_u09CD.blwf.vatu.pres
+StartChar: sabeng_viramabeng.half_u0995_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65776 -1 392
 Width: 681
 GlyphClass: 2
@@ -38308,7 +38065,6 @@ SplineSet
  327 370 327 370 367 370 c 1,118,-1
  367 370 l 1,108,109
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u0995_u09B0_u09CD.blwf.vatu
 EndChar
 
 StartChar: glyph391
@@ -38475,7 +38231,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B8_u09CD.half_u0996.pres
+StartChar: sabeng_viramabeng.half_u0996.pres
 Encoding: 65778 -1 394
 Width: 646
 GlyphClass: 2
@@ -38598,10 +38354,9 @@ SplineSet
  309 360 309 360 336 360 c 1,91,-1
  336 360 l 1,81,82
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u0996
 EndChar
 
-StartChar: u09B8_u09CD.half_u099F.pres
+StartChar: sabeng_viramabeng.half_u099F.pres
 Encoding: 65779 -1 395
 Width: 698
 GlyphClass: 2
@@ -38728,10 +38483,9 @@ SplineSet
  271 350 271 350 280 350 c 1,100,-1
  280 350 l 1,89,90
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u099F
 EndChar
 
-StartChar: u09B8_u09CD.half_u099F_u09B0_u09CD.blwf.vatu.pres
+StartChar: sabeng_viramabeng.half_u099F_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65780 -1 396
 Width: 583
 GlyphClass: 2
@@ -38879,7 +38633,6 @@ SplineSet
  359 335 359 335 401 335 c 1,123,-1
  401 335 l 1,113,114
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
 StartChar: glyph395
@@ -39049,7 +38802,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B8_u09CD.half_u09A4.pres
+StartChar: sabeng_viramabeng.half_u09A4.pres
 Encoding: 65782 -1 398
 Width: 553
 GlyphClass: 2
@@ -39155,10 +38908,9 @@ SplineSet
  310 350 310 350 352 350 c 1,77,-1
  352 350 l 1,67,68
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09A4
 EndChar
 
-StartChar: u09B8_u09CD.half_u09A4.pres_u09C1.blws
+StartChar: sabeng_viramabeng.half_u09A4.pres_u09C1.blws
 Encoding: 65783 -1 399
 Width: 603
 GlyphClass: 2
@@ -39275,10 +39027,9 @@ SplineSet
  329 360 329 360 376 360 c 1,96,-1
  376 360 l 1,86,87
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B8_u09CD.half_u09A4.pres u09C1
 EndChar
 
-StartChar: u09B8_u09CD.half_u09A4_u09B0_u09CD.blwf.vatu.pres
+StartChar: sabeng_viramabeng.half_u09A4_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65784 -1 400
 Width: 529
 GlyphClass: 2
@@ -39385,10 +39136,9 @@ SplineSet
  331 350 331 350 366 350 c 1,81,-1
  366 350 l 1,71,72
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09A4_u09B0_u09CD.blwf.vatu
 EndChar
 
-StartChar: u09B8_u09CD.half_u09A4_u09AC_u09CD.blwf.pres
+StartChar: sabeng_viramabeng.half_u09A4_u09AC_u09CD.blwf.pres
 Encoding: 65785 -1 401
 Width: 576
 GlyphClass: 2
@@ -39502,10 +39252,9 @@ SplineSet
  321 350 321 350 369 350 c 1,89,-1
  369 350 l 1,79,80
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09A4 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09B8_u09CD.half_u09A5.pres
+StartChar: sabeng_viramabeng.half_u09A5.pres
 Encoding: 65786 -1 402
 Width: 509
 GlyphClass: 2
@@ -39608,10 +39357,9 @@ SplineSet
  283 345 283 345 327 345 c 1,76,-1
  327 345 l 1,66,67
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09A5
 EndChar
 
-StartChar: u09B8_u09CD.half_u09A8.pres
+StartChar: sabeng_viramabeng.half_u09A8.pres
 Encoding: 65787 -1 403
 Width: 487
 GlyphClass: 2
@@ -39703,10 +39451,9 @@ SplineSet
  318 345 318 345 359 345 c 1,59,-1
  359 345 l 1,49,50
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09A8
 EndChar
 
-StartChar: u09B8_u09CD.half_u09AA.pres
+StartChar: sabeng_viramabeng.half_u09AA.pres
 Encoding: 65788 -1 404
 Width: 882
 GlyphClass: 2
@@ -39825,10 +39572,9 @@ SplineSet
  283 370 283 370 327 370 c 1,84,-1
  327 370 l 1,74,75
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09AA
 EndChar
 
-StartChar: u09B8_u09CD.half_u09AA_u09B0_u09CD.blwf.vatu.pres
+StartChar: sabeng_viramabeng.half_u09AA_u09B0_u09CD.blwf.vatu.pres
 Encoding: 65789 -1 405
 Width: 884
 GlyphClass: 2
@@ -39963,7 +39709,6 @@ SplineSet
  297 370 297 370 329 370 c 1,103,-1
  329 370 l 1,93,94
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09AA_u09B0_u09CD.blwf.vatu
 EndChar
 
 StartChar: glyph404
@@ -40132,7 +39877,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B8_u09CD.half_u09AA_u09CD.half_u09B2.pres
+StartChar: sabeng_viramabeng.half_u09AA_u09CD.half_u09B2.pres
 Encoding: 65791 -1 407
 Width: 882
 GlyphClass: 2
@@ -40279,10 +40024,9 @@ SplineSet
  283 370 283 370 327 370 c 1,125,-1
  327 370 l 1,115,116
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09AA_u09CD.half u09B2
 EndChar
 
-StartChar: u09B8_u09CD.half_u09AB.pres
+StartChar: sabeng_viramabeng.half_u09AB.pres
 Encoding: 65792 -1 408
 Width: 803
 GlyphClass: 2
@@ -40389,10 +40133,9 @@ SplineSet
  292 360 292 360 326 360 c 1,78,-1
  326 360 l 1,68,69
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09AB
 EndChar
 
-StartChar: u09B8_u09AC_u09CD.blwf.blws
+StartChar: sabeng_babeng_viramabeng.blwf.blws
 Encoding: 65793 -1 409
 Width: 468
 GlyphClass: 2
@@ -40484,10 +40227,9 @@ SplineSet
  306 350 306 350 339 350 c 1,56,-1
  339 350 l 1,46,47
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B8 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09B8_u09CD.half_u09AE.pres
+StartChar: sabeng_viramabeng.half_u09AE.pres
 Encoding: 65794 -1 410
 Width: 697
 GlyphClass: 2
@@ -40583,10 +40325,9 @@ SplineSet
  540 127 540 127 567 95 c 1,66,-1
  567 95 l 1,52,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09AE
 EndChar
 
-StartChar: u09B8_u09B0_u09CD.blwf.vatu
+StartChar: sabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65795 -1 411
 Width: 570
 GlyphClass: 2
@@ -40679,10 +40420,9 @@ SplineSet
  376 320 376 320 417 320 c 1,60,-1
  417 320 l 1,50,51
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09B8 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09B8_u09B0_u09CD.blwf.vatu_u09C1.blws
+StartChar: sabeng_rabeng_viramabeng.blwf.vatu_u09C1.blws
 Encoding: 65796 -1 412
 Width: 729
 GlyphClass: 2
@@ -40796,10 +40536,9 @@ SplineSet
  351 325 351 325 405 325 c 1,91,-1
  405 325 l 1,81,82
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B8_u09B0_u09CD.blwf.vatu u09C1
 EndChar
 
-StartChar: u09B8_u09B0_u09CD.blwf.vatu_u09C2.blws
+StartChar: sabeng_rabeng_viramabeng.blwf.vatu_u09C2.blws
 Encoding: 65797 -1 413
 Width: 680
 GlyphClass: 2
@@ -40905,10 +40644,9 @@ SplineSet
  369 320 369 320 419 320 c 1,86,-1
  419 320 l 1,76,77
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B8_u09B0_u09CD.blwf.vatu u09C2
 EndChar
 
-StartChar: u09B8_u09CD.half_u09B2.pres
+StartChar: sabeng_viramabeng.half_u09B2.pres
 Encoding: 65798 -1 414
 Width: 507
 GlyphClass: 2
@@ -41024,10 +40762,9 @@ SplineSet
  367 327 367 327 377 315 c 1,83,-1
  377 315 l 1,75,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B8_u09CD.half u09B2
 EndChar
 
-StartChar: u09B9_u09C1.blws
+StartChar: habeng_uvowelbeng.blws
 Encoding: 65799 -1 415
 Width: 491
 GlyphClass: 2
@@ -41116,10 +40853,9 @@ SplineSet
  -10 465 l 1,60,-1
  -10 465 l 1,56,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B9 u09C1
 EndChar
 
-StartChar: u09B9_u09C3.blws
+StartChar: habeng_rvocalicvowelbeng.blws
 Encoding: 65800 -1 416
 Width: 575
 GlyphClass: 2
@@ -41211,10 +40947,9 @@ SplineSet
  399 -100 l 1,66,-1
  399 -100 l 1,0,1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B9 u09C3
 EndChar
 
-StartChar: u09B9_u09CD.half_u09A3.pres
+StartChar: habeng_viramabeng.half_u09A3.pres
 Encoding: 65801 -1 417
 Width: 401
 GlyphClass: 2
@@ -41313,10 +41048,9 @@ SplineSet
  257 -80 l 1,69,-1
  257 -80 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B9_u09CD.half u09A3
 EndChar
 
-StartChar: u09B9_u09CD.half_u09A8.pres
+StartChar: habeng_viramabeng.half_u09A8.pres
 Encoding: 65802 -1 418
 Width: 572
 GlyphClass: 2
@@ -41411,10 +41145,9 @@ SplineSet
  352 -105 l 1,71,-1
  352 -105 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B9_u09CD.half u09A8
 EndChar
 
-StartChar: u09B9_u09AC_u09CD.blwf.blws
+StartChar: habeng_babeng_viramabeng.blwf.blws
 Encoding: 65803 -1 419
 Width: 718
 GlyphClass: 2
@@ -41480,10 +41213,9 @@ SplineSet
  399 -95 l 1,65,-1
  399 -95 l 1,24,25
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09B9 u09AC_u09CD.blwf
 EndChar
 
-StartChar: u09B9_u09CD.half_u09AE.pres
+StartChar: habeng_viramabeng.half_u09AE.pres
 Encoding: 65804 -1 420
 Width: 625
 GlyphClass: 2
@@ -41602,10 +41334,9 @@ SplineSet
  226 360 226 360 271 360 c 1,92,-1
  271 360 l 1,81,82
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B9_u09CD.half u09AE
 EndChar
 
-StartChar: u09B9_u09B0_u09CD.blwf.vatu
+StartChar: habeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65805 -1 421
 Width: 493
 GlyphClass: 2
@@ -41705,10 +41436,9 @@ SplineSet
  488 -100 l 1,72,-1
  488 -100 l 1,0,1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09B9 u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09B9_u09CD.half_u09B2.pres
+StartChar: habeng_viramabeng.half_u09B2.pres
 Encoding: 65806 -1 422
 Width: 433
 GlyphClass: 2
@@ -41815,10 +41545,9 @@ SplineSet
  437 -100 l 1,82,-1
  437 -100 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B9_u09CD.half u09B2
 EndChar
 
-StartChar: u09DC_u09CD.half_u0997.pres
+StartChar: rrabeng_viramabeng.half_u0997.pres
 Encoding: 65807 -1 423
 Width: 978
 GlyphClass: 2
@@ -41956,10 +41685,9 @@ SplineSet
  310 -130 310 -130 293 -130 c 1,95,-1
  293 -130 l 1,83,84
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09DC_u09CD.half u0997
 EndChar
 
-StartChar: u09DC_u09B0_u09CD.blwf.vatu
+StartChar: rrabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65808 -1 424
 Width: 557
 GlyphClass: 2
@@ -42060,10 +41788,9 @@ SplineSet
  305 -85 305 -85 288 -85 c 1,76,-1
  288 -85 l 1,64,65
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09DC u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09DD_u09B0_u09CD.blwf.vatu
+StartChar: rhabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65809 -1 425
 Width: 447
 GlyphClass: 2
@@ -42158,10 +41885,9 @@ SplineSet
  192 -70 192 -70 175 -70 c 1,67,-1
  175 -70 l 1,55,56
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09DD u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09DF_u09B0_u09CD.blwf.vatu
+StartChar: yyabeng_rabeng_viramabeng.blwf.vatu
 Encoding: 65810 -1 426
 Width: 510
 GlyphClass: 2
@@ -42252,10 +41978,9 @@ SplineSet
  154 75 154 75 140 75 c 1,53,-1
  140 75 l 1,41,42
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09DF u09B0_u09CD.blwf
 EndChar
 
-StartChar: u09F0_u09C1.blws
+StartChar: u09F0_uvowelbeng.blws
 Encoding: 65811 -1 427
 Width: 579
 GlyphClass: 2
@@ -42351,10 +42076,9 @@ SplineSet
  258 132 258 132 298 75 c 1,62,-1
  298 75 l 1,52,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09F0 u09C1
 EndChar
 
-StartChar: u09F0_u09C2.blws
+StartChar: u09F0_uuvowelbeng.blws
 Encoding: 65812 -1 428
 Width: 565
 GlyphClass: 2
@@ -42452,10 +42176,9 @@ SplineSet
  254 132 254 132 294 75 c 1,60,-1
  294 75 l 1,50,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09F0 u09C2
 EndChar
 
-StartChar: u09F1_u09C1.blws
+StartChar: u09F1_uvowelbeng.blws
 Encoding: 65813 -1 429
 Width: 609
 GlyphClass: 2
@@ -42556,10 +42279,9 @@ SplineSet
  281 139 281 139 322 80 c 1,60,-1
  322 80 l 1,53,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09F1 u09C1
 EndChar
 
-StartChar: u09F1_u09C2.blws
+StartChar: u09F1_uuvowelbeng.blws
 Encoding: 65814 -1 430
 Width: 594
 GlyphClass: 2
@@ -42659,10 +42381,9 @@ SplineSet
  280 136 280 136 323 75 c 1,58,-1
  323 75 l 1,51,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Bengali lookup 2" u09F1 u09C2
 EndChar
 
-StartChar: u09F1_u09B0_u09CD.blwf.vatu
+StartChar: u09F1_rabeng_viramabeng.blwf.vatu
 Encoding: 65815 -1 431
 Width: 488
 GlyphClass: 2
@@ -42748,7 +42469,6 @@ SplineSet
  320 139 320 139 358 85 c 1,51,-1
  358 85 l 1,44,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants in Bengali lookup 11" u09F1 u09B0_u09CD.blwf
 EndChar
 
 StartChar: glyph430
@@ -42851,7 +42571,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0981_u09C0.abvs
+StartChar: u0981_iivowelbeng.abvs
 Encoding: 65817 -1 433
 Width: 220
 GlyphClass: 2
@@ -42958,10 +42678,9 @@ SplineSet
  202 697 202 697 187 697 c 1,64,-1
  187 697 l 1,52,53
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 0" u0981 u09C0
 EndChar
 
-StartChar: u0981_u09D7.abvs
+StartChar: u0981_aulengthmarkbeng.abvs
 Encoding: 65818 -1 434
 Width: 220
 GlyphClass: 2
@@ -43066,10 +42785,9 @@ SplineSet
  172 680 172 680 158 680 c 1,62,-1
  158 680 l 1,50,51
 EndSplineSet
-Ligature2: "'abvs' Above Base Substitutions in Bengali lookup 0" u0981 u09D7
 EndChar
 
-StartChar: u09C7.init
+StartChar: evowelbeng.init
 Encoding: 65819 -1 435
 Width: 312
 GlyphClass: 2
@@ -43138,7 +42856,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09C8.init
+StartChar: aivowelbeng.init
 Encoding: 65820 -1 436
 Width: 311
 GlyphClass: 2
@@ -43231,7 +42949,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09B0_u09CD.rphf
+StartChar: rabeng_viramabeng.rphf
 Encoding: 65821 -1 437
 Width: 0
 GlyphClass: 4
@@ -43277,11 +42995,11 @@ SplineSet
  -110 502 l 1,4,-1
  -110 502 l 1,0,-1
 EndSplineSet
-Ligature2: "'rphf' Reph Form in Bengali lookup 10" u09F0 u09CD
-Ligature2: "'rphf' Reph Form in Bengali lookup 10" u09B0 u09CD
+Ligature2: "'rphf' Reph Form lookup 3-1" u09F0 viramabeng
+Ligature2: "'rphf' Reph Form lookup 3-1" rabeng viramabeng
 EndChar
 
-StartChar: u09B0_u09CD.blwf
+StartChar: rabeng_viramabeng.blwf
 Encoding: 65822 -1 438
 Width: 0
 GlyphClass: 2
@@ -43347,8 +43065,6 @@ SplineSet
  -460 67 -460 67 -460 115 c 1,20,-1
  -460 115 l 1,0,-1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Bengali lookup 1" u09F0 u09CD
-Ligature2: "'blwf' Below Base Forms in Bengali lookup 1" u09B0 u09CD
 EndChar
 
 StartChar: glyph437
@@ -43412,6 +43128,8 @@ SplineSet
  -130 -120 l 1,23,-1
  -130 -120 l 1,0,1
 EndSplineSet
+Ligature2: "'blwf' Below Base Forms lookup 4-1" viramabeng u09F0 
+Ligature2: "'blwf' Below Base Forms lookup 4-1" viramabeng rabeng 
 EndChar
 
 StartChar: glyph438
@@ -43478,7 +43196,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u0995_u09CD.half
+StartChar: kabeng_viramabeng.half
 Encoding: 65825 -1 441
 Width: 538
 GlyphClass: 2
@@ -43572,11 +43290,9 @@ SplineSet
  480 -254 l 1,50,-1
  480 -254 l 1,46,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u0995 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u0995 u09CD
 EndChar
 
-StartChar: u0996_u09CD.half
+StartChar: khabeng_viramabeng.half
 Encoding: 65826 -1 442
 Width: 505
 GlyphClass: 2
@@ -43677,11 +43393,9 @@ SplineSet
  590 -254 l 1,56,-1
  590 -254 l 1,52,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u0996 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u0996 u09CD
 EndChar
 
-StartChar: u0997_u09CD.half
+StartChar: gabeng_viramabeng.half
 Encoding: 65827 -1 443
 Width: 507
 GlyphClass: 2
@@ -43777,11 +43491,9 @@ SplineSet
  586 -254 l 1,48,-1
  586 -254 l 1,44,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u0997 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u0997 u09CD
 EndChar
 
-StartChar: u0998_u09CD.half
+StartChar: ghabeng_viramabeng.half
 Encoding: 65828 -1 444
 Width: 475
 GlyphClass: 2
@@ -43870,11 +43582,9 @@ SplineSet
  550 -254 l 1,41,-1
  550 -254 l 1,37,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u0998 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u0998 u09CD
 EndChar
 
-StartChar: u0999_u09CD.half
+StartChar: ngabeng_viramabeng.half
 Encoding: 65829 -1 445
 Width: 564
 GlyphClass: 2
@@ -43976,11 +43686,9 @@ SplineSet
  512 -254 l 1,80,-1
  512 -254 l 1,76,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u0999 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u0999 u09CD
 EndChar
 
-StartChar: u099A_u09CD.half
+StartChar: cabeng_viramabeng.half
 Encoding: 65830 -1 446
 Width: 415
 GlyphClass: 2
@@ -44057,11 +43765,9 @@ SplineSet
  358 -234 l 1,38,-1
  358 -234 l 1,34,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u099A u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u099A u09CD
 EndChar
 
-StartChar: u099B_u09CD.half
+StartChar: chabeng_viramabeng.half
 Encoding: 65831 -1 447
 Width: 466
 GlyphClass: 2
@@ -44160,11 +43866,9 @@ SplineSet
  392 -234 l 1,70,-1
  392 -234 l 1,66,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u099B u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u099B u09CD
 EndChar
 
-StartChar: u099C_u09CD.half
+StartChar: jabeng_viramabeng.half
 Encoding: 65832 -1 448
 Width: 688
 GlyphClass: 2
@@ -44271,11 +43975,9 @@ SplineSet
  797 -254 l 1,73,-1
  797 -254 l 1,69,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u099C u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u099C u09CD
 EndChar
 
-StartChar: u099D_u09CD.half
+StartChar: jhabeng_viramabeng.half
 Encoding: 65833 -1 449
 Width: 582
 GlyphClass: 2
@@ -44371,11 +44073,9 @@ SplineSet
  519 -254 l 1,41,-1
  519 -254 l 1,37,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u099D u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u099D u09CD
 EndChar
 
-StartChar: u099E_u09CD.half
+StartChar: nyabeng_viramabeng.half
 Encoding: 65834 -1 450
 Width: 812
 GlyphClass: 2
@@ -44513,11 +44213,9 @@ SplineSet
  660 -254 l 1,108,-1
  660 -254 l 1,104,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u099E u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u099E u09CD
 EndChar
 
-StartChar: u099F_u09CD.half
+StartChar: ttabeng_viramabeng.half
 Encoding: 65835 -1 451
 Width: 419
 GlyphClass: 2
@@ -44618,11 +44316,9 @@ SplineSet
  356 -254 l 1,65,-1
  356 -254 l 1,61,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u099F u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u099F u09CD
 EndChar
 
-StartChar: u09A0_u09CD.half
+StartChar: tthabeng_viramabeng.half
 Encoding: 65836 -1 452
 Width: 411
 GlyphClass: 2
@@ -44715,11 +44411,9 @@ SplineSet
  396 -254 l 1,52,-1
  396 -254 l 1,48,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A0 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A0 u09CD
 EndChar
 
-StartChar: u09A1_u09CD.half
+StartChar: ddabeng_viramabeng.half
 Encoding: 65837 -1 453
 Width: 566
 GlyphClass: 2
@@ -44798,11 +44492,9 @@ SplineSet
  487 -254 l 1,43,-1
  487 -254 l 1,39,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A1 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A1 u09CD
 EndChar
 
-StartChar: u09A2_u09CD.half
+StartChar: ddhabeng_viramabeng.half
 Encoding: 65838 -1 454
 Width: 435
 GlyphClass: 2
@@ -44874,11 +44566,9 @@ SplineSet
  361 -254 l 1,33,-1
  361 -254 l 1,29,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A2 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A2 u09CD
 EndChar
 
-StartChar: u09A3_u09CD.half
+StartChar: nnabeng_viramabeng.half
 Encoding: 65839 -1 455
 Width: 465
 GlyphClass: 2
@@ -44969,11 +44659,9 @@ SplineSet
  540 -254 l 1,41,-1
  540 -254 l 1,37,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A3 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A3 u09CD
 EndChar
 
-StartChar: u09A4_u09CD.half
+StartChar: tabeng_viramabeng.half
 Encoding: 65840 -1 456
 Width: 577
 GlyphClass: 2
@@ -45055,11 +44743,9 @@ SplineSet
  503 -254 l 1,47,-1
  503 -254 l 1,43,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A4 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A4 u09CD
 EndChar
 
-StartChar: u09A5_u09CD.half
+StartChar: thabeng_viramabeng.half
 Encoding: 65841 -1 457
 Width: 498
 GlyphClass: 2
@@ -45156,11 +44842,9 @@ SplineSet
  579 -254 l 1,50,-1
  579 -254 l 1,46,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A5 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A5 u09CD
 EndChar
 
-StartChar: u09A6_u09CD.half
+StartChar: dabeng_viramabeng.half
 Encoding: 65842 -1 458
 Width: 404
 GlyphClass: 2
@@ -45233,11 +44917,9 @@ SplineSet
  518 -254 l 1,33,-1
  518 -254 l 1,29,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A6 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A6 u09CD
 EndChar
 
-StartChar: u09A7_u09CD.half
+StartChar: dhabeng_viramabeng.half
 Encoding: 65843 -1 459
 Width: 431
 GlyphClass: 2
@@ -45334,11 +45016,9 @@ SplineSet
  511 -254 l 1,46,-1
  511 -254 l 1,42,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A7 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A7 u09CD
 EndChar
 
-StartChar: u09A8_u09CD.half
+StartChar: nabeng_viramabeng.half
 Encoding: 65844 -1 460
 Width: 459
 GlyphClass: 2
@@ -45420,11 +45100,9 @@ SplineSet
  541 -254 l 1,35,-1
  541 -254 l 1,31,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09A8 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09A8 u09CD
 EndChar
 
-StartChar: u09AA_u09CD.half
+StartChar: pabeng_viramabeng.half
 Encoding: 65845 -1 461
 Width: 522
 GlyphClass: 2
@@ -45521,11 +45199,9 @@ SplineSet
  605 -254 l 1,46,-1
  605 -254 l 1,42,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09AA u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09AA u09CD
 EndChar
 
-StartChar: u09AB_u09CD.half
+StartChar: phabeng_viramabeng.half
 Encoding: 65846 -1 462
 Width: 555
 GlyphClass: 2
@@ -45610,11 +45286,9 @@ SplineSet
  513 -254 l 1,41,-1
  513 -254 l 1,37,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09AB u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09AB u09CD
 EndChar
 
-StartChar: u09AC_u09CD.half
+StartChar: babeng_viramabeng.half
 Encoding: 65847 -1 463
 Width: 428
 GlyphClass: 2
@@ -45693,11 +45367,9 @@ SplineSet
  516 -254 l 1,28,-1
  516 -254 l 1,24,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09AC u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09AC u09CD
 EndChar
 
-StartChar: u09AD_u09CD.half
+StartChar: bhabeng_viramabeng.half
 Encoding: 65848 -1 464
 Width: 573
 GlyphClass: 2
@@ -45781,11 +45453,9 @@ SplineSet
  526 -254 l 1,50,-1
  526 -254 l 1,46,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09AD u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09AD u09CD
 EndChar
 
-StartChar: u09AE_u09CD.half
+StartChar: mabeng_viramabeng.half
 Encoding: 65849 -1 465
 Width: 427
 GlyphClass: 2
@@ -45869,11 +45539,9 @@ SplineSet
  502 -254 l 1,36,-1
  502 -254 l 1,32,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09AE u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09AE u09CD
 EndChar
 
-StartChar: u09AF_u09CD.half
+StartChar: yabeng_viramabeng.half
 Encoding: 65850 -1 466
 Width: 443
 GlyphClass: 2
@@ -45952,11 +45620,9 @@ SplineSet
  526 -254 l 1,26,-1
  526 -254 l 1,22,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09AF u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09AF u09CD
 EndChar
 
-StartChar: u09B0_u09CD.half
+StartChar: rabeng_viramabeng.half
 Encoding: 65851 -1 467
 Width: 423
 GlyphClass: 2
@@ -46045,11 +45711,9 @@ SplineSet
  506 -254 l 1,41,-1
  506 -254 l 1,37,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09B0 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09B0 u09CD
 EndChar
 
-StartChar: u09B2_u09CD.half
+StartChar: labeng_viramabeng.half
 Encoding: 65852 -1 468
 Width: 573
 GlyphClass: 2
@@ -46146,11 +45810,9 @@ SplineSet
  651 -254 l 1,57,-1
  651 -254 l 1,53,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09B2 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09B2 u09CD
 EndChar
 
-StartChar: u09AC_u09CD.blwf
+StartChar: babeng_viramabeng.blwf
 Encoding: 65853 -1 469
 Width: 300
 GlyphClass: 2
@@ -46217,10 +45879,10 @@ SplineSet
  198 98 198 98 225 60 c 1,18,-1
  225 60 l 1,11,-1
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Bengali lookup 1" u09AC u09CD
+Ligature2: "'blwf' Below Base Forms lookup 4-1" viramabeng babeng
 EndChar
 
-StartChar: u09B6_u09CD.half
+StartChar: shabeng_viramabeng.half
 Encoding: 65854 -1 470
 Width: 485
 GlyphClass: 2
@@ -46328,11 +45990,9 @@ SplineSet
  562 -254 l 1,53,-1
  562 -254 l 1,49,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09B6 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09B6 u09CD
 EndChar
 
-StartChar: u09B7_u09CD.half
+StartChar: ssabeng_viramabeng.half
 Encoding: 65855 -1 471
 Width: 424
 GlyphClass: 2
@@ -46415,11 +46075,9 @@ SplineSet
  508 -254 l 1,29,-1
  508 -254 l 1,25,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09B7 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09B7 u09CD
 EndChar
 
-StartChar: u09B8_u09CD.half
+StartChar: sabeng_viramabeng.half
 Encoding: 65856 -1 472
 Width: 508
 GlyphClass: 2
@@ -46511,11 +46169,9 @@ SplineSet
  596 -254 l 1,47,-1
  596 -254 l 1,43,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09B8 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09B8 u09CD
 EndChar
 
-StartChar: u09B9_u09CD.half
+StartChar: habeng_viramabeng.half
 Encoding: 65857 -1 473
 Width: 404
 GlyphClass: 2
@@ -46596,11 +46252,9 @@ SplineSet
  407 -254 l 1,46,-1
  407 -254 l 1,42,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09B9 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09B9 u09CD
 EndChar
 
-StartChar: u09DC_u09CD.half
+StartChar: rrabeng_viramabeng.half
 Encoding: 65858 -1 474
 Width: 549
 GlyphClass: 2
@@ -46689,11 +46343,9 @@ SplineSet
  602 -254 l 1,56,-1
  602 -254 l 1,52,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09DC u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09DC u09CD
 EndChar
 
-StartChar: u09DD_u09CD.half
+StartChar: rhabeng_viramabeng.half
 Encoding: 65859 -1 475
 Width: 419
 GlyphClass: 2
@@ -46776,11 +46428,9 @@ SplineSet
  474 -254 l 1,47,-1
  474 -254 l 1,43,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09DD u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09DD u09CD
 EndChar
 
-StartChar: u09DF_u09CD.half
+StartChar: yyabeng_viramabeng.half
 Encoding: 65860 -1 476
 Width: 453
 GlyphClass: 2
@@ -46869,8 +46519,6 @@ SplineSet
  531 -254 l 1,39,-1
  531 -254 l 1,35,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09DF u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09DF u09CD
 EndChar
 
 StartChar: glyph475
@@ -46992,7 +46640,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09F1_u09CD.half
+StartChar: u09F1_viramabeng.half
 Encoding: 65862 -1 478
 Width: 450
 GlyphClass: 2
@@ -47080,11 +46728,9 @@ SplineSet
  540 -254 l 1,37,-1
  540 -254 l 1,33,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09F1 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09F1 u09CD
 EndChar
 
-StartChar: u09F0_u09CD.half
+StartChar: u09F0_viramabeng.half
 Encoding: 65863 -1 479
 Width: 433
 GlyphClass: 2
@@ -47172,8 +46818,6 @@ SplineSet
  516 -254 l 1,39,-1
  516 -254 l 1,35,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Bengali lookup 4" u09F0 u09CD
-Ligature2: "'half' Half Forms in Bengali lookup 3" u09F0 u09CD
 EndChar
 
 StartChar: glyph454
@@ -47324,7 +46968,6 @@ SplineSet
  204 250 204 250 223 210 c 1,143,-1
  223 210 l 1,131,132
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u0995_u09CD.half u099F_u09B0_u09CD.blwf.vatu
 EndChar
 
 StartChar: bn_ma_tha
@@ -47401,7 +47044,6 @@ SplineSet
  340 329 340 329 350 329 c 1,110,-1
  350 329 l 1,89,90
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09AE_u09CD.half u09A5
 EndChar
 
 StartChar: bn_la_ta
@@ -47474,7 +47116,6 @@ SplineSet
  210 194 210 194 231 217 c 0,104,105
  298 292 298 292 394 266 c 1,1,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09A4
 EndChar
 
 StartChar: bn_la_dha
@@ -47549,10 +47190,9 @@ SplineSet
  461 138 461 138 507 72 c 1,91,-1
  507 72 l 1,85,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Bengali lookup 7" u09B2_u09CD.half u09A7
 EndChar
 
-StartChar: uni09FB
+StartChar: gandamarkbeng
 Encoding: 2555 2555 485
 Width: 374
 Flags: W
@@ -47571,7 +47211,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20B9
+StartChar: inr_currency
 Encoding: 8377 8377 486
 Width: 408
 VWidth: 1024
