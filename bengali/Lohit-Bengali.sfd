@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1394101327
+ModificationTime: 1394435594
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,12 +50,13 @@ OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'ACE '
-Lookup: 1 0 0 "'init' Initial Forms lookup 0"  {"'init' Initial Forms lookup 0-1"  "'init' Initial Forms lookup 0-2"  } ['init' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 2"  {"'nukt' Nukta Forms lookup 2-1"  } ['nukt' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 2"  {"'akhn' Akhand lookup 2-1"  } ['akhn' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 4"  {"'blwf' Below Base Forms lookup 4-1"  } ['blwf' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms lookup 5"  {"'half' Half Forms lookup 5-1"  } ['half' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 4 0 0 "'pstf' Post Base Forms lookup 6"  {"'pstf' Post Base Forms lookup 6-1"  } ['pstf' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
+Lookup: 1 0 0 "'init' Initial Forms lookup 0"  {"'init' Initial Forms lookup 0-1"  "'init' Initial Forms lookup 0-2"  } ['init' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Bengali lookup 0"  {"'blwm' Below Base Mark in Bengali lookup 0"  } ['blwm' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Bengali lookup 1"  {"'abvm' Above Base Mark in Bengali lookup 1"  } ['abvm' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
 Lookup: 264 0 0 "'abvm' Above Base Mark in Bengali lookup 2"  {"'abvm' Above Base Mark in Bengali lookup 2"  } ['abvm' ('beng' <'dflt' > 'bng2' <'dflt' > ) ]
@@ -359,7 +360,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 29 29 11
+WinInfo: 0 29 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-1"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-2"  "'blwm' Below Base Mark in Bengali lookup 0" 
@@ -5025,49 +5026,49 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 293 0 basechar 0
+AnchorPoint: "Anchor-2" 306 -8 basechar 0
 AnchorPoint: "Anchor-1" 291 0 basechar 0
 AnchorPoint: "Anchor-0" 292 -2 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-272 0 m 5,0,1
- 242 82 242 82 184.5 135.5 c 132,-1,2
- 127 189 127 189 57 200 c 5,3,-1
- 17 235 l 5,4,5
- 68 307 68 307 134.5 350.5 c 132,-1,6
- 201 394 201 394 272 400 c 5,7,-1
- 272 465 l 5,8,-1
- -10 465 l 5,9,-1
- -10 500 l 5,10,-1
- 548 500 l 5,11,-1
- 548 465 l 5,12,-1
- 312 465 l 5,13,-1
- 312 400 l 5,14,15
- 393 393 393 393 447.5 342.5 c 132,-1,16
- 502 292 502 292 502 225 c 4,17,18
- 502 188 502 188 480.5 161.5 c 132,-1,19
- 459 135 459 135 428 135 c 4,20,21
- 405 135 405 135 388.5 148 c 132,-1,22
- 372 161 372 161 372 180 c 4,23,24
- 372 201 372 201 387 215.5 c 132,-1,25
- 402 230 402 230 424 230 c 4,26,27
- 434 230 434 230 443.5 228 c 132,-1,28
- 453 226 453 226 460 223 c 5,29,30
- 461 225 461 225 461.5 228 c 132,-1,31
- 462 231 462 231 462 235 c 4,32,33
- 462 279 462 279 416.5 317 c 132,-1,34
- 371 355 371 355 312 360 c 5,35,-1
- 312 0 l 5,36,-1
- 272 0 l 5,37,-1
- 272 0 l 5,0,1
-272 80 m 5,38,-1
- 272 360 l 5,39,40
- 213 355 213 355 160.5 323.5 c 132,-1,41
- 108 292 108 292 72 240 c 5,42,43
- 140 222 140 222 192.5 180 c 132,-1,44
- 245 138 245 138 272 80 c 5,45,-1
- 272 80 l 5,38,-1
+272 0 m 1,0,1
+ 242 82 242 82 184.5 135.5 c 128,-1,2
+ 127 189 127 189 57 200 c 1,3,-1
+ 17 235 l 1,4,5
+ 68 307 68 307 134.5 350.5 c 128,-1,6
+ 201 394 201 394 272 400 c 1,7,-1
+ 272 465 l 1,8,-1
+ -10 465 l 1,9,-1
+ -10 500 l 1,10,-1
+ 548 500 l 1,11,-1
+ 548 465 l 1,12,-1
+ 312 465 l 1,13,-1
+ 312 400 l 1,14,15
+ 393 393 393 393 447.5 342.5 c 128,-1,16
+ 502 292 502 292 502 225 c 0,17,18
+ 502 188 502 188 480.5 161.5 c 128,-1,19
+ 459 135 459 135 428 135 c 0,20,21
+ 405 135 405 135 388.5 148 c 128,-1,22
+ 372 161 372 161 372 180 c 0,23,24
+ 372 201 372 201 387 215.5 c 128,-1,25
+ 402 230 402 230 424 230 c 0,26,27
+ 434 230 434 230 443.5 228 c 128,-1,28
+ 453 226 453 226 460 223 c 1,29,30
+ 461 225 461 225 461.5 228 c 128,-1,31
+ 462 231 462 231 462 235 c 0,32,33
+ 462 279 462 279 416.5 317 c 128,-1,34
+ 371 355 371 355 312 360 c 1,35,-1
+ 312 0 l 1,36,-1
+ 272 0 l 1,37,-1
+ 272 0 l 1,0,1
+272 80 m 1,38,-1
+ 272 360 l 1,39,40
+ 213 355 213 355 160.5 323.5 c 128,-1,41
+ 108 292 108 292 72 240 c 1,42,43
+ 140 222 140 222 192.5 180 c 128,-1,44
+ 245 138 245 138 272 80 c 1,45,-1
+ 272 80 l 1,38,-1
 EndSplineSet
 EndChar
 
@@ -5115,7 +5116,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 395 4 basechar 0
+AnchorPoint: "Anchor-2" 415 -6 basechar 0
 AnchorPoint: "Anchor-1" 393 -4 basechar 0
 AnchorPoint: "Anchor-0" 406 0 basechar 0
 LayerCount: 2
@@ -5207,46 +5208,46 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 397 2 basechar 0
+AnchorPoint: "Anchor-2" 410 -5 basechar 0
 AnchorPoint: "Anchor-1" 394 0 basechar 0
 AnchorPoint: "Anchor-0" 398 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-374 0 m 5,0,-1
- 374 320 l 5,1,2
- 357 384 357 384 311 424.5 c 132,-1,3
- 265 465 265 465 209 465 c 4,4,5
- 151 465 151 465 110 422.5 c 132,-1,6
- 69 380 69 380 69 320 c 5,7,8
- 91 342 91 342 114 353.5 c 132,-1,9
- 137 365 137 365 159 365 c 4,10,11
- 207 365 207 365 240.5 334 c 132,-1,12
- 274 303 274 303 274 260 c 4,13,14
- 274 221 274 221 238.5 182 c 132,-1,15
- 203 143 203 143 144 115 c 5,16,-1
- 124 150 l 5,17,18
- 174 173 174 173 204 203 c 132,-1,19
- 234 233 234 233 234 260 c 260,20,21
- 234 287 234 287 212 306 c 132,-1,22
- 190 325 190 325 159 325 c 4,23,24
- 141 325 141 325 114 302.5 c 132,-1,25
- 87 280 87 280 69 280 c 4,26,27
- 52 280 52 280 40.5 293 c 132,-1,28
- 29 306 29 306 29 325 c 4,29,30
- 29 400 29 400 81.5 452.5 c 132,-1,31
- 134 505 134 505 209 505 c 4,32,33
- 257 505 257 505 301.5 477 c 132,-1,34
- 346 449 346 449 374 400 c 5,35,-1
- 374 560 l 5,36,-1
- 414 560 l 5,37,-1
- 414 500 l 5,38,-1
- 514 500 l 5,39,-1
- 514 465 l 5,40,-1
- 414 465 l 5,41,-1
- 414 0 l 5,42,-1
- 374 0 l 5,43,-1
- 374 0 l 5,0,-1
+374 0 m 1,0,-1
+ 374 320 l 1,1,2
+ 357 384 357 384 311 424.5 c 128,-1,3
+ 265 465 265 465 209 465 c 0,4,5
+ 151 465 151 465 110 422.5 c 128,-1,6
+ 69 380 69 380 69 320 c 1,7,8
+ 91 342 91 342 114 353.5 c 128,-1,9
+ 137 365 137 365 159 365 c 0,10,11
+ 207 365 207 365 240.5 334 c 128,-1,12
+ 274 303 274 303 274 260 c 0,13,14
+ 274 221 274 221 238.5 182 c 128,-1,15
+ 203 143 203 143 144 115 c 1,16,-1
+ 124 150 l 1,17,18
+ 174 173 174 173 204 203 c 128,-1,19
+ 234 233 234 233 234 260 c 256,20,21
+ 234 287 234 287 212 306 c 128,-1,22
+ 190 325 190 325 159 325 c 0,23,24
+ 141 325 141 325 114 302.5 c 128,-1,25
+ 87 280 87 280 69 280 c 0,26,27
+ 52 280 52 280 40.5 293 c 128,-1,28
+ 29 306 29 306 29 325 c 0,29,30
+ 29 400 29 400 81.5 452.5 c 128,-1,31
+ 134 505 134 505 209 505 c 0,32,33
+ 257 505 257 505 301.5 477 c 128,-1,34
+ 346 449 346 449 374 400 c 1,35,-1
+ 374 560 l 1,36,-1
+ 414 560 l 1,37,-1
+ 414 500 l 1,38,-1
+ 514 500 l 1,39,-1
+ 514 465 l 1,40,-1
+ 414 465 l 1,41,-1
+ 414 0 l 1,42,-1
+ 374 0 l 1,43,-1
+ 374 0 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -5289,7 +5290,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 363 2 basechar 0
+AnchorPoint: "Anchor-2" 379 -5 basechar 0
 AnchorPoint: "Anchor-1" 363 -4 basechar 0
 AnchorPoint: "Anchor-0" 362 -1 basechar 0
 LayerCount: 2
@@ -5369,7 +5370,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 314 -10 basechar 0
+AnchorPoint: "Anchor-2" 334 -5 basechar 0
 AnchorPoint: "Anchor-1" 353 4 basechar 0
 AnchorPoint: "Anchor-0" 369 0 basechar 0
 LayerCount: 2
@@ -5472,7 +5473,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 247 -2 basechar 0
+AnchorPoint: "Anchor-2" 187 15 basechar 0
 AnchorPoint: "Anchor-1" 233 -5 basechar 0
 AnchorPoint: "Anchor-0" 257 -5 basechar 0
 LayerCount: 2
@@ -5545,7 +5546,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 326 -4 basechar 0
+AnchorPoint: "Anchor-2" 208 14 basechar 0
 AnchorPoint: "Anchor-1" 301 -4 basechar 0
 AnchorPoint: "Anchor-0" 292 -4 basechar 0
 LayerCount: 2
@@ -5643,7 +5644,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 604 -9 basechar 0
+AnchorPoint: "Anchor-2" 624 -6 basechar 0
 AnchorPoint: "Anchor-1" 606 -4 basechar 0
 AnchorPoint: "Anchor-0" 602 4 basechar 0
 LayerCount: 2
@@ -5747,7 +5748,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 326 4 basechar 0
+AnchorPoint: "Anchor-2" 346 -6 basechar 0
 AnchorPoint: "Anchor-1" 476 0 basechar 0
 AnchorPoint: "Anchor-0" 476 0 basechar 0
 LayerCount: 2
@@ -5835,7 +5836,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 475 -4 basechar 0
+AnchorPoint: "Anchor-2" 485 -5 basechar 0
 AnchorPoint: "Anchor-1" 470 -4 basechar 0
 AnchorPoint: "Anchor-0" 465 0 basechar 0
 LayerCount: 2
@@ -5964,7 +5965,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 233 5 basechar 0
+AnchorPoint: "Anchor-2" 181 -6 basechar 0
 AnchorPoint: "Anchor-1" 190 -5 basechar 0
 AnchorPoint: "Anchor-0" 405 45 basechar 0
 LayerCount: 2
@@ -6065,7 +6066,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 247 -2 basechar 0
+AnchorPoint: "Anchor-2" 225 -6 basechar 0
 AnchorPoint: "Anchor-1" 185 0 basechar 0
 AnchorPoint: "Anchor-0" 200 0 basechar 0
 LayerCount: 2
@@ -6150,7 +6151,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 305 3 basechar 0
+AnchorPoint: "Anchor-2" 315 -6 basechar 0
 AnchorPoint: "Anchor-1" 315 0 basechar 0
 AnchorPoint: "Anchor-0" 320 0 basechar 0
 LayerCount: 2
@@ -6228,7 +6229,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 239 6 basechar 0
+AnchorPoint: "Anchor-2" 189 -6 basechar 0
 AnchorPoint: "Anchor-1" 165 0 basechar 0
 AnchorPoint: "Anchor-0" 170 -5 basechar 0
 LayerCount: 2
@@ -6304,7 +6305,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 355 2 basechar 0
+AnchorPoint: "Anchor-2" 371 -5 basechar 0
 AnchorPoint: "Anchor-1" 355 0 basechar 0
 AnchorPoint: "Anchor-0" 355 -4 basechar 0
 LayerCount: 2
@@ -6382,45 +6383,45 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 320 -35 basechar 0
+AnchorPoint: "Anchor-2" 320 -6 basechar 0
 AnchorPoint: "Anchor-1" 358 0 basechar 0
 AnchorPoint: "Anchor-0" 348 5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-316 -10 m 5,0,1
- 200 -10 200 -10 118 89.5 c 132,-1,2
- 36 189 36 189 36 330 c 5,3,-1
- 76 335 l 5,4,5
- 76 207 76 207 146.5 116 c 132,-1,6
- 217 25 217 25 316 25 c 4,7,8
- 388 25 388 25 439.5 75 c 132,-1,9
- 491 125 491 125 491 195 c 4,10,11
- 491 251 491 251 450 290.5 c 132,-1,12
- 409 330 409 330 351 330 c 4,13,14
- 321 330 321 330 299.5 317 c 132,-1,15
- 278 304 278 304 276 285 c 5,16,17
- 280 286 280 286 285 287 c 132,-1,18
- 290 288 290 288 295 288 c 4,19,20
- 316 288 316 288 331 274 c 132,-1,21
- 346 260 346 260 346 240 c 4,22,23
- 346 219 346 219 330 204.5 c 132,-1,24
- 314 190 314 190 291 190 c 4,25,26
- 264 190 264 190 245 210.5 c 132,-1,27
- 226 231 226 231 226 260 c 4,28,29
- 226 306 226 306 262.5 338 c 132,-1,30
- 299 370 299 370 351 370 c 4,31,32
- 426 370 426 370 478.5 318.5 c 132,-1,33
- 531 267 531 267 531 195 c 4,34,35
- 531 110 531 110 468 50 c 132,-1,36
- 405 -10 405 -10 316 -10 c 5,37,-1
- 316 -10 l 5,0,1
--10 465 m 5,38,-1
- -10 500 l 5,39,-1
- 587 500 l 5,40,-1
- 587 465 l 5,41,-1
- -10 465 l 5,42,-1
- -10 465 l 5,38,-1
+316 -10 m 1,0,1
+ 200 -10 200 -10 118 89.5 c 128,-1,2
+ 36 189 36 189 36 330 c 1,3,-1
+ 76 335 l 1,4,5
+ 76 207 76 207 146.5 116 c 128,-1,6
+ 217 25 217 25 316 25 c 0,7,8
+ 388 25 388 25 439.5 75 c 128,-1,9
+ 491 125 491 125 491 195 c 0,10,11
+ 491 251 491 251 450 290.5 c 128,-1,12
+ 409 330 409 330 351 330 c 0,13,14
+ 321 330 321 330 299.5 317 c 128,-1,15
+ 278 304 278 304 276 285 c 1,16,17
+ 280 286 280 286 285 287 c 128,-1,18
+ 290 288 290 288 295 288 c 0,19,20
+ 316 288 316 288 331 274 c 128,-1,21
+ 346 260 346 260 346 240 c 0,22,23
+ 346 219 346 219 330 204.5 c 128,-1,24
+ 314 190 314 190 291 190 c 0,25,26
+ 264 190 264 190 245 210.5 c 128,-1,27
+ 226 231 226 231 226 260 c 0,28,29
+ 226 306 226 306 262.5 338 c 128,-1,30
+ 299 370 299 370 351 370 c 0,31,32
+ 426 370 426 370 478.5 318.5 c 128,-1,33
+ 531 267 531 267 531 195 c 0,34,35
+ 531 110 531 110 468 50 c 128,-1,36
+ 405 -10 405 -10 316 -10 c 1,37,-1
+ 316 -10 l 1,0,1
+-10 465 m 1,38,-1
+ -10 500 l 1,39,-1
+ 587 500 l 1,40,-1
+ 587 465 l 1,41,-1
+ -10 465 l 1,42,-1
+ -10 465 l 1,38,-1
 EndSplineSet
 EndChar
 
@@ -6468,47 +6469,47 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 389 4 basechar 0
+AnchorPoint: "Anchor-2" 402 -7 basechar 0
 AnchorPoint: "Anchor-1" 385 0 basechar 0
 AnchorPoint: "Anchor-0" 385 -5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-368 0 m 5,0,1
- 326 90 326 90 250 146 c 132,-1,2
- 174 202 174 202 83 210 c 5,3,-1
- 73 260 l 5,4,5
- 79 257 79 257 90.5 256 c 132,-1,6
- 102 255 102 255 128 255 c 4,7,8
- 186 255 186 255 227 290 c 132,-1,9
- 268 325 268 325 268 375 c 4,10,11
- 268 414 268 414 237 442 c 132,-1,12
- 206 470 206 470 163 470 c 4,13,14
- 137 470 137 470 116 462 c 132,-1,15
- 95 454 95 454 83 440 c 5,16,17
- 107 440 107 440 123.5 425.5 c 132,-1,18
- 140 411 140 411 140 390 c 260,19,20
- 140 369 140 369 123.5 354.5 c 132,-1,21
- 107 340 107 340 83 340 c 4,22,23
- 58 340 58 340 40.5 357.5 c 132,-1,24
- 23 375 23 375 23 400 c 4,25,26
- 23 446 23 446 64 478 c 132,-1,27
- 105 510 105 510 163 510 c 4,28,29
- 223 510 223 510 265.5 470.5 c 132,-1,30
- 308 431 308 431 308 375 c 4,31,32
- 308 327 308 327 275 286 c 132,-1,33
- 242 245 242 245 188 225 c 5,34,35
- 239 211 239 211 286 171 c 132,-1,36
- 333 131 333 131 368 70 c 5,37,-1
- 368 560 l 5,38,-1
- 408 560 l 5,39,-1
- 408 500 l 5,40,-1
- 508 500 l 5,41,-1
- 508 465 l 5,42,-1
- 408 465 l 5,43,-1
- 408 0 l 5,44,-1
- 368 0 l 5,45,-1
- 368 0 l 5,0,1
+368 0 m 1,0,1
+ 326 90 326 90 250 146 c 128,-1,2
+ 174 202 174 202 83 210 c 1,3,-1
+ 73 260 l 1,4,5
+ 79 257 79 257 90.5 256 c 128,-1,6
+ 102 255 102 255 128 255 c 0,7,8
+ 186 255 186 255 227 290 c 128,-1,9
+ 268 325 268 325 268 375 c 0,10,11
+ 268 414 268 414 237 442 c 128,-1,12
+ 206 470 206 470 163 470 c 0,13,14
+ 137 470 137 470 116 462 c 128,-1,15
+ 95 454 95 454 83 440 c 1,16,17
+ 107 440 107 440 123.5 425.5 c 128,-1,18
+ 140 411 140 411 140 390 c 256,19,20
+ 140 369 140 369 123.5 354.5 c 128,-1,21
+ 107 340 107 340 83 340 c 0,22,23
+ 58 340 58 340 40.5 357.5 c 128,-1,24
+ 23 375 23 375 23 400 c 0,25,26
+ 23 446 23 446 64 478 c 128,-1,27
+ 105 510 105 510 163 510 c 0,28,29
+ 223 510 223 510 265.5 470.5 c 128,-1,30
+ 308 431 308 431 308 375 c 0,31,32
+ 308 327 308 327 275 286 c 128,-1,33
+ 242 245 242 245 188 225 c 1,34,35
+ 239 211 239 211 286 171 c 128,-1,36
+ 333 131 333 131 368 70 c 1,37,-1
+ 368 560 l 1,38,-1
+ 408 560 l 1,39,-1
+ 408 500 l 1,40,-1
+ 508 500 l 1,41,-1
+ 508 465 l 1,42,-1
+ 408 465 l 1,43,-1
+ 408 0 l 1,44,-1
+ 368 0 l 1,45,-1
+ 368 0 l 1,0,1
 EndSplineSet
 EndChar
 
@@ -6548,36 +6549,36 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 327 1 basechar 0
+AnchorPoint: "Anchor-2" 350 -6 basechar 0
 AnchorPoint: "Anchor-1" 293 0 basechar 0
 AnchorPoint: "Anchor-0" 297 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-324 -5 m 5,0,1
- 295 30 295 30 279.5 75 c 132,-1,2
- 264 120 264 120 264 170 c 260,3,4
- 264 220 264 220 274 261 c 132,-1,5
- 284 302 284 302 304 330 c 5,6,7
- 240 307 240 307 186 266 c 132,-1,8
- 132 225 132 225 94 170 c 5,9,-1
- 54 190 l 5,10,-1
- 54 465 l 5,11,-1
- -10 465 l 5,12,-1
- -10 500 l 5,13,-1
- 414 500 l 5,14,-1
- 414 465 l 5,15,-1
- 94 465 l 5,16,-1
- 94 230 l 5,17,18
- 143 288 143 288 205 325.5 c 132,-1,19
- 267 363 267 363 334 375 c 5,20,-1
- 359 345 l 5,21,22
- 332 313 332 313 318 268 c 132,-1,23
- 304 223 304 223 304 170 c 4,24,25
- 304 119 304 119 317 76.5 c 132,-1,26
- 330 34 330 34 354 5 c 5,27,-1
- 324 -5 l 5,28,-1
- 324 -5 l 5,0,1
+324 -5 m 1,0,1
+ 295 30 295 30 279.5 75 c 128,-1,2
+ 264 120 264 120 264 170 c 256,3,4
+ 264 220 264 220 274 261 c 128,-1,5
+ 284 302 284 302 304 330 c 1,6,7
+ 240 307 240 307 186 266 c 128,-1,8
+ 132 225 132 225 94 170 c 1,9,-1
+ 54 190 l 1,10,-1
+ 54 465 l 1,11,-1
+ -10 465 l 1,12,-1
+ -10 500 l 1,13,-1
+ 414 500 l 1,14,-1
+ 414 465 l 1,15,-1
+ 94 465 l 1,16,-1
+ 94 230 l 1,17,18
+ 143 288 143 288 205 325.5 c 128,-1,19
+ 267 363 267 363 334 375 c 1,20,-1
+ 359 345 l 1,21,22
+ 332 313 332 313 318 268 c 128,-1,23
+ 304 223 304 223 304 170 c 0,24,25
+ 304 119 304 119 317 76.5 c 128,-1,26
+ 330 34 330 34 354 5 c 1,27,-1
+ 324 -5 l 1,28,-1
+ 324 -5 l 1,0,1
 EndSplineSet
 EndChar
 
@@ -6625,7 +6626,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 321 0 basechar 0
+AnchorPoint: "Anchor-2" 337 -5 basechar 0
 AnchorPoint: "Anchor-1" 324 0 basechar 0
 AnchorPoint: "Anchor-0" 324 0 basechar 0
 LayerCount: 2
@@ -6708,7 +6709,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 350 4 basechar 0
+AnchorPoint: "Anchor-2" 370 -5 basechar 0
 AnchorPoint: "Anchor-1" 345 0 basechar 0
 AnchorPoint: "Anchor-0" 345 0 basechar 0
 LayerCount: 2
@@ -6786,7 +6787,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 419 1 basechar 0
+AnchorPoint: "Anchor-2" 431 -5 basechar 0
 AnchorPoint: "Anchor-1" 415 0 basechar 0
 AnchorPoint: "Anchor-0" 418 0 basechar 0
 LayerCount: 2
@@ -6866,7 +6867,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 317 0 basechar 0
+AnchorPoint: "Anchor-2" 339 -5 basechar 0
 AnchorPoint: "Anchor-1" 316 -5 basechar 0
 AnchorPoint: "Anchor-0" 317 -5 basechar 0
 LayerCount: 2
@@ -6945,7 +6946,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 315 1 basechar 0
+AnchorPoint: "Anchor-2" 343 -6 basechar 0
 AnchorPoint: "Anchor-1" 316 0 basechar 0
 AnchorPoint: "Anchor-0" 320 0 basechar 0
 LayerCount: 2
@@ -7016,7 +7017,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 350 -34 basechar 0
+AnchorPoint: "Anchor-2" 348 -5 basechar 0
 AnchorPoint: "Anchor-1" 355 -4 basechar 0
 AnchorPoint: "Anchor-0" 362 -4 basechar 0
 LayerCount: 2
@@ -7099,7 +7100,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 314 4 basechar 0
+AnchorPoint: "Anchor-2" 328 -6 basechar 0
 AnchorPoint: "Anchor-1" 316 0 basechar 0
 AnchorPoint: "Anchor-0" 316 0 basechar 0
 LayerCount: 2
@@ -7174,7 +7175,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 337 4 basechar 0
+AnchorPoint: "Anchor-2" 350 -6 basechar 0
 AnchorPoint: "Anchor-1" 332 -5 basechar 0
 AnchorPoint: "Anchor-0" 332 -5 basechar 0
 LayerCount: 2
@@ -7244,7 +7245,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 316 4 basechar 0
+AnchorPoint: "Anchor-2" 331 -6 basechar 0
 AnchorPoint: "Anchor-1" 316 0 basechar 0
 AnchorPoint: "Anchor-0" 316 0 basechar 0
 LayerCount: 2
@@ -7324,7 +7325,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 462 2 basechar 0
+AnchorPoint: "Anchor-2" 474 -6 basechar 0
 AnchorPoint: "Anchor-1" 465 0 basechar 0
 AnchorPoint: "Anchor-0" 465 0 basechar 0
 LayerCount: 2
@@ -7425,7 +7426,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 345 6 basechar 0
+AnchorPoint: "Anchor-2" 363 -5 basechar 0
 AnchorPoint: "Anchor-1" 346 -4 basechar 0
 AnchorPoint: "Anchor-0" 350 0 basechar 0
 LayerCount: 2
@@ -7511,7 +7512,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 309 5 basechar 0
+AnchorPoint: "Anchor-2" 334 -5 basechar 0
 AnchorPoint: "Anchor-1" 312 -1 basechar 0
 AnchorPoint: "Anchor-0" 312 -5 basechar 0
 LayerCount: 2
@@ -7585,7 +7586,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 396 2 basechar 0
+AnchorPoint: "Anchor-2" 423 -5 basechar 0
 AnchorPoint: "Anchor-1" 380 0 basechar 0
 AnchorPoint: "Anchor-0" 397 -5 basechar 0
 LayerCount: 2
@@ -7665,7 +7666,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 264 1 basechar 0
+AnchorPoint: "Anchor-2" 223 -6 basechar 0
 AnchorPoint: "Anchor-1" 250 0 basechar 0
 AnchorPoint: "Anchor-0" 245 0 basechar 0
 LayerCount: 2
@@ -8930,7 +8931,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 396 12 basechar 0
+AnchorPoint: "Anchor-2" 436 -5 basechar 0
 AnchorPoint: "Anchor-1" 360 -5 basechar 0
 AnchorPoint: "Anchor-0" 360 -5 basechar 0
 LayerCount: 2
@@ -9019,7 +9020,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 270 -5 basechar 0
+AnchorPoint: "Anchor-2" 296 -5 basechar 0
 AnchorPoint: "Anchor-1" 235 0 basechar 0
 AnchorPoint: "Anchor-0" 235 0 basechar 0
 LayerCount: 2
@@ -9110,7 +9111,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 342 4 basechar 0
+AnchorPoint: "Anchor-2" 362 -6 basechar 0
 AnchorPoint: "Anchor-1" 341 0 basechar 0
 AnchorPoint: "Anchor-0" 337 0 basechar 0
 LayerCount: 2
@@ -9149,6 +9150,7 @@ SplineSet
  157 -5 157 -5 143 -5 c 1,34,-1
  143 -5 l 1,22,23
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "'nukt' Nukta Forms lookup 2-1" yabeng nuktabeng
 EndChar
 
@@ -10505,7 +10507,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 327 4 basechar 0
+AnchorPoint: "Anchor-2" 342 -6 basechar 0
 AnchorPoint: "Anchor-1" 323 0 basechar 0
 AnchorPoint: "Anchor-0" 323 0 basechar 0
 LayerCount: 2
@@ -10590,7 +10592,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 341 0 basechar 0
+AnchorPoint: "Anchor-2" 371 -6 basechar 0
 AnchorPoint: "Anchor-1" 336 4 basechar 0
 AnchorPoint: "Anchor-0" 340 0 basechar 0
 LayerCount: 2
@@ -10612,7 +10614,7 @@ SplineSet
  234 400 234 400 320 415 c 1,16,-1
  320 465 l 1,17,-1
  -10 465 l 1,18,-1
- -10 500 l 5,19,-1
+ -10 500 l 1,19,-1
  460 500 l 1,20,-1
  460 465 l 1,21,-1
  360 465 l 1,22,-1
@@ -11819,6 +11821,7 @@ SplineSet
  123 10 123 10 80 -10 c 1,24,-1
  80 -10 l 1,0,-1
 EndSplineSet
+Ligature2: "'pstf' Post Base Forms lookup 6-1" viramabeng yabeng
 EndChar
 
 StartChar: kabeng_viramabeng.half_u0995.pres
@@ -12911,7 +12914,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
-AnchorPoint: "Anchor-2" 413 -4 basechar 0
+AnchorPoint: "Anchor-2" 418 -5 basechar 0
 AnchorPoint: "Anchor-1" 404 0 basechar 0
 AnchorPoint: "Anchor-0" 400 0 basechar 0
 LayerCount: 2
@@ -12978,6 +12981,7 @@ SplineSet
  328 335 328 335 384 335 c 1,76,-1
  384 335 l 1,71,-1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand lookup 2-1" kabeng viramabeng ssabeng
 EndChar
 
@@ -43246,49 +43250,49 @@ AnchorPoint: "Anchor-0" 293 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-272 0 m 1,0,1
- 242 82 242 82 184.5 135.5 c 128,-1,2
- 127 189 127 189 57 200 c 1,3,-1
- 17 235 l 1,4,5
- 68 307 68 307 134.5 350.5 c 128,-1,6
- 201 394 201 394 272 400 c 1,7,-1
- 272 465 l 1,8,-1
- -10 465 l 1,9,-1
- -10 500 l 1,10,-1
- 548 500 l 1,11,-1
- 548 465 l 1,12,-1
- 312 465 l 1,13,-1
- 312 400 l 1,14,15
- 393 393 393 393 447.5 342.5 c 128,-1,16
- 502 292 502 292 502 225 c 0,17,18
- 502 188 502 188 480.5 161.5 c 128,-1,19
- 459 135 459 135 428 135 c 0,20,21
- 405 135 405 135 388.5 148 c 128,-1,22
- 372 161 372 161 372 180 c 0,23,24
- 372 201 372 201 387 215.5 c 128,-1,25
- 402 230 402 230 424 230 c 0,26,27
- 434 230 434 230 443.5 228 c 128,-1,28
- 453 226 453 226 460 223 c 1,29,30
- 461 225 461 225 461.5 228 c 128,-1,31
- 462 231 462 231 462 235 c 0,32,33
- 462 279 462 279 416.5 317 c 128,-1,34
- 371 355 371 355 312 360 c 1,35,-1
- 312 0 l 1,36,-1
- 272 0 l 1,37,-1
- 272 0 l 1,0,1
-272 80 m 1,38,-1
- 272 360 l 1,39,40
- 213 355 213 355 160.5 323.5 c 128,-1,41
- 108 292 108 292 72 240 c 1,42,43
- 140 222 140 222 192.5 180 c 128,-1,44
- 245 138 245 138 272 80 c 1,45,-1
- 272 80 l 1,38,-1
-480 -254 m 1,46,-1
- 261 -49 l 1,47,-1
- 290 -19 l 1,48,-1
- 510 -224 l 1,49,-1
- 480 -254 l 1,50,-1
- 480 -254 l 1,46,-1
+272 0 m 5,0,1
+ 242 82 242 82 184.5 135.5 c 132,-1,2
+ 127 189 127 189 57 200 c 5,3,-1
+ 17 235 l 5,4,5
+ 68 307 68 307 134.5 350.5 c 132,-1,6
+ 201 394 201 394 272 400 c 5,7,-1
+ 272 465 l 5,8,-1
+ -10 465 l 5,9,-1
+ -10 500 l 5,10,-1
+ 548 500 l 5,11,-1
+ 548 465 l 5,12,-1
+ 312 465 l 5,13,-1
+ 312 400 l 5,14,15
+ 393 393 393 393 447.5 342.5 c 132,-1,16
+ 502 292 502 292 502 225 c 4,17,18
+ 502 188 502 188 480.5 161.5 c 132,-1,19
+ 459 135 459 135 428 135 c 4,20,21
+ 405 135 405 135 388.5 148 c 132,-1,22
+ 372 161 372 161 372 180 c 4,23,24
+ 372 201 372 201 387 215.5 c 132,-1,25
+ 402 230 402 230 424 230 c 4,26,27
+ 434 230 434 230 443.5 228 c 132,-1,28
+ 453 226 453 226 460 223 c 5,29,30
+ 461 225 461 225 461.5 228 c 132,-1,31
+ 462 231 462 231 462 235 c 4,32,33
+ 462 279 462 279 416.5 317 c 132,-1,34
+ 371 355 371 355 312 360 c 5,35,-1
+ 312 0 l 5,36,-1
+ 272 0 l 5,37,-1
+ 272 0 l 5,0,1
+272 80 m 5,38,-1
+ 272 360 l 5,39,40
+ 213 355 213 355 160.5 323.5 c 132,-1,41
+ 108 292 108 292 72 240 c 5,42,43
+ 140 222 140 222 192.5 180 c 132,-1,44
+ 245 138 245 138 272 80 c 5,45,-1
+ 272 80 l 5,38,-1
+480 -254 m 5,46,-1
+ 261 -49 l 5,47,-1
+ 290 -19 l 5,48,-1
+ 510 -224 l 5,49,-1
+ 480 -254 l 5,50,-1
+ 480 -254 l 5,46,-1
 EndSplineSet
 EndChar
 
