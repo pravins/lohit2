@@ -2,9 +2,8 @@
 Current Version :- 2.5.3
 
 * Mon Mar 10 2013 Sneha Kore <skore@redhat.com> - 2.5.3
+- Done with lookup writings
 - anchor positioning done with 38 glyphs (which leads to removal of 38 glyphs which are no longer needed ) 
-
-* Thu Mar 6 2013 Sneha Kore <skore@redhat.com> - 2.5.3
 - GSUB cleanup 
 - Rewriting of lookups ('init','nukt','akhn','blwf')
 
