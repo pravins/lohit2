@@ -1,7 +1,12 @@
 				  lohit-bengali
 Current Version :- 2.5.3
 
-* Mon Mar 10 2013 Sneha Kore <skore@redhat.com> - 2.5.3
+* Mon Mar 21 2013 Sneha Kore <skore@redhat.com> - 2.5.3
+- "copy reference" feature implemented
+- Script execution for Automated Testing 
+- Test-file created 
+- README-file added to git
+- Glyph-namings updated
 - Done with lookup writings
 - anchor positioning done with 38 glyphs (which leads to removal of 38 glyphs which are no longer needed ) 
 - GSUB cleanup 
