@@ -1,9 +1,14 @@
 all: ttf woff eot ttf-dist sfd-dist web-dist
 
-version:= 2.5.3
+version:= 2.91.0
+
+test: test-ttf
+	@echo "----------Testing actual-output with expected-output----------"
+	python auto_test.py std-test-out.txt Lohit-Devanagari.ttf
 
 ttf: ttf-bin
 	@echo "----------Generating ttf from sfd file----------"
+	python apply_featurefile.py Lohit-Devanagari.sfd Lohit-Devanagari.fea	
 	./generate.pe *.sfd
 	@echo "----------Finished generating ttf file----------"
 	@echo " "
@@ -22,7 +27,7 @@ eot: eot-bin
 
 ttf-dist: dist
 	mkdir lohit-bengali-ttf-$(version)
-	cp -p COPYRIGHT OFL.txt README  AUTHORS  ChangeLog ChangeLog.old 66-lohit-bengali.conf Lohit-Bengali.ttf lohit-bengali-ttf-$(version)
+	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS  ChangeLog ChangeLog.old 66-lohit-bengali.conf Lohit-Bengali.ttf lohit-bengali-ttf-$(version)
 	rm -rf lohit-bengali-ttf-$(version)/.git
 	tar -cf lohit-bengali-ttf-$(version).tar lohit-bengali-ttf-$(version)
 	gzip lohit-bengali-ttf-$(version).tar
@@ -30,7 +35,7 @@ ttf-dist: dist
 
 sfd-dist: dist
 	mkdir lohit-bengali-$(version)
-	cp -p COPYRIGHT OFL.txt README  AUTHORS generate*.pe Makefile ChangeLog 66-lohit-bengali.conf Lohit-Bengali.sfd lohit-bengali-$(version)
+	cp -p COPYRIGHT OFL.txt README  AUTHORS generate*.pe apply_featurefile.py auto_test.py *.fea Makefile ChangeLog 66-lohit-bengali.conf Lohit-Bengali.sfd std-test-out.txt lohit-bengali-$(version)
 	rm -rf lohit-bengali-$(version)/.git
 	rm -rf lohit-bengali-$(version)/*.ttf
 	tar -cf lohit-bengali-$(version).tar lohit-bengali-$(version)
@@ -50,4 +55,4 @@ clean: cleanall
 	rm -rf *.tar.gz
 	rm -rf lohit-bengali*
 
-.PHONY: ttf-bin woff-bin eot-bin webdist dist cleanall version
+.PHONY: ttf-bin woff-bin eot-bin webdist dist cleanall version test-ttf
