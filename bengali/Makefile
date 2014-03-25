@@ -4,11 +4,11 @@ version:= 2.91.0
 
 test: test-ttf
 	@echo "----------Testing actual-output with expected-output----------"
-	python auto_test.py std-test-out.txt Lohit-Devanagari.ttf
+	python auto_test.py std-test-out.txt Lohit-Bengali.ttf
 
 ttf: ttf-bin
 	@echo "----------Generating ttf from sfd file----------"
-	python apply_featurefile.py Lohit-Devanagari.sfd Lohit-Devanagari.fea	
+	python ../scripts/apply_featurefile.py Lohit-Bengali.sfd Lohit-Bengali.fea	
 	./generate.pe *.sfd
 	@echo "----------Finished generating ttf file----------"
 	@echo " "
