@@ -27,7 +27,7 @@ eot: eot-bin
 
 ttf-dist: dist
 	mkdir lohit-bengali-ttf-$(version)
-	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS  ChangeLog ChangeLog.old 66-lohit-bengali.conf Lohit-Bengali.ttf lohit-bengali-ttf-$(version)
+	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS  ChangeLog 66-lohit-bengali.conf Lohit-Bengali.ttf lohit-bengali-ttf-$(version)
 	rm -rf lohit-bengali-ttf-$(version)/.git
 	tar -cf lohit-bengali-ttf-$(version).tar lohit-bengali-ttf-$(version)
 	gzip lohit-bengali-ttf-$(version).tar
@@ -35,7 +35,7 @@ ttf-dist: dist
 
 sfd-dist: dist
 	mkdir lohit-bengali-$(version)
-	cp -p COPYRIGHT OFL.txt README  AUTHORS generate*.pe apply_featurefile.py auto_test.py *.fea Makefile ChangeLog 66-lohit-bengali.conf Lohit-Bengali.sfd std-test-out.txt lohit-bengali-$(version)
+	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS generate*.pe apply_featurefile.py auto_test.py *.fea Makefile ChangeLog 66-lohit-bengali.conf Lohit-Bengali.sfd std-test-out.txt lohit-bengali-$(version)
 	rm -rf lohit-bengali-$(version)/.git
 	rm -rf lohit-bengali-$(version)/*.ttf
 	tar -cf lohit-bengali-$(version).tar lohit-bengali-$(version)
@@ -44,7 +44,7 @@ sfd-dist: dist
 
 web-dist: webdist
 	mkdir lohit-bengali-web-$(version)
-	cp -p COPYRIGHT OFL.txt README  AUTHORS  ChangeLog Lohit-Bengali.woff  Lohit-Bengali.eot lohit-bengali-web-$(version)
+	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS  ChangeLog Lohit-Bengali.woff  Lohit-Bengali.eot lohit-bengali-web-$(version)
 	rm -rf lohit-bengali-web-$(version)/.git
 	tar -cf lohit-bengali-web-$(version).tar lohit-bengali-web-$(version)
 	gzip lohit-bengali-web-$(version).tar

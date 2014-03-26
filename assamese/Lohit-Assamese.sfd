@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1395812731
+ModificationTime: 1395834706
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -72,7 +72,7 @@ DEI: 91125
 ChainPos2: coverage "'abvm' Above Base Mark in Bengali lookup 2"  0 0 0 1
  1 2 0
   Coverage: 15 candrabindubeng
-  BCoverage: 1110 kabeng khabeng gabeng ghabeng ngabeng cabeng chabeng jabeng jhabeng nyabeng ttabeng tthabeng ddabeng ddhabeng nnabeng tabeng thabeng dabeng dhabeng nabeng pabeng phabeng babeng bhabeng mabeng yabeng rabeng labeng shabeng ssabeng sabeng habeng rrabeng rhabeng yyabeng u09F0 u09F1 kabeng_viramabeng.half khabeng_viramabeng.half gabeng_viramabeng.half ghabeng_viramabeng.half ngabeng_viramabeng.half cabeng_viramabeng.half chabeng_viramabeng.half jabeng_viramabeng.half jhabeng_viramabeng.half nyabeng_viramabeng.half ttabeng_viramabeng.half tthabeng_viramabeng.half ddabeng_viramabeng.half ddhabeng_viramabeng.half nnabeng_viramabeng.half thabeng_viramabeng.half dabeng_viramabeng.half dhabeng_viramabeng.half nabeng_viramabeng.half pabeng_viramabeng.half phabeng_viramabeng.half babeng_viramabeng.half bhabeng_viramabeng.half mabeng_viramabeng.half yabeng_viramabeng.half rabeng_viramabeng.half labeng_viramabeng.half shabeng_viramabeng.half ssabeng_viramabeng.half sabeng_viramabeng.half habeng_viramabeng.half rrabeng_viramabeng rhabeng_viramabeng yyabeng_viramabeng glyph475 u09F1_viramabeng u09F0_viramabeng
+  BCoverage: 1111 kabeng khabeng gabeng ghabeng ngabeng cabeng chabeng jabeng jhabeng nyabeng ttabeng tthabeng ddabeng ddhabeng nnabeng tabeng thabeng dabeng dhabeng nabeng pabeng phabeng babeng bhabeng mabeng yabeng rabeng labeng shabeng ssabeng sabeng habeng rrabeng rhabeng yyabeng u09F0 vabeng kabeng_viramabeng.half khabeng_viramabeng.half gabeng_viramabeng.half ghabeng_viramabeng.half ngabeng_viramabeng.half cabeng_viramabeng.half chabeng_viramabeng.half jabeng_viramabeng.half jhabeng_viramabeng.half nyabeng_viramabeng.half ttabeng_viramabeng.half tthabeng_viramabeng.half ddabeng_viramabeng.half ddhabeng_viramabeng.half nnabeng_viramabeng.half thabeng_viramabeng.half dabeng_viramabeng.half dhabeng_viramabeng.half nabeng_viramabeng.half pabeng_viramabeng.half phabeng_viramabeng.half babeng_viramabeng.half bhabeng_viramabeng.half mabeng_viramabeng.half yabeng_viramabeng.half rabeng_viramabeng.half labeng_viramabeng.half shabeng_viramabeng.half ssabeng_viramabeng.half sabeng_viramabeng.half habeng_viramabeng.half rrabeng_viramabeng rhabeng_viramabeng yyabeng_viramabeng glyph475 u09F1_viramabeng u09F0_viramabeng
   BCoverage: 10 ivowelbeng
  1
   SeqLookup: 0 "Single Positioning lookup 3" 
@@ -370,7 +370,7 @@ WinInfo: 29 29 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-1"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-2"  "'blwm' Below Base Mark in Bengali lookup 0" 
-BeginChars: 65869 448
+BeginChars: 65869 447
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -7214,81 +7214,46 @@ EndChar
 
 StartChar: rabeng
 Encoding: 2480 2480 92
-Width: 423
+Width: 433
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHW
- 11
- 15
- 14
- 2
- 0
- 1
- 11
- 10
- 70
- 1
- 1
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SROUND
-SVTCA[y-axis]
-MDAP[rnd]
-ALIGNRP
-MIAP[rnd]
-SLOOP
-ALIGNRP
-SVTCA[x-axis]
-IUP[x]
-IUP[y]
-PUSHW_3
- 37
- 1
- 5
-CALL
-EndTTInstrs
-AnchorPoint: "Anchor-2" 331 -5 basechar 0
-AnchorPoint: "Anchor-1" 316 0 basechar 0
-AnchorPoint: "Anchor-0" 316 0 basechar 0
+AnchorPoint: "Anchor-2" 341 -5 basechar 0
+AnchorPoint: "Anchor-1" 323 0 basechar 0
+AnchorPoint: "Anchor-0" 323 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-293 0 m 1,0,1
- 264 80 264 80 197 135 c 128,-1,2
- 130 190 130 190 43 205 c 1,3,-1
- 23 245 l 1,4,5
- 60 297 60 297 129.5 338.5 c 128,-1,6
- 199 380 199 380 293 405 c 1,7,-1
- 293 465 l 1,8,-1
+308 0 m 1,0,1
+ 282 71 282 71 211 122 c 128,-1,2
+ 140 173 140 173 43 190 c 1,3,-1
+ 18 225 l 1,4,5
+ 63 290 63 290 136.5 337.5 c 128,-1,6
+ 210 385 210 385 303 410 c 1,7,-1
+ 303 465 l 1,8,-1
  -10 465 l 1,9,-1
  -10 500 l 1,10,-1
- 433 500 l 1,11,-1
- 433 465 l 1,12,-1
- 333 465 l 1,13,-1
- 333 0 l 1,14,-1
- 293 0 l 1,15,-1
- 293 0 l 1,0,1
-293 80 m 1,16,-1
- 293 365 l 1,17,18
- 217 345 217 345 159.5 313 c 128,-1,19
- 102 281 102 281 68 240 c 1,20,21
- 138 228 138 228 197 186 c 128,-1,22
- 256 144 256 144 293 80 c 1,23,-1
- 293 80 l 1,16,-1
-118 10 m 1,24,25
- 101 10 101 10 89.5 21.5 c 128,-1,26
- 78 33 78 33 78 50 c 256,27,28
- 78 67 78 67 89.5 78.5 c 128,-1,29
- 101 90 101 90 118 90 c 256,30,31
- 135 90 135 90 146.5 78.5 c 128,-1,32
- 158 67 158 67 158 50 c 256,33,34
- 158 33 158 33 146.5 21.5 c 128,-1,35
- 135 10 135 10 118 10 c 1,36,-1
- 118 10 l 1,24,25
+ 443 500 l 1,11,-1
+ 443 465 l 1,12,-1
+ 343 465 l 1,13,-1
+ 343 0 l 1,14,-1
+ 308 0 l 1,15,-1
+ 308 0 l 1,0,1
+303 240 m 1,16,-1
+ 303 370 l 1,17,18
+ 267 364 267 364 233.5 348.5 c 128,-1,19
+ 200 333 200 333 173 310 c 1,20,21
+ 197 304 197 304 230 286 c 128,-1,22
+ 263 268 263 268 303 240 c 1,23,-1
+ 303 240 l 1,16,-1
+303 85 m 1,24,-1
+ 303 200 l 1,25,26
+ 250 237 250 237 208.5 258.5 c 128,-1,27
+ 167 280 167 280 138 285 c 1,28,29
+ 119 274 119 274 101.5 259 c 128,-1,30
+ 84 244 84 244 68 225 c 1,31,32
+ 143 212 143 212 204 175.5 c 128,-1,33
+ 265 139 265 139 303 85 c 1,34,-1
+ 303 85 l 1,24,-1
 EndSplineSet
 EndChar
 
@@ -8908,16 +8873,16 @@ AnchorPoint: "Anchor-0" 360 -5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-288 -115 m 1
- 271 -115 271 -115 259.5 -103.5 c 0
- 248 -92 248 -92 248 -75 c 256
- 248 -58 248 -58 259.5 -46.5 c 0
- 271 -35 271 -35 288 -35 c 256
- 305 -35 305 -35 316.5 -46.5 c 0
- 328 -58 328 -58 328 -75 c 256
- 328 -92 328 -92 316.5 -103.5 c 0
- 305 -115 305 -115 288 -115 c 1
- 288 -115 l 1
+288 -115 m 1,0,1
+ 271 -115 271 -115 259.5 -103.5 c 0,2,3
+ 248 -92 248 -92 248 -75 c 256,4,5
+ 248 -58 248 -58 259.5 -46.5 c 0,6,7
+ 271 -35 271 -35 288 -35 c 256,8,9
+ 305 -35 305 -35 316.5 -46.5 c 0,10,11
+ 328 -58 328 -58 328 -75 c 256,12,13
+ 328 -92 328 -92 316.5 -103.5 c 0,14,15
+ 305 -115 305 -115 288 -115 c 1,16,-1
+ 288 -115 l 1,0,1
 EndSplineSet
 Refer: 78 2465 S 1 0 0 1 0 0 2
 EndChar
@@ -10266,87 +10231,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: u09F0
-Encoding: 2544 2544 131
-Width: 433
-GlyphClass: 2
-Flags: W
-TtInstrs:
-NPUSHW
- 11
- 15
- 14
- 2
- 0
- 1
- 11
- 10
- 70
- 1
- 5
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SROUND
-SVTCA[y-axis]
-MDAP[rnd]
-ALIGNRP
-MIAP[rnd]
-SLOOP
-ALIGNRP
-SVTCA[x-axis]
-IUP[x]
-IUP[y]
-PUSHW_3
- 35
- 5
- 5
-CALL
-EndTTInstrs
-AnchorPoint: "Anchor-2" 341 -5 basechar 0
-AnchorPoint: "Anchor-1" 323 0 basechar 0
-AnchorPoint: "Anchor-0" 323 0 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-308 0 m 1,0,1
- 282 71 282 71 211 122 c 128,-1,2
- 140 173 140 173 43 190 c 1,3,-1
- 18 225 l 1,4,5
- 63 290 63 290 136.5 337.5 c 128,-1,6
- 210 385 210 385 303 410 c 1,7,-1
- 303 465 l 1,8,-1
- -10 465 l 1,9,-1
- -10 500 l 1,10,-1
- 443 500 l 1,11,-1
- 443 465 l 1,12,-1
- 343 465 l 1,13,-1
- 343 0 l 1,14,-1
- 308 0 l 1,15,-1
- 308 0 l 1,0,1
-303 240 m 1,16,-1
- 303 370 l 1,17,18
- 267 364 267 364 233.5 348.5 c 128,-1,19
- 200 333 200 333 173 310 c 1,20,21
- 197 304 197 304 230 286 c 128,-1,22
- 263 268 263 268 303 240 c 1,23,-1
- 303 240 l 1,16,-1
-303 85 m 1,24,-1
- 303 200 l 1,25,26
- 250 237 250 237 208.5 258.5 c 128,-1,27
- 167 280 167 280 138 285 c 1,28,29
- 119 274 119 274 101.5 259 c 128,-1,30
- 84 244 84 244 68 225 c 1,31,32
- 143 212 143 212 204 175.5 c 128,-1,33
- 265 139 265 139 303 85 c 1,34,-1
- 303 85 l 1,24,-1
-EndSplineSet
-EndChar
-
-StartChar: u09F1
-Encoding: 2545 2545 132
+StartChar: vabeng
+Encoding: 2545 2545 131
 Width: 450
 GlyphClass: 2
 Flags: W
@@ -10430,7 +10316,7 @@ EndSplineSet
 EndChar
 
 StartChar: rupeemarkbeng
-Encoding: 2546 2546 133
+Encoding: 2546 2546 132
 Width: 469
 VWidth: 499
 GlyphClass: 2
@@ -10452,7 +10338,7 @@ EndSplineSet
 EndChar
 
 StartChar: rupeesignbeng
-Encoding: 2547 2547 134
+Encoding: 2547 2547 133
 Width: 383
 VWidth: 499
 GlyphClass: 2
@@ -10497,7 +10383,7 @@ EndSplineSet
 EndChar
 
 StartChar: u09F4
-Encoding: 2548 2548 135
+Encoding: 2548 2548 134
 Width: 404
 VWidth: 499
 GlyphClass: 2
@@ -10519,7 +10405,7 @@ EndSplineSet
 EndChar
 
 StartChar: u09F5
-Encoding: 2549 2549 136
+Encoding: 2549 2549 135
 Width: 478
 VWidth: 499
 GlyphClass: 2
@@ -10554,7 +10440,7 @@ EndSplineSet
 EndChar
 
 StartChar: u09F6
-Encoding: 2550 2550 137
+Encoding: 2550 2550 136
 Width: 406
 VWidth: 499
 GlyphClass: 2
@@ -10586,7 +10472,7 @@ EndSplineSet
 EndChar
 
 StartChar: u09F7
-Encoding: 2551 2551 138
+Encoding: 2551 2551 137
 Width: 129
 GlyphClass: 2
 Flags: W
@@ -10637,7 +10523,7 @@ EndSplineSet
 EndChar
 
 StartChar: u09F8
-Encoding: 2552 2552 139
+Encoding: 2552 2552 138
 Width: 411
 VWidth: 499
 GlyphClass: 2
@@ -10662,7 +10548,7 @@ EndSplineSet
 EndChar
 
 StartChar: u09F9
-Encoding: 2553 2553 140
+Encoding: 2553 2553 139
 Width: 302
 VWidth: 499
 GlyphClass: 2
@@ -10700,7 +10586,7 @@ EndSplineSet
 EndChar
 
 StartChar: issharbeng
-Encoding: 2554 2554 141
+Encoding: 2554 2554 140
 Width: 471
 GlyphClass: 2
 Flags: W
@@ -10730,7 +10616,7 @@ EndSplineSet
 EndChar
 
 StartChar: zerowidthnonjoiner
-Encoding: 8204 8204 142
+Encoding: 8204 8204 141
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -10798,7 +10684,7 @@ EndSplineSet
 EndChar
 
 StartChar: zerowidthjoiner
-Encoding: 8205 8205 143
+Encoding: 8205 8205 142
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -10868,7 +10754,7 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 144
+Encoding: 8211 8211 143
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -10936,7 +10822,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 145
+Encoding: 8212 8212 144
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -11004,7 +10890,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 146
+Encoding: 8216 8216 145
 Width: 305
 GlyphClass: 2
 Flags: W
@@ -11064,7 +10950,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 147
+Encoding: 8217 8217 146
 Width: 315
 GlyphClass: 2
 Flags: W
@@ -11125,7 +11011,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 148
+Encoding: 8220 8220 147
 Width: 435
 GlyphClass: 2
 Flags: W
@@ -11190,7 +11076,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 149
+Encoding: 8221 8221 148
 Width: 460
 GlyphClass: 2
 Flags: W
@@ -11255,7 +11141,7 @@ EndSplineSet
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 150
+Encoding: 8230 8230 149
 Width: 810
 GlyphClass: 2
 Flags: W
@@ -11331,7 +11217,7 @@ EndSplineSet
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 151
+Encoding: 8722 8722 150
 Width: 244
 GlyphClass: 2
 Flags: W
@@ -11383,7 +11269,7 @@ EndSplineSet
 EndChar
 
 StartChar: dottedcircle
-Encoding: 9676 9676 152
+Encoding: 9676 9676 151
 Width: 720
 GlyphClass: 2
 Flags: W
@@ -11560,7 +11446,7 @@ EndSplineSet
 EndChar
 
 StartChar: yabeng_viramabeng.pstf
-Encoding: 65537 -1 153
+Encoding: 65537 -1 152
 Width: 223
 GlyphClass: 2
 Flags: W
@@ -11623,7 +11509,7 @@ Ligature2: "'pstf' Post Base Forms lookup 6-1" viramabeng yabeng
 EndChar
 
 StartChar: kabeng_viramabeng_kabeng
-Encoding: 65538 -1 154
+Encoding: 65538 -1 153
 Width: 566
 GlyphClass: 2
 Flags: W
@@ -11730,7 +11616,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng kabeng
 EndChar
 
 StartChar: kabeng_viramabeng_ttabeng
-Encoding: 65539 -1 155
+Encoding: 65539 -1 154
 Width: 464
 GlyphClass: 2
 Flags: W
@@ -11857,7 +11743,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng ttabeng
 EndChar
 
 StartChar: kabeng_viramabeng_tabeng
-Encoding: 65540 -1 156
+Encoding: 65540 -1 155
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -11971,7 +11857,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng tabeng
 EndChar
 
 StartChar: ka_virama_ta_virama_ra
-Encoding: 65541 -1 157
+Encoding: 65541 -1 156
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -12100,7 +11986,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng tabeng_v
 EndChar
 
 StartChar: ka_virama_ta_virama_ba
-Encoding: 65542 -1 158
+Encoding: 65542 -1 157
 Width: 672
 GlyphClass: 2
 Flags: W
@@ -12228,7 +12114,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng tabeng b
 EndChar
 
 StartChar: kabeng_viramabeng_nabeng
-Encoding: 65543 -1 159
+Encoding: 65543 -1 158
 Width: 550
 GlyphClass: 2
 Flags: W
@@ -12291,7 +12177,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng nabeng
 EndChar
 
 StartChar: kabeng_viramabeng_mabeng
-Encoding: 65544 -1 160
+Encoding: 65544 -1 159
 Width: 603
 GlyphClass: 2
 Flags: W
@@ -12354,7 +12240,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng mabeng
 EndChar
 
 StartChar: kabeng_viramabeng_rabeng
-Encoding: 65545 -1 161
+Encoding: 65545 -1 160
 Width: 643
 GlyphClass: 2
 Flags: W
@@ -12465,7 +12351,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" kabeng glyph437
 EndChar
 
 StartChar: kabeng_viramabeng_labeng
-Encoding: 65546 -1 162
+Encoding: 65546 -1 161
 Width: 602
 GlyphClass: 2
 Flags: W
@@ -12587,7 +12473,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng labeng
 EndChar
 
 StartChar: kabeng_viramabeng_babeng
-Encoding: 65547 -1 163
+Encoding: 65547 -1 162
 Width: 552
 GlyphClass: 2
 Flags: W
@@ -12684,7 +12570,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" kabeng babeng_viramaben
 EndChar
 
 StartChar: kabeng_viramabeng_ssabeng
-Encoding: 65548 -1 164
+Encoding: 65548 -1 163
 Width: 623
 GlyphClass: 2
 Flags: W
@@ -12794,7 +12680,7 @@ Ligature2: "'akhn' Akhand lookup 2-1" kabeng viramabeng ssabeng
 EndChar
 
 StartChar: ka_virama_ssa_virama_nna
-Encoding: 65549 -1 165
+Encoding: 65549 -1 164
 Width: 640
 GlyphClass: 2
 Flags: W
@@ -12921,7 +12807,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng ssabeng 
 EndChar
 
 StartChar: ka_virama_ssa_virama_ma
-Encoding: 65550 -1 166
+Encoding: 65550 -1 165
 Width: 668
 GlyphClass: 2
 Flags: W
@@ -13048,7 +12934,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng ssabeng 
 EndChar
 
 StartChar: ka_virama_ssa_virama_ra
-Encoding: 65551 -1 167
+Encoding: 65551 -1 166
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -13173,7 +13059,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng ssabeng 
 EndChar
 
 StartChar: ka_virama_ssa_virama_ba
-Encoding: 65552 -1 168
+Encoding: 65552 -1 167
 Width: 619
 GlyphClass: 2
 Flags: W
@@ -13291,7 +13177,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng ssabeng 
 EndChar
 
 StartChar: kabeng_viramabeng_sabeng
-Encoding: 65553 -1 169
+Encoding: 65553 -1 168
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -13395,7 +13281,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng sabeng
 EndChar
 
 StartChar: khabeng_viramabeng_rabeng
-Encoding: 65554 -1 170
+Encoding: 65554 -1 169
 Width: 572
 GlyphClass: 2
 Flags: W
@@ -13502,7 +13388,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" khabeng glyph437
 EndChar
 
 StartChar: khabeng_viramabeng_babeng
-Encoding: 65555 -1 171
+Encoding: 65555 -1 170
 Width: 471
 GlyphClass: 2
 Flags: W
@@ -13617,7 +13503,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" khabeng babeng_viramabe
 EndChar
 
 StartChar: ga_zerowidthnonjoiner_uvowel
-Encoding: 65556 -1 172
+Encoding: 65556 -1 171
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -13731,7 +13617,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" gabeng zerowidthnonjoin
 EndChar
 
 StartChar: gabeng_viramabeng_gabeng
-Encoding: 65557 -1 173
+Encoding: 65557 -1 172
 Width: 434
 GlyphClass: 2
 Flags: W
@@ -13843,7 +13729,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng gabeng
 EndChar
 
 StartChar: gabeng_viramabeng_dabeng
-Encoding: 65558 -1 174
+Encoding: 65558 -1 173
 Width: 671
 GlyphClass: 2
 Flags: W
@@ -13935,7 +13821,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng dabeng
 EndChar
 
 StartChar: gabeng_viramabeng_dhabeng
-Encoding: 65559 -1 175
+Encoding: 65559 -1 174
 Width: 585
 GlyphClass: 2
 Flags: W
@@ -14053,7 +13939,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng dhabeng
 EndChar
 
 StartChar: ga_virama_dha_ba_virama
-Encoding: 65560 -1 176
+Encoding: 65560 -1 175
 Width: 585
 GlyphClass: 2
 Flags: W
@@ -14146,7 +14032,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng dhabeng 
 EndChar
 
 StartChar: ga_virama_dha_virama_ra
-Encoding: 65561 -1 177
+Encoding: 65561 -1 176
 Width: 625
 GlyphClass: 2
 Flags: W
@@ -14283,7 +14169,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng dhabeng_
 EndChar
 
 StartChar: gabeng_viramabeng_nabeng
-Encoding: 65562 -1 178
+Encoding: 65562 -1 177
 Width: 462
 GlyphClass: 2
 Flags: W
@@ -14377,7 +14263,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng nabeng
 EndChar
 
 StartChar: gabeng_viramabeng_mabeng
-Encoding: 65563 -1 179
+Encoding: 65563 -1 178
 Width: 639
 GlyphClass: 2
 Flags: W
@@ -14480,7 +14366,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng mabeng
 EndChar
 
 StartChar: gabeng_viramabeng_rabeng
-Encoding: 65564 -1 180
+Encoding: 65564 -1 179
 Width: 576
 GlyphClass: 2
 Flags: W
@@ -14585,7 +14471,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" gabeng glyph437
 EndChar
 
 StartChar: ga_virama_ra_uvowel
-Encoding: 65565 -1 181
+Encoding: 65565 -1 180
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -14705,7 +14591,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" gabeng_viramabeng_raben
 EndChar
 
 StartChar: ga_virama_ra_uuvowel
-Encoding: 65566 -1 182
+Encoding: 65566 -1 181
 Width: 709
 GlyphClass: 2
 Flags: W
@@ -14824,7 +14710,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" gabeng_viramabeng_raben
 EndChar
 
 StartChar: gabeng_viramabeng_labeng
-Encoding: 65567 -1 183
+Encoding: 65567 -1 182
 Width: 499
 GlyphClass: 2
 Flags: W
@@ -14945,7 +14831,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" gabeng viramabeng labeng
 EndChar
 
 StartChar: gabeng_babeng_viramabeng
-Encoding: 65568 -1 184
+Encoding: 65568 -1 183
 Width: 433
 GlyphClass: 2
 Flags: W
@@ -15042,7 +14928,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" gabeng babeng_viramaben
 EndChar
 
 StartChar: ghabeng_viramabeng_nabeng
-Encoding: 65569 -1 185
+Encoding: 65569 -1 184
 Width: 497
 GlyphClass: 2
 Flags: W
@@ -15128,7 +15014,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ghabeng viramabeng nabeng
 EndChar
 
 StartChar: ghabeng_viramabeng_rabeng
-Encoding: 65570 -1 186
+Encoding: 65570 -1 185
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -15221,7 +15107,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" ghabeng glyph437
 EndChar
 
 StartChar: ghabeng_viramabeng_babeng
-Encoding: 65571 -1 187
+Encoding: 65571 -1 186
 Width: 475
 GlyphClass: 2
 Flags: W
@@ -15310,7 +15196,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ghabeng babeng_viramabe
 EndChar
 
 StartChar: ngabeng_viramabeng_kabeng
-Encoding: 65572 -1 188
+Encoding: 65572 -1 187
 Width: 481
 GlyphClass: 2
 Flags: W
@@ -15418,7 +15304,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng kabeng
 EndChar
 
 StartChar: nga_virama_ka_virama_ra
-Encoding: 65573 -1 189
+Encoding: 65573 -1 188
 Width: 593
 GlyphClass: 2
 Flags: W
@@ -15542,7 +15428,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng kabeng_
 EndChar
 
 StartChar: nga_virama_ka_virama_ssa
-Encoding: 65574 -1 190
+Encoding: 65574 -1 189
 Width: 1112
 GlyphClass: 2
 Flags: W
@@ -15706,7 +15592,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng kabeng 
 EndChar
 
 StartChar: nga_ka_ssa_ra
-Encoding: 65575 -1 191
+Encoding: 65575 -1 190
 Width: 1112
 GlyphClass: 2
 Flags: W
@@ -15888,7 +15774,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng kabeng 
 EndChar
 
 StartChar: ngabeng_viramabeng_khabeng
-Encoding: 65576 -1 192
+Encoding: 65576 -1 191
 Width: 724
 GlyphClass: 2
 Flags: W
@@ -16020,7 +15906,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng khabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_gabeng
-Encoding: 65577 -1 193
+Encoding: 65577 -1 192
 Width: 510
 GlyphClass: 2
 Flags: W
@@ -16125,7 +16011,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng gabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_ghabeng
-Encoding: 65578 -1 194
+Encoding: 65578 -1 193
 Width: 892
 GlyphClass: 2
 Flags: W
@@ -16261,7 +16147,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng ghabeng
 EndChar
 
 StartChar: nga_virama_gha_virama_ra
-Encoding: 65579 -1 195
+Encoding: 65579 -1 194
 Width: 901
 GlyphClass: 2
 Flags: W
@@ -16403,7 +16289,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng ghabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_mabeng
-Encoding: 65580 -1 196
+Encoding: 65580 -1 195
 Width: 670
 GlyphClass: 2
 Flags: W
@@ -16525,7 +16411,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ngabeng viramabeng mabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_rabeng
-Encoding: 65581 -1 197
+Encoding: 65581 -1 196
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -16642,7 +16528,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" ngabeng glyph437
 EndChar
 
 StartChar: cabeng_viramabeng_cabeng
-Encoding: 65582 -1 198
+Encoding: 65582 -1 197
 Width: 617
 GlyphClass: 2
 Flags: W
@@ -16738,7 +16624,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" cabeng viramabeng cabeng
 EndChar
 
 StartChar: cabeng_viramabeng_chabeng
-Encoding: 65583 -1 199
+Encoding: 65583 -1 198
 Width: 728
 GlyphClass: 2
 Flags: W
@@ -16843,7 +16729,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" cabeng viramabeng chabeng
 EndChar
 
 StartChar: ca_virama_cha_virama_ra
-Encoding: 65584 -1 200
+Encoding: 65584 -1 199
 Width: 752
 GlyphClass: 2
 Flags: W
@@ -16968,7 +16854,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" cabeng viramabeng cabeng_r
 EndChar
 
 StartChar: ca_virama_cha_virama_ba
-Encoding: 65585 -1 201
+Encoding: 65585 -1 200
 Width: 723
 GlyphClass: 2
 Flags: W
@@ -17100,7 +16986,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" cabeng viramabeng chabeng_
 EndChar
 
 StartChar: cabeng_viramabeng_nyabeng
-Encoding: 65586 -1 202
+Encoding: 65586 -1 201
 Width: 771
 GlyphClass: 2
 Flags: W
@@ -17242,7 +17128,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" cabeng viramabeng nyabeng
 EndChar
 
 StartChar: cabeng_viramabeng_nabeng
-Encoding: 65587 -1 203
+Encoding: 65587 -1 202
 Width: 416
 GlyphClass: 2
 Flags: W
@@ -17341,7 +17227,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" cabeng viramabeng nabeng
 EndChar
 
 StartChar: cabeng_viramabeng_rabeng
-Encoding: 65588 -1 204
+Encoding: 65588 -1 203
 Width: 429
 GlyphClass: 2
 Flags: W
@@ -17433,7 +17319,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" cabeng glyph437
 EndChar
 
 StartChar: cabeng_viramabeng_babeng
-Encoding: 65589 -1 205
+Encoding: 65589 -1 204
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -17521,7 +17407,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" cabeng babeng_viramaben
 EndChar
 
 StartChar: chabeng_viramabeng_rabeng
-Encoding: 65590 -1 206
+Encoding: 65590 -1 205
 Width: 507
 GlyphClass: 2
 Flags: W
@@ -17632,7 +17518,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" chabeng glyph437
 EndChar
 
 StartChar: chabeng_viramabeng_babeng
-Encoding: 65591 -1 207
+Encoding: 65591 -1 206
 Width: 466
 GlyphClass: 2
 Flags: W
@@ -17744,7 +17630,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" chabeng babeng_viramabe
 EndChar
 
 StartChar: jabeng_viramabeng_jabeng
-Encoding: 65592 -1 208
+Encoding: 65592 -1 207
 Width: 807
 GlyphClass: 2
 Flags: W
@@ -17866,7 +17752,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" jabeng viramabeng jabeng
 EndChar
 
 StartChar: ja_virama_ja_virama_ba
-Encoding: 65593 -1 209
+Encoding: 65593 -1 208
 Width: 810
 GlyphClass: 2
 Flags: W
@@ -17999,7 +17885,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" jabeng viramabeng jabeng_v
 EndChar
 
 StartChar: jabeng_viramabeng_jhabeng
-Encoding: 65594 -1 210
+Encoding: 65594 -1 209
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -18112,7 +17998,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" jabeng viramabeng jhabeng
 EndChar
 
 StartChar: jabeng_viramabeng_nyabeng
-Encoding: 65595 -1 211
+Encoding: 65595 -1 210
 Width: 736
 GlyphClass: 2
 Flags: W
@@ -18233,7 +18119,7 @@ Ligature2: "'akhn' Akhand lookup 2-1" jabeng viramabeng nyabeng
 EndChar
 
 StartChar: jabeng_viramabeng_rabeng
-Encoding: 65596 -1 212
+Encoding: 65596 -1 211
 Width: 675
 GlyphClass: 2
 Flags: W
@@ -18342,7 +18228,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" jabeng glyph437
 EndChar
 
 StartChar: jabeng_viramabeng_babeng
-Encoding: 65597 -1 213
+Encoding: 65597 -1 212
 Width: 638
 GlyphClass: 2
 Flags: W
@@ -18449,7 +18335,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" jabeng babeng_viramaben
 EndChar
 
 StartChar: jhabeng_viramabeng_rabeng
-Encoding: 65598 -1 214
+Encoding: 65598 -1 213
 Width: 636
 GlyphClass: 2
 Flags: W
@@ -18555,7 +18441,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" jhabeng glyph437
 EndChar
 
 StartChar: nyabeng_viramabeng_cabeng
-Encoding: 65599 -1 215
+Encoding: 65599 -1 214
 Width: 672
 GlyphClass: 2
 Flags: W
@@ -18683,7 +18569,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nyabeng viramabeng cabeng
 EndChar
 
 StartChar: nya_virama_ca_virama_ba
-Encoding: 65600 -1 216
+Encoding: 65600 -1 215
 Width: 672
 GlyphClass: 2
 Flags: W
@@ -18820,7 +18706,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nyabeng viramabeng cabeng 
 EndChar
 
 StartChar: nyabeng_viramabeng_chabeng
-Encoding: 65601 -1 217
+Encoding: 65601 -1 216
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -18965,7 +18851,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nyabeng viramabeng chabeng
 EndChar
 
 StartChar: nyabeng_viramabeng_jabeng
-Encoding: 65602 -1 218
+Encoding: 65602 -1 217
 Width: 657
 GlyphClass: 2
 Flags: W
@@ -19113,7 +18999,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nyabeng viramabeng jabeng
 EndChar
 
 StartChar: nyabeng_viramabeng_jhabeng
-Encoding: 65603 -1 219
+Encoding: 65603 -1 218
 Width: 627
 GlyphClass: 2
 Flags: W
@@ -19263,7 +19149,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nyabeng viramabeng jhabeng
 EndChar
 
 StartChar: nyabeng_viramabeng_dhabeng
-Encoding: 65604 -1 220
+Encoding: 65604 -1 219
 Width: 532
 GlyphClass: 2
 Flags: W
@@ -19400,7 +19286,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nyabeng viramabeng dhabeng
 EndChar
 
 StartChar: ttabeng_viramabeng_ttabeng
-Encoding: 65605 -1 221
+Encoding: 65605 -1 220
 Width: 485
 GlyphClass: 2
 Flags: W
@@ -19513,7 +19399,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ttabeng viramabeng ttabeng
 EndChar
 
 StartChar: tta_virama_ta_virama_ra
-Encoding: 65606 -1 222
+Encoding: 65606 -1 221
 Width: 485
 GlyphClass: 2
 Flags: W
@@ -19640,7 +19526,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ttabeng viramabeng ttabeng
 EndChar
 
 StartChar: ttabeng_viramabeng_mabeng
-Encoding: 65607 -1 223
+Encoding: 65607 -1 222
 Width: 619
 GlyphClass: 2
 Flags: W
@@ -19757,7 +19643,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ttabeng viramabeng mabeng
 EndChar
 
 StartChar: ttabeng_viramabeng_rabeng
-Encoding: 65608 -1 224
+Encoding: 65608 -1 223
 Width: 546
 GlyphClass: 2
 Flags: W
@@ -19875,7 +19761,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" ttabeng glyph437
 EndChar
 
 StartChar: ttabeng_viramabeng_babeng
-Encoding: 65609 -1 225
+Encoding: 65609 -1 224
 Width: 429
 GlyphClass: 2
 Flags: W
@@ -19988,7 +19874,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ttabeng babeng_viramabe
 EndChar
 
 StartChar: tthabeng_rabeng_viramabeng
-Encoding: 65610 -1 226
+Encoding: 65610 -1 225
 Width: 423
 GlyphClass: 2
 Flags: W
@@ -20096,7 +19982,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" tthabeng glyph437
 EndChar
 
 StartChar: ddabeng_viramabeng_gabeng
-Encoding: 65611 -1 227
+Encoding: 65611 -1 226
 Width: 982
 GlyphClass: 2
 Flags: W
@@ -20215,7 +20101,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ddabeng viramabeng gabeng
 EndChar
 
 StartChar: ddabeng_viramabeng_ddabeng
-Encoding: 65612 -1 228
+Encoding: 65612 -1 227
 Width: 927
 GlyphClass: 2
 Flags: W
@@ -20328,7 +20214,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ddabeng viramabeng ddabeng
 EndChar
 
 StartChar: ddabeng_viramabeng_mabeng
-Encoding: 65613 -1 229
+Encoding: 65613 -1 228
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -20422,7 +20308,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ddabeng viramabeng mabeng
 EndChar
 
 StartChar: ddabeng_viramabeng_rabeng
-Encoding: 65614 -1 230
+Encoding: 65614 -1 229
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -20516,7 +20402,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" ddabeng glyph437
 EndChar
 
 StartChar: ddabeng_viramabeng_babeng
-Encoding: 65615 -1 231
+Encoding: 65615 -1 230
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -20606,7 +20492,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ddabeng babeng_viramabe
 EndChar
 
 StartChar: ddhabeng_viramabeng_rabeng
-Encoding: 65616 -1 232
+Encoding: 65616 -1 231
 Width: 548
 GlyphClass: 2
 Flags: W
@@ -20698,7 +20584,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" ddhabeng glyph437
 EndChar
 
 StartChar: nnabeng_viramabeng_ttabeng
-Encoding: 65617 -1 233
+Encoding: 65617 -1 232
 Width: 638
 GlyphClass: 2
 Flags: W
@@ -20823,7 +20709,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ttabeng
 EndChar
 
 StartChar: nna_virama_tta_virama_ra
-Encoding: 65618 -1 234
+Encoding: 65618 -1 233
 Width: 648
 GlyphClass: 2
 Flags: W
@@ -20963,7 +20849,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ttabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_tthabeng
-Encoding: 65619 -1 235
+Encoding: 65619 -1 234
 Width: 533
 GlyphClass: 2
 Flags: W
@@ -21073,7 +20959,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng tthaben
 EndChar
 
 StartChar: nna_virama_ttha_virama_ra
-Encoding: 65620 -1 236
+Encoding: 65620 -1 235
 Width: 544
 GlyphClass: 2
 Flags: W
@@ -21197,7 +21083,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ttabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_ddabeng
-Encoding: 65621 -1 237
+Encoding: 65621 -1 236
 Width: 652
 GlyphClass: 2
 Flags: W
@@ -21307,7 +21193,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ddabeng
 EndChar
 
 StartChar: nna_virama_dda_virama_ra
-Encoding: 65622 -1 238
+Encoding: 65622 -1 237
 Width: 710
 GlyphClass: 2
 Flags: W
@@ -21418,7 +21304,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ddabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_ddhabeng
-Encoding: 65623 -1 239
+Encoding: 65623 -1 238
 Width: 647
 GlyphClass: 2
 Flags: W
@@ -21515,7 +21401,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ddhaben
 EndChar
 
 StartChar: nna_virama_ddha_virama_ra
-Encoding: 65624 -1 240
+Encoding: 65624 -1 239
 Width: 654
 GlyphClass: 2
 Flags: W
@@ -21627,7 +21513,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng ddhaben
 EndChar
 
 StartChar: nnabeng_viramabeng_nnabeng
-Encoding: 65625 -1 241
+Encoding: 65625 -1 240
 Width: 476
 GlyphClass: 2
 Flags: W
@@ -21733,7 +21619,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng nnabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_mabeng
-Encoding: 65626 -1 242
+Encoding: 65626 -1 241
 Width: 624
 GlyphClass: 2
 Flags: W
@@ -21834,7 +21720,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nnabeng viramabeng mabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_rabeng
-Encoding: 65627 -1 243
+Encoding: 65627 -1 242
 Width: 502
 GlyphClass: 2
 Flags: W
@@ -21930,7 +21816,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" nnabeng glyph437
 EndChar
 
 StartChar: nnabeng_viramabeng_babeng
-Encoding: 65628 -1 244
+Encoding: 65628 -1 243
 Width: 444
 GlyphClass: 2
 Flags: W
@@ -22022,7 +21908,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" nnabeng babeng_viramabe
 EndChar
 
 StartChar: tabeng_viramabeng_tabeng
-Encoding: 65629 -1 245
+Encoding: 65629 -1 244
 Width: 550
 GlyphClass: 2
 Flags: W
@@ -22116,7 +22002,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" tabeng viramabeng tabeng
 EndChar
 
 StartChar: ta_virama_ta_virama_ba
-Encoding: 65630 -1 246
+Encoding: 65630 -1 245
 Width: 521
 GlyphClass: 2
 Flags: W
@@ -22226,7 +22112,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" tabeng viramabeng tabeng b
 EndChar
 
 StartChar: tabeng_viramabeng_thabeng
-Encoding: 65631 -1 247
+Encoding: 65631 -1 246
 Width: 589
 GlyphClass: 2
 Flags: W
@@ -22324,7 +22210,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" tabeng viramabeng thabeng
 EndChar
 
 StartChar: tabeng_viramabeng_nabeng
-Encoding: 65632 -1 248
+Encoding: 65632 -1 247
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -22423,7 +22309,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" tabeng viramabeng nabeng
 EndChar
 
 StartChar: tabeng_viramabeng_mabeng
-Encoding: 65633 -1 249
+Encoding: 65633 -1 248
 Width: 741
 GlyphClass: 2
 Flags: W
@@ -22518,7 +22404,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" tabeng viramabeng mabeng
 EndChar
 
 StartChar: tabeng_viramabeng_rabeng
-Encoding: 65634 -1 250
+Encoding: 65634 -1 249
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -22608,7 +22494,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" tabeng glyph437
 EndChar
 
 StartChar: ta_virama_ra_uvowel
-Encoding: 65635 -1 251
+Encoding: 65635 -1 250
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -22720,7 +22606,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" tabeng_viramabeng_raben
 EndChar
 
 StartChar: ta_virama_ra_uuvowel
-Encoding: 65636 -1 252
+Encoding: 65636 -1 251
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -22831,7 +22717,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" tabeng_viramabeng_raben
 EndChar
 
 StartChar: tabeng_viramabeng_labeng
-Encoding: 65637 -1 253
+Encoding: 65637 -1 252
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -22943,7 +22829,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" tabeng viramabeng labeng
 EndChar
 
 StartChar: tabeng_viramabeng_babeng
-Encoding: 65638 -1 254
+Encoding: 65638 -1 253
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -23036,7 +22922,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" tabeng babeng_viramaben
 EndChar
 
 StartChar: thabeng_viramabeng_rabeng
-Encoding: 65639 -1 255
+Encoding: 65639 -1 254
 Width: 549
 GlyphClass: 2
 Flags: W
@@ -23144,7 +23030,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" thabeng glyph437
 EndChar
 
 StartChar: tha_virama_ra_uvowel
-Encoding: 65640 -1 256
+Encoding: 65640 -1 255
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -23266,7 +23152,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ttabeng_viramabeng_rabe
 EndChar
 
 StartChar: tha_virama_ra_uuvowel
-Encoding: 65641 -1 257
+Encoding: 65641 -1 256
 Width: 694
 GlyphClass: 2
 Flags: W
@@ -23387,7 +23273,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" tthabeng_rabeng_viramab
 EndChar
 
 StartChar: thabeng_viramabeng_babeng
-Encoding: 65642 -1 258
+Encoding: 65642 -1 257
 Width: 483
 GlyphClass: 2
 Flags: W
@@ -23495,7 +23381,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" thabeng babeng_viramabe
 EndChar
 
 StartChar: dabeng_viramabeng_gabeng
-Encoding: 65643 -1 259
+Encoding: 65643 -1 258
 Width: 813
 GlyphClass: 2
 Flags: W
@@ -23616,7 +23502,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng gabeng
 EndChar
 
 StartChar: dabeng_viramabeng_ghabeng
-Encoding: 65644 -1 260
+Encoding: 65644 -1 259
 Width: 783
 GlyphClass: 2
 Flags: W
@@ -23713,7 +23599,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng ghabeng
 EndChar
 
 StartChar: dabeng_viramabeng_dabeng
-Encoding: 65645 -1 261
+Encoding: 65645 -1 260
 Width: 569
 GlyphClass: 2
 Flags: W
@@ -23788,7 +23674,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng dabeng
 EndChar
 
 StartChar: da_virama_da_virama_ra
-Encoding: 65646 -1 262
+Encoding: 65646 -1 261
 Width: 592
 GlyphClass: 2
 Flags: W
@@ -23884,7 +23770,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng dabeng_v
 EndChar
 
 StartChar: da_virama_da_virama_ba
-Encoding: 65647 -1 263
+Encoding: 65647 -1 262
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -23972,7 +23858,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng dabeng_v
 EndChar
 
 StartChar: dabeng_viramabeng_dhabeng
-Encoding: 65648 -1 264
+Encoding: 65648 -1 263
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -24068,7 +23954,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng dhabeng
 EndChar
 
 StartChar: da_virama_dha_virama_ba
-Encoding: 65649 -1 265
+Encoding: 65649 -1 264
 Width: 552
 GlyphClass: 2
 Flags: W
@@ -24176,7 +24062,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng dhabeng_
 EndChar
 
 StartChar: dabeng_viramabeng_nabeng
-Encoding: 65650 -1 266
+Encoding: 65650 -1 265
 Width: 443
 GlyphClass: 2
 Flags: W
@@ -24255,7 +24141,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng nabeng
 EndChar
 
 StartChar: dabeng_viramabeng_bhabeng
-Encoding: 65651 -1 267
+Encoding: 65651 -1 266
 Width: 566
 GlyphClass: 2
 Flags: W
@@ -24358,7 +24244,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng bhabeng
 EndChar
 
 StartChar: da_virama_bha_virama_ra
-Encoding: 65652 -1 268
+Encoding: 65652 -1 267
 Width: 494
 GlyphClass: 2
 Flags: W
@@ -24465,7 +24351,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng bhabeng_
 EndChar
 
 StartChar: dabeng_viramabeng_mabeng
-Encoding: 65653 -1 269
+Encoding: 65653 -1 268
 Width: 536
 GlyphClass: 2
 Flags: W
@@ -24550,7 +24436,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dabeng viramabeng mabeng
 EndChar
 
 StartChar: dabeng_viramabeng_rabeng
-Encoding: 65654 -1 270
+Encoding: 65654 -1 269
 Width: 511
 GlyphClass: 2
 Flags: W
@@ -24637,7 +24523,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" dabeng glyph437
 EndChar
 
 StartChar: da_virama_ra_uvowel
-Encoding: 65655 -1 271
+Encoding: 65655 -1 270
 Width: 676
 GlyphClass: 2
 Flags: W
@@ -24744,7 +24630,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" dabeng_viramabeng_raben
 EndChar
 
 StartChar: da_virama_ra_uuvowel
-Encoding: 65656 -1 272
+Encoding: 65656 -1 271
 Width: 657
 GlyphClass: 2
 Flags: W
@@ -24855,7 +24741,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" dabeng_viramabeng_raben
 EndChar
 
 StartChar: dabeng_viramabeng_babeng
-Encoding: 65657 -1 273
+Encoding: 65657 -1 272
 Width: 457
 GlyphClass: 2
 Flags: W
@@ -24930,7 +24816,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" dabeng babeng_viramaben
 EndChar
 
 StartChar: dhabeng_viramabeng_nabeng
-Encoding: 65658 -1 274
+Encoding: 65658 -1 273
 Width: 430
 GlyphClass: 2
 Flags: W
@@ -25038,7 +24924,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dhabeng viramabeng nabeng
 EndChar
 
 StartChar: dhabeng_viramabeng_mabeng
-Encoding: 65659 -1 275
+Encoding: 65659 -1 274
 Width: 531
 GlyphClass: 2
 Flags: W
@@ -25149,7 +25035,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" dhabeng viramabeng mabeng
 EndChar
 
 StartChar: dhabeng_viramabeng_rabeng
-Encoding: 65660 -1 276
+Encoding: 65660 -1 275
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -25252,7 +25138,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" dhabeng glyph437
 EndChar
 
 StartChar: dha_virama_ra_uvowel
-Encoding: 65661 -1 277
+Encoding: 65661 -1 276
 Width: 653
 GlyphClass: 2
 Flags: W
@@ -25377,7 +25263,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ddhabeng_viramabeng_rab
 EndChar
 
 StartChar: dha_virama_ra_uuvowel
-Encoding: 65662 -1 278
+Encoding: 65662 -1 277
 Width: 645
 GlyphClass: 2
 Flags: W
@@ -25501,7 +25387,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ddhabeng_viramabeng_rab
 EndChar
 
 StartChar: dhabeng_viramabeng_babeng
-Encoding: 65663 -1 279
+Encoding: 65663 -1 278
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -25607,7 +25493,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" dhabeng babeng_viramabe
 EndChar
 
 StartChar: nabeng_viramabeng_ttabeng
-Encoding: 65664 -1 280
+Encoding: 65664 -1 279
 Width: 605
 GlyphClass: 2
 Flags: W
@@ -25722,7 +25608,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng ttabeng
 EndChar
 
 StartChar: na_virama_tta_virama_ra
-Encoding: 65665 -1 281
+Encoding: 65665 -1 280
 Width: 646
 GlyphClass: 2
 Flags: W
@@ -25856,7 +25742,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng ttabeng_
 EndChar
 
 StartChar: nabeng_viramabeng_tthabeng
-Encoding: 65666 -1 282
+Encoding: 65666 -1 281
 Width: 497
 GlyphClass: 2
 Flags: W
@@ -25964,7 +25850,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng tthabeng
 EndChar
 
 StartChar: nabeng_viramabeng_ddabeng
-Encoding: 65667 -1 283
+Encoding: 65667 -1 282
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -26056,7 +25942,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng ddabeng
 EndChar
 
 StartChar: na_viramag_dda_virama_ra
-Encoding: 65668 -1 284
+Encoding: 65668 -1 283
 Width: 623
 GlyphClass: 2
 Flags: W
@@ -26162,7 +26048,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng ddabeng_
 EndChar
 
 StartChar: glyph283
-Encoding: 65669 -1 285
+Encoding: 65669 -1 284
 Width: 615
 GlyphClass: 2
 Flags: W
@@ -26288,7 +26174,7 @@ EndSplineSet
 EndChar
 
 StartChar: nabeng_viramabeng_tabeng
-Encoding: 65670 -1 286
+Encoding: 65670 -1 285
 Width: 530
 GlyphClass: 2
 Flags: W
@@ -26392,7 +26278,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng tabeng
 EndChar
 
 StartChar: na_virama_ta_uvowel
-Encoding: 65671 -1 287
+Encoding: 65671 -1 286
 Width: 605
 GlyphClass: 2
 Flags: W
@@ -26510,7 +26396,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" nabeng_viramabeng_taben
 EndChar
 
 StartChar: na_virama_ta_virama_ra
-Encoding: 65672 -1 288
+Encoding: 65672 -1 287
 Width: 534
 GlyphClass: 2
 Flags: W
@@ -26618,7 +26504,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng tabeng_v
 EndChar
 
 StartChar: na_virama_ta_virama_ba
-Encoding: 65673 -1 289
+Encoding: 65673 -1 288
 Width: 544
 GlyphClass: 2
 Flags: W
@@ -26732,7 +26618,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng tabeng_v
 EndChar
 
 StartChar: nabeng_viramabeng_thabeng
-Encoding: 65674 -1 290
+Encoding: 65674 -1 289
 Width: 454
 GlyphClass: 2
 Flags: W
@@ -26837,7 +26723,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng thabeng
 EndChar
 
 StartChar: na_virama_tha_virama_ra
-Encoding: 65675 -1 291
+Encoding: 65675 -1 290
 Width: 455
 GlyphClass: 2
 Flags: W
@@ -26960,7 +26846,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng thabeng_
 EndChar
 
 StartChar: nabeng_viramabeng_dabeng
-Encoding: 65676 -1 292
+Encoding: 65676 -1 291
 Width: 617
 GlyphClass: 2
 Flags: W
@@ -27039,7 +26925,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng dabeng
 EndChar
 
 StartChar: na_virama_da_virama_ra
-Encoding: 65677 -1 293
+Encoding: 65677 -1 292
 Width: 622
 GlyphClass: 2
 Flags: W
@@ -27136,7 +27022,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng dabeng_v
 EndChar
 
 StartChar: na_virama_da_virama_ba
-Encoding: 65678 -1 294
+Encoding: 65678 -1 293
 Width: 573
 GlyphClass: 2
 Flags: W
@@ -27229,7 +27115,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng dabeng b
 EndChar
 
 StartChar: nabeng_viramabeng_dhabeng
-Encoding: 65679 -1 295
+Encoding: 65679 -1 294
 Width: 609
 GlyphClass: 2
 Flags: W
@@ -27330,7 +27216,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng dhabeng
 EndChar
 
 StartChar: na_virama_dha_virama_ba
-Encoding: 65680 -1 296
+Encoding: 65680 -1 295
 Width: 609
 GlyphClass: 2
 Flags: W
@@ -27440,7 +27326,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng dhabeng 
 EndChar
 
 StartChar: na_virama_dha_virama_ra
-Encoding: 65681 -1 297
+Encoding: 65681 -1 296
 Width: 689
 GlyphClass: 2
 Flags: W
@@ -27555,7 +27441,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng dhabeng_
 EndChar
 
 StartChar: nabeng_viramabeng_nabeng
-Encoding: 65682 -1 298
+Encoding: 65682 -1 297
 Width: 439
 GlyphClass: 2
 Flags: W
@@ -27634,7 +27520,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng nabeng
 EndChar
 
 StartChar: nabeng_viramabeng_mabeng
-Encoding: 65683 -1 299
+Encoding: 65683 -1 298
 Width: 582
 GlyphClass: 2
 Flags: W
@@ -27719,7 +27605,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng mabeng
 EndChar
 
 StartChar: nabeng_viramabeng_rabeng
-Encoding: 65684 -1 300
+Encoding: 65684 -1 299
 Width: 513
 GlyphClass: 2
 Flags: W
@@ -27807,7 +27693,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng mabeng
 EndChar
 
 StartChar: nabeng_viramabeng_babeng
-Encoding: 65685 -1 301
+Encoding: 65685 -1 300
 Width: 408
 GlyphClass: 2
 Flags: W
@@ -27887,7 +27773,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" nabeng babeng_viramaben
 EndChar
 
 StartChar: nabeng_viramabeng_sabeng
-Encoding: 65686 -1 302
+Encoding: 65686 -1 301
 Width: 605
 GlyphClass: 2
 Flags: W
@@ -27981,7 +27867,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" nabeng viramabeng sabeng
 EndChar
 
 StartChar: pabeng_viramabeng_ttabeng
-Encoding: 65687 -1 303
+Encoding: 65687 -1 302
 Width: 701
 GlyphClass: 2
 Flags: W
@@ -28108,7 +27994,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng ttabeng
 EndChar
 
 StartChar: pabeng_viramabeng_tabeng
-Encoding: 65688 -1 304
+Encoding: 65688 -1 303
 Width: 632
 GlyphClass: 2
 Flags: W
@@ -28220,7 +28106,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng tabeng
 EndChar
 
 StartChar: pa_virama_ta_uvowel
-Encoding: 65689 -1 305
+Encoding: 65689 -1 304
 Width: 612
 GlyphClass: 2
 Flags: W
@@ -28363,7 +28249,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" pabeng_viramabeng_taben
 EndChar
 
 StartChar: pa_virama_ta_virama_ra
-Encoding: 65690 -1 306
+Encoding: 65690 -1 305
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -28480,7 +28366,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng tabeng_v
 EndChar
 
 StartChar: pabeng_viramabeng_nabeng
-Encoding: 65691 -1 307
+Encoding: 65691 -1 306
 Width: 506
 GlyphClass: 2
 Flags: W
@@ -28580,7 +28466,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng nabeng
 EndChar
 
 StartChar: pabeng_viramabeng_pabeng
-Encoding: 65692 -1 308
+Encoding: 65692 -1 307
 Width: 522
 GlyphClass: 2
 Flags: W
@@ -28701,7 +28587,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng pabeng
 EndChar
 
 StartChar: pabeng_viramabeng_mabeng
-Encoding: 65693 -1 309
+Encoding: 65693 -1 308
 Width: 690
 GlyphClass: 2
 Flags: W
@@ -28794,7 +28680,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng mabeng
 EndChar
 
 StartChar: pabeng_viramabeng_rabeng
-Encoding: 65694 -1 310
+Encoding: 65694 -1 309
 Width: 574
 GlyphClass: 2
 Flags: W
@@ -28897,7 +28783,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" pabeng glyph437
 EndChar
 
 StartChar: pa_virama_ra_uvowel
-Encoding: 65695 -1 311
+Encoding: 65695 -1 310
 Width: 712
 GlyphClass: 2
 Flags: W
@@ -29022,7 +28908,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" pabeng_viramabeng_raben
 EndChar
 
 StartChar: pa_virama_ra_uuvowel
-Encoding: 65696 -1 312
+Encoding: 65696 -1 311
 Width: 733
 GlyphClass: 2
 Flags: W
@@ -29146,7 +29032,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" pabeng_viramabeng_raben
 EndChar
 
 StartChar: pabeng_viramabeng_labeng
-Encoding: 65697 -1 313
+Encoding: 65697 -1 312
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -29267,7 +29153,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng labeng
 EndChar
 
 StartChar: pabeng_viramabeng_sabeng
-Encoding: 65698 -1 314
+Encoding: 65698 -1 313
 Width: 666
 GlyphClass: 2
 Flags: W
@@ -29376,7 +29262,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" pabeng viramabeng sabeng
 EndChar
 
 StartChar: phabeng_viramabeng_ttabeng
-Encoding: 65699 -1 315
+Encoding: 65699 -1 314
 Width: 606
 GlyphClass: 2
 Flags: W
@@ -29499,7 +29385,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" phabeng viramabeng ttabeng
 EndChar
 
 StartChar: phabeng_viramabeng_rabeng
-Encoding: 65700 -1 316
+Encoding: 65700 -1 315
 Width: 694
 GlyphClass: 2
 Flags: W
@@ -29605,7 +29491,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" phabeng glyph437
 EndChar
 
 StartChar: phabeng_viramabeng_labeng
-Encoding: 65701 -1 317
+Encoding: 65701 -1 316
 Width: 605
 GlyphClass: 2
 Flags: W
@@ -29719,7 +29605,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" phabeng viramabeng labeng
 EndChar
 
 StartChar: babeng_viramabeng_jabeng
-Encoding: 65702 -1 318
+Encoding: 65702 -1 317
 Width: 759
 GlyphClass: 2
 Flags: W
@@ -29836,7 +29722,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng jabeng
 EndChar
 
 StartChar: babeng_viramabeng_jhabeng
-Encoding: 65703 -1 319
+Encoding: 65703 -1 318
 Width: 540
 GlyphClass: 2
 Flags: W
@@ -29945,7 +29831,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng jhabeng
 EndChar
 
 StartChar: babeng_viramabeng_ddabeng
-Encoding: 65704 -1 320
+Encoding: 65704 -1 319
 Width: 567
 GlyphClass: 2
 Flags: W
@@ -30037,7 +29923,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng ddabeng
 EndChar
 
 StartChar: babeng_viramabeng_ddhabeng
-Encoding: 65705 -1 321
+Encoding: 65705 -1 320
 Width: 513
 GlyphClass: 2
 Flags: W
@@ -30123,7 +30009,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng ddhabeng
 EndChar
 
 StartChar: babeng_viramabeng_dabeng
-Encoding: 65706 -1 322
+Encoding: 65706 -1 321
 Width: 540
 GlyphClass: 2
 Flags: W
@@ -30202,7 +30088,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng dabeng
 EndChar
 
 StartChar: ba_virama_da_virama_ra
-Encoding: 65707 -1 323
+Encoding: 65707 -1 322
 Width: 558
 GlyphClass: 2
 Flags: W
@@ -30302,7 +30188,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng dabeng_v
 EndChar
 
 StartChar: babeng_viramabeng_dhabeng
-Encoding: 65708 -1 324
+Encoding: 65708 -1 323
 Width: 552
 GlyphClass: 2
 Flags: W
@@ -30411,7 +30297,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng dhabeng
 EndChar
 
 StartChar: babeng_viramabeng_babeng
-Encoding: 65709 -1 325
+Encoding: 65709 -1 324
 Width: 716
 GlyphClass: 2
 Flags: W
@@ -30495,7 +30381,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" babeng babeng viramaben
 EndChar
 
 StartChar: babeng_viramabeng_bhabeng
-Encoding: 65710 -1 326
+Encoding: 65710 -1 325
 Width: 581
 GlyphClass: 2
 Flags: W
@@ -30599,7 +30485,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng bhabeng
 EndChar
 
 StartChar: babeng_viramabeng_rabeng
-Encoding: 65711 -1 327
+Encoding: 65711 -1 326
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -30692,7 +30578,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" babeng glyph437
 EndChar
 
 StartChar: ba_virama_ra_uvowel
-Encoding: 65712 -1 328
+Encoding: 65712 -1 327
 Width: 639
 GlyphClass: 2
 Flags: W
@@ -30798,7 +30684,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" babeng_viramabeng_raben
 EndChar
 
 StartChar: ba_virama_ra_uuvowel
-Encoding: 65713 -1 329
+Encoding: 65713 -1 328
 Width: 623
 GlyphClass: 2
 Flags: W
@@ -30906,7 +30792,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" babeng_viramabeng_raben
 EndChar
 
 StartChar: babeng_viramabeng_labeng
-Encoding: 65714 -1 330
+Encoding: 65714 -1 329
 Width: 489
 GlyphClass: 2
 Flags: W
@@ -31008,7 +30894,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" babeng viramabeng labeng
 EndChar
 
 StartChar: bhabeng_viramabeng_rabeng
-Encoding: 65715 -1 331
+Encoding: 65715 -1 330
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -31098,7 +30984,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" bhabeng glyph437
 EndChar
 
 StartChar: bha_virama_ra_uvowel
-Encoding: 65716 -1 332
+Encoding: 65716 -1 331
 Width: 696
 GlyphClass: 2
 Flags: W
@@ -31209,7 +31095,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" bhabeng_viramabeng_rabe
 EndChar
 
 StartChar: bha_virama_ra_uuvowel
-Encoding: 65717 -1 333
+Encoding: 65717 -1 332
 Width: 700
 GlyphClass: 2
 Flags: W
@@ -31323,7 +31209,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" bhabeng_viramabeng_rabe
 EndChar
 
 StartChar: bhabeng_viramabeng_labeng
-Encoding: 65718 -1 334
+Encoding: 65718 -1 333
 Width: 579
 GlyphClass: 2
 Flags: W
@@ -31439,7 +31325,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" bhabeng viramabeng labeng
 EndChar
 
 StartChar: mabeng_viramabeng_tabeng
-Encoding: 65719 -1 335
+Encoding: 65719 -1 334
 Width: 542
 GlyphClass: 2
 Flags: W
@@ -31543,7 +31429,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng tabeng
 EndChar
 
 StartChar: mabeng_viramabeng_dabeng
-Encoding: 65720 -1 336
+Encoding: 65720 -1 335
 Width: 723
 GlyphClass: 2
 Flags: W
@@ -31634,7 +31520,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng dabeng
 EndChar
 
 StartChar: mabeng_viramabeng_nabeng
-Encoding: 65721 -1 337
+Encoding: 65721 -1 336
 Width: 425
 GlyphClass: 2
 Flags: W
@@ -31724,7 +31610,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng nabeng
 EndChar
 
 StartChar: mabeng_viramabeng_pabeng
-Encoding: 65722 -1 338
+Encoding: 65722 -1 337
 Width: 891
 GlyphClass: 2
 Flags: W
@@ -31846,7 +31732,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng pabeng
 EndChar
 
 StartChar: ma_virama_pa_virama_ra
-Encoding: 65723 -1 339
+Encoding: 65723 -1 338
 Width: 871
 GlyphClass: 2
 Flags: W
@@ -31984,7 +31870,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng pabeng_v
 EndChar
 
 StartChar: mabeng_viramabeng_phabeng
-Encoding: 65724 -1 340
+Encoding: 65724 -1 339
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -32094,7 +31980,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng phabeng
 EndChar
 
 StartChar: ma_virama_pha_virama_ra
-Encoding: 65725 -1 341
+Encoding: 65725 -1 340
 Width: 732
 GlyphClass: 2
 Flags: W
@@ -32219,7 +32105,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng phabeng_
 EndChar
 
 StartChar: mabeng_viramabeng_babeng
-Encoding: 65726 -1 342
+Encoding: 65726 -1 341
 Width: 453
 GlyphClass: 2
 Flags: W
@@ -32316,7 +32202,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" mabeng babeng_viramaben
 EndChar
 
 StartChar: mabeng_viramabeng_bhabeng
-Encoding: 65727 -1 343
+Encoding: 65727 -1 342
 Width: 608
 GlyphClass: 2
 Flags: W
@@ -32429,7 +32315,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng bhabeng
 EndChar
 
 StartChar: ma_virama_bha_virama_ra
-Encoding: 65728 -1 344
+Encoding: 65728 -1 343
 Width: 562
 GlyphClass: 2
 Flags: W
@@ -32557,7 +32443,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng bhabeng_
 EndChar
 
 StartChar: mabeng_viramabeng_mabeng
-Encoding: 65729 -1 345
+Encoding: 65729 -1 344
 Width: 571
 GlyphClass: 2
 Flags: W
@@ -32656,7 +32542,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng mabeng
 EndChar
 
 StartChar: mabeng_viramabeng_rabeng
-Encoding: 65730 -1 346
+Encoding: 65730 -1 345
 Width: 548
 GlyphClass: 2
 Flags: W
@@ -32761,7 +32647,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" mabeng glyph437
 EndChar
 
 StartChar: mabeng_viramabeng_labeng
-Encoding: 65731 -1 347
+Encoding: 65731 -1 346
 Width: 532
 GlyphClass: 2
 Flags: W
@@ -32889,7 +32775,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng labeng
 EndChar
 
 StartChar: yabeng_viramabeng_rabeng
-Encoding: 65732 -1 348
+Encoding: 65732 -1 347
 Width: 483
 GlyphClass: 2
 Flags: W
@@ -32973,7 +32859,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" yabeng glyph437
 EndChar
 
 StartChar: rabeng_uvowelbeng
-Encoding: 65733 -1 349
+Encoding: 65733 -1 348
 Width: 590
 GlyphClass: 2
 Flags: W
@@ -33074,7 +32960,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" rabeng uvowelbeng
 EndChar
 
 StartChar: rabeng_uuvowelbeng
-Encoding: 65734 -1 350
+Encoding: 65734 -1 349
 Width: 560
 GlyphClass: 2
 Flags: W
@@ -33176,7 +33062,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" rabeng uuvowelbeng
 EndChar
 
 StartChar: labeng_viramabeng_kabeng
-Encoding: 65735 -1 351
+Encoding: 65735 -1 350
 Width: 620
 GlyphClass: 2
 Flags: W
@@ -33287,7 +33173,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng kabeng
 EndChar
 
 StartChar: labeng_viramabeng_gabeng
-Encoding: 65736 -1 352
+Encoding: 65736 -1 351
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -33398,7 +33284,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng gabeng
 EndChar
 
 StartChar: la_virama_ga_zwnj_uvowel
-Encoding: 65737 -1 353
+Encoding: 65737 -1 352
 Width: 703
 GlyphClass: 2
 Flags: W
@@ -33540,7 +33426,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" labeng_viramabeng_gaben
 EndChar
 
 StartChar: labeng_viramabeng_ghabeng
-Encoding: 65738 -1 354
+Encoding: 65738 -1 353
 Width: 790
 GlyphClass: 2
 Flags: W
@@ -33642,7 +33528,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ghabeng
 EndChar
 
 StartChar: labeng_viramabeng_ttabeng
-Encoding: 65739 -1 355
+Encoding: 65739 -1 354
 Width: 638
 GlyphClass: 2
 Flags: W
@@ -33771,7 +33657,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ttabeng
 EndChar
 
 StartChar: la_virama_tta_virama_ra
-Encoding: 65740 -1 356
+Encoding: 65740 -1 355
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -33926,7 +33812,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ttabeng_
 EndChar
 
 StartChar: labeng_viramabeng_ddabeng
-Encoding: 65741 -1 357
+Encoding: 65741 -1 356
 Width: 661
 GlyphClass: 2
 Flags: W
@@ -34029,7 +33915,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ddabeng
 EndChar
 
 StartChar: la_virama_dda_virama_ra
-Encoding: 65742 -1 358
+Encoding: 65742 -1 357
 Width: 668
 GlyphClass: 2
 Flags: W
@@ -34147,7 +34033,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ddabeng_
 EndChar
 
 StartChar: labeng_viramabeng_ddhabeng
-Encoding: 65743 -1 359
+Encoding: 65743 -1 358
 Width: 638
 GlyphClass: 2
 Flags: W
@@ -34276,7 +34162,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ddhabeng
 EndChar
 
 StartChar: labeng_viramabeng_dabeng
-Encoding: 65744 -1 360
+Encoding: 65744 -1 359
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -34369,7 +34255,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng dabeng
 EndChar
 
 StartChar: labeng_viramabeng_pabeng
-Encoding: 65745 -1 361
+Encoding: 65745 -1 360
 Width: 549
 GlyphClass: 2
 Flags: W
@@ -34474,7 +34360,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng pabeng
 EndChar
 
 StartChar: labeng_viramabeng_phabeng
-Encoding: 65746 -1 362
+Encoding: 65746 -1 361
 Width: 826
 GlyphClass: 2
 Flags: W
@@ -34584,7 +34470,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng phabeng
 EndChar
 
 StartChar: labeng_viramabeng_babeng
-Encoding: 65747 -1 363
+Encoding: 65747 -1 362
 Width: 528
 GlyphClass: 2
 Flags: W
@@ -34681,7 +34567,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" gabeng babeng_viramaben
 EndChar
 
 StartChar: labeng_viramabeng_mabeng
-Encoding: 65748 -1 364
+Encoding: 65748 -1 363
 Width: 681
 GlyphClass: 2
 Flags: W
@@ -34782,7 +34668,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng mabeng
 EndChar
 
 StartChar: labeng_viramabeng_rabeng
-Encoding: 65749 -1 365
+Encoding: 65749 -1 364
 Width: 606
 GlyphClass: 2
 Flags: W
@@ -34884,7 +34770,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" labeng glyph437
 EndChar
 
 StartChar: labeng_viramabeng_labeng
-Encoding: 65750 -1 366
+Encoding: 65750 -1 365
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -35001,7 +34887,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng labeng
 EndChar
 
 StartChar: sha_zwnj_uvowel
-Encoding: 65751 -1 367
+Encoding: 65751 -1 366
 Width: 662
 GlyphClass: 2
 Flags: W
@@ -35129,7 +35015,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" shabeng zerowidthnonjoi
 EndChar
 
 StartChar: shabeng_viramabeng_cabeng
-Encoding: 65752 -1 368
+Encoding: 65752 -1 367
 Width: 610
 GlyphClass: 2
 Flags: W
@@ -35244,7 +35130,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" shabeng viramabeng cabeng
 EndChar
 
 StartChar: shabeng_viramabeng_chabeng
-Encoding: 65753 -1 369
+Encoding: 65753 -1 368
 Width: 712
 GlyphClass: 2
 Flags: W
@@ -35371,7 +35257,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" shabeng viramabeng chabeng
 EndChar
 
 StartChar: shabeng_viramabeng_tabeng
-Encoding: 65754 -1 370
+Encoding: 65754 -1 369
 Width: 572
 GlyphClass: 2
 Flags: W
@@ -35495,7 +35381,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" shabeng viramabeng tabeng
 EndChar
 
 StartChar: shabeng_viramabeng_nabeng
-Encoding: 65755 -1 371
+Encoding: 65755 -1 370
 Width: 484
 GlyphClass: 2
 Flags: W
@@ -35601,7 +35487,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" shabeng viramabeng nabeng
 EndChar
 
 StartChar: shabeng_viramabeng_mabeng
-Encoding: 65756 -1 372
+Encoding: 65756 -1 371
 Width: 599
 GlyphClass: 2
 Flags: W
@@ -35713,7 +35599,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" shabeng viramabeng mabeng
 EndChar
 
 StartChar: shabeng_viramabeng_babeng
-Encoding: 65757 -1 373
+Encoding: 65757 -1 372
 Width: 439
 GlyphClass: 2
 Flags: W
@@ -35819,7 +35705,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" shabeng babeng_viramabe
 EndChar
 
 StartChar: shabeng_viramabeng_rabeng
-Encoding: 65758 -1 374
+Encoding: 65758 -1 373
 Width: 559
 GlyphClass: 2
 Flags: W
@@ -35930,7 +35816,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" shabeng glyph437
 EndChar
 
 StartChar: sha_virama_ra_iivowel
-Encoding: 65759 -1 375
+Encoding: 65759 -1 374
 Width: 800
 GlyphClass: 2
 Flags: W
@@ -36074,7 +35960,7 @@ EndSplineSet
 EndChar
 
 StartChar: sha_virama_ra_uvowel
-Encoding: 65760 -1 376
+Encoding: 65760 -1 375
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -36207,7 +36093,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" shabeng_viramabeng_rabe
 EndChar
 
 StartChar: sha_virama_ra_uuvowel
-Encoding: 65761 -1 377
+Encoding: 65761 -1 376
 Width: 737
 GlyphClass: 2
 Flags: W
@@ -36339,7 +36225,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" shabeng_viramabeng_rabe
 EndChar
 
 StartChar: shabeng_viramabeng_labeng
-Encoding: 65762 -1 378
+Encoding: 65762 -1 377
 Width: 502
 GlyphClass: 2
 Flags: W
@@ -36461,7 +36347,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" shabeng viramabeng labeng
 EndChar
 
 StartChar: ssabeng_viramabeng_kabeng
-Encoding: 65763 -1 379
+Encoding: 65763 -1 378
 Width: 514
 GlyphClass: 2
 Flags: W
@@ -36569,7 +36455,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng kabeng
 EndChar
 
 StartChar: ssa_virama_ka_virama_ra
-Encoding: 65764 -1 380
+Encoding: 65764 -1 379
 Width: 689
 GlyphClass: 2
 Flags: W
@@ -36704,7 +36590,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng kabeng_
 EndChar
 
 StartChar: ssabeng_viramabeng_ttabeng
-Encoding: 65765 -1 381
+Encoding: 65765 -1 380
 Width: 461
 GlyphClass: 2
 Flags: W
@@ -36833,7 +36719,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng ttabeng
 EndChar
 
 StartChar: ssa_virama_tta_virama_ra
-Encoding: 65766 -1 382
+Encoding: 65766 -1 381
 Width: 490
 GlyphClass: 2
 Flags: W
@@ -36980,7 +36866,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng ttabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_tthabeng
-Encoding: 65767 -1 383
+Encoding: 65767 -1 382
 Width: 501
 GlyphClass: 2
 Flags: W
@@ -37095,7 +36981,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng tthaben
 EndChar
 
 StartChar: ssabeng_viramabeng_nnabeng
-Encoding: 65768 -1 384
+Encoding: 65768 -1 383
 Width: 668
 GlyphClass: 2
 Flags: W
@@ -37212,7 +37098,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng nnabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_pabeng
-Encoding: 65769 -1 385
+Encoding: 65769 -1 384
 Width: 837
 GlyphClass: 2
 Flags: W
@@ -37331,7 +37217,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng pabeng
 EndChar
 
 StartChar: ssa_virama_pa_virama_ra
-Encoding: 65770 -1 386
+Encoding: 65770 -1 385
 Width: 835
 GlyphClass: 2
 Flags: W
@@ -37474,7 +37360,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng pabeng_
 EndChar
 
 StartChar: ssabeng_viramabeng_phabeng
-Encoding: 65771 -1 387
+Encoding: 65771 -1 386
 Width: 689
 GlyphClass: 2
 Flags: W
@@ -37581,7 +37467,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng phabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_rabeng
-Encoding: 65772 -1 388
+Encoding: 65772 -1 387
 Width: 487
 GlyphClass: 2
 Flags: W
@@ -37669,7 +37555,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" ssabeng glyph437
 EndChar
 
 StartChar: ssabeng_viramabeng_babeng
-Encoding: 65773 -1 389
+Encoding: 65773 -1 388
 Width: 406
 GlyphClass: 2
 Flags: W
@@ -37765,7 +37651,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssabeng babeng_viramabe
 EndChar
 
 StartChar: ssabeng_viramabeng_mabeng
-Encoding: 65774 -1 390
+Encoding: 65774 -1 389
 Width: 544
 GlyphClass: 2
 Flags: W
@@ -37867,7 +37753,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" ssabeng viramabeng mabeng
 EndChar
 
 StartChar: sabeng_viramabeng_kabeng
-Encoding: 65775 -1 391
+Encoding: 65775 -1 390
 Width: 554
 GlyphClass: 2
 Flags: W
@@ -37975,7 +37861,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng kabeng
 EndChar
 
 StartChar: sa_virama_ka_virama_ra
-Encoding: 65776 -1 392
+Encoding: 65776 -1 391
 Width: 681
 GlyphClass: 2
 Flags: W
@@ -38110,7 +37996,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng kabeng_v
 EndChar
 
 StartChar: glyph391
-Encoding: 65777 -1 393
+Encoding: 65777 -1 392
 Width: 684
 GlyphClass: 2
 Flags: W
@@ -38274,7 +38160,7 @@ EndSplineSet
 EndChar
 
 StartChar: sabeng_viramabeng_khabeng
-Encoding: 65778 -1 394
+Encoding: 65778 -1 393
 Width: 646
 GlyphClass: 2
 Flags: W
@@ -38400,7 +38286,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng khabeng
 EndChar
 
 StartChar: sabeng_viramabeng_ttabeng
-Encoding: 65779 -1 395
+Encoding: 65779 -1 394
 Width: 698
 GlyphClass: 2
 Flags: W
@@ -38530,7 +38416,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng ttabeng
 EndChar
 
 StartChar: sa_virama_tta_virama_ra
-Encoding: 65780 -1 396
+Encoding: 65780 -1 395
 Width: 583
 GlyphClass: 2
 Flags: W
@@ -38681,7 +38567,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng ttabeng_
 EndChar
 
 StartChar: glyph395
-Encoding: 65781 -1 397
+Encoding: 65781 -1 396
 Width: 688
 GlyphClass: 2
 Flags: W
@@ -38848,7 +38734,7 @@ EndSplineSet
 EndChar
 
 StartChar: sabeng_viramabeng_tabeng
-Encoding: 65782 -1 398
+Encoding: 65782 -1 397
 Width: 553
 GlyphClass: 2
 Flags: W
@@ -38957,7 +38843,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng tabeng
 EndChar
 
 StartChar: sa_virama_ta_uvowel
-Encoding: 65783 -1 399
+Encoding: 65783 -1 398
 Width: 603
 GlyphClass: 2
 Flags: W
@@ -39077,7 +38963,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" sabeng_viramabeng_taben
 EndChar
 
 StartChar: sa_virama_ta_virama_ra
-Encoding: 65784 -1 400
+Encoding: 65784 -1 399
 Width: 529
 GlyphClass: 2
 Flags: W
@@ -39187,7 +39073,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng tabeng_v
 EndChar
 
 StartChar: sa_virama_ta_virama_ba
-Encoding: 65785 -1 401
+Encoding: 65785 -1 400
 Width: 576
 GlyphClass: 2
 Flags: W
@@ -39304,7 +39190,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng tabeng b
 EndChar
 
 StartChar: sabeng_viramabeng_thabeng
-Encoding: 65786 -1 402
+Encoding: 65786 -1 401
 Width: 509
 GlyphClass: 2
 Flags: W
@@ -39410,7 +39296,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng thabeng
 EndChar
 
 StartChar: sabeng_viramabeng_nabeng
-Encoding: 65787 -1 403
+Encoding: 65787 -1 402
 Width: 487
 GlyphClass: 2
 Flags: W
@@ -39505,7 +39391,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng nabeng
 EndChar
 
 StartChar: sabeng_viramabeng_pabeng
-Encoding: 65788 -1 404
+Encoding: 65788 -1 403
 Width: 882
 GlyphClass: 2
 Flags: W
@@ -39627,7 +39513,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng pabeng
 EndChar
 
 StartChar: sa_virama_pa_virama_ra
-Encoding: 65789 -1 405
+Encoding: 65789 -1 404
 Width: 884
 GlyphClass: 2
 Flags: W
@@ -39765,7 +39651,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng pabeng_v
 EndChar
 
 StartChar: glyph404
-Encoding: 65790 -1 406
+Encoding: 65790 -1 405
 Width: 884
 GlyphClass: 2
 Flags: W
@@ -39931,7 +39817,7 @@ EndSplineSet
 EndChar
 
 StartChar: sa_virama_pa_virama_la
-Encoding: 65791 -1 407
+Encoding: 65791 -1 406
 Width: 882
 GlyphClass: 2
 Flags: W
@@ -40081,7 +39967,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng pabeng v
 EndChar
 
 StartChar: sabeng_viramabeng_phabeng
-Encoding: 65792 -1 408
+Encoding: 65792 -1 407
 Width: 803
 GlyphClass: 2
 Flags: W
@@ -40191,7 +40077,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng phabeng
 EndChar
 
 StartChar: sabeng_viramabeng_babeng
-Encoding: 65793 -1 409
+Encoding: 65793 -1 408
 Width: 468
 GlyphClass: 2
 Flags: W
@@ -40286,7 +40172,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" sabeng babeng_viramaben
 EndChar
 
 StartChar: sabeng_viramabeng_mabeng
-Encoding: 65794 -1 410
+Encoding: 65794 -1 409
 Width: 697
 GlyphClass: 2
 Flags: W
@@ -40385,7 +40271,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng mabeng
 EndChar
 
 StartChar: sabeng_viramabeng_rabeng
-Encoding: 65795 -1 411
+Encoding: 65795 -1 410
 Width: 570
 GlyphClass: 2
 Flags: W
@@ -40481,7 +40367,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" sabeng glyph437
 EndChar
 
 StartChar: sa_virama_ra_uvowel
-Encoding: 65796 -1 412
+Encoding: 65796 -1 411
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -40598,7 +40484,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" sabeng_viramabeng_raben
 EndChar
 
 StartChar: sa_virama_ra_uuvowel
-Encoding: 65797 -1 413
+Encoding: 65797 -1 412
 Width: 680
 GlyphClass: 2
 Flags: W
@@ -40707,7 +40593,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" sabeng_viramabeng_raben
 EndChar
 
 StartChar: sabeng_viramabeng_labeng
-Encoding: 65798 -1 414
+Encoding: 65798 -1 413
 Width: 507
 GlyphClass: 2
 Flags: W
@@ -40826,7 +40712,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" sabeng viramabeng labeng
 EndChar
 
 StartChar: habeng_uvowelbeng
-Encoding: 65799 -1 415
+Encoding: 65799 -1 414
 Width: 491
 GlyphClass: 2
 Flags: W
@@ -40918,7 +40804,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" habeng uvowelbeng
 EndChar
 
 StartChar: habeng_rvocalicvowelbeng
-Encoding: 65800 -1 416
+Encoding: 65800 -1 415
 Width: 575
 GlyphClass: 2
 Flags: W
@@ -41013,7 +40899,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" habeng rvocalicvowelben
 EndChar
 
 StartChar: habeng_viramabeng_nnabeng
-Encoding: 65801 -1 417
+Encoding: 65801 -1 416
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -41115,7 +41001,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" habeng viramabeng nnabeng
 EndChar
 
 StartChar: habeng_viramabeng_nabeng
-Encoding: 65802 -1 418
+Encoding: 65802 -1 417
 Width: 572
 GlyphClass: 2
 Flags: W
@@ -41213,7 +41099,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" habeng viramabeng nabeng
 EndChar
 
 StartChar: habeng_viramabeng_babeng
-Encoding: 65803 -1 419
+Encoding: 65803 -1 418
 Width: 718
 GlyphClass: 2
 Flags: W
@@ -41282,7 +41168,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" habeng babeng_viramaben
 EndChar
 
 StartChar: habeng_viramabeng_mabeng
-Encoding: 65804 -1 420
+Encoding: 65804 -1 419
 Width: 625
 GlyphClass: 2
 Flags: W
@@ -41404,7 +41290,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" habeng viramabeng mabeng
 EndChar
 
 StartChar: habeng_viramabeng_rabeng
-Encoding: 65805 -1 421
+Encoding: 65805 -1 420
 Width: 493
 GlyphClass: 2
 Flags: W
@@ -41507,7 +41393,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" habeng glyph437
 EndChar
 
 StartChar: habeng_viramabeng_labeng
-Encoding: 65806 -1 422
+Encoding: 65806 -1 421
 Width: 433
 GlyphClass: 2
 Flags: W
@@ -41617,7 +41503,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" habeng viramabeng labeng
 EndChar
 
 StartChar: rrabeng_viramabeng_gabeng
-Encoding: 65807 -1 423
+Encoding: 65807 -1 422
 Width: 978
 GlyphClass: 2
 Flags: W
@@ -41759,7 +41645,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" rrabeng viramabeng gabeng
 EndChar
 
 StartChar: rrabeng_viramabeng_rabeng
-Encoding: 65808 -1 424
+Encoding: 65808 -1 423
 Width: 557
 GlyphClass: 2
 Flags: W
@@ -41863,7 +41749,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" rrabeng glyph437
 EndChar
 
 StartChar: rhabeng_viramabeng_rabeng
-Encoding: 65809 -1 425
+Encoding: 65809 -1 424
 Width: 447
 GlyphClass: 2
 Flags: W
@@ -41961,7 +41847,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" rhabeng glyph437
 EndChar
 
 StartChar: yyabeng_viramabeng_rabeng
-Encoding: 65810 -1 426
+Encoding: 65810 -1 425
 Width: 510
 GlyphClass: 2
 Flags: W
@@ -42055,7 +41941,7 @@ Ligature2: "'vatu' Vattu Variants lookup 8-1" yyabeng glyph437
 EndChar
 
 StartChar: u09F0_uvowelbeng
-Encoding: 65811 -1 427
+Encoding: 65811 -1 426
 Width: 579
 GlyphClass: 2
 Flags: W
@@ -42154,7 +42040,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" u09F0 uvowelbeng
 EndChar
 
 StartChar: u09F0_uuvowelbeng
-Encoding: 65812 -1 428
+Encoding: 65812 -1 427
 Width: 565
 GlyphClass: 2
 Flags: W
@@ -42254,8 +42140,8 @@ EndSplineSet
 Ligature2: "'blws' Below Base Substitutions lookup 10-1" u09F0 uuvowelbeng
 EndChar
 
-StartChar: u09F1_uvowelbeng
-Encoding: 65813 -1 429
+StartChar: vabeng_uvowelbeng
+Encoding: 65813 -1 428
 Width: 609
 GlyphClass: 2
 Flags: W
@@ -42355,11 +42241,11 @@ SplineSet
  281 139 281 139 322 80 c 1,60,-1
  322 80 l 1,53,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 10-1" u09F1 uvowelbeng
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" vabeng uvowelbeng
 EndChar
 
-StartChar: u09F1_uuvowelbeng
-Encoding: 65814 -1 430
+StartChar: vabeng_uuvowelbeng
+Encoding: 65814 -1 429
 Width: 594
 GlyphClass: 2
 Flags: W
@@ -42458,11 +42344,11 @@ SplineSet
  280 136 280 136 323 75 c 1,58,-1
  323 75 l 1,51,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 10-1" u09F1 uuvowelbeng
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" vabeng uuvowelbeng
 EndChar
 
-StartChar: u09F1_viramabeng_rabeng
-Encoding: 65815 -1 431
+StartChar: vabeng_viramabeng_rabeng
+Encoding: 65815 -1 430
 Width: 488
 GlyphClass: 2
 Flags: W
@@ -42547,11 +42433,11 @@ SplineSet
  320 139 320 139 358 85 c 1,51,-1
  358 85 l 1,44,-1
 EndSplineSet
-Ligature2: "'vatu' Vattu Variants lookup 8-1" u09F1 glyph437
+Ligature2: "'vatu' Vattu Variants lookup 8-1" vabeng glyph437
 EndChar
 
 StartChar: glyph430
-Encoding: 65816 -1 432
+Encoding: 65816 -1 431
 Width: 220
 GlyphClass: 2
 Flags: W
@@ -42651,7 +42537,7 @@ EndSplineSet
 EndChar
 
 StartChar: candrabindubeng_iivowelbeng
-Encoding: 65817 -1 433
+Encoding: 65817 -1 432
 Width: 220
 GlyphClass: 2
 Flags: W
@@ -42762,7 +42648,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 9-1" iivowelbeng candrabindub
 EndChar
 
 StartChar: candrabindu_aulengthmark
-Encoding: 65818 -1 434
+Encoding: 65818 -1 433
 Width: 220
 GlyphClass: 2
 Flags: W
@@ -42871,7 +42757,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 9-1" aulengthmarkbeng candrab
 EndChar
 
 StartChar: evowelbeng.init
-Encoding: 65819 -1 435
+Encoding: 65819 -1 434
 Width: 312
 GlyphClass: 2
 Flags: W
@@ -42940,7 +42826,7 @@ EndSplineSet
 EndChar
 
 StartChar: aivowelbeng.init
-Encoding: 65820 -1 436
+Encoding: 65820 -1 435
 Width: 311
 GlyphClass: 2
 Flags: W
@@ -43033,7 +42919,7 @@ EndSplineSet
 EndChar
 
 StartChar: rabeng_viramabeng
-Encoding: 65821 -1 437
+Encoding: 65821 -1 436
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -43083,7 +42969,7 @@ Ligature2: "'rphf' Reph Form lookup 3-1" u09F0 viramabeng
 EndChar
 
 StartChar: rabeng_viramabeng.blwf
-Encoding: 65822 -1 438
+Encoding: 65822 -1 437
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -43151,7 +43037,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph437
-Encoding: 65823 -1 439
+Encoding: 65823 -1 438
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -43216,7 +43102,7 @@ Ligature2: "'blwf' Below Base Forms lookup 4-1" viramabeng u09F0
 EndChar
 
 StartChar: glyph438
-Encoding: 65824 -1 440
+Encoding: 65824 -1 439
 Width: 740
 GlyphClass: 2
 Flags: W
@@ -43280,7 +43166,7 @@ EndSplineSet
 EndChar
 
 StartChar: babeng_viramabeng
-Encoding: 65853 -1 441
+Encoding: 65853 -1 440
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -43350,7 +43236,7 @@ Ligature2: "'blwf' Below Base Forms lookup 4-1" viramabeng babeng
 EndChar
 
 StartChar: bn_ka_Ta_ra
-Encoding: 65865 -1 442
+Encoding: 65865 -1 441
 Width: 462
 GlyphClass: 3
 Flags: W
@@ -43451,7 +43337,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" kabeng viramabeng ttabeng_
 EndChar
 
 StartChar: bn_ma_tha
-Encoding: 65866 -1 443
+Encoding: 65866 -1 442
 Width: 546
 GlyphClass: 3
 Flags: W
@@ -43528,7 +43414,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" mabeng viramabeng thabeng
 EndChar
 
 StartChar: bn_la_ta
-Encoding: 65867 -1 444
+Encoding: 65867 -1 443
 Width: 522
 GlyphClass: 3
 Flags: W
@@ -43601,7 +43487,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng tabeng
 EndChar
 
 StartChar: bn_la_dha
-Encoding: 65868 -1 445
+Encoding: 65868 -1 444
 Width: 658
 GlyphClass: 3
 Flags: W
@@ -43676,7 +43562,7 @@ Ligature2: "'pres' Pre Base Substitutions lookup 7-1" labeng viramabeng ddhabeng
 EndChar
 
 StartChar: gandamarkbeng
-Encoding: 2555 2555 446
+Encoding: 2555 2555 445
 Width: 374
 Flags: W
 LayerCount: 2
@@ -43695,7 +43581,7 @@ EndSplineSet
 EndChar
 
 StartChar: inr_currency
-Encoding: 8377 8377 447
+Encoding: 8377 8377 446
 Width: 408
 VWidth: 1024
 Flags: W
