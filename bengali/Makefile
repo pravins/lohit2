@@ -8,8 +8,8 @@ test: test-ttf
 
 ttf: ttf-bin
 	@echo "----------Generating ttf from sfd file----------"
-	python ../scripts/apply_featurefile.py Lohit-Bengali.sfd Lohit-Bengali.fea	
-	./generate.pe *.sfd
+	python apply_featurefile.py Lohit-Bengali.sfd Lohit-Bengali.fea	
+	../generate.pe *.sfd
 	@echo "----------Finished generating ttf file----------"
 	@echo " "
 

@@ -3,13 +3,14 @@ FontName: Lohit-Bengali
 FullName: Lohit Bengali
 FamilyName: Lohit Bengali
 Weight: Book
-Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
-Version: 2.5.3
+Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore At redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
+Version: 2.91.0
 ItalicAngle: 0
 UnderlinePosition: -300
 UnderlineWidth: 20
 Ascent: 615
 Descent: 154
+sfntRevision: 0x00028000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
@@ -19,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1395393946
+ModificationTime: 1395812759
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -357,7 +358,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3" 
+LangName: 1033 "" "" "Regular" "Lohit Bengali : 26-3-2014" "" "Version 2.91.0" "" "Lohit is trademark of RedHat, Inc." "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -8907,16 +8908,16 @@ AnchorPoint: "Anchor-0" 360 -5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-288 -115 m 1,0,1
- 271 -115 271 -115 259.5 -103.5 c 0,2,3
- 248 -92 248 -92 248 -75 c 256,4,5
- 248 -58 248 -58 259.5 -46.5 c 0,6,7
- 271 -35 271 -35 288 -35 c 256,8,9
- 305 -35 305 -35 316.5 -46.5 c 0,10,11
- 328 -58 328 -58 328 -75 c 256,12,13
- 328 -92 328 -92 316.5 -103.5 c 0,14,15
- 305 -115 305 -115 288 -115 c 1,16,-1
- 288 -115 l 1,0,1
+288 -115 m 1
+ 271 -115 271 -115 259.5 -103.5 c 0
+ 248 -92 248 -92 248 -75 c 256
+ 248 -58 248 -58 259.5 -46.5 c 0
+ 271 -35 271 -35 288 -35 c 256
+ 305 -35 305 -35 316.5 -46.5 c 0
+ 328 -58 328 -58 328 -75 c 256
+ 328 -92 328 -92 316.5 -103.5 c 0
+ 305 -115 305 -115 288 -115 c 1
+ 288 -115 l 1
 EndSplineSet
 Refer: 78 2465 S 1 0 0 1 0 0 2
 EndChar

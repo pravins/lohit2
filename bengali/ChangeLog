@@ -1,7 +1,8 @@
 				  lohit-bengali
 Current Version :- 2.91.0
 
-* Mon Mar 21 2013 Sneha Kore <skore@redhat.com> - 2.91.0
+* Mon Mar 21  2013 Sneha Kore <skore@redhat.com> - 2.91.0
+- font Information updated in sfd. SFD file modified.
 - "copy reference" feature implemented
 - Script execution for Automated Testing 
 - Test-file created 
