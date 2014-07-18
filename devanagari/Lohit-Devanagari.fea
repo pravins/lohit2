@@ -352,7 +352,7 @@ lookup sub_chain_presdev2_0 {
 } sub_chain_presdev2_0;
 
 lookup PreBaseSubstitutionslookup2 {
-  lookupflag IgnoreBaseGlyphs, IgnoreLigatures;
+  lookupflag IgnoreBaseGlyphs IgnoreLigatures;
     sub \isigndeva.alt2 \anusvaradeva  by \isigndeva_anusvara.alt2;
     sub \isigndeva \anusvaradeva  by \isigndeva_anusvaradeva;
     sub \isigndeva \radeva_viramadeva  by \isign_ra_virama;
