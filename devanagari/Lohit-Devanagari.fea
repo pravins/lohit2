@@ -292,7 +292,6 @@ lookup PresSub_Chain_VowelSign {
 	\sadeva_viramadeva_radeva \jadeva_viramadeva_jadeva 
 	\hadeva_viramadeva_yadeva \sa_virama_ta_virama_radeva 
 	\ladeva_viramadeva_radeva ]  by [\isigndeva.alt1 ];
-  subtable;
     sub [\isigndeva ]' [\radeva \rradeva ]  by [\isigndeva.alt3 ];
 } PresSub_Chain_VowelSign;
 
@@ -442,11 +441,8 @@ lookup LigatureSubstitutionlookup28 {
 lookup PstsSub_Chain_Eyelash {
   lookupflag 0;
     sub  \rradeva'lookup LigatureSubstitutionlookup28  \viramadeva'lookup LigatureSubstitutionlookup28  \yadeva  ;
-  subtable;
     sub  \rradeva'lookup LigatureSubstitutionlookup28  \viramadeva'lookup LigatureSubstitutionlookup28  \hadeva  ;
-  subtable;
     sub  \viramadeva_radeva'lookup LigatureSubstitutionlookup28  \zerowidthjoiner'lookup LigatureSubstitutionlookup28  \yadeva  ;
-  subtable;
     sub  \viramadeva_radeva'lookup LigatureSubstitutionlookup28  \zerowidthjoiner'lookup LigatureSubstitutionlookup28  \hadeva  ;
 } PstsSub_Chain_Eyelash;
 
