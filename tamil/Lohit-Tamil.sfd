@@ -13,7 +13,6 @@ Descent: 324
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 140 1710970845 9878666]
 FSType: 0
 OS2Version: 1
@@ -284,20 +283,21 @@ ShortTable: maxp 16
   0
 EndShort
 LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3" 
-Encoding: UnicodeBmp
+Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 44 17
+WinInfo: 0 42 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Tamil lookup 0 subtable" 
-BeginChars: 65649 247
+BeginChars: 503 247
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 256 -1 0
 Width: 983
 VWidth: 1023
 GlyphClass: 2
@@ -320,7 +320,7 @@ Validated: 1
 EndChar
 
 StartChar: .null
-Encoding: 0 0 1
+Encoding: 257 0 1
 Width: 0
 VWidth: 1023
 GlyphClass: 2
@@ -329,7 +329,7 @@ LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 12 12 2
+Encoding: 258 12 2
 Width: 0
 VWidth: 1023
 GlyphClass: 2
@@ -338,7 +338,7 @@ LayerCount: 2
 EndChar
 
 StartChar: space
-Encoding: 32 32 3
+Encoding: 259 32 3
 Width: 307
 VWidth: 1023
 GlyphClass: 2
@@ -347,7 +347,7 @@ LayerCount: 2
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 4
+Encoding: 260 33 4
 Width: 282
 VWidth: 1023
 GlyphClass: 2
@@ -381,7 +381,7 @@ Validated: 1
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 5
+Encoding: 261 34 5
 Width: 417
 VWidth: 1023
 GlyphClass: 2
@@ -406,7 +406,7 @@ Validated: 1
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 6
+Encoding: 262 35 6
 Width: 967
 VWidth: 1023
 GlyphClass: 2
@@ -454,7 +454,7 @@ Validated: 1
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 7
+Encoding: 263 36 7
 Width: 569
 VWidth: 1023
 GlyphClass: 2
@@ -510,7 +510,7 @@ Validated: 1
 EndChar
 
 StartChar: percent
-Encoding: 37 37 8
+Encoding: 264 37 8
 Width: 799
 VWidth: 1023
 GlyphClass: 2
@@ -582,7 +582,7 @@ Validated: 1
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 9
+Encoding: 265 38 9
 Width: 802
 VWidth: 1023
 GlyphClass: 2
@@ -646,7 +646,7 @@ Validated: 1
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 10
+Encoding: 266 39 10
 Width: 264
 VWidth: 1023
 GlyphClass: 2
@@ -666,7 +666,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 11
+Encoding: 267 40 11
 Width: 430
 VWidth: 1023
 GlyphClass: 2
@@ -692,7 +692,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 12
+Encoding: 268 41 12
 Width: 430
 VWidth: 1023
 GlyphClass: 2
@@ -718,7 +718,7 @@ Validated: 1
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 13
+Encoding: 269 42 13
 Width: 559
 GlyphClass: 2
 Flags: W
@@ -750,7 +750,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 43 43 14
+Encoding: 270 43 14
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -778,7 +778,7 @@ Validated: 1
 EndChar
 
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 271 44 15
 Width: 282
 VWidth: 1023
 GlyphClass: 2
@@ -805,7 +805,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 16
+Encoding: 272 45 16
 Width: 491
 VWidth: 1023
 GlyphClass: 2
@@ -825,7 +825,7 @@ Validated: 1
 EndChar
 
 StartChar: period
-Encoding: 46 46 17
+Encoding: 273 46 17
 Width: 282
 VWidth: 1023
 GlyphClass: 2
@@ -849,7 +849,7 @@ Validated: 1
 EndChar
 
 StartChar: slash
-Encoding: 47 47 18
+Encoding: 274 47 18
 Width: 491
 VWidth: 1023
 GlyphClass: 2
@@ -868,7 +868,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 48 48 19
+Encoding: 275 48 19
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -901,7 +901,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 49 49 20
+Encoding: 276 49 20
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -930,7 +930,7 @@ Validated: 1
 EndChar
 
 StartChar: two
-Encoding: 50 50 21
+Encoding: 277 50 21
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -971,7 +971,7 @@ Validated: 1
 EndChar
 
 StartChar: three
-Encoding: 51 51 22
+Encoding: 278 51 22
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1008,7 +1008,7 @@ Validated: 1
 EndChar
 
 StartChar: four
-Encoding: 52 52 23
+Encoding: 279 52 23
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1043,7 +1043,7 @@ Validated: 1
 EndChar
 
 StartChar: five
-Encoding: 53 53 24
+Encoding: 280 53 24
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1082,7 +1082,7 @@ Validated: 1
 EndChar
 
 StartChar: six
-Encoding: 54 54 25
+Encoding: 281 54 25
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1124,7 +1124,7 @@ Validated: 1
 EndChar
 
 StartChar: seven
-Encoding: 55 55 26
+Encoding: 282 55 26
 Width: 613
 VWidth: 1023
 GlyphClass: 2
@@ -1153,7 +1153,7 @@ Validated: 1
 EndChar
 
 StartChar: eight
-Encoding: 56 56 27
+Encoding: 283 56 27
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1203,7 +1203,7 @@ Validated: 5
 EndChar
 
 StartChar: nine
-Encoding: 57 57 28
+Encoding: 284 57 28
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1245,7 +1245,7 @@ Validated: 1
 EndChar
 
 StartChar: colon
-Encoding: 58 58 29
+Encoding: 285 58 29
 Width: 282
 VWidth: 1023
 GlyphClass: 2
@@ -1278,7 +1278,7 @@ Validated: 1
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 30
+Encoding: 286 59 30
 Width: 282
 VWidth: 1023
 GlyphClass: 2
@@ -1314,7 +1314,7 @@ Validated: 1
 EndChar
 
 StartChar: less
-Encoding: 60 60 31
+Encoding: 287 60 31
 Width: 677
 VWidth: 1023
 GlyphClass: 2
@@ -1335,7 +1335,7 @@ Validated: 1
 EndChar
 
 StartChar: equal
-Encoding: 61 61 32
+Encoding: 288 61 32
 Width: 491
 VWidth: 1023
 GlyphClass: 2
@@ -1360,7 +1360,7 @@ Validated: 1
 EndChar
 
 StartChar: greater
-Encoding: 62 62 33
+Encoding: 289 62 33
 Width: 677
 VWidth: 1023
 GlyphClass: 2
@@ -1381,7 +1381,7 @@ Validated: 1
 EndChar
 
 StartChar: question
-Encoding: 63 63 34
+Encoding: 290 63 34
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -1426,7 +1426,7 @@ Validated: 1
 EndChar
 
 StartChar: at
-Encoding: 64 64 35
+Encoding: 291 64 35
 Width: 1035
 VWidth: 1023
 GlyphClass: 2
@@ -1488,7 +1488,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 36
+Encoding: 292 91 36
 Width: 485
 VWidth: 1023
 GlyphClass: 2
@@ -1512,7 +1512,7 @@ Validated: 1
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 37
+Encoding: 293 92 37
 Width: 730
 VWidth: 1023
 GlyphClass: 2
@@ -1530,7 +1530,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 38
+Encoding: 294 93 38
 Width: 485
 VWidth: 1023
 GlyphClass: 2
@@ -1554,7 +1554,7 @@ Validated: 1
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 39
+Encoding: 295 94 39
 Width: 577
 VWidth: 1023
 GlyphClass: 2
@@ -1575,7 +1575,7 @@ Validated: 1
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 40
+Encoding: 296 95 40
 Width: 765
 VWidth: 1023
 GlyphClass: 2
@@ -1594,7 +1594,7 @@ Validated: 1
 EndChar
 
 StartChar: grave
-Encoding: 96 96 41
+Encoding: 297 96 41
 Width: 376
 VWidth: 1023
 GlyphClass: 2
@@ -1616,7 +1616,7 @@ Validated: 33
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 42
+Encoding: 298 123 42
 Width: 553
 VWidth: 1023
 GlyphClass: 2
@@ -1656,7 +1656,7 @@ Validated: 1
 EndChar
 
 StartChar: bar
-Encoding: 124 124 43
+Encoding: 299 124 43
 Width: 258
 VWidth: 1023
 GlyphClass: 2
@@ -1675,7 +1675,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 44
+Encoding: 300 125 44
 Width: 553
 VWidth: 1023
 GlyphClass: 2
@@ -1715,7 +1715,7 @@ Validated: 1
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 45
+Encoding: 301 126 45
 Width: 792
 VWidth: 1023
 GlyphClass: 2
@@ -1744,7 +1744,7 @@ Validated: 1
 EndChar
 
 StartChar: cent
-Encoding: 162 162 46
+Encoding: 302 162 46
 Width: 555
 VWidth: 1023
 GlyphClass: 2
@@ -1795,7 +1795,7 @@ Validated: 1
 EndChar
 
 StartChar: multiply
-Encoding: 215 215 47
+Encoding: 303 215 47
 Width: 532
 VWidth: 1023
 GlyphClass: 2
@@ -1821,7 +1821,7 @@ Validated: 1
 EndChar
 
 StartChar: divide
-Encoding: 247 247 48
+Encoding: 304 247 48
 Width: 590
 VWidth: 1023
 GlyphClass: 2
@@ -1859,7 +1859,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0964
-Encoding: 2404 2404 49
+Encoding: 305 2404 49
 Width: 338
 VWidth: 1023
 GlyphClass: 2
@@ -1879,7 +1879,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0965
-Encoding: 2405 2405 50
+Encoding: 306 2405 50
 Width: 534
 VWidth: 1023
 GlyphClass: 2
@@ -1903,8 +1903,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0b82
-Encoding: 2946 2946 51
+StartChar: anusvarasigntaml
+Encoding: 307 2946 51
 Width: 0
 VWidth: 1023
 GlyphClass: 4
@@ -1937,8 +1937,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0B83
-Encoding: 2947 2947 52
+StartChar: visargasigntaml
+Encoding: 308 2947 52
 Width: 803
 VWidth: 1023
 GlyphClass: 2
@@ -2006,8 +2006,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0B85
-Encoding: 2949 2949 53
+StartChar: ataml
+Encoding: 309 2949 53
 Width: 1138
 VWidth: 1023
 GlyphClass: 2
@@ -2074,8 +2074,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B86
-Encoding: 2950 2950 54
+StartChar: aataml
+Encoding: 310 2950 54
 Width: 1295
 VWidth: 1023
 GlyphClass: 2
@@ -2168,8 +2168,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B87
-Encoding: 2951 2951 55
+StartChar: itaml
+Encoding: 311 2951 55
 Width: 996
 VWidth: 1023
 GlyphClass: 2
@@ -2269,8 +2269,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B88
-Encoding: 2952 2952 56
+StartChar: iitaml
+Encoding: 312 2952 56
 Width: 722
 VWidth: 1023
 GlyphClass: 2
@@ -2314,8 +2314,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B89
-Encoding: 2953 2953 57
+StartChar: utaml
+Encoding: 313 2953 57
 Width: 929
 VWidth: 1023
 GlyphClass: 2
@@ -2369,8 +2369,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B8A
-Encoding: 2954 2954 58
+StartChar: uutaml
+Encoding: 314 2954 58
 Width: 1289
 VWidth: 1023
 GlyphClass: 2
@@ -2511,8 +2511,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B8E
-Encoding: 2958 2958 59
+StartChar: etaml
+Encoding: 315 2958 59
 Width: 799
 VWidth: 1023
 GlyphClass: 2
@@ -2603,8 +2603,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B8F
-Encoding: 2959 2959 60
+StartChar: eetaml
+Encoding: 316 2959 60
 Width: 797
 VWidth: 1023
 GlyphClass: 2
@@ -2692,8 +2692,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B90
-Encoding: 2960 2960 61
+StartChar: aitaml
+Encoding: 317 2960 61
 Width: 822
 VWidth: 1023
 GlyphClass: 2
@@ -2823,8 +2823,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B92
-Encoding: 2962 2962 62
+StartChar: otaml
+Encoding: 318 2962 62
 Width: 858
 VWidth: 1023
 GlyphClass: 2
@@ -2945,8 +2945,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B93
-Encoding: 2963 2963 63
+StartChar: ootaml
+Encoding: 319 2963 63
 Width: 859
 VWidth: 1023
 GlyphClass: 2
@@ -3078,8 +3078,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B94
-Encoding: 2964 2964 64
+StartChar: autaml
+Encoding: 320 2964 64
 Width: 1746
 VWidth: 1023
 GlyphClass: 2
@@ -3260,8 +3260,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B95
-Encoding: 2965 2965 65
+StartChar: kataml
+Encoding: 321 2965 65
 Width: 655
 VWidth: 1023
 GlyphClass: 2
@@ -3363,8 +3363,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B99
-Encoding: 2969 2969 66
+StartChar: ngataml
+Encoding: 322 2969 66
 Width: 897
 VWidth: 1023
 GlyphClass: 2
@@ -3449,8 +3449,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B9A
-Encoding: 2970 2970 67
+StartChar: cataml
+Encoding: 323 2970 67
 Width: 567
 VWidth: 1023
 GlyphClass: 2
@@ -3534,8 +3534,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B9C
-Encoding: 2972 2972 68
+StartChar: jataml
+Encoding: 324 2972 68
 Width: 854
 VWidth: 1023
 GlyphClass: 2
@@ -3671,8 +3671,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B9E
-Encoding: 2974 2974 69
+StartChar: nyataml
+Encoding: 325 2974 69
 Width: 1100
 VWidth: 1023
 GlyphClass: 2
@@ -3786,8 +3786,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B9F
-Encoding: 2975 2975 70
+StartChar: ttataml
+Encoding: 326 2975 70
 Width: 815
 VWidth: 1023
 GlyphClass: 2
@@ -3843,8 +3843,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BA3
-Encoding: 2979 2979 71
+StartChar: nnataml
+Encoding: 327 2979 71
 Width: 1303
 VWidth: 1023
 GlyphClass: 2
@@ -4004,8 +4004,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BA4
-Encoding: 2980 2980 72
+StartChar: tataml
+Encoding: 328 2980 72
 Width: 667
 VWidth: 1023
 GlyphClass: 2
@@ -4102,8 +4102,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BA8
-Encoding: 2984 2984 73
+StartChar: nataml
+Encoding: 329 2984 73
 Width: 657
 VWidth: 1023
 GlyphClass: 2
@@ -4194,8 +4194,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BA9
-Encoding: 2985 2985 74
+StartChar: nnnataml
+Encoding: 330 2985 74
 Width: 993
 VWidth: 1023
 GlyphClass: 2
@@ -4324,8 +4324,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BAA
-Encoding: 2986 2986 75
+StartChar: pataml
+Encoding: 331 2986 75
 Width: 762
 VWidth: 1023
 GlyphClass: 2
@@ -4384,8 +4384,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BAE
-Encoding: 2990 2990 76
+StartChar: mataml
+Encoding: 332 2990 76
 Width: 824
 VWidth: 1023
 GlyphClass: 2
@@ -4466,8 +4466,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BAF
-Encoding: 2991 2991 77
+StartChar: yataml
+Encoding: 333 2991 77
 Width: 878
 VWidth: 1023
 GlyphClass: 2
@@ -4548,8 +4548,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB0
-Encoding: 2992 2992 78
+StartChar: rataml
+Encoding: 334 2992 78
 Width: 529
 VWidth: 1023
 GlyphClass: 2
@@ -4619,8 +4619,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB1
-Encoding: 2993 2993 79
+StartChar: rrataml
+Encoding: 335 2993 79
 Width: 697
 VWidth: 1023
 GlyphClass: 2
@@ -4715,8 +4715,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: u0BB2
-Encoding: 2994 2994 80
+StartChar: lataml
+Encoding: 336 2994 80
 Width: 850
 VWidth: 1023
 GlyphClass: 2
@@ -4815,8 +4815,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB3
-Encoding: 2995 2995 81
+StartChar: llataml
+Encoding: 337 2995 81
 Width: 924
 VWidth: 1023
 GlyphClass: 2
@@ -4927,8 +4927,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB4
-Encoding: 2996 2996 82
+StartChar: lllataml
+Encoding: 338 2996 82
 Width: 824
 VWidth: 1023
 GlyphClass: 2
@@ -5046,8 +5046,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB5
-Encoding: 2997 2997 83
+StartChar: vataml
+Encoding: 339 2997 83
 Width: 980
 VWidth: 1023
 GlyphClass: 2
@@ -5150,8 +5150,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB6
-Encoding: 2998 2998 84
+StartChar: shataml
+Encoding: 340 2998 84
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -5186,8 +5186,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: u0BB7
-Encoding: 2999 2999 85
+StartChar: ssataml
+Encoding: 341 2999 85
 Width: 1146
 VWidth: 1023
 GlyphClass: 2
@@ -5328,8 +5328,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB8
-Encoding: 3000 3000 86
+StartChar: sataml
+Encoding: 342 3000 86
 Width: 1100
 VWidth: 1023
 GlyphClass: 2
@@ -5444,8 +5444,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BB9
-Encoding: 3001 3001 87
+StartChar: hataml
+Encoding: 343 3001 87
 Width: 1255
 VWidth: 1023
 GlyphClass: 2
@@ -5581,8 +5581,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BBE
-Encoding: 3006 3006 88
+StartChar: aasigntaml
+Encoding: 344 3006 88
 Width: 535
 VWidth: 1023
 GlyphClass: 2
@@ -5645,8 +5645,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BBF
-Encoding: 3007 3007 89
+StartChar: isigntaml
+Encoding: 345 3007 89
 Width: 663
 VWidth: 1023
 GlyphClass: 2
@@ -5716,8 +5716,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BC0
-Encoding: 3008 3008 90
+StartChar: iisigntaml
+Encoding: 346 3008 90
 Width: 553
 VWidth: 1023
 GlyphClass: 2
@@ -5793,8 +5793,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BC1
-Encoding: 3009 3009 91
+StartChar: usigntaml
+Encoding: 347 3009 91
 Width: 532
 VWidth: 1023
 GlyphClass: 4
@@ -5866,8 +5866,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BC2
-Encoding: 3010 3010 92
+StartChar: uusigntaml
+Encoding: 348 3010 92
 Width: 776
 VWidth: 1023
 GlyphClass: 4
@@ -5968,8 +5968,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BC6
-Encoding: 3014 3014 93
+StartChar: esigntaml
+Encoding: 349 3014 93
 Width: 797
 VWidth: 1023
 GlyphClass: 2
@@ -6059,8 +6059,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BC7
-Encoding: 3015 3015 94
+StartChar: eesigntaml
+Encoding: 350 3015 94
 Width: 727
 VWidth: 1023
 GlyphClass: 2
@@ -6160,8 +6160,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BC8
-Encoding: 3016 3016 95
+StartChar: aisigntaml
+Encoding: 351 3016 95
 Width: 969
 VWidth: 1023
 GlyphClass: 2
@@ -6281,8 +6281,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BCA
-Encoding: 3018 3018 96
+StartChar: osigntaml
+Encoding: 352 3018 96
 Width: 1284
 VWidth: 1023
 GlyphClass: 2
@@ -6398,8 +6398,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BCB
-Encoding: 3019 3019 97
+StartChar: oosigntaml
+Encoding: 353 3019 97
 Width: 1219
 VWidth: 1023
 GlyphClass: 2
@@ -6528,8 +6528,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BCC
-Encoding: 3020 3020 98
+StartChar: ausigntaml
+Encoding: 354 3020 98
 Width: 1677
 VWidth: 1023
 GlyphClass: 2
@@ -6679,8 +6679,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BCD
-Encoding: 3021 3021 99
+StartChar: viramataml
+Encoding: 355 3021 99
 Width: 125
 VWidth: 1023
 GlyphClass: 2
@@ -6740,8 +6740,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BD7
-Encoding: 3031 3031 100
+StartChar: aulengthtaml
+Encoding: 356 3031 100
 Width: 924
 VWidth: 1023
 GlyphClass: 2
@@ -6851,8 +6851,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BE7
-Encoding: 3047 3047 101
+StartChar: onetaml
+Encoding: 357 3047 101
 Width: 700
 VWidth: 1023
 GlyphClass: 2
@@ -6908,8 +6908,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BE8
-Encoding: 3048 3048 102
+StartChar: twotaml
+Encoding: 358 3048 102
 Width: 725
 VWidth: 1023
 GlyphClass: 2
@@ -6963,8 +6963,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BE9
-Encoding: 3049 3049 103
+StartChar: threetaml
+Encoding: 359 3049 103
 Width: 780
 VWidth: 1023
 GlyphClass: 2
@@ -7007,8 +7007,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BEA
-Encoding: 3050 3050 104
+StartChar: fourtaml
+Encoding: 360 3050 104
 Width: 746
 VWidth: 1023
 GlyphClass: 2
@@ -7054,8 +7054,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BEB
-Encoding: 3051 3051 105
+StartChar: fivetaml
+Encoding: 361 3051 105
 Width: 1055
 VWidth: 1023
 GlyphClass: 2
@@ -7108,8 +7108,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BEC
-Encoding: 3052 3052 106
+StartChar: sixtaml
+Encoding: 362 3052 106
 Width: 941
 VWidth: 1023
 GlyphClass: 2
@@ -7161,8 +7161,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BED
-Encoding: 3053 3053 107
+StartChar: seventaml
+Encoding: 363 3053 107
 Width: 802
 VWidth: 1023
 GlyphClass: 2
@@ -7247,8 +7247,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BEE
-Encoding: 3054 3054 108
+StartChar: eighttaml
+Encoding: 364 3054 108
 Width: 1142
 VWidth: 1023
 GlyphClass: 2
@@ -7363,8 +7363,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: u0BEF
-Encoding: 3055 3055 109
+StartChar: ninetaml
+Encoding: 365 3055 109
 Width: 987
 VWidth: 1023
 GlyphClass: 2
@@ -7437,8 +7437,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BF0
-Encoding: 3056 3056 110
+StartChar: tentaml
+Encoding: 366 3056 110
 Width: 823
 VWidth: 1023
 GlyphClass: 2
@@ -7514,8 +7514,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BF1
-Encoding: 3057 3057 111
+StartChar: onehundredtaml
+Encoding: 367 3057 111
 Width: 684
 VWidth: 1023
 GlyphClass: 2
@@ -7554,8 +7554,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BF2
-Encoding: 3058 3058 112
+StartChar: onethousandtaml
+Encoding: 368 3058 112
 Width: 759
 VWidth: 1023
 GlyphClass: 2
@@ -7660,8 +7660,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BF3
-Encoding: 3059 3059 113
+StartChar: daysigntaml
+Encoding: 369 3059 113
 Width: 910
 VWidth: 1023
 GlyphClass: 2
@@ -7756,8 +7756,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BF4
-Encoding: 3060 3060 114
+StartChar: monthsigntaml
+Encoding: 370 3060 114
 Width: 1062
 VWidth: 1023
 GlyphClass: 2
@@ -7901,8 +7901,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BF5
-Encoding: 3061 3061 115
+StartChar: yearsigntaml
+Encoding: 371 3061 115
 Width: 1800
 VWidth: 1023
 GlyphClass: 2
@@ -8061,8 +8061,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BF6
-Encoding: 3062 3062 116
+StartChar: debitsigntaml
+Encoding: 372 3062 116
 Width: 791
 VWidth: 1023
 GlyphClass: 2
@@ -8158,8 +8158,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BF7
-Encoding: 3063 3063 117
+StartChar: creditsigntaml
+Encoding: 373 3063 117
 Width: 1336
 VWidth: 1023
 GlyphClass: 2
@@ -8292,8 +8292,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0BF8
-Encoding: 3064 3064 118
+StartChar: asabovesigntaml
+Encoding: 374 3064 118
 Width: 1595
 VWidth: 1023
 GlyphClass: 2
@@ -8436,8 +8436,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: u0BF9
-Encoding: 3065 3065 119
+StartChar: rupeesigntaml
+Encoding: 375 3065 119
 Width: 1587
 VWidth: 1023
 GlyphClass: 2
@@ -8518,8 +8518,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: u0BFA
-Encoding: 3066 3066 120
+StartChar: numbersigntaml
+Encoding: 376 3066 120
 Width: 1196
 VWidth: 1023
 GlyphClass: 2
@@ -8654,8 +8654,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: afii61664
-Encoding: 8204 8204 121
+StartChar: zerowidthnonjoiner
+Encoding: 377 8204 121
 Width: 0
 VWidth: 1023
 GlyphClass: 2
@@ -8714,8 +8714,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: afii301
-Encoding: 8205 8205 122
+StartChar: zerowidthjoiner
+Encoding: 378 8205 122
 Width: 0
 VWidth: 1023
 GlyphClass: 2
@@ -8805,7 +8805,7 @@ Validated: 5
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 123
+Encoding: 379 8211 123
 Width: 614
 VWidth: 1023
 GlyphClass: 2
@@ -8875,7 +8875,7 @@ Validated: 5
 EndChar
 
 StartChar: emdash
-Encoding: 8212 8212 124
+Encoding: 380 8212 124
 Width: 1229
 VWidth: 1023
 GlyphClass: 2
@@ -8945,7 +8945,7 @@ Validated: 5
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 125
+Encoding: 381 8216 125
 Width: 288
 VWidth: 1023
 GlyphClass: 2
@@ -9007,7 +9007,7 @@ Validated: 5
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 126
+Encoding: 382 8217 126
 Width: 282
 VWidth: 1023
 GlyphClass: 2
@@ -9066,7 +9066,7 @@ Validated: 5
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 127
+Encoding: 383 8220 127
 Width: 454
 VWidth: 1023
 GlyphClass: 2
@@ -9148,7 +9148,7 @@ Validated: 5
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 128
+Encoding: 384 8221 128
 Width: 436
 VWidth: 1023
 GlyphClass: 2
@@ -9225,7 +9225,7 @@ Validated: 5
 EndChar
 
 StartChar: ellipsis
-Encoding: 8230 8230 129
+Encoding: 385 8230 129
 Width: 974
 VWidth: 1023
 GlyphClass: 2
@@ -9303,7 +9303,7 @@ Validated: 5
 EndChar
 
 StartChar: minus
-Encoding: 8722 8722 130
+Encoding: 386 8722 130
 Width: 491
 VWidth: 1023
 GlyphClass: 2
@@ -9356,8 +9356,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni25CC
-Encoding: 9676 9676 131
+StartChar: quotedcircle
+Encoding: 387 9676 131
 Width: 781
 VWidth: 1023
 GlyphClass: 2
@@ -9532,8 +9532,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B95_u0BBF.abvs
-Encoding: 65537 -1 132
+StartChar: kataml_isigntaml.abvs
+Encoding: 388 -1 132
 Width: 839
 VWidth: 1023
 GlyphClass: 2
@@ -9664,11 +9664,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B95 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml isigntaml
 EndChar
 
-StartChar: u0B99_u0BBF.abvs
-Encoding: 65538 -1 133
+StartChar: ngataml_isigntaml.abvs
+Encoding: 389 -1 133
 Width: 1069
 VWidth: 1023
 GlyphClass: 2
@@ -9782,11 +9782,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B99 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ngataml isigntaml
 EndChar
 
-StartChar: u0B9A_u0BBF.abvs
-Encoding: 65539 -1 134
+StartChar: cataml_isigntaml.abvs
+Encoding: 390 -1 134
 Width: 802
 VWidth: 1023
 GlyphClass: 2
@@ -9899,11 +9899,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9A u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" cataml isigntaml
 EndChar
 
-StartChar: u0B9C_u0BBF.abvs
-Encoding: 65540 -1 135
+StartChar: jataml_isigntaml.abvs
+Encoding: 391 -1 135
 Width: 1041
 VWidth: 1023
 GlyphClass: 2
@@ -10051,11 +10051,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9C u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" jataml isigntaml
 EndChar
 
-StartChar: u0B9E_u0BBF.abvs
-Encoding: 65541 -1 136
+StartChar: nyataml_isigntaml.abvs
+Encoding: 392 -1 136
 Width: 1290
 VWidth: 1023
 GlyphClass: 2
@@ -10197,11 +10197,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9E u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nyataml isigntaml
 EndChar
 
-StartChar: u0B9F_u0BBF.abvs
-Encoding: 65542 -1 137
+StartChar: ttataml_isigntaml.abvs
+Encoding: 393 -1 137
 Width: 815
 VWidth: 1023
 GlyphClass: 2
@@ -10284,11 +10284,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9F u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ttataml isigntaml
 EndChar
 
-StartChar: u0BA3_u0BBF.abvs
-Encoding: 65543 -1 138
+StartChar: nnataml_isigntaml.abvs
+Encoding: 394 -1 138
 Width: 1523
 VWidth: 1023
 GlyphClass: 2
@@ -10466,11 +10466,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA3 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnataml isigntaml
 EndChar
 
-StartChar: u0BA4_u0BBF.abvs
-Encoding: 65544 -1 139
+StartChar: tataml_isigntaml.abvs
+Encoding: 395 -1 139
 Width: 839
 VWidth: 1023
 GlyphClass: 2
@@ -10596,11 +10596,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA4 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" tataml isigntaml
 EndChar
 
-StartChar: u0BA8_u0BBF.abvs
-Encoding: 65545 -1 140
+StartChar: nataml_isigntaml.abvs
+Encoding: 396 -1 140
 Width: 848
 VWidth: 1023
 GlyphClass: 2
@@ -10717,11 +10717,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA8 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nataml isigntaml
 EndChar
 
-StartChar: u0BA9_u0BBF.abvs
-Encoding: 65546 -1 141
+StartChar: nnnataml_isigntaml.abvs
+Encoding: 397 -1 141
 Width: 1225
 VWidth: 1023
 GlyphClass: 2
@@ -10870,11 +10870,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA9 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnnataml isigntaml
 EndChar
 
-StartChar: u0BAA_u0BBF.abvs
-Encoding: 65547 -1 142
+StartChar: pataml_isigntaml.abvs
+Encoding: 398 -1 142
 Width: 934
 VWidth: 1023
 GlyphClass: 2
@@ -10963,11 +10963,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BAA u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" pataml isigntaml
 EndChar
 
-StartChar: u0BAE_u0BBF.abvs
-Encoding: 65548 -1 143
+StartChar: mataml_isigntaml.abvs
+Encoding: 399 -1 143
 Width: 1008
 VWidth: 1023
 GlyphClass: 2
@@ -11066,11 +11066,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BAE u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" mataml isigntaml
 EndChar
 
-StartChar: u0BAF_u0BBF.abvs
-Encoding: 65549 -1 144
+StartChar: yataml_isigntaml.abvs
+Encoding: 400 -1 144
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -11181,11 +11181,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BAF u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" yataml isigntaml
 EndChar
 
-StartChar: u0BB0_u0BBF.abvs
-Encoding: 65550 -1 145
+StartChar: rataml_isigntaml.abvs
+Encoding: 401 -1 145
 Width: 737
 VWidth: 1023
 GlyphClass: 2
@@ -11229,11 +11229,11 @@ SplineSet
 EndSplineSet
 Validated: 9
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB0 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rataml isigntaml
 EndChar
 
-StartChar: u0BB1_u0BBF.abvs
-Encoding: 65551 -1 146
+StartChar: rrataml_isigntaml.abvs
+Encoding: 402 -1 146
 Width: 881
 VWidth: 1023
 GlyphClass: 2
@@ -11347,11 +11347,11 @@ SplineSet
 EndSplineSet
 Validated: 37
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB1 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rrataml isigntaml
 EndChar
 
-StartChar: u0BB2_u0BBF.abvs
-Encoding: 65552 -1 147
+StartChar: lataml_isigntaml.abvs
+Encoding: 403 -1 147
 Width: 1043
 VWidth: 1023
 GlyphClass: 2
@@ -11469,11 +11469,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB2 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lataml isigntaml
 EndChar
 
-StartChar: u0BB3_u0BBF.abvs
-Encoding: 65553 -1 148
+StartChar: llataml_isigntaml.abvs
+Encoding: 404 -1 148
 Width: 1132
 VWidth: 1023
 GlyphClass: 2
@@ -11602,11 +11602,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB3 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" llataml isigntaml
 EndChar
 
-StartChar: u0BB4_u0BBF.abvs
-Encoding: 65554 -1 149
+StartChar: lllataml_isigntaml.abvs
+Encoding: 405 -1 149
 Width: 1008
 VWidth: 1023
 GlyphClass: 2
@@ -11742,11 +11742,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB4 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lllataml isigntaml
 EndChar
 
-StartChar: u0BB5_u0BBF.abvs
-Encoding: 65555 -1 150
+StartChar: vataml_isigntaml.abvs
+Encoding: 406 -1 150
 Width: 1165
 VWidth: 1023
 GlyphClass: 2
@@ -11871,11 +11871,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB5 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" vataml isigntaml
 EndChar
 
-StartChar: u0BB7_u0BBF.abvs
-Encoding: 65556 -1 151
+StartChar: ssataml_isigntaml.abvs
+Encoding: 407 -1 151
 Width: 1339
 VWidth: 1023
 GlyphClass: 2
@@ -12028,11 +12028,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB7 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ssataml isigntaml
 EndChar
 
-StartChar: u0BB8_u0BBF.abvs
-Encoding: 65557 -1 152
+StartChar: sataml_isigntaml.abvs
+Encoding: 408 -1 152
 Width: 1283
 VWidth: 1023
 GlyphClass: 2
@@ -12161,11 +12161,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB8 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml isigntaml
 EndChar
 
-StartChar: u0BB9_u0BBF.abvs
-Encoding: 65558 -1 153
+StartChar: hataml_isigntaml.abvs
+Encoding: 409 -1 153
 Width: 1486
 VWidth: 1023
 GlyphClass: 2
@@ -12313,11 +12313,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB9 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" hataml isigntaml
 EndChar
 
-StartChar: u0B95_u0BC0.abvs
-Encoding: 65559 -1 154
+StartChar: kataml_iisigntaml.abvs
+Encoding: 410 -1 154
 Width: 655
 VWidth: 1023
 GlyphClass: 2
@@ -12454,11 +12454,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B95 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml iisigntaml
 EndChar
 
-StartChar: u0B99_u0BC0.abvs
-Encoding: 65560 -1 155
+StartChar: ngataml_iisigntaml.abvs
+Encoding: 411 -1 155
 Width: 897
 VWidth: 1023
 GlyphClass: 2
@@ -12577,11 +12577,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B99 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ngataml iisigntaml
 EndChar
 
-StartChar: u0B9A_u0BC0.abvs
-Encoding: 65561 -1 156
+StartChar: cataml_iisigntaml.abvs
+Encoding: 412 -1 156
 Width: 567
 VWidth: 1023
 GlyphClass: 2
@@ -12700,11 +12700,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9A u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" cataml iisigntaml
 EndChar
 
-StartChar: u0B9C_u0BC0.abvs
-Encoding: 65562 -1 157
+StartChar: jataml_iisigntaml.abvs
+Encoding: 413 -1 157
 Width: 856
 VWidth: 1023
 GlyphClass: 2
@@ -12861,11 +12861,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9C u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" jataml iisigntaml
 EndChar
 
-StartChar: u0B9E_u0BC0.abvs
-Encoding: 65563 -1 158
+StartChar: nyataml_iisigntaml.abvs
+Encoding: 414 -1 158
 Width: 1101
 VWidth: 1023
 GlyphClass: 2
@@ -13014,11 +13014,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9E u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nyataml iisigntaml
 EndChar
 
-StartChar: u0B9F_u0BC0.abvs
-Encoding: 65564 -1 159
+StartChar: ttataml_iisigntaml.abvs
+Encoding: 415 -1 159
 Width: 815
 VWidth: 1023
 GlyphClass: 2
@@ -13099,11 +13099,11 @@ SplineSet
 EndSplineSet
 Validated: 37
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B9F u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ttataml iisigntaml
 EndChar
 
-StartChar: u0BA3_u0BC0.abvs
-Encoding: 65565 -1 160
+StartChar: nnataml_iisigntaml.abvs
+Encoding: 416 -1 160
 Width: 1253
 VWidth: 1023
 GlyphClass: 2
@@ -13288,11 +13288,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA3 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnataml iisigntaml
 EndChar
 
-StartChar: u0BA4_u0BC0.abvs
-Encoding: 65566 -1 161
+StartChar: tataml_iisigntaml.abvs
+Encoding: 417 -1 161
 Width: 667
 VWidth: 1023
 GlyphClass: 2
@@ -13424,11 +13424,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA4 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" tataml iisigntaml
 EndChar
 
-StartChar: u0BA8_u0BC0.abvs
-Encoding: 65567 -1 162
+StartChar: nataml_iisigntaml.abvs
+Encoding: 418 -1 162
 Width: 656
 VWidth: 1023
 GlyphClass: 2
@@ -13554,11 +13554,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA8 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nataml iisigntaml
 EndChar
 
-StartChar: u0BA9_u0BC0.abvs
-Encoding: 65568 -1 163
+StartChar: nnnataml_iisigntaml.abvs
+Encoding: 419 -1 163
 Width: 993
 VWidth: 1023
 GlyphClass: 2
@@ -13714,11 +13714,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BA9 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnnataml iisigntaml
 EndChar
 
-StartChar: u0BAA_u0BC0.abvs
-Encoding: 65569 -1 164
+StartChar: pataml_iisigntaml.abvs
+Encoding: 420 -1 164
 Width: 762
 VWidth: 1023
 GlyphClass: 2
@@ -13810,11 +13810,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BAA u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" pataml iisigntaml
 EndChar
 
-StartChar: u0BAE_u0BC0.abvs
-Encoding: 65570 -1 165
+StartChar: mataml_iisigntaml.abvs
+Encoding: 421 -1 165
 Width: 827
 VWidth: 1023
 GlyphClass: 2
@@ -13921,11 +13921,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BAE u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" mataml iisigntaml
 EndChar
 
-StartChar: u0BAF_u0BC0.abvs
-Encoding: 65571 -1 166
+StartChar: yataml_iisigntaml.abvs
+Encoding: 422 -1 166
 Width: 878
 VWidth: 1023
 GlyphClass: 2
@@ -14039,11 +14039,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BAF u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" yataml iisigntaml
 EndChar
 
-StartChar: u0BB0_u0BC0.abvs
-Encoding: 65572 -1 167
+StartChar: rataml_iisigntaml.abvs
+Encoding: 423 -1 167
 Width: 529
 VWidth: 1023
 GlyphClass: 2
@@ -14097,11 +14097,11 @@ SplineSet
 EndSplineSet
 Validated: 9
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB0 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rataml iisigntaml
 EndChar
 
-StartChar: u0BB1_u0BC0.abvs
-Encoding: 65573 -1 168
+StartChar: rrataml_iisigntaml.abvs
+Encoding: 424 -1 168
 Width: 694
 VWidth: 1023
 GlyphClass: 2
@@ -14220,11 +14220,11 @@ SplineSet
 EndSplineSet
 Validated: 37
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB1 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rrataml iisigntaml
 EndChar
 
-StartChar: u0BB2_u0BC0.abvs
-Encoding: 65574 -1 169
+StartChar: lataml_iisigntaml.abvs
+Encoding: 425 -1 169
 Width: 851
 VWidth: 1023
 GlyphClass: 2
@@ -14348,11 +14348,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB2 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lataml iisigntaml
 EndChar
 
-StartChar: u0BB3_u0BC0.abvs
-Encoding: 65575 -1 170
+StartChar: llataml_iisigntaml.abvs
+Encoding: 426 -1 170
 Width: 924
 VWidth: 1023
 GlyphClass: 2
@@ -14490,11 +14490,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB3 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" llataml iisigntaml
 EndChar
 
-StartChar: u0BB4_u0BC0.abvs
-Encoding: 65576 -1 171
+StartChar: lllataml_iisigntaml.abvs
+Encoding: 427 -1 171
 Width: 827
 VWidth: 1023
 GlyphClass: 2
@@ -14638,11 +14638,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB4 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lllataml iisigntaml
 EndChar
 
-StartChar: u0BB5_u0BC0.abvs
-Encoding: 65577 -1 172
+StartChar: vataml_iisigntaml.abvs
+Encoding: 428 -1 172
 Width: 980
 VWidth: 1023
 GlyphClass: 2
@@ -14770,11 +14770,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB5 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" vataml iisigntaml
 EndChar
 
-StartChar: u0BB7_u0BC0.abvs
-Encoding: 65578 -1 173
+StartChar: ssataml_iisigntaml.abvs
+Encoding: 429 -1 173
 Width: 1146
 VWidth: 1023
 GlyphClass: 2
@@ -14938,11 +14938,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB7 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ssataml iisigntaml
 EndChar
 
-StartChar: u0BB8_u0BC0.abvs
-Encoding: 65579 -1 174
+StartChar: sataml_iisigntaml.abvs
+Encoding: 430 -1 174
 Width: 1097
 VWidth: 1023
 GlyphClass: 2
@@ -15082,11 +15082,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB8 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml iisigntaml
 EndChar
 
-StartChar: u0BB9_u0BC0.abvs
-Encoding: 65580 -1 175
+StartChar: hataml_iisigntaml.abvs
+Encoding: 431 -1 175
 Width: 1278
 VWidth: 1023
 GlyphClass: 2
@@ -15243,11 +15243,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB9 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" hataml iisigntaml
 EndChar
 
-StartChar: u0B95_u0BC1.blws
-Encoding: 65581 -1 176
+StartChar: kataml_usigntaml.blws
+Encoding: 432 -1 176
 Width: 904
 VWidth: 1023
 GlyphClass: 2
@@ -15345,11 +15345,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B95 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" kataml usigntaml
 EndChar
 
-StartChar: u0B99_u0BC1.blws
-Encoding: 65582 -1 177
+StartChar: ngataml_usigntaml.blws
+Encoding: 433 -1 177
 Width: 897
 VWidth: 1023
 GlyphClass: 2
@@ -15440,11 +15440,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B99 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ngataml usigntaml
 EndChar
 
-StartChar: u0B9A_u0BC1.blws
-Encoding: 65583 -1 178
+StartChar: cataml_usigntaml.blws
+Encoding: 434 -1 178
 Width: 668
 VWidth: 1023
 GlyphClass: 2
@@ -15532,11 +15532,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B9A u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" cataml usigntaml
 EndChar
 
 StartChar: glyph175
-Encoding: 65584 -1 179
+Encoding: 435 -1 179
 Width: 725
 VWidth: 1023
 GlyphClass: 2
@@ -15595,8 +15595,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B9E_u0BC1.blws
-Encoding: 65585 -1 180
+StartChar: nyataml_usigntaml.blws
+Encoding: 436 -1 180
 Width: 1162
 VWidth: 1023
 GlyphClass: 2
@@ -15725,11 +15725,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B9E u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nyataml usigntaml
 EndChar
 
-StartChar: u0B9F_u0BC1.blws
-Encoding: 65586 -1 181
+StartChar: ttataml_usigntaml.blws
+Encoding: 437 -1 181
 Width: 914
 VWidth: 1023
 GlyphClass: 2
@@ -15826,11 +15826,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B9F u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ttataml usigntaml
 EndChar
 
-StartChar: u0BA3_u0BC1.blws
-Encoding: 65587 -1 182
+StartChar: nnataml_usigntaml.blws
+Encoding: 438 -1 182
 Width: 1437
 VWidth: 1023
 GlyphClass: 2
@@ -16006,11 +16006,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA3 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnataml usigntaml
 EndChar
 
-StartChar: u0BA4_u0BC1.blws
-Encoding: 65588 -1 183
+StartChar: tataml_usigntaml.blws
+Encoding: 439 -1 183
 Width: 888
 VWidth: 1023
 GlyphClass: 2
@@ -16121,11 +16121,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA4 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" tataml usigntaml
 EndChar
 
-StartChar: u0BA8_u0BC1.blws
-Encoding: 65589 -1 184
+StartChar: nataml_usigntaml.blws
+Encoding: 440 -1 184
 Width: 885
 VWidth: 1023
 GlyphClass: 2
@@ -16230,11 +16230,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA8 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nataml usigntaml
 EndChar
 
-StartChar: u0BA9_u0BC1.blws
-Encoding: 65590 -1 185
+StartChar: nnnataml_usigntaml.blws
+Encoding: 441 -1 185
 Width: 1188
 VWidth: 1023
 GlyphClass: 2
@@ -16375,11 +16375,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA9 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnnataml usigntaml
 EndChar
 
-StartChar: u0BAA_u0BC1.blws
-Encoding: 65591 -1 186
+StartChar: pataml_usigntaml.blws
+Encoding: 442 -1 186
 Width: 762
 VWidth: 1023
 GlyphClass: 2
@@ -16446,11 +16446,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BAA u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" pataml usigntaml
 EndChar
 
-StartChar: u0BAE_u0BC1.blws
-Encoding: 65592 -1 187
+StartChar: mataml_usigntaml.blws
+Encoding: 443 -1 187
 Width: 1137
 VWidth: 1023
 GlyphClass: 2
@@ -16553,11 +16553,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BAE u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" mataml usigntaml
 EndChar
 
-StartChar: u0BAF_u0BC1.blws
-Encoding: 65593 -1 188
+StartChar: yataml_usigntaml.blws
+Encoding: 444 -1 188
 Width: 878
 VWidth: 1023
 GlyphClass: 2
@@ -16635,11 +16635,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BAF u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" yataml usigntaml
 EndChar
 
-StartChar: u0BB0_u0BC1.blws
-Encoding: 65594 -1 189
+StartChar: rataml_usigntaml.blws
+Encoding: 445 -1 189
 Width: 949
 VWidth: 1023
 GlyphClass: 2
@@ -16731,11 +16731,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB0 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rataml usigntaml
 EndChar
 
-StartChar: u0BB1_u0BC1.blws
-Encoding: 65595 -1 190
+StartChar: rrataml_usigntaml.blws
+Encoding: 446 -1 190
 Width: 856
 VWidth: 1023
 GlyphClass: 2
@@ -16850,11 +16850,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB1 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rrataml usigntaml
 EndChar
 
-StartChar: u0BB2_u0BC1.blws
-Encoding: 65596 -1 191
+StartChar: lataml_usigntaml.blws
+Encoding: 447 -1 191
 Width: 1055
 VWidth: 1023
 GlyphClass: 2
@@ -16981,11 +16981,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB2 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lataml usigntaml
 EndChar
 
-StartChar: u0BB3_u0BC1.blws
-Encoding: 65597 -1 192
+StartChar: llataml_usigntaml.blws
+Encoding: 448 -1 192
 Width: 1321
 VWidth: 1023
 GlyphClass: 2
@@ -17108,11 +17108,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB3 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" llataml usigntaml
 EndChar
 
-StartChar: u0BB4_u0BC1.blws
-Encoding: 65598 -1 193
+StartChar: lllataml_usigntaml.blws
+Encoding: 449 -1 193
 Width: 1094
 VWidth: 1023
 GlyphClass: 2
@@ -17221,11 +17221,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB4 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lllataml usigntaml
 EndChar
 
-StartChar: u0BB5_u0BC1.blws
-Encoding: 65599 -1 194
+StartChar: vataml_usigntaml.blws
+Encoding: 450 -1 194
 Width: 980
 VWidth: 1023
 GlyphClass: 2
@@ -17325,11 +17325,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB5 u0BC1
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" vataml usigntaml
 EndChar
 
-StartChar: u0B95_u0BC2.blws
-Encoding: 65600 -1 195
+StartChar: kataml_uusigntaml.blws
+Encoding: 451 -1 195
 Width: 1027
 VWidth: 1023
 GlyphClass: 2
@@ -17449,11 +17449,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B95 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" kataml uusigntaml
 EndChar
 
-StartChar: u0B99_u0BC2.blws
-Encoding: 65601 -1 196
+StartChar: ngataml_uusigntaml.blws
+Encoding: 452 -1 196
 Width: 1027
 VWidth: 1023
 GlyphClass: 2
@@ -17573,11 +17573,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B99 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ngataml uusigntaml
 EndChar
 
-StartChar: u0B9A_u0BC2.blws
-Encoding: 65602 -1 197
+StartChar: cataml_uusigntaml.blws
+Encoding: 453 -1 197
 Width: 980
 VWidth: 1023
 GlyphClass: 2
@@ -17690,11 +17690,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B9A u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" cataml uusigntaml
 EndChar
 
 StartChar: glyph194
-Encoding: 65603 -1 198
+Encoding: 454 -1 198
 Width: 725
 VWidth: 1023
 GlyphClass: 2
@@ -17753,8 +17753,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: u0B9E_u0BC2.blws
-Encoding: 65604 -1 199
+StartChar: nyataml_uusigntaml.blws
+Encoding: 455 -1 199
 Width: 1353
 VWidth: 1023
 GlyphClass: 2
@@ -17885,11 +17885,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B9E u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nyataml uusigntaml
 EndChar
 
-StartChar: u0B9F_u0BC2.blws
-Encoding: 65605 -1 200
+StartChar: ttataml_uusigntaml.blws
+Encoding: 456 -1 200
 Width: 778
 VWidth: 1023
 GlyphClass: 2
@@ -17995,11 +17995,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0B9F u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ttataml uusigntaml
 EndChar
 
-StartChar: u0BA3_u0BC2.blws
-Encoding: 65606 -1 201
+StartChar: nnataml_uusigntaml.blws
+Encoding: 457 -1 201
 Width: 1647
 VWidth: 1023
 GlyphClass: 2
@@ -18181,11 +18181,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA3 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnataml uusigntaml
 EndChar
 
-StartChar: u0BA4_u0BC2.blws
-Encoding: 65607 -1 202
+StartChar: tataml_uusigntaml.blws
+Encoding: 458 -1 202
 Width: 1079
 VWidth: 1023
 GlyphClass: 2
@@ -18302,11 +18302,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA4 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" tataml uusigntaml
 EndChar
 
-StartChar: u0BA8_u0BC2.blws
-Encoding: 65608 -1 203
+StartChar: nataml_uusigntaml.blws
+Encoding: 459 -1 203
 Width: 1075
 VWidth: 1023
 GlyphClass: 2
@@ -18417,11 +18417,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA8 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nataml uusigntaml
 EndChar
 
-StartChar: u0BA9_u0BC2.blws
-Encoding: 65609 -1 204
+StartChar: nnnataml_uusigntaml.blws
+Encoding: 460 -1 204
 Width: 1411
 VWidth: 1023
 GlyphClass: 2
@@ -18572,11 +18572,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BA9 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnnataml uusigntaml
 EndChar
 
-StartChar: u0BAA_u0BC2.blws
-Encoding: 65610 -1 205
+StartChar: pataml_uusigntaml.blws
+Encoding: 461 -1 205
 Width: 866
 VWidth: 1023
 GlyphClass: 2
@@ -18672,11 +18672,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BAA u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" pataml uusigntaml
 EndChar
 
-StartChar: u0BAE_u0BC2.blws
-Encoding: 65611 -1 206
+StartChar: mataml_uusigntaml.blws
+Encoding: 462 -1 206
 Width: 1134
 VWidth: 1023
 GlyphClass: 2
@@ -18795,11 +18795,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BAE u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" mataml uusigntaml
 EndChar
 
-StartChar: u0BAF_u0BC2.blws
-Encoding: 65612 -1 207
+StartChar: yataml_uusigntaml.blws
+Encoding: 463 -1 207
 Width: 1015
 VWidth: 1023
 GlyphClass: 2
@@ -18906,11 +18906,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BAF u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" yataml uusigntaml
 EndChar
 
-StartChar: u0BB0_u0BC2.blws
-Encoding: 65613 -1 208
+StartChar: rataml_uusigntaml.blws
+Encoding: 464 -1 208
 Width: 960
 VWidth: 1023
 GlyphClass: 2
@@ -19022,11 +19022,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB0 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rataml uusigntaml
 EndChar
 
-StartChar: u0BB1_u0BC2.blws
-Encoding: 65614 -1 209
+StartChar: rrataml_uusigntaml.blws
+Encoding: 465 -1 209
 Width: 1048
 VWidth: 1023
 GlyphClass: 2
@@ -19147,11 +19147,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB1 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rrataml uusigntaml
 EndChar
 
-StartChar: u0BB2_u0BC2.blws
-Encoding: 65615 -1 210
+StartChar: lataml_uusigntaml.blws
+Encoding: 466 -1 210
 Width: 1253
 VWidth: 1023
 GlyphClass: 2
@@ -19288,11 +19288,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB2 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lataml uusigntaml
 EndChar
 
-StartChar: u0BB3_u0BC2.blws
-Encoding: 65616 -1 211
+StartChar: llataml_uusigntaml.blws
+Encoding: 467 -1 211
 Width: 1317
 VWidth: 1023
 GlyphClass: 2
@@ -19432,11 +19432,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB3 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" llataml uusigntaml
 EndChar
 
-StartChar: u0BB4_u0BC2.blws
-Encoding: 65617 -1 212
+StartChar: lllataml_uusigntaml.blws
+Encoding: 468 -1 212
 Width: 1118
 VWidth: 1023
 GlyphClass: 2
@@ -19570,11 +19570,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB4 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lllataml uusigntaml
 EndChar
 
-StartChar: u0BB5_u0BC2.blws
-Encoding: 65618 -1 213
+StartChar: vataml_uusigntaml.blws
+Encoding: 469 -1 213
 Width: 1155
 VWidth: 1023
 GlyphClass: 2
@@ -19707,11 +19707,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" u0BB5 u0BC2
+Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" vataml uusigntaml
 EndChar
 
-StartChar: u0B95_u0BCD_u0BB7.akhn
-Encoding: 65619 -1 214
+StartChar: kataml_viramataml_ssataml.akhn
+Encoding: 470 -1 214
 Width: 1423
 VWidth: 1023
 GlyphClass: 2
@@ -19870,11 +19870,11 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Tamil lookup 1 subtable" u0B95 u0BCD u0BB7
+Ligature2: "'akhn' Akhand in Tamil lookup 1 subtable" kataml viramataml ssataml
 EndChar
 
-StartChar: u0B95_u0BCD_u0BB7.akhn_u0BBF.abvs
-Encoding: 65620 -1 215
+StartChar: kataml_viramataml_ssataml.akhn_u0BBF.abvs
+Encoding: 471 -1 215
 Width: 1614
 VWidth: 1023
 GlyphClass: 2
@@ -20050,11 +20050,11 @@ SplineSet
 EndSplineSet
 Validated: 517
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B95_u0BCD_u0BB7.akhn u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml_viramataml_ssataml.akhn isigntaml
 EndChar
 
-StartChar: u0B95_u0BCD_u0BB7.akhn_u0BC0.abvs
-Encoding: 65621 -1 216
+StartChar: kataml_viramataml_ssataml.akhn_u0BC0.abvs
+Encoding: 472 -1 216
 Width: 1423
 VWidth: 1023
 GlyphClass: 2
@@ -20246,11 +20246,11 @@ SplineSet
 EndSplineSet
 Validated: 517
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0B95_u0BCD_u0BB7.akhn u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml_viramataml_ssataml.akhn iisigntaml
 EndChar
 
-StartChar: u0BB6_u0BCD.half_u0BB0_u0BC0.abvs
-Encoding: 65622 -1 217
+StartChar: shataml_viramataml.half_u0BB0_u0BC0.abvs
+Encoding: 473 -1 217
 Width: 1332
 VWidth: 1023
 GlyphClass: 2
@@ -20403,12 +20403,12 @@ SplineSet
 EndSplineSet
 Validated: 517
 LCarets2: 2 0 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB8_u0BCD.half u0BB0 u0BC0
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB6_u0BCD.half u0BB0 u0BC0
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml_viramataml.half rataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" shataml_viramataml.half rataml iisigntaml
 EndChar
 
-StartChar: u0B95_u0BCD.half
-Encoding: 65623 -1 218
+StartChar: kataml_viramataml.half
+Encoding: 474 -1 218
 Width: 655
 VWidth: 1023
 GlyphClass: 2
@@ -20526,12 +20526,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B95 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B95 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" kataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" kataml viramataml
 EndChar
 
-StartChar: u0B99_u0BCD.half
-Encoding: 65624 -1 219
+StartChar: ngataml_viramataml.half
+Encoding: 475 -1 219
 Width: 897
 VWidth: 1023
 GlyphClass: 2
@@ -20632,12 +20632,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B99 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B99 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ngataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" ngataml viramataml
 EndChar
 
-StartChar: u0B9A_u0BCD.half
-Encoding: 65625 -1 220
+StartChar: cataml_viramataml.half
+Encoding: 476 -1 220
 Width: 567
 VWidth: 1023
 GlyphClass: 2
@@ -20737,12 +20737,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B9A u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B9A u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" cataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" cataml viramataml
 EndChar
 
-StartChar: u0B9C_u0BCD.half
-Encoding: 65626 -1 221
+StartChar: jataml_viramataml.half
+Encoding: 477 -1 221
 Width: 854
 VWidth: 1023
 GlyphClass: 2
@@ -20883,12 +20883,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B9C u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B9C u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" jataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" jataml viramataml
 EndChar
 
-StartChar: u0B9E_u0BCD.half
-Encoding: 65627 -1 222
+StartChar: nyataml_viramataml.half
+Encoding: 478 -1 222
 Width: 1100
 VWidth: 1023
 GlyphClass: 2
@@ -21018,12 +21018,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B9E u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B9E u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nyataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nyataml viramataml
 EndChar
 
-StartChar: u0B9F_u0BCD.half
-Encoding: 65628 -1 223
+StartChar: ttataml_viramataml.half
+Encoding: 479 -1 223
 Width: 815
 VWidth: 1023
 GlyphClass: 2
@@ -21095,12 +21095,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B9F u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B9F u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ttataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" ttataml viramataml
 EndChar
 
-StartChar: u0BA3_u0BCD.half
-Encoding: 65629 -1 224
+StartChar: nnataml_viramataml.half
+Encoding: 480 -1 224
 Width: 1303
 VWidth: 1023
 GlyphClass: 2
@@ -21265,12 +21265,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BA3 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BA3 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nnataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nnataml viramataml
 EndChar
 
-StartChar: u0BA4_u0BCD.half
-Encoding: 65630 -1 225
+StartChar: tataml_viramataml.half
+Encoding: 481 -1 225
 Width: 667
 VWidth: 1023
 GlyphClass: 2
@@ -21383,12 +21383,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BA4 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BA4 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" tataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" tataml viramataml
 EndChar
 
-StartChar: u0BA8_u0BCD.half
-Encoding: 65631 -1 226
+StartChar: nataml_viramataml.half
+Encoding: 482 -1 226
 Width: 657
 VWidth: 1023
 GlyphClass: 2
@@ -21495,12 +21495,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BA8 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BA8 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nataml viramataml
 EndChar
 
-StartChar: u0BA9_u0BCD.half
-Encoding: 65632 -1 227
+StartChar: nnnataml_viramataml.half
+Encoding: 483 -1 227
 Width: 993
 VWidth: 1023
 GlyphClass: 2
@@ -21637,12 +21637,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BA9 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BA9 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nnnataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nnnataml viramataml
 EndChar
 
-StartChar: u0BAA_u0BCD.half
-Encoding: 65633 -1 228
+StartChar: pataml_viramataml.half
+Encoding: 484 -1 228
 Width: 762
 VWidth: 1023
 GlyphClass: 2
@@ -21717,12 +21717,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BAA u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BAA u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" pataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" pataml viramataml
 EndChar
 
-StartChar: u0BAE_u0BCD.half
-Encoding: 65634 -1 229
+StartChar: mataml_viramataml.half
+Encoding: 485 -1 229
 Width: 824
 VWidth: 1023
 GlyphClass: 2
@@ -21810,12 +21810,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BAE u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BAE u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" mataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" mataml viramataml
 EndChar
 
-StartChar: u0BAF_u0BCD.half
-Encoding: 65635 -1 230
+StartChar: yataml_viramataml.half
+Encoding: 486 -1 230
 Width: 878
 VWidth: 1023
 GlyphClass: 2
@@ -21912,12 +21912,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BAF u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BAF u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" yataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" yataml viramataml
 EndChar
 
-StartChar: u0BB0_u0BCD.half
-Encoding: 65636 -1 231
+StartChar: rataml_viramataml.half
+Encoding: 487 -1 231
 Width: 535
 VWidth: 1023
 GlyphClass: 2
@@ -21954,12 +21954,12 @@ SplineSet
 EndSplineSet
 Validated: 1
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB0 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB0 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" rataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" rataml viramataml
 EndChar
 
-StartChar: u0BB1_u0BCD.half
-Encoding: 65637 -1 232
+StartChar: rrataml_viramataml.half
+Encoding: 488 -1 232
 Width: 697
 VWidth: 1023
 GlyphClass: 2
@@ -22059,12 +22059,12 @@ SplineSet
 EndSplineSet
 Validated: 37
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB1 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB1 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" rrataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" rrataml viramataml
 EndChar
 
-StartChar: u0BB2_u0BCD.half
-Encoding: 65638 -1 233
+StartChar: lataml_viramataml.half
+Encoding: 489 -1 233
 Width: 850
 VWidth: 1023
 GlyphClass: 2
@@ -22176,12 +22176,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB2 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB2 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" lataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" lataml viramataml
 EndChar
 
-StartChar: u0BB3_u0BCD.half
-Encoding: 65639 -1 234
+StartChar: llataml_viramataml.half
+Encoding: 490 -1 234
 Width: 924
 VWidth: 1023
 GlyphClass: 2
@@ -22300,12 +22300,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB3 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB3 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" llataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" llataml viramataml
 EndChar
 
-StartChar: u0BB4_u0BCD.half
-Encoding: 65640 -1 235
+StartChar: lllataml_viramataml.half
+Encoding: 491 -1 235
 Width: 824
 VWidth: 1023
 GlyphClass: 2
@@ -22430,12 +22430,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB4 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB4 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" lllataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" lllataml viramataml
 EndChar
 
-StartChar: u0BB5_u0BCD.half
-Encoding: 65641 -1 236
+StartChar: vataml_viramataml.half
+Encoding: 492 -1 236
 Width: 980
 VWidth: 1023
 GlyphClass: 2
@@ -22546,12 +22546,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB5 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB5 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" vataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" vataml viramataml
 EndChar
 
-StartChar: u0BB7_u0BCD.half
-Encoding: 65642 -1 237
+StartChar: ssataml_viramataml.half
+Encoding: 493 -1 237
 Width: 1146
 VWidth: 1023
 GlyphClass: 2
@@ -22700,12 +22700,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB7 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB7 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ssataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" ssataml viramataml
 EndChar
 
-StartChar: u0BB8_u0BCD.half
-Encoding: 65643 -1 238
+StartChar: sataml_viramataml.half
+Encoding: 494 -1 238
 Width: 1100
 VWidth: 1023
 GlyphClass: 2
@@ -22833,12 +22833,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB8 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB8 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" sataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" sataml viramataml
 EndChar
 
-StartChar: u0BB9_u0BCD.half
-Encoding: 65644 -1 239
+StartChar: hataml_viramataml.half
+Encoding: 495 -1 239
 Width: 1255
 VWidth: 1023
 GlyphClass: 2
@@ -22976,12 +22976,12 @@ SplineSet
 EndSplineSet
 Validated: 5
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB9 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB9 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" hataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" hataml viramataml
 EndChar
 
-StartChar: u0B95_u0BCD_u0BB7.akhn_u0BCD.half
-Encoding: 65645 -1 240
+StartChar: kataml_viramataml_ssataml.akhn_u0BCD.half
+Encoding: 496 -1 240
 Width: 1423
 VWidth: 1023
 GlyphClass: 2
@@ -23157,12 +23157,12 @@ SplineSet
 EndSplineSet
 Validated: 517
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0B95_u0BCD_u0BB7.akhn u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0B95_u0BCD_u0BB7.akhn u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" kataml_viramataml_ssataml.akhn viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" kataml_viramataml_ssataml.akhn viramataml
 EndChar
 
-StartChar: u0BB6_u0BCD.half
-Encoding: 65646 -1 241
+StartChar: shataml_viramataml.half
+Encoding: 497 -1 241
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -23205,12 +23205,12 @@ SplineSet
 EndSplineSet
 Validated: 37
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB6 u0BCD
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB6 u0BCD
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" shataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" shataml viramataml
 EndChar
 
-StartChar: u0BB6_u0BC0.half
-Encoding: 65647 -1 242
+StartChar: shataml_iisigntaml.half
+Encoding: 498 -1 242
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -23269,12 +23269,12 @@ SplineSet
 EndSplineSet
 Validated: 33
 LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" u0BB6 u0BC0
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" u0BB6 u0BC0
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" shataml iisigntaml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" shataml iisigntaml
 EndChar
 
-StartChar: u0BB6_u0BBF.abvs
-Encoding: 65648 -1 243
+StartChar: shataml_isigntaml.abvs
+Encoding: 499 -1 243
 Width: 1223
 VWidth: 1023
 GlyphClass: 2
@@ -23323,11 +23323,11 @@ SplineSet
 EndSplineSet
 Validated: 33
 LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" u0BB6 u0BBF
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" shataml isigntaml
 EndChar
 
-StartChar: u0BE6
-Encoding: 3046 3046 244
+StartChar: zerotaml
+Encoding: 500 3046 244
 Width: 636
 VWidth: 1023
 GlyphClass: 2
@@ -23359,8 +23359,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0BD0
-Encoding: 3024 3024 245
+StartChar: omtaml
+Encoding: 501 3024 245
 Width: 1023
 VWidth: 0
 Flags: W
@@ -23465,8 +23465,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni20B9
-Encoding: 8377 8377 246
+StartChar: inr_currency
+Encoding: 502 8377 246
 Width: 624
 VWidth: 0
 Flags: W
