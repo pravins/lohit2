@@ -1903,7 +1903,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: anusvarasigntaml
+StartChar: anusvarataml
 Encoding: 307 2946 51
 Width: 0
 VWidth: 1023
@@ -1937,7 +1937,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: visargasigntaml
+StartChar: visargataml
 Encoding: 308 2947 52
 Width: 803
 VWidth: 1023
@@ -9532,7 +9532,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: kataml_isigntaml.abvs
+StartChar: kataml_isigntaml
 Encoding: 388 -1 132
 Width: 839
 VWidth: 1023
@@ -9663,11 +9663,10 @@ SplineSet
  157 492 l 1,17,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml isigntaml
 EndChar
 
-StartChar: ngataml_isigntaml.abvs
+StartChar: ngataml_isigntaml
 Encoding: 389 -1 133
 Width: 1069
 VWidth: 1023
@@ -9781,11 +9780,10 @@ SplineSet
  92 492 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ngataml isigntaml
 EndChar
 
-StartChar: cataml_isigntaml.abvs
+StartChar: cataml_isigntaml
 Encoding: 390 -1 134
 Width: 802
 VWidth: 1023
@@ -9898,11 +9896,10 @@ SplineSet
  157 492 l 1,17,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" cataml isigntaml
 EndChar
 
-StartChar: jataml_isigntaml.abvs
+StartChar: jataml_isigntaml
 Encoding: 391 -1 135
 Width: 1041
 VWidth: 1023
@@ -10050,11 +10047,10 @@ SplineSet
  439 406 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" jataml isigntaml
 EndChar
 
-StartChar: nyataml_isigntaml.abvs
+StartChar: nyataml_isigntaml
 Encoding: 392 -1 136
 Width: 1290
 VWidth: 1023
@@ -10196,11 +10192,10 @@ SplineSet
  74 197 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nyataml isigntaml
 EndChar
 
-StartChar: ttataml_isigntaml.abvs
+StartChar: ttataml_isigntaml
 Encoding: 393 -1 137
 Width: 815
 VWidth: 1023
@@ -10283,11 +10278,10 @@ SplineSet
  326 234 l 1,22,23
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ttataml isigntaml
 EndChar
 
-StartChar: nnataml_isigntaml.abvs
+StartChar: nnataml_isigntaml
 Encoding: 394 -1 138
 Width: 1523
 VWidth: 1023
@@ -10465,11 +10459,10 @@ SplineSet
  976 492 l 1,39,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnataml isigntaml
 EndChar
 
-StartChar: tataml_isigntaml.abvs
+StartChar: tataml_isigntaml
 Encoding: 395 -1 139
 Width: 839
 VWidth: 1023
@@ -10595,11 +10588,10 @@ SplineSet
  157 492 l 1,17,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" tataml isigntaml
 EndChar
 
-StartChar: nataml_isigntaml.abvs
+StartChar: nataml_isigntaml
 Encoding: 396 -1 140
 Width: 848
 VWidth: 1023
@@ -10716,11 +10708,10 @@ SplineSet
  92 492 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nataml isigntaml
 EndChar
 
-StartChar: nnnataml_isigntaml.abvs
+StartChar: nnnataml_isigntaml
 Encoding: 397 -1 141
 Width: 1225
 VWidth: 1023
@@ -10869,11 +10860,10 @@ SplineSet
  728 492 l 1,26,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnnataml isigntaml
 EndChar
 
-StartChar: pataml_isigntaml.abvs
+StartChar: pataml_isigntaml
 Encoding: 398 -1 142
 Width: 934
 VWidth: 1023
@@ -10962,11 +10952,10 @@ SplineSet
  608 49 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" pataml isigntaml
 EndChar
 
-StartChar: mataml_isigntaml.abvs
+StartChar: mataml_isigntaml
 Encoding: 399 -1 143
 Width: 1008
 VWidth: 1023
@@ -11065,11 +11054,10 @@ SplineSet
  522 504 l 1,12,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" mataml isigntaml
 EndChar
 
-StartChar: yataml_isigntaml.abvs
+StartChar: yataml_isigntaml
 Encoding: 400 -1 144
 Width: 1051
 VWidth: 1023
@@ -11180,11 +11168,10 @@ SplineSet
  725 49 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" yataml isigntaml
 EndChar
 
-StartChar: rataml_isigntaml.abvs
+StartChar: rataml_isigntaml
 Encoding: 401 -1 145
 Width: 737
 VWidth: 1023
@@ -11228,11 +11215,10 @@ SplineSet
  328 -21 328 -21 387 0 c 1,0,1
 EndSplineSet
 Validated: 9
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rataml isigntaml
 EndChar
 
-StartChar: rrataml_isigntaml.abvs
+StartChar: rrataml_isigntaml
 Encoding: 402 -1 146
 Width: 881
 VWidth: 1023
@@ -11346,11 +11332,10 @@ SplineSet
  334 443 l 1,0,1
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rrataml isigntaml
 EndChar
 
-StartChar: lataml_isigntaml.abvs
+StartChar: lataml_isigntaml
 Encoding: 403 -1 147
 Width: 1043
 VWidth: 1023
@@ -11468,11 +11453,10 @@ SplineSet
  730 215 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lataml isigntaml
 EndChar
 
-StartChar: llataml_isigntaml.abvs
+StartChar: llataml_isigntaml
 Encoding: 404 -1 148
 Width: 1132
 VWidth: 1023
@@ -11601,11 +11585,10 @@ SplineSet
  487 492 l 1,13,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" llataml isigntaml
 EndChar
 
-StartChar: lllataml_isigntaml.abvs
+StartChar: lllataml_isigntaml
 Encoding: 405 -1 149
 Width: 1008
 VWidth: 1023
@@ -11741,11 +11724,10 @@ SplineSet
  522 504 l 1,12,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lllataml isigntaml
 EndChar
 
-StartChar: vataml_isigntaml.abvs
+StartChar: vataml_isigntaml
 Encoding: 406 -1 150
 Width: 1165
 VWidth: 1023
@@ -11870,11 +11852,10 @@ SplineSet
  827 49 l 1,13,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" vataml isigntaml
 EndChar
 
-StartChar: ssataml_isigntaml.abvs
+StartChar: ssataml_isigntaml
 Encoding: 407 -1 151
 Width: 1339
 VWidth: 1023
@@ -12027,11 +12008,10 @@ SplineSet
  824 492 l 1,34,35
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ssataml isigntaml
 EndChar
 
-StartChar: sataml_isigntaml.abvs
+StartChar: sataml_isigntaml
 Encoding: 408 -1 152
 Width: 1283
 VWidth: 1023
@@ -12160,11 +12140,10 @@ SplineSet
  982 246 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml isigntaml
 EndChar
 
-StartChar: hataml_isigntaml.abvs
+StartChar: hataml_isigntaml
 Encoding: 409 -1 153
 Width: 1486
 VWidth: 1023
@@ -12312,11 +12291,10 @@ SplineSet
  927 455 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" hataml isigntaml
 EndChar
 
-StartChar: kataml_iisigntaml.abvs
+StartChar: kataml_iisigntaml
 Encoding: 410 -1 154
 Width: 655
 VWidth: 1023
@@ -12453,11 +12431,10 @@ SplineSet
  403 713 l 1,79,80
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml iisigntaml
 EndChar
 
-StartChar: ngataml_iisigntaml.abvs
+StartChar: ngataml_iisigntaml
 Encoding: 411 -1 155
 Width: 897
 VWidth: 1023
@@ -12576,11 +12553,10 @@ SplineSet
  682 713 l 1,62,63
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ngataml iisigntaml
 EndChar
 
-StartChar: cataml_iisigntaml.abvs
+StartChar: cataml_iisigntaml
 Encoding: 412 -1 156
 Width: 567
 VWidth: 1023
@@ -12699,11 +12675,10 @@ SplineSet
  403 713 l 1,61,62
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" cataml iisigntaml
 EndChar
 
-StartChar: jataml_iisigntaml.abvs
+StartChar: jataml_iisigntaml
 Encoding: 413 -1 157
 Width: 856
 VWidth: 1023
@@ -12860,11 +12835,10 @@ SplineSet
  668 713 l 1,128,129
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" jataml iisigntaml
 EndChar
 
-StartChar: nyataml_iisigntaml.abvs
+StartChar: nyataml_iisigntaml
 Encoding: 414 -1 158
 Width: 1101
 VWidth: 1023
@@ -13013,11 +12987,10 @@ SplineSet
  817 713 l 1,102,103
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nyataml iisigntaml
 EndChar
 
-StartChar: ttataml_iisigntaml.abvs
+StartChar: ttataml_iisigntaml
 Encoding: 415 -1 159
 Width: 815
 VWidth: 1023
@@ -13098,11 +13071,10 @@ SplineSet
  92 0 l 1,13,-1
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ttataml iisigntaml
 EndChar
 
-StartChar: nnataml_iisigntaml.abvs
+StartChar: nnataml_iisigntaml
 Encoding: 416 -1 160
 Width: 1253
 VWidth: 1023
@@ -13287,11 +13259,10 @@ SplineSet
  1099 713 l 1,144,145
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnataml iisigntaml
 EndChar
 
-StartChar: tataml_iisigntaml.abvs
+StartChar: tataml_iisigntaml
 Encoding: 417 -1 161
 Width: 667
 VWidth: 1023
@@ -13423,11 +13394,10 @@ SplineSet
  391 713 l 1,87,88
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" tataml iisigntaml
 EndChar
 
-StartChar: nataml_iisigntaml.abvs
+StartChar: nataml_iisigntaml
 Encoding: 418 -1 162
 Width: 656
 VWidth: 1023
@@ -13553,11 +13523,10 @@ SplineSet
  375 713 l 1,70,71
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nataml iisigntaml
 EndChar
 
-StartChar: nnnataml_iisigntaml.abvs
+StartChar: nnnataml_iisigntaml
 Encoding: 419 -1 163
 Width: 993
 VWidth: 1023
@@ -13713,11 +13682,10 @@ SplineSet
  851 713 l 1,107,108
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" nnnataml iisigntaml
 EndChar
 
-StartChar: pataml_iisigntaml.abvs
+StartChar: pataml_iisigntaml
 Encoding: 420 -1 164
 Width: 762
 VWidth: 1023
@@ -13809,11 +13777,10 @@ SplineSet
  547 713 l 1,34,35
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" pataml iisigntaml
 EndChar
 
-StartChar: mataml_iisigntaml.abvs
+StartChar: mataml_iisigntaml
 Encoding: 421 -1 165
 Width: 827
 VWidth: 1023
@@ -13920,11 +13887,10 @@ SplineSet
  608 713 l 1,52,53
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" mataml iisigntaml
 EndChar
 
-StartChar: yataml_iisigntaml.abvs
+StartChar: yataml_iisigntaml
 Encoding: 422 -1 166
 Width: 878
 VWidth: 1023
@@ -14038,11 +14004,10 @@ SplineSet
  664 713 l 1,50,51
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" yataml iisigntaml
 EndChar
 
-StartChar: rataml_iisigntaml.abvs
+StartChar: rataml_iisigntaml
 Encoding: 423 -1 167
 Width: 529
 VWidth: 1023
@@ -14096,11 +14061,10 @@ SplineSet
  338 682 338 682 338 713 c 129,-1,43
 EndSplineSet
 Validated: 9
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rataml iisigntaml
 EndChar
 
-StartChar: rrataml_iisigntaml.abvs
+StartChar: rrataml_iisigntaml
 Encoding: 424 -1 168
 Width: 694
 VWidth: 1023
@@ -14219,11 +14183,10 @@ SplineSet
  506 713 l 1,73,74
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" rrataml iisigntaml
 EndChar
 
-StartChar: lataml_iisigntaml.abvs
+StartChar: lataml_iisigntaml
 Encoding: 425 -1 169
 Width: 851
 VWidth: 1023
@@ -14347,11 +14310,10 @@ SplineSet
  681 713 l 1,88,89
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lataml iisigntaml
 EndChar
 
-StartChar: llataml_iisigntaml.abvs
+StartChar: llataml_iisigntaml
 Encoding: 426 -1 170
 Width: 924
 VWidth: 1023
@@ -14489,11 +14451,10 @@ SplineSet
  782 713 l 1,80,81
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" llataml iisigntaml
 EndChar
 
-StartChar: lllataml_iisigntaml.abvs
+StartChar: lllataml_iisigntaml
 Encoding: 427 -1 171
 Width: 827
 VWidth: 1023
@@ -14637,11 +14598,10 @@ SplineSet
  608 713 l 1,89,90
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" lllataml iisigntaml
 EndChar
 
-StartChar: vataml_iisigntaml.abvs
+StartChar: vataml_iisigntaml
 Encoding: 428 -1 172
 Width: 980
 VWidth: 1023
@@ -14769,11 +14729,10 @@ SplineSet
  766 713 l 1,81,82
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" vataml iisigntaml
 EndChar
 
-StartChar: ssataml_iisigntaml.abvs
+StartChar: ssataml_iisigntaml
 Encoding: 429 -1 173
 Width: 1146
 VWidth: 1023
@@ -14937,11 +14896,10 @@ SplineSet
  854 713 l 1,121,122
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" ssataml iisigntaml
 EndChar
 
-StartChar: sataml_iisigntaml.abvs
+StartChar: sataml_iisigntaml
 Encoding: 430 -1 174
 Width: 1097
 VWidth: 1023
@@ -15081,11 +15039,10 @@ SplineSet
  953 713 l 1,103,104
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml iisigntaml
 EndChar
 
-StartChar: hataml_iisigntaml.abvs
+StartChar: hataml_iisigntaml
 Encoding: 431 -1 175
 Width: 1278
 VWidth: 1023
@@ -15242,11 +15199,10 @@ SplineSet
  1065 713 l 1,127,128
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" hataml iisigntaml
 EndChar
 
-StartChar: kataml_usigntaml.blws
+StartChar: kataml_usigntaml
 Encoding: 432 -1 176
 Width: 904
 VWidth: 1023
@@ -15344,11 +15300,10 @@ SplineSet
  55 98 l 1,17,18
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" kataml usigntaml
 EndChar
 
-StartChar: ngataml_usigntaml.blws
+StartChar: ngataml_usigntaml
 Encoding: 433 -1 177
 Width: 897
 VWidth: 1023
@@ -15439,11 +15394,10 @@ SplineSet
  92 492 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ngataml usigntaml
 EndChar
 
-StartChar: cataml_usigntaml.blws
+StartChar: cataml_usigntaml
 Encoding: 434 -1 178
 Width: 668
 VWidth: 1023
@@ -15531,7 +15485,6 @@ SplineSet
  34 160 l 1,17,18
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" cataml usigntaml
 EndChar
 
@@ -15595,7 +15548,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: nyataml_usigntaml.blws
+StartChar: nyataml_usigntaml
 Encoding: 436 -1 180
 Width: 1162
 VWidth: 1023
@@ -15724,11 +15677,10 @@ SplineSet
  87 -148 l 1,82,83
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nyataml usigntaml
 EndChar
 
-StartChar: ttataml_usigntaml.blws
+StartChar: ttataml_usigntaml
 Encoding: 437 -1 181
 Width: 914
 VWidth: 1023
@@ -15825,11 +15777,10 @@ SplineSet
  134 197 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ttataml usigntaml
 EndChar
 
-StartChar: nnataml_usigntaml.blws
+StartChar: nnataml_usigntaml
 Encoding: 438 -1 182
 Width: 1437
 VWidth: 1023
@@ -16005,11 +15956,10 @@ SplineSet
  165 -123 l 1,142,143
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnataml usigntaml
 EndChar
 
-StartChar: tataml_usigntaml.blws
+StartChar: tataml_usigntaml
 Encoding: 439 -1 183
 Width: 888
 VWidth: 1023
@@ -16120,11 +16070,10 @@ SplineSet
  4 -148 l 1,28,29
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" tataml usigntaml
 EndChar
 
-StartChar: nataml_usigntaml.blws
+StartChar: nataml_usigntaml
 Encoding: 440 -1 184
 Width: 885
 VWidth: 1023
@@ -16229,11 +16178,10 @@ SplineSet
  68 -148 l 1,45,46
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nataml usigntaml
 EndChar
 
-StartChar: nnnataml_usigntaml.blws
+StartChar: nnnataml_usigntaml
 Encoding: 441 -1 185
 Width: 1188
 VWidth: 1023
@@ -16374,11 +16322,10 @@ SplineSet
  187 -123 l 1,102,103
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnnataml usigntaml
 EndChar
 
-StartChar: pataml_usigntaml.blws
+StartChar: pataml_usigntaml
 Encoding: 442 -1 186
 Width: 762
 VWidth: 1023
@@ -16445,11 +16392,10 @@ SplineSet
  92 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" pataml usigntaml
 EndChar
 
-StartChar: mataml_usigntaml.blws
+StartChar: mataml_usigntaml
 Encoding: 443 -1 187
 Width: 1137
 VWidth: 1023
@@ -16552,11 +16498,10 @@ SplineSet
  761 369 l 1,36,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" mataml usigntaml
 EndChar
 
-StartChar: yataml_usigntaml.blws
+StartChar: yataml_usigntaml
 Encoding: 444 -1 188
 Width: 878
 VWidth: 1023
@@ -16634,11 +16579,10 @@ SplineSet
  86 135 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" yataml usigntaml
 EndChar
 
-StartChar: rataml_usigntaml.blws
+StartChar: rataml_usigntaml
 Encoding: 445 -1 189
 Width: 949
 VWidth: 1023
@@ -16730,11 +16674,10 @@ SplineSet
  486 -270 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rataml usigntaml
 EndChar
 
-StartChar: rrataml_usigntaml.blws
+StartChar: rrataml_usigntaml
 Encoding: 446 -1 190
 Width: 856
 VWidth: 1023
@@ -16849,11 +16792,10 @@ SplineSet
  76 -148 l 1,52,53
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rrataml usigntaml
 EndChar
 
-StartChar: lataml_usigntaml.blws
+StartChar: lataml_usigntaml
 Encoding: 447 -1 191
 Width: 1055
 VWidth: 1023
@@ -16980,11 +16922,10 @@ SplineSet
  54 221 l 1,24,25
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lataml usigntaml
 EndChar
 
-StartChar: llataml_usigntaml.blws
+StartChar: llataml_usigntaml
 Encoding: 448 -1 192
 Width: 1321
 VWidth: 1023
@@ -17107,11 +17048,10 @@ SplineSet
  135 246 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" llataml usigntaml
 EndChar
 
-StartChar: lllataml_usigntaml.blws
+StartChar: lllataml_usigntaml
 Encoding: 449 -1 193
 Width: 1094
 VWidth: 1023
@@ -17220,11 +17160,10 @@ SplineSet
  64 135 l 1,12,13
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lllataml usigntaml
 EndChar
 
-StartChar: vataml_usigntaml.blws
+StartChar: vataml_usigntaml
 Encoding: 450 -1 194
 Width: 980
 VWidth: 1023
@@ -17324,11 +17263,10 @@ SplineSet
  827 49 l 1,13,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" vataml usigntaml
 EndChar
 
-StartChar: kataml_uusigntaml.blws
+StartChar: kataml_uusigntaml
 Encoding: 451 -1 195
 Width: 1027
 VWidth: 1023
@@ -17448,11 +17386,10 @@ SplineSet
  34 160 l 1,30,31
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" kataml uusigntaml
 EndChar
 
-StartChar: ngataml_uusigntaml.blws
+StartChar: ngataml_uusigntaml
 Encoding: 452 -1 196
 Width: 1027
 VWidth: 1023
@@ -17572,11 +17509,10 @@ SplineSet
  92 492 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ngataml uusigntaml
 EndChar
 
-StartChar: cataml_uusigntaml.blws
+StartChar: cataml_uusigntaml
 Encoding: 453 -1 197
 Width: 980
 VWidth: 1023
@@ -17689,7 +17625,6 @@ SplineSet
  60 98 l 1,17,18
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" cataml uusigntaml
 EndChar
 
@@ -17753,7 +17688,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: nyataml_uusigntaml.blws
+StartChar: nyataml_uusigntaml
 Encoding: 455 -1 199
 Width: 1353
 VWidth: 1023
@@ -17884,11 +17819,10 @@ SplineSet
  87 -148 l 1,85,86
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nyataml uusigntaml
 EndChar
 
-StartChar: ttataml_uusigntaml.blws
+StartChar: ttataml_uusigntaml
 Encoding: 456 -1 200
 Width: 778
 VWidth: 1023
@@ -17994,11 +17928,10 @@ SplineSet
  568 529 l 1,51,52
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" ttataml uusigntaml
 EndChar
 
-StartChar: nnataml_uusigntaml.blws
+StartChar: nnataml_uusigntaml
 Encoding: 457 -1 201
 Width: 1647
 VWidth: 1023
@@ -18180,11 +18113,10 @@ SplineSet
  165 -123 l 1,148,149
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnataml uusigntaml
 EndChar
 
-StartChar: tataml_uusigntaml.blws
+StartChar: tataml_uusigntaml
 Encoding: 458 -1 202
 Width: 1079
 VWidth: 1023
@@ -18301,11 +18233,10 @@ SplineSet
  4 -148 l 1,28,29
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" tataml uusigntaml
 EndChar
 
-StartChar: nataml_uusigntaml.blws
+StartChar: nataml_uusigntaml
 Encoding: 459 -1 203
 Width: 1075
 VWidth: 1023
@@ -18416,11 +18347,10 @@ SplineSet
  68 -148 l 1,51,52
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nataml uusigntaml
 EndChar
 
-StartChar: nnnataml_uusigntaml.blws
+StartChar: nnnataml_uusigntaml
 Encoding: 460 -1 204
 Width: 1411
 VWidth: 1023
@@ -18571,11 +18501,10 @@ SplineSet
  187 -123 l 1,111,112
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" nnnataml uusigntaml
 EndChar
 
-StartChar: pataml_uusigntaml.blws
+StartChar: pataml_uusigntaml
 Encoding: 461 -1 205
 Width: 866
 VWidth: 1023
@@ -18671,11 +18600,10 @@ SplineSet
  92 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" pataml uusigntaml
 EndChar
 
-StartChar: mataml_uusigntaml.blws
+StartChar: mataml_uusigntaml
 Encoding: 462 -1 206
 Width: 1134
 VWidth: 1023
@@ -18794,11 +18722,10 @@ SplineSet
  69 160 l 1,25,26
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" mataml uusigntaml
 EndChar
 
-StartChar: yataml_uusigntaml.blws
+StartChar: yataml_uusigntaml
 Encoding: 463 -1 207
 Width: 1015
 VWidth: 1023
@@ -18905,11 +18832,10 @@ SplineSet
  86 135 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" yataml uusigntaml
 EndChar
 
-StartChar: rataml_uusigntaml.blws
+StartChar: rataml_uusigntaml
 Encoding: 464 -1 208
 Width: 960
 VWidth: 1023
@@ -19021,11 +18947,10 @@ SplineSet
  152 320 l 1,51,52
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rataml uusigntaml
 EndChar
 
-StartChar: rrataml_uusigntaml.blws
+StartChar: rrataml_uusigntaml
 Encoding: 465 -1 209
 Width: 1048
 VWidth: 1023
@@ -19146,11 +19071,10 @@ SplineSet
  76 -148 l 1,58,59
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" rrataml uusigntaml
 EndChar
 
-StartChar: lataml_uusigntaml.blws
+StartChar: lataml_uusigntaml
 Encoding: 466 -1 210
 Width: 1253
 VWidth: 1023
@@ -19287,11 +19211,10 @@ SplineSet
  54 221 l 1,27,28
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lataml uusigntaml
 EndChar
 
-StartChar: llataml_uusigntaml.blws
+StartChar: llataml_uusigntaml
 Encoding: 467 -1 211
 Width: 1317
 VWidth: 1023
@@ -19431,11 +19354,10 @@ SplineSet
  132 246 l 1,23,24
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" llataml uusigntaml
 EndChar
 
-StartChar: lllataml_uusigntaml.blws
+StartChar: lllataml_uusigntaml
 Encoding: 468 -1 212
 Width: 1118
 VWidth: 1023
@@ -19569,11 +19491,10 @@ SplineSet
  66 135 l 1,25,26
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" lllataml uusigntaml
 EndChar
 
-StartChar: vataml_uusigntaml.blws
+StartChar: vataml_uusigntaml
 Encoding: 469 -1 213
 Width: 1155
 VWidth: 1023
@@ -19706,11 +19627,10 @@ SplineSet
  827 49 l 1,13,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'blws' Below Base Substitutions in Tamil lookup 2 subtable" vataml uusigntaml
 EndChar
 
-StartChar: kataml_viramataml_ssataml.akhn
+StartChar: kataml_viramataml_ssataml
 Encoding: 470 -1 214
 Width: 1423
 VWidth: 1023
@@ -19873,7 +19793,7 @@ LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Tamil lookup 1 subtable" kataml viramataml ssataml
 EndChar
 
-StartChar: kataml_viramataml_ssataml.akhn_u0BBF.abvs
+StartChar: katam_viramataml_ssatam
 Encoding: 471 -1 215
 Width: 1614
 VWidth: 1023
@@ -20049,11 +19969,10 @@ SplineSet
  1092 498 l 1,51,52
 EndSplineSet
 Validated: 517
-LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml_viramataml_ssataml.akhn isigntaml
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml_viramataml_ssataml isigntaml
 EndChar
 
-StartChar: kataml_viramataml_ssataml.akhn_u0BC0.abvs
+StartChar: katam_viramataml_ssatam_iitaml
 Encoding: 472 -1 216
 Width: 1423
 VWidth: 1023
@@ -20245,11 +20164,10 @@ SplineSet
  1116 713 l 1,149,150
 EndSplineSet
 Validated: 517
-LCarets2: 1 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml_viramataml_ssataml.akhn iisigntaml
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" kataml_viramataml_ssataml iisigntaml
 EndChar
 
-StartChar: shataml_viramataml.half_u0BB0_u0BC0.abvs
+StartChar: satam_viramataml_rataml_iitaml
 Encoding: 473 -1 217
 Width: 1332
 VWidth: 1023
@@ -20402,12 +20320,11 @@ SplineSet
  92 0 l 1,13,-1
 EndSplineSet
 Validated: 517
-LCarets2: 2 0 0 
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml_viramataml.half rataml iisigntaml
-Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" shataml_viramataml.half rataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" shataml_viramataml rataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" sataml_viramataml rataml iisigntaml
 EndChar
 
-StartChar: kataml_viramataml.half
+StartChar: kataml_viramataml
 Encoding: 474 -1 218
 Width: 655
 VWidth: 1023
@@ -20525,12 +20442,11 @@ SplineSet
  267 688 l 1,54,55
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" kataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" kataml viramataml
 EndChar
 
-StartChar: ngataml_viramataml.half
+StartChar: ngataml_viramataml
 Encoding: 475 -1 219
 Width: 897
 VWidth: 1023
@@ -20631,12 +20547,11 @@ SplineSet
  388 688 l 1,37,38
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ngataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" ngataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ngataml viramataml
 EndChar
 
-StartChar: cataml_viramataml.half
+StartChar: cataml_viramataml
 Encoding: 476 -1 220
 Width: 567
 VWidth: 1023
@@ -20736,12 +20651,11 @@ SplineSet
  224 688 l 1,36,37
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" cataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" cataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" cataml viramataml
 EndChar
 
-StartChar: jataml_viramataml.half
+StartChar: jataml_viramataml
 Encoding: 477 -1 221
 Width: 854
 VWidth: 1023
@@ -20882,12 +20796,11 @@ SplineSet
  366 688 l 1,104,105
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" jataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" jataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" jataml viramataml
 EndChar
 
-StartChar: nyataml_viramataml.half
+StartChar: nyataml_viramataml
 Encoding: 478 -1 222
 Width: 1100
 VWidth: 1023
@@ -21017,12 +20930,11 @@ SplineSet
  489 688 l 1,77,78
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nyataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nyataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nyataml viramataml
 EndChar
 
-StartChar: ttataml_viramataml.half
+StartChar: ttataml_viramataml
 Encoding: 479 -1 223
 Width: 815
 VWidth: 1023
@@ -21094,12 +21006,11 @@ SplineSet
  347 688 l 1,7,8
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ttataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" ttataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ttataml viramataml
 EndChar
 
-StartChar: nnataml_viramataml.half
+StartChar: nnataml_viramataml
 Encoding: 480 -1 224
 Width: 1303
 VWidth: 1023
@@ -21264,12 +21175,11 @@ SplineSet
  591 688 l 1,119,120
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nnataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nnataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nnataml viramataml
 EndChar
 
-StartChar: tataml_viramataml.half
+StartChar: tataml_viramataml
 Encoding: 481 -1 225
 Width: 667
 VWidth: 1023
@@ -21382,12 +21292,11 @@ SplineSet
  273 688 l 1,62,63
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" tataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" tataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" tataml viramataml
 EndChar
 
-StartChar: nataml_viramataml.half
+StartChar: nataml_viramataml
 Encoding: 482 -1 226
 Width: 657
 VWidth: 1023
@@ -21494,12 +21403,11 @@ SplineSet
  268 688 l 1,45,46
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nataml viramataml
 EndChar
 
-StartChar: nnnataml_viramataml.half
+StartChar: nnnataml_viramataml
 Encoding: 483 -1 227
 Width: 993
 VWidth: 1023
@@ -21636,12 +21544,11 @@ SplineSet
  436 688 l 1,82,83
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nnnataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" nnnataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" nnnataml viramataml
 EndChar
 
-StartChar: pataml_viramataml.half
+StartChar: pataml_viramataml
 Encoding: 484 -1 228
 Width: 762
 VWidth: 1023
@@ -21716,12 +21623,11 @@ SplineSet
  321 688 l 1,9,10
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" pataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" pataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" pataml viramataml
 EndChar
 
-StartChar: mataml_viramataml.half
+StartChar: mataml_viramataml
 Encoding: 485 -1 229
 Width: 824
 VWidth: 1023
@@ -21809,12 +21715,11 @@ SplineSet
  352 688 l 1,28,29
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" mataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" mataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" mataml viramataml
 EndChar
 
-StartChar: yataml_viramataml.half
+StartChar: yataml_viramataml
 Encoding: 486 -1 230
 Width: 878
 VWidth: 1023
@@ -21911,12 +21816,11 @@ SplineSet
  379 688 l 1,25,26
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" yataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" yataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" yataml viramataml
 EndChar
 
-StartChar: rataml_viramataml.half
+StartChar: rataml_viramataml
 Encoding: 487 -1 231
 Width: 535
 VWidth: 1023
@@ -21953,12 +21857,11 @@ SplineSet
  208 663 208 663 208 688 c 1,16,17
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" rataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" rataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" rataml viramataml
 EndChar
 
-StartChar: rrataml_viramataml.half
+StartChar: rrataml_viramataml
 Encoding: 488 -1 232
 Width: 697
 VWidth: 1023
@@ -22058,12 +21961,11 @@ SplineSet
  288 688 l 1,49,50
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" rrataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" rrataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" rrataml viramataml
 EndChar
 
-StartChar: lataml_viramataml.half
+StartChar: lataml_viramataml
 Encoding: 489 -1 233
 Width: 850
 VWidth: 1023
@@ -22175,12 +22077,11 @@ SplineSet
  365 688 l 1,65,66
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" lataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" lataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" lataml viramataml
 EndChar
 
-StartChar: llataml_viramataml.half
+StartChar: llataml_viramataml
 Encoding: 490 -1 234
 Width: 924
 VWidth: 1023
@@ -22299,12 +22200,11 @@ SplineSet
  402 688 l 1,55,56
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" llataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" llataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" llataml viramataml
 EndChar
 
-StartChar: lllataml_viramataml.half
+StartChar: lllataml_viramataml
 Encoding: 491 -1 235
 Width: 824
 VWidth: 1023
@@ -22429,12 +22329,11 @@ SplineSet
  352 688 l 1,65,66
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" lllataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" lllataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" lllataml viramataml
 EndChar
 
-StartChar: vataml_viramataml.half
+StartChar: vataml_viramataml
 Encoding: 492 -1 236
 Width: 980
 VWidth: 1023
@@ -22545,12 +22444,11 @@ SplineSet
  430 688 l 1,56,57
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" vataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" vataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" vataml viramataml
 EndChar
 
-StartChar: ssataml_viramataml.half
+StartChar: ssataml_viramataml
 Encoding: 493 -1 237
 Width: 1146
 VWidth: 1023
@@ -22699,12 +22597,11 @@ SplineSet
  513 688 l 1,97,98
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ssataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" ssataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" ssataml viramataml
 EndChar
 
-StartChar: sataml_viramataml.half
+StartChar: sataml_viramataml
 Encoding: 494 -1 238
 Width: 1100
 VWidth: 1023
@@ -22832,12 +22729,11 @@ SplineSet
  489 688 l 1,80,81
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" sataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" sataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" sataml viramataml
 EndChar
 
-StartChar: hataml_viramataml.half
+StartChar: hataml_viramataml
 Encoding: 495 -1 239
 Width: 1255
 VWidth: 1023
@@ -22975,12 +22871,11 @@ SplineSet
  567 688 l 1,103,104
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" hataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" hataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" hataml viramataml
 EndChar
 
-StartChar: kataml_viramataml_ssataml.akhn_u0BCD.half
+StartChar: kataml_virama_ssataml_virama
 Encoding: 496 -1 240
 Width: 1423
 VWidth: 1023
@@ -23156,12 +23051,11 @@ SplineSet
  652 688 l 1,125,126
 EndSplineSet
 Validated: 517
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" kataml_viramataml_ssataml.akhn viramataml
-Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" kataml_viramataml_ssataml.akhn viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" kataml_viramataml_ssataml viramataml
+Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" kataml_viramataml_ssataml viramataml
 EndChar
 
-StartChar: shataml_viramataml.half
+StartChar: shataml_viramataml
 Encoding: 497 -1 241
 Width: 1051
 VWidth: 1023
@@ -23204,12 +23098,11 @@ SplineSet
  361 492 l 1,19,-1
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" shataml viramataml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" shataml viramataml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" shataml viramataml
 EndChar
 
-StartChar: shataml_iisigntaml.half
+StartChar: shataml_iisigntaml
 Encoding: 498 -1 242
 Width: 1051
 VWidth: 1023
@@ -23268,12 +23161,11 @@ SplineSet
  691 441 l 1,55,-1
 EndSplineSet
 Validated: 33
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" shataml iisigntaml
 Ligature2: "'half' Half Forms in Tamil lookup 3 subtable" shataml iisigntaml
+Ligature2: "'haln' Halant Forms in Tamil lookup 4 subtable" shataml iisigntaml
 EndChar
 
-StartChar: shataml_isigntaml.abvs
+StartChar: shataml_isigntaml
 Encoding: 499 -1 243
 Width: 1223
 VWidth: 1023
@@ -23322,7 +23214,6 @@ SplineSet
  687 493 l 1,6,7
 EndSplineSet
 Validated: 33
-LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions in Tamil lookup 0 subtable" shataml isigntaml
 EndChar
 
