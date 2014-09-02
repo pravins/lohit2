@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1409221417
+ModificationTime: 1409569910
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -50,9 +50,9 @@ OS2SupYOff: 615
 OS2StrikeYSize: 61
 OS2StrikeYPos: 307
 OS2Vendor: 'ACE '
-Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('DFLT' <'dflt' > 'deva' <'dflt' > 'latn' <'dflt' > 'taml' <'dflt' > ) ]
-Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 0"  {"'psts' Post Base Substitutions lookup 0-1"  } ['psts' ('DFLT' <'dflt' > 'deva' <'dflt' > 'latn' <'dflt' > 'taml' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 1"  {"'blws' Below Base Substitutions lookup 1-1"  } ['blws' ('DFLT' <'dflt' > 'deva' <'dflt' > 'latn' <'dflt' > 'taml' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 0"  {"'psts' Post Base Substitutions lookup 0-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 1"  {"'blws' Below Base Substitutions lookup 1-1"  } ['blws' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -19928,7 +19928,7 @@ SplineSet
  1092 498 l 1,51,52
 EndSplineSet
 Validated: 517
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml viramataml ssataml isigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml ssataml isigntaml
 EndChar
 
 StartChar: katam_viramataml_ssatam_iitaml
@@ -20123,7 +20123,7 @@ SplineSet
  1116 713 l 1,149,150
 EndSplineSet
 Validated: 517
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml viramataml ssataml viramataml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml ssataml iisigntaml
 EndChar
 
 StartChar: satam_viramataml_rataml_iitaml
@@ -22987,7 +22987,7 @@ SplineSet
  652 688 l 1,125,126
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml viramataml ssataml viramataml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml viramataml ssataml
 EndChar
 
 StartChar: shataml_viramataml
