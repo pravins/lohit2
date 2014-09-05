@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1409826678
+ModificationTime: 1409832711
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,9 @@ OS2SupYOff: 615
 OS2StrikeYSize: 61
 OS2StrikeYPos: 307
 OS2Vendor: 'ACE '
+Lookup: 4 0 0 "'akhn' Akhand lookup 3"  {"'akhn' Akhand lookup 3-1"  } ['akhn' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 4 0 0 "'haln' Halant Forms lookup 4"  {"'haln' Halant Forms lookup 4-1"  } ['haln' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 0"  {"'psts' Post Base Substitutions lookup 0-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 1"  {"'blws' Below Base Substitutions lookup 1-1"  } ['blws' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -12391,7 +12393,7 @@ SplineSet
  403 713 l 1,79,80
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml iisigntaml
 EndChar
 
 StartChar: ngataml_iisigntaml
@@ -12513,7 +12515,7 @@ SplineSet
  682 713 l 1,62,63
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" ngataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ngataml iisigntaml
 EndChar
 
 StartChar: cataml_iisigntaml
@@ -12635,7 +12637,7 @@ SplineSet
  403 713 l 1,61,62
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" cataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" cataml iisigntaml
 EndChar
 
 StartChar: jataml_iisigntaml
@@ -12795,7 +12797,7 @@ SplineSet
  668 713 l 1,128,129
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" jataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" jataml iisigntaml
 EndChar
 
 StartChar: nyataml_iisigntaml
@@ -12947,7 +12949,7 @@ SplineSet
  817 713 l 1,102,103
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" nyataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nyataml iisigntaml
 EndChar
 
 StartChar: ttataml_iisigntaml
@@ -13031,7 +13033,7 @@ SplineSet
  92 0 l 1,13,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" ttataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ttataml iisigntaml
 EndChar
 
 StartChar: nnataml_iisigntaml
@@ -13219,7 +13221,7 @@ SplineSet
  1099 713 l 1,144,145
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnataml iisigntaml
 EndChar
 
 StartChar: tataml_iisigntaml
@@ -13354,7 +13356,7 @@ SplineSet
  391 713 l 1,87,88
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" tataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" tataml iisigntaml
 EndChar
 
 StartChar: nataml_iisigntaml
@@ -13483,7 +13485,7 @@ SplineSet
  375 713 l 1,70,71
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" nataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nataml iisigntaml
 EndChar
 
 StartChar: nnnataml_iisigntaml
@@ -13642,7 +13644,7 @@ SplineSet
  851 713 l 1,107,108
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnnataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnnataml iisigntaml
 EndChar
 
 StartChar: pataml_iisigntaml
@@ -13737,7 +13739,7 @@ SplineSet
  547 713 l 1,34,35
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" pataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" pataml iisigntaml
 EndChar
 
 StartChar: mataml_iisigntaml
@@ -13847,7 +13849,7 @@ SplineSet
  608 713 l 1,52,53
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" mataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" mataml iisigntaml
 EndChar
 
 StartChar: yataml_iisigntaml
@@ -13964,7 +13966,7 @@ SplineSet
  664 713 l 1,50,51
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" yataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" yataml iisigntaml
 EndChar
 
 StartChar: rataml_iisigntaml
@@ -14021,7 +14023,7 @@ SplineSet
  338 682 338 682 338 713 c 129,-1,43
 EndSplineSet
 Validated: 9
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" rataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rataml iisigntaml
 EndChar
 
 StartChar: rrataml_iisigntaml
@@ -14143,7 +14145,7 @@ SplineSet
  506 713 l 1,73,74
 EndSplineSet
 Validated: 37
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" rrataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rrataml iisigntaml
 EndChar
 
 StartChar: lataml_iisigntaml
@@ -14270,7 +14272,7 @@ SplineSet
  681 713 l 1,88,89
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" lataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" lataml iisigntaml
 EndChar
 
 StartChar: llataml_iisigntaml
@@ -14411,7 +14413,7 @@ SplineSet
  782 713 l 1,80,81
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" llataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" llataml iisigntaml
 EndChar
 
 StartChar: lllataml_iisigntaml
@@ -14558,7 +14560,7 @@ SplineSet
  608 713 l 1,89,90
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" lllataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" lllataml iisigntaml
 EndChar
 
 StartChar: vataml_iisigntaml
@@ -14689,7 +14691,7 @@ SplineSet
  766 713 l 1,81,82
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" vataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" vataml iisigntaml
 EndChar
 
 StartChar: ssataml_iisigntaml
@@ -14856,7 +14858,7 @@ SplineSet
  854 713 l 1,121,122
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" ssataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ssataml iisigntaml
 EndChar
 
 StartChar: sataml_iisigntaml
@@ -14999,7 +15001,7 @@ SplineSet
  953 713 l 1,103,104
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" sataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" sataml iisigntaml
 EndChar
 
 StartChar: hataml_iisigntaml
@@ -15159,7 +15161,7 @@ SplineSet
  1065 713 l 1,127,128
 EndSplineSet
 Validated: 5
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" hataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" hataml iisigntaml
 EndChar
 
 StartChar: kataml_usigntaml
@@ -19749,8 +19751,8 @@ SplineSet
  34 160 l 1,51,52
 EndSplineSet
 Validated: 5
+Ligature2: "'akhn' Akhand lookup 3-1" kataml viramataml ssataml
 LCarets2: 2 0 0 
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml_viramataml ssataml
 EndChar
 
 StartChar: katam_viramataml_ssatam_itaml
@@ -19930,7 +19932,7 @@ SplineSet
 EndSplineSet
 Validated: 517
 LCarets2: 3 0 0 0 
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml_viramataml ssataml isigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml_viramataml_ssataml isigntaml
 EndChar
 
 StartChar: katam_viramataml_ssatam_iitaml
@@ -20125,8 +20127,8 @@ SplineSet
  1116 713 l 1,149,150
 EndSplineSet
 Validated: 517
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml_viramataml_ssataml iisigntaml
 LCarets2: 3 0 0 0 
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml_viramataml ssataml iisigntaml
 EndChar
 
 StartChar: satam_viramataml_rataml_iitaml
@@ -20282,7 +20284,7 @@ SplineSet
  92 0 l 1,13,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" sataml_viramataml rataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" sataml viramataml rataml iisigntaml
 EndChar
 
 StartChar: kataml_viramataml
@@ -20403,7 +20405,7 @@ SplineSet
  267 688 l 1,54,55
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" kataml viramataml
 EndChar
 
 StartChar: ngataml_viramataml
@@ -20507,7 +20509,7 @@ SplineSet
  388 688 l 1,37,38
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ngataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" ngataml viramataml
 EndChar
 
 StartChar: cataml_viramataml
@@ -20610,7 +20612,7 @@ SplineSet
  224 688 l 1,36,37
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" cataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" cataml viramataml
 EndChar
 
 StartChar: jataml_viramataml
@@ -20754,7 +20756,7 @@ SplineSet
  366 688 l 1,104,105
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" jataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" jataml viramataml
 EndChar
 
 StartChar: nyataml_viramataml
@@ -20887,7 +20889,7 @@ SplineSet
  489 688 l 1,77,78
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nyataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" nyataml viramataml
 EndChar
 
 StartChar: ttataml_viramataml
@@ -20962,7 +20964,7 @@ SplineSet
  347 688 l 1,7,8
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ttataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" ttataml viramataml
 EndChar
 
 StartChar: nnataml_viramataml
@@ -21130,7 +21132,7 @@ SplineSet
  591 688 l 1,119,120
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" nnataml viramataml
 EndChar
 
 StartChar: tataml_viramataml
@@ -21246,7 +21248,7 @@ SplineSet
  273 688 l 1,62,63
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" tataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" tataml viramataml
 EndChar
 
 StartChar: nataml_viramataml
@@ -21356,7 +21358,7 @@ SplineSet
  268 688 l 1,45,46
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" nataml viramataml
 EndChar
 
 StartChar: nnnataml_viramataml
@@ -21496,7 +21498,7 @@ SplineSet
  436 688 l 1,82,83
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnnataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" nnnataml viramataml
 EndChar
 
 StartChar: pataml_viramataml
@@ -21574,7 +21576,7 @@ SplineSet
  321 688 l 1,9,10
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" pataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" pataml viramataml
 EndChar
 
 StartChar: mataml_viramataml
@@ -21665,7 +21667,7 @@ SplineSet
  352 688 l 1,28,29
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" mataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" mataml viramataml
 EndChar
 
 StartChar: yataml_viramataml
@@ -21765,7 +21767,7 @@ SplineSet
  379 688 l 1,25,26
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" yataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" yataml viramataml
 EndChar
 
 StartChar: rataml_viramataml
@@ -21805,7 +21807,7 @@ SplineSet
  208 663 208 663 208 688 c 1,16,17
 EndSplineSet
 Validated: 1
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" rataml viramataml
 EndChar
 
 StartChar: rrataml_viramataml
@@ -21908,7 +21910,7 @@ SplineSet
  288 688 l 1,49,50
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rrataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" rrataml viramataml
 EndChar
 
 StartChar: lataml_viramataml
@@ -22023,7 +22025,7 @@ SplineSet
  365 688 l 1,65,66
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" lataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" lataml viramataml
 EndChar
 
 StartChar: llataml_viramataml
@@ -22145,7 +22147,7 @@ SplineSet
  402 688 l 1,55,56
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" llataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" llataml viramataml
 EndChar
 
 StartChar: lllataml_viramataml
@@ -22273,7 +22275,7 @@ SplineSet
  352 688 l 1,65,66
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" lllataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" lllataml viramataml
 EndChar
 
 StartChar: vataml_viramataml
@@ -22387,7 +22389,7 @@ SplineSet
  430 688 l 1,56,57
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" vataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" vataml viramataml
 EndChar
 
 StartChar: ssataml_viramataml
@@ -22539,7 +22541,7 @@ SplineSet
  513 688 l 1,97,98
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ssataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" ssataml viramataml
 EndChar
 
 StartChar: sataml_viramataml
@@ -22670,7 +22672,7 @@ SplineSet
  489 688 l 1,80,81
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" sataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" sataml viramataml
 EndChar
 
 StartChar: hataml_viramataml
@@ -22811,7 +22813,7 @@ SplineSet
  567 688 l 1,103,104
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" hataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" hataml viramataml
 EndChar
 
 StartChar: kataml_virama_ssataml_virama
@@ -22990,7 +22992,7 @@ SplineSet
  652 688 l 1,125,126
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml viramataml ssataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" kataml_viramataml_ssataml viramataml
 EndChar
 
 StartChar: shataml_viramataml
@@ -23036,7 +23038,7 @@ SplineSet
  361 492 l 1,19,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" shataml viramataml
+Ligature2: "'haln' Halant Forms lookup 4-1" shataml viramataml
 EndChar
 
 StartChar: shataml_iisigntaml
@@ -23098,7 +23100,7 @@ SplineSet
  691 441 l 1,55,-1
 EndSplineSet
 Validated: 33
-Ligature2: "'psts' Post Base Substitutions lookup 0-1" shataml iisigntaml
+Ligature2: "'abvs' Above Base Substitutions lookup 2-1" shataml iisigntaml
 EndChar
 
 StartChar: shataml_isigntaml
