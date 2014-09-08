@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1409832711
+ModificationTime: 1410155772
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,6 @@ Lookup: 4 0 0 "'akhn' Akhand lookup 3"  {"'akhn' Akhand lookup 3-1"  } ['akhn' (
 Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms lookup 4"  {"'haln' Halant Forms lookup 4-1"  } ['haln' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 0"  {"'psts' Post Base Substitutions lookup 0-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 1"  {"'blws' Below Base Substitutions lookup 1-1"  } ['blws' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -15262,7 +15261,7 @@ SplineSet
  55 98 l 1,17,18
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" kataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml usigntaml
 EndChar
 
 StartChar: ngataml_usigntaml
@@ -15356,7 +15355,7 @@ SplineSet
  92 492 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" ngataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" ngataml usigntaml
 EndChar
 
 StartChar: cataml_usigntaml
@@ -15447,7 +15446,7 @@ SplineSet
  34 160 l 1,17,18
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" cataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" cataml usigntaml
 EndChar
 
 StartChar: glyph175
@@ -15639,7 +15638,7 @@ SplineSet
  87 -148 l 1,82,83
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nyataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nyataml usigntaml
 EndChar
 
 StartChar: ttataml_usigntaml
@@ -15739,7 +15738,7 @@ SplineSet
  134 197 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" ttataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" ttataml usigntaml
 EndChar
 
 StartChar: nnataml_usigntaml
@@ -15918,7 +15917,7 @@ SplineSet
  165 -123 l 1,142,143
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nnataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnataml usigntaml
 EndChar
 
 StartChar: tataml_usigntaml
@@ -16032,7 +16031,7 @@ SplineSet
  4 -148 l 1,28,29
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" tataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" tataml usigntaml
 EndChar
 
 StartChar: nataml_usigntaml
@@ -16140,7 +16139,7 @@ SplineSet
  68 -148 l 1,45,46
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nataml usigntaml
 EndChar
 
 StartChar: nnnataml_usigntaml
@@ -16284,7 +16283,7 @@ SplineSet
  187 -123 l 1,102,103
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nnnataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnnataml usigntaml
 EndChar
 
 StartChar: pataml_usigntaml
@@ -16354,7 +16353,7 @@ SplineSet
  92 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" pataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" pataml usigntaml
 EndChar
 
 StartChar: mataml_usigntaml
@@ -16460,7 +16459,7 @@ SplineSet
  761 369 l 1,36,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" mataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" mataml usigntaml
 EndChar
 
 StartChar: yataml_usigntaml
@@ -16541,7 +16540,7 @@ SplineSet
  86 135 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" yataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" yataml usigntaml
 EndChar
 
 StartChar: rataml_usigntaml
@@ -16636,7 +16635,7 @@ SplineSet
  486 -270 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" rataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" rataml usigntaml
 EndChar
 
 StartChar: rrataml_usigntaml
@@ -16754,7 +16753,7 @@ SplineSet
  76 -148 l 1,52,53
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" rrataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" rrataml usigntaml
 EndChar
 
 StartChar: lataml_usigntaml
@@ -16884,7 +16883,7 @@ SplineSet
  54 221 l 1,24,25
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" lataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" lataml usigntaml
 EndChar
 
 StartChar: llataml_usigntaml
@@ -17010,7 +17009,7 @@ SplineSet
  135 246 l 1,13,14
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" llataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" llataml usigntaml
 EndChar
 
 StartChar: lllataml_usigntaml
@@ -17122,7 +17121,7 @@ SplineSet
  64 135 l 1,12,13
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" lllataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" lllataml usigntaml
 EndChar
 
 StartChar: vataml_usigntaml
@@ -17225,7 +17224,7 @@ SplineSet
  827 49 l 1,13,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" vataml usigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" vataml usigntaml
 EndChar
 
 StartChar: kataml_uusigntaml
@@ -17348,7 +17347,7 @@ SplineSet
  34 160 l 1,30,31
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" kataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml uusigntaml
 EndChar
 
 StartChar: ngataml_uusigntaml
@@ -17471,7 +17470,7 @@ SplineSet
  92 492 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" ngataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" ngataml uusigntaml
 EndChar
 
 StartChar: cataml_uusigntaml
@@ -17587,7 +17586,7 @@ SplineSet
  60 98 l 1,17,18
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" cataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" cataml uusigntaml
 EndChar
 
 StartChar: glyph194
@@ -17781,7 +17780,7 @@ SplineSet
  87 -148 l 1,85,86
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nyataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nyataml uusigntaml
 EndChar
 
 StartChar: ttataml_uusigntaml
@@ -17890,7 +17889,7 @@ SplineSet
  568 529 l 1,51,52
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" ttataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" ttataml uusigntaml
 EndChar
 
 StartChar: nnataml_uusigntaml
@@ -18075,7 +18074,7 @@ SplineSet
  165 -123 l 1,148,149
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nnataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnataml uusigntaml
 EndChar
 
 StartChar: tataml_uusigntaml
@@ -18195,7 +18194,7 @@ SplineSet
  4 -148 l 1,28,29
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" tataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" tataml uusigntaml
 EndChar
 
 StartChar: nataml_uusigntaml
@@ -18309,7 +18308,7 @@ SplineSet
  68 -148 l 1,51,52
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nataml uusigntaml
 EndChar
 
 StartChar: nnnataml_uusigntaml
@@ -18463,7 +18462,7 @@ SplineSet
  187 -123 l 1,111,112
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" nnnataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnnataml uusigntaml
 EndChar
 
 StartChar: pataml_uusigntaml
@@ -18562,7 +18561,7 @@ SplineSet
  92 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" pataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" pataml uusigntaml
 EndChar
 
 StartChar: mataml_uusigntaml
@@ -18684,7 +18683,7 @@ SplineSet
  69 160 l 1,25,26
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" mataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" mataml uusigntaml
 EndChar
 
 StartChar: yataml_uusigntaml
@@ -18794,7 +18793,7 @@ SplineSet
  86 135 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" yataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" yataml uusigntaml
 EndChar
 
 StartChar: rataml_uusigntaml
@@ -18909,7 +18908,7 @@ SplineSet
  152 320 l 1,51,52
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" rataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" rataml uusigntaml
 EndChar
 
 StartChar: rrataml_uusigntaml
@@ -19033,7 +19032,7 @@ SplineSet
  76 -148 l 1,58,59
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" rrataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" rrataml uusigntaml
 EndChar
 
 StartChar: lataml_uusigntaml
@@ -19173,7 +19172,7 @@ SplineSet
  54 221 l 1,27,28
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" lataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" lataml uusigntaml
 EndChar
 
 StartChar: llataml_uusigntaml
@@ -19316,7 +19315,7 @@ SplineSet
  132 246 l 1,23,24
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" llataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" llataml uusigntaml
 EndChar
 
 StartChar: lllataml_uusigntaml
@@ -19453,7 +19452,7 @@ SplineSet
  66 135 l 1,25,26
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" lllataml uusigntaml
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" lllataml uusigntaml
 EndChar
 
 StartChar: vataml_uusigntaml
@@ -19589,8 +19588,8 @@ SplineSet
  827 49 l 1,13,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'psts' Post Base Substitutions lookup 0-1" vataml uusigntaml
 LCarets2: 1 0 
-Ligature2: "'blws' Below Base Substitutions lookup 1-1" vataml uusigntaml
 EndChar
 
 StartChar: kataml_viramataml_ssataml
