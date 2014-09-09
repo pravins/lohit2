@@ -12,7 +12,7 @@ As per Microsoft typography for Developing OpenType Fonts for Tamil Script, the 
  
 <feature tag> abvs : Above-base substitutions
 
-		         	தீ  ஙீ  சீ  ஜீ  ஞீ  டீ  ணீ  தீ  நீ  னீ  பீ  மீ  யீ  ரீ  றீ  லீ  ளீ  ழீ  வீ  ஷீ  ஸீ  ஹீ  ஶீ  க்ஷீ  ஸ்ரீ  
+		         	கீ  ஙீ  சீ  ஜீ  ஞீ  டீ  ணீ  தீ  நீ  னீ  பீ  மீ  யீ  ரீ  றீ  லீ  ளீ  ழீ  வீ  ஷீ  ஸீ  ஹீ  ஶீ  க்ஷீ  ஸ்ரீ  
    
 <feature tag> psts : Post-base substitutions
 
