@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1410327855
+ModificationTime: 1410412590
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -9431,6 +9431,7 @@ SplineSet
  157 492 l 1,75,-1
  157 492 l 1,17,-1
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml isigntaml
 EndChar
@@ -9497,6 +9498,7 @@ SplineSet
  92 492 l 5,64,-1
  92 492 l 5,0,-1
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" ngataml isigntaml
 EndChar
@@ -9560,6 +9562,7 @@ SplineSet
  157 492 l 1,57,-1
  157 492 l 1,17,-1
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" cataml isigntaml
 EndChar
@@ -10059,6 +10062,7 @@ SplineSet
  938 492 938 492 976 492 c 1,140,-1
  976 492 l 1,39,-1
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" nnataml isigntaml
 EndChar
@@ -10815,6 +10819,7 @@ SplineSet
  246 -127 246 -127 287 -74 c 128,-1,38
  328 -21 328 -21 387 0 c 1,0,1
 EndSplineSet
+Validated: 8388617
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" rataml isigntaml
 EndChar
@@ -11126,6 +11131,7 @@ SplineSet
  487 492 l 1,76,-1
  487 492 l 1,13,-1
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" llataml isigntaml
 EndChar
@@ -11919,7 +11925,7 @@ SplineSet
  403 713 l 5,79,80
 EndSplineSet
 Fore
-Refer: 90 3008 S 1 0 0 1 129 0 2
+Refer: 90 3008 S 1 0 0 1 127 2 2
 Refer: 65 2965 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml iisigntaml
@@ -11994,6 +12000,7 @@ SplineSet
  682 744 682 744 682 713 c 5,74,-1
  682 713 l 5,62,63
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ngataml iisigntaml
 EndChar
@@ -12069,8 +12076,8 @@ SplineSet
  403 713 l 5,61,62
 EndSplineSet
 Fore
-Refer: 90 3008 N 1 0 0 1 130 0 2
-Refer: 67 2970 N 1 0 0 1 0 0 2
+Refer: 90 3008 S 1 0 0 1 124 0 2
+Refer: 67 2970 N 1 0 0 1 1 0 2
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" cataml iisigntaml
 EndChar
@@ -12185,6 +12192,7 @@ SplineSet
  668 744 668 744 668 713 c 5,140,-1
  668 713 l 5,128,129
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" jataml iisigntaml
 EndChar
@@ -12283,6 +12291,7 @@ SplineSet
  817 746 817 746 817 713 c 5,114,-1
  817 713 l 5,102,103
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nyataml iisigntaml
 EndChar
@@ -12332,6 +12341,7 @@ SplineSet
  92 0 l 5,44,-1
  92 0 l 5,13,-1
 EndSplineSet
+Validated: 37
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ttataml iisigntaml
 EndChar
@@ -12460,6 +12470,7 @@ SplineSet
  1099 744 1099 744 1099 713 c 5,156,-1
  1099 713 l 5,144,145
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnataml iisigntaml
 EndChar
@@ -12553,7 +12564,7 @@ SplineSet
  391 713 l 5,87,88
 EndSplineSet
 Fore
-Refer: 90 3008 N 1 0 0 1 109 0 2
+Refer: 90 3008 S 1 0 0 1 113 -1 2
 Refer: 72 2980 N 1 0 0 1 0 0 2
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" tataml iisigntaml
@@ -12633,8 +12644,8 @@ SplineSet
  375 713 l 5,70,71
 EndSplineSet
 Fore
-Refer: 90 3008 S 1 0 0 1 94 0 2
-Refer: 73 2984 N 1 0 0 1 0 0 2
+Refer: 90 3008 S 1 0 0 1 95 -3 2
+Refer: 73 2984 N 1 0 0 1 0 -2 2
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nataml iisigntaml
 EndChar
@@ -12737,6 +12748,7 @@ SplineSet
  851 744 851 744 851 713 c 1,119,-1
  851 713 l 1,107,108
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnnataml iisigntaml
 EndChar
@@ -12788,6 +12800,7 @@ SplineSet
  547 744 547 744 547 713 c 5,46,-1
  547 713 l 5,34,35
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" pataml iisigntaml
 EndChar
@@ -12852,6 +12865,7 @@ SplineSet
  608 744 608 744 608 713 c 5,64,-1
  608 713 l 5,52,53
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" mataml iisigntaml
 EndChar
@@ -13027,8 +13041,9 @@ SplineSet
  338 682 338 682 338 713 c 133,-1,43
 EndSplineSet
 Fore
-Refer: 90 3008 S 1 0 0 1 58 0 2
+Refer: 90 3008 N 1 0 0 1 58 -2 2
 Refer: 78 2992 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rataml iisigntaml
 EndChar
@@ -13106,6 +13121,7 @@ SplineSet
  506 744 506 744 506 713 c 1,85,-1
  506 713 l 1,73,74
 EndSplineSet
+Validated: 37
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rrataml iisigntaml
 EndChar
@@ -13317,6 +13333,7 @@ SplineSet
  782 744 782 744 782 713 c 1,92,-1
  782 713 l 1,80,81
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" llataml iisigntaml
 EndChar
@@ -13408,6 +13425,7 @@ SplineSet
  608 744 608 744 608 713 c 5,101,-1
  608 713 l 5,89,90
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" lllataml iisigntaml
 EndChar
@@ -13654,6 +13672,7 @@ SplineSet
  854 744 854 744 854 713 c 1,133,-1
  854 713 l 1,121,122
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ssataml iisigntaml
 EndChar
@@ -13912,6 +13931,7 @@ SplineSet
  1065 744 1065 744 1065 713 c 5,139,-1
  1065 713 l 5,127,128
 EndSplineSet
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" hataml iisigntaml
 EndChar
@@ -18825,6 +18845,7 @@ SplineSet
  1116 744 1116 744 1116 713 c 5,161,-1
  1116 713 l 5,149,150
 EndSplineSet
+Validated: 5
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml_viramataml_ssataml iisigntaml
 LCarets2: 1 0 
 EndChar
@@ -19051,8 +19072,9 @@ SplineSet
  267 688 l 5,54,55
 EndSplineSet
 Fore
-Refer: 65 2965 S 1 0 0 1 0 0 2
+Refer: 65 2965 N 1 0 0 1 0 0 2
 Refer: 99 3021 N 1 0 0 1 573 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" kataml viramataml
 EndChar
@@ -19143,7 +19165,9 @@ SplineSet
 EndSplineSet
 Refer: 99 3021 S 1 0 0 1 693 0 2
 Fore
-Refer: 66 2969 S 1 0 0 1 0 0 2
+Refer: 99 3021 S 1 0 0 1 690 0 2
+Refer: 66 2969 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ngataml viramataml
 EndChar
@@ -19204,6 +19228,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 530 0 2
 Refer: 67 2970 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" cataml viramataml
 EndChar
@@ -19305,6 +19330,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 672 0 2
 Refer: 68 2972 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" jataml viramataml
 EndChar
@@ -19389,6 +19415,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 795 -1 2
 Refer: 69 2974 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nyataml viramataml
 EndChar
@@ -19424,6 +19451,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 652 0 2
 Refer: 70 2975 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ttataml viramataml
 EndChar
@@ -19538,6 +19566,7 @@ EndSplineSet
 Fore
 Refer: 71 2979 S 1 0 0 1 0 0 2
 Refer: 99 3021 N 1 0 0 1 895 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nnataml viramataml
 EndChar
@@ -19616,6 +19645,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 580 0 2
 Refer: 72 2980 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" tataml viramataml
 EndChar
@@ -19679,6 +19709,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 570 0 2
 Refer: 73 2984 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nataml viramataml
 EndChar
@@ -19767,6 +19798,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 741 0 2
 Refer: 74 2985 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nnnataml viramataml
 EndChar
@@ -19804,6 +19836,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 623 0 2
 Refer: 75 2986 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" pataml viramataml
 EndChar
@@ -19855,6 +19888,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 659 0 2
 Refer: 76 2990 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" mataml viramataml
 EndChar
@@ -19904,6 +19938,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 681 0 2
 Refer: 77 2991 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" yataml viramataml
 EndChar
@@ -19947,6 +19982,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 510 0 2
 Refer: 78 2992 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" rataml viramataml
 EndChar
@@ -20011,6 +20047,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 590 0 2
 Refer: 79 2993 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" rrataml viramataml
 EndChar
@@ -20085,6 +20122,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 670 0 2
 Refer: 80 2994 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" lataml viramataml
 EndChar
@@ -20155,6 +20193,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 706 0 2
 Refer: 81 2995 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" llataml viramataml
 EndChar
@@ -20233,6 +20272,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 656 -3 2
 Refer: 82 2996 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" lllataml viramataml
 EndChar
@@ -20302,6 +20342,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 N 1 0 0 1 731 1 2
 Refer: 83 2997 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" vataml viramataml
 EndChar
@@ -20404,6 +20445,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 819 0 2
 Refer: 85 2999 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ssataml viramataml
 EndChar
@@ -20489,6 +20531,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 797 0 2
 Refer: 86 3000 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" sataml viramataml
 EndChar
@@ -20591,6 +20634,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 870 0 2
 Refer: 87 3001 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" hataml viramataml
 EndChar
@@ -20719,6 +20763,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 960 0 2
 Refer: 214 -1 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" kataml_viramataml_ssataml viramataml
 EndChar
@@ -20768,6 +20813,7 @@ EndSplineSet
 Fore
 Refer: 99 3021 S 1 0 0 1 735 5 2
 Refer: 84 2998 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" shataml viramataml
 EndChar
@@ -20831,8 +20877,9 @@ SplineSet
  691 441 l 5,55,-1
 EndSplineSet
 Fore
-Refer: 90 3008 N 1 0 0 1 569 0 2
-Refer: 84 2998 N 1 0 0 1 0 0 2
+Refer: 90 3008 S 1 0 0 1 565 -4 2
+Refer: 84 2998 N 1 0 0 1 0 -4 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" shataml iisigntaml
 EndChar
@@ -20886,8 +20933,9 @@ SplineSet
  687 493 l 5,6,7
 EndSplineSet
 Fore
-Refer: 89 3007 N 1 0 0 1 562 0 2
-Refer: 84 2998 N 1 0 0 1 0 0 2
+Refer: 89 3007 S 1 0 0 1 557 0 2
+Refer: 84 2998 N 1 0 0 1 0 1 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" shataml isigntaml
 EndChar
