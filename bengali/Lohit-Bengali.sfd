@@ -8907,16 +8907,16 @@ AnchorPoint: "Anchor-0" 360 -5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-288 -115 m 1
- 271 -115 271 -115 259.5 -103.5 c 0
- 248 -92 248 -92 248 -75 c 256
- 248 -58 248 -58 259.5 -46.5 c 0
- 271 -35 271 -35 288 -35 c 256
- 305 -35 305 -35 316.5 -46.5 c 0
- 328 -58 328 -58 328 -75 c 256
- 328 -92 328 -92 316.5 -103.5 c 0
- 305 -115 305 -115 288 -115 c 1
- 288 -115 l 1
+288 -115 m 1,0,1
+ 271 -115 271 -115 259.5 -103.5 c 0,2,3
+ 248 -92 248 -92 248 -75 c 256,4,5
+ 248 -58 248 -58 259.5 -46.5 c 0,6,7
+ 271 -35 271 -35 288 -35 c 256,8,9
+ 305 -35 305 -35 316.5 -46.5 c 0,10,11
+ 328 -58 328 -58 328 -75 c 256,12,13
+ 328 -92 328 -92 316.5 -103.5 c 0,14,15
+ 305 -115 305 -115 288 -115 c 1,16,-1
+ 288 -115 l 1,0,1
 EndSplineSet
 Refer: 78 2465 S 1 0 0 1 0 0 2
 EndChar
@@ -41858,8 +41858,9 @@ SplineSet
  305 -85 305 -85 288 -85 c 1,76,-1
  288 -85 l 1,64,65
 EndSplineSet
+LCarets2: 2 0 0 
 LCarets2: 1 0 
-Ligature2: "vatuVattuVariantslookup8 subtable" ddabeng nuktabeng glyph437
+Ligature2: "vatuVattuVariantslookup8 subtable" ddhabeng nuktabeng glyph437
 EndChar
 
 StartChar: rhabeng_viramabeng_rabeng
@@ -41957,7 +41958,6 @@ SplineSet
  192 -70 192 -70 175 -70 c 1,67,-1
  175 -70 l 1,55,56
 EndSplineSet
-LCarets2: 1 0 
 Ligature2: "vatuVattuVariantslookup8 subtable" ddhabeng nuktabeng glyph437
 EndChar
 
