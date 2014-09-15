@@ -41858,9 +41858,7 @@ SplineSet
  305 -85 305 -85 288 -85 c 1,76,-1
  288 -85 l 1,64,65
 EndSplineSet
-LCarets2: 2 0 0 
-LCarets2: 1 0 
-Ligature2: "vatuVattuVariantslookup8 subtable" ddhabeng nuktabeng glyph437
+Ligature2: "vatuVattuVariantslookup8 subtable" ddabeng nuktabeng glyph437
 EndChar
 
 StartChar: rhabeng_viramabeng_rabeng
