@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1410879552
+ModificationTime: 1410881363
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -290,7 +290,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 15
+WinInfo: 0 51 17
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 314368 157184 104789 0 1048576 104789 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -1929,6 +1929,7 @@ SplineSet
  -200 707 -200 707 -200 676 c 129,-1,11
  -200 645 -200 645 -178.5 623.5 c 128,-1,12
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: visargataml
@@ -2065,6 +2066,7 @@ SplineSet
  87 120 87 120 87 111 c 1,69,57
  87 105 87 105 93.5 95.5 c 128,-1,58
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: aataml
@@ -2158,6 +2160,7 @@ SplineSet
  87 120 87 120 87 111 c 1,106,94
  87 105 87 105 93.5 95.5 c 128,-1,95
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: itaml
@@ -2258,6 +2261,7 @@ SplineSet
  521 -150 521 -150 462 -191 c 1,116,105
  520 -224 520 -224 570 -241 c 128,-1,106
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: iitaml
@@ -2302,6 +2306,7 @@ SplineSet
  240 225 240 225 240 246 c 129,-1,21
  240 267 240 267 254 281 c 128,-1,22
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: utaml
@@ -2357,6 +2362,7 @@ SplineSet
  59 306 59 306 59 356 c 1,53,12
  59 417 59 417 120.5 460.5 c 128,-1,13
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: uutaml
@@ -2450,6 +2456,7 @@ SplineSet
  588 214 588 214 588 295 c 1,100,65
  588 381 588 381 645.5 442.5 c 128,-1,66
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: etaml
@@ -2498,6 +2505,7 @@ SplineSet
  558 443 l 1,42,-1
  312 443 l 2,12,13
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: eetaml
@@ -2550,6 +2558,7 @@ SplineSet
  557 443 l 1,48,-1
  311 443 l 2,12,13
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: aitaml
@@ -2636,6 +2645,7 @@ SplineSet
  102 321 102 321 102 295 c 1,98,87
  102 264 102 264 127 242.5 c 128,-1,88
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: otaml
@@ -2757,6 +2767,7 @@ SplineSet
  208 221 208 221 190 199.5 c 128,-1,96
  172 178 172 178 172 148 c 1,85,86
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: ootaml
@@ -2888,6 +2899,7 @@ SplineSet
  258 -98 258 -98 240.5 -119.5 c 132,-1,110
  223 -141 223 -141 223 -172 c 5,99,100
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: autaml
@@ -3067,6 +3079,7 @@ SplineSet
  1283 451 1283 451 1309 406 c 1,149,-1
  1309 492 l 1,109,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: kataml
@@ -3168,6 +3181,7 @@ SplineSet
  107 270 107 270 157 270 c 1,50,-1
  157 492 l 1,15,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ngataml
@@ -3254,6 +3268,7 @@ SplineSet
  301 0 l 5,35,-1
  301 49 l 5,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cataml
@@ -3337,6 +3352,7 @@ SplineSet
  107 270 107 270 157 270 c 1,32,-1
  157 492 l 1,15,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: jataml
@@ -3473,6 +3489,7 @@ SplineSet
  314 504 314 504 361.5 474.5 c 128,-1,100
  409 445 409 445 439 393 c 1,11,12
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: nyataml
@@ -3587,6 +3604,7 @@ SplineSet
  389 -320 389 -320 231 -168.5 c 132,-1,73
  73 -17 73 -17 73 197 c 5,11,12
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: ttataml
@@ -3644,6 +3662,7 @@ SplineSet
  805 0 l 1,5,-1
  92 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nnataml
@@ -3802,6 +3821,7 @@ SplineSet
  162 -12 162 -12 108 52.5 c 128,-1,113
  54 117 54 117 54 209 c 1,35,36
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: tataml
@@ -3898,6 +3918,7 @@ SplineSet
  107 270 107 270 157 270 c 1,58,-1
  157 492 l 1,15,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: nataml
@@ -3990,6 +4011,7 @@ SplineSet
  92 0 l 1,43,-1
  92 492 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nnnataml
@@ -4118,6 +4140,7 @@ SplineSet
  608 466 608 466 646.5 479 c 128,-1,77
  685 492 685 492 728 492 c 1,23,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: pataml
@@ -4178,6 +4201,7 @@ SplineSet
  154 49 l 1,7,-1
  608 49 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: mataml
@@ -4259,6 +4283,7 @@ SplineSet
  387 426 387 426 426.5 465 c 128,-1,25
  466 504 466 504 522 504 c 1,11,12
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yataml
@@ -4341,6 +4366,7 @@ SplineSet
  369 49 l 1,23,-1
  725 49 l 1,0,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: rataml
@@ -4412,6 +4438,7 @@ SplineSet
  92 0 l 1,15,-1
  92 492 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: rrataml
@@ -4508,6 +4535,7 @@ SplineSet
  89 0 l 1,47,-1
  89 369 l 1,0,1
 EndSplineSet
+Validated: 8388641
 EndChar
 
 StartChar: lataml
@@ -4607,6 +4635,7 @@ SplineSet
  644 37 644 37 687 105 c 128,-1,61
  730 173 730 173 730 270 c 1,11,12
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: llataml
@@ -4718,6 +4747,7 @@ SplineSet
  461 451 461 451 487 406 c 1,52,-1
  487 492 l 1,12,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: lllataml
@@ -4836,6 +4866,7 @@ SplineSet
  387 426 387 426 426.5 465 c 128,-1,62
  466 504 466 504 522 504 c 1,11,12
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: vataml
@@ -4939,6 +4970,7 @@ SplineSet
  581 91 581 91 557 49 c 1,52,-1
  827 49 l 1,11,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: shataml
@@ -4976,6 +5008,7 @@ SplineSet
  361 48 361 48 361 152 c 2,26,-1
  361 492 l 1,6,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ssataml
@@ -5115,6 +5148,7 @@ SplineSet
  658 405 658 405 701 448.5 c 128,-1,92
  744 492 744 492 805 492 c 1,31,32
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: sataml
@@ -5230,6 +5264,7 @@ SplineSet
  185 -12 185 -12 120 56 c 128,-1,76
  55 124 55 124 55 221 c 1,11,12
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: hataml
@@ -5366,6 +5401,7 @@ SplineSet
  810 504 810 504 836 491 c 128,-1,99
  862 478 862 478 881 455 c 1,11,12
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: aasigntaml
@@ -8359,6 +8395,7 @@ SplineSet
  37.5 3 l 1,3,-1
  -27 3 l 1,0,-1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: zerowidthjoiner
@@ -8449,6 +8486,7 @@ SplineSet
  52.25 -7 l 1,7,-1
  -2.25 -7 l 1,0,-1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: endash
@@ -8518,6 +8556,7 @@ SplineSet
  553 246 l 1,3,-1
  0 246 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: emdash
@@ -9241,6 +9280,7 @@ SplineSet
  107 270 107 270 157 270 c 1,72,-1
  157 492 l 1,15,-1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" kataml isigntaml
 EndChar
@@ -9308,6 +9348,7 @@ SplineSet
  92 0 l 5,63,-1
  92 492 l 5,0,-1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" ngataml isigntaml
 EndChar
@@ -9370,6 +9411,7 @@ SplineSet
  107 270 107 270 157 270 c 1,54,-1
  157 492 l 1,15,-1
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" cataml isigntaml
 EndChar
@@ -10603,38 +10645,38 @@ LayerCount: 2
 Fore
 SplineSet
 387 0 m 1,0,1
- 387 443 l 1,2,-1
- 510 443 l 1,3,-1
- 510 492 l 1,4,-1
- 375 492 l 1,5,6
- 336 515 336 515 312.5 551.5 c 128,-1,7
- 289 588 289 588 289 627 c 0,8,9
- 289 683 289 683 330 722.5 c 128,-1,10
- 371 762 371 762 430 762 c 0,11,12
- 494 762 494 762 539 711.5 c 128,-1,13
- 584 661 584 661 584 590 c 2,14,-1
- 584 0 l 1,15,-1
- 645 0 l 1,16,-1
- 645 590 l 2,17,18
- 645 682 645 682 582 746.5 c 128,-1,19
- 519 811 519 811 430 811 c 0,20,21
- 347 811 347 811 287 757 c 128,-1,22
- 227 703 227 703 227 627 c 0,23,24
- 227 584 227 584 247 548 c 128,-1,25
- 267 512 267 512 301 492 c 1,26,-1
- 92 492 l 1,27,-1
- 92 0 l 1,28,-1
- 154 0 l 1,29,-1
- 154 443 l 1,30,-1
- 326 443 l 1,31,-1
- 326 31 l 1,32,33
- 268 -2 268 -2 229 -58.5 c 128,-1,34
- 190 -115 190 -115 178 -184 c 1,35,-1
- 234 -197 l 1,36,37
- 246 -127 246 -127 287 -74 c 128,-1,38
- 328 -21 328 -21 387 0 c 1,0,1
+ 328 -21 328 -21 287 -74 c 128,-1,2
+ 246 -127 246 -127 234 -197 c 1,3,-1
+ 178 -184 l 1,4,5
+ 190 -115 190 -115 229 -58.5 c 128,-1,6
+ 268 -2 268 -2 326 31 c 1,7,-1
+ 326 443 l 1,8,-1
+ 154 443 l 1,9,-1
+ 154 0 l 1,10,-1
+ 92 0 l 1,11,-1
+ 92 492 l 1,12,-1
+ 301 492 l 1,13,14
+ 267 512 267 512 247 548 c 128,-1,15
+ 227 584 227 584 227 627 c 0,16,17
+ 227 703 227 703 287 757 c 128,-1,18
+ 347 811 347 811 430 811 c 0,19,20
+ 519 811 519 811 582 746.5 c 128,-1,21
+ 645 682 645 682 645 590 c 2,22,-1
+ 645 0 l 1,23,-1
+ 584 0 l 1,24,-1
+ 584 590 l 2,25,26
+ 584 661 584 661 539 711.5 c 128,-1,27
+ 494 762 494 762 430 762 c 0,28,29
+ 371 762 371 762 330 722.5 c 128,-1,30
+ 289 683 289 683 289 627 c 0,31,32
+ 289 588 289 588 312.5 551.5 c 128,-1,33
+ 336 515 336 515 375 492 c 1,34,-1
+ 510 492 l 1,35,-1
+ 510 443 l 1,36,-1
+ 387 443 l 1,37,-1
+ 387 0 l 1,0,1
 EndSplineSet
-Validated: 9
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" rataml isigntaml
 EndChar
@@ -11675,6 +11717,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 127 2 2
 Refer: 64 2965 S 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml iisigntaml
 EndChar
@@ -11765,6 +11808,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 N 1 0 0 1 124 0 2
 Refer: 66 2970 N 1 0 0 1 1 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" cataml iisigntaml
 EndChar
@@ -11878,6 +11922,7 @@ SplineSet
  703 787 703 787 685.5 765.5 c 128,-1,125
  668 744 668 744 668 713 c 129,-1,126
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" jataml iisigntaml
 EndChar
@@ -11975,6 +12020,7 @@ SplineSet
  864 793 864 793 840.5 769.5 c 132,-1,110
  817 746 817 746 817 713 c 5,99,100
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nyataml iisigntaml
 EndChar
@@ -12150,6 +12196,7 @@ SplineSet
  1134 787 1134 787 1116.5 765.5 c 132,-1,139
  1099 744 1099 744 1099 713 c 133,-1,140
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nnataml iisigntaml
 EndChar
@@ -12166,6 +12213,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 N 1 0 0 1 113 -1 2
 Refer: 71 2980 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" tataml iisigntaml
 EndChar
@@ -12182,6 +12230,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 N 1 0 0 1 95 -3 2
 Refer: 72 2984 N 1 0 0 1 0 -2 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nataml iisigntaml
 EndChar
@@ -12533,6 +12582,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 N 1 0 0 1 58 -2 2
 Refer: 77 2992 N 1 0 0 1 0 0 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rataml iisigntaml
 EndChar
@@ -12610,6 +12660,7 @@ SplineSet
  542 787 542 787 524 765.5 c 128,-1,72
  506 744 506 744 506 713 c 129,-1,73
 EndSplineSet
+Validated: 8388641
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rrataml iisigntaml
 EndChar
@@ -12911,6 +12962,7 @@ SplineSet
  644 787 644 787 626 765.5 c 128,-1,87
  608 744 608 744 608 713 c 129,-1,88
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" lllataml iisigntaml
 EndChar
@@ -13154,6 +13206,7 @@ SplineSet
  890 787 890 787 872 765.5 c 128,-1,117
  854 744 854 744 854 713 c 129,-1,118
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" ssataml iisigntaml
 EndChar
@@ -13411,6 +13464,7 @@ SplineSet
  1100 787 1100 787 1082.5 765.5 c 128,-1,124
  1065 744 1065 744 1065 713 c 129,-1,125
 EndSplineSet
+Validated: 8388609
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" hataml iisigntaml
 EndChar
@@ -17870,6 +17924,7 @@ SplineSet
  150 -12 150 -12 92 38.5 c 128,-1,118
  34 89 34 89 34 160 c 1,46,47
 EndSplineSet
+Validated: 8388609
 Ligature2: "'akhn' Akhand lookup 3-1" kataml viramataml ssataml
 LCarets2: 2 0 0 
 EndChar
@@ -18061,126 +18116,126 @@ VStem: 34 62<92.4127 205.402> 157 62<270 443> 342 61<77.2617 221 270 443> 465 61
 LayerCount: 2
 Fore
 SplineSet
-219 270 m 5,0,-1
- 342 270 l 5,1,-1
- 342 443 l 5,2,-1
- 219 443 l 5,3,-1
- 219 270 l 5,0,-1
-157 221 m 5,4,5
- 131 221 131 221 113.5 203.5 c 132,-1,6
- 96 186 96 186 96 160 c 4,7,8
- 96 110 96 110 135.5 73.5 c 132,-1,9
- 175 37 175 37 231 37 c 4,10,11
- 276 37 276 37 309 66 c 132,-1,12
- 342 95 342 95 342 135 c 6,13,-1
- 342 221 l 5,14,-1
- 157 221 l 5,4,5
-526 148 m 5,15,16
- 526 103 526 103 540 70 c 132,-1,17
- 554 37 554 37 575 37 c 260,18,19
- 596 37 596 37 610 62 c 132,-1,20
- 624 87 624 87 624 123 c 260,21,22
- 624 159 624 159 599.5 187 c 132,-1,23
- 575 215 575 215 538 221 c 5,24,25
- 532 204 532 204 529 185.5 c 132,-1,26
- 526 167 526 167 526 148 c 5,15,16
-969 320 m 5,27,28
- 969 263 969 263 1008 223.5 c 132,-1,29
- 1047 184 1047 184 1104 184 c 4,30,31
- 1114 184 1114 184 1123 186 c 132,-1,32
- 1132 188 1132 188 1141 191 c 5,33,-1
- 1141 369 l 6,34,35
- 1141 400 1141 400 1123 421.5 c 132,-1,36
- 1105 443 1105 443 1079 443 c 4,37,38
- 1034 443 1034 443 1001.5 406.5 c 132,-1,39
- 969 370 969 370 969 320 c 5,27,28
-1202 49 m 5,40,-1
- 1301 49 l 5,41,-1
- 1301 209 l 5,42,43
- 1286 191 1286 191 1260.5 175.5 c 132,-1,44
- 1235 160 1235 160 1202 148 c 5,45,-1
- 1202 49 l 5,40,-1
-1042 492 m 5,46,47
- 990 522 990 522 961 571.5 c 132,-1,48
- 932 621 932 621 932 676 c 4,49,50
- 932 752 932 752 986 806.5 c 132,-1,51
- 1040 861 1040 861 1116 861 c 260,52,53
- 1192 861 1192 861 1246.5 817.5 c 132,-1,54
- 1301 774 1301 774 1301 713 c 4,55,56
- 1301 663 1301 663 1264.5 626.5 c 132,-1,57
- 1228 590 1228 590 1178 590 c 260,58,59
- 1128 590 1128 590 1091.5 626.5 c 132,-1,60
- 1055 663 1055 663 1055 713 c 4,61,62
- 1055 743 1055 743 1064.5 766 c 132,-1,63
- 1074 789 1074 789 1092 799 c 5,64,65
- 1049 792 1049 792 1021 757 c 132,-1,66
- 993 722 993 722 993 676 c 4,67,68
- 993 623 993 623 1026.5 574 c 132,-1,69
- 1060 525 1060 525 1116 492 c 5,70,71
- 1153 486 1153 486 1177.5 451 c 132,-1,72
- 1202 416 1202 416 1202 369 c 6,73,-1
- 1202 209 l 5,74,75
- 1234 221 1234 221 1264 249.5 c 132,-1,76
- 1294 278 1294 278 1319 320 c 5,77,-1
- 1362 320 l 5,78,-1
- 1362 0 l 5,79,-1
- 1202 0 l 5,80,-1
- 1202 -295 l 5,81,-1
- 1141 -295 l 5,82,-1
- 1141 0 l 5,83,-1
- 772 0 l 5,84,-1
- 772 37 l 5,85,86
- 795 65 795 65 808 97 c 132,-1,87
- 821 129 821 129 821 160 c 4,88,89
- 821 221 821 221 778 264 c 132,-1,90
- 735 307 735 307 674 307 c 4,91,92
- 648 307 648 307 622 298 c 132,-1,93
- 596 289 596 289 575 270 c 5,94,95
- 625 252 625 252 655.5 211.5 c 132,-1,96
- 686 171 686 171 686 123 c 4,97,98
- 686 66 686 66 653.5 27 c 132,-1,99
- 621 -12 621 -12 575 -12 c 260,100,101
- 530 -12 530 -12 497.5 34.5 c 132,-1,102
- 465 81 465 81 465 148 c 4,103,104
- 465 168 465 168 468 186 c 132,-1,105
- 471 204 471 204 477 221 c 5,106,-1
- 403 221 l 5,107,-1
- 403 135 l 6,108,109
- 403 74 403 74 352.5 31 c 132,-1,110
- 302 -12 302 -12 231 -12 c 4,111,112
- 150 -12 150 -12 92 38.5 c 132,-1,113
- 34 89 34 89 34 160 c 4,114,115
- 34 205 34 205 70.5 237.5 c 132,-1,116
- 107 270 107 270 157 270 c 5,117,-1
- 157 492 l 5,118,-1
- 575 492 l 5,119,-1
- 575 443 l 5,120,-1
- 403 443 l 5,121,-1
- 403 270 l 5,122,-1
- 495 270 l 5,123,124
- 518 309 518 309 567.5 332.5 c 132,-1,125
- 617 356 617 356 680 356 c 4,126,127
- 764 356 764 356 823.5 298.5 c 132,-1,128
- 883 241 883 241 883 160 c 4,129,130
- 883 139 883 139 876.5 110.5 c 132,-1,131
- 870 82 870 82 858 49 c 5,132,-1
- 1141 49 l 5,133,-1
- 1141 135 l 5,134,135
- 1137 134 1137 134 1125.5 134.5 c 132,-1,136
- 1114 135 1114 135 1104 135 c 4,137,138
- 1023 135 1023 135 965 189 c 132,-1,139
- 907 243 907 243 907 320 c 4,140,141
- 907 384 907 384 945 433 c 132,-1,142
- 983 482 983 482 1042 492 c 5,46,47
-1116 713 m 133,-1,144
- 1116 682 1116 682 1134 660.5 c 132,-1,145
- 1152 639 1152 639 1178 639 c 260,146,147
- 1204 639 1204 639 1221.5 660.5 c 132,-1,148
- 1239 682 1239 682 1239 713 c 260,149,150
- 1239 744 1239 744 1221 765.5 c 132,-1,151
- 1203 787 1203 787 1178 787 c 260,152,153
- 1152 787 1152 787 1134 765.5 c 132,-1,143
- 1116 744 1116 744 1116 713 c 133,-1,144
+219 270 m 1,0,-1
+ 342 270 l 1,1,-1
+ 342 443 l 1,2,-1
+ 219 443 l 1,3,-1
+ 219 270 l 1,0,-1
+157 221 m 1,4,5
+ 131 221 131 221 113.5 203.5 c 128,-1,6
+ 96 186 96 186 96 160 c 0,7,8
+ 96 110 96 110 135.5 73.5 c 128,-1,9
+ 175 37 175 37 231 37 c 0,10,11
+ 276 37 276 37 309 66 c 128,-1,12
+ 342 95 342 95 342 135 c 2,13,-1
+ 342 221 l 1,14,-1
+ 157 221 l 1,4,5
+526 148 m 1,15,16
+ 526 103 526 103 540 70 c 128,-1,17
+ 554 37 554 37 575 37 c 256,18,19
+ 596 37 596 37 610 62 c 128,-1,20
+ 624 87 624 87 624 123 c 256,21,22
+ 624 159 624 159 599.5 187 c 128,-1,23
+ 575 215 575 215 538 221 c 1,24,25
+ 532 204 532 204 529 185.5 c 128,-1,26
+ 526 167 526 167 526 148 c 1,15,16
+969 320 m 1,27,28
+ 969 263 969 263 1008 223.5 c 128,-1,29
+ 1047 184 1047 184 1104 184 c 0,30,31
+ 1114 184 1114 184 1123 186 c 128,-1,32
+ 1132 188 1132 188 1141 191 c 1,33,-1
+ 1141 369 l 2,34,35
+ 1141 400 1141 400 1123 421.5 c 128,-1,36
+ 1105 443 1105 443 1079 443 c 0,37,38
+ 1034 443 1034 443 1001.5 406.5 c 128,-1,39
+ 969 370 969 370 969 320 c 1,27,28
+1202 49 m 1,40,-1
+ 1301 49 l 1,41,-1
+ 1301 209 l 1,42,43
+ 1286 191 1286 191 1260.5 175.5 c 128,-1,44
+ 1235 160 1235 160 1202 148 c 1,45,-1
+ 1202 49 l 1,40,-1
+1042 492 m 1,46,47
+ 990 522 990 522 961 571.5 c 128,-1,48
+ 932 621 932 621 932 676 c 0,49,50
+ 932 752 932 752 986 806.5 c 128,-1,51
+ 1040 861 1040 861 1116 861 c 256,52,53
+ 1192 861 1192 861 1246.5 817.5 c 128,-1,54
+ 1301 774 1301 774 1301 713 c 0,55,56
+ 1301 663 1301 663 1264.5 626.5 c 128,-1,57
+ 1228 590 1228 590 1178 590 c 256,58,59
+ 1128 590 1128 590 1091.5 626.5 c 128,-1,60
+ 1055 663 1055 663 1055 713 c 0,61,62
+ 1055 743 1055 743 1064.5 766 c 128,-1,63
+ 1074 789 1074 789 1092 799 c 1,64,65
+ 1049 792 1049 792 1021 757 c 128,-1,66
+ 993 722 993 722 993 676 c 0,67,68
+ 993 623 993 623 1026.5 574 c 128,-1,69
+ 1060 525 1060 525 1116 492 c 1,70,71
+ 1153 486 1153 486 1177.5 451 c 128,-1,72
+ 1202 416 1202 416 1202 369 c 2,73,-1
+ 1202 209 l 1,74,75
+ 1234 221 1234 221 1264 249.5 c 128,-1,76
+ 1294 278 1294 278 1319 320 c 1,77,-1
+ 1362 320 l 1,78,-1
+ 1362 0 l 1,79,-1
+ 1202 0 l 1,80,-1
+ 1202 -295 l 1,81,-1
+ 1141 -295 l 1,82,-1
+ 1141 0 l 1,83,-1
+ 772 0 l 1,84,-1
+ 772 37 l 1,85,86
+ 795 65 795 65 808 97 c 128,-1,87
+ 821 129 821 129 821 160 c 0,88,89
+ 821 221 821 221 778 264 c 128,-1,90
+ 735 307 735 307 674 307 c 0,91,92
+ 648 307 648 307 622 298 c 128,-1,93
+ 596 289 596 289 575 270 c 1,94,95
+ 625 252 625 252 655.5 211.5 c 128,-1,96
+ 686 171 686 171 686 123 c 0,97,98
+ 686 66 686 66 653.5 27 c 128,-1,99
+ 621 -12 621 -12 575 -12 c 256,100,101
+ 530 -12 530 -12 497.5 34.5 c 128,-1,102
+ 465 81 465 81 465 148 c 0,103,104
+ 465 168 465 168 468 186 c 128,-1,105
+ 471 204 471 204 477 221 c 1,106,-1
+ 403 221 l 1,107,-1
+ 403 135 l 2,108,109
+ 403 74 403 74 352.5 31 c 128,-1,110
+ 302 -12 302 -12 231 -12 c 0,111,112
+ 150 -12 150 -12 92 38.5 c 128,-1,113
+ 34 89 34 89 34 160 c 0,114,115
+ 34 205 34 205 70.5 237.5 c 128,-1,116
+ 107 270 107 270 157 270 c 1,117,-1
+ 157 492 l 1,118,-1
+ 575 492 l 1,119,-1
+ 575 443 l 1,120,-1
+ 403 443 l 1,121,-1
+ 403 270 l 1,122,-1
+ 495 270 l 1,123,124
+ 518 309 518 309 567.5 332.5 c 128,-1,125
+ 617 356 617 356 680 356 c 0,126,127
+ 764 356 764 356 823.5 298.5 c 128,-1,128
+ 883 241 883 241 883 160 c 0,129,130
+ 883 139 883 139 876.5 110.5 c 128,-1,131
+ 870 82 870 82 858 49 c 1,132,-1
+ 1141 49 l 1,133,-1
+ 1141 135 l 1,134,135
+ 1137 134 1137 134 1125.5 134.5 c 128,-1,136
+ 1114 135 1114 135 1104 135 c 0,137,138
+ 1023 135 1023 135 965 189 c 128,-1,139
+ 907 243 907 243 907 320 c 0,140,141
+ 907 384 907 384 945 433 c 128,-1,142
+ 983 482 983 482 1042 492 c 1,46,47
+1116 713 m 129,-1,144
+ 1116 682 1116 682 1134 660.5 c 128,-1,145
+ 1152 639 1152 639 1178 639 c 256,146,147
+ 1204 639 1204 639 1221.5 660.5 c 128,-1,148
+ 1239 682 1239 682 1239 713 c 256,149,150
+ 1239 744 1239 744 1221 765.5 c 128,-1,151
+ 1203 787 1203 787 1178 787 c 256,152,153
+ 1152 787 1152 787 1134 765.5 c 128,-1,143
+ 1116 744 1116 744 1116 713 c 129,-1,144
 EndSplineSet
 Validated: 5
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml_viramataml_ssataml iisigntaml
@@ -18199,6 +18254,7 @@ LayerCount: 2
 Fore
 Refer: 64 2965 N 1 0 0 1 0 0 2
 Refer: 98 3021 N 1 0 0 1 573 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" kataml viramataml
 EndChar
@@ -18215,6 +18271,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 690 0 2
 Refer: 65 2969 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ngataml viramataml
 EndChar
@@ -18231,6 +18288,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 530 0 2
 Refer: 66 2970 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" cataml viramataml
 EndChar
@@ -18247,6 +18305,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 672 0 2
 Refer: 67 2972 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" jataml viramataml
 EndChar
@@ -18263,6 +18322,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 795 -1 2
 Refer: 68 2974 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nyataml viramataml
 EndChar
@@ -18279,6 +18339,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 652 0 2
 Refer: 69 2975 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ttataml viramataml
 EndChar
@@ -18295,6 +18356,7 @@ LayerCount: 2
 Fore
 Refer: 70 2979 N 1 0 0 1 0 0 2
 Refer: 98 3021 N 1 0 0 1 895 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nnataml viramataml
 EndChar
@@ -18311,6 +18373,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 580 0 2
 Refer: 71 2980 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" tataml viramataml
 EndChar
@@ -18327,6 +18390,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 570 0 2
 Refer: 72 2984 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nataml viramataml
 EndChar
@@ -18343,6 +18407,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 741 0 2
 Refer: 73 2985 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nnnataml viramataml
 EndChar
@@ -18359,6 +18424,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 623 0 2
 Refer: 74 2986 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" pataml viramataml
 EndChar
@@ -18375,6 +18441,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 659 0 2
 Refer: 75 2990 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" mataml viramataml
 EndChar
@@ -18391,6 +18458,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 681 0 2
 Refer: 76 2991 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" yataml viramataml
 EndChar
@@ -18407,6 +18475,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 510 0 2
 Refer: 77 2992 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" rataml viramataml
 EndChar
@@ -18423,6 +18492,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 590 0 2
 Refer: 78 2993 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" rrataml viramataml
 EndChar
@@ -18439,6 +18509,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 670 0 2
 Refer: 79 2994 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" lataml viramataml
 EndChar
@@ -18455,6 +18526,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 706 0 2
 Refer: 80 2995 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" llataml viramataml
 EndChar
@@ -18471,6 +18543,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 656 -3 2
 Refer: 81 2996 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" lllataml viramataml
 EndChar
@@ -18487,6 +18560,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 731 1 2
 Refer: 82 2997 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" vataml viramataml
 EndChar
@@ -18503,6 +18577,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 819 0 2
 Refer: 84 2999 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ssataml viramataml
 EndChar
@@ -18519,6 +18594,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 797 0 2
 Refer: 85 3000 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" sataml viramataml
 EndChar
@@ -18535,6 +18611,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 870 0 2
 Refer: 86 3001 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" hataml viramataml
 EndChar
@@ -18551,6 +18628,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 960 0 2
 Refer: 211 -1 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" kataml_viramataml_ssataml viramataml
 EndChar
@@ -18567,6 +18645,7 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 735 5 2
 Refer: 83 2998 N 1 0 0 1 0 0 2
+Validated: 98305
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" shataml viramataml
 EndChar
@@ -18583,6 +18662,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 N 1 0 0 1 565 -4 2
 Refer: 83 2998 N 1 0 0 1 0 -4 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" shataml iisigntaml
 EndChar
@@ -18599,6 +18679,7 @@ LayerCount: 2
 Fore
 Refer: 88 3007 N 1 0 0 1 557 0 2
 Refer: 83 2998 N 1 0 0 1 0 1 2
+Validated: 98309
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" shataml isigntaml
 EndChar
@@ -18816,6 +18897,7 @@ SplineSet
  37 334 l 1,32,-1
  37 367 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni00B3
@@ -18850,6 +18932,7 @@ SplineSet
  43 414 43 414 37 481 c 1,26,-1
  83 481 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni00B9
@@ -18876,6 +18959,7 @@ SplineSet
  37 334 l 1,14,-1
  37 373 l 1,0,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: uni2081
@@ -18902,6 +18986,7 @@ SplineSet
  37 -100 l 1,14,-1
  37 -61 l 1,0,-1
 EndSplineSet
+Validated: 8388609
 EndChar
 
 StartChar: uni2082
@@ -18940,6 +19025,7 @@ SplineSet
  37 -100 l 1,32,-1
  37 -67 l 2,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2083
@@ -18974,6 +19060,7 @@ SplineSet
  43 -20 43 -20 37 47 c 1,26,-1
  83 47 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2084
@@ -19006,6 +19093,7 @@ SplineSet
  94 34 l 1,17,-1
  206 34 l 1,15,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2074
@@ -19038,6 +19126,7 @@ SplineSet
  94 468 l 1,17,-1
  206 468 l 1,15,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0310
@@ -19070,6 +19159,7 @@ SplineSet
  -298 765 -298 765 -298 790 c 0,22,14
  -298 816 -298 816 -280 834 c 128,-1,15
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: afii57929
@@ -19087,6 +19177,7 @@ SplineSet
  92 615 l 1,3,-1
  92 861 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniF000
@@ -19135,6 +19226,7 @@ SplineSet
  136 130 136 130 136 110 c 128,-1,28
  136 90 136 90 150 76 c 128,-1,29
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
