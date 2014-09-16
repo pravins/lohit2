@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1410845641
+ModificationTime: 1410860299
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8907,16 +8907,16 @@ AnchorPoint: "Anchor-0" 360 -5 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-288 -115 m 1
- 271 -115 271 -115 259.5 -103.5 c 0
- 248 -92 248 -92 248 -75 c 256
- 248 -58 248 -58 259.5 -46.5 c 0
- 271 -35 271 -35 288 -35 c 256
- 305 -35 305 -35 316.5 -46.5 c 0
- 328 -58 328 -58 328 -75 c 256
- 328 -92 328 -92 316.5 -103.5 c 0
- 305 -115 305 -115 288 -115 c 1
- 288 -115 l 1
+288 -115 m 1,0,1
+ 271 -115 271 -115 259.5 -103.5 c 0,2,3
+ 248 -92 248 -92 248 -75 c 256,4,5
+ 248 -58 248 -58 259.5 -46.5 c 0,6,7
+ 271 -35 271 -35 288 -35 c 256,8,9
+ 305 -35 305 -35 316.5 -46.5 c 0,10,11
+ 328 -58 328 -58 328 -75 c 256,12,13
+ 328 -92 328 -92 316.5 -103.5 c 0,14,15
+ 305 -115 305 -115 288 -115 c 1,16,-1
+ 288 -115 l 1,0,1
 EndSplineSet
 Refer: 78 2465 S 1 0 0 1 0 0 2
 EndChar
@@ -27801,8 +27801,7 @@ SplineSet
  383 0 l 1,49,-1
  383 0 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng mabeng
-LCarets2: 1 0 
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng_rabeng
 EndChar
 
 StartChar: nabeng_viramabeng_babeng
@@ -43083,7 +43082,7 @@ Ligature2: "rphfRephFormlookup3 subtable" u09F0 viramabeng
 Ligature2: "rphfRephFormlookup3 subtable" rabeng viramabeng
 EndChar
 
-StartChar: rabeng_viramabeng.blwf
+StartChar: viramabeng_rabeng
 Encoding: 65822 -1 438
 Width: 0
 GlyphClass: 2
@@ -43149,6 +43148,8 @@ SplineSet
  -460 67 -460 67 -460 115 c 1,20,-1
  -460 115 l 1,0,-1
 EndSplineSet
+Ligature2: "blwfBelowBaseFormslookup4 subtable" viramabeng rabeng
+Ligature2: "blwfBelowBaseFormslookup4 subtable" viramabeng u09F0
 EndChar
 
 StartChar: glyph437
@@ -43213,8 +43214,6 @@ SplineSet
  -130 -120 l 1,0,1
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "blwfBelowBaseFormslookup4 subtable" viramabeng u09F0
-Ligature2: "blwfBelowBaseFormslookup4 subtable" viramabeng rabeng
 EndChar
 
 StartChar: glyph438
