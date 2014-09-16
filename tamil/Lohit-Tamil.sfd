@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1410877518
+ModificationTime: 1410879552
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -290,7 +290,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 51 17
+WinInfo: 0 25 15
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 314368 157184 104789 0 1048576 104789 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -18189,10 +18189,10 @@ EndChar
 
 StartChar: kataml_viramataml
 Encoding: 65623 -1 214
-Width: 125
+Width: 655
 VWidth: 1023
 GlyphClass: 2
-Flags: W
+Flags: WO
 HStem: -12 49<153.577 300.607 440.344 527.962> 221 49<114.049 157 219 342 403 526.482> 443 49<219 342 403 588> 627 123<287.564 373.951>
 VStem: 34 62<92.4127 205.402> 157 62<270 443> 269 123<645.564 731.436> 342 61<77.2617 221 270 443> 551 61<59.818 195.779>
 LayerCount: 2
@@ -18589,7 +18589,7 @@ EndChar
 
 StartChar: shataml_isigntaml
 Encoding: 65648 -1 239
-Width: 1051
+Width: 1221
 VWidth: 1023
 GlyphClass: 2
 Flags: W
