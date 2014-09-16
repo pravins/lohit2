@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1410848936
+ModificationTime: 1410866589
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -54,6 +54,7 @@ Lookup: 4 0 0 "'akhn' Akhand lookup 3"  {"'akhn' Akhand lookup 3-1"  } ['akhn' (
 Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 2"  {"'abvs' Above Base Substitutions lookup 2-1"  } ['abvs' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms lookup 4"  {"'haln' Halant Forms lookup 4-1"  } ['haln' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 0"  {"'psts' Post Base Substitutions lookup 0-1"  } ['psts' ('DFLT' <'dflt' > 'taml' <'dflt' > 'tml2' <'dflt' > ) ]
+Lookup: 260 0 0 "'abvm' Above Base Mark lookup 0"  {"'abvm' Above Base Mark lookup 0-1"  } ['abvm' ('taml' <'dflt' > 'tml2' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
@@ -288,82 +289,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 44 17
+WinInfo: 0 42 14
 BeginPrivate: 0
 EndPrivate
-Grid
-688 344 m 1
- 688 326.667 694 312.167 706 300.5 c 128
- 718 288.833 732.667 283 750 283 c 0
- 765.333 283 778.333 288.833 789 300.5 c 128
- 799.667 312.167 805 326.667 805 344 c 0
- 805 368 804 388.5 802 405.5 c 128
- 800 422.5 797 437 793 449 c 1
- 761.665 441 736.332 427.333 717 408 c 128
- 697.667 388.667 688 367.333 688 344 c 1
- 688 344 l 1
-92 0 m 1
- 92 492 l 1
- 387 492 l 1
- 377 501.333 369.333 514.5 364 531.5 c 128
- 358.667 548.5 356 568 356 590 c 0
- 356 629.333 376 662.667 416 690 c 128
- 456 717.333 503.667 731 559 731 c 0
- 620.333 731 676.333 709.833 727 667.5 c 128
- 777.667 625.166 812 570.333 830 503 c 1
- 848 504 l 2
- 914.668 504 971.335 484.667 1018 446 c 128
- 1064.67 407.333 1088 361 1088 307 c 0
- 1088 257.667 1072.67 210.167 1042 164.5 c 128
- 1011.33 118.833 969.333 80.3333 916 49 c 1
- 1186 49 l 1
- 1186 0 l 1
- 713 0 l 1
- 809 35.3333 886.333 81 945 137 c 128
- 1003.67 193 1033 249.667 1033 307 c 0
- 1033 347.667 1014.83 382.5 978.5 411.5 c 128
- 942.167 440.5 898.667 455 848 455 c 1
- 852.68 444.333 856.346 429.833 859 411.5 c 128
- 861.667 393.167 863 370.667 863 344 c 0
- 863 314 852 288.167 830 266.5 c 128
- 808 244.833 781.333 234 750 234 c 0
- 718 234 690.5 244.833 667.5 266.5 c 128
- 644.5 288.167 633 314 633 344 c 0
- 633 380.667 646.333 413.167 673 441.5 c 128
- 699.668 469.834 733.335 487.668 774 495 c 1
- 759.333 549.667 732 594.5 692 629.5 c 128
- 652 664.5 607.667 682 559 682 c 0
- 518.333 682 483.667 673 455 655 c 128
- 426.333 637 412 615.333 412 590 c 0
- 412 568.666 415.167 549.332 421.5 532 c 128
- 427.833 514.667 437 501.333 449 492 c 1
- 535 492 l 1
- 535 443 l 1
- 363 443 l 1
- 363 264 l 1
- 373 275.333 385.5 284.333 400.5 291 c 128
- 415.5 297.667 431.667 301 449 301 c 0
- 493 301 530.5 287.333 561.5 260 c 128
- 592.5 232.667 608 199.333 608 160 c 0
- 608 116 591.333 78.3333 558 47 c 128
- 524.666 15.6667 484 0 436 0 c 2
- 301 0 l 1
- 301 49 l 1
- 436 49 l 2
- 466 49 492 59.8333 514 81.5 c 128
- 536 103.167 547 129.333 547 160 c 0
- 547 184 537.333 204.333 518 221 c 128
- 498.667 237.667 475.667 246 449 246 c 0
- 435 246 420.333 241.667 405 233 c 128
- 389.667 224.333 375.667 212.333 363 197 c 1
- 363 98 l 1
- 301 98 l 1
- 301 443 l 1
- 154 443 l 1
- 154 0 l 1
- 92 0 l 1
- 92 0 l 1
-EndSplineSet
+AnchorClass2: "tmanchor"  "'abvm' Above Base Mark lookup 0-1" 
 BeginChars: 65649 254
 
 StartChar: .notdef
@@ -1973,6 +1902,7 @@ GlyphClass: 4
 Flags: W
 HStem: 553 49<-178.402 -74.7726> 750 49<-178.66 -74.4369>
 VStem: -250 50<623.437 728.563> -53 49<623.437 728.227>
+AnchorPoint: "tmanchor" -123 626 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1995,7 +1925,6 @@ SplineSet
  -200 707 -200 707 -200 676 c 129,-1,11
  -200 645 -200 645 -178.5 623.5 c 128,-1,12
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: visargataml
@@ -2073,6 +2002,7 @@ Width: 1138
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 575 516 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2129,7 +2059,6 @@ SplineSet
  87 120 87 120 87 111 c 1,69,57
  87 105 87 105 93.5 95.5 c 128,-1,58
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: aataml
@@ -2138,6 +2067,7 @@ Width: 1295
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 640 537 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2228,6 +2158,7 @@ Width: 996
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 510 820 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2325,6 +2256,7 @@ Width: 722
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 396 506 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2366,6 +2298,7 @@ Width: 929
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 473 522 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2418,6 +2351,7 @@ Width: 1289
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 637 515 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2509,6 +2443,7 @@ Width: 799
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 435 506 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2554,6 +2489,7 @@ Width: 797
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 440 506 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2603,6 +2539,7 @@ Width: 822
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 423 504 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2726,6 +2663,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 428 519 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2798,7 +2736,6 @@ SplineSet
  208 221 208 221 190 199.5 c 128,-1,96
  172 178 172 178 172 148 c 1,85,86
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: ootaml
@@ -2845,6 +2782,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 418 529 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2930,7 +2868,6 @@ SplineSet
  223 -141 223 -141 223 -172 c 5,113,-1
  223 -172 l 5,101,102
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: autaml
@@ -2994,6 +2931,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 879 514 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3111,7 +3049,6 @@ SplineSet
  1309 492 l 1,153,-1
  1309 492 l 1,112,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: kataml
@@ -3164,6 +3101,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 329 494 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3213,7 +3151,6 @@ SplineSet
  157 492 l 1,53,-1
  157 492 l 1,17,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: ngataml
@@ -3262,6 +3199,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 449 492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3298,7 +3236,6 @@ SplineSet
  301 49 l 5,36,-1
  301 49 l 5,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: cataml
@@ -3345,6 +3282,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 300 495 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3382,7 +3320,6 @@ SplineSet
  157 492 l 1,35,-1
  157 492 l 1,17,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: jataml
@@ -3440,6 +3377,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 433 502 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3518,7 +3456,6 @@ SplineSet
  409 445 409 445 439 393 c 1,103,-1
  439 393 l 1,13,14
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: nyataml
@@ -3571,6 +3508,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 572 505 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3632,7 +3570,6 @@ SplineSet
  73 -17 73 -17 73 197 c 5,76,-1
  73 197 l 5,13,14
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: ttataml
@@ -3676,6 +3613,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 423 502 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3688,7 +3626,6 @@ SplineSet
  92 0 l 1,6,-1
  92 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: nnataml
@@ -3757,6 +3694,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 675 516 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3848,7 +3786,6 @@ SplineSet
  54 117 54 117 54 209 c 1,118,-1
  54 209 l 1,39,40
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: tataml
@@ -3890,6 +3827,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 322 492 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3945,7 +3883,6 @@ SplineSet
  157 492 l 1,61,-1
  157 492 l 1,17,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: nataml
@@ -3996,6 +3933,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 310 499 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4036,7 +3974,6 @@ SplineSet
  92 492 l 1,44,-1
  92 492 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: nnnataml
@@ -4100,6 +4037,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 519 506 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4165,7 +4103,6 @@ SplineSet
  685 492 685 492 728 492 c 1,81,-1
  728 492 l 1,26,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: pataml
@@ -4210,6 +4147,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 374 494 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4224,7 +4162,6 @@ SplineSet
  608 49 l 1,8,-1
  608 49 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: mataml
@@ -4277,6 +4214,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 435 511 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4305,7 +4243,6 @@ SplineSet
  466 504 466 504 522 504 c 1,27,-1
  522 504 l 1,12,13
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: yataml
@@ -4360,6 +4297,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 424 488 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4386,7 +4324,6 @@ SplineSet
  725 49 l 1,24,-1
  725 49 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: rataml
@@ -4436,27 +4373,27 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 310 495 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-92 492 m 5,0,-1
- 522 492 l 5,1,-1
- 522 443 l 5,2,-1
- 387 443 l 5,3,-1
- 387 0 l 5,4,5
- 328 -21 328 -21 287 -74 c 132,-1,6
- 246 -127 246 -127 234 -197 c 5,7,-1
- 178 -184 l 5,8,9
- 190 -115 190 -115 229 -58.5 c 132,-1,10
- 268 -2 268 -2 326 31 c 5,11,-1
- 326 443 l 5,12,-1
- 154 443 l 5,13,-1
- 154 0 l 5,14,-1
- 92 0 l 5,15,-1
- 92 492 l 5,16,-1
- 92 492 l 5,0,-1
+92 492 m 1,0,-1
+ 522 492 l 1,1,-1
+ 522 443 l 1,2,-1
+ 387 443 l 1,3,-1
+ 387 0 l 1,4,5
+ 328 -21 328 -21 287 -74 c 128,-1,6
+ 246 -127 246 -127 234 -197 c 1,7,-1
+ 178 -184 l 1,8,9
+ 190 -115 190 -115 229 -58.5 c 128,-1,10
+ 268 -2 268 -2 326 31 c 1,11,-1
+ 326 443 l 1,12,-1
+ 154 443 l 1,13,-1
+ 154 0 l 1,14,-1
+ 92 0 l 1,15,-1
+ 92 492 l 1,16,-1
+ 92 492 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: rrataml
@@ -4510,6 +4447,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 337 509 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4551,7 +4489,6 @@ SplineSet
  89 369 l 1,48,-1
  89 369 l 1,0,1
 EndSplineSet
-Validated: 37
 EndChar
 
 StartChar: lataml
@@ -4599,6 +4536,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 423 534 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4650,7 +4588,6 @@ SplineSet
  730 173 730 173 730 270 c 1,64,-1
  730 270 l 1,13,14
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: llataml
@@ -4714,6 +4651,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 482 510 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4761,7 +4699,6 @@ SplineSet
  487 492 l 1,54,-1
  487 492 l 1,13,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: lllataml
@@ -4824,6 +4761,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 430 511 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4879,7 +4817,6 @@ SplineSet
  466 504 466 504 522 504 c 1,64,-1
  522 504 l 1,12,13
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: vataml
@@ -4936,6 +4873,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 482 513 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4982,7 +4920,6 @@ SplineSet
  827 49 l 1,55,-1
  827 49 l 1,13,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: shataml
@@ -4991,6 +4928,7 @@ Width: 1051
 VWidth: 1023
 GlyphClass: 2
 Flags: W
+AnchorPoint: "tmanchor" 516 498 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5017,7 +4955,6 @@ SplineSet
  361 48 361 48 361 152 c 2,26,-1
  361 492 l 1,6,-1
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: ssataml
@@ -5079,6 +5016,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 616 502 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5158,7 +5096,6 @@ SplineSet
  744 492 744 492 805 492 c 1,96,-1
  805 492 l 1,34,35
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: sataml
@@ -5211,6 +5148,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 538 535 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5273,7 +5211,6 @@ SplineSet
  55 124 55 124 55 221 c 1,79,-1
  55 221 l 1,13,14
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: hataml
@@ -5330,6 +5267,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 608 509 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5409,7 +5347,6 @@ SplineSet
  862 478 862 478 881 455 c 1,102,-1
  881 455 l 1,13,14
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: aasigntaml
@@ -11720,7 +11657,6 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 127 2 2
 Refer: 64 2965 S 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml iisigntaml
 EndChar
@@ -11809,7 +11745,6 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 124 0 2
 Refer: 66 2970 N 1 0 0 1 1 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" cataml iisigntaml
 EndChar
@@ -12217,7 +12152,6 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 113 -1 2
 Refer: 71 2980 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" tataml iisigntaml
 EndChar
@@ -12232,7 +12166,6 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 95 -3 2
 Refer: 72 2984 N 1 0 0 1 0 -2 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nataml iisigntaml
 EndChar
@@ -12586,7 +12519,6 @@ LayerCount: 2
 Fore
 Refer: 89 3008 N 1 0 0 1 58 -2 2
 Refer: 77 2992 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" rataml iisigntaml
 EndChar
@@ -17841,6 +17773,7 @@ PUSHW_3
  5
 CALL
 EndTTInstrs
+AnchorPoint: "tmanchor" 1335 -7 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17946,7 +17879,6 @@ SplineSet
  34 89 34 89 34 160 c 1,124,-1
  34 160 l 1,51,52
 EndSplineSet
-Validated: 5
 Ligature2: "'akhn' Akhand lookup 3-1" kataml viramataml ssataml
 LCarets2: 2 0 0 
 EndChar
@@ -18283,7 +18215,6 @@ LayerCount: 2
 Fore
 Refer: 64 2965 N 1 0 0 1 0 0 2
 Refer: 98 3021 N 1 0 0 1 573 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" kataml viramataml
 EndChar
@@ -18298,7 +18229,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 690 0 2
 Refer: 65 2969 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ngataml viramataml
 EndChar
@@ -18313,7 +18243,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 530 0 2
 Refer: 66 2970 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" cataml viramataml
 EndChar
@@ -18328,7 +18257,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 672 0 2
 Refer: 67 2972 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" jataml viramataml
 EndChar
@@ -18343,7 +18271,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 795 -1 2
 Refer: 68 2974 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nyataml viramataml
 EndChar
@@ -18358,22 +18285,20 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 652 0 2
 Refer: 69 2975 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ttataml viramataml
 EndChar
 
 StartChar: nnataml_viramataml
 Encoding: 65629 -1 220
-Width: 125
+Width: 1303
 VWidth: 1023
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 70 2979 S 1 0 0 1 0 0 2
+Refer: 70 2979 N 1 0 0 1 0 0 2
 Refer: 98 3021 N 1 0 0 1 895 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nnataml viramataml
 EndChar
@@ -18388,7 +18313,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 580 0 2
 Refer: 71 2980 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" tataml viramataml
 EndChar
@@ -18403,7 +18327,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 570 0 2
 Refer: 72 2984 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nataml viramataml
 EndChar
@@ -18418,7 +18341,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 741 0 2
 Refer: 73 2985 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" nnnataml viramataml
 EndChar
@@ -18433,7 +18355,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 623 0 2
 Refer: 74 2986 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" pataml viramataml
 EndChar
@@ -18448,7 +18369,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 659 0 2
 Refer: 75 2990 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" mataml viramataml
 EndChar
@@ -18463,7 +18383,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 681 0 2
 Refer: 76 2991 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" yataml viramataml
 EndChar
@@ -18480,7 +18399,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 510 0 2
 Refer: 77 2992 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" rataml viramataml
 EndChar
@@ -18495,7 +18413,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 590 0 2
 Refer: 78 2993 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" rrataml viramataml
 EndChar
@@ -18510,7 +18427,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 670 0 2
 Refer: 79 2994 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" lataml viramataml
 EndChar
@@ -18525,7 +18441,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 706 0 2
 Refer: 80 2995 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" llataml viramataml
 EndChar
@@ -18540,7 +18455,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 656 -3 2
 Refer: 81 2996 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" lllataml viramataml
 EndChar
@@ -18555,7 +18469,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 N 1 0 0 1 731 1 2
 Refer: 82 2997 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" vataml viramataml
 EndChar
@@ -18570,7 +18483,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 819 0 2
 Refer: 84 2999 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" ssataml viramataml
 EndChar
@@ -18585,7 +18497,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 797 0 2
 Refer: 85 3000 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" sataml viramataml
 EndChar
@@ -18600,7 +18511,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 870 0 2
 Refer: 86 3001 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" hataml viramataml
 EndChar
@@ -18615,7 +18525,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 960 0 2
 Refer: 211 -1 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" kataml_viramataml_ssataml viramataml
 EndChar
@@ -18630,7 +18539,6 @@ LayerCount: 2
 Fore
 Refer: 98 3021 S 1 0 0 1 735 5 2
 Refer: 83 2998 N 1 0 0 1 0 0 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'haln' Halant Forms lookup 4-1" shataml viramataml
 EndChar
@@ -18645,7 +18553,6 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 565 -4 2
 Refer: 83 2998 N 1 0 0 1 0 -4 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" shataml iisigntaml
 EndChar
@@ -18660,7 +18567,6 @@ LayerCount: 2
 Fore
 Refer: 88 3007 S 1 0 0 1 557 0 2
 Refer: 83 2998 N 1 0 0 1 0 1 2
-Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions lookup 0-1" shataml isigntaml
 EndChar
