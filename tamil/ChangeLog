@@ -1,6 +1,10 @@
 				  lohit-tamil
 Current Version :- 2.5.3
 
+- Resolved #843331 Added 11 new characters to support orthographies.
+- Resolved #1078661 Removed deprecated ligature for  U+0BB8 U+0BCD U+0BB0
+U+0BC0 for SRII http://www.unicode.org/versions/Unicode6.2.0/ch09.pdf page 313
+
 * Fri Dec 21 2012 Pravin Satpute <psatpute@redhat.com> - 2.5.3
 - Dropping RFN from OFL.txt
 - updated Zero and Five numeral

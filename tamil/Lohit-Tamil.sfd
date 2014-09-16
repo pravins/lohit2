@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1160992028
-ModificationTime: 1410779983
+ModificationTime: 1410848936
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -364,7 +364,7 @@ Grid
  92 0 l 1
  92 0 l 1
 EndSplineSet
-BeginChars: 65649 244
+BeginChars: 65649 254
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1261,7 +1261,7 @@ SplineSet
  246 725 246 725 203 678.5 c 128,-1,50
  160 632 160 632 160 565 c 1,39,40
 EndSplineSet
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -2129,7 +2129,7 @@ SplineSet
  87 120 87 120 87 111 c 1,69,57
  87 105 87 105 93.5 95.5 c 128,-1,58
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: aataml
@@ -11720,7 +11720,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 127 2 2
 Refer: 64 2965 S 1 0 0 1 0 0 2
-Validated: 98309
+Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml iisigntaml
 EndChar
@@ -11809,7 +11809,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 124 0 2
 Refer: 66 2970 N 1 0 0 1 1 0 2
-Validated: 98309
+Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" cataml iisigntaml
 EndChar
@@ -12217,7 +12217,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 113 -1 2
 Refer: 71 2980 N 1 0 0 1 0 0 2
-Validated: 98309
+Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" tataml iisigntaml
 EndChar
@@ -12232,7 +12232,7 @@ LayerCount: 2
 Fore
 Refer: 89 3008 S 1 0 0 1 95 -3 2
 Refer: 72 2984 N 1 0 0 1 0 -2 2
-Validated: 98309
+Validated: 32773
 LCarets2: 1 0 
 Ligature2: "'abvs' Above Base Substitutions lookup 2-1" nataml iisigntaml
 EndChar
@@ -18273,164 +18273,8 @@ Ligature2: "'abvs' Above Base Substitutions lookup 2-1" kataml_viramataml_ssatam
 LCarets2: 1 0 
 EndChar
 
-StartChar: satam_viramataml_rataml_iitaml
-Encoding: 65622 -1 214
-Width: 1332
-VWidth: 1023
-GlyphClass: 2
-Flags: W
-TtInstrs:
-NPUSHW
- 31
- 64
- 63
- 2
- 62
- 63
- 33
- 32
- 2
- 31
- 67
- 106
- 105
- 97
- 96
- 93
- 92
- 6
- 13
- 1
- 51
- 50
- 26
- 25
- 15
- 5
- 14
- 13
- 70
- 1
- 0
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SROUND
-SVTCA[y-axis]
-MIAP[rnd]
-SLOOP
-ALIGNRP
-MIAP[rnd]
-SLOOP
-ALIGNRP
-MIAP[rnd]
-SLOOP
-ALIGNRP
-MIAP[rnd]
-SLOOP
-ALIGNRP
-SVTCA[x-axis]
-IUP[x]
-IUP[y]
-PUSHW_3
- 107
- 0
- 5
-CALL
-EndTTInstrs
-LayerCount: 2
-Fore
-SplineSet
-1125 652 m 1,0,1
- 1125 621 1125 621 1146.5 599.5 c 128,-1,2
- 1168 578 1168 578 1199 578 c 256,3,4
- 1230 578 1230 578 1251 599.5 c 128,-1,5
- 1272 621 1272 621 1272 652 c 256,6,7
- 1272 683 1272 683 1250.5 704 c 128,-1,8
- 1229 725 1229 725 1199 725 c 256,9,10
- 1168 725 1168 725 1146.5 703.5 c 128,-1,11
- 1125 682 1125 682 1125 652 c 1,12,-1
- 1125 652 l 1,0,1
-92 0 m 1,13,-1
- 92 492 l 1,14,-1
- 154 492 l 1,15,-1
- 154 49 l 1,16,-1
- 584 49 l 1,17,-1
- 584 369 l 2,18,19
- 584 426 584 426 620 465 c 128,-1,20
- 656 504 656 504 707 504 c 0,21,22
- 734 504 734 504 760 491 c 128,-1,23
- 786 478 786 478 805 455 c 1,24,-1
- 805 492 l 1,25,-1
- 971 492 l 1,26,27
- 939 519 939 519 921.5 554.5 c 128,-1,28
- 904 590 904 590 904 627 c 0,29,30
- 904 703 904 703 968.5 757 c 128,-1,31
- 1033 811 1033 811 1125 811 c 0,32,33
- 1206 811 1206 811 1263.5 764.5 c 128,-1,34
- 1321 718 1321 718 1321 652 c 0,35,36
- 1321 602 1321 602 1285 565.5 c 128,-1,37
- 1249 529 1249 529 1199 529 c 256,38,39
- 1149 529 1149 529 1112.5 565 c 128,-1,40
- 1076 601 1076 601 1076 652 c 0,41,42
- 1076 691 1076 691 1094.5 721 c 128,-1,43
- 1113 751 1113 751 1143 762 c 1,44,45
- 1069 762 1069 762 1017 722.5 c 128,-1,46
- 965 683 965 683 965 627 c 0,47,48
- 965 588 965 588 988.5 551.5 c 128,-1,49
- 1012 515 1012 515 1051 492 c 1,50,-1
- 1235 492 l 1,51,-1
- 1235 443 l 1,52,-1
- 1076 443 l 1,53,-1
- 1076 264 l 1,54,55
- 1088 279 1088 279 1107 287 c 128,-1,56
- 1126 295 1126 295 1149 295 c 0,57,58
- 1206 295 1206 295 1245.5 244.5 c 128,-1,59
- 1285 194 1285 194 1285 123 c 0,60,61
- 1285 -60 1285 -60 1072 -190 c 128,-1,62
- 859 -320 859 -320 559 -320 c 0,63,64
- 381 -320 381 -320 255 -269.5 c 128,-1,65
- 129 -219 129 -219 129 -148 c 0,66,67
- 129 -103 129 -103 201 -70 c 128,-1,68
- 273 -37 273 -37 375 -37 c 256,69,70
- 477 -37 477 -37 558 -59 c 128,-1,71
- 639 -81 639 -81 688 -123 c 1,72,-1
- 658 -160 l 1,73,74
- 615 -124 615 -124 542.5 -105 c 128,-1,75
- 470 -86 470 -86 375 -86 c 0,76,77
- 299 -86 299 -86 245 -104 c 128,-1,78
- 191 -122 191 -122 191 -148 c 0,79,80
- 191 -198 191 -198 299 -234 c 128,-1,81
- 407 -270 407 -270 559 -270 c 0,82,83
- 834 -270 834 -270 1028.5 -155.5 c 128,-1,84
- 1223 -41 1223 -41 1223 123 c 0,85,86
- 1223 173 1223 173 1201.5 209.5 c 128,-1,87
- 1180 246 1180 246 1149 246 c 0,88,89
- 1127 246 1127 246 1107 234.5 c 128,-1,90
- 1087 223 1087 223 1076 203 c 1,91,-1
- 1076 0 l 1,92,-1
- 1014 0 l 1,93,-1
- 1014 443 l 1,94,-1
- 854 443 l 1,95,-1
- 854 0 l 1,96,-1
- 793 0 l 1,97,-1
- 793 356 l 2,98,99
- 793 397 793 397 767.5 426 c 128,-1,100
- 742 455 742 455 707 455 c 0,101,102
- 681 455 681 455 663 429.5 c 128,-1,103
- 645 404 645 404 645 369 c 2,104,-1
- 645 0 l 1,105,-1
- 92 0 l 1,106,-1
- 92 0 l 1,13,-1
-EndSplineSet
-Validated: 517
-Ligature2: "'abvs' Above Base Substitutions lookup 2-1" sataml viramataml rataml iisigntaml
-EndChar
-
 StartChar: kataml_viramataml
-Encoding: 65623 -1 215
+Encoding: 65623 -1 214
 Width: 125
 VWidth: 1023
 GlyphClass: 2
@@ -18445,7 +18289,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" kataml viramataml
 EndChar
 
 StartChar: ngataml_viramataml
-Encoding: 65624 -1 216
+Encoding: 65624 -1 215
 Width: 897
 VWidth: 1023
 GlyphClass: 2
@@ -18460,7 +18304,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" ngataml viramataml
 EndChar
 
 StartChar: cataml_viramataml
-Encoding: 65625 -1 217
+Encoding: 65625 -1 216
 Width: 567
 VWidth: 1023
 GlyphClass: 2
@@ -18475,7 +18319,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" cataml viramataml
 EndChar
 
 StartChar: jataml_viramataml
-Encoding: 65626 -1 218
+Encoding: 65626 -1 217
 Width: 854
 VWidth: 1023
 GlyphClass: 2
@@ -18490,7 +18334,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" jataml viramataml
 EndChar
 
 StartChar: nyataml_viramataml
-Encoding: 65627 -1 219
+Encoding: 65627 -1 218
 Width: 1100
 VWidth: 1023
 GlyphClass: 2
@@ -18505,7 +18349,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" nyataml viramataml
 EndChar
 
 StartChar: ttataml_viramataml
-Encoding: 65628 -1 220
+Encoding: 65628 -1 219
 Width: 815
 VWidth: 1023
 GlyphClass: 2
@@ -18520,7 +18364,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" ttataml viramataml
 EndChar
 
 StartChar: nnataml_viramataml
-Encoding: 65629 -1 221
+Encoding: 65629 -1 220
 Width: 125
 VWidth: 1023
 GlyphClass: 2
@@ -18535,7 +18379,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" nnataml viramataml
 EndChar
 
 StartChar: tataml_viramataml
-Encoding: 65630 -1 222
+Encoding: 65630 -1 221
 Width: 667
 VWidth: 1023
 GlyphClass: 2
@@ -18550,7 +18394,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" tataml viramataml
 EndChar
 
 StartChar: nataml_viramataml
-Encoding: 65631 -1 223
+Encoding: 65631 -1 222
 Width: 657
 VWidth: 1023
 GlyphClass: 2
@@ -18565,7 +18409,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" nataml viramataml
 EndChar
 
 StartChar: nnnataml_viramataml
-Encoding: 65632 -1 224
+Encoding: 65632 -1 223
 Width: 993
 VWidth: 1023
 GlyphClass: 2
@@ -18580,7 +18424,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" nnnataml viramataml
 EndChar
 
 StartChar: pataml_viramataml
-Encoding: 65633 -1 225
+Encoding: 65633 -1 224
 Width: 762
 VWidth: 1023
 GlyphClass: 2
@@ -18595,7 +18439,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" pataml viramataml
 EndChar
 
 StartChar: mataml_viramataml
-Encoding: 65634 -1 226
+Encoding: 65634 -1 225
 Width: 824
 VWidth: 1023
 GlyphClass: 2
@@ -18610,7 +18454,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" mataml viramataml
 EndChar
 
 StartChar: yataml_viramataml
-Encoding: 65635 -1 227
+Encoding: 65635 -1 226
 Width: 878
 VWidth: 1023
 GlyphClass: 2
@@ -18625,7 +18469,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" yataml viramataml
 EndChar
 
 StartChar: rataml_viramataml
-Encoding: 65636 -1 228
+Encoding: 65636 -1 227
 Width: 529
 VWidth: 1023
 GlyphClass: 2
@@ -18642,7 +18486,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" rataml viramataml
 EndChar
 
 StartChar: rrataml_viramataml
-Encoding: 65637 -1 229
+Encoding: 65637 -1 228
 Width: 697
 VWidth: 1023
 GlyphClass: 2
@@ -18657,7 +18501,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" rrataml viramataml
 EndChar
 
 StartChar: lataml_viramataml
-Encoding: 65638 -1 230
+Encoding: 65638 -1 229
 Width: 850
 VWidth: 1023
 GlyphClass: 2
@@ -18672,7 +18516,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" lataml viramataml
 EndChar
 
 StartChar: llataml_viramataml
-Encoding: 65639 -1 231
+Encoding: 65639 -1 230
 Width: 924
 VWidth: 1023
 GlyphClass: 2
@@ -18687,7 +18531,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" llataml viramataml
 EndChar
 
 StartChar: lllataml_viramataml
-Encoding: 65640 -1 232
+Encoding: 65640 -1 231
 Width: 824
 VWidth: 1023
 GlyphClass: 2
@@ -18702,7 +18546,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" lllataml viramataml
 EndChar
 
 StartChar: vataml_viramataml
-Encoding: 65641 -1 233
+Encoding: 65641 -1 232
 Width: 980
 VWidth: 1023
 GlyphClass: 2
@@ -18717,7 +18561,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" vataml viramataml
 EndChar
 
 StartChar: ssataml_viramataml
-Encoding: 65642 -1 234
+Encoding: 65642 -1 233
 Width: 1146
 VWidth: 1023
 GlyphClass: 2
@@ -18732,7 +18576,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" ssataml viramataml
 EndChar
 
 StartChar: sataml_viramataml
-Encoding: 65643 -1 235
+Encoding: 65643 -1 234
 Width: 1100
 VWidth: 1023
 GlyphClass: 3
@@ -18747,7 +18591,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" sataml viramataml
 EndChar
 
 StartChar: hataml_viramataml
-Encoding: 65644 -1 236
+Encoding: 65644 -1 235
 Width: 1255
 VWidth: 1023
 GlyphClass: 2
@@ -18762,7 +18606,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" hataml viramataml
 EndChar
 
 StartChar: kataml_virama_ssataml_virama
-Encoding: 65645 -1 237
+Encoding: 65645 -1 236
 Width: 1423
 VWidth: 1023
 GlyphClass: 2
@@ -18777,7 +18621,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" kataml_viramataml_ssataml viramataml
 EndChar
 
 StartChar: shataml_viramataml
-Encoding: 65646 -1 238
+Encoding: 65646 -1 237
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -18792,7 +18636,7 @@ Ligature2: "'haln' Halant Forms lookup 4-1" shataml viramataml
 EndChar
 
 StartChar: shataml_iisigntaml
-Encoding: 65647 -1 239
+Encoding: 65647 -1 238
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -18807,7 +18651,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 2-1" shataml iisigntaml
 EndChar
 
 StartChar: shataml_isigntaml
-Encoding: 65648 -1 240
+Encoding: 65648 -1 239
 Width: 1051
 VWidth: 1023
 GlyphClass: 2
@@ -18822,7 +18666,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 0-1" shataml isigntaml
 EndChar
 
 StartChar: zerotaml
-Encoding: 3046 3046 241
+Encoding: 3046 3046 240
 Width: 636
 VWidth: 1023
 GlyphClass: 2
@@ -18855,7 +18699,7 @@ Validated: 1
 EndChar
 
 StartChar: omtaml
-Encoding: 3024 3024 242
+Encoding: 3024 3024 241
 Width: 1023
 VWidth: 0
 Flags: W
@@ -18961,7 +18805,7 @@ Validated: 33
 EndChar
 
 StartChar: inr_currency
-Encoding: 8377 8377 243
+Encoding: 8377 8377 242
 Width: 624
 VWidth: 0
 Flags: W
@@ -18992,6 +18836,341 @@ SplineSet
  345.891 394 345.891 394 358 500 c 0,0,1
 EndSplineSet
 Validated: 33
+EndChar
+
+StartChar: uni00B2
+Encoding: 178 178 243
+Width: 349
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 367 m 2,0,1
+ 37 410 37 410 72.5 455 c 128,-1,2
+ 108 500 108 500 168 535 c 0,3,4
+ 211 560 211 560 235.5 594 c 128,-1,5
+ 260 628 260 628 260 661 c 128,-1,6
+ 260 694 260 694 234 717 c 128,-1,7
+ 208 740 208 740 171 740 c 0,8,9
+ 135 740 135 740 109 712 c 128,-1,10
+ 83 684 83 684 83 644 c 0,11,12
+ 83 634 83 634 86 622.5 c 128,-1,13
+ 89 611 89 611 99 595 c 1,14,-1
+ 60 576 l 1,15,16
+ 47 599 47 599 42 615 c 128,-1,17
+ 37 631 37 631 37 644 c 0,18,19
+ 37 700 37 700 76 739.5 c 128,-1,20
+ 115 779 115 779 171 779 c 128,-1,21
+ 227 779 227 779 266.5 744.5 c 128,-1,22
+ 306 710 306 710 306 661 c 0,23,24
+ 306 617 306 617 270.5 571 c 128,-1,25
+ 235 525 235 525 174 491 c 1,26,27
+ 131 465 131 465 107 432.5 c 128,-1,28
+ 83 400 83 400 83 373 c 1,29,-1
+ 312 373 l 1,30,-1
+ 312 334 l 1,31,-1
+ 37 334 l 1,32,-1
+ 37 367 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni00B3
+Encoding: 179 179 244
+Width: 357
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+83 481 m 1,0,1
+ 91 434 91 434 118 406.5 c 128,-1,2
+ 145 379 145 379 179 379 c 0,3,4
+ 218 379 218 379 246.5 407 c 128,-1,5
+ 275 435 275 435 275 475 c 0,6,7
+ 275 511 275 511 247 537 c 128,-1,8
+ 219 563 219 563 179 563 c 2,9,-1
+ 139 563 l 1,10,-1
+ 139 592 l 1,11,-1
+ 248 732 l 1,12,-1
+ 38 732 l 1,13,-1
+ 38 771 l 1,14,-1
+ 290 771 l 1,15,-1
+ 308 745 l 1,16,-1
+ 204 602 l 1,17,18
+ 246 602 246 602 283 565 c 128,-1,19
+ 320 528 320 528 320 475 c 0,20,21
+ 320 416 320 416 278.5 375 c 128,-1,22
+ 237 334 237 334 179 334 c 0,23,24
+ 124 334 124 334 83.5 374 c 128,-1,25
+ 43 414 43 414 37 481 c 1,26,-1
+ 83 481 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni00B9
+Encoding: 185 185 245
+Width: 309
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 373 m 1,0,-1
+ 132 373 l 1,1,-1
+ 132 686 l 1,2,3
+ 121 677 121 677 95.5 668 c 128,-1,4
+ 70 659 70 659 37 659 c 1,5,-1
+ 37 698 l 1,6,7
+ 75 698 75 698 101.5 717 c 128,-1,8
+ 128 736 128 736 141 772 c 1,9,-1
+ 178 772 l 1,10,-1
+ 178 373 l 1,11,-1
+ 272 373 l 1,12,-1
+ 272 334 l 1,13,-1
+ 37 334 l 1,14,-1
+ 37 373 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2081
+Encoding: 8321 8321 246
+Width: 309
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 -61 m 1,0,-1
+ 132 -61 l 1,1,-1
+ 132 252 l 1,2,3
+ 121 243 121 243 95.5 234 c 128,-1,4
+ 70 225 70 225 37 225 c 1,5,-1
+ 37 264 l 1,6,7
+ 75 264 75 264 101.5 283 c 128,-1,8
+ 128 302 128 302 141 338 c 1,9,-1
+ 178 338 l 1,10,-1
+ 178 -61 l 1,11,-1
+ 272 -61 l 1,12,-1
+ 272 -100 l 1,13,-1
+ 37 -100 l 1,14,-1
+ 37 -61 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2082
+Encoding: 8322 8322 247
+Width: 349
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 -67 m 2,0,1
+ 37 -24 37 -24 72.5 21 c 128,-1,2
+ 108 66 108 66 168 101 c 0,3,4
+ 211 126 211 126 235.5 160 c 128,-1,5
+ 260 194 260 194 260 227 c 128,-1,6
+ 260 260 260 260 234 283 c 128,-1,7
+ 208 306 208 306 171 306 c 0,8,9
+ 135 306 135 306 109 278 c 128,-1,10
+ 83 250 83 250 83 210 c 0,11,12
+ 83 200 83 200 86 188.5 c 128,-1,13
+ 89 177 89 177 99 161 c 1,14,-1
+ 60 142 l 1,15,16
+ 47 165 47 165 42 181 c 128,-1,17
+ 37 197 37 197 37 210 c 0,18,19
+ 37 266 37 266 76 305.5 c 128,-1,20
+ 115 345 115 345 171 345 c 128,-1,21
+ 227 345 227 345 266.5 310.5 c 128,-1,22
+ 306 276 306 276 306 227 c 0,23,24
+ 306 183 306 183 270.5 137 c 128,-1,25
+ 235 91 235 91 174 57 c 1,26,27
+ 131 31 131 31 107 -1.5 c 128,-1,28
+ 83 -34 83 -34 83 -61 c 1,29,-1
+ 312 -61 l 1,30,-1
+ 312 -100 l 1,31,-1
+ 37 -100 l 1,32,-1
+ 37 -67 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni2083
+Encoding: 8323 8323 248
+Width: 357
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+83 47 m 1,0,1
+ 91 0 91 0 118 -27.5 c 128,-1,2
+ 145 -55 145 -55 179 -55 c 0,3,4
+ 218 -55 218 -55 246.5 -27 c 128,-1,5
+ 275 1 275 1 275 41 c 0,6,7
+ 275 77 275 77 247 103 c 128,-1,8
+ 219 129 219 129 179 129 c 2,9,-1
+ 139 129 l 1,10,-1
+ 139 158 l 1,11,-1
+ 248 298 l 1,12,-1
+ 38 298 l 1,13,-1
+ 38 337 l 1,14,-1
+ 290 337 l 1,15,-1
+ 308 311 l 1,16,-1
+ 204 168 l 1,17,18
+ 246 168 246 168 283 131 c 128,-1,19
+ 320 94 320 94 320 41 c 0,20,21
+ 320 -18 320 -18 278.5 -59 c 128,-1,22
+ 237 -100 237 -100 179 -100 c 0,23,24
+ 124 -100 124 -100 83.5 -60 c 128,-1,25
+ 43 -20 43 -20 37 47 c 1,26,-1
+ 83 47 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni2084
+Encoding: 8324 8324 249
+Width: 357
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 23 m 1,0,-1
+ 216 331 l 1,1,-1
+ 252 331 l 1,2,-1
+ 252 34 l 1,3,-1
+ 320 34 l 1,4,-1
+ 320 -5 l 1,5,-1
+ 252 -5 l 1,6,-1
+ 252 -61 l 1,7,-1
+ 286 -61 l 1,8,-1
+ 286 -100 l 1,9,-1
+ 172 -100 l 1,10,-1
+ 172 -61 l 1,11,-1
+ 206 -61 l 1,12,-1
+ 206 -5 l 1,13,-1
+ 37 -5 l 1,14,-1
+ 37 23 l 1,0,-1
+206 34 m 1,15,-1
+ 206 229 l 1,16,-1
+ 94 34 l 1,17,-1
+ 206 34 l 1,15,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2074
+Encoding: 8308 8308 250
+Width: 357
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+37 457 m 1,0,-1
+ 216 765 l 1,1,-1
+ 252 765 l 1,2,-1
+ 252 468 l 1,3,-1
+ 320 468 l 1,4,-1
+ 320 429 l 1,5,-1
+ 252 429 l 1,6,-1
+ 252 373 l 1,7,-1
+ 286 373 l 1,8,-1
+ 286 334 l 1,9,-1
+ 172 334 l 1,10,-1
+ 172 373 l 1,11,-1
+ 206 373 l 1,12,-1
+ 206 429 l 1,13,-1
+ 37 429 l 1,14,-1
+ 37 457 l 1,0,-1
+206 468 m 1,15,-1
+ 206 663 l 1,16,-1
+ 94 468 l 1,17,-1
+ 206 468 l 1,15,-1
+EndSplineSet
+EndChar
+
+StartChar: uni0310
+Encoding: 784 784 251
+Width: 1024
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-237 600 m 0,0,1
+ -315 600 -315 600 -375 652.5 c 128,-1,2
+ -435 705 -435 705 -450 786 c 1,3,-1
+ -377 786 l 1,4,5
+ -367 732 -367 732 -327 696 c 128,-1,6
+ -287 660 -287 660 -237 660 c 0,7,8
+ -186 660 -186 660 -146 696 c 128,-1,9
+ -106 732 -106 732 -97 786 c 1,10,-1
+ -24 786 l 1,11,12
+ -38 705 -38 705 -98 652.5 c 128,-1,13
+ -158 600 -158 600 -237 600 c 0,0,1
+-280 834 m 128,-1,15
+ -262 852 -262 852 -236 852 c 128,-1,16
+ -210 852 -210 852 -192.5 834 c 128,-1,17
+ -175 816 -175 816 -175 790 c 128,-1,18
+ -175 764 -175 764 -192.5 746.5 c 128,-1,19
+ -210 729 -210 729 -236 729 c 128,-1,20
+ -262 729 -262 729 -280 747 c 128,-1,21
+ -298 765 -298 765 -298 790 c 0,22,14
+ -298 816 -298 816 -280 834 c 128,-1,15
+EndSplineSet
+EndChar
+
+StartChar: afii57929
+Encoding: 700 700 252
+Width: 264
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+92 861 m 1,0,-1
+ 172 861 l 1,1,-1
+ 172 615 l 1,2,-1
+ 92 615 l 1,3,-1
+ 92 861 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniF000
+Encoding: 61440 61440 253
+Width: 368
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+115 495 m 128,-1,1
+ 144 524 144 524 184 524 c 128,-1,2
+ 224 524 224 524 253 495.5 c 128,-1,3
+ 282 467 282 467 282 426 c 0,4,5
+ 282 386 282 386 253.5 357 c 128,-1,6
+ 225 328 225 328 184 328 c 0,7,8
+ 144 328 144 328 115 357 c 128,-1,9
+ 86 386 86 386 86 426 c 128,-1,0
+ 86 466 86 466 115 495 c 128,-1,1
+150 392 m 128,-1,11
+ 164 378 164 378 184 378 c 128,-1,12
+ 204 378 204 378 218 392 c 128,-1,13
+ 232 406 232 406 232 426 c 128,-1,14
+ 232 446 232 446 218 460 c 128,-1,15
+ 204 474 204 474 184 474 c 128,-1,16
+ 164 474 164 474 150 460 c 128,-1,17
+ 136 446 136 446 136 426 c 128,-1,10
+ 136 406 136 406 150 392 c 128,-1,11
+115 179 m 128,-1,19
+ 144 208 144 208 184 208 c 128,-1,20
+ 224 208 224 208 253 179.5 c 128,-1,21
+ 282 151 282 151 282 110 c 0,22,23
+ 282 70 282 70 253.5 41 c 128,-1,24
+ 225 12 225 12 184 12 c 0,25,26
+ 144 12 144 12 115 41 c 128,-1,27
+ 86 70 86 70 86 110 c 128,-1,18
+ 86 150 86 150 115 179 c 128,-1,19
+150 76 m 128,-1,29
+ 164 62 164 62 184 62 c 128,-1,30
+ 204 62 204 62 218 76 c 128,-1,31
+ 232 90 232 90 232 110 c 128,-1,32
+ 232 130 232 130 218 144 c 128,-1,33
+ 204 158 204 158 184 158 c 128,-1,34
+ 164 158 164 158 150 144 c 128,-1,35
+ 136 130 136 130 136 110 c 128,-1,28
+ 136 90 136 90 150 76 c 128,-1,29
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
