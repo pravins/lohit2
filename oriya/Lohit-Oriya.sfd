@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1366797648
+ModificationTime: 1411366094
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,613 +50,8 @@ OS2SupYOff: 512
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'MODI'
-Lookup: 4 0 0 "'pres' Pre Base Substitutions in Oriya lookup 85"  {"'pres' Pre Base Substitutions in Oriya lookup 85-1"  "'pres' Pre Base Substitutions in Oriya lookup 85-2"  } ['pres' ('orya' <'dflt' > ) ]
-Lookup: 4 8 0 "'abvs' Above Base Substitutions in Oriya lookup 0"  {"'abvs' Above Base Substitutions in Oriya lookup 0 subtable"  } ['abvs' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Oriya lookup 1"  {"'akhn' Akhand in Oriya lookup 1 subtable"  } ['akhn' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Oriya lookup 2"  {"'blwf' Below Base Forms in Oriya lookup 2 subtable"  } ['blwf' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' Half Forms in Oriya lookup 86"  {"'half' Half Forms in Oriya lookup 86-1"  } ['half' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 3"  {"'blws' Below Base Substitutions in Oriya lookup 3 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 4"  {"'blws' Below Base Substitutions in Oriya lookup 4 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 5"  {"'blws' Below Base Substitutions in Oriya lookup 5 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 6"  {"'blws' Below Base Substitutions in Oriya lookup 6 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 7"  {"'blws' Below Base Substitutions in Oriya lookup 7 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 8"  {"'blws' Below Base Substitutions in Oriya lookup 8 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 9"  {"'blws' Below Base Substitutions in Oriya lookup 9 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 10"  {"'blws' Below Base Substitutions in Oriya lookup 10 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 11"  {"'blws' Below Base Substitutions in Oriya lookup 11 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 12"  {"'blws' Below Base Substitutions in Oriya lookup 12 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 13"  {"'blws' Below Base Substitutions in Oriya lookup 13 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 14"  {"'blws' Below Base Substitutions in Oriya lookup 14 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 15"  {"'blws' Below Base Substitutions in Oriya lookup 15 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 16"  {"'blws' Below Base Substitutions in Oriya lookup 16 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 17"  {"'blws' Below Base Substitutions in Oriya lookup 17 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 18"  {"'blws' Below Base Substitutions in Oriya lookup 18 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 19"  {"'blws' Below Base Substitutions in Oriya lookup 19 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 20"  {"'blws' Below Base Substitutions in Oriya lookup 20 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 21"  {"'blws' Below Base Substitutions in Oriya lookup 21 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 22"  {"'blws' Below Base Substitutions in Oriya lookup 22 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 23"  {"'blws' Below Base Substitutions in Oriya lookup 23 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 24"  {"'blws' Below Base Substitutions in Oriya lookup 24 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 25"  {"'blws' Below Base Substitutions in Oriya lookup 25 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 26"  {"'blws' Below Base Substitutions in Oriya lookup 26 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 27"  {"'blws' Below Base Substitutions in Oriya lookup 27 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 28"  {"'blws' Below Base Substitutions in Oriya lookup 28 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 29"  {"'blws' Below Base Substitutions in Oriya lookup 29 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 30"  {"'blws' Below Base Substitutions in Oriya lookup 30 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 31"  {"'blws' Below Base Substitutions in Oriya lookup 31 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 32"  {"'blws' Below Base Substitutions in Oriya lookup 32 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 33"  {"'blws' Below Base Substitutions in Oriya lookup 33 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 34"  {"'blws' Below Base Substitutions in Oriya lookup 34 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 35"  {"'blws' Below Base Substitutions in Oriya lookup 35 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 36"  {"'blws' Below Base Substitutions in Oriya lookup 36 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 37"  {"'blws' Below Base Substitutions in Oriya lookup 37 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 38"  {"'blws' Below Base Substitutions in Oriya lookup 38 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 39"  {"'blws' Below Base Substitutions in Oriya lookup 39 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 40"  {"'blws' Below Base Substitutions in Oriya lookup 40 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 41"  {"'blws' Below Base Substitutions in Oriya lookup 41 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 42"  {"'blws' Below Base Substitutions in Oriya lookup 42 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 43"  {"'blws' Below Base Substitutions in Oriya lookup 43 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 44"  {"'blws' Below Base Substitutions in Oriya lookup 44 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 45"  {"'blws' Below Base Substitutions in Oriya lookup 45 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 46"  {"'blws' Below Base Substitutions in Oriya lookup 46 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 47"  {"'blws' Below Base Substitutions in Oriya lookup 47 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 48"  {"'blws' Below Base Substitutions in Oriya lookup 48 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 49"  {"'blws' Below Base Substitutions in Oriya lookup 49 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 50"  {"'blws' Below Base Substitutions in Oriya lookup 50 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 51"  {"'blws' Below Base Substitutions in Oriya lookup 51 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 52"  {"'blws' Below Base Substitutions in Oriya lookup 52 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 53"  {"'blws' Below Base Substitutions in Oriya lookup 53 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 54"  {"'blws' Below Base Substitutions in Oriya lookup 54 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 55"  {"'blws' Below Base Substitutions in Oriya lookup 55 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 56"  {"'blws' Below Base Substitutions in Oriya lookup 56 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 57"  {"'blws' Below Base Substitutions in Oriya lookup 57 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 58"  {"'blws' Below Base Substitutions in Oriya lookup 58 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 59"  {"'blws' Below Base Substitutions in Oriya lookup 59 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 60"  {"'blws' Below Base Substitutions in Oriya lookup 60 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 61"  {"'blws' Below Base Substitutions in Oriya lookup 61 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 62"  {"'blws' Below Base Substitutions in Oriya lookup 62 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 63"  {"'blws' Below Base Substitutions in Oriya lookup 63 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 64"  {"'blws' Below Base Substitutions in Oriya lookup 64 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 65"  {"'blws' Below Base Substitutions in Oriya lookup 65 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 66"  {"'blws' Below Base Substitutions in Oriya lookup 66 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 67"  {"'blws' Below Base Substitutions in Oriya lookup 67 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 68"  {"'blws' Below Base Substitutions in Oriya lookup 68 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 69"  {"'blws' Below Base Substitutions in Oriya lookup 69 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 70"  {"'blws' Below Base Substitutions in Oriya lookup 70 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 71"  {"'blws' Below Base Substitutions in Oriya lookup 71 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 72"  {"'blws' Below Base Substitutions in Oriya lookup 72 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 73"  {"'blws' Below Base Substitutions in Oriya lookup 73 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 74"  {"'blws' Below Base Substitutions in Oriya lookup 74 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 75"  {"'blws' Below Base Substitutions in Oriya lookup 75 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 76"  {"'blws' Below Base Substitutions in Oriya lookup 76 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions in Oriya lookup 77"  {"'blws' Below Base Substitutions in Oriya lookup 77 subtable"  } ['blws' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms in Oriya lookup 78"  {"'haln' Halant Forms in Oriya lookup 78 subtable"  } ['haln' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'nukt' Nukta Forms in Oriya lookup 79"  {"'nukt' Nukta Forms in Oriya lookup 79 subtable"  } ['nukt' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms in Oriya lookup 80"  {"'pstf' Post Base Forms in Oriya lookup 80 subtable"  } ['pstf' ('orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'rphf' Reph Form in Oriya lookup 81"  {"'rphf' Reph Form in Oriya lookup 81 subtable"  } ['rphf' ('orya' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 82"  {"Single Substitution lookup 82 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 83"  {"Single Substitution lookup 83 subtable"  } []
-Lookup: 1 0 0 "Single Substitution lookup 84"  {"Single Substitution lookup 84 subtable"  } []
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 76 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B37_U0B4D_U0B2B.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 75 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 156 U0B37_U0B4D_U0B1F.blwf.abvs U0B37_U0B4D_U0B1F.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B20.blwf.abvs U0B37_U0B4D_U0B23.blwf.abvs U0B37_U0B4D_U0B2A.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 74 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 223 U0B33_U0B4D_U0B2B.blwf.abvs U0B32_U0B4D_U0B15.blwf.abvs U0B32_U0B4D_U0B17.blwf.abvs U0B32_U0B4D_U0B32.blwf.abvs U0B36_U0B4D_U0B1A.blwf.abvs U0B36_U0B4D_U0B1B.blwf.abvs U0B36_U0B4D_U0B33.blwf.abvs U0B37_U0B4D_U0B15.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 73 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 83 U0B2E_U0B4D_U0B2E.blwf.abvs U0B33_U0B4D_U0B15.blwf.abvs U0B33_U0B4D_U0B2D.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 72 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 71 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2C_U0B4D_U0B27.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 70 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2C_U0B4D_U0B1C.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 69 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2A_U0B4D_U0B38.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 68 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2A_U0B4D_U0B33.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 67 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2A_U0B4D_U0B2A.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 66 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B28_U0B4D_U0B28.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 65 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B28_U0B4D_U0B25.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 64 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 63 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B26_U0B4D_U0B2D.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 62 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B26_U0B4D_U0B27.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 61 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B26_U0B4D_U0B18.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 60 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 59 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B24_U0B4D_U0B25.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 58 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 83 U0B21_U0B4D_U0B17.blwf.abvs U0B21_U0B4D_U0B21.blwf.abvs U0B23_U0B4D_U0B1F.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 57 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 111 U0B1E_U0B4D_U0B1A.blwf.abvs U0B1E_U0B4D_U0B1B.blwf.abvs U0B1E_U0B4D_U0B1C.blwf.abvs U0B1E_U0B4D_U0B1D.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 56 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 78 U0B1C_U0B4D_U0B1C.blwf.abvs U0B1C_U0B4D_U0B1D.blwf.abvs U0B1C_U0B4D_U0B1E.akhn
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 55 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B1A_U0B4D_U0B1B.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 54 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B19_U0B4D_U0B15.blwf_U0B4D_U0B37.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 53 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 139 U0B17_U0B4D_U0B26.blwf.abvs U0B17_U0B4D_U0B27.blwf.abvs U0B17_U0B4D_U0B28.blwf.abvs U0B17_U0B4D_U0B33.blwf.abvs U0B18_U0B4D_U0B28.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 52 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B15_U0B4D_U0B37.blwf_U0B4D_U0B2E.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 51 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B15_U0B4D_U0B37.blwf_U0B4D_U0B23.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 50 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 64 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 1817 U0B15_U0B4D_U0B37.blwf_U0B4D_U0B2E.blwf.abvs U0B15_U0B4D_U0B38.blwf.abvs U0B19_U0B4D_U0B15.blwf_U0B4D_U0B24.blwf.abvs U0B23_U0B4D_U0B21.blwf_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B15.blwf.abvs U0B24_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B28.blwf.abvs U0B24_U0B4D_U0B2A.blwf.abvs U0B24_U0B4D_U0B2E.blwf.abvs U0B24_U0B4D_U0B38.blwf_U0B4D_U0B28.blwf.abvs U0B28_U0B4D_U0B26.blwf_U0B4D_U0B30.blwf.abvs U0B28_U0B4D_U0B27.blwf_U0B4D_U0B30.blwf.abvs U0B2A_U0B4D_U0B24.blwf.abvs U0B2E_U0B4D_U0B2A.blwf_U0B4D_U0B30.blwf.abvs U0B2E_U0B4D_U0B2D.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B15.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B1F.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B2A.blwf_U0B4D_U0B30.blwf.abvs U0B39_U0B4D_U0B2E.blwf.abvs U0B39_U0B4D_U0B32.blwf.abvs U0B15_U0B4D_U0B30.blwf.abvs U0B16_U0B4D_U0B30.blwf.abvs U0B17_U0B4D_U0B30.blwf.abvs U0B18_U0B4D_U0B30.blwf.abvs U0B19_U0B4D_U0B30.blwf.abvs U0B1A_U0B4D_U0B30.blwf.abvs U0B1B_U0B4D_U0B30.blwf.abvs U0B1C_U0B4D_U0B30.blwf.abvs U0B1D_U0B4D_U0B30.blwf.abvs U0B1E_U0B4D_U0B30.blwf.abvs U0B1F_U0B4D_U0B30.blwf.abvs U0B20_U0B4D_U0B30.blwf.abvs U0B21_U0B4D_U0B30.blwf.abvs U0B22_U0B4D_U0B30.blwf.abvs U0B23_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B30.blwf.abvs U0B25_U0B4D_U0B30.blwf.abvs U0B26_U0B4D_U0B30.blwf.abvs U0B27_U0B4D_U0B30.blwf.abvs U0B28_U0B4D_U0B30.blwf.abvs U0B2A_U0B4D_U0B30.blwf.abvs U0B2B_U0B4D_U0B30.blwf.abvs U0B2C_U0B4D_U0B30.blwf.abvs U0B2D_U0B4D_U0B30.blwf.abvs U0B2E_U0B4D_U0B30.blwf.abvs U0B2F_U0B4D_U0B30.blwf.abvs U0B30_U0B4D_U0B30.blwf.abvs U0B32_U0B4D_U0B30.blwf.abvs U0B33_U0B4D_U0B30.blwf.abvs U0B35_U0B4D_U0B30.blwf.abvs U0B36_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B30.blwf.abvs U0B38_U0B4D_U0B30.blwf.abvs U0B39_U0B4D_U0B30.blwf.abvs U0B5C_U0B4D_U0B30.blwf.abvs U0B5D_U0B4D_U0B30.blwf.abvs U0B5F_U0B4D_U0B30.blwf.abvs glyph323 glyph324
- 1
-  SeqLookup: 0 "Single Substitution lookup 83" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 49 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 83 U0B39_U0B4D_U0B28.blwf.abvs U0B39_U0B4D_U0B2E.blwf.abvs U0B39_U0B4D_U0B32.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 48 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 279 U0B33_U0B4D_U0B15.blwf.abvs U0B33_U0B4D_U0B2D.blwf.abvs U0B33_U0B4D_U0B33.blwf.abvs U0B33_U0B4D_U0B2A.blwf.abvs U0B33_U0B4D_U0B2B.blwf.abvs U0B32_U0B4D_U0B15.blwf.abvs U0B32_U0B4D_U0B17.blwf.abvs U0B32_U0B4D_U0B32.blwf.abvs U0B36_U0B4D_U0B1A.blwf.abvs U0B36_U0B4D_U0B1B.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 47 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2C_U0B4D_U0B27.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 46 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2C_U0B4D_U0B26.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 45 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2C_U0B4D_U0B1C.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 44 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B2A_U0B4D_U0B24.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 43 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B28_U0B4D_U0B28.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 42 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 173 U0B28_U0B4D_U0B25.blwf.abvs U0B28_U0B4D_U0B26.blwf.abvs U0B28_U0B4D_U0B26.blwf_U0B4D_U0B30.blwf.abvs U0B28_U0B4D_U0B27.blwf.abvs U0B28_U0B4D_U0B27.blwf_U0B4D_U0B30.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 41 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B28_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 40 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B28_U0B4D_U0B24.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 39 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B26_U0B4D_U0B2D.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 38 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B24_U0B4D_U0B2E.blwf_U0B4D_U0B2F.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 37 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 156 U0B24_U0B4D_U0B15.blwf.abvs U0B24_U0B4D_U0B24.blwf.abvs U0B24_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B25.blwf.abvs U0B24_U0B4D_U0B28.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 36 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B21_U0B4D_U0B21.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 35 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B21_U0B4D_U0B17.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 34 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B1E_U0B4D_U0B1D.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 33 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B1E_U0B4D_U0B1C.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 32 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 171 U0B1A_U0B4D_U0B1A.blwf.abvs U0B1A_U0B4D_U0B1B.blwf.abvs glyph129 U0B1C_U0B4D_U0B1C.blwf.abvs U0B1C_U0B4D_U0B1D.blwf.abvs U0B1C_U0B4D_U0B1E.akhn U0B1E_U0B4D_U0B1A.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 31 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B19_U0B4D_U0B15.blwf_U0B4D_U0B37.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 30 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B19_U0B4D_U0B15.blwf_U0B4D_U0B24.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 29 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B19_U0B4D_U0B15.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 28 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B17_U0B4D_U0B33.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 27 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 27 U0B15_U0B4D_U0B38.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 26 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 44 U0B15_U0B4D_U0B37.blwf_U0B4D_U0B23.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 25 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 156 U0B15_U0B4D_U0B15.blwf.abvs U0B15_U0B4D_U0B24.blwf.abvs U0B15_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs U0B15_U0B4D_U0B33.blwf.abvs U0B15_U0B4D_U0B37.blwf.abvs
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 24 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B61
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 23 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B60
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 22 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B5D
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 21 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B5C
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 20 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B39
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 19 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B35
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 18 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B33
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 17 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B32
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 16 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B30
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 15 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B2D
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 14 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B2C
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 13 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B28
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 12 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B26
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 11 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B24
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 10 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 17 U0B20 U0B21 U0B22
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 9 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B1E
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 8 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B1D
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 7 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 17 U0B19 U0B1A U0B1B
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 6 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 82 U0B41 U0B42 U0B43 glyph236 U0B4D_U0B30.blwf_U0B41.blws U0B4D_U0B30.blwf_U0B42.blws
-  BCoverage: 5 U0B15
- 1
-  SeqLookup: 0 "Single Substitution lookup 84" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 5 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 560 U0B4D_U0B15.blwf U0B4D_U0B16.blwf U0B4D_U0B17.blwf U0B4D_U0B18.blwf U0B4D_U0B19.blwf U0B4D_U0B1A.blwf U0B4D_U0B1B.blwf U0B4D_U0B1C.blwf U0B4D_U0B1D.blwf U0B4D_U0B1F.blwf U0B4D_U0B20.blwf U0B4D_U0B21.blwf U0B4D_U0B22.blwf U0B4D_U0B23.blwf U0B4D_U0B24.blwf U0B4D_U0B25.blwf U0B4D_U0B26.blwf U0B4D_U0B27.blwf U0B4D_U0B28.blwf U0B4D_U0B2A.blwf U0B4D_U0B2B.blwf U0B4D_U0B2C.blwf U0B4D_U0B2D.blwf U0B4D_U0B2E.blwf U0B4D_U0B2F.blwf U0B4D_U0B30.blwf U0B4D_U0B32.blwf U0B4D_U0B33.blwf U0B4D_U0B35.blwf U0B4D_U0B36.blwf U0B4D_U0B37.blwf U0B4D_U0B38.blwf U0B4D_U0B39.blwf
-  BCoverage: 560 U0B4D_U0B15.blwf U0B4D_U0B16.blwf U0B4D_U0B17.blwf U0B4D_U0B18.blwf U0B4D_U0B19.blwf U0B4D_U0B1A.blwf U0B4D_U0B1B.blwf U0B4D_U0B1C.blwf U0B4D_U0B1D.blwf U0B4D_U0B1F.blwf U0B4D_U0B20.blwf U0B4D_U0B21.blwf U0B4D_U0B22.blwf U0B4D_U0B23.blwf U0B4D_U0B24.blwf U0B4D_U0B25.blwf U0B4D_U0B26.blwf U0B4D_U0B27.blwf U0B4D_U0B28.blwf U0B4D_U0B2A.blwf U0B4D_U0B2B.blwf U0B4D_U0B2C.blwf U0B4D_U0B2D.blwf U0B4D_U0B2E.blwf U0B4D_U0B2F.blwf U0B4D_U0B30.blwf U0B4D_U0B32.blwf U0B4D_U0B33.blwf U0B4D_U0B35.blwf U0B4D_U0B36.blwf U0B4D_U0B37.blwf U0B4D_U0B38.blwf U0B4D_U0B39.blwf
- 1
-  SeqLookup: 0 "Single Substitution lookup 82" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 4 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 560 U0B4D_U0B15.blwf U0B4D_U0B16.blwf U0B4D_U0B17.blwf U0B4D_U0B18.blwf U0B4D_U0B19.blwf U0B4D_U0B1A.blwf U0B4D_U0B1B.blwf U0B4D_U0B1C.blwf U0B4D_U0B1D.blwf U0B4D_U0B1F.blwf U0B4D_U0B20.blwf U0B4D_U0B21.blwf U0B4D_U0B22.blwf U0B4D_U0B23.blwf U0B4D_U0B24.blwf U0B4D_U0B25.blwf U0B4D_U0B26.blwf U0B4D_U0B27.blwf U0B4D_U0B28.blwf U0B4D_U0B2A.blwf U0B4D_U0B2B.blwf U0B4D_U0B2C.blwf U0B4D_U0B2D.blwf U0B4D_U0B2E.blwf U0B4D_U0B2F.blwf U0B4D_U0B30.blwf U0B4D_U0B32.blwf U0B4D_U0B33.blwf U0B4D_U0B35.blwf U0B4D_U0B36.blwf U0B4D_U0B37.blwf U0B4D_U0B38.blwf U0B4D_U0B39.blwf
-  BCoverage: 560 U0B4D_U0B15.blwf U0B4D_U0B16.blwf U0B4D_U0B17.blwf U0B4D_U0B18.blwf U0B4D_U0B19.blwf U0B4D_U0B1A.blwf U0B4D_U0B1B.blwf U0B4D_U0B1C.blwf U0B4D_U0B1D.blwf U0B4D_U0B1F.blwf U0B4D_U0B20.blwf U0B4D_U0B21.blwf U0B4D_U0B22.blwf U0B4D_U0B23.blwf U0B4D_U0B24.blwf U0B4D_U0B25.blwf U0B4D_U0B26.blwf U0B4D_U0B27.blwf U0B4D_U0B28.blwf U0B4D_U0B2A.blwf U0B4D_U0B2B.blwf U0B4D_U0B2C.blwf U0B4D_U0B2D.blwf U0B4D_U0B2E.blwf U0B4D_U0B2F.blwf U0B4D_U0B30.blwf U0B4D_U0B32.blwf U0B4D_U0B33.blwf U0B4D_U0B35.blwf U0B4D_U0B36.blwf U0B4D_U0B37.blwf U0B4D_U0B38.blwf U0B4D_U0B39.blwf
- 1
-  SeqLookup: 0 "Single Substitution lookup 82" 
-EndFPST
-ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 3 subtable"  0 0 0 1
- 1 1 0
-  Coverage: 560 U0B4D_U0B15.blwf U0B4D_U0B16.blwf U0B4D_U0B17.blwf U0B4D_U0B18.blwf U0B4D_U0B19.blwf U0B4D_U0B1A.blwf U0B4D_U0B1B.blwf U0B4D_U0B1C.blwf U0B4D_U0B1D.blwf U0B4D_U0B1F.blwf U0B4D_U0B20.blwf U0B4D_U0B21.blwf U0B4D_U0B22.blwf U0B4D_U0B23.blwf U0B4D_U0B24.blwf U0B4D_U0B25.blwf U0B4D_U0B26.blwf U0B4D_U0B27.blwf U0B4D_U0B28.blwf U0B4D_U0B2A.blwf U0B4D_U0B2B.blwf U0B4D_U0B2C.blwf U0B4D_U0B2D.blwf U0B4D_U0B2E.blwf U0B4D_U0B2F.blwf U0B4D_U0B30.blwf U0B4D_U0B32.blwf U0B4D_U0B33.blwf U0B4D_U0B35.blwf U0B4D_U0B36.blwf U0B4D_U0B37.blwf U0B4D_U0B38.blwf U0B4D_U0B39.blwf
-  BCoverage: 1817 U0B15_U0B4D_U0B37.blwf_U0B4D_U0B2E.blwf.abvs U0B15_U0B4D_U0B38.blwf.abvs U0B19_U0B4D_U0B15.blwf_U0B4D_U0B24.blwf.abvs U0B23_U0B4D_U0B21.blwf_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B15.blwf.abvs U0B24_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B28.blwf.abvs U0B24_U0B4D_U0B2A.blwf.abvs U0B24_U0B4D_U0B2E.blwf.abvs U0B24_U0B4D_U0B38.blwf_U0B4D_U0B28.blwf.abvs U0B28_U0B4D_U0B26.blwf_U0B4D_U0B30.blwf.abvs U0B28_U0B4D_U0B27.blwf_U0B4D_U0B30.blwf.abvs U0B2A_U0B4D_U0B24.blwf.abvs U0B2E_U0B4D_U0B2A.blwf_U0B4D_U0B30.blwf.abvs U0B2E_U0B4D_U0B2D.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B15.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B1F.blwf_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B2A.blwf_U0B4D_U0B30.blwf.abvs U0B39_U0B4D_U0B2E.blwf.abvs U0B39_U0B4D_U0B32.blwf.abvs U0B15_U0B4D_U0B30.blwf.abvs U0B16_U0B4D_U0B30.blwf.abvs U0B17_U0B4D_U0B30.blwf.abvs U0B18_U0B4D_U0B30.blwf.abvs U0B19_U0B4D_U0B30.blwf.abvs U0B1A_U0B4D_U0B30.blwf.abvs U0B1B_U0B4D_U0B30.blwf.abvs U0B1C_U0B4D_U0B30.blwf.abvs U0B1D_U0B4D_U0B30.blwf.abvs U0B1E_U0B4D_U0B30.blwf.abvs U0B1F_U0B4D_U0B30.blwf.abvs U0B20_U0B4D_U0B30.blwf.abvs U0B21_U0B4D_U0B30.blwf.abvs U0B22_U0B4D_U0B30.blwf.abvs U0B23_U0B4D_U0B30.blwf.abvs U0B24_U0B4D_U0B30.blwf.abvs U0B25_U0B4D_U0B30.blwf.abvs U0B26_U0B4D_U0B30.blwf.abvs U0B27_U0B4D_U0B30.blwf.abvs U0B28_U0B4D_U0B30.blwf.abvs U0B2A_U0B4D_U0B30.blwf.abvs U0B2B_U0B4D_U0B30.blwf.abvs U0B2C_U0B4D_U0B30.blwf.abvs U0B2D_U0B4D_U0B30.blwf.abvs U0B2E_U0B4D_U0B30.blwf.abvs U0B2F_U0B4D_U0B30.blwf.abvs U0B30_U0B4D_U0B30.blwf.abvs U0B32_U0B4D_U0B30.blwf.abvs U0B33_U0B4D_U0B30.blwf.abvs U0B35_U0B4D_U0B30.blwf.abvs U0B36_U0B4D_U0B30.blwf.abvs U0B37_U0B4D_U0B30.blwf.abvs U0B38_U0B4D_U0B30.blwf.abvs U0B39_U0B4D_U0B30.blwf.abvs U0B5C_U0B4D_U0B30.blwf.abvs U0B5D_U0B4D_U0B30.blwf.abvs U0B5F_U0B4D_U0B30.blwf.abvs glyph323 glyph324
- 1
-  SeqLookup: 0 "Single Substitution lookup 82" 
-EndFPST
 TtTable: prep
 NPUSHB
  2
@@ -963,12 +358,13 @@ EndShort
 LangName: 1033 "" "" "Regular" "" "" "Version 2.5.4" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 33 14
+WinInfo: 64 32 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65864 431
@@ -1129,7 +525,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0B01
+StartChar: candrabinduodia
 Encoding: 2817 2817 10
 Width: 0
 GlyphClass: 2
@@ -1161,7 +557,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: U0B02
+StartChar: anusvaraodia
 Encoding: 2818 2818 11
 Width: 339
 GlyphClass: 2
@@ -1192,7 +588,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B03
+StartChar: visargaodia
 Encoding: 2819 2819 12
 Width: 409
 GlyphClass: 2
@@ -1242,7 +638,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B05
+StartChar: aodia
 Encoding: 2821 2821 13
 Width: 745
 GlyphClass: 2
@@ -1304,7 +700,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B06
+StartChar: aaodia
 Encoding: 2822 2822 14
 Width: 967
 GlyphClass: 2
@@ -1372,7 +768,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B07
+StartChar: iodia
 Encoding: 2823 2823 15
 Width: 780
 GlyphClass: 2
@@ -1449,7 +845,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B08
+StartChar: iiodia
 Encoding: 2824 2824 16
 Width: 760
 GlyphClass: 2
@@ -1539,7 +935,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B09
+StartChar: uodia
 Encoding: 2825 2825 17
 Width: 748
 GlyphClass: 2
@@ -1596,7 +992,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B0A
+StartChar: uuodia
 Encoding: 2826 2826 18
 Width: 741
 GlyphClass: 2
@@ -1661,7 +1057,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B0B
+StartChar: vocalicrodia
 Encoding: 2827 2827 19
 Width: 768
 GlyphClass: 2
@@ -1722,7 +1118,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0B0C
+StartChar: vocaliclodia
 Encoding: 2828 2828 20
 Width: 641
 GlyphClass: 2
@@ -1771,7 +1167,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B0F
+StartChar: eodia
 Encoding: 2831 2831 21
 Width: 750
 GlyphClass: 2
@@ -1801,7 +1197,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B10
+StartChar: aiodia
 Encoding: 2832 2832 22
 Width: 883
 GlyphClass: 2
@@ -1852,7 +1248,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B13
+StartChar: oodia
 Encoding: 2835 2835 23
 Width: 650
 GlyphClass: 2
@@ -1906,7 +1302,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B14
+StartChar: auodia
 Encoding: 2836 2836 24
 Width: 808
 GlyphClass: 2
@@ -1983,7 +1379,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B15
+StartChar: kaodia
 Encoding: 2837 2837 25
 Width: 734
 GlyphClass: 2
@@ -2049,7 +1445,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B16
+StartChar: khaodia
 Encoding: 2838 2838 26
 Width: 771
 GlyphClass: 2
@@ -2110,7 +1506,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B17
+StartChar: gaodia
 Encoding: 2839 2839 27
 Width: 770
 GlyphClass: 2
@@ -2161,7 +1557,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B18
+StartChar: ghaodia
 Encoding: 2840 2840 28
 Width: 758
 GlyphClass: 2
@@ -2221,7 +1617,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B19
+StartChar: ngaodia
 Encoding: 2841 2841 29
 Width: 805
 GlyphClass: 2
@@ -2291,7 +1687,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B1A
+StartChar: caodia
 Encoding: 2842 2842 30
 Width: 705
 GlyphClass: 2
@@ -2342,7 +1738,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B1B
+StartChar: chaodia
 Encoding: 2843 2843 31
 Width: 689
 GlyphClass: 2
@@ -2430,7 +1826,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B1C
+StartChar: jaodia
 Encoding: 2844 2844 32
 Width: 712
 GlyphClass: 2
@@ -2502,7 +1898,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B1D
+StartChar: jhaodia
 Encoding: 2845 2845 33
 Width: 731
 GlyphClass: 2
@@ -2564,7 +1960,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B1E
+StartChar: nyaodia
 Encoding: 2846 2846 34
 Width: 722
 GlyphClass: 2
@@ -2650,7 +2046,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B1F
+StartChar: ttaodia
 Encoding: 2847 2847 35
 Width: 708
 GlyphClass: 2
@@ -2701,7 +2097,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B20
+StartChar: tthaodia
 Encoding: 2848 2848 36
 Width: 744
 GlyphClass: 2
@@ -2733,7 +2129,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B21
+StartChar: ddaodia
 Encoding: 2849 2849 37
 Width: 726
 GlyphClass: 2
@@ -2788,7 +2184,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B22
+StartChar: ddhaodia
 Encoding: 2850 2850 38
 Width: 726
 GlyphClass: 2
@@ -2855,7 +2251,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B23
+StartChar: nnaodia
 Encoding: 2851 2851 39
 Width: 760
 GlyphClass: 2
@@ -2913,7 +2309,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B24
+StartChar: taodia
 Encoding: 2852 2852 40
 Width: 712
 GlyphClass: 2
@@ -2969,7 +2365,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B25
+StartChar: thaodia
 Encoding: 2853 2853 41
 Width: 713
 GlyphClass: 2
@@ -3020,7 +2416,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B26
+StartChar: daodia
 Encoding: 2854 2854 42
 Width: 710
 GlyphClass: 2
@@ -3071,7 +2467,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B27
+StartChar: dhaodia
 Encoding: 2855 2855 43
 Width: 755
 GlyphClass: 2
@@ -3107,7 +2503,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B28
+StartChar: naodia
 Encoding: 2856 2856 44
 Width: 716
 GlyphClass: 2
@@ -3156,7 +2552,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2A
+StartChar: paodia
 Encoding: 2858 2858 45
 Width: 771
 GlyphClass: 2
@@ -3205,7 +2601,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2B
+StartChar: phaodia
 Encoding: 2859 2859 46
 Width: 866
 GlyphClass: 2
@@ -3273,7 +2669,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2C
+StartChar: baodia
 Encoding: 2860 2860 47
 Width: 719
 GlyphClass: 2
@@ -3327,7 +2723,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2D
+StartChar: bhaodia
 Encoding: 2861 2861 48
 Width: 770
 GlyphClass: 2
@@ -3391,7 +2787,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2E
+StartChar: maodia
 Encoding: 2862 2862 49
 Width: 755
 GlyphClass: 2
@@ -3435,7 +2831,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2F
+StartChar: yaodia
 Encoding: 2863 2863 50
 Width: 782
 GlyphClass: 4
@@ -3494,7 +2890,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B30
+StartChar: raodia
 Encoding: 2864 2864 51
 Width: 745
 GlyphClass: 4
@@ -3547,7 +2943,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B32
+StartChar: laodia
 Encoding: 2866 2866 52
 Width: 783
 GlyphClass: 4
@@ -3605,7 +3001,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B33
+StartChar: llaodia
 Encoding: 2867 2867 53
 Width: 721
 GlyphClass: 2
@@ -3661,7 +3057,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B35
+StartChar: vaodia
 Encoding: 2869 2869 54
 Width: 702
 GlyphClass: 2
@@ -3725,7 +3121,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B36
+StartChar: shaodia
 Encoding: 2870 2870 55
 Width: 738
 GlyphClass: 2
@@ -3789,7 +3185,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B37
+StartChar: ssaodia
 Encoding: 2871 2871 56
 Width: 757
 GlyphClass: 2
@@ -3847,7 +3243,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B38
+StartChar: saodia
 Encoding: 2872 2872 57
 Width: 744
 GlyphClass: 2
@@ -3888,7 +3284,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B39
+StartChar: haodia
 Encoding: 2873 2873 58
 Width: 681
 GlyphClass: 2
@@ -3946,7 +3342,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B3C
+StartChar: nuktasignodia
 Encoding: 2876 2876 59
 Width: 0
 GlyphClass: 2
@@ -3968,7 +3364,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B3D
+StartChar: avagrahasignodia
 Encoding: 2877 2877 60
 Width: 561
 GlyphClass: 2
@@ -3992,7 +3388,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B3E
+StartChar: aasignodia
 Encoding: 2878 2878 61
 Width: 246
 GlyphClass: 2
@@ -4010,7 +3406,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B3F
+StartChar: isignodia
 Encoding: 2879 2879 62
 Width: 0
 GlyphClass: 4
@@ -4034,7 +3430,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B40
+StartChar: iisignodia
 Encoding: 2880 2880 63
 Width: 325
 GlyphClass: 2
@@ -4058,7 +3454,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B41
+StartChar: usignodia
 Encoding: 2881 2881 64
 Width: 0
 GlyphClass: 2
@@ -4104,10 +3500,9 @@ SplineSet
  -286 -238 l 1,35,36
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 84 subtable" glyph408
 EndChar
 
-StartChar: U0B42
+StartChar: uusignodia
 Encoding: 2882 2882 65
 Width: 0
 GlyphClass: 2
@@ -4139,10 +3534,9 @@ SplineSet
  -153 -360 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 84 subtable" glyph409
 EndChar
 
-StartChar: U0B43
+StartChar: vocalicrsignodia
 Encoding: 2883 2883 66
 Width: 0
 GlyphClass: 2
@@ -4176,10 +3570,9 @@ SplineSet
  -139 -333 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 84 subtable" glyph410
 EndChar
 
-StartChar: U0B47
+StartChar: esignodia
 Encoding: 2887 2887 67
 Width: 568
 GlyphClass: 2
@@ -4223,7 +3616,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B48
+StartChar: aisignodia
 Encoding: 2888 2888 68
 Width: 567
 GlyphClass: 2
@@ -4285,7 +3678,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B4B
+StartChar: osignodia
 Encoding: 2891 2891 69
 Width: 1045
 GlyphClass: 2
@@ -4335,7 +3728,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B4C
+StartChar: ausignodia
 Encoding: 2892 2892 70
 Width: 1121
 GlyphClass: 2
@@ -4397,7 +3790,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B4D
+StartChar: viramasignodia
 Encoding: 2893 2893 71
 Width: 0
 GlyphClass: 2
@@ -4415,7 +3808,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B56
+StartChar: ailengthodia
 Encoding: 2902 2902 72
 Width: 0
 GlyphClass: 4
@@ -4449,7 +3842,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B57
+StartChar: aulengthodia
 Encoding: 2903 2903 73
 Width: 246
 GlyphClass: 2
@@ -4479,7 +3872,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B5C
+StartChar: rraodia
 Encoding: 2908 2908 74
 Width: 716
 GlyphClass: 2
@@ -4543,10 +3936,9 @@ SplineSet
  371 -14 l 1,13,14
 EndSplineSet
 Validated: 5
-Ligature2: "'nukt' Nukta Forms in Oriya lookup 79 subtable" U0B21 U0B3C
 EndChar
 
-StartChar: U0B5D
+StartChar: rhaodia
 Encoding: 2909 2909 75
 Width: 722
 GlyphClass: 2
@@ -4621,10 +4013,9 @@ SplineSet
  471 96 l 1,76,77
 EndSplineSet
 Validated: 5
-Ligature2: "'nukt' Nukta Forms in Oriya lookup 79 subtable" U0B22 U0B3C
 EndChar
 
-StartChar: U0B5F
+StartChar: yyaodia
 Encoding: 2911 2911 76
 Width: 783
 GlyphClass: 2
@@ -4696,7 +4087,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B60
+StartChar: vocalicrrodia
 Encoding: 2912 2912 77
 Width: 741
 GlyphClass: 2
@@ -4765,7 +4156,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B61
+StartChar: vocalicllodia
 Encoding: 2913 2913 78
 Width: 639
 GlyphClass: 2
@@ -4819,7 +4210,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B66
+StartChar: zeroodia
 Encoding: 2918 2918 79
 Width: 725
 GlyphClass: 2
@@ -4851,7 +4242,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B67
+StartChar: oneodia
 Encoding: 2919 2919 80
 Width: 725
 GlyphClass: 2
@@ -4888,7 +4279,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B68
+StartChar: twoodia
 Encoding: 2920 2920 81
 Width: 725
 GlyphClass: 2
@@ -4925,7 +4316,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B69
+StartChar: threeodia
 Encoding: 2921 2921 82
 Width: 725
 GlyphClass: 2
@@ -4974,7 +4365,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B6A
+StartChar: fourodia
 Encoding: 2922 2922 83
 Width: 725
 GlyphClass: 2
@@ -5016,7 +4407,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0B6B
+StartChar: fiveodia
 Encoding: 2923 2923 84
 Width: 724
 GlyphClass: 2
@@ -5076,7 +4467,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B6C
+StartChar: sixodia
 Encoding: 2924 2924 85
 Width: 725
 GlyphClass: 2
@@ -5122,7 +4513,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B6D
+StartChar: sevenodia
 Encoding: 2925 2925 86
 Width: 725
 GlyphClass: 2
@@ -5171,7 +4562,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B6E
+StartChar: eightodia
 Encoding: 2926 2926 87
 Width: 725
 GlyphClass: 2
@@ -5191,7 +4582,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B6F
+StartChar: nineodia
 Encoding: 2927 2927 88
 Width: 724
 GlyphClass: 2
@@ -5222,7 +4613,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B70
+StartChar: issharodia
 Encoding: 2928 2928 89
 Width: 718
 GlyphClass: 2
@@ -5249,7 +4640,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B71
+StartChar: waodia
 Encoding: 2929 2929 90
 Width: 639
 GlyphClass: 2
@@ -5325,7 +4716,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: afii61664
+StartChar: zerowidthnonjoinerodia
 Encoding: 8204 8204 91
 Width: 0
 GlyphClass: 2
@@ -5343,7 +4734,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: afii301
+StartChar: zerowidthjoinerodia
 Encoding: 8205 8205 92
 Width: 0
 GlyphClass: 2
@@ -5387,7 +4778,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni2218
+StartChar: ringoperatorodia
 Encoding: 8728 8728 94
 Width: 800
 GlyphClass: 2
@@ -5411,7 +4802,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni25CC
+StartChar: dottefcircleodia
 Encoding: 9676 9676 95
 Width: 841
 GlyphClass: 2
@@ -5879,7 +5270,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B15_U0B4D_U0B15.blwf.abvs
+StartChar: kaodia_viramasignodia_kaodia
 Encoding: 65553 -1 110
 Width: 735
 GlyphClass: 2
@@ -5974,11 +5365,9 @@ SplineSet
  362 238 l 1,101,102
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B15_U0B4D.haln U0B15 
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B24.blwf.abvs
+StartChar: kaodia_viramasignodia_taodia
 Encoding: 65554 -1 111
 Width: 761
 GlyphClass: 2
@@ -6066,10 +5455,9 @@ SplineSet
  192 229 192 229 215 229 c 128,-1,106
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B24.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: kaodia_virm_taodia_virm_raodia
 Encoding: 65555 -1 112
 Width: 766
 GlyphClass: 2
@@ -6163,10 +5551,9 @@ SplineSet
  615 186 l 1,101,102
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B24.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B2C.blwf.abvs
+StartChar: kaodia_viramasignodia_baodia
 Encoding: 65556 -1 113
 Width: 760
 GlyphClass: 2
@@ -6248,10 +5635,9 @@ SplineSet
  265 235 l 1,83,84
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B33.blwf.abvs
+StartChar: kaodia_viramasignodia_llaodia
 Encoding: 65557 -1 114
 Width: 776
 GlyphClass: 4
@@ -6343,10 +5729,9 @@ SplineSet
  265 229 l 1,95,96
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B33.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B37.blwf.abvs
+StartChar: kaodia_viramasignodia_ssaodia
 Encoding: 65558 -1 115
 Width: 784
 GlyphClass: 4
@@ -6411,12 +5796,9 @@ SplineSet
  625 267 l 1,60,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'akhn' Akhand in Oriya lookup 1 subtable" U0B15 U0B4D U0B37 
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B15_U0B4D.haln U0B37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B37.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B37.blwf_U0B4D_U0B23.blwf.abvs
+StartChar: kaodia_vir_ssaodia_vir_nnaodia
 Encoding: 65559 -1 116
 Width: 758
 GlyphClass: 3
@@ -6510,12 +5892,9 @@ SplineSet
  258 690 258 690 245 679 c 1,111,-1
  535 397 l 1,104,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-2" glyph285 U0B23
-LCarets2: 2 0 0 
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B37.blwf U0B4D_U0B23.blwf
 EndChar
 
-StartChar: U0B15_U0B4D_U0B37.blwf_U0B4D_U0B2E.blwf.abvs
+StartChar: kaodia_virm_ssaodia_virm_maodia
 Encoding: 65560 -1 117
 Width: 780
 GlyphClass: 2
@@ -6605,7 +5984,6 @@ SplineSet
  429 -70 l 1,89,90
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B37.blwf U0B4D_U0B2E.blwf
 EndChar
 
 StartChar: glyph114
@@ -6693,7 +6071,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B15_U0B4D_U0B38.blwf.abvs
+StartChar: kaodia_viramasignodia_saodia
 Encoding: 65562 -1 119
 Width: 755
 GlyphClass: 2
@@ -6777,11 +6155,9 @@ SplineSet
  526 -90 l 1,84,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B15_U0B4D.haln U0B38
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B38.blwf
 EndChar
 
-StartChar: U0B17_U0B4D_U0B26.blwf.abvs
+StartChar: gaodia_viramasignodia_daodia
 Encoding: 65563 -1 120
 Width: 768
 GlyphClass: 2
@@ -6862,11 +6238,9 @@ SplineSet
  275 260 l 1,84,85
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B17_U0B4D.haln U0B26
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B17 U0B4D_U0B26.blwf
 EndChar
 
-StartChar: U0B17_U0B4D_U0B27.blwf.abvs
+StartChar: gaodia_viramasignodia_dhaodia
 Encoding: 65564 -1 121
 Width: 747
 GlyphClass: 2
@@ -6933,11 +6307,9 @@ SplineSet
  297 260 l 1,63,64
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B17_U0B4D.haln U0B27
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B17 U0B4D_U0B27.blwf
 EndChar
 
-StartChar: U0B17_U0B4D_U0B28.blwf.abvs
+StartChar: gaodia_viramasignodia_naodia
 Encoding: 65565 -1 122
 Width: 744
 GlyphClass: 2
@@ -6997,10 +6369,9 @@ SplineSet
  291 206 l 1,55,56
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B17 U0B4D_U0B28.blwf
 EndChar
 
-StartChar: U0B17_U0B4D_U0B33.blwf.abvs
+StartChar: gaodia_viramasignodia_llaodia
 Encoding: 65566 -1 123
 Width: 802
 GlyphClass: 2
@@ -7073,10 +6444,9 @@ SplineSet
  300 209 l 1,71,72
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B17 U0B4D_U0B33.blwf
 EndChar
 
-StartChar: U0B18_U0B4D_U0B28.blwf.abvs
+StartChar: ghaodia_viramasignodia_naodia
 Encoding: 65567 -1 124
 Width: 737
 GlyphClass: 2
@@ -7145,10 +6515,9 @@ SplineSet
  577 505 l 1,46,47
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B18 U0B4D_U0B28.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B15.blwf.abvs
+StartChar: ngaodia_viramasignodia_kaodia
 Encoding: 65568 -1 125
 Width: 841
 GlyphClass: 2
@@ -7243,11 +6612,9 @@ SplineSet
  705 534 l 1,103,104
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B19_U0B4D.haln U0B15
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B15.blwf_U0B4D_U0B24.blwf.abvs
+StartChar: ngaodia_virm_kaodia_virm_taodia
 Encoding: 65569 -1 126
 Width: 799
 GlyphClass: 2
@@ -7383,11 +6750,9 @@ SplineSet
  664 431 l 1,159,160
 EndSplineSet
 Validated: 517
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B19_U0B4D_U0B15.blwf.abvs U0B4D U0B24
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B15.blwf U0B4D_U0B24.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B15.blwf_U0B4D_U0B37.blwf.abvs
+StartChar: ngaodia_vir_kaodia_vir_ssaodia
 Encoding: 65570 -1 127
 Width: 764
 GlyphClass: 2
@@ -7500,14 +6865,9 @@ SplineSet
  650 476 l 1,124,125
 EndSplineSet
 Validated: 517
-Ligature2: "'akhn' Akhand in Oriya lookup 1 subtable" U0B19 U0B15 U0B4D U0B37 U0B4D
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-2" U0B19_U0B4D_U0B15.blwf.abvs U0B4D U0B37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B19_U0B4D_U0B15.blwf.abvs U0B37 U0B4D
-LCarets2: 2 0 0 
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B15.blwf U0B4D_U0B37.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B16.blwf.abvs
+StartChar: ngaodia_viramasignodia_khaodia
 Encoding: 65571 -1 128
 Width: 870
 GlyphClass: 2
@@ -7604,11 +6964,9 @@ SplineSet
  726 571 l 1,106,107
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B19_U0B4D.haln U0B16
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B16.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B17.blwf.abvs
+StartChar: ngaodia_viramasignodia_gaodia
 Encoding: 65572 -1 129
 Width: 863
 GlyphClass: 2
@@ -7698,11 +7056,9 @@ SplineSet
  721 557 l 1,94,95
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B19_U0B4D.haln U0B17
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B17.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B18.blwf.abvs
+StartChar: ngaodia_viramasignodia_ghaodia
 Encoding: 65573 -1 130
 Width: 870
 GlyphClass: 2
@@ -7779,11 +7135,9 @@ SplineSet
  725 557 l 1,76,77
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B19_U0B4D.haln U0B18
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B18.blwf
 EndChar
 
-StartChar: U0B1A_U0B4D_U0B1A.blwf.abvs
+StartChar: caodia_viramasignodia_caodia
 Encoding: 65574 -1 131
 Width: 721
 GlyphClass: 2
@@ -7850,11 +7204,9 @@ SplineSet
  445 52 l 1,66,67
 EndSplineSet
 Validated: 37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1A_U0B4D.haln U0B1A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1A U0B4D_U0B1A.blwf
 EndChar
 
-StartChar: U0B1A_U0B4D_U0B1B.blwf.abvs
+StartChar: caodia_viramasignodia_chaodia
 Encoding: 65575 -1 132
 Width: 702
 GlyphClass: 2
@@ -7963,8 +7315,6 @@ SplineSet
  441 171 l 1,122,123
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1A_U0B4D.haln U0B1B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1A U0B4D_U0B1B.blwf
 EndChar
 
 StartChar: glyph129
@@ -8091,10 +7441,9 @@ SplineSet
  1005 52 l 1,120,121
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1A glyph334
 EndChar
 
-StartChar: U0B1C_U0B4D_U0B1C.blwf.abvs
+StartChar: jaodia_viramasignodia_jaodia
 Encoding: 65577 -1 134
 Width: 722
 GlyphClass: 2
@@ -8170,11 +7519,9 @@ SplineSet
  318 43 l 1,67,68
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1C_U0B4D.haln U0B1C
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1C U0B4D_U0B1C.blwf
 EndChar
 
-StartChar: U0B1C_U0B4D_U0B1C.blwf_U0B4D_U0B2C.blwf.abvs
+StartChar: jaodia_virm_jaodia_virm_baodia
 Encoding: 65578 -1 135
 Width: 747
 GlyphClass: 2
@@ -8276,10 +7623,9 @@ SplineSet
  441 260 l 1,105,106
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1C U0B4D_U0B1C.blwf U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B1C_U0B4D_U0B1D.blwf.abvs
+StartChar: jaodia_viramasignodia_jhaodia
 Encoding: 65579 -1 136
 Width: 729
 GlyphClass: 2
@@ -8384,11 +7730,9 @@ SplineSet
  364 38 l 1,119,120
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1C_U0B4D.haln U0B1D
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1C U0B4D_U0B1D.blwf
 EndChar
 
-StartChar: U0B1C_U0B4D_U0B1E.akhn
+StartChar: jaodia_viramasignodia_nyaodia
 Encoding: 65580 -1 137
 Width: 724
 GlyphClass: 2
@@ -8480,10 +7824,9 @@ SplineSet
  378 126 l 1,98,99
 EndSplineSet
 Validated: 5
-Ligature2: "'akhn' Akhand in Oriya lookup 1 subtable" U0B1C U0B4D U0B1E
 EndChar
 
-StartChar: U0B1C_U0B4D_U0B2C.blwf.abvs
+StartChar: jaodia_viramasignodia_baodia
 Encoding: 65581 -1 138
 Width: 705
 GlyphClass: 2
@@ -8567,10 +7910,9 @@ SplineSet
  303 148 l 1,82,83
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1C U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B1E_U0B4D_U0B1A.blwf.abvs
+StartChar: nyaodia_viramasignodia_caodia
 Encoding: 65582 -1 139
 Width: 680
 GlyphClass: 2
@@ -8651,11 +7993,9 @@ SplineSet
  532 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1E_U0B4D.haln U0B1A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1E U0B4D_U0B1A.blwf
 EndChar
 
-StartChar: U0B1E_U0B4D_U0B1B.blwf.abvs
+StartChar: nyaodia_viramasignodia_chaodia
 Encoding: 65583 -1 140
 Width: 696
 GlyphClass: 2
@@ -8759,11 +8099,9 @@ SplineSet
  312 162 l 1,109,110
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1E_U0B4D.haln U0B1B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1E U0B4D_U0B1B.blwf
 EndChar
 
-StartChar: U0B1E_U0B4D_U0B1C.blwf.abvs
+StartChar: nyaodia_viramasignodia_jaodia
 Encoding: 65584 -1 141
 Width: 880
 GlyphClass: 2
@@ -8858,11 +8196,9 @@ SplineSet
  742 0 l 1,102,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1E_U0B4D.haln U0B1C
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1E U0B4D_U0B1C.blwf
 EndChar
 
-StartChar: U0B1E_U0B4D_U0B1D.blwf.abvs
+StartChar: nyaodia_viramasignodia_jhaodia
 Encoding: 65585 -1 142
 Width: 747
 GlyphClass: 2
@@ -8957,11 +8293,9 @@ SplineSet
  258 52 l 1,95,96
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1E_U0B4D.haln U0B1D
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1E U0B4D_U0B1D.blwf
 EndChar
 
-StartChar: U0B1F_U0B4D_U0B1F.blwf.abvs
+StartChar: ttaodia_viramasignodia_ttaodia
 Encoding: 65586 -1 143
 Width: 708
 GlyphClass: 2
@@ -9028,11 +8362,9 @@ SplineSet
  439 59 l 1,64,65
 EndSplineSet
 Validated: 37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B1F_U0B4D.haln U0B1F
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1F U0B4D_U0B1F.blwf
 EndChar
 
-StartChar: U0B21_U0B4D_U0B17.blwf.abvs
+StartChar: ddaodia_viramasignodia_gaodia
 Encoding: 65587 -1 144
 Width: 768
 GlyphClass: 2
@@ -9124,11 +8456,9 @@ SplineSet
  503 29 l 1,99,100
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B21_U0B4D.haln U0B17
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B21 U0B4D_U0B17.blwf
 EndChar
 
-StartChar: U0B21_U0B4D_U0B21.blwf.abvs
+StartChar: ddaodia_viramasignodia_ddaodia
 Encoding: 65588 -1 145
 Width: 670
 GlyphClass: 2
@@ -9218,11 +8548,9 @@ SplineSet
  316 -14 l 1,0,1
 EndSplineSet
 Validated: 37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B21_U0B4D.haln U0B21
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B21 U0B4D_U0B21.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B1F.blwf.abvs
+StartChar: nnaodia_viramasignodia_ttaodia
 Encoding: 65589 -1 146
 Width: 745
 GlyphClass: 2
@@ -9312,11 +8640,9 @@ SplineSet
  460 267 l 1,79,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B23_U0B4D.haln U0B1F
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B1F.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B20.blwf.abvs
+StartChar: nnaodia_viramasignodia_tthaodia
 Encoding: 65590 -1 147
 Width: 750
 GlyphClass: 2
@@ -9397,11 +8723,9 @@ SplineSet
  451 251 l 1,57,58
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B23_U0B4D.haln U0B20
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B20.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B21.blwf.abvs
+StartChar: nnaodia_viramasignodia_ddaodia
 Encoding: 65591 -1 148
 Width: 774
 GlyphClass: 2
@@ -9479,11 +8803,9 @@ SplineSet
  261 223 l 1,80,81
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B23_U0B4D.haln U0B21
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B21.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B21.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: nnaodia_vir_ddaodia_vir_raodia
 Encoding: 65592 -1 149
 Width: 777
 GlyphClass: 2
@@ -9568,10 +8890,9 @@ SplineSet
  262 223 l 1,88,89
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B21.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B22.blwf.abvs
+StartChar: nnaodia_viramasignodia_ddhaodia
 Encoding: 65593 -1 150
 Width: 755
 GlyphClass: 2
@@ -9653,11 +8974,9 @@ SplineSet
  251 171 l 1,85,86
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B23_U0B4D.haln U0B22
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B22.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B23.blwf.abvs
+StartChar: nnaodia_viramasignodia_nnaodia
 Encoding: 65594 -1 151
 Width: 763
 GlyphClass: 2
@@ -9746,11 +9065,9 @@ SplineSet
  110 423 l 1,50,51
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B23_U0B4D.haln U0B23
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B23.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B15.blwf.abvs
+StartChar: taodia_viramasignodia_kaodia
 Encoding: 65595 -1 152
 Width: 744
 GlyphClass: 2
@@ -9822,11 +9139,9 @@ SplineSet
  587 -229 l 1,73,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B24_U0B4D.haln U0B15
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B24.blwf.abvs
+StartChar: taodia_viramasignodia_taodia
 Encoding: 65596 -1 153
 Width: 751
 GlyphClass: 2
@@ -9892,10 +9207,9 @@ SplineSet
  344 -14 l 1,0,1
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B24.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B24.blwf_U0B4D_U0B2C.blwf.abvs
+StartChar: taodia_virm_taodia_virm_baodia
 Encoding: 65597 -1 154
 Width: 789
 GlyphClass: 2
@@ -9978,10 +9292,9 @@ SplineSet
  574 -171 l 1,0,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B24.blwf U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: taodia_virm_taodia_virm_raodia
 Encoding: 65598 -1 155
 Width: 751
 GlyphClass: 2
@@ -10055,10 +9368,9 @@ SplineSet
  154 -223 l 1,79,-1
 EndSplineSet
 Validated: 549
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B24.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B25.blwf.abvs
+StartChar: taodia_viramasignodia_thaodia
 Encoding: 65599 -1 156
 Width: 705
 GlyphClass: 2
@@ -10138,11 +9450,9 @@ SplineSet
  544 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B24_U0B4D.haln U0B25
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B25.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B28.blwf.abvs
+StartChar: taodia_viramasignodia_naodia
 Encoding: 65600 -1 157
 Width: 763
 GlyphClass: 2
@@ -10212,10 +9522,9 @@ SplineSet
  441 -52 l 1,63,64
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B28.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B2A.blwf.abvs
+StartChar: taodia_viramasignodia_paodia
 Encoding: 65601 -1 158
 Width: 771
 GlyphClass: 2
@@ -10270,11 +9579,9 @@ SplineSet
  789 -252 l 1,48,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B24_U0B4D.haln U0B2A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B2A.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B2C.blwf.abvs
+StartChar: taodia_viramasignodia_baodia
 Encoding: 65602 -1 159
 Width: 738
 GlyphClass: 2
@@ -10346,10 +9653,9 @@ SplineSet
  364 61 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B2E.blwf.abvs
+StartChar: taodia_viramasignodia_maodia
 Encoding: 65603 -1 160
 Width: 747
 GlyphClass: 2
@@ -10395,10 +9701,9 @@ SplineSet
  32 461 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B2E.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B2E.blwf_U0B4D_U0B2F.blwf.abvs
+StartChar: taodia_virm_maodia_virm_yaodia
 Encoding: 65604 -1 161
 Width: 1196
 GlyphClass: 2
@@ -10500,10 +9805,9 @@ SplineSet
  738 -39 l 1,109,110
 EndSplineSet
 Validated: 549
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B2E.blwf U0B4D_U0B2F.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B38.blwf.abvs
+StartChar: taodia_viramasignodia_saodia
 Encoding: 65605 -1 162
 Width: 690
 GlyphClass: 2
@@ -10550,11 +9854,9 @@ SplineSet
  534 193 l 1,24,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B24_U0B4D.haln U0B38
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B38.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B38.blwf_U0B4D_U0B28.blwf.abvs
+StartChar: taodia_virm_saodia_virm_naodia
 Encoding: 65606 -1 163
 Width: 687
 GlyphClass: 2
@@ -10612,10 +9914,9 @@ SplineSet
  534 245 l 1,41,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B38.blwf U0B4D_U0B28.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B38.blwf_U0B4D_U0B2F.blwf.abvs
+StartChar: taodia_virm_saodia_virm_yaodia
 Encoding: 65607 -1 164
 Width: 1115
 GlyphClass: 2
@@ -10680,10 +9981,9 @@ SplineSet
  954 0 l 1,42,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B38.blwf U0B4D_U0B2F.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B17.blwf.abvs
+StartChar: daodia_viramasignodia_gaodia
 Encoding: 65608 -1 165
 Width: 745
 GlyphClass: 2
@@ -10768,11 +10068,9 @@ SplineSet
  481 -151 l 1,90,91
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B26_U0B4D.haln U0B17
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B17.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B18.blwf.abvs
+StartChar: daodia_viramasignodia_ghaodia
 Encoding: 65609 -1 166
 Width: 671
 GlyphClass: 2
@@ -10858,11 +10156,9 @@ SplineSet
  410 74 l 1,76,77
 EndSplineSet
 Validated: 37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B26_U0B4D.haln U0B18
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B18.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B26.blwf.abvs
+StartChar: daodia_viramasignodia_daodia
 Encoding: 65610 -1 167
 Width: 741
 GlyphClass: 2
@@ -10922,11 +10218,9 @@ SplineSet
  502 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B26_U0B4D.haln U0B26
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B26.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B27.blwf.abvs
+StartChar: daodia_viramasignodia_dhaodia
 Encoding: 65611 -1 168
 Width: 747
 GlyphClass: 2
@@ -10991,11 +10285,9 @@ SplineSet
  452 183 l 1,42,43
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B26_U0B4D.haln U0B27 
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B27.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B27.blwf_U0B4D_U0B2C.blwf.abvs
+StartChar: daodia_virm_dhaodia_virm_baodia
 Encoding: 65612 -1 169
 Width: 722
 GlyphClass: 2
@@ -11074,10 +10366,9 @@ SplineSet
  251 193 l 1,62,63
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B27.blwf U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B2C.blwf.abvs
+StartChar: daodia_viramasignodia_baodia
 Encoding: 65613 -1 170
 Width: 703
 GlyphClass: 2
@@ -11140,10 +10431,9 @@ SplineSet
  26 522 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B2D.blwf.abvs
+StartChar: daodia_viramasignodia_bhaodia
 Encoding: 65614 -1 171
 Width: 838
 GlyphClass: 2
@@ -11218,7 +10508,6 @@ SplineSet
  384 -14 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B2D.blwf
 EndChar
 
 StartChar: glyph168
@@ -11290,7 +10579,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B27_U0B4D_U0B2C.blwf.abvs
+StartChar: dhaodia_viramasignodia_baodia
 Encoding: 65616 -1 173
 Width: 751
 GlyphClass: 2
@@ -11338,10 +10627,9 @@ SplineSet
  329 168 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B27 U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B27_U0B4D_U0B2F.blwf.abvs
+StartChar: dhaodia_viramasignodia_yaodia
 Encoding: 65617 -1 174
 Width: 726
 GlyphClass: 2
@@ -11385,10 +10673,9 @@ SplineSet
  567 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B27 U0B4D_U0B2F.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B24.blwf.abvs
+StartChar: naodia_viramasignodia_taodia
 Encoding: 65618 -1 175
 Width: 735
 GlyphClass: 2
@@ -11457,10 +10744,9 @@ SplineSet
  550 112 l 1,69,70
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B24.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B24.blwf_U0B4D_U0B2F.blwf.abvs
+StartChar: naodia_virm_taodia_virm_yaodia
 Encoding: 65619 -1 176
 Width: 1157
 GlyphClass: 2
@@ -11547,10 +10833,9 @@ SplineSet
  996 0 l 1,82,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B24.blwf U0B4D_U0B2F.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: naodia_virm_taodia_virm_raodia
 Encoding: 65620 -1 177
 Width: 753
 GlyphClass: 2
@@ -11612,7 +10897,6 @@ SplineSet
  93 171 l 1,0,1
 EndSplineSet
 Validated: 549
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B24.blwf U0B4D_U0B30.blwf
 EndChar
 
 StartChar: glyph174
@@ -11697,7 +10981,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0B28_U0B4D_U0B24.blwf_U0B4D_U0B2C.blwf.abvs
+StartChar: naodia_virm_taodia_virm_baodia
 Encoding: 65622 -1 179
 Width: 750
 GlyphClass: 2
@@ -11784,10 +11068,9 @@ SplineSet
  564 133 l 1,93,94
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B24.blwf U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B25.blwf.abvs
+StartChar: naodia_viramasignodia_thaodia
 Encoding: 65623 -1 180
 Width: 757
 GlyphClass: 2
@@ -11873,11 +11156,9 @@ SplineSet
  587 52 l 1,91,92
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B28_U0B4D.haln U0B25
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B25.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B26.blwf.abvs
+StartChar: naodia_viramasignodia_daodia
 Encoding: 65624 -1 181
 Width: 705
 GlyphClass: 2
@@ -11934,11 +11215,9 @@ SplineSet
  465 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B28_U0B4D.haln U0B26
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B26.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B26.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: naodia_virm_daodia_virm_raodia
 Encoding: 65625 -1 182
 Width: 705
 GlyphClass: 2
@@ -11999,10 +11278,9 @@ SplineSet
  204 223 l 1,0,1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B26.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B26.blwf_U0B4D_U0B2C.blwf.abvs
+StartChar: naodia_virm_daodia_virm_baodia
 Encoding: 65626 -1 183
 Width: 758
 GlyphClass: 2
@@ -12075,10 +11353,9 @@ SplineSet
  51 525 l 1,0,1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B26.blwf U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B27.blwf.abvs
+StartChar: naodia_viramasignodia_dhaodia
 Encoding: 65627 -1 184
 Width: 708
 GlyphClass: 2
@@ -12141,11 +11418,9 @@ SplineSet
  371 133 l 1,49,50
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B28_U0B4D.haln U0B27
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B27.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B27.blwf_U0B4D_U0B2C.blwf.abvs
+StartChar: naodia_virm_dhaodia_virm_baodia
 Encoding: 65628 -1 185
 Width: 763
 GlyphClass: 2
@@ -12222,10 +11497,9 @@ SplineSet
  399 220 l 1,69,70
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B27.blwf U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B27.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: naodia_virm_dhaodia_virm_raodia
 Encoding: 65629 -1 186
 Width: 706
 GlyphClass: 2
@@ -12290,7 +11564,6 @@ SplineSet
  365 126 l 1,51,52
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B27.blwf U0B4D_U0B30.blwf
 EndChar
 
 StartChar: glyph183
@@ -12376,7 +11649,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B28_U0B4D_U0B28.blwf.abvs
+StartChar: naodia_viramasignodia_naodia
 Encoding: 65631 -1 188
 Width: 737
 GlyphClass: 2
@@ -12437,7 +11710,6 @@ SplineSet
  431 -14 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B28.blwf
 EndChar
 
 StartChar: glyph185
@@ -12521,7 +11793,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2A_U0B4D_U0B24.blwf.abvs
+StartChar: paodia_viramasignodia_taodia
 Encoding: 65633 -1 190
 Width: 757
 GlyphClass: 2
@@ -12592,10 +11864,9 @@ SplineSet
  320 174 l 1,58,59
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2A U0B4D_U0B24.blwf
 EndChar
 
-StartChar: U0B2A_U0B4D_U0B2A.blwf.abvs
+StartChar: paodia_viramasignodia_paodia
 Encoding: 65634 -1 191
 Width: 738
 GlyphClass: 2
@@ -12673,11 +11944,9 @@ SplineSet
  579 229 l 1,81,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2A_U0B4D.haln U0B2A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2A U0B4D_U0B2A.blwf
 EndChar
 
-StartChar: U0B2A_U0B4D_U0B33.blwf.abvs
+StartChar: paodia_viramasignodia_llaodia
 Encoding: 65635 -1 192
 Width: 848
 GlyphClass: 2
@@ -12748,10 +12017,9 @@ SplineSet
  383 190 l 1,56,57
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2A U0B4D_U0B33.blwf
 EndChar
 
-StartChar: U0B2A_U0B4D_U0B38.blwf.abvs
+StartChar: paodia_viramasignodia_saodia
 Encoding: 65636 -1 193
 Width: 695
 GlyphClass: 2
@@ -12822,11 +12090,9 @@ SplineSet
  535 245 l 1,68,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2A_U0B4D.haln U0B38
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2A U0B4D_U0B38.blwf
 EndChar
 
-StartChar: U0B2C_U0B4D_U0B1C.blwf.abvs
+StartChar: baodia_viramasignodia_jaodia
 Encoding: 65637 -1 194
 Width: 726
 GlyphClass: 2
@@ -12904,11 +12170,9 @@ SplineSet
  323 252 l 1,81,82
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2C_U0B4D.haln U0B1C
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2C U0B4D_U0B1C.blwf
 EndChar
 
-StartChar: U0B2C_U0B4D_U0B26.blwf.abvs
+StartChar: baodia_viramasignodia_daodia
 Encoding: 65638 -1 195
 Width: 697
 GlyphClass: 2
@@ -12971,11 +12235,9 @@ SplineSet
  225 126 l 1,59,60
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2C_U0B4D.haln U0B26
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2C U0B4D_U0B26.blwf
 EndChar
 
-StartChar: U0B2C_U0B4D_U0B27.blwf.abvs
+StartChar: baodia_viramasignodia_dhaodia
 Encoding: 65639 -1 196
 Width: 693
 GlyphClass: 2
@@ -13047,11 +12309,9 @@ SplineSet
  307 328 l 1,69,70
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2C_U0B4D.haln U0B27
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2C U0B4D_U0B27.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2A.blwf.abvs
+StartChar: maodia_viramasignodia_paodia
 Encoding: 65640 -1 197
 Width: 706
 GlyphClass: 2
@@ -13112,11 +12372,9 @@ SplineSet
  391 467 l 1,53,54
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2E_U0B4D.haln U0B2A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2A.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2A.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: maodia_virm_paodia_virm_raodia
 Encoding: 65641 -1 198
 Width: 708
 GlyphClass: 2
@@ -13179,10 +12437,9 @@ SplineSet
  391 467 l 1,55,56
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2A.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2B.blwf.abvs
+StartChar: maodia_viramasignodia_phaodia
 Encoding: 65642 -1 199
 Width: 777
 GlyphClass: 2
@@ -13257,11 +12514,9 @@ SplineSet
  631 519 l 1,73,74
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B2E_U0B4D.haln U0B2B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2B.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2C.blwf.abvs
+StartChar: maodia_viramasignodia_baodia
 Encoding: 65643 -1 200
 Width: 725
 GlyphClass: 2
@@ -13319,10 +12574,9 @@ SplineSet
  622 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2D.blwf.abvs
+StartChar: maodia_viramasignodia_bhaodia
 Encoding: 65644 -1 201
 Width: 725
 GlyphClass: 2
@@ -13381,10 +12635,9 @@ SplineSet
  679 -14 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2D.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2D.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: maodia_virm_bhaodia_virm_raodia
 Encoding: 65645 -1 202
 Width: 725
 GlyphClass: 2
@@ -13449,10 +12702,9 @@ SplineSet
  679 -14 l 1,0,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2D.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B2E.blwf.abvs
+StartChar: maodia_viramasignodia_maodia
 Encoding: 65646 -1 203
 Width: 748
 GlyphClass: 2
@@ -13520,10 +12772,9 @@ SplineSet
  589 438 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B2E.blwf
 EndChar
 
-StartChar: U0B33_U0B4D_U0B15.blwf.abvs
+StartChar: llaodia_viramasignodia_kaodia
 Encoding: 65647 -1 204
 Width: 745
 GlyphClass: 2
@@ -13608,11 +12859,9 @@ SplineSet
  461 104 l 1,88,89
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B33_U0B4D.haln U0B15
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B33 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B33_U0B4D_U0B2D.blwf.abvs
+StartChar: llaodia_viramasignodia_bhaodia
 Encoding: 65648 -1 205
 Width: 738
 GlyphClass: 2
@@ -13710,7 +12959,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B33_U0B4D_U0B33.blwf.abvs
+StartChar: llaodia_viramasignodia_llaodia
 Encoding: 65649 -1 206
 Width: 692
 GlyphClass: 2
@@ -13793,10 +13042,9 @@ SplineSet
  373 194 l 1,80,81
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B33 U0B4D_U0B33.blwf
 EndChar
 
-StartChar: U0B33_U0B4D_U0B2A.blwf.abvs
+StartChar: llaodia_viramasignodia_paodia
 Encoding: 65650 -1 207
 Width: 642
 GlyphClass: 2
@@ -13880,11 +13128,9 @@ SplineSet
  284 0 l 1,78,79
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B33_U0B4D.haln U0B2A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B33 U0B4D_U0B2A.blwf
 EndChar
 
-StartChar: U0B33_U0B4D_U0B2B.blwf.abvs
+StartChar: llaodia_viramasignodia_phaodia
 Encoding: 65651 -1 208
 Width: 693
 GlyphClass: 2
@@ -13988,11 +13234,9 @@ SplineSet
  555 96 l 1,115,116
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B33_U0B4D.haln U0B2B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B33 U0B4D_U0B2B.blwf
 EndChar
 
-StartChar: U0B32_U0B4D_U0B15.blwf.abvs
+StartChar: laodia_viramasignodia_kaodia
 Encoding: 65652 -1 209
 Width: 726
 GlyphClass: 2
@@ -14080,11 +13324,9 @@ SplineSet
  367 212 l 1,88,89
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B32_U0B4D.haln U0B15
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B32 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B32_U0B4D_U0B17.blwf.abvs
+StartChar: laodia_viramasignodia_gaodia
 Encoding: 65653 -1 210
 Width: 768
 GlyphClass: 2
@@ -14176,11 +13418,9 @@ SplineSet
  429 -74 l 1,98,99
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B32_U0B4D.haln U0B17
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B32 U0B4D_U0B17.blwf
 EndChar
 
-StartChar: U0B32_U0B4D_U0B32.blwf.abvs
+StartChar: laodia_viramasignodia_laodia
 Encoding: 65654 -1 211
 Width: 768
 GlyphClass: 2
@@ -14266,10 +13506,9 @@ SplineSet
  289 186 l 1,85,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B32 U0B4D_U0B32.blwf
 EndChar
 
-StartChar: U0B36_U0B4D_U0B1A.blwf.abvs
+StartChar: shaodia_viramasignodia_caodia
 Encoding: 65655 -1 212
 Width: 837
 GlyphClass: 2
@@ -14361,11 +13600,9 @@ SplineSet
  637 -23 l 1,101,102
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B36_U0B4D.haln U0B1A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B36 U0B4D_U0B1A.blwf
 EndChar
 
-StartChar: U0B36_U0B4D_U0B1B.blwf.abvs
+StartChar: shaodia_viramasignodia_chaodia
 Encoding: 65656 -1 213
 Width: 880
 GlyphClass: 2
@@ -14501,11 +13738,9 @@ SplineSet
  258 171 l 1,163,164
 EndSplineSet
 Validated: 37
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B36_U0B4D.haln U0B1B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B36 U0B4D_U0B1B.blwf
 EndChar
 
-StartChar: U0B36_U0B4D_U0B2C.blwf.abvs
+StartChar: shaodia_viramasignodia_baodia
 Encoding: 65657 -1 214
 Width: 719
 GlyphClass: 2
@@ -14581,10 +13816,9 @@ SplineSet
  316 203 l 1,78,79
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B36 U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B36_U0B4D_U0B33.blwf.abvs
+StartChar: shaodia_viramasignodia_llaodia
 Encoding: 65658 -1 215
 Width: 822
 GlyphClass: 2
@@ -14670,10 +13904,9 @@ SplineSet
  329 244 l 1,90,91
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B36 U0B4D_U0B33.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B15.blwf.abvs
+StartChar: ssaodia_viramasignodia_kaodia
 Encoding: 65659 -1 216
 Width: 764
 GlyphClass: 2
@@ -14753,11 +13986,9 @@ SplineSet
  593 333 l 1,79,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B37_U0B4D.haln U0B15
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B15.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: ssaodia_virm_kaodia_virm_raodia
 Encoding: 65660 -1 217
 Width: 766
 GlyphClass: 2
@@ -14839,10 +14070,9 @@ SplineSet
  594 333 l 1,81,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B15.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B1F.blwf.abvs
+StartChar: ssaodia_viramasignodia_ttaodia
 Encoding: 65661 -1 218
 Width: 761
 GlyphClass: 2
@@ -14930,11 +14160,9 @@ SplineSet
  550 354 l 1,92,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B37_U0B4D.haln U0B1F
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B1F.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B1F.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: ssaodia_vir_ttaodia_vir_raodia
 Encoding: 65662 -1 219
 Width: 763
 GlyphClass: 2
@@ -15033,10 +14261,9 @@ SplineSet
  206 -223 l 1,105,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B1F.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B20.blwf.abvs
+StartChar: ssaodia_viramasignodia_tthaodia
 Encoding: 65663 -1 220
 Width: 760
 GlyphClass: 2
@@ -15114,11 +14341,9 @@ SplineSet
  594 342 l 1,77,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B37_U0B4D.haln U0B20
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B20.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B23.blwf.abvs
+StartChar: ssaodia_viramasignodia_nnaodia
 Encoding: 65664 -1 221
 Width: 741
 GlyphClass: 2
@@ -15205,11 +14430,9 @@ SplineSet
  564 371 l 1,92,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B37_U0B4D.haln U0B23
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B23.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B2A.blwf.abvs
+StartChar: ssaodia_viramasignodia_paodia
 Encoding: 65665 -1 222
 Width: 744
 GlyphClass: 2
@@ -15297,11 +14520,9 @@ SplineSet
  584 245 l 1,91,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B37_U0B4D.haln U0B2A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B2A.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B2A.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: ssaodia_virm_paodia_virm_raodia
 Encoding: 65666 -1 223
 Width: 747
 GlyphClass: 2
@@ -15391,10 +14612,9 @@ SplineSet
  584 238 l 1,93,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B2A.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B2B.blwf.abvs
+StartChar: ssaodia_viramasignodia_phaodia
 Encoding: 65667 -1 224
 Width: 758
 GlyphClass: 2
@@ -15498,11 +14718,9 @@ SplineSet
  642 157 l 1,107,108
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B37_U0B4D.haln U0B2B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B2B.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B15.blwf.abvs
+StartChar: saodia_viramasignodia_kaodia
 Encoding: 65668 -1 225
 Width: 838
 GlyphClass: 2
@@ -15571,11 +14789,9 @@ SplineSet
  236 281 l 1,56,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B38_U0B4D.haln U0B15
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B15.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B16.blwf.abvs
+StartChar: saodia_viramasignodia_khaodia
 Encoding: 65669 -1 226
 Width: 739
 GlyphClass: 2
@@ -15654,11 +14870,9 @@ SplineSet
  332 260 l 1,72,73
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B38_U0B4D.haln U0B16
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B16.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B24.blwf.abvs
+StartChar: saodia_viramasignodia_taodia
 Encoding: 65670 -1 227
 Width: 750
 GlyphClass: 2
@@ -15720,10 +14934,9 @@ SplineSet
  461 215 l 1,48,49
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B24.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B24.blwf_U0B4D_U0B30.blwf.abvs
+StartChar: saodia_virm_taodia_virm_raodia
 Encoding: 65671 -1 228
 Width: 738
 GlyphClass: 2
@@ -15777,10 +14990,9 @@ SplineSet
  422 209 l 1,37,38
 EndSplineSet
 Validated: 549
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B24.blwf U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B25.blwf.abvs
+StartChar: saodia_viramasignodia_thaodia
 Encoding: 65672 -1 229
 Width: 689
 GlyphClass: 2
@@ -15855,8 +15067,6 @@ SplineSet
  521 209 l 1,67,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B38_U0B4D.haln U0B25
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B25.blwf
 EndChar
 
 StartChar: glyph226
@@ -15954,7 +15164,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B38_U0B4D_U0B28.blwf.abvs
+StartChar: saodia_viramasignodia_naodia
 Encoding: 65674 -1 231
 Width: 710
 GlyphClass: 2
@@ -16007,10 +15217,9 @@ SplineSet
  547 226 l 1,37,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B28.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B2A.blwf.abvs
+StartChar: saodia_viramasignodia_paodia
 Encoding: 65675 -1 232
 Width: 712
 GlyphClass: 2
@@ -16078,11 +15287,9 @@ SplineSet
  367 148 l 1,50,51
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B38_U0B4D.haln U0B2A
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B2A.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B2B.blwf.abvs
+StartChar: saodia_viramasignodia_phaodia
 Encoding: 65676 -1 233
 Width: 758
 GlyphClass: 2
@@ -16168,11 +15375,9 @@ SplineSet
  635 148 l 1,85,86
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 85-1" U0B38_U0B4D.haln U0B2B
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B2B.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B2C.blwf.abvs
+StartChar: saodia_viramasignodia_baodia
 Encoding: 65677 -1 234
 Width: 697
 GlyphClass: 2
@@ -16229,10 +15434,9 @@ SplineSet
  532 246 l 1,42,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B2C.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B2E.blwf.abvs
+StartChar: saodia_viramasignodia_maodia
 Encoding: 65678 -1 235
 Width: 713
 GlyphClass: 2
@@ -16300,10 +15504,9 @@ SplineSet
  367 -38 l 1,58,59
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B2E.blwf
 EndChar
 
-StartChar: U0B39_U0B4D_U0B28.blwf.abvs
+StartChar: haodia_viramasignodia_naodia
 Encoding: 65679 -1 236
 Width: 664
 GlyphClass: 2
@@ -16373,10 +15576,9 @@ SplineSet
  390 122 l 1,0,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B39 U0B4D_U0B28.blwf
 EndChar
 
-StartChar: U0B39_U0B4D_U0B2E.blwf.abvs
+StartChar: haodia_viramasignodia_maodia
 Encoding: 65680 -1 237
 Width: 671
 GlyphClass: 2
@@ -16461,10 +15663,9 @@ SplineSet
  335 -126 l 1,86,87
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B39 U0B4D_U0B2E.blwf
 EndChar
 
-StartChar: U0B39_U0B4D_U0B32.blwf.abvs
+StartChar: haodia_viramasignodia_laodia
 Encoding: 65681 -1 238
 Width: 667
 GlyphClass: 2
@@ -16549,10 +15750,9 @@ SplineSet
  139 397 l 1,8,9
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B39 U0B4D_U0B32.blwf
 EndChar
 
-StartChar: U0B30_U0B4D.rphf
+StartChar: raodia_viramasignodia
 Encoding: 65682 -1 239
 Width: 0
 GlyphClass: 4
@@ -16570,7 +15770,6 @@ SplineSet
  -138 832 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'rphf' Reph Form in Oriya lookup 81 subtable" U0B30 U0B4D
 EndChar
 
 StartChar: glyph236
@@ -16591,11 +15790,9 @@ SplineSet
  -620 -223 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 83 subtable" glyph407
-Substitution2: "Single Substitution lookup 84 subtable" glyph412
 EndChar
 
-StartChar: U0B4D_U0B30.blwf_U0B41.blws
+StartChar: viramasignodia_raodia_usignodia
 Encoding: 65684 -1 241
 Width: 0
 GlyphClass: 2
@@ -16645,12 +15842,9 @@ SplineSet
  -421 -333 l 1,39,40
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions in Oriya lookup 77 subtable" U0B4D_U0B30.blwf U0B41
-Substitution2: "Single Substitution lookup 83 subtable" glyph405
-Substitution2: "Single Substitution lookup 84 subtable" glyph413
 EndChar
 
-StartChar: U0B4D_U0B30.blwf_U0B42.blws
+StartChar: viramaodia_raodia_uusignodia
 Encoding: 65685 -1 242
 Width: 0
 GlyphClass: 2
@@ -16688,9 +15882,6 @@ SplineSet
  -620 -154 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions in Oriya lookup 77 subtable" U0B4D_U0B30.blwf U0B42
-Substitution2: "Single Substitution lookup 83 subtable" glyph406
-Substitution2: "Single Substitution lookup 84 subtable" glyph414
 EndChar
 
 StartChar: glyph239
@@ -16713,7 +15904,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B3F_U0B01.abvs
+StartChar: isignodia_candrabinduodia
 Encoding: 65687 -1 244
 Width: 0
 GlyphClass: 2
@@ -16757,10 +15948,9 @@ SplineSet
  -65 1024 l 1,30,31
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B3F U0B01
 EndChar
 
-StartChar: U0B3F_U0B30_U0B4D.rphf.abvs
+StartChar: isignodia_raodia_viramasignodia
 Encoding: 65688 -1 245
 Width: 0
 GlyphClass: 2
@@ -16785,7 +15975,6 @@ SplineSet
  -624 809 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B3F U0B30_U0B4D.rphf
 EndChar
 
 StartChar: glyph242
@@ -17027,7 +16216,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B15_U0B4D.haln
+StartChar: kaodia_viramasignodia
 Encoding: 65694 -1 251
 Width: 751
 GlyphClass: 2
@@ -17097,11 +16286,9 @@ SplineSet
  687 -244 l 1,73,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B15 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B15 U0B4D
 EndChar
 
-StartChar: U0B16_U0B4D.haln
+StartChar: khaodia_viramasignodia
 Encoding: 65695 -1 252
 Width: 758
 GlyphClass: 2
@@ -17164,10 +16351,9 @@ SplineSet
  773 -244 l 1,64,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B16 U0B4D
 EndChar
 
-StartChar: U0B17_U0B4D.haln
+StartChar: gaodia_viramasignodia
 Encoding: 65696 -1 253
 Width: 774
 GlyphClass: 2
@@ -17222,11 +16408,9 @@ SplineSet
  782 -244 l 1,52,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B17 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B17 U0B4D
 EndChar
 
-StartChar: U0B18_U0B4D.haln
+StartChar: ghaodia_viramasignodia
 Encoding: 65697 -1 254
 Width: 760
 GlyphClass: 2
@@ -17290,10 +16474,9 @@ SplineSet
  764 -244 l 1,63,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B18 U0B4D
 EndChar
 
-StartChar: U0B19_U0B4D.haln
+StartChar: ngaodia_viramasignodia
 Encoding: 65698 -1 255
 Width: 796
 GlyphClass: 2
@@ -17367,11 +16550,9 @@ SplineSet
  651 -245 l 1,80,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B19 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B19 U0B4D
 EndChar
 
-StartChar: U0B1A_U0B4D.haln
+StartChar: caodia_viramasignodia
 Encoding: 65699 -1 256
 Width: 734
 GlyphClass: 2
@@ -17426,11 +16607,9 @@ SplineSet
  644 -245 l 1,54,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B1A U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B1A U0B4D
 EndChar
 
-StartChar: U0B1B_U0B4D.haln
+StartChar: chaodia_viramasignodia
 Encoding: 65700 -1 257
 Width: 703
 GlyphClass: 2
@@ -17522,10 +16701,9 @@ SplineSet
  628 -252 l 1,105,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B1B U0B4D
 EndChar
 
-StartChar: U0B1C_U0B4D.haln
+StartChar: jaodia_viramasignodia
 Encoding: 65701 -1 258
 Width: 754
 GlyphClass: 2
@@ -17601,11 +16779,9 @@ SplineSet
  668 -244 l 1,84,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B1C U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B1C U0B4D
 EndChar
 
-StartChar: U0B1D_U0B4D.haln
+StartChar: jhaodia_viramasignodia
 Encoding: 65702 -1 259
 Width: 764
 GlyphClass: 2
@@ -17671,10 +16847,9 @@ SplineSet
  354 52 l 1,61,62
 EndSplineSet
 Validated: 37
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B1D U0B4D
 EndChar
 
-StartChar: U0B1E_U0B4D.haln
+StartChar: nyaodia_viramasignodia
 Encoding: 65703 -1 260
 Width: 716
 GlyphClass: 2
@@ -17765,11 +16940,9 @@ SplineSet
  606 -249 l 1,104,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B1E U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B1E U0B4D
 EndChar
 
-StartChar: U0B1F_U0B4D.haln
+StartChar: ttaodia_viramasignodia
 Encoding: 65704 -1 261
 Width: 710
 GlyphClass: 2
@@ -17824,11 +16997,9 @@ SplineSet
  597 -245 l 1,52,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B1F U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B1F U0B4D
 EndChar
 
-StartChar: U0B20_U0B4D.haln
+StartChar: tthaodia_viramasignodia
 Encoding: 65705 -1 262
 Width: 757
 GlyphClass: 2
@@ -17864,10 +17035,9 @@ SplineSet
  655 -245 l 1,26,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B20 U0B4D
 EndChar
 
-StartChar: U0B21_U0B4D.haln
+StartChar: ddaodia_viramasignodia
 Encoding: 65706 -1 263
 Width: 741
 GlyphClass: 2
@@ -17926,11 +17096,9 @@ SplineSet
  652 -245 l 1,59,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B21 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B21 U0B4D
 EndChar
 
-StartChar: U0B22_U0B4D.haln
+StartChar: ddhaodia_viramasignodia
 Encoding: 65707 -1 264
 Width: 754
 GlyphClass: 2
@@ -18001,10 +17169,9 @@ SplineSet
  613 -245 l 1,76,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B22 U0B4D
 EndChar
 
-StartChar: U0B23_U0B4D.haln
+StartChar: nnaodia_viramasignodia
 Encoding: 65708 -1 265
 Width: 761
 GlyphClass: 2
@@ -18066,11 +17233,9 @@ SplineSet
  783 -244 l 1,62,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B23 U0B4D 
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B23 U0B4D
 EndChar
 
-StartChar: U0B24_U0B4D.haln
+StartChar: taodia_viramasignodia
 Encoding: 65709 -1 266
 Width: 729
 GlyphClass: 2
@@ -18130,11 +17295,9 @@ SplineSet
  642 -245 l 1,63,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B24 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B24 U0B4D
 EndChar
 
-StartChar: U0B25_U0B4D.haln
+StartChar: thaodia_viramasignodia
 Encoding: 65710 -1 267
 Width: 715
 GlyphClass: 2
@@ -18189,10 +17352,9 @@ SplineSet
  732 -244 l 1,54,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B25 U0B4D
 EndChar
 
-StartChar: U0B26_U0B4D.haln
+StartChar: daodia_viramasignodia
 Encoding: 65711 -1 268
 Width: 744
 GlyphClass: 2
@@ -18247,12 +17409,9 @@ SplineSet
  629 -244 l 1,53,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B26 U0B4D 
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B26 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B26 U0B4D
 EndChar
 
-StartChar: U0B27_U0B4D.haln
+StartChar: dhaodia_viramasignodia
 Encoding: 65712 -1 269
 Width: 757
 GlyphClass: 2
@@ -18292,10 +17451,9 @@ SplineSet
  774 -244 l 1,29,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B27 U0B4D
 EndChar
 
-StartChar: U0B28_U0B4D.haln
+StartChar: naodia_viramasignodia
 Encoding: 65713 -1 270
 Width: 729
 GlyphClass: 2
@@ -18348,11 +17506,9 @@ SplineSet
  625 -244 l 1,51,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B28 U0B4D 
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B28 U0B4D
 EndChar
 
-StartChar: U0B2A_U0B4D.haln
+StartChar: paodia_viramasignodia
 Encoding: 65714 -1 271
 Width: 773
 GlyphClass: 2
@@ -18405,11 +17561,9 @@ SplineSet
  792 -244 l 1,48,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B2A U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B2A U0B4D
 EndChar
 
-StartChar: U0B2B_U0B4D.haln
+StartChar: phaodia_viramasignodia
 Encoding: 65715 -1 272
 Width: 866
 GlyphClass: 2
@@ -18481,10 +17635,9 @@ SplineSet
  773 -244 l 1,74,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B2B U0B4D
 EndChar
 
-StartChar: U0B2C_U0B4D.haln
+StartChar: baodia_viramasignodia
 Encoding: 65716 -1 273
 Width: 745
 GlyphClass: 2
@@ -18542,11 +17695,9 @@ SplineSet
  651 -244 l 1,57,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B2C U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B2C U0B4D
 EndChar
 
-StartChar: U0B2D_U0B4D.haln
+StartChar: bhaodia_viramasignodia
 Encoding: 65717 -1 274
 Width: 787
 GlyphClass: 4
@@ -18614,10 +17765,9 @@ SplineSet
  693 -244 l 1,72,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B2D U0B4D
 EndChar
 
-StartChar: U0B2E_U0B4D.haln
+StartChar: maodia_viramasignodia
 Encoding: 65718 -1 275
 Width: 758
 GlyphClass: 2
@@ -18665,11 +17815,9 @@ SplineSet
  782 -244 l 1,43,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B2E U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B2E U0B4D
 EndChar
 
-StartChar: U0B2F_U0B4D.haln
+StartChar: yaodia_viramasignodia
 Encoding: 65719 -1 276
 Width: 784
 GlyphClass: 4
@@ -18732,10 +17880,9 @@ SplineSet
  808 -244 l 1,62,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B2F U0B4D
 EndChar
 
-StartChar: U0B30_U0B4D.haln
+StartChar: raodia_viramasignodia_haln
 Encoding: 65720 -1 277
 Width: 760
 GlyphClass: 4
@@ -18792,10 +17939,9 @@ SplineSet
  705 -244 l 1,56,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B30 U0B4D
 EndChar
 
-StartChar: U0B32_U0B4D.haln
+StartChar: laodia_viramasignodia
 Encoding: 65721 -1 278
 Width: 783
 GlyphClass: 4
@@ -18857,11 +18003,9 @@ SplineSet
  761 -244 l 1,61,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B32 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B32 U0B4D
 EndChar
 
-StartChar: U0B33_U0B4D.haln
+StartChar: llaodia_viramasignodia
 Encoding: 65722 -1 279
 Width: 751
 GlyphClass: 4
@@ -18921,11 +18065,9 @@ SplineSet
  663 -244 l 1,59,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B33 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B33 U0B4D
 EndChar
 
-StartChar: U0B35_U0B4D.haln
+StartChar: vaodia_viramasignodia
 Encoding: 65723 -1 280
 Width: 732
 GlyphClass: 4
@@ -18993,10 +18135,9 @@ SplineSet
  635 -244 l 1,70,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B35 U0B4D
 EndChar
 
-StartChar: U0B36_U0B4D.haln
+StartChar: shaodia_viramasignodia
 Encoding: 65724 -1 281
 Width: 739
 GlyphClass: 4
@@ -19064,11 +18205,9 @@ SplineSet
  758 -244 l 1,71,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B36 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B36 U0B4D
 EndChar
 
-StartChar: U0B37_U0B4D.haln
+StartChar: ssaodia_viramasignodia
 Encoding: 65725 -1 282
 Width: 755
 GlyphClass: 2
@@ -19130,11 +18269,9 @@ SplineSet
  773 -244 l 1,56,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B37 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B37 U0B4D
 EndChar
 
-StartChar: U0B38_U0B4D.haln
+StartChar: saodia_viramasignodia
 Encoding: 65726 -1 283
 Width: 744
 GlyphClass: 2
@@ -19177,11 +18314,9 @@ SplineSet
  581 71 l 1,22,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B38 U0B4D
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B38 U0B4D
 EndChar
 
-StartChar: U0B39_U0B4D.haln
+StartChar: haodia_viramasignodia
 Encoding: 65727 -1 284
 Width: 666
 GlyphClass: 2
@@ -19242,10 +18377,9 @@ SplineSet
  570 -26 l 1,5,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B39 U0B4D
 EndChar
 
-StartChar: U0B5C_U0B4D.haln
+StartChar: rraodia_viramasignodia
 Encoding: 65728 -1 285
 Width: 750
 GlyphClass: 2
@@ -19315,10 +18449,9 @@ SplineSet
  693 -245 l 1,74,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B5C U0B4D
 EndChar
 
-StartChar: U0B5D_U0B4D.haln
+StartChar: rhaodia_viramasignodia
 Encoding: 65729 -1 286
 Width: 751
 GlyphClass: 2
@@ -19399,10 +18532,9 @@ SplineSet
  754 -246 l 1,89,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B5D U0B4D
 EndChar
 
-StartChar: U0B5F_U0B4D.haln
+StartChar: yyaodia_viramasignodia
 Encoding: 65730 -1 287
 Width: 782
 GlyphClass: 2
@@ -19478,7 +18610,6 @@ SplineSet
  671 -244 l 1,81,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B5F U0B4D
 EndChar
 
 StartChar: glyph284
@@ -19618,12 +18749,10 @@ SplineSet
  805 -245 l 1,73,-1
  805 -245 l 1,69,-1
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Oriya lookup 78 subtable" U0B15_U0B4D_U0B37.blwf.abvs U0B4D
 LCarets2: 1 0 
-Ligature2: "'half' Half Forms in Oriya lookup 86-1" U0B15_U0B4D_U0B37.blwf.abvs U0B4D
 EndChar
 
-StartChar: U0B15_U0B4D_U0B30.blwf.abvs
+StartChar: kaodia_viramasignodia_raodia
 Encoding: 65733 -1 290
 Width: 751
 GlyphClass: 2
@@ -19689,10 +18818,9 @@ SplineSet
  271 133 l 1,61,62
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B15 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B16_U0B4D_U0B30.blwf.abvs
+StartChar: khaodia_viramasignodia_raodia
 Encoding: 65734 -1 291
 Width: 758
 GlyphClass: 2
@@ -19751,10 +18879,9 @@ SplineSet
  338 52 l 1,53,54
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B16 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B17_U0B4D_U0B30.blwf.abvs
+StartChar: gaodia_viramasignodia_raodia
 Encoding: 65735 -1 292
 Width: 774
 GlyphClass: 2
@@ -19805,10 +18932,9 @@ SplineSet
  352 52 l 1,41,42
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B17 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B18_U0B4D_U0B30.blwf.abvs
+StartChar: ghaodia_viramasignodia_raodia
 Encoding: 65736 -1 293
 Width: 760
 GlyphClass: 2
@@ -19868,10 +18994,9 @@ SplineSet
  265 52 l 1,32,33
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B18 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B19_U0B4D_U0B30.blwf.abvs
+StartChar: ngaodia_viramasignodia_raodia
 Encoding: 65737 -1 294
 Width: 796
 GlyphClass: 2
@@ -19947,10 +19072,9 @@ SplineSet
  135 -223 l 1,80,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B19 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B1A_U0B4D_U0B30.blwf.abvs
+StartChar: caodia_viramasignodia_raodia
 Encoding: 65738 -1 295
 Width: 735
 GlyphClass: 2
@@ -20007,10 +19131,9 @@ SplineSet
  117 -223 l 1,54,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1A U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B1B_U0B4D_U0B30.blwf.abvs
+StartChar: chaodia_viramasignodia_raodia
 Encoding: 65739 -1 296
 Width: 705
 GlyphClass: 2
@@ -20104,10 +19227,9 @@ SplineSet
  123 -223 l 1,105,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1B U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B1C_U0B4D_U0B30.blwf.abvs
+StartChar: jaodia_viramasignodia_raodia
 Encoding: 65740 -1 297
 Width: 754
 GlyphClass: 2
@@ -20179,10 +19301,9 @@ SplineSet
  306 52 l 1,64,65
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1C U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B1D_U0B4D_U0B30.blwf.abvs
+StartChar: jhaodia_viramasignodia_raodia
 Encoding: 65741 -1 298
 Width: 763
 GlyphClass: 2
@@ -20250,10 +19371,9 @@ SplineSet
  355 52 l 1,63,64
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1D U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B1E_U0B4D_U0B30.blwf.abvs
+StartChar: nyaodia_viramasignodia_raodia
 Encoding: 65742 -1 299
 Width: 718
 GlyphClass: 2
@@ -20346,10 +19466,9 @@ SplineSet
  96 -223 l 1,104,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1E U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B1F_U0B4D_U0B30.blwf.abvs
+StartChar: ttaodia_viramasignodia_raodia
 Encoding: 65743 -1 300
 Width: 713
 GlyphClass: 2
@@ -20406,10 +19525,9 @@ SplineSet
  136 -223 l 1,52,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B1F U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B20_U0B4D_U0B30.blwf.abvs
+StartChar: tthaodia_viramasignodia_raodia
 Encoding: 65744 -1 301
 Width: 757
 GlyphClass: 2
@@ -20447,10 +19565,9 @@ SplineSet
  106 -223 l 1,26,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B20 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B21_U0B4D_U0B30.blwf.abvs
+StartChar: ddaodia_viramasignodia_raodia
 Encoding: 65745 -1 302
 Width: 741
 GlyphClass: 2
@@ -20511,10 +19628,9 @@ SplineSet
  100 -223 l 1,59,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B21 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B22_U0B4D_U0B30.blwf.abvs
+StartChar: ddhaodia_viramasignodia_raodia
 Encoding: 65746 -1 303
 Width: 755
 GlyphClass: 2
@@ -20587,10 +19703,9 @@ SplineSet
  162 -223 l 1,76,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B22 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B23_U0B4D_U0B30.blwf.abvs
+StartChar: nnaodia_viramasignodia_raodia
 Encoding: 65747 -1 304
 Width: 761
 GlyphClass: 2
@@ -20648,10 +19763,9 @@ SplineSet
  348 52 l 1,51,52
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B23 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B24_U0B4D_U0B30.blwf.abvs
+StartChar: taodia_viramasignodia_raodia
 Encoding: 65748 -1 305
 Width: 724
 GlyphClass: 2
@@ -20713,10 +19827,9 @@ SplineSet
  96 -223 l 1,63,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B24 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B25_U0B4D_U0B30.blwf.abvs
+StartChar: thaodia_viramasignodia_raodia
 Encoding: 65749 -1 306
 Width: 715
 GlyphClass: 2
@@ -20767,10 +19880,9 @@ SplineSet
  304 -14 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B25 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B26_U0B4D_U0B30.blwf.abvs
+StartChar: daodia_viramasignodia_raodia
 Encoding: 65750 -1 307
 Width: 744
 GlyphClass: 2
@@ -20821,10 +19933,9 @@ SplineSet
  181 223 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B26 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B27_U0B4D_U0B30.blwf.abvs
+StartChar: dhaodia_viramasignodia_raodia
 Encoding: 65751 -1 308
 Width: 757
 GlyphClass: 2
@@ -20860,10 +19971,9 @@ SplineSet
  336 -14 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B27 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B28_U0B4D_U0B30.blwf.abvs
+StartChar: naodia_viramasignodia_raodia
 Encoding: 65752 -1 309
 Width: 729
 GlyphClass: 2
@@ -20912,10 +20022,9 @@ SplineSet
  149 126 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B28 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2A_U0B4D_U0B30.blwf.abvs
+StartChar: paodia_viramasignodia_raodia
 Encoding: 65753 -1 310
 Width: 773
 GlyphClass: 2
@@ -20964,10 +20073,9 @@ SplineSet
  389 52 l 1,26,27
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2A U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2B_U0B4D_U0B30.blwf.abvs
+StartChar: phaodia_viramasignodia_raodia
 Encoding: 65754 -1 311
 Width: 866
 GlyphClass: 2
@@ -21035,10 +20143,9 @@ SplineSet
  729 542 l 1,63,64
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2B U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2C_U0B4D_U0B30.blwf.abvs
+StartChar: baodia_viramasignodia_raodia
 Encoding: 65755 -1 312
 Width: 747
 GlyphClass: 2
@@ -21092,10 +20199,9 @@ SplineSet
  364 133 l 1,46,47
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2C U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2D_U0B4D_U0B30.blwf.abvs
+StartChar: bhaodia_viramasignodia_raodia
 Encoding: 65756 -1 313
 Width: 787
 GlyphClass: 2
@@ -21165,10 +20271,9 @@ SplineSet
  155 -223 l 1,72,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2D U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2E_U0B4D_U0B30.blwf.abvs
+StartChar: maodia_viramasignodia_raodia
 Encoding: 65757 -1 314
 Width: 758
 GlyphClass: 2
@@ -21212,10 +20317,9 @@ SplineSet
  219 -14 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2E U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B2F_U0B4D_U0B30.blwf.abvs
+StartChar: yaodia_viramasignodia_raodia
 Encoding: 65758 -1 315
 Width: 784
 GlyphClass: 2
@@ -21274,10 +20378,9 @@ SplineSet
  429 52 l 1,41,42
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2F U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B30_U0B4D_U0B30.blwf.abvs
+StartChar: raodia_viramasignodia_raodia
 Encoding: 65759 -1 316
 Width: 760
 GlyphClass: 2
@@ -21336,10 +20439,9 @@ SplineSet
  148 -223 l 1,56,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B30 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B32_U0B4D_U0B30.blwf.abvs
+StartChar: laodia_viramasignodia_raodia
 Encoding: 65760 -1 317
 Width: 783
 GlyphClass: 2
@@ -21397,10 +20499,9 @@ SplineSet
  145 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B32 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B33_U0B4D_U0B30.blwf.abvs
+StartChar: llaodia_viramasignodia_raodia
 Encoding: 65761 -1 318
 Width: 751
 GlyphClass: 2
@@ -21456,10 +20557,9 @@ SplineSet
  187 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B33 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B35_U0B4D_U0B30.blwf.abvs
+StartChar: vaodia_viramasignodia_raodia
 Encoding: 65762 -1 319
 Width: 732
 GlyphClass: 2
@@ -21523,10 +20623,9 @@ SplineSet
  306 229 l 1,59,60
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B35 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B36_U0B4D_U0B30.blwf.abvs
+StartChar: shaodia_viramasignodia_raodia
 Encoding: 65763 -1 320
 Width: 739
 GlyphClass: 2
@@ -21590,10 +20689,9 @@ SplineSet
  336 52 l 1,60,61
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B36 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B37_U0B4D_U0B30.blwf.abvs
+StartChar: ssaodia_viramasignodia_raodia
 Encoding: 65764 -1 321
 Width: 755
 GlyphClass: 2
@@ -21651,10 +20749,9 @@ SplineSet
  594 238 l 1,49,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B37 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B38_U0B4D_U0B30.blwf.abvs
+StartChar: saodia_viramasignodia_raodia
 Encoding: 65765 -1 322
 Width: 744
 GlyphClass: 2
@@ -21699,10 +20796,9 @@ SplineSet
  581 71 l 1,24,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B38 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B39_U0B4D_U0B30.blwf.abvs
+StartChar: haodia_viramasignodia_raodia
 Encoding: 65766 -1 323
 Width: 692
 GlyphClass: 2
@@ -21765,10 +20861,9 @@ SplineSet
  570 -26 l 1,7,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B39 U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B5C_U0B4D_U0B30.blwf.abvs
+StartChar: rraodia_viramasignodia_raodia
 Encoding: 65767 -1 324
 Width: 750
 GlyphClass: 2
@@ -21840,10 +20935,9 @@ SplineSet
  132 -312 l 1,74,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B5C U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B5D_U0B4D_U0B30.blwf.abvs
+StartChar: rhaodia_viramasignodia_raodia
 Encoding: 65768 -1 325
 Width: 751
 GlyphClass: 2
@@ -21926,10 +21020,9 @@ SplineSet
  119 -267 l 1,89,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B5D U0B4D_U0B30.blwf
 EndChar
 
-StartChar: U0B5F_U0B4D_U0B30.blwf.abvs
+StartChar: yyaodia_viramasignodia_raodia
 Encoding: 65769 -1 326
 Width: 782
 GlyphClass: 2
@@ -22007,7 +21100,6 @@ SplineSet
  112 -223 l 1,81,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B5F U0B4D_U0B30.blwf
 EndChar
 
 StartChar: glyph323
@@ -22148,7 +21240,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B4D_U0B15.blwf
+StartChar: viramasignodia_kaodia
 Encoding: 65772 -1 329
 Width: 0
 GlyphClass: 2
@@ -22192,11 +21284,9 @@ SplineSet
  -188 -112 l 1,31,32
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B15.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B15 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B16.blwf
+StartChar: viramasignodia_khaodia
 Encoding: 65773 -1 330
 Width: 0
 GlyphClass: 2
@@ -22253,11 +21343,9 @@ SplineSet
  -297 -229 l 1,51,52
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B16.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B16 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B17.blwf
+StartChar: viramasignodia_gaodia
 Encoding: 65774 -1 331
 Width: 0
 GlyphClass: 2
@@ -22306,11 +21394,9 @@ SplineSet
  -278 -294 l 1,13,14
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B17.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B17 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B18.blwf
+StartChar: viramasignodia_ghaodia
 Encoding: 65775 -1 332
 Width: 0
 GlyphClass: 2
@@ -22364,11 +21450,9 @@ SplineSet
  -159 -75 l 1,30,31
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B18.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B18 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B19.blwf
+StartChar: viramasignodia_ngaodia
 Encoding: 65776 -1 333
 Width: 0
 GlyphClass: 2
@@ -22435,11 +21519,9 @@ SplineSet
  25 -87 l 1,65,66
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B19.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B19 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B1A.blwf
+StartChar: viramasignodia_caodia
 Encoding: 65777 -1 334
 Width: 0
 GlyphClass: 2
@@ -22488,11 +21570,9 @@ SplineSet
  -121 -290 l 1,13,14
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B1A.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B1A U0B4D
 EndChar
 
-StartChar: U0B4D_U0B1B.blwf
+StartChar: viramasignodia_chaodia
 Encoding: 65778 -1 335
 Width: 0
 GlyphClass: 2
@@ -22576,11 +21656,9 @@ SplineSet
  -62 -323 l 1,89,90
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B1B.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B1B U0B4D
 EndChar
 
-StartChar: U0B4D_U0B1C.blwf
+StartChar: viramasignodia_jaodia
 Encoding: 65779 -1 336
 Width: 0
 GlyphClass: 2
@@ -22620,11 +21698,9 @@ SplineSet
  -336 -193 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B1C.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B1C U0B4D
 EndChar
 
-StartChar: U0B4D_U0B1D.blwf
+StartChar: viramasignodia_jhaodia
 Encoding: 65780 -1 337
 Width: 0
 GlyphClass: 2
@@ -22681,8 +21757,6 @@ SplineSet
  -158 -235 l 1,50,51
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B1D.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B1D U0B4D
 EndChar
 
 StartChar: glyph334
@@ -22772,7 +21846,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B4D_U0B1F.blwf
+StartChar: viramasignodia_ttaodia
 Encoding: 65782 -1 339
 Width: 0
 GlyphClass: 2
@@ -22820,11 +21894,9 @@ SplineSet
  -118 -290 l 1,13,14
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B1F.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B1F U0B4D
 EndChar
 
-StartChar: U0B4D_U0B20.blwf
+StartChar: viramasignodia_tthaodia
 Encoding: 65783 -1 340
 Width: 0
 GlyphClass: 2
@@ -22854,11 +21926,9 @@ SplineSet
  -117 -157 l 1,13,14
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B20.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B20 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B21.blwf
+StartChar: viramasignodia_ddaodia
 Encoding: 65784 -1 341
 Width: 0
 GlyphClass: 2
@@ -22909,11 +21979,9 @@ SplineSet
  -138 -287 l 1,0,1
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B21.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B21 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B22.blwf
+StartChar: viramasignodia_ddhaodia
 Encoding: 65785 -1 342
 Width: 0
 GlyphClass: 2
@@ -22950,11 +22018,9 @@ SplineSet
  -136 -130 l 1,19,20
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B22.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B22 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B23.blwf
+StartChar: viramasignodia_nnaodia
 Encoding: 65786 -1 343
 Width: 0
 GlyphClass: 2
@@ -23006,11 +22072,9 @@ SplineSet
  -323 -244 l 1,43,44
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B23.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B23 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B24.blwf
+StartChar: viramasignodia_taodia
 Encoding: 65787 -1 344
 Width: 0
 GlyphClass: 2
@@ -23047,11 +22111,9 @@ SplineSet
  -123 -141 l 1,23,24
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B24.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B24 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B25.blwf
+StartChar: viramasignodia_thaodia
 Encoding: 65788 -1 345
 Width: 0
 GlyphClass: 2
@@ -23102,11 +22164,9 @@ SplineSet
  12 -142 l 1,41,42
 EndSplineSet
 Validated: 37
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B25.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B25 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B26.blwf
+StartChar: viramasignodia_daodia
 Encoding: 65789 -1 346
 Width: 0
 GlyphClass: 2
@@ -23151,11 +22211,9 @@ SplineSet
  -220 -270 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B26.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B26 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B27.blwf
+StartChar: viramasignodia_dhaodia
 Encoding: 65790 -1 347
 Width: 0
 GlyphClass: 2
@@ -23189,11 +22247,9 @@ SplineSet
  -337 -252 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B27.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B27 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B28.blwf
+StartChar: viramasignodia_naodia
 Encoding: 65791 -1 348
 Width: 0
 GlyphClass: 2
@@ -23219,11 +22275,9 @@ SplineSet
  -265 -125 l 1,0,1
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B28.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B28 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B2A.blwf
+StartChar: viramasignodia_paodia
 Encoding: 65792 -1 349
 Width: 0
 GlyphClass: 2
@@ -23270,11 +22324,9 @@ SplineSet
  -295 -191 l 1,24,25
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B2A.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B2A U0B4D
 EndChar
 
-StartChar: U0B4D_U0B2B.blwf
+StartChar: viramasignodia_phaodia
 Encoding: 65793 -1 350
 Width: 0
 GlyphClass: 2
@@ -23340,11 +22392,9 @@ SplineSet
  -205 -191 l 1,50,51
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B2B.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B2B U0B4D
 EndChar
 
-StartChar: U0B4D_U0B2C.blwf
+StartChar: viramasignodia_baodia
 Encoding: 65794 -1 351
 Width: 0
 GlyphClass: 2
@@ -23374,11 +22424,9 @@ SplineSet
  -390 -20 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B2C.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B2C U0B4D
 EndChar
 
-StartChar: U0B4D_U0B2D.blwf
+StartChar: viramasignodia_bhaodia
 Encoding: 65795 -1 352
 Width: 0
 GlyphClass: 2
@@ -23440,11 +22488,9 @@ SplineSet
  -200 -353 l 2,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B2D.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B2D U0B4D
 EndChar
 
-StartChar: U0B4D_U0B2E.blwf
+StartChar: viramasignodia_maodia
 Encoding: 65796 -1 353
 Width: 0
 GlyphClass: 2
@@ -23484,11 +22530,9 @@ SplineSet
  -348 -164 l 1,25,26
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B2E.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B2E U0B4D
 EndChar
 
-StartChar: U0B4D_U0B2F.blwf
+StartChar: viramasignodia_yaodia
 Encoding: 65797 -1 354
 Width: 426
 GlyphClass: 2
@@ -23516,11 +22560,9 @@ SplineSet
  267 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pstf' Post Base Forms in Oriya lookup 80 subtable" U0B2F U0B4D
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B2F.blwf
 EndChar
 
-StartChar: U0B4D_U0B30.blwf
+StartChar: viramasignodia_raodia
 Encoding: 65798 -1 355
 Width: 0
 GlyphClass: 2
@@ -23538,11 +22580,9 @@ SplineSet
  -620 -223 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B30.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B30 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B32.blwf
+StartChar: viramasignodia_laodia
 Encoding: 65799 -1 356
 Width: 0
 GlyphClass: 2
@@ -23581,11 +22621,9 @@ SplineSet
  -353 -213 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B32.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B32 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B33.blwf
+StartChar: viramasignodia_llaodia
 Encoding: 65800 -1 357
 Width: 0
 GlyphClass: 2
@@ -23622,11 +22660,9 @@ SplineSet
  68 -41 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B33.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B33 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B35.blwf
+StartChar: viramasignodia_vaodia
 Encoding: 65801 -1 358
 Width: 0
 GlyphClass: 2
@@ -23664,11 +22700,9 @@ SplineSet
  -390 -77 -390 -77 -390 -20 c 0,8,9
 EndSplineSet
 Validated: 1
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B35.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B35 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B36.blwf
+StartChar: viramasignodia_shaodia
 Encoding: 65802 -1 359
 Width: 0
 GlyphClass: 2
@@ -23725,11 +22759,9 @@ SplineSet
  -331 -238 l 1,50,51
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B36.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B36 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B37.blwf
+StartChar: viramasignodia_ssaodia
 Encoding: 65803 -1 360
 Width: 0
 GlyphClass: 2
@@ -23785,11 +22817,9 @@ SplineSet
  -159 -157 l 1,47,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B37.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B37 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B38.blwf
+StartChar: viramasignodia_saodia
 Encoding: 65804 -1 361
 Width: 0
 GlyphClass: 2
@@ -23824,11 +22854,9 @@ SplineSet
  -159 -233 l 1,16,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B38.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B38 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B39.blwf
+StartChar: viramasignodia_haodia
 Encoding: 65805 -1 362
 Width: 0
 GlyphClass: 2
@@ -23883,11 +22911,9 @@ SplineSet
  41 -354 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution lookup 82 subtable" U0B4D_U0B39.blwf
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B39 U0B4D
 EndChar
 
-StartChar: U0B4D_U0B71.blwf
+StartChar: viramasignodia_waodia
 Encoding: 65806 -1 363
 Width: 0
 GlyphClass: 2
@@ -23917,7 +22943,6 @@ SplineSet
  -390 -20 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 2 subtable" U0B71 U0B4D
 EndChar
 
 StartChar: glyph360
@@ -23952,7 +22977,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B4D_U0B5F.pstf
+StartChar: viramasignodia_yyaodia
 Encoding: 65808 -1 365
 Width: 426
 GlyphClass: 4
@@ -23980,7 +23005,6 @@ SplineSet
  267 0 l 1,0,-1
 EndSplineSet
 Validated: 5
-Ligature2: "'pstf' Post Base Forms in Oriya lookup 80 subtable" U0B5F U0B4D
 EndChar
 
 StartChar: glyph362
@@ -24047,7 +23071,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0B2C_U0B4D_U0B2C.blwf.abvs
+StartChar: baodia_viramasignodia_baodia
 Encoding: 65811 -1 368
 Width: 702
 GlyphClass: 4
@@ -24117,7 +23141,6 @@ SplineSet
  235 126 l 1,69,70
 EndSplineSet
 Validated: 5
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 0 subtable" U0B2C U0B4D_U0B2C.blwf
 EndChar
 
 StartChar: glyph365
@@ -26510,7 +25533,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: uni0B44
+StartChar: vocalicrrsignodia
 Encoding: 2884 2884 421
 Width: 0
 Flags: W
@@ -26549,7 +25572,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0B62
+StartChar: vocaliclsignodia
 Encoding: 2914 2914 422
 Width: 639
 Flags: W
@@ -26591,7 +25614,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: uni0B63
+StartChar: vocalicllsignodia
 Encoding: 2915 2915 423
 Width: 639
 Flags: W
@@ -26638,7 +25661,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni20B9
+StartChar: rupeeodia
 Encoding: 8377 8377 424
 Width: 629
 VWidth: 0
@@ -26671,7 +25694,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B72
+StartChar: fractiononequarterodia
 Encoding: 2930 2930 425
 Width: 246
 Flags: W
@@ -26687,7 +25710,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B73
+StartChar: fractiononehalfodia
 Encoding: 2931 2931 426
 Width: 485
 Flags: W
@@ -26713,7 +25736,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B74
+StartChar: fractionthreequarterodia
 Encoding: 2932 2932 427
 Width: 775
 Flags: W
@@ -26753,7 +25776,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B75
+StartChar: fractiononesixteenthodia
 Encoding: 2933 2933 428
 Width: 551
 Flags: W
@@ -26770,7 +25793,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B76
+StartChar: fractiononeeigthodia
 Encoding: 2934 2934 429
 Width: 751
 Flags: W
@@ -26814,7 +25837,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0B77
+StartChar: fractionthreesixteenthodia
 Encoding: 2935 2935 430
 Width: 935
 Flags: W
