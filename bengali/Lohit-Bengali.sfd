@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1411645530
+ModificationTime: 1411714016
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -366,7 +366,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 32 11
+WinInfo: 128 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-1"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-2"  "'blwm' Below Base Mark in Bengali lookup 0" 
@@ -16956,7 +16956,7 @@ SplineSet
  147 55 147 55 164 55 c 1,101,-1
  164 55 l 1,91,92
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng viramabeng chabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng_viramabeng chabeng_viramabeng_rabeng
 EndChar
 
 StartChar: ca_virama_cha_virama_ba
@@ -43672,7 +43672,7 @@ SplineSet
  507 72 l 1,85,-1
 EndSplineSet
 LCarets2: 2 0 0 
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng dhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng dhabeng
 EndChar
 
 StartChar: gandamarkbeng
