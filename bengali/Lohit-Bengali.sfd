@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1411983161
+ModificationTime: 1411985683
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -30486,7 +30486,7 @@ SplineSet
  586 75 l 1,37,-1
 EndSplineSet
 Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln babeng
-Ligature2: "blwsBelowBaseSubstitutionslooku subtable" babeng babeng viramabeng
+Ligature2: "blwsBelowBaseSubstitutionslooku subtable" babeng babeng_viramabeng
 EndChar
 
 StartChar: babeng_viramabeng_bhabeng
