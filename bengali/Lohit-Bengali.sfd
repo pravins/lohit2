@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1411969345
+ModificationTime: 1411983161
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -11718,7 +11718,7 @@ SplineSet
  151 252 151 252 170 230 c 1,73,-1
  170 230 l 1,63,64
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng kabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng kabeng
 EndChar
 
 StartChar: kabeng_viramabeng_ttabeng
@@ -11845,7 +11845,7 @@ SplineSet
  204 250 204 250 223 210 c 1,94,-1
  223 210 l 1,84,85
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng ttabeng
 EndChar
 
 StartChar: kabeng_viramabeng_tabeng
@@ -11959,7 +11959,7 @@ SplineSet
  -10 465 l 1,90,-1
  -10 465 l 1,86,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng tabeng
 EndChar
 
 StartChar: ka_virama_ta_virama_ra
@@ -12279,7 +12279,7 @@ SplineSet
  265 184 265 184 303 130 c 1,59,-1
  303 130 l 1,52,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng nabeng
 EndChar
 
 StartChar: kabeng_viramabeng_mabeng
@@ -12342,7 +12342,7 @@ SplineSet
  199 239 199 239 223 205 c 1,61,-1
  223 205 l 1,54,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng mabeng
 EndChar
 
 StartChar: kabeng_viramabeng_rabeng
@@ -12575,7 +12575,7 @@ SplineSet
  312 183 312 183 342 130 c 1,85,-1
  342 130 l 1,78,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng labeng
 EndChar
 
 StartChar: kabeng_viramabeng_babeng
@@ -13383,7 +13383,7 @@ SplineSet
  191 231 191 231 215 190 c 1,72,-1
  215 190 l 1,65,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng sabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng sabeng
 EndChar
 
 StartChar: khabeng_viramabeng_rabeng
@@ -13831,7 +13831,7 @@ SplineSet
  304 560 l 1,78,-1
  304 560 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng viramabeng gabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng_viramabeng gabeng
 EndChar
 
 StartChar: gabeng_viramabeng_dabeng
@@ -13923,7 +13923,7 @@ SplineSet
  580 0 l 1,61,-1
  580 0 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng viramabeng dabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng_viramabeng dabeng
 EndChar
 
 StartChar: gabeng_viramabeng_dhabeng
@@ -14041,7 +14041,7 @@ SplineSet
  305 51 305 51 330 15 c 1,84,-1
  330 15 l 1,77,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng viramabeng dhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng_viramabeng dhabeng
 EndChar
 
 StartChar: ga_virama_dha_ba_virama
@@ -14365,7 +14365,7 @@ SplineSet
  37 363 37 363 37 380 c 1,61,-1
  37 380 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng_viramabeng nabeng
 EndChar
 
 StartChar: gabeng_viramabeng_mabeng
@@ -14468,7 +14468,7 @@ SplineSet
  487 108 487 108 509 70 c 1,63,-1
  509 70 l 1,57,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng_viramabeng mabeng
 EndChar
 
 StartChar: gabeng_viramabeng_rabeng
@@ -14933,7 +14933,7 @@ SplineSet
  369 0 l 1,84,-1
  369 0 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" gabeng_viramabeng labeng
 EndChar
 
 StartChar: gabeng_babeng_viramabeng
@@ -15116,7 +15116,7 @@ SplineSet
  317 194 317 194 367 135 c 1,52,-1
  367 135 l 1,38,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ghabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ghabeng_viramabeng nabeng
 EndChar
 
 StartChar: ghabeng_viramabeng_rabeng
@@ -15406,7 +15406,7 @@ SplineSet
  302 400 302 400 330 400 c 1,76,-1
  330 400 l 1,69,70
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng viramabeng kabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng_viramabeng kabeng
 EndChar
 
 StartChar: nga_virama_ka_virama_ra
@@ -16008,7 +16008,7 @@ SplineSet
  -10 465 l 1,103,-1
  -10 465 l 1,99,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng viramabeng khabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng_viramabeng khabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_gabeng
@@ -16113,7 +16113,7 @@ SplineSet
  331 400 331 400 358 400 c 1,82,-1
  358 400 l 1,75,76
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng viramabeng gabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng_viramabeng gabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_ghabeng
@@ -16249,7 +16249,7 @@ SplineSet
  731 115 731 115 762 70 c 1,107,-1
  762 70 l 1,90,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng viramabeng ghabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng_viramabeng ghabeng
 EndChar
 
 StartChar: nga_virama_gha_virama_ra
@@ -16513,7 +16513,7 @@ SplineSet
  357 400 357 400 380 400 c 1,96,-1
  380 400 l 1,86,87
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ngabeng_viramabeng mabeng
 EndChar
 
 StartChar: ngabeng_viramabeng_rabeng
@@ -16726,7 +16726,7 @@ SplineSet
  263 311 263 311 297 295 c 1,54,-1
  297 295 l 1,49,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng viramabeng cabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng_viramabeng cabeng
 EndChar
 
 StartChar: cabeng_viramabeng_chabeng
@@ -17230,7 +17230,7 @@ SplineSet
  120 180 120 180 134 180 c 1,122,-1
  134 180 l 1,112,113
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng viramabeng nyabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng_viramabeng nyabeng
 EndChar
 
 StartChar: cabeng_viramabeng_nabeng
@@ -17329,7 +17329,7 @@ SplineSet
  120 164 l 1,57,-1
  120 164 l 1,44,45
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" cabeng_viramabeng nabeng
 EndChar
 
 StartChar: cabeng_viramabeng_rabeng
@@ -17620,7 +17620,7 @@ SplineSet
  164 220 164 220 176 220 c 1,85,-1
  176 220 l 1,77,78
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" chabeng viramabeng rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" chabeng_viramabeng rabeng
 Ligature2: "vatuVattuVariantslookup8 subtable" chabeng glyph437
 EndChar
 
@@ -18102,7 +18102,7 @@ SplineSet
  567 0 567 0 592 -30 c 1,78,-1
  592 -30 l 1,69,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" jabeng viramabeng jhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" jabeng_viramabeng jhabeng
 EndChar
 
 StartChar: jabeng_viramabeng_nyabeng
@@ -18222,7 +18222,7 @@ SplineSet
  257 260 257 260 286 260 c 1,94,-1
  286 260 l 1,84,85
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" jabeng viramabeng nyabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" jabeng_viramabeng nyabeng
 Ligature2: "akhnAkhandlookup2 subtable" jabeng viramabeng nyabeng
 EndChar
 
@@ -18674,7 +18674,7 @@ SplineSet
  461 120 461 120 502 120 c 1,91,-1
  502 120 l 1,60,61
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng viramabeng cabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng_viramabeng cabeng
 EndChar
 
 StartChar: nya_virama_ca_virama_ba
@@ -18956,7 +18956,7 @@ SplineSet
  394 220 394 220 428 220 c 1,122,-1
  428 220 l 1,92,93
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng viramabeng chabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng_viramabeng chabeng
 EndChar
 
 StartChar: nyabeng_viramabeng_jabeng
@@ -19104,7 +19104,7 @@ SplineSet
  444 250 444 250 482 250 c 1,139,-1
  482 250 l 1,106,107
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng viramabeng jabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng_viramabeng jabeng
 EndChar
 
 StartChar: nyabeng_viramabeng_jhabeng
@@ -19254,7 +19254,7 @@ SplineSet
  456 240 456 240 482 240 c 1,128,-1
  482 240 l 1,98,99
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng viramabeng jhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng_viramabeng jhabeng
 EndChar
 
 StartChar: nyabeng_viramabeng_dhabeng
@@ -19391,7 +19391,7 @@ SplineSet
  359 245 359 245 385 245 c 1,111,-1
  385 245 l 1,81,82
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng viramabeng dhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nyabeng_viramabeng dhabeng
 EndChar
 
 StartChar: ttabeng_viramabeng_ttabeng
@@ -19504,7 +19504,7 @@ SplineSet
  325 -80 325 -80 261 -80 c 1,76,-1
  261 -80 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ttabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ttabeng_viramabeng ttabeng
 EndChar
 
 StartChar: tta_virama_ta_virama_ra
@@ -19748,7 +19748,7 @@ SplineSet
  489 465 l 1,89,-1
  489 465 l 1,62,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ttabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ttabeng_viramabeng mabeng
 EndChar
 
 StartChar: ttabeng_viramabeng_rabeng
@@ -20206,7 +20206,7 @@ SplineSet
  852 0 l 1,82,-1
  852 0 l 1,39,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng viramabeng gabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng_viramabeng gabeng
 EndChar
 
 StartChar: ddabeng_viramabeng_ddabeng
@@ -20319,7 +20319,7 @@ SplineSet
  594 50 594 50 661 50 c 1,84,-1
  661 50 l 1,51,52
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng viramabeng ddabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng_viramabeng ddabeng
 EndChar
 
 StartChar: ddabeng_viramabeng_mabeng
@@ -20413,7 +20413,7 @@ SplineSet
  625 465 l 1,65,-1
  625 465 l 1,47,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng_viramabeng mabeng
 EndChar
 
 StartChar: ddabeng_viramabeng_rabeng
@@ -20814,7 +20814,7 @@ SplineSet
  303 500 l 1,90,-1
  303 500 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng_viramabeng ttabeng
 EndChar
 
 StartChar: nna_virama_tta_virama_ra
@@ -21064,7 +21064,7 @@ SplineSet
  255 60 255 60 305 60 c 1,78,-1
  305 60 l 1,63,64
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng viramabeng tthabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng_viramabeng tthabeng
 EndChar
 
 StartChar: nna_virama_ttha_virama_ra
@@ -21298,7 +21298,7 @@ SplineSet
  468 -10 468 -10 389 -10 c 1,76,-1
  389 -10 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng viramabeng ddabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng_viramabeng ddabeng
 EndChar
 
 StartChar: nna_virama_dda_virama_ra
@@ -21506,7 +21506,7 @@ SplineSet
  304 500 l 1,57,-1
  304 500 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng viramabeng ddhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng_viramabeng ddhabeng
 EndChar
 
 StartChar: nna_virama_ddha_virama_ra
@@ -21724,7 +21724,7 @@ SplineSet
  346 560 l 1,63,-1
  346 560 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng viramabeng nnabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng_viramabeng nnabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_mabeng
@@ -21825,7 +21825,7 @@ SplineSet
  468 107 468 107 494 70 c 1,56,-1
  494 70 l 1,50,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nnabeng_viramabeng mabeng
 EndChar
 
 StartChar: nnabeng_viramabeng_rabeng
@@ -22107,7 +22107,7 @@ SplineSet
  -10 465 l 1,63,-1
  -10 465 l 1,59,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng_viramabeng tabeng
 EndChar
 
 StartChar: ta_virama_ta_virama_ba
@@ -22217,7 +22217,7 @@ SplineSet
  -10 465 l 1,80,-1
  -10 465 l 1,76,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng viramabeng tabeng babeng_viramabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng_viramabeng tabeng babeng_viramabeng
 EndChar
 
 StartChar: tabeng_viramabeng_thabeng
@@ -22315,7 +22315,7 @@ SplineSet
  19 383 19 383 19 419 c 1,66,-1
  19 419 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng viramabeng thabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng_viramabeng thabeng
 EndChar
 
 StartChar: tabeng_viramabeng_nabeng
@@ -22414,7 +22414,7 @@ SplineSet
  -10 465 l 1,63,-1
  -10 465 l 1,59,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng_viramabeng nabeng
 EndChar
 
 StartChar: tabeng_viramabeng_mabeng
@@ -22509,7 +22509,7 @@ SplineSet
  611 0 l 1,65,-1
  611 0 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng_viramabeng mabeng
 EndChar
 
 StartChar: tabeng_viramabeng_rabeng
@@ -22934,7 +22934,7 @@ SplineSet
  -22 465 l 1,89,-1
  -22 465 l 1,85,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" tabeng_viramabeng labeng
 EndChar
 
 StartChar: tabeng_viramabeng_babeng
@@ -23607,7 +23607,7 @@ SplineSet
  293 -10 l 1,72,-1
  293 -10 l 1,44,45
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng gabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng gabeng
 EndChar
 
 StartChar: dabeng_viramabeng_ghabeng
@@ -23704,7 +23704,7 @@ SplineSet
  608 114 608 114 653 50 c 1,57,-1
  653 50 l 1,43,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng ghabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng ghabeng
 EndChar
 
 StartChar: dabeng_viramabeng_dabeng
@@ -23779,7 +23779,7 @@ SplineSet
  488 -15 l 1,39,-1
  488 -15 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng dabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng dabeng
 EndChar
 
 StartChar: da_virama_da_virama_ra
@@ -23963,7 +23963,7 @@ SplineSet
  460 -36 460 -36 495 -65 c 1,56,-1
  495 -65 l 1,47,48
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng dabeng babeng_viramabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng dabeng babeng_viramabeng
 EndChar
 
 StartChar: dabeng_viramabeng_dhabeng
@@ -24059,7 +24059,7 @@ SplineSet
  292 73 292 73 315 40 c 1,59,-1
  315 40 l 1,52,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng dhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng dhabeng
 EndChar
 
 StartChar: da_virama_dha_virama_ba
@@ -24167,7 +24167,7 @@ SplineSet
  327 140 327 140 345 115 c 1,73,-1
  345 115 l 1,66,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng dhabeng babeng_viramabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng dhabeng babeng_viramabeng
 EndChar
 
 StartChar: dabeng_viramabeng_nabeng
@@ -24246,7 +24246,7 @@ SplineSet
  363 -5 l 1,46,-1
  363 -5 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng mabeng
 EndChar
 
 StartChar: dabeng_viramabeng_bhabeng
@@ -24349,7 +24349,7 @@ SplineSet
  422 -60 422 -60 343 -60 c 1,71,-1
  343 -60 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng bhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng bhabeng
 EndChar
 
 StartChar: da_virama_bha_virama_ra
@@ -24541,7 +24541,7 @@ SplineSet
  392 80 392 80 406 60 c 1,47,-1
  406 60 l 1,31,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dabeng_viramabeng mabeng
 EndChar
 
 StartChar: dabeng_viramabeng_rabeng
@@ -25029,7 +25029,7 @@ SplineSet
  259 166 259 166 300 125 c 1,61,-1
  300 125 l 1,56,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dhabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dhabeng_viramabeng nabeng
 EndChar
 
 StartChar: dhabeng_viramabeng_mabeng
@@ -25140,7 +25140,7 @@ SplineSet
  251 355 l 1,58,-1
  251 355 l 1,53,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" dhabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" dhabeng_viramabeng mabeng
 EndChar
 
 StartChar: dhabeng_viramabeng_rabeng
@@ -25713,7 +25713,7 @@ SplineSet
  430 25 430 25 367 25 c 1,79,-1
  367 25 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng ttabeng
 EndChar
 
 StartChar: na_virama_tta_virama_ra
@@ -25955,7 +25955,7 @@ SplineSet
  227 60 227 60 278 60 c 1,68,-1
  278 60 l 1,56,57
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng tthabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng tthabeng
 EndChar
 
 StartChar: nabeng_viramabeng_ddabeng
@@ -26047,7 +26047,7 @@ SplineSet
  435 -10 435 -10 340 -10 c 1,56,-1
  340 -10 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng ddabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng ddabeng
 EndChar
 
 StartChar: na_viramag_dda_virama_ra
@@ -26383,7 +26383,7 @@ SplineSet
  371 -10 371 -10 290 -10 c 1,75,-1
  290 -10 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng tabeng
 EndChar
 
 StartChar: na_virama_ta_uvowel
@@ -26609,7 +26609,7 @@ SplineSet
  -10 465 l 1,89,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng tabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng tabeng_viramabeng_rabeng
 EndChar
 
 StartChar: na_virama_ta_virama_ba
@@ -26723,7 +26723,7 @@ SplineSet
  280 -132 280 -132 304 -160 c 1,92,-1
  304 -160 l 1,85,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng tabeng babeng_viramabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng tabeng babeng_viramabeng
 EndChar
 
 StartChar: nabeng_viramabeng_thabeng
@@ -26828,7 +26828,7 @@ SplineSet
  455 -85 l 1,82,-1
  455 -85 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng thabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng thabeng
 EndChar
 
 StartChar: na_virama_tha_virama_ra
@@ -27030,7 +27030,7 @@ SplineSet
  537 -5 l 1,46,-1
  537 -5 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng dabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng dabeng
 EndChar
 
 StartChar: na_virama_da_virama_ra
@@ -27127,7 +27127,7 @@ SplineSet
  518 -25 l 1,72,-1
  518 -25 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng dabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng dabeng_viramabeng_rabeng
 EndChar
 
 StartChar: na_virama_da_virama_ba
@@ -27321,7 +27321,7 @@ SplineSet
  289 104 289 104 316 65 c 1,67,-1
  316 65 l 1,60,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng dhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng dhabeng
 EndChar
 
 StartChar: na_virama_dha_virama_ba
@@ -27546,7 +27546,7 @@ SplineSet
  373 102 373 102 400 55 c 1,92,-1
  400 55 l 1,85,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng dhabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng dhabeng_viramabeng_rabeng
 EndChar
 
 StartChar: nabeng_viramabeng_nabeng
@@ -27625,7 +27625,7 @@ SplineSet
  -10 465 l 1,46,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng nabeng
 EndChar
 
 StartChar: nabeng_viramabeng_mabeng
@@ -27710,7 +27710,7 @@ SplineSet
  424 108 424 108 452 75 c 1,47,-1
  452 75 l 1,41,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng mabeng
 EndChar
 
 StartChar: nabeng_viramabeng_rabeng
@@ -27971,7 +27971,7 @@ SplineSet
  465 334 465 334 475 320 c 1,61,-1
  475 320 l 1,50,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng viramabeng sabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" nabeng_viramabeng sabeng
 EndChar
 
 StartChar: pabeng_viramabeng_ttabeng
@@ -28098,7 +28098,7 @@ SplineSet
  180 352 180 352 180 320 c 1,95,-1
  180 320 l 1,83,84
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng ttabeng
 EndChar
 
 StartChar: pabeng_viramabeng_tabeng
@@ -28210,7 +28210,7 @@ SplineSet
  291 370 291 370 291 345 c 1,72,-1
  291 345 l 1,60,61
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng tabeng
 EndChar
 
 StartChar: pa_virama_ta_uvowel
@@ -28570,7 +28570,7 @@ SplineSet
  171 374 171 374 171 350 c 1,63,-1
  171 350 l 1,51,52
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng nabeng
 EndChar
 
 StartChar: pabeng_viramabeng_pabeng
@@ -28691,7 +28691,7 @@ SplineSet
  349 231 349 231 392 195 c 1,84,-1
  392 195 l 1,73,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng pabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng pabeng
 EndChar
 
 StartChar: pabeng_viramabeng_mabeng
@@ -28784,7 +28784,7 @@ SplineSet
  532 108 532 108 560 75 c 1,62,-1
  560 75 l 1,56,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng mabeng
 EndChar
 
 StartChar: pabeng_viramabeng_rabeng
@@ -29257,7 +29257,7 @@ SplineSet
  198 367 198 367 205 340 c 1,86,-1
  205 340 l 1,74,75
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng labeng
 EndChar
 
 StartChar: pabeng_viramabeng_sabeng
@@ -29366,7 +29366,7 @@ SplineSet
  406 356 406 356 406 315 c 1,80,-1
  406 315 l 1,69,70
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng viramabeng sabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" pabeng_viramabeng sabeng
 EndChar
 
 StartChar: phabeng_viramabeng_ttabeng
@@ -29489,7 +29489,7 @@ SplineSet
  296 410 l 1,89,-1
  296 410 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" phabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" phabeng_viramabeng ttabeng
 EndChar
 
 StartChar: phabeng_viramabeng_rabeng
@@ -29709,7 +29709,7 @@ SplineSet
  363 -70 l 1,79,-1
  363 -70 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" phabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" phabeng_viramabeng labeng
 EndChar
 
 StartChar: babeng_viramabeng_jabeng
@@ -29826,7 +29826,7 @@ SplineSet
  261 294 261 294 290 270 c 1,86,-1
  290 270 l 1,79,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng jabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln jabeng
 EndChar
 
 StartChar: babeng_viramabeng_jhabeng
@@ -30027,7 +30027,7 @@ SplineSet
  240 285 240 285 254 265 c 1,53,-1
  254 265 l 1,46,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng ddabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng ddabeng
 EndChar
 
 StartChar: babeng_viramabeng_ddhabeng
@@ -30113,7 +30113,7 @@ SplineSet
  160 246 160 246 182 220 c 1,45,-1
  182 220 l 1,38,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng ddhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng ddhabeng
 EndChar
 
 StartChar: babeng_viramabeng_dabeng
@@ -30192,7 +30192,7 @@ SplineSet
  196 240 196 240 216 205 c 1,43,-1
  216 205 l 1,36,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng dabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln dabeng
 EndChar
 
 StartChar: ba_virama_da_virama_ra
@@ -30292,7 +30292,7 @@ SplineSet
  214 240 214 240 234 205 c 1,62,-1
  234 205 l 1,55,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng dabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln dabeng_viramabeng_rabeng
 EndChar
 
 StartChar: babeng_viramabeng_dhabeng
@@ -30401,7 +30401,7 @@ SplineSet
  131 246 131 246 150 235 c 1,71,-1
  150 235 l 1,61,62
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng dhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln dhabeng
 EndChar
 
 StartChar: babeng_viramabeng_babeng
@@ -30485,7 +30485,7 @@ SplineSet
  561 128 561 128 586 75 c 1,44,-1
  586 75 l 1,37,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng babeng_viramabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln babeng
 Ligature2: "blwsBelowBaseSubstitutionslooku subtable" babeng babeng viramabeng
 EndChar
 
@@ -30590,7 +30590,7 @@ SplineSet
  388 278 388 278 428 250 c 1,70,-1
  428 250 l 1,63,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng bhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng bhabeng
 EndChar
 
 StartChar: babeng_viramabeng_rabeng
@@ -30999,7 +30999,7 @@ SplineSet
  335 186 335 186 359 145 c 1,61,-1
  359 145 l 1,54,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" babeng_viramabeng_haln labeng
 EndChar
 
 StartChar: bhabeng_viramabeng_rabeng
@@ -31430,7 +31430,7 @@ SplineSet
  -10 465 l 1,91,-1
  -10 465 l 1,87,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" bhabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" bhabeng_viramabeng labeng
 EndChar
 
 StartChar: mabeng_viramabeng_tabeng
@@ -31534,7 +31534,7 @@ SplineSet
  383 -10 383 -10 302 -10 c 1,75,-1
  302 -10 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng tabeng
 EndChar
 
 StartChar: mabeng_viramabeng_dabeng
@@ -31625,7 +31625,7 @@ SplineSet
  230 335 230 335 251 335 c 1,64,-1
  251 335 l 1,51,52
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng dabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng dabeng
 EndChar
 
 StartChar: mabeng_viramabeng_nabeng
@@ -31715,7 +31715,7 @@ SplineSet
  273 252 273 252 295 230 c 1,51,-1
  295 230 l 1,43,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng nabeng
 EndChar
 
 StartChar: mabeng_viramabeng_pabeng
@@ -31837,7 +31837,7 @@ SplineSet
  260 330 260 330 286 330 c 1,84,-1
  286 330 l 1,71,72
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng pabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng pabeng
 EndChar
 
 StartChar: ma_virama_pa_virama_ra
@@ -31975,7 +31975,7 @@ SplineSet
  285 320 285 320 306 320 c 1,107,-1
  306 320 l 1,91,92
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng pabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng pabeng_viramabeng_rabeng
 EndChar
 
 StartChar: mabeng_viramabeng_phabeng
@@ -32085,7 +32085,7 @@ SplineSet
  255 335 255 335 281 335 c 1,79,-1
  281 335 l 1,66,67
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng phabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng phabeng
 EndChar
 
 StartChar: ma_virama_pha_virama_ra
@@ -32420,7 +32420,7 @@ SplineSet
  426 340 426 340 455 340 c 1,84,-1
  455 340 l 1,71,72
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng bhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng bhabeng
 EndChar
 
 StartChar: ma_virama_bha_virama_ra
@@ -32548,7 +32548,7 @@ SplineSet
  306 335 306 335 337 335 c 1,108,-1
  337 335 l 1,95,96
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng bhabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng bhabeng_viramabeng_rabeng
 EndChar
 
 StartChar: mabeng_viramabeng_mabeng
@@ -32647,7 +32647,7 @@ SplineSet
  228 340 228 340 241 340 c 1,66,-1
  241 340 l 1,55,56
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng mabeng
 EndChar
 
 StartChar: mabeng_viramabeng_rabeng
@@ -32880,7 +32880,7 @@ SplineSet
  344 330 344 330 359 330 c 1,98,-1
  359 330 l 1,82,83
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng labeng
 EndChar
 
 StartChar: yabeng_viramabeng_rabeng
@@ -33278,7 +33278,7 @@ SplineSet
  357 95 357 95 391 55 c 1,81,-1
  391 55 l 1,74,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng kabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng kabeng
 EndChar
 
 StartChar: labeng_viramabeng_gabeng
@@ -33389,7 +33389,7 @@ SplineSet
  394 0 l 1,84,-1
  394 0 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng gabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng gabeng
 EndChar
 
 StartChar: la_virama_ga_zwnj_uvowel
@@ -33633,7 +33633,7 @@ SplineSet
  628 120 628 120 660 65 c 1,76,-1
  660 65 l 1,59,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng ghabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng ghabeng
 EndChar
 
 StartChar: labeng_viramabeng_ttabeng
@@ -33762,7 +33762,7 @@ SplineSet
  32 234 32 234 32 275 c 1,101,-1
  32 275 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng ttabeng
 EndChar
 
 StartChar: la_virama_tta_virama_ra
@@ -34020,7 +34020,7 @@ SplineSet
  -10 465 l 1,73,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng ddabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng ddabeng
 EndChar
 
 StartChar: la_virama_dda_virama_ra
@@ -34267,7 +34267,7 @@ SplineSet
  32 234 32 234 32 275 c 1,101,-1
  32 275 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng ddhabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng ddhabeng
 EndChar
 
 StartChar: labeng_viramabeng_dabeng
@@ -34360,7 +34360,7 @@ SplineSet
  31 266 31 266 31 305 c 1,69,-1
  31 305 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng dabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng dabeng
 EndChar
 
 StartChar: labeng_viramabeng_pabeng
@@ -34465,7 +34465,7 @@ SplineSet
  229 65 229 65 232 35 c 1,84,-1
  232 35 l 1,72,73
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng pabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng pabeng
 EndChar
 
 StartChar: labeng_viramabeng_phabeng
@@ -34575,7 +34575,7 @@ SplineSet
  570 -50 l 1,80,-1
  570 -50 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng phabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng phabeng
 EndChar
 
 StartChar: labeng_viramabeng_babeng
@@ -34774,7 +34774,7 @@ SplineSet
  532 98 532 98 551 65 c 1,71,-1
  551 65 l 1,65,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng mabeng
 EndChar
 
 StartChar: labeng_viramabeng_rabeng
@@ -34993,7 +34993,7 @@ SplineSet
  275 174 275 174 287 140 c 1,91,-1
  287 140 l 1,56,57
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng labeng
 EndChar
 
 StartChar: sha_zwnj_uvowel
@@ -35236,7 +35236,7 @@ SplineSet
  361 80 361 80 378 80 c 1,68,-1
  378 80 l 1,58,59
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng viramabeng cabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng_viramabeng cabeng
 EndChar
 
 StartChar: shabeng_viramabeng_chabeng
@@ -35363,7 +35363,7 @@ SplineSet
  383 210 383 210 397 210 c 1,93,-1
  397 210 l 1,83,84
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng viramabeng chabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng_viramabeng chabeng
 EndChar
 
 StartChar: shabeng_viramabeng_tabeng
@@ -35487,7 +35487,7 @@ SplineSet
  -10 465 l 1,84,-1
  -10 465 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng_viramabeng tabeng
 EndChar
 
 StartChar: shabeng_viramabeng_nabeng
@@ -35593,7 +35593,7 @@ SplineSet
  354 0 l 1,66,-1
  354 0 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng_viramabeng nabeng
 EndChar
 
 StartChar: shabeng_viramabeng_mabeng
@@ -35705,7 +35705,7 @@ SplineSet
  448 95 448 95 469 65 c 1,67,-1
  469 65 l 1,61,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng_viramabeng mabeng
 EndChar
 
 StartChar: shabeng_viramabeng_babeng
@@ -36453,7 +36453,7 @@ SplineSet
  372 0 l 1,89,-1
  372 0 l 1,0,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" shabeng_viramabeng labeng
 EndChar
 
 StartChar: ssabeng_viramabeng_kabeng
@@ -36561,7 +36561,7 @@ SplineSet
  254 372 254 372 265 310 c 1,74,-1
  265 310 l 1,64,65
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng kabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng kabeng
 EndChar
 
 StartChar: ssa_virama_ka_virama_ra
@@ -36696,7 +36696,7 @@ SplineSet
  267 305 l 1,116,-1
  267 305 l 1,108,109
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng kabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng kabeng_viramabeng_rabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_ttabeng
@@ -36825,7 +36825,7 @@ SplineSet
  238 331 238 331 251 295 c 1,98,-1
  251 295 l 1,85,86
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng ttabeng
 EndChar
 
 StartChar: ssa_virama_tta_virama_ra
@@ -36972,7 +36972,7 @@ SplineSet
  305 335 305 335 318 300 c 1,128,-1
  318 300 l 1,115,116
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng ttabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng ttabeng_viramabeng_rabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_tthabeng
@@ -37087,7 +37087,7 @@ SplineSet
  265 325 l 1,72,-1
  265 325 l 1,64,65
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng tthabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng tthabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_nnabeng
@@ -37204,7 +37204,7 @@ SplineSet
  307 290 l 1,73,-1
  307 290 l 1,70,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng nnabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng nnabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_pabeng
@@ -37323,7 +37323,7 @@ SplineSet
  272 320 l 1,77,-1
  272 320 l 1,69,70
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng pabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng pabeng
 EndChar
 
 StartChar: ssa_virama_pa_virama_ra
@@ -37466,7 +37466,7 @@ SplineSet
  219 354 219 354 250 310 c 1,109,-1
  250 310 l 1,99,100
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng pabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng pabeng_viramabeng_rabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_phabeng
@@ -37573,7 +37573,7 @@ SplineSet
  276 310 l 1,71,-1
  276 310 l 1,63,64
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng phabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng phabeng
 EndChar
 
 StartChar: ssabeng_viramabeng_rabeng
@@ -37859,7 +37859,7 @@ SplineSet
  230 362 230 362 259 300 c 1,70,-1
  259 300 l 1,60,61
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" ssabeng_viramabeng mabeng
 EndChar
 
 StartChar: sabeng_viramabeng_kabeng
@@ -37967,7 +37967,7 @@ SplineSet
  303 341 303 341 348 345 c 1,75,-1
  348 345 l 1,65,66
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng kabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng kabeng
 EndChar
 
 StartChar: sa_virama_ka_virama_ra
@@ -38102,7 +38102,7 @@ SplineSet
  327 370 327 370 367 370 c 1,118,-1
  367 370 l 1,108,109
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng kabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng kabeng_viramabeng_rabeng
 EndChar
 
 StartChar: glyph391
@@ -38392,7 +38392,7 @@ SplineSet
  309 360 309 360 336 360 c 1,91,-1
  336 360 l 1,81,82
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng khabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng khabeng
 EndChar
 
 StartChar: sabeng_viramabeng_ttabeng
@@ -38522,7 +38522,7 @@ SplineSet
  271 350 271 350 280 350 c 1,100,-1
  280 350 l 1,89,90
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng ttabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng ttabeng
 EndChar
 
 StartChar: sa_virama_tta_virama_ra
@@ -38673,7 +38673,7 @@ SplineSet
  359 335 359 335 401 335 c 1,123,-1
  401 335 l 1,113,114
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng ttabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng ttabeng_viramabeng_rabeng
 EndChar
 
 StartChar: glyph395
@@ -38949,7 +38949,7 @@ SplineSet
  310 350 310 350 352 350 c 1,77,-1
  352 350 l 1,67,68
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng tabeng
 EndChar
 
 StartChar: sa_virama_ta_uvowel
@@ -39179,7 +39179,7 @@ SplineSet
  331 350 331 350 366 350 c 1,81,-1
  366 350 l 1,71,72
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng tabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng tabeng_viramabeng_rabeng
 EndChar
 
 StartChar: sa_virama_ta_virama_ba
@@ -39402,7 +39402,7 @@ SplineSet
  283 345 283 345 327 345 c 1,76,-1
  327 345 l 1,66,67
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng thabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng thabeng
 EndChar
 
 StartChar: sabeng_viramabeng_nabeng
@@ -39497,7 +39497,7 @@ SplineSet
  318 345 318 345 359 345 c 1,59,-1
  359 345 l 1,49,50
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng nabeng
 EndChar
 
 StartChar: sabeng_viramabeng_pabeng
@@ -39619,7 +39619,7 @@ SplineSet
  283 370 283 370 327 370 c 1,84,-1
  327 370 l 1,74,75
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng pabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng pabeng
 EndChar
 
 StartChar: sa_virama_pa_virama_ra
@@ -40073,7 +40073,7 @@ SplineSet
  283 370 283 370 327 370 c 1,125,-1
  327 370 l 1,115,116
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng pabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng pabeng_viramabeng_labeng
 EndChar
 
 StartChar: sabeng_viramabeng_phabeng
@@ -40183,7 +40183,7 @@ SplineSet
  292 360 292 360 326 360 c 1,78,-1
  326 360 l 1,68,69
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng phabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng phabeng
 EndChar
 
 StartChar: sabeng_viramabeng_babeng
@@ -40377,7 +40377,7 @@ SplineSet
  540 127 540 127 567 95 c 1,66,-1
  567 95 l 1,52,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng mabeng
 EndChar
 
 StartChar: sabeng_viramabeng_rabeng
@@ -40818,7 +40818,7 @@ SplineSet
  367 327 367 327 377 315 c 1,83,-1
  377 315 l 1,75,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" sabeng_viramabeng labeng
 EndChar
 
 StartChar: habeng_uvowelbeng
@@ -41205,7 +41205,7 @@ SplineSet
  352 -105 l 1,71,-1
  352 -105 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" habeng viramabeng nabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" habeng_viramabeng nabeng
 EndChar
 
 StartChar: habeng_viramabeng_babeng
@@ -41396,7 +41396,7 @@ SplineSet
  226 360 226 360 271 360 c 1,92,-1
  271 360 l 1,81,82
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" habeng viramabeng mabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" habeng_viramabeng mabeng
 EndChar
 
 StartChar: habeng_viramabeng_rabeng
@@ -41609,7 +41609,7 @@ SplineSet
  437 -100 l 1,82,-1
  437 -100 l 1,0,1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" habeng viramabeng labeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" habeng_viramabeng labeng
 EndChar
 
 StartChar: rrabeng_viramabeng_gabeng
@@ -43446,7 +43446,7 @@ SplineSet
  204 250 204 250 223 210 c 1,143,-1
  223 210 l 1,131,132
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng viramabeng ttabeng_viramabeng_rabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" kabeng_viramabeng ttabeng_viramabeng_rabeng
 EndChar
 
 StartChar: bn_ma_tha
@@ -43523,7 +43523,7 @@ SplineSet
  340 329 340 329 350 329 c 1,110,-1
  350 329 l 1,89,90
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng viramabeng thabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" mabeng_viramabeng thabeng
 EndChar
 
 StartChar: bn_la_ta
@@ -43596,7 +43596,7 @@ SplineSet
  210 194 210 194 231 217 c 0,104,105
  298 292 298 292 394 266 c 1,1,-1
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng viramabeng tabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" labeng_viramabeng tabeng
 EndChar
 
 StartChar: bn_la_dha
