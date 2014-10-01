@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1412163256
+ModificationTime: 1412163653
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8078,6 +8078,7 @@ SplineSet
  532 0 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nyaodia viramasignodia_caodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia_viramasignodia caodia
 EndChar
 
@@ -8185,6 +8186,7 @@ SplineSet
  312 162 l 1,109,110
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nyaodia viramasignodia_chaodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia_viramasignodia chaodia
 EndChar
 
@@ -8283,6 +8285,7 @@ SplineSet
  742 0 l 1,102,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nyaodia viramasignodia_jaodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia_viramasignodia jaodia
 EndChar
 
@@ -8381,6 +8384,7 @@ SplineSet
  258 52 l 1,95,96
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nyaodia viramasignodia_jhaodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia_viramasignodia jhaodia
 EndChar
 
