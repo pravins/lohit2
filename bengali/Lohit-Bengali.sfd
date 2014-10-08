@@ -3,7 +3,7 @@ FontName: Lohit-Bengali
 FullName: Lohit Bengali
 FamilyName: Lohit Bengali
 Weight: Book
-Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore At redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
+Copyright: Copyright 2011-12 Lohit Fonts Project contributors.\n<http://fedorahosted.org/lohit>\nOpen type tables written by:\nPravin Satpute <psatpute AT redhat DOT com>\nSneha Kore <skore AT redhat DOT com> and Shilpa Gite <sgite AT redhat DOT com>\n\n   Licensed under the SIL Open Font License 1.1 (see file OFL.txt)
 Version: 2.91.0
 ItalicAngle: 0
 UnderlinePosition: -300
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1412686130
+ModificationTime: 1412765958
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -359,6 +359,7 @@ ShortTable: maxp 16
   0
 EndShort
 LangName: 1033 "" "" "Regular" "Lohit Bengali : 26-3-2014" "" "Version 2.91.0" "" "Lohit is trademark of RedHat, Inc." "" "" "" "" "" "OFL 1.1" "http://scripts.sil.org/OFL" 
+GaspTable: 2 8 2 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -369,6 +370,7 @@ FitToEm: 1
 WinInfo: 33 33 14
 BeginPrivate: 0
 EndPrivate
+TeXData: 1 0 0 290436 145218 96812 0 1048576 96812 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-1"  "'abvm' Above Base Mark in Bengali lookup 1" "Anchor-2"  "'blwm' Below Base Mark in Bengali lookup 0" 
 BeginChars: 65908 486
 
