@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1412758095
+ModificationTime: 1412766404
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -20377,8 +20377,8 @@ SplineSet
  -620 -223 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_raodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia
+Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_raodia
 EndChar
 
 StartChar: viramasignodia_laodia
