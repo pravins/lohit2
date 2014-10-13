@@ -1,5 +1,4 @@
-all: ttf woff eot ttf-dist sfd-dist web-dist
-
+all: sfd-dist ttf woff eot ttf-dist web-dist  
 version:= 2.91.0
 
 test: test-ttf
@@ -8,26 +7,26 @@ test: test-ttf
 
 ttf: ttf-bin
 	@echo "----------Generating ttf from sfd file----------"
-	python apply_featurefile.py Lohit-Bengali.sfd Lohit-Bengali.fea	
-	../generate.pe *.sfd
+	python apply_featurefile.py Lohit-Bengali.sfd Lohit-Bengali.fea
+	./generate.pe *.sfd
 	@echo "----------Finished generating ttf file----------"
 	@echo " "
 
 woff: woff-bin
 	@echo "----------Generating woff from ttf file----------"
-	java -jar /usr/share/java/sfnttool.jar -w Lohit-Bengali.ttf Lohit-Bengali.woff
+	sfntly -w Lohit-Bengali.ttf Lohit-Bengali.woff
 	@echo "----------Finished generating woff file----------"
 	@echo " "
 
 eot: eot-bin
 	@echo "----------Generating eot from ttf file----------"
-	java -jar /usr/share/java/sfnttool.jar -e -x Lohit-Bengali.ttf Lohit-Bengali.eot
+	sfntly -e -x Lohit-Bengali.ttf Lohit-Bengali.eot
 	@echo "----------Finished generating eot file----------"
 	@echo " "
 
 ttf-dist: dist
 	mkdir lohit-bengali-ttf-$(version)
-	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS  ChangeLog 66-lohit-bengali.conf Lohit-Bengali.ttf lohit-bengali-ttf-$(version)
+	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS ChangeLog 66-lohit-bengali.conf Lohit-Bengali.ttf lohit-bengali-ttf-$(version)
 	rm -rf lohit-bengali-ttf-$(version)/.git
 	tar -cf lohit-bengali-ttf-$(version).tar lohit-bengali-ttf-$(version)
 	gzip lohit-bengali-ttf-$(version).tar
@@ -44,11 +43,11 @@ sfd-dist: dist
 
 web-dist: webdist
 	mkdir lohit-bengali-web-$(version)
-	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS  ChangeLog Lohit-Bengali.woff  Lohit-Bengali.eot lohit-bengali-web-$(version)
+	cp -p COPYRIGHT OFL.txt test-bengali.txt README  AUTHORS ChangeLog Lohit-Bengali.woff  Lohit-Bengali.eot lohit-bengali-web-$(version)
 	rm -rf lohit-bengali-web-$(version)/.git
 	tar -cf lohit-bengali-web-$(version).tar lohit-bengali-web-$(version)
 	gzip lohit-bengali-web-$(version).tar
-	rm -rf lohit-bengali-web-$(version)
+	rm -rf lohit-devanagari-web-$(version)
 
 clean: cleanall
 	rm -f *.ttf *.eot *.woff
