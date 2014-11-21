@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1416482466
+ModificationTime: 1416553521
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -257,7 +257,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 32 11
+WinInfo: 160 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 290436 145218 96812 0 1048576 96812 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -8796,6 +8796,7 @@ SplineSet
  288 -115 l 1,0,1
 EndSplineSet
 Refer: 76 2465 S 1 0 0 1 0 0 2
+Ligature2: "nuktNuktaFormslookup2 subtable" ddabeng nuktabeng
 EndChar
 
 StartChar: rhabeng
@@ -41635,7 +41636,7 @@ SplineSet
  310 -130 310 -130 293 -130 c 1,95,-1
  293 -130 l 1,83,84
 EndSplineSet
-Ligature2: "presPreBaseSubstitutionslookup7 subtable" ddabeng nuktabeng viramabeng gabeng
+Ligature2: "presPreBaseSubstitutionslookup7 subtable" rrabeng_viramabeng gabeng
 EndChar
 
 StartChar: rrabeng_viramabeng_rabeng
@@ -44000,8 +44001,6 @@ Fore
 Refer: 109 2509 S 1 0 0 1 426 -20 2
 Refer: 90 2480 N 1 0 0 1 0 0 2
 Ligature2: "halfHalfFormslookup5 subtable" rabeng viramabeng
-LCarets2: 1 0 
-Ligature2: "'haln' Halant Forms lookup 11-1" rabeng viramabeng
 EndChar
 
 StartChar: labeng_viramabeng
@@ -44172,6 +44171,7 @@ SplineSet
  602 -254 l 1,56,-1
  602 -254 l 1,52,-1
 EndSplineSet
+Ligature2: "halfHalfFormslookup5 subtable" rrabeng viramabeng
 Ligature2: "blwsBelowBaseSubstitutionslooku subtable" rrabeng viramabeng
 EndChar
 
