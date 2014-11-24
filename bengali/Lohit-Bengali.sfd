@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1163146539
-ModificationTime: 1416553521
+ModificationTime: 1416808939
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,6 +58,7 @@ Lookup: 4 0 0 "rphfRephFormlookup3"  {"rphfRephFormlookup3 subtable"  } ['rphf' 
 Lookup: 4 0 0 "blwfBelowBaseFormslookup4"  {"blwfBelowBaseFormslookup4 subtable"  } ['blwf' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms in Bengali lookup 12"  {"'blwf' Below Base Forms in Bengali lookup 12-1"  } ['blwf' ('beng' <'dflt' > ) ]
 Lookup: 4 0 0 "halfHalfFormslookup5"  {"halfHalfFormslookup5 subtable"  } ['half' ('bng2' <'dflt' > 'beng' <'dflt' > ) ]
+Lookup: 4 0 0 "'half' Half Forms in Bengali lookup 14"  {"'half' Half Forms in Bengali lookup 14-1"  } ['half' ('beng' <'dflt' > ) ]
 Lookup: 4 0 0 "pstfPostBaseFormslookup6"  {"pstfPostBaseFormslookup6 subtable"  } ['pstf' ('bng2' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Bengali lookup 13"  {"'pstf' Post Base Forms in Bengali lookup 13-1"  } ['pstf' ('beng' <'dflt' > ) ]
 Lookup: 4 0 0 "vatuVattuVariantslookup8"  {"vatuVattuVariantslookup8 subtable"  } ['vatu' ('bng2' <'dflt' > 'beng' <'dflt' > ) ]
@@ -44000,7 +44001,7 @@ LayerCount: 2
 Fore
 Refer: 109 2509 S 1 0 0 1 426 -20 2
 Refer: 90 2480 N 1 0 0 1 0 0 2
-Ligature2: "halfHalfFormslookup5 subtable" rabeng viramabeng
+Ligature2: "'half' Half Forms in Bengali lookup 14-1" rabeng viramabeng
 EndChar
 
 StartChar: labeng_viramabeng
