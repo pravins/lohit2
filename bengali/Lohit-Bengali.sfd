@@ -258,7 +258,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 160 32 11
+WinInfo: 128 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 290436 145218 96812 0 1048576 96812 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -11440,7 +11440,7 @@ EndChar
 StartChar: yabeng_viramabeng.pstf
 Encoding: 65537 -1 151
 Width: 223
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 TtInstrs:
 NPUSHW
@@ -11497,8 +11497,8 @@ SplineSet
  123 10 123 10 80 -10 c 1,24,-1
  80 -10 l 1,0,-1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Bengali lookup 13-1" yabeng viramabeng
 Ligature2: "pstfPostBaseFormslookup6 subtable" viramabeng yabeng
+Ligature2: "'pstf' Post Base Forms in Bengali lookup 13-1" yabeng viramabeng
 EndChar
 
 StartChar: kabeng_viramabeng_kabeng
@@ -43996,6 +43996,7 @@ EndChar
 StartChar: rabeng_viramabeng_haln
 Encoding: 65851 -1 472
 Width: 423
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
@@ -44172,6 +44173,7 @@ SplineSet
  602 -254 l 1,56,-1
  602 -254 l 1,52,-1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "halfHalfFormslookup5 subtable" rrabeng viramabeng
 Ligature2: "blwsBelowBaseSubstitutionslooku subtable" rrabeng viramabeng
 EndChar
