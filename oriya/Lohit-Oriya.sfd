@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1412766404
+ModificationTime: 1417000219
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -391,7 +391,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 32 11
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65864 392
@@ -20356,6 +20356,7 @@ SplineSet
  267 0 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'pstf' Post Base Forms lookup 4-1" yaodia viramasignodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" yaodia viramasignodia
 EndChar
 
