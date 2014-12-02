@@ -381,13 +381,13 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 32 11
+WinInfo: 224 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor4"  "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3"  "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1"  "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0"  "'blwm' Below Base Mark in Telugu lookup 0" 
 BeginChars: 66007 568
 
-StartChar: U0C2C_U0C41.psts
+StartChar: batelu_usigntelu
 Encoding: 65536 -1 0
 Width: 1019
 VWidth: 819
@@ -457,7 +457,6 @@ SplineSet
  342.4 141.6 342.4 141.6 371.6 103.6 c 128,-1,86
  400.8 65.5996 400.8 65.5996 441.6 65.5996 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: .null
@@ -487,7 +486,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: U0C01
+StartChar: candrabindutelu
 Encoding: 3073 3073 4
 Width: 355
 VWidth: 819
@@ -520,7 +519,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C02
+StartChar: anusvaratelu
 Encoding: 3074 3074 5
 Width: 540
 VWidth: 819
@@ -553,7 +552,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C03
+StartChar: visargatelu
 Encoding: 3075 3075 6
 Width: 293
 VWidth: 819
@@ -606,7 +605,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C05
+StartChar: atelu
 Encoding: 3077 3077 7
 Width: 677
 VWidth: 819
@@ -668,7 +667,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C06
+StartChar: aatelu
 Encoding: 3078 3078 8
 Width: 727
 VWidth: 819
@@ -740,7 +739,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C07
+StartChar: itelu
 Encoding: 3079 3079 9
 Width: 623
 VWidth: 819
@@ -804,7 +803,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C08
+StartChar: iitelu
 Encoding: 3080 3080 10
 Width: 1068
 VWidth: 819
@@ -892,7 +891,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C09
+StartChar: utelu
 Encoding: 3081 3081 11
 Width: 654
 VWidth: 819
@@ -957,7 +956,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C0A
+StartChar: uutelu
 Encoding: 3082 3082 12
 Width: 1016
 VWidth: 819
@@ -1064,7 +1063,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C0B
+StartChar: vocalicrtelu
 Encoding: 3083 3083 13
 Width: 1399
 VWidth: 819
@@ -1149,7 +1148,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C0C
+StartChar: vocalicltelu
 Encoding: 3084 3084 14
 Width: 795
 VWidth: 819
@@ -1208,7 +1207,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C0E
+StartChar: etelu
 Encoding: 3086 3086 15
 Width: 590
 VWidth: 819
@@ -1255,7 +1254,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C0F
+StartChar: eetelu
 Encoding: 3087 3087 16
 Width: 590
 VWidth: 819
@@ -1310,7 +1309,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C10
+StartChar: aitelu
 Encoding: 3088 3088 17
 Width: 676
 VWidth: 819
@@ -1371,7 +1370,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C12
+StartChar: otelu
 Encoding: 3090 3090 18
 Width: 614
 VWidth: 819
@@ -1430,7 +1429,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C13
+StartChar: ootelu
 Encoding: 3091 3091 19
 Width: 616
 VWidth: 819
@@ -1503,7 +1502,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C14
+StartChar: autelu
 Encoding: 3092 3092 20
 Width: 734
 VWidth: 819
@@ -1600,7 +1599,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C15
+StartChar: katelu
 Encoding: 3093 3093 21
 Width: 512
 VWidth: 819
@@ -1651,7 +1650,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C16
+StartChar: khatelu
 Encoding: 3094 3094 22
 Width: 672
 VWidth: 819
@@ -1732,7 +1731,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C17
+StartChar: gatelu
 Encoding: 3095 3095 23
 Width: 519
 VWidth: 819
@@ -1767,7 +1766,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C18
+StartChar: ghatelu
 Encoding: 3096 3096 24
 Width: 896
 VWidth: 819
@@ -1850,7 +1849,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C19
+StartChar: ngatelu
 Encoding: 3097 3097 25
 Width: 618
 VWidth: 819
@@ -1916,7 +1915,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1A
+StartChar: catelu
 Encoding: 3098 3098 26
 Width: 640
 VWidth: 819
@@ -1975,7 +1974,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1B
+StartChar: chatelu
 Encoding: 3099 3099 27
 Width: 641
 VWidth: 819
@@ -2041,7 +2040,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1C
+StartChar: jatelu
 Encoding: 3100 3100 28
 Width: 651
 VWidth: 819
@@ -2118,7 +2117,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C1D
+StartChar: jhatelu
 Encoding: 3101 3101 29
 Width: 1183
 VWidth: 819
@@ -2195,7 +2194,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C1E
+StartChar: nyatelu
 Encoding: 3102 3102 30
 Width: 808
 VWidth: 819
@@ -2268,7 +2267,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C1F
+StartChar: ttatelu
 Encoding: 3103 3103 31
 Width: 744
 VWidth: 819
@@ -2328,7 +2327,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C20
+StartChar: tthatelu
 Encoding: 3104 3104 32
 Width: 540
 VWidth: 819
@@ -2377,7 +2376,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C21
+StartChar: ddatelu
 Encoding: 3105 3105 33
 Width: 672
 VWidth: 819
@@ -2445,7 +2444,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C22
+StartChar: ddhatelu
 Encoding: 3106 3106 34
 Width: 672
 VWidth: 819
@@ -2519,7 +2518,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C23
+StartChar: nnatelu
 Encoding: 3107 3107 35
 Width: 761
 VWidth: 819
@@ -2592,7 +2591,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C24
+StartChar: tatelu
 Encoding: 3108 3108 36
 Width: 654
 VWidth: 819
@@ -2667,7 +2666,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C25
+StartChar: thatelu
 Encoding: 3109 3109 37
 Width: 645
 VWidth: 819
@@ -2732,7 +2731,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C26
+StartChar: datelu
 Encoding: 3110 3110 38
 Width: 645
 VWidth: 819
@@ -2785,7 +2784,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C27
+StartChar: dhatelu
 Encoding: 3111 3111 39
 Width: 645
 VWidth: 819
@@ -2844,7 +2843,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C28
+StartChar: natelu
 Encoding: 3112 3112 40
 Width: 606
 VWidth: 819
@@ -2895,7 +2894,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2A
+StartChar: patelu
 Encoding: 3114 3114 41
 Width: 572
 VWidth: 819
@@ -2956,7 +2955,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C2B
+StartChar: phatelu
 Encoding: 3115 3115 42
 Width: 577
 VWidth: 819
@@ -3023,7 +3022,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2C
+StartChar: batelu
 Encoding: 3116 3116 43
 Width: 645
 VWidth: 819
@@ -3082,7 +3081,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2D
+StartChar: bhatelu
 Encoding: 3117 3117 44
 Width: 645
 VWidth: 819
@@ -3156,7 +3155,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2E
+StartChar: matelu
 Encoding: 3118 3118 45
 Width: 956
 VWidth: 819
@@ -3227,7 +3226,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2F
+StartChar: yatelu
 Encoding: 3119 3119 46
 Width: 1233
 VWidth: 819
@@ -3299,7 +3298,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C30
+StartChar: ratelu
 Encoding: 3120 3120 47
 Width: 540
 VWidth: 819
@@ -3342,7 +3341,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C31
+StartChar: rratelu
 Encoding: 3121 3121 48
 Width: 756
 VWidth: 819
@@ -3414,7 +3413,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C32
+StartChar: latelu
 Encoding: 3122 3122 49
 Width: 594
 VWidth: 819
@@ -3464,7 +3463,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C33
+StartChar: llatelu
 Encoding: 3123 3123 50
 Width: 561
 VWidth: 819
@@ -3539,7 +3538,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C35
+StartChar: vatelu
 Encoding: 3125 3125 51
 Width: 576
 VWidth: 819
@@ -3597,7 +3596,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C36
+StartChar: shatelu
 Encoding: 3126 3126 52
 Width: 500
 VWidth: 819
@@ -3664,7 +3663,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C37
+StartChar: ssatelu
 Encoding: 3127 3127 53
 Width: 600
 VWidth: 819
@@ -3732,7 +3731,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C38
+StartChar: satelu
 Encoding: 3128 3128 54
 Width: 590
 VWidth: 819
@@ -3787,7 +3786,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C39
+StartChar: hatelu
 Encoding: 3129 3129 55
 Width: 882
 VWidth: 819
@@ -3872,7 +3871,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C3E
+StartChar: aasigntelu
 Encoding: 3134 3134 56
 Width: 601
 VWidth: 819
@@ -3910,7 +3909,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C3F
+StartChar: isigntelu
 Encoding: 3135 3135 57
 Width: 0
 VWidth: 819
@@ -3953,7 +3952,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C40
+StartChar: iisigntelu
 Encoding: 3136 3136 58
 Width: 0
 VWidth: 819
@@ -4010,7 +4009,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C41
+StartChar: usigntelu
 Encoding: 3137 3137 59
 Width: 368
 VWidth: 819
@@ -4039,7 +4038,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C42
+StartChar: uusigntelu
 Encoding: 3138 3138 60
 Width: 724
 VWidth: 819
@@ -4089,7 +4088,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C43
+StartChar: vocalicrsigntelu
 Encoding: 3139 3139 61
 Width: 380
 VWidth: 819
@@ -4131,7 +4130,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C44
+StartChar: vocalicrrsigntelu
 Encoding: 3140 3140 62
 Width: 612
 VWidth: 819
@@ -4197,7 +4196,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C46
+StartChar: esigntelu
 Encoding: 3142 3142 63
 Width: 0
 VWidth: 819
@@ -4226,7 +4225,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C47
+StartChar: eesigntelu
 Encoding: 3143 3143 64
 Width: 0
 VWidth: 819
@@ -4270,7 +4269,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C48
+StartChar: aisigntelu
 Encoding: 3144 3144 65
 Width: 734
 VWidth: 819
@@ -4324,7 +4323,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C4A
+StartChar: osigntelu
 Encoding: 3146 3146 66
 Width: 580
 VWidth: 819
@@ -4382,7 +4381,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C4B
+StartChar: oosigntelu
 Encoding: 3147 3147 67
 Width: 577
 VWidth: 819
@@ -4454,7 +4453,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C4C
+StartChar: ausigntelu
 Encoding: 3148 3148 68
 Width: 614
 VWidth: 819
@@ -4506,7 +4505,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C4D
+StartChar: viramasigntelu
 Encoding: 3149 3149 69
 Width: 0
 VWidth: 819
@@ -4547,7 +4546,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C55
+StartChar: lengthmarktelu
 Encoding: 3157 3157 70
 Width: 387
 VWidth: 819
@@ -4576,7 +4575,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C56
+StartChar: ailengthmarktelu
 Encoding: 3158 3158 71
 Width: 0
 VWidth: 819
@@ -4614,7 +4613,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C60
+StartChar: vocalicrrtelu
 Encoding: 3168 3168 72
 Width: 1747
 VWidth: 819
@@ -4723,7 +4722,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C61
+StartChar: vocaliclltelu
 Encoding: 3169 3169 73
 Width: 1160
 VWidth: 819
@@ -4806,7 +4805,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C66
+StartChar: zerotelu
 Encoding: 3174 3174 74
 Width: 738
 VWidth: 819
@@ -4839,7 +4838,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C67
+StartChar: onetelu
 Encoding: 3175 3175 75
 Width: 740
 VWidth: 819
@@ -4872,7 +4871,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U0C68
+StartChar: twotelu
 Encoding: 3176 3176 76
 Width: 738
 VWidth: 819
@@ -4916,7 +4915,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C69
+StartChar: threetelu
 Encoding: 3177 3177 77
 Width: 740
 VWidth: 819
@@ -4961,7 +4960,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C6A
+StartChar: fourtelu
 Encoding: 3178 3178 78
 Width: 738
 VWidth: 819
@@ -5012,7 +5011,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C6B
+StartChar: fivetelu
 Encoding: 3179 3179 79
 Width: 740
 VWidth: 819
@@ -5069,7 +5068,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C6C
+StartChar: sixtelu
 Encoding: 3180 3180 80
 Width: 740
 VWidth: 819
@@ -5110,7 +5109,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C6D
+StartChar: seventelu
 Encoding: 3181 3181 81
 Width: 738
 VWidth: 819
@@ -5151,7 +5150,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C6E
+StartChar: eighttelu
 Encoding: 3182 3182 82
 Width: 740
 VWidth: 819
@@ -5189,7 +5188,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C6F
+StartChar: ninetelu
 Encoding: 3183 3183 83
 Width: 740
 VWidth: 819
@@ -5270,7 +5269,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni25CC
+StartChar: quotedcircle
 Encoding: 9676 9676 86
 Width: 870
 VWidth: 819
@@ -5403,7 +5402,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C16_U0C41.psts
+StartChar: khatelu_usigntelu
 Encoding: 65537 -1 87
 Width: 989
 VWidth: 819
@@ -5494,10 +5493,9 @@ SplineSet
  161.6 431.2 161.6 431.2 142.8 412 c 128,-1,99
  124 392.8 124 392.8 124 365.6 c 128,-1,100
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C41.psts
+StartChar: gatelu_usigntelu
 Encoding: 65538 -1 88
 Width: 874
 VWidth: 819
@@ -5543,10 +5541,9 @@ SplineSet
  101.6 173.6 101.6 173.6 101.6 0 c 1,49,-1
  36.7998 0 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C41.psts
+StartChar: ngatelu_usigntelu
 Encoding: 65539 -1 89
 Width: 990
 VWidth: 819
@@ -5620,10 +5617,9 @@ SplineSet
  128 0 128 0 85.5996 42 c 128,-1,87
  43.2002 84 43.2002 84 43.2002 144 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C41.psts
+StartChar: catelu_usigntelu
 Encoding: 65540 -1 90
 Width: 1022
 VWidth: 819
@@ -5693,10 +5689,9 @@ SplineSet
  484.899 461.375 484.899 461.375 548.2 386.4 c 0,80,81
  574.882 354.797 574.882 354.797 609.8 221.2 c 24,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C41.psts
+StartChar: chatelu_usigntelu
 Encoding: 65541 -1 91
 Width: 1022
 VWidth: 819
@@ -5773,10 +5768,9 @@ SplineSet
  499.2 460.8 499.2 460.8 552 390.4 c 0,85,86
  577.68 356.16 577.68 356.16 606 224 c 17,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C41.psts
+StartChar: ttatelu_usigntelu
 Encoding: 65542 -1 92
 Width: 1119
 VWidth: 819
@@ -5846,10 +5840,9 @@ SplineSet
  156 379.2 156 379.2 136.4 360.4 c 128,-1,73
  116.8 341.6 116.8 341.6 116.8 314.4 c 128,-1,74
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C41.psts
+StartChar: tthatelu_usigntelu
 Encoding: 65543 -1 93
 Width: 910
 VWidth: 819
@@ -5907,10 +5900,9 @@ SplineSet
  199.2 419.2 199.2 419.2 149.2 367.6 c 128,-1,52
  99.2002 316 99.2002 316 99.2002 242.4 c 128,-1,53
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C41.psts
+StartChar: nnatelu_usigntelu
 Encoding: 65544 -1 94
 Width: 1139
 VWidth: 819
@@ -5992,10 +5984,9 @@ SplineSet
  526.4 176.8 526.4 176.8 507.2 157.6 c 128,-1,90
  488 138.4 488 138.4 488 111.2 c 128,-1,91
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C41.psts
+StartChar: tatelu_usigntelu
 Encoding: 65545 -1 95
 Width: 1017
 VWidth: 819
@@ -6079,10 +6070,9 @@ SplineSet
  136.8 365.6 136.8 365.6 117.2 346.8 c 128,-1,86
  97.5996 328 97.5996 328 97.5996 300.8 c 128,-1,87
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C41.psts
+StartChar: thatelu_usigntelu
 Encoding: 65546 -1 96
 Width: 1023
 VWidth: 819
@@ -6155,10 +6145,9 @@ SplineSet
  231.2 419.2 231.2 419.2 166 354 c 128,-1,83
  100.8 288.8 100.8 288.8 100.8 196 c 0,65,66
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C41.psts
+StartChar: datelu_usigntelu
 Encoding: 65547 -1 97
 Width: 1023
 VWidth: 819
@@ -6220,10 +6209,9 @@ SplineSet
  231.2 419.2 231.2 419.2 166 354 c 128,-1,73
  100.8 288.8 100.8 288.8 100.8 196 c 0,55,56
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C41.psts
+StartChar: dhatelu_usigntelu
 Encoding: 65548 -1 98
 Width: 1023
 VWidth: 819
@@ -6291,10 +6279,9 @@ SplineSet
  231.2 419.2 231.2 419.2 166 354 c 128,-1,79
  100.8 288.8 100.8 288.8 100.8 196 c 0,61,62
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C41.psts
+StartChar: natelu_usigntelu
 Encoding: 65549 -1 99
 Width: 983
 VWidth: 819
@@ -6356,10 +6343,9 @@ SplineSet
  300 116.8 300 116.8 328 91.2002 c 128,-1,74
  356 65.5996 356 65.5996 394.4 65.5996 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C3E.abvs
+StartChar: katelu_aasigntelu
 Encoding: 65550 -1 100
 Width: 800
 VWidth: 819
@@ -6422,10 +6408,9 @@ SplineSet
  596.8 396.8 596.8 396.8 596.8 369.6 c 1,69,-1
  596.8 369.6 l 1,57,58
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C3E.abvs
+StartChar: khatelu_aasigntelu
 Encoding: 65551 -1 101
 Width: 967
 VWidth: 819
@@ -6526,10 +6511,9 @@ SplineSet
  761.6 396.8 761.6 396.8 761.6 369.6 c 1,118,-1
  761.6 369.6 l 1,106,107
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C3E.abvs
+StartChar: gatelu_aasigntelu
 Encoding: 65552 -1 102
 Width: 843
 VWidth: 819
@@ -6576,10 +6560,9 @@ SplineSet
  639.2 396.8 639.2 396.8 639.2 369.6 c 1,45,-1
  639.2 369.6 l 1,33,34
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C3E.abvs
+StartChar: ghatelu_aasigntelu
 Encoding: 65553 -1 103
 Width: 1312
 VWidth: 819
@@ -6685,7 +6668,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C19_U0C3E.abvs
+StartChar: ngatelu_aasigntelu
 Encoding: 65554 -1 104
 Width: 930
 VWidth: 819
@@ -6772,10 +6755,9 @@ SplineSet
  724.8 396.8 724.8 396.8 724.8 369.6 c 1,101,-1
  724.8 369.6 l 1,89,90
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C3E.abvs
+StartChar: catelu_aasigntelu
 Encoding: 65555 -1 105
 Width: 936
 VWidth: 819
@@ -6845,10 +6827,9 @@ SplineSet
  732 396.8 732 396.8 732 369.6 c 1,76,-1
  732 369.6 l 1,64,65
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C3E.abvs
+StartChar: chatelu_aasigntelu
 Encoding: 65556 -1 106
 Width: 950
 VWidth: 819
@@ -6925,10 +6906,9 @@ SplineSet
  746.4 396.8 746.4 396.8 746.4 369.6 c 1,83,-1
  746.4 369.6 l 1,71,72
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C3E.abvs
+StartChar: jatelu_aasigntelu
 Encoding: 65557 -1 107
 Width: 931
 VWidth: 819
@@ -7022,10 +7002,9 @@ SplineSet
  726.4 396.8 726.4 396.8 726.4 369.6 c 1,114,-1
  726.4 369.6 l 1,102,103
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C3E.abvs
+StartChar: jhatelu_aasigntelu
 Encoding: 65558 -1 108
 Width: 1643
 VWidth: 819
@@ -7126,10 +7105,9 @@ SplineSet
  1437.6 379.2 l 1,106,107
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C3E.abvs
+StartChar: nyatelu_aasigntelu
 Encoding: 65559 -1 109
 Width: 1140
 VWidth: 819
@@ -7223,10 +7201,9 @@ SplineSet
  936 396.8 936 396.8 936 369.6 c 1,108,-1
  936 369.6 l 1,96,97
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C3E.abvs
+StartChar: ttatelu_aasigntelu
 Encoding: 65560 -1 110
 Width: 1024
 VWidth: 819
@@ -7307,10 +7284,9 @@ SplineSet
  818.4 396.8 818.4 396.8 818.4 369.6 c 1,92,-1
  818.4 369.6 l 1,80,81
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C3E.abvs
+StartChar: tthatelu_aasigntelu
 Encoding: 65561 -1 111
 Width: 886
 VWidth: 819
@@ -7371,10 +7347,9 @@ SplineSet
  682.4 396.8 682.4 396.8 682.4 369.6 c 1,61,-1
  682.4 369.6 l 1,49,50
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C3E.abvs
+StartChar: ddatelu_aasigntelu
 Encoding: 65562 -1 112
 Width: 949
 VWidth: 819
@@ -7453,10 +7428,9 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,89,-1
  745.6 369.6 l 1,77,78
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C3E.abvs
+StartChar: ddhatelu_aasigntelu
 Encoding: 65563 -1 113
 Width: 949
 VWidth: 819
@@ -7541,10 +7515,9 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,95,-1
  745.6 369.6 l 1,83,84
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C3E.abvs
+StartChar: nnatelu_aasigntelu
 Encoding: 65564 -1 114
 Width: 1018
 VWidth: 819
@@ -7638,10 +7611,9 @@ SplineSet
  813.6 396.8 813.6 396.8 813.6 369.6 c 1,112,-1
  813.6 369.6 l 1,100,101
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C3E.abvs
+StartChar: tatelu_aasigntelu
 Encoding: 65565 -1 115
 Width: 944
 VWidth: 819
@@ -7727,10 +7699,9 @@ SplineSet
  740.8 396.8 740.8 396.8 740.8 369.6 c 1,99,-1
  740.8 369.6 l 1,87,88
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C3E.abvs
+StartChar: thatelu_aasigntelu
 Encoding: 65566 -1 116
 Width: 949
 VWidth: 819
@@ -7807,10 +7778,9 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,81,-1
  745.6 369.6 l 1,69,70
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C3E.abvs
+StartChar: datelu_aasigntelu
 Encoding: 65567 -1 117
 Width: 949
 VWidth: 819
@@ -7875,10 +7845,9 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,70,-1
  745.6 369.6 l 1,58,59
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C3E.abvs
+StartChar: dhatelu_aasigntelu
 Encoding: 65568 -1 118
 Width: 949
 VWidth: 819
@@ -7949,10 +7918,9 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,76,-1
  745.6 369.6 l 1,64,65
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C3E.abvs
+StartChar: natelu_aasigntelu
 Encoding: 65569 -1 119
 Width: 942
 VWidth: 819
@@ -8014,10 +7982,9 @@ SplineSet
  738.4 396.8 738.4 396.8 738.4 369.6 c 1,68,-1
  738.4 369.6 l 1,56,57
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C3E.abvs
+StartChar: patelu_aasigntelu
 Encoding: 65570 -1 120
 Width: 907
 VWidth: 819
@@ -8091,10 +8058,9 @@ SplineSet
  701.6 324.8 701.6 324.8 701.6 297.6 c 1,83,-1
  701.6 297.6 l 1,71,72
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C3E.abvs
+StartChar: phatelu_aasigntelu
 Encoding: 65571 -1 121
 Width: 895
 VWidth: 819
@@ -8174,10 +8140,9 @@ SplineSet
  689.6 324.8 689.6 324.8 689.6 297.6 c 1,89,-1
  689.6 297.6 l 1,77,78
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C3E.abvs
+StartChar: batelu_aasigntelu
 Encoding: 65572 -1 122
 Width: 930
 VWidth: 819
@@ -8257,10 +8222,9 @@ SplineSet
  724.8 396.8 724.8 396.8 724.8 369.6 c 1,94,-1
  724.8 369.6 l 1,82,83
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C3E.abvs
+StartChar: bhatelu_aasigntelu
 Encoding: 65573 -1 123
 Width: 931
 VWidth: 819
@@ -8346,10 +8310,9 @@ SplineSet
  726.4 396.8 726.4 396.8 726.4 369.6 c 1,100,-1
  726.4 369.6 l 1,88,89
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C3E.abvs
+StartChar: matelu_aasigntelu
 Encoding: 65574 -1 124
 Width: 1312
 VWidth: 819
@@ -8442,10 +8405,9 @@ SplineSet
  1107.2 379.2 l 1,97,98
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C3E.abvs
+StartChar: yatelu_aasigntelu
 Encoding: 65575 -1 125
 Width: 1588
 VWidth: 819
@@ -8542,7 +8504,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C30_U0C3E.abvs
+StartChar: ratelu_aasigntelu
 Encoding: 65576 -1 126
 Width: 827
 VWidth: 819
@@ -8597,10 +8559,9 @@ SplineSet
  623.2 396.8 623.2 396.8 623.2 369.6 c 1,56,-1
  623.2 369.6 l 1,44,45
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C3E.abvs
+StartChar: rratelu_aasigntelu
 Encoding: 65577 -1 127
 Width: 1012
 VWidth: 819
@@ -8694,10 +8655,9 @@ SplineSet
  808 396.8 808 396.8 808 369.6 c 1,110,-1
  808 369.6 l 1,98,99
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C3E.abvs
+StartChar: latelu_aasigntelu
 Encoding: 65578 -1 128
 Width: 940
 VWidth: 819
@@ -8767,10 +8727,9 @@ SplineSet
  715.2 396.8 715.2 396.8 715.2 369.6 c 1,78,-1
  715.2 369.6 l 1,66,67
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C3E.abvs
+StartChar: llatelu_aasigntelu
 Encoding: 65579 -1 129
 Width: 897
 VWidth: 819
@@ -8856,10 +8815,9 @@ SplineSet
  693.6 396.8 693.6 396.8 693.6 369.6 c 1,99,-1
  693.6 369.6 l 1,87,88
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C3E.abvs
+StartChar: vatelu_aasigntelu
 Encoding: 65580 -1 130
 Width: 890
 VWidth: 819
@@ -8927,10 +8885,9 @@ SplineSet
  686.4 396.8 686.4 396.8 686.4 369.6 c 1,75,-1
  686.4 369.6 l 1,63,64
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C3E.abvs
+StartChar: shatelu_aasigntelu
 Encoding: 65581 -1 131
 Width: 836
 VWidth: 819
@@ -9008,10 +8965,9 @@ SplineSet
  632 396.8 632 396.8 632 369.6 c 1,89,-1
  632 369.6 l 1,77,78
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C3E.abvs
+StartChar: ssatelu_aasigntelu
 Encoding: 65582 -1 132
 Width: 912
 VWidth: 819
@@ -9092,10 +9048,9 @@ SplineSet
  707.2 324.8 707.2 324.8 707.2 297.6 c 1,92,-1
  707.2 297.6 l 1,80,81
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C3E.abvs
+StartChar: satelu_aasigntelu
 Encoding: 65583 -1 133
 Width: 900
 VWidth: 819
@@ -9163,10 +9118,9 @@ SplineSet
  695.2 324.8 695.2 324.8 695.2 297.6 c 1,76,-1
  695.2 297.6 l 1,64,65
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C3E.abvs
+StartChar: hatelu_aasigntelu
 Encoding: 65584 -1 134
 Width: 884
 VWidth: 819
@@ -9264,10 +9218,9 @@ SplineSet
  11.2002 560 11.2002 560 11.2002 633.6 c 1,114,-1
  11.2002 633.6 l 1,98,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C3E_U0C37_U0C4D.akhn
+StartChar: katel_aasigntel_ssatel_viramtel
 Encoding: 65585 -1 135
 Width: 822
 VWidth: 819
@@ -9358,10 +9311,9 @@ SplineSet
  618.4 396.8 618.4 396.8 618.4 369.6 c 1,105,-1
  618.4 369.6 l 1,93,94
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C3F.abvs
+StartChar: katelu_isigntelu
 Encoding: 65586 -1 136
 Width: 473
 VWidth: 819
@@ -9430,7 +9382,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C16_U0C3F.abvs
+StartChar: khatelu_isigntelu
 Encoding: 65587 -1 137
 Width: 738
 VWidth: 819
@@ -9529,7 +9481,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C17_U0C3F.abvs
+StartChar: gatelu_isigntelu
 Encoding: 65588 -1 138
 Width: 526
 VWidth: 819
@@ -9580,7 +9532,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C18_U0C3F.abvs
+StartChar: ghatelu_isigntelu
 Encoding: 65589 -1 139
 Width: 944
 VWidth: 819
@@ -9676,10 +9628,9 @@ SplineSet
  52.7998 668 l 1,101,102
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C3F.abvs
+StartChar: ngatelu_isigntelu
 Encoding: 65590 -1 140
 Width: 618
 VWidth: 819
@@ -9772,7 +9723,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1A_U0C3F.abvs
+StartChar: catelu_isigntelu
 Encoding: 65591 -1 141
 Width: 639
 VWidth: 819
@@ -9839,7 +9790,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1B_U0C3F.abvs
+StartChar: chatelu_isigntelu
 Encoding: 65592 -1 142
 Width: 639
 VWidth: 819
@@ -9911,7 +9862,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1C_U0C3F.abvs
+StartChar: jatelu_isigntelu
 Encoding: 65593 -1 143
 Width: 666
 VWidth: 819
@@ -10000,7 +9951,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1D_U0C3F.abvs
+StartChar: jhatelu_isigntelu
 Encoding: 65594 -1 144
 Width: 1290
 VWidth: 819
@@ -10088,7 +10039,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1E_U0C3F.abvs
+StartChar: nyatelu_isigntelu
 Encoding: 65595 -1 145
 Width: 810
 VWidth: 819
@@ -10186,10 +10137,9 @@ SplineSet
  620 660.8 l 1,104,105
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C3F.abvs
+StartChar: ttatelu_isigntelu
 Encoding: 65596 -1 146
 Width: 742
 VWidth: 819
@@ -10276,7 +10226,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C20_U0C3F.abvs
+StartChar: tthatelu_isigntelu
 Encoding: 65597 -1 147
 Width: 544
 VWidth: 819
@@ -10341,7 +10291,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C21_U0C3F.abvs
+StartChar: ddatelu_isigntelu
 Encoding: 65598 -1 148
 Width: 672
 VWidth: 819
@@ -10426,7 +10376,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C22_U0C3F.abvs
+StartChar: ddhatelu_isigntelu
 Encoding: 65599 -1 149
 Width: 672
 VWidth: 819
@@ -10517,7 +10467,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C23_U0C3F.abvs
+StartChar: nnatelu_isigntelu
 Encoding: 65600 -1 150
 Width: 761
 VWidth: 819
@@ -10618,7 +10568,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C24_U0C3F.abvs
+StartChar: tatelu_isigntelu
 Encoding: 65601 -1 151
 Width: 676
 VWidth: 819
@@ -10703,7 +10653,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C25_U0C3F.abvs
+StartChar: thatelu_isigntelu
 Encoding: 65602 -1 152
 Width: 651
 VWidth: 819
@@ -10785,7 +10735,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C26_U0C3F.abvs
+StartChar: datelu_isigntelu
 Encoding: 65603 -1 153
 Width: 651
 VWidth: 819
@@ -10851,7 +10801,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C27_U0C3F.abvs
+StartChar: dhatelu_isigntelu
 Encoding: 65604 -1 154
 Width: 651
 VWidth: 819
@@ -10924,7 +10874,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C28_U0C3F.abvs
+StartChar: natelu_isigntelu
 Encoding: 65605 -1 155
 Width: 608
 VWidth: 819
@@ -10983,7 +10933,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2A_U0C3F.abvs
+StartChar: patelu_isigntelu
 Encoding: 65606 -1 156
 Width: 572
 VWidth: 819
@@ -11060,7 +11010,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2B_U0C3F.abvs
+StartChar: phatelu_isigntelu
 Encoding: 65607 -1 157
 Width: 577
 VWidth: 819
@@ -11143,7 +11093,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2C_U0C3F.abvs
+StartChar: batelu_isigntelu
 Encoding: 65608 -1 158
 Width: 703
 VWidth: 819
@@ -11218,7 +11168,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2D_U0C3F.abvs
+StartChar: bhatelu_isigntelu
 Encoding: 65609 -1 159
 Width: 703
 VWidth: 819
@@ -11299,7 +11249,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2E_U0C3F.abvs
+StartChar: matelu_isigntelu
 Encoding: 65610 -1 160
 Width: 956
 VWidth: 819
@@ -11379,7 +11329,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2F_U0C3F.abvs
+StartChar: yatelu_isigntelu
 Encoding: 65611 -1 161
 Width: 1288
 VWidth: 819
@@ -11440,7 +11390,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C30_U0C3F.abvs
+StartChar: ratelu_isigntelu
 Encoding: 65612 -1 162
 Width: 545
 VWidth: 819
@@ -11495,7 +11445,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C31_U0C3F.abvs
+StartChar: rratelu_isigntelu
 Encoding: 65613 -1 163
 Width: 756
 VWidth: 819
@@ -11595,7 +11545,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C32_U0C3F.abvs
+StartChar: latelu_isigntelu
 Encoding: 65614 -1 164
 Width: 613
 VWidth: 819
@@ -11658,10 +11608,9 @@ SplineSet
  297.6 65.5996 l 1,26,27
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C3F.abvs
+StartChar: llatelu_isigntelu
 Encoding: 65615 -1 165
 Width: 588
 VWidth: 819
@@ -11743,7 +11692,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C35_U0C3F.abvs
+StartChar: vatelu_isigntelu
 Encoding: 65616 -1 166
 Width: 588
 VWidth: 819
@@ -11808,7 +11757,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C36_U0C3F.abvs
+StartChar: shatelu_isigntelu
 Encoding: 65617 -1 167
 Width: 503
 VWidth: 819
@@ -11883,7 +11832,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C37_U0C3F.abvs
+StartChar: ssatelu_isigntelu
 Encoding: 65618 -1 168
 Width: 600
 VWidth: 819
@@ -11967,7 +11916,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C38_U0C3F.abvs
+StartChar: satelu_isigntelu
 Encoding: 65619 -1 169
 Width: 590
 VWidth: 819
@@ -12038,7 +11987,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C39_U0C3F.abvs
+StartChar: hatelu_isigntelu
 Encoding: 65620 -1 170
 Width: 882
 VWidth: 819
@@ -12137,10 +12086,9 @@ SplineSet
  87.2002 668 l 1,104,105
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C3F_U0C37_U0C4D.akhn
+StartChar: katel_isigntel_ssatel_viramtel
 Encoding: 65621 -1 171
 Width: 511
 VWidth: 819
@@ -12233,10 +12181,9 @@ SplineSet
  171.2 682.4 171.2 682.4 171.2 660.8 c 1,113,-1
  171.2 660.8 l 1,101,102
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C40.abvs
+StartChar: katelu_iisigntelu
 Encoding: 65622 -1 172
 Width: 473
 VWidth: 819
@@ -12319,7 +12266,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C16_U0C40.abvs
+StartChar: khatelu_iisigntelu
 Encoding: 65623 -1 173
 Width: 734
 VWidth: 819
@@ -12432,7 +12379,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C17_U0C40.abvs
+StartChar: gatelu_iisigntelu
 Encoding: 65624 -1 174
 Width: 524
 VWidth: 819
@@ -12496,7 +12443,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C18_U0C40.abvs
+StartChar: ghatelu_iisigntelu
 Encoding: 65625 -1 175
 Width: 958
 VWidth: 819
@@ -12608,7 +12555,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C19_U0C40.abvs
+StartChar: ngatelu_iisigntelu
 Encoding: 65626 -1 176
 Width: 618
 VWidth: 819
@@ -12715,7 +12662,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C1A_U0C40.abvs
+StartChar: catelu_iisigntelu
 Encoding: 65627 -1 177
 Width: 639
 VWidth: 819
@@ -12796,7 +12743,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1B_U0C40.abvs
+StartChar: chatelu_iisigntelu
 Encoding: 65628 -1 178
 Width: 639
 VWidth: 819
@@ -12881,7 +12828,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1C_U0C40.abvs
+StartChar: jatelu_iisigntelu
 Encoding: 65629 -1 179
 Width: 664
 VWidth: 819
@@ -12984,7 +12931,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1D_U0C40.abvs
+StartChar: jhatelu_iisigntelu
 Encoding: 65630 -1 180
 Width: 1290
 VWidth: 819
@@ -13086,7 +13033,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1E_U0C40.abvs
+StartChar: nyatelu_iisigntelu
 Encoding: 65631 -1 181
 Width: 810
 VWidth: 819
@@ -13200,7 +13147,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C1F_U0C40.abvs
+StartChar: ttatelu_iisigntelu
 Encoding: 65632 -1 182
 Width: 742
 VWidth: 819
@@ -13301,7 +13248,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C20_U0C40.abvs
+StartChar: tthatelu_iisigntelu
 Encoding: 65633 -1 183
 Width: 544
 VWidth: 819
@@ -13380,7 +13327,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C21_U0C40.abvs
+StartChar: ddatelu_iisigntelu
 Encoding: 65634 -1 184
 Width: 672
 VWidth: 819
@@ -13479,7 +13426,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C22_U0C40.abvs
+StartChar: ddhatelu_iisigntelu
 Encoding: 65635 -1 185
 Width: 672
 VWidth: 819
@@ -13584,7 +13531,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C23_U0C40.abvs
+StartChar: nnatelu_iisigntelu
 Encoding: 65636 -1 186
 Width: 761
 VWidth: 819
@@ -13699,7 +13646,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C24_U0C40.abvs
+StartChar: tatelu_iisigntelu
 Encoding: 65637 -1 187
 Width: 676
 VWidth: 819
@@ -13797,7 +13744,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C25_U0C40.abvs
+StartChar: thatelu_iisigntelu
 Encoding: 65638 -1 188
 Width: 651
 VWidth: 819
@@ -13891,7 +13838,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C26_U0C40.abvs
+StartChar: datelu_iisigntelu
 Encoding: 65639 -1 189
 Width: 650
 VWidth: 819
@@ -13973,7 +13920,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C27_U0C40.abvs
+StartChar: dhatelu_iisigntelu
 Encoding: 65640 -1 190
 Width: 651
 VWidth: 819
@@ -14059,7 +14006,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C28_U0C40.abvs
+StartChar: natelu_iisigntelu
 Encoding: 65641 -1 191
 Width: 608
 VWidth: 819
@@ -14132,7 +14079,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C2A_U0C40.abvs
+StartChar: patelu_iisigntelu
 Encoding: 65642 -1 192
 Width: 580
 VWidth: 819
@@ -14223,7 +14170,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2B_U0C40.abvs
+StartChar: phatelu_iisigntelu
 Encoding: 65643 -1 193
 Width: 586
 VWidth: 819
@@ -14320,7 +14267,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2C_U0C40.abvs
+StartChar: batelu_iisigntelu
 Encoding: 65644 -1 194
 Width: 703
 VWidth: 819
@@ -14409,7 +14356,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C2D_U0C40.abvs
+StartChar: bhatelu_iisigntelu
 Encoding: 65645 -1 195
 Width: 701
 VWidth: 819
@@ -14504,7 +14451,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C2E_U0C40.abvs
+StartChar: matelu_iisigntelu
 Encoding: 65646 -1 196
 Width: 963
 VWidth: 819
@@ -14598,7 +14545,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2F_U0C40.abvs
+StartChar: yatelu_iisigntelu
 Encoding: 65647 -1 197
 Width: 1649
 VWidth: 819
@@ -14685,7 +14632,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C30_U0C40.abvs
+StartChar: ratelu_iisigntelu
 Encoding: 65648 -1 198
 Width: 545
 VWidth: 819
@@ -14754,7 +14701,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C31_U0C40.abvs
+StartChar: rratelu_iisigntelu
 Encoding: 65649 -1 199
 Width: 757
 VWidth: 819
@@ -14868,7 +14815,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C32_U0C40.abvs
+StartChar: latelu_iisigntelu
 Encoding: 65650 -1 200
 Width: 613
 VWidth: 819
@@ -14947,7 +14894,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C33_U0C40.abvs
+StartChar: llatelu_iisigntelu
 Encoding: 65651 -1 201
 Width: 590
 VWidth: 819
@@ -15044,7 +14991,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C35_U0C40.abvs
+StartChar: vatelu_iisigntelu
 Encoding: 65652 -1 202
 Width: 587
 VWidth: 819
@@ -15123,7 +15070,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C36_U0C40.abvs
+StartChar: shatelu_iisigntelu
 Encoding: 65653 -1 203
 Width: 485
 VWidth: 819
@@ -15212,7 +15159,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C37_U0C40.abvs
+StartChar: ssatelu_iisigntelu
 Encoding: 65654 -1 204
 Width: 602
 VWidth: 819
@@ -15308,10 +15255,9 @@ SplineSet
  77.5996 660.8 l 1,102,103
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C40.abvs
+StartChar: satelu_iisigntelu
 Encoding: 65655 -1 205
 Width: 596
 VWidth: 819
@@ -15396,7 +15342,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C39_U0C40.abvs
+StartChar: hatelu_iisigntelu
 Encoding: 65656 -1 206
 Width: 882
 VWidth: 819
@@ -15511,7 +15457,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C15_U0C40_U0C37_U0C4D.akhn
+StartChar: katel_iisigntel_ssatel_viramtel
 Encoding: 65657 -1 207
 Width: 511
 VWidth: 819
@@ -15617,10 +15563,9 @@ SplineSet
  164.8 682.4 164.8 682.4 164.8 660.8 c 1,131,-1
  164.8 660.8 l 1,119,120
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C46.abvs
+StartChar: katelu_esigntelu
 Encoding: 65658 -1 208
 Width: 473
 VWidth: 819
@@ -15672,10 +15617,9 @@ SplineSet
  118.4 380.8 118.4 380.8 118.4 353.6 c 1,55,-1
  118.4 353.6 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C46.abvs
+StartChar: khatelu_esigntelu
 Encoding: 65659 -1 209
 Width: 707
 VWidth: 819
@@ -15768,7 +15712,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C17_U0C46.abvs
+StartChar: gatelu_esigntelu
 Encoding: 65660 -1 210
 Width: 519
 VWidth: 819
@@ -15806,7 +15750,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C18_U0C46.abvs
+StartChar: ghatelu_esigntelu
 Encoding: 65661 -1 211
 Width: 950
 VWidth: 819
@@ -15890,7 +15834,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C19_U0C46.abvs
+StartChar: ngatelu_esigntelu
 Encoding: 65662 -1 212
 Width: 618
 VWidth: 819
@@ -15969,7 +15913,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1A_U0C46.abvs
+StartChar: catelu_esigntelu
 Encoding: 65663 -1 213
 Width: 641
 VWidth: 819
@@ -16030,10 +15974,9 @@ SplineSet
  501.6 0 501.6 0 428 0 c 1,64,-1
  428 0 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C46.abvs
+StartChar: chatelu_esigntelu
 Encoding: 65664 -1 214
 Width: 641
 VWidth: 819
@@ -16100,10 +16043,9 @@ SplineSet
  501.6 0 501.6 0 428 0 c 1,70,-1
  428 0 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C46.abvs
+StartChar: jatelu_esigntelu
 Encoding: 65665 -1 215
 Width: 645
 VWidth: 819
@@ -16189,7 +16131,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1D_U0C46.abvs
+StartChar: jhatelu_esigntelu
 Encoding: 65666 -1 216
 Width: 1280
 VWidth: 819
@@ -16269,7 +16211,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1E_U0C46.abvs
+StartChar: nyatelu_esigntelu
 Encoding: 65667 -1 217
 Width: 827
 VWidth: 819
@@ -16356,7 +16298,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1F_U0C46.abvs
+StartChar: ttatelu_esigntelu
 Encoding: 65668 -1 218
 Width: 742
 VWidth: 819
@@ -16427,10 +16369,9 @@ SplineSet
  38.4004 128.8 38.4004 128.8 38.4004 220 c 1,79,-1
  38.4004 220 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C46.abvs
+StartChar: tthatelu_esigntelu
 Encoding: 65669 -1 219
 Width: 540
 VWidth: 819
@@ -16482,7 +16423,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C21_U0C46.abvs
+StartChar: ddatelu_esigntelu
 Encoding: 65670 -1 220
 Width: 672
 VWidth: 819
@@ -16551,10 +16492,9 @@ SplineSet
  35.2002 122.4 35.2002 122.4 35.2002 209.6 c 1,77,-1
  35.2002 209.6 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C46.abvs
+StartChar: ddhatelu_esigntelu
 Encoding: 65671 -1 221
 Width: 672
 VWidth: 819
@@ -16629,10 +16569,9 @@ SplineSet
  35.2002 122.4 35.2002 122.4 35.2002 209.6 c 1,83,-1
  35.2002 209.6 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C46.abvs
+StartChar: nnatelu_esigntelu
 Encoding: 65672 -1 222
 Width: 761
 VWidth: 819
@@ -16716,10 +16655,9 @@ SplineSet
  43.2002 308 43.2002 308 43.2002 346.4 c 1,99,-1
  43.2002 346.4 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C46.abvs
+StartChar: tatelu_esigntelu
 Encoding: 65673 -1 223
 Width: 655
 VWidth: 819
@@ -16795,10 +16733,9 @@ SplineSet
  428.8 398.4 428.8 398.4 470.4 402.4 c 1,86,-1
  470.4 402.4 l 1,26,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C46.abvs
+StartChar: thatelu_esigntelu
 Encoding: 65674 -1 224
 Width: 644
 VWidth: 819
@@ -16864,10 +16801,9 @@ SplineSet
  283.2 248.8 l 1,67,-1
  283.2 248.8 l 1,63,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C46.abvs
+StartChar: datelu_esigntelu
 Encoding: 65675 -1 225
 Width: 643
 VWidth: 819
@@ -16921,10 +16857,9 @@ SplineSet
  33.5996 115.2 33.5996 115.2 33.5996 196 c 1,56,-1
  33.5996 196 l 1,20,21
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C46.abvs
+StartChar: dhatelu_esigntelu
 Encoding: 65676 -1 226
 Width: 645
 VWidth: 819
@@ -16984,10 +16919,9 @@ SplineSet
  35.2002 115.2 35.2002 115.2 35.2002 196 c 1,62,-1
  35.2002 196 l 1,20,21
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C46.abvs
+StartChar: natelu_esigntelu
 Encoding: 65677 -1 227
 Width: 606
 VWidth: 819
@@ -17040,10 +16974,9 @@ SplineSet
  356 65.5996 356 65.5996 394.4 65.5996 c 1,56,-1
  394.4 65.5996 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C46.abvs
+StartChar: patelu_esigntelu
 Encoding: 65678 -1 228
 Width: 572
 VWidth: 819
@@ -17104,10 +17037,9 @@ SplineSet
  97.5996 444.8 l 1,64,-1
  97.5996 444.8 l 1,46,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C46.abvs
+StartChar: phatelu_esigntelu
 Encoding: 65679 -1 229
 Width: 577
 VWidth: 819
@@ -17174,10 +17106,9 @@ SplineSet
  70.4004 444.8 l 1,70,-1
  70.4004 444.8 l 1,52,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C46.abvs
+StartChar: batelu_esigntelu
 Encoding: 65680 -1 230
 Width: 672
 VWidth: 819
@@ -17247,10 +17178,9 @@ SplineSet
  421.6 65.5996 421.6 65.5996 462.4 65.5996 c 1,81,-1
  462.4 65.5996 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C46.abvs
+StartChar: bhatelu_esigntelu
 Encoding: 65681 -1 231
 Width: 645
 VWidth: 819
@@ -17326,10 +17256,9 @@ SplineSet
  406.4 65.5996 406.4 65.5996 450.4 65.5996 c 1,87,-1
  450.4 65.5996 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C46.abvs
+StartChar: matelu_esigntelu
 Encoding: 65682 -1 232
 Width: 956
 VWidth: 819
@@ -17401,10 +17330,9 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C46.abvs
+StartChar: yatelu_esigntelu
 Encoding: 65683 -1 233
 Width: 1240
 VWidth: 819
@@ -17478,10 +17406,9 @@ SplineSet
  753.6 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C46.abvs
+StartChar: ratelu_esigntelu
 Encoding: 65684 -1 234
 Width: 540
 VWidth: 819
@@ -17525,10 +17452,9 @@ SplineSet
  33.5996 141.6 33.5996 141.6 33.5996 242.4 c 1,42,-1
  33.5996 242.4 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C46.abvs
+StartChar: rratelu_esigntelu
 Encoding: 65685 -1 235
 Width: 757
 VWidth: 819
@@ -17611,10 +17537,9 @@ SplineSet
  38.4004 144.8 38.4004 144.8 38.4004 247.2 c 1,96,-1
  38.4004 247.2 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C46.abvs
+StartChar: latelu_esigntelu
 Encoding: 65686 -1 236
 Width: 668
 VWidth: 819
@@ -17674,10 +17599,9 @@ SplineSet
  236 65.5996 236 65.5996 332.8 65.5996 c 1,65,-1
  332.8 65.5996 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C46.abvs
+StartChar: llatelu_esigntelu
 Encoding: 65687 -1 237
 Width: 563
 VWidth: 819
@@ -17753,10 +17677,9 @@ SplineSet
  236 169.6 236 169.6 287.2 169.6 c 1,86,-1
  287.2 169.6 l 1,26,27
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C46.abvs
+StartChar: vatelu_esigntelu
 Encoding: 65688 -1 238
 Width: 576
 VWidth: 819
@@ -17814,10 +17737,9 @@ SplineSet
  23.2002 69.5996 23.2002 69.5996 23.2002 118.4 c 1,62,-1
  23.2002 118.4 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C46.abvs
+StartChar: shatelu_esigntelu
 Encoding: 65689 -1 239
 Width: 500
 VWidth: 819
@@ -17885,10 +17807,9 @@ SplineSet
  157.6 88.7998 157.6 88.7998 157.6 151.2 c 1,76,-1
  157.6 151.2 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C46.abvs
+StartChar: ssatelu_esigntelu
 Encoding: 65690 -1 240
 Width: 600
 VWidth: 819
@@ -17956,10 +17877,9 @@ SplineSet
  111.2 444.8 l 1,73,-1
  111.2 444.8 l 1,55,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C46.abvs
+StartChar: satelu_esigntelu
 Encoding: 65691 -1 241
 Width: 590
 VWidth: 819
@@ -18014,10 +17934,9 @@ SplineSet
  115.2 444.8 l 1,57,-1
  115.2 444.8 l 1,39,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C46.abvs
+StartChar: hatelu_esigntelu
 Encoding: 65692 -1 242
 Width: 882
 VWidth: 819
@@ -18102,10 +18021,9 @@ SplineSet
  118.4 444.8 l 1,95,-1
  118.4 444.8 l 1,77,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C46_U0C37_U0C4D.akhn
+StartChar: katel_esigntel_ssatel_viramtel
 Encoding: 65693 -1 243
 Width: 511
 VWidth: 819
@@ -18184,10 +18102,9 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,91,-1
  128 346.4 l 1,36,37
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C47.abvs
+StartChar: katelu_eesigntelu
 Encoding: 65694 -1 244
 Width: 473
 VWidth: 819
@@ -18254,10 +18171,9 @@ SplineSet
  118.4 353.6 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C47.abvs
+StartChar: khatelu_eesigntelu
 Encoding: 65695 -1 245
 Width: 707
 VWidth: 819
@@ -18365,7 +18281,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C17_U0C47.abvs
+StartChar: gatelu_eesigntelu
 Encoding: 65696 -1 246
 Width: 519
 VWidth: 819
@@ -18418,7 +18334,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C18_U0C47.abvs
+StartChar: ghatelu_eesigntelu
 Encoding: 65697 -1 247
 Width: 957
 VWidth: 819
@@ -18517,7 +18433,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C19_U0C47.abvs
+StartChar: ngatelu_eesigntelu
 Encoding: 65698 -1 248
 Width: 620
 VWidth: 819
@@ -18612,7 +18528,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1A_U0C47.abvs
+StartChar: catelu_eesigntelu
 Encoding: 65699 -1 249
 Width: 641
 VWidth: 819
@@ -18690,7 +18606,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1B_U0C47.abvs
+StartChar: chatelu_eesigntelu
 Encoding: 65700 -1 250
 Width: 641
 VWidth: 819
@@ -18774,7 +18690,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1C_U0C47.abvs
+StartChar: jatelu_eesigntelu
 Encoding: 65701 -1 251
 Width: 647
 VWidth: 819
@@ -18875,7 +18791,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1D_U0C47.abvs
+StartChar: jhatelu_eesigntelu
 Encoding: 65702 -1 252
 Width: 1288
 VWidth: 819
@@ -18970,7 +18886,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1E_U0C47.abvs
+StartChar: nyatelu_eesigntelu
 Encoding: 65703 -1 253
 Width: 827
 VWidth: 819
@@ -19072,7 +18988,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C1F_U0C47.abvs
+StartChar: ttatelu_eesigntelu
 Encoding: 65704 -1 254
 Width: 742
 VWidth: 819
@@ -19160,7 +19076,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C20_U0C47.abvs
+StartChar: tthatelu_eesigntelu
 Encoding: 65705 -1 255
 Width: 540
 VWidth: 819
@@ -19225,10 +19141,9 @@ SplineSet
  231.2 196 l 1,64,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C47.abvs
+StartChar: ddatelu_eesigntelu
 Encoding: 65706 -1 256
 Width: 672
 VWidth: 819
@@ -19314,7 +19229,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C22_U0C47.abvs
+StartChar: ddhatelu_eesigntelu
 Encoding: 65707 -1 257
 Width: 672
 VWidth: 819
@@ -19406,7 +19321,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C23_U0C47.abvs
+StartChar: nnatelu_eesigntelu
 Encoding: 65708 -1 258
 Width: 761
 VWidth: 819
@@ -19507,7 +19422,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C24_U0C47.abvs
+StartChar: tatelu_eesigntelu
 Encoding: 65709 -1 259
 Width: 655
 VWidth: 819
@@ -19600,7 +19515,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C25_U0C47.abvs
+StartChar: thatelu_eesigntelu
 Encoding: 65710 -1 260
 Width: 645
 VWidth: 819
@@ -19679,7 +19594,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C26_U0C47.abvs
+StartChar: datelu_eesigntelu
 Encoding: 65711 -1 261
 Width: 643
 VWidth: 819
@@ -19747,7 +19662,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C27_U0C47.abvs
+StartChar: dhatelu_eesigntelu
 Encoding: 65712 -1 262
 Width: 645
 VWidth: 819
@@ -19820,7 +19735,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C28_U0C47.abvs
+StartChar: natelu_eesigntelu
 Encoding: 65713 -1 263
 Width: 606
 VWidth: 819
@@ -19890,7 +19805,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2A_U0C47.abvs
+StartChar: patelu_eesigntelu
 Encoding: 65714 -1 264
 Width: 572
 VWidth: 819
@@ -19968,7 +19883,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C2B_U0C47.abvs
+StartChar: phatelu_eesigntelu
 Encoding: 65715 -1 265
 Width: 579
 VWidth: 819
@@ -20052,7 +19967,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C2C_U0C47.abvs
+StartChar: batelu_eesigntelu
 Encoding: 65716 -1 266
 Width: 672
 VWidth: 819
@@ -20139,7 +20054,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2D_U0C47.abvs
+StartChar: bhatelu_eesigntelu
 Encoding: 65717 -1 267
 Width: 645
 VWidth: 819
@@ -20232,7 +20147,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2E_U0C47.abvs
+StartChar: matelu_eesigntelu
 Encoding: 65718 -1 268
 Width: 957
 VWidth: 819
@@ -20322,7 +20237,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C2F_U0C47.abvs
+StartChar: yatelu_eesigntelu
 Encoding: 65719 -1 269
 Width: 1240
 VWidth: 819
@@ -20413,7 +20328,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C30_U0C47.abvs
+StartChar: ratelu_eesigntelu
 Encoding: 65720 -1 270
 Width: 540
 VWidth: 819
@@ -20474,7 +20389,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C31_U0C47.abvs
+StartChar: rratelu_eesigntelu
 Encoding: 65721 -1 271
 Width: 757
 VWidth: 819
@@ -20575,7 +20490,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C32_U0C47.abvs
+StartChar: latelu_eesigntelu
 Encoding: 65722 -1 272
 Width: 666
 VWidth: 819
@@ -20652,7 +20567,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C33_U0C47.abvs
+StartChar: llatelu_eesigntelu
 Encoding: 65723 -1 273
 Width: 561
 VWidth: 819
@@ -20745,7 +20660,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C35_U0C47.abvs
+StartChar: vatelu_eesigntelu
 Encoding: 65724 -1 274
 Width: 576
 VWidth: 819
@@ -20820,7 +20735,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C36_U0C47.abvs
+StartChar: shatelu_eesigntelu
 Encoding: 65725 -1 275
 Width: 501
 VWidth: 819
@@ -20905,7 +20820,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C37_U0C47.abvs
+StartChar: ssatelu_eesigntelu
 Encoding: 65726 -1 276
 Width: 600
 VWidth: 819
@@ -20990,7 +20905,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C38_U0C47.abvs
+StartChar: satelu_eesigntelu
 Encoding: 65727 -1 277
 Width: 590
 VWidth: 819
@@ -21062,7 +20977,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C39_U0C47.abvs
+StartChar: hatelu_eesigntelu
 Encoding: 65728 -1 278
 Width: 882
 VWidth: 819
@@ -21164,7 +21079,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C15_U0C47_U0C37_U0C4D.akhn
+StartChar: katel_eesigntel_ssatel_viramtel
 Encoding: 65729 -1 279
 Width: 511
 VWidth: 819
@@ -21257,10 +21172,9 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,112,-1
  128 346.4 l 1,36,37
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C4A.abvs
+StartChar: katelu_osigntelu
 Encoding: 65730 -1 280
 Width: 734
 VWidth: 819
@@ -21341,10 +21255,9 @@ SplineSet
  550.4 561.6 l 1,83,84
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C4A.abvs
+StartChar: khatelu_osigntelu
 Encoding: 65731 -1 281
 Width: 950
 VWidth: 819
@@ -21461,10 +21374,9 @@ SplineSet
  767.2 561.6 l 1,130,131
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C4A.abvs
+StartChar: gatelu_osigntelu
 Encoding: 65732 -1 282
 Width: 798
 VWidth: 819
@@ -21528,10 +21440,9 @@ SplineSet
  614.4 561.6 l 1,58,59
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C4A.abvs
+StartChar: ghatelu_osigntelu
 Encoding: 65733 -1 283
 Width: 1338
 VWidth: 819
@@ -21626,10 +21537,9 @@ SplineSet
  84 444.8 l 1,92,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C4A.abvs
+StartChar: ngatelu_osigntelu
 Encoding: 65734 -1 284
 Width: 920
 VWidth: 819
@@ -21735,10 +21645,9 @@ SplineSet
  736.8 561.6 l 1,116,117
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C4A.abvs
+StartChar: catelu_osigntelu
 Encoding: 65735 -1 285
 Width: 860
 VWidth: 819
@@ -21825,10 +21734,9 @@ SplineSet
  677.6 561.6 l 1,89,90
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C4A.abvs
+StartChar: chatelu_osigntelu
 Encoding: 65736 -1 286
 Width: 874
 VWidth: 819
@@ -21923,10 +21831,9 @@ SplineSet
  691.2 561.6 l 1,97,98
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C4A.abvs
+StartChar: jatelu_osigntelu
 Encoding: 65737 -1 287
 Width: 923
 VWidth: 819
@@ -22038,10 +21945,9 @@ SplineSet
  740 561.6 l 1,128,129
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C4A.abvs
+StartChar: jhatelu_osigntelu
 Encoding: 65738 -1 288
 Width: 1655
 VWidth: 819
@@ -22133,10 +22039,9 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C4A.abvs
+StartChar: nyatelu_osigntelu
 Encoding: 65739 -1 289
 Width: 1070
 VWidth: 819
@@ -22250,10 +22155,9 @@ SplineSet
  886.4 561.6 l 1,124,125
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C4A.abvs
+StartChar: ttatelu_osigntelu
 Encoding: 65740 -1 290
 Width: 990
 VWidth: 819
@@ -22352,10 +22256,9 @@ SplineSet
  806.4 561.6 l 1,106,107
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C4A.abvs
+StartChar: tthatelu_osigntelu
 Encoding: 65741 -1 291
 Width: 816
 VWidth: 819
@@ -22434,10 +22337,9 @@ SplineSet
  632 561.6 l 1,75,76
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C4A.abvs
+StartChar: ddatelu_osigntelu
 Encoding: 65742 -1 292
 Width: 892
 VWidth: 819
@@ -22535,10 +22437,9 @@ SplineSet
  708.8 561.6 l 1,106,107
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C4A.abvs
+StartChar: ddhatelu_osigntelu
 Encoding: 65743 -1 293
 Width: 844
 VWidth: 819
@@ -22642,10 +22543,9 @@ SplineSet
  660.8 561.6 l 1,112,113
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C4A.abvs
+StartChar: nnatelu_osigntelu
 Encoding: 65744 -1 294
 Width: 1008
 VWidth: 819
@@ -22758,10 +22658,9 @@ SplineSet
  825.6 561.6 l 1,127,128
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C4A.abvs
+StartChar: tatelu_osigntelu
 Encoding: 65745 -1 295
 Width: 903
 VWidth: 819
@@ -22863,10 +22762,9 @@ SplineSet
  719.2 561.6 l 1,111,112
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C4A.abvs
+StartChar: thatelu_osigntelu
 Encoding: 65746 -1 296
 Width: 844
 VWidth: 819
@@ -22961,10 +22859,9 @@ SplineSet
  660.8 561.6 l 1,95,96
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C4A.abvs
+StartChar: datelu_osigntelu
 Encoding: 65747 -1 297
 Width: 844
 VWidth: 819
@@ -23047,10 +22944,9 @@ SplineSet
  660.8 561.6 l 1,84,85
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C4A.abvs
+StartChar: dhatelu_osigntelu
 Encoding: 65748 -1 298
 Width: 844
 VWidth: 819
@@ -23139,10 +23035,9 @@ SplineSet
  660.8 561.6 l 1,90,91
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C4A.abvs
+StartChar: natelu_osigntelu
 Encoding: 65749 -1 299
 Width: 836
 VWidth: 819
@@ -23222,10 +23117,9 @@ SplineSet
  652.8 561.6 l 1,82,83
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C4A.abvs
+StartChar: patelu_osigntelu
 Encoding: 65750 -1 300
 Width: 903
 VWidth: 819
@@ -23315,10 +23209,9 @@ SplineSet
  699.2 315.2 l 1,93,94
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C4A.abvs
+StartChar: phatelu_osigntelu
 Encoding: 65751 -1 301
 Width: 903
 VWidth: 819
@@ -23414,10 +23307,9 @@ SplineSet
  699.2 315.2 l 1,99,100
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C4A.abvs
+StartChar: batelu_osigntelu
 Encoding: 65752 -1 302
 Width: 920
 VWidth: 819
@@ -23513,10 +23405,9 @@ SplineSet
  736.8 561.6 l 1,106,107
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C4A.abvs
+StartChar: bhatelu_osigntelu
 Encoding: 65753 -1 303
 Width: 881
 VWidth: 819
@@ -23618,10 +23509,9 @@ SplineSet
  697.6 561.6 l 1,112,113
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C4A.abvs
+StartChar: matelu_osigntelu
 Encoding: 65754 -1 304
 Width: 1338
 VWidth: 819
@@ -23707,10 +23597,9 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C4A.abvs
+StartChar: yatelu_osigntelu
 Encoding: 65755 -1 305
 Width: 1607
 VWidth: 819
@@ -23798,10 +23687,9 @@ SplineSet
  753.6 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C4A.abvs
+StartChar: ratelu_osigntelu
 Encoding: 65756 -1 306
 Width: 788
 VWidth: 819
@@ -23874,10 +23762,9 @@ SplineSet
  604.8 561.6 l 1,70,71
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C4A.abvs
+StartChar: rratelu_osigntelu
 Encoding: 65757 -1 307
 Width: 1064
 VWidth: 819
@@ -23990,10 +23877,9 @@ SplineSet
  881.6 561.6 l 1,126,127
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C4A.abvs
+StartChar: latelu_osigntelu
 Encoding: 65758 -1 308
 Width: 911
 VWidth: 819
@@ -24080,10 +23966,9 @@ SplineSet
  727.2 561.6 l 1,91,92
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C4A.abvs
+StartChar: llatelu_osigntelu
 Encoding: 65759 -1 309
 Width: 806
 VWidth: 819
@@ -24187,10 +24072,9 @@ SplineSet
  623.2 561.6 l 1,113,114
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C4A.abvs
+StartChar: vatelu_osigntelu
 Encoding: 65760 -1 310
 Width: 832
 VWidth: 819
@@ -24276,10 +24160,9 @@ SplineSet
  648.8 561.6 l 1,89,90
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C4A.abvs
+StartChar: shatelu_osigntelu
 Encoding: 65761 -1 311
 Width: 753
 VWidth: 819
@@ -24373,10 +24256,9 @@ SplineSet
  569.6 561.6 l 1,101,102
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C4A.abvs
+StartChar: ssatelu_osigntelu
 Encoding: 65762 -1 312
 Width: 908
 VWidth: 819
@@ -24473,10 +24355,9 @@ SplineSet
  704.8 315.2 l 1,102,103
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C4A.abvs
+StartChar: satelu_osigntelu
 Encoding: 65763 -1 313
 Width: 901
 VWidth: 819
@@ -24560,10 +24441,9 @@ SplineSet
  697.6 315.2 l 1,86,87
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C4A.abvs
+StartChar: hatelu_osigntelu
 Encoding: 65764 -1 314
 Width: 1267
 VWidth: 819
@@ -24686,10 +24566,9 @@ SplineSet
  1084 561.6 l 1,136,137
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C4A_U0C37_U0C4D.akhn
+StartChar: katel_osigntel_ssatel_viramtel
 Encoding: 65765 -1 315
 Width: 750
 VWidth: 819
@@ -24796,10 +24675,9 @@ SplineSet
  567.2 588.8 567.2 588.8 567.2 561.6 c 1,131,-1
  567.2 561.6 l 1,119,120
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C4B.abvs
+StartChar: katelu_oosigntelu
 Encoding: 65766 -1 316
 Width: 734
 VWidth: 819
@@ -24894,10 +24772,9 @@ SplineSet
  550.4 561.6 l 1,103,104
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C4B.abvs
+StartChar: khatelu_oosigntelu
 Encoding: 65767 -1 317
 Width: 944
 VWidth: 819
@@ -25029,10 +24906,9 @@ SplineSet
  760 567.2 l 1,151,152
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C4B.abvs
+StartChar: gatelu_oosigntelu
 Encoding: 65768 -1 318
 Width: 798
 VWidth: 819
@@ -25110,10 +24986,9 @@ SplineSet
  614.4 561.6 l 1,78,79
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C4B.abvs
+StartChar: ghatelu_oosigntelu
 Encoding: 65769 -1 319
 Width: 1319
 VWidth: 819
@@ -25218,10 +25093,9 @@ SplineSet
  1113.6 379.2 l 1,109,110
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C4B.abvs
+StartChar: ngatelu_oosigntelu
 Encoding: 65770 -1 320
 Width: 920
 VWidth: 819
@@ -25342,10 +25216,9 @@ SplineSet
  736.8 561.6 l 1,137,138
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C4B.abvs
+StartChar: catelu_oosigntelu
 Encoding: 65771 -1 321
 Width: 859
 VWidth: 819
@@ -25446,10 +25319,9 @@ SplineSet
  676 561.6 l 1,109,110
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C4B.abvs
+StartChar: chatelu_oosigntelu
 Encoding: 65772 -1 322
 Width: 874
 VWidth: 819
@@ -25558,10 +25430,9 @@ SplineSet
  691.2 561.6 l 1,117,118
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C4B.abvs
+StartChar: jatelu_oosigntelu
 Encoding: 65773 -1 323
 Width: 922
 VWidth: 819
@@ -25688,10 +25559,9 @@ SplineSet
  738.4 563.2 l 1,149,150
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C4B.abvs
+StartChar: jhatelu_oosigntelu
 Encoding: 65774 -1 324
 Width: 1649
 VWidth: 819
@@ -25796,10 +25666,9 @@ SplineSet
  1444 379.2 l 1,111,112
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C4B.abvs
+StartChar: nyatelu_oosigntelu
 Encoding: 65775 -1 325
 Width: 1063
 VWidth: 819
@@ -25927,10 +25796,9 @@ SplineSet
  880 561.6 l 1,144,145
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C4B.abvs
+StartChar: ttatelu_oosigntelu
 Encoding: 65776 -1 326
 Width: 990
 VWidth: 819
@@ -26043,10 +25911,9 @@ SplineSet
  806.4 561.6 l 1,126,127
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C4B.abvs
+StartChar: tthatelu_oosigntelu
 Encoding: 65777 -1 327
 Width: 816
 VWidth: 819
@@ -26139,10 +26006,9 @@ SplineSet
  632 561.6 l 1,95,96
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C4B.abvs
+StartChar: ddatelu_oosigntelu
 Encoding: 65778 -1 328
 Width: 892
 VWidth: 819
@@ -26253,10 +26119,9 @@ SplineSet
  708.8 561.6 l 1,124,125
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C4B.abvs
+StartChar: ddhatelu_oosigntelu
 Encoding: 65779 -1 329
 Width: 844
 VWidth: 819
@@ -26374,10 +26239,9 @@ SplineSet
  660.8 561.6 l 1,132,133
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C4B.abvs
+StartChar: nnatelu_oosigntelu
 Encoding: 65780 -1 330
 Width: 1008
 VWidth: 819
@@ -26504,10 +26368,9 @@ SplineSet
  825.6 561.6 l 1,147,148
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C4B.abvs
+StartChar: tatelu_oosigntelu
 Encoding: 65781 -1 331
 Width: 903
 VWidth: 819
@@ -26623,10 +26486,9 @@ SplineSet
  719.2 561.6 l 1,131,132
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C4B.abvs
+StartChar: thatelu_oosigntelu
 Encoding: 65782 -1 332
 Width: 844
 VWidth: 819
@@ -26735,10 +26597,9 @@ SplineSet
  660.8 561.6 l 1,115,116
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C4B.abvs
+StartChar: datelu_oosigntelu
 Encoding: 65783 -1 333
 Width: 844
 VWidth: 819
@@ -26835,10 +26696,9 @@ SplineSet
  660.8 561.6 l 1,104,105
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C4B.abvs
+StartChar: dhatelu_oosigntelu
 Encoding: 65784 -1 334
 Width: 843
 VWidth: 819
@@ -26941,10 +26801,9 @@ SplineSet
  659.2 561.6 l 1,110,111
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C4B.abvs
+StartChar: natelu_oosigntelu
 Encoding: 65785 -1 335
 Width: 836
 VWidth: 819
@@ -27038,10 +26897,9 @@ SplineSet
  652.8 561.6 l 1,102,103
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C4B.abvs
+StartChar: patelu_oosigntelu
 Encoding: 65786 -1 336
 Width: 907
 VWidth: 819
@@ -27146,10 +27004,9 @@ SplineSet
  703.2 308.8 l 1,114,115
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C4B.abvs
+StartChar: phatelu_oosigntelu
 Encoding: 65787 -1 337
 Width: 901
 VWidth: 819
@@ -27260,10 +27117,9 @@ SplineSet
  697.6 308.8 l 1,120,121
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C4B.abvs
+StartChar: batelu_oosigntelu
 Encoding: 65788 -1 338
 Width: 920
 VWidth: 819
@@ -27374,10 +27230,9 @@ SplineSet
  736.8 567.2 l 1,127,128
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C4B.abvs
+StartChar: bhatelu_oosigntelu
 Encoding: 65789 -1 339
 Width: 881
 VWidth: 819
@@ -27494,10 +27349,9 @@ SplineSet
  697.6 567.2 l 1,133,134
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C4B.abvs
+StartChar: matelu_oosigntelu
 Encoding: 65790 -1 340
 Width: 1313
 VWidth: 819
@@ -27593,10 +27447,9 @@ SplineSet
  1108 379.2 l 1,101,102
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C4B.abvs
+StartChar: yatelu_oosigntelu
 Encoding: 65791 -1 341
 Width: 1588
 VWidth: 819
@@ -27695,10 +27548,9 @@ SplineSet
  1383.2 379.2 l 1,106,107
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C4B.abvs
+StartChar: ratelu_oosigntelu
 Encoding: 65792 -1 342
 Width: 788
 VWidth: 819
@@ -27785,10 +27637,9 @@ SplineSet
  604.8 561.6 l 1,90,91
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C4B.abvs
+StartChar: rratelu_oosigntelu
 Encoding: 65793 -1 343
 Width: 1058
 VWidth: 819
@@ -27914,10 +27765,9 @@ SplineSet
  874.4 567.2 l 1,144,145
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C4B.abvs
+StartChar: latelu_oosigntelu
 Encoding: 65794 -1 344
 Width: 911
 VWidth: 819
@@ -28018,10 +27868,9 @@ SplineSet
  727.2 567.2 l 1,111,112
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C4B.abvs
+StartChar: llatelu_oosigntelu
 Encoding: 65795 -1 345
 Width: 806
 VWidth: 819
@@ -28140,10 +27989,9 @@ SplineSet
  623.2 567.2 l 1,134,135
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C4B.abvs
+StartChar: vatelu_oosigntelu
 Encoding: 65796 -1 346
 Width: 832
 VWidth: 819
@@ -28243,10 +28091,9 @@ SplineSet
  648.8 561.6 l 1,109,110
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C4B.abvs
+StartChar: shatelu_oosigntelu
 Encoding: 65797 -1 347
 Width: 753
 VWidth: 819
@@ -28355,10 +28202,9 @@ SplineSet
  569.6 567.2 l 1,122,123
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C4B.abvs
+StartChar: ssatelu_oosigntelu
 Encoding: 65798 -1 348
 Width: 912
 VWidth: 819
@@ -28470,10 +28316,9 @@ SplineSet
  708.8 308.8 l 1,123,124
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C4B.abvs
+StartChar: satelu_oosigntelu
 Encoding: 65799 -1 349
 Width: 901
 VWidth: 819
@@ -28572,10 +28417,9 @@ SplineSet
  697.6 308.8 l 1,107,108
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C4B.abvs
+StartChar: hatelu_oosigntelu
 Encoding: 65800 -1 350
 Width: 1294
 VWidth: 819
@@ -28713,10 +28557,9 @@ SplineSet
  1111.2 567.2 l 1,157,158
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C4B_U0C37_U0C4D.akhn
+StartChar: katel_oosigntel_ssatel_viramtel
 Encoding: 65801 -1 351
 Width: 750
 VWidth: 819
@@ -28837,10 +28680,9 @@ SplineSet
  567.2 588.8 567.2 588.8 567.2 561.6 c 1,151,-1
  567.2 561.6 l 1,139,140
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C4C.abvs
+StartChar: katelu_ausigntelu
 Encoding: 65802 -1 352
 Width: 771
 VWidth: 819
@@ -28915,10 +28757,9 @@ SplineSet
  587.2 526.4 l 1,73,74
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C4C.abvs
+StartChar: khatelu_ausigntelu
 Encoding: 65803 -1 353
 Width: 960
 VWidth: 819
@@ -29032,10 +28873,9 @@ SplineSet
  776.8 526.4 l 1,123,124
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C4C.abvs
+StartChar: gatelu_ausigntelu
 Encoding: 65804 -1 354
 Width: 787
 VWidth: 819
@@ -29095,10 +28935,9 @@ SplineSet
  604 526.4 l 1,50,51
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C4C.abvs
+StartChar: ghatelu_ausigntelu
 Encoding: 65805 -1 355
 Width: 1270
 VWidth: 819
@@ -29215,10 +29054,9 @@ SplineSet
  1088 536 l 1,126,127
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C4C.abvs
+StartChar: ngatelu_ausigntelu
 Encoding: 65806 -1 356
 Width: 1012
 VWidth: 819
@@ -29319,10 +29157,9 @@ SplineSet
  828 526.4 l 1,107,108
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C4C.abvs
+StartChar: catelu_ausigntelu
 Encoding: 65807 -1 357
 Width: 904
 VWidth: 819
@@ -29406,10 +29243,9 @@ SplineSet
  720.8 526.4 l 1,82,83
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C4C.abvs
+StartChar: chatelu_ausigntelu
 Encoding: 65808 -1 358
 Width: 938
 VWidth: 819
@@ -29499,10 +29335,9 @@ SplineSet
  754.4 526.4 l 1,88,89
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C4C.abvs
+StartChar: jatelu_ausigntelu
 Encoding: 65809 -1 359
 Width: 924
 VWidth: 819
@@ -29603,10 +29438,9 @@ SplineSet
  740.8 526.4 l 1,113,114
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C4C.abvs
+StartChar: jhatelu_ausigntelu
 Encoding: 65810 -1 360
 Width: 1607
 VWidth: 819
@@ -29713,10 +29547,9 @@ SplineSet
  1425.6 536 l 1,115,116
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C4C.abvs
+StartChar: nyatelu_ausigntelu
 Encoding: 65811 -1 361
 Width: 1222
 VWidth: 819
@@ -29824,10 +29657,9 @@ SplineSet
  1039.2 526.4 l 1,114,115
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C4C.abvs
+StartChar: ttatelu_ausigntelu
 Encoding: 65812 -1 362
 Width: 1020
 VWidth: 819
@@ -29921,10 +29753,9 @@ SplineSet
  836 526.4 l 1,97,98
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C4C.abvs
+StartChar: tthatelu_ausigntelu
 Encoding: 65813 -1 363
 Width: 845
 VWidth: 819
@@ -29997,10 +29828,9 @@ SplineSet
  662.4 526.4 l 1,65,66
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C4C.abvs
+StartChar: ddatelu_ausigntelu
 Encoding: 65814 -1 364
 Width: 924
 VWidth: 819
@@ -30092,10 +29922,9 @@ SplineSet
  740.8 526.4 l 1,95,96
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C4C.abvs
+StartChar: ddhatelu_ausigntelu
 Encoding: 65815 -1 365
 Width: 908
 VWidth: 819
@@ -30193,10 +30022,9 @@ SplineSet
  724.8 526.4 l 1,101,102
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C4C.abvs
+StartChar: nnatelu_ausigntelu
 Encoding: 65816 -1 366
 Width: 1066
 VWidth: 819
@@ -30303,10 +30131,9 @@ SplineSet
  882.4 526.4 l 1,117,118
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C4C.abvs
+StartChar: tatelu_ausigntelu
 Encoding: 65817 -1 367
 Width: 919
 VWidth: 819
@@ -30405,10 +30232,9 @@ SplineSet
  736 526.4 l 1,104,105
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C4C.abvs
+StartChar: thatelu_ausigntelu
 Encoding: 65818 -1 368
 Width: 881
 VWidth: 819
@@ -30497,10 +30323,9 @@ SplineSet
  697.6 526.4 l 1,85,86
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C4C.abvs
+StartChar: datelu_ausigntelu
 Encoding: 65819 -1 369
 Width: 874
 VWidth: 819
@@ -30577,10 +30402,9 @@ SplineSet
  691.2 526.4 l 1,74,75
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C4C.abvs
+StartChar: dhatelu_ausigntelu
 Encoding: 65820 -1 370
 Width: 868
 VWidth: 819
@@ -30663,10 +30487,9 @@ SplineSet
  684 526.4 l 1,80,81
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C4C.abvs
+StartChar: natelu_ausigntelu
 Encoding: 65821 -1 371
 Width: 839
 VWidth: 819
@@ -30741,10 +30564,9 @@ SplineSet
  655.2 526.4 l 1,73,74
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C4C.abvs
+StartChar: patelu_ausigntelu
 Encoding: 65822 -1 372
 Width: 880
 VWidth: 819
@@ -30832,10 +30654,9 @@ SplineSet
  676 336 l 1,89,90
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C4C.abvs
+StartChar: phatelu_ausigntelu
 Encoding: 65823 -1 373
 Width: 893
 VWidth: 819
@@ -30929,10 +30750,9 @@ SplineSet
  689.6 336 l 1,95,96
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C4C.abvs
+StartChar: batelu_ausigntelu
 Encoding: 65824 -1 374
 Width: 903
 VWidth: 819
@@ -31025,10 +30845,9 @@ SplineSet
  719.2 526.4 l 1,99,100
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C4C.abvs
+StartChar: bhatelu_ausigntelu
 Encoding: 65825 -1 375
 Width: 890
 VWidth: 819
@@ -31121,10 +30940,9 @@ SplineSet
  707.2 526.4 l 1,99,100
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C4C.abvs
+StartChar: matelu_ausigntelu
 Encoding: 65826 -1 376
 Width: 1270
 VWidth: 819
@@ -31224,10 +31042,9 @@ SplineSet
  1088 536 l 1,108,109
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C4C.abvs
+StartChar: yatelu_ausigntelu
 Encoding: 65827 -1 377
 Width: 1552
 VWidth: 819
@@ -31334,10 +31151,9 @@ SplineSet
  753.6 243.2 l 1,26,27
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C4C.abvs
+StartChar: ratelu_ausigntelu
 Encoding: 65828 -1 378
 Width: 812
 VWidth: 819
@@ -31404,10 +31220,9 @@ SplineSet
  628 526.4 l 1,60,61
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C4C.abvs
+StartChar: rratelu_ausigntelu
 Encoding: 65829 -1 379
 Width: 1006
 VWidth: 819
@@ -31513,10 +31328,9 @@ SplineSet
  822.4 526.4 l 1,114,115
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C4C.abvs
+StartChar: latelu_ausigntelu
 Encoding: 65830 -1 380
 Width: 913
 VWidth: 819
@@ -31595,10 +31409,9 @@ SplineSet
  730.4 526.4 l 1,79,80
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C4C.abvs
+StartChar: llatelu_ausigntelu
 Encoding: 65831 -1 381
 Width: 816
 VWidth: 819
@@ -31697,10 +31510,9 @@ SplineSet
  632 526.4 l 1,104,105
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C4C.abvs
+StartChar: vatelu_ausigntelu
 Encoding: 65832 -1 382
 Width: 862
 VWidth: 819
@@ -31781,10 +31593,9 @@ SplineSet
  678.4 526.4 l 1,80,81
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C4C.abvs
+StartChar: shatelu_ausigntelu
 Encoding: 65833 -1 383
 Width: 756
 VWidth: 819
@@ -31875,10 +31686,9 @@ SplineSet
  572.8 526.4 l 1,94,95
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C4C.abvs
+StartChar: ssatelu_ausigntelu
 Encoding: 65834 -1 384
 Width: 895
 VWidth: 819
@@ -31973,10 +31783,9 @@ SplineSet
  691.2 336 l 1,98,99
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C4C.abvs
+StartChar: satelu_ausigntelu
 Encoding: 65835 -1 385
 Width: 885
 VWidth: 819
@@ -32058,10 +31867,9 @@ SplineSet
  681.6 336 l 1,82,83
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C4C.abvs
+StartChar: hatelu_ausigntelu
 Encoding: 65836 -1 386
 Width: 1222
 VWidth: 819
@@ -32178,10 +31986,9 @@ SplineSet
  1039.2 526.4 l 1,126,127
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C4C_U0C37_U0C4D.akhn
+StartChar: katel_ausigntel_ssatel_viramtel
 Encoding: 65837 -1 387
 Width: 800
 VWidth: 819
@@ -32284,10 +32091,9 @@ SplineSet
  617.6 526.4 l 1,110,111
 EndSplineSet
 Validated: 5
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C4D.haln
+StartChar: katelu_viramasigntelu
 Encoding: 65838 -1 388
 Width: 473
 VWidth: 819
@@ -32350,10 +32156,9 @@ SplineSet
  118.4 353.6 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C4D.haln
+StartChar: khatelu_viramasigntelu
 Encoding: 65839 -1 389
 Width: 705
 VWidth: 819
@@ -32452,10 +32257,9 @@ SplineSet
  460 0 l 1,27,28
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C4D.haln
+StartChar: gatelu_viramasigntelu
 Encoding: 65840 -1 390
 Width: 519
 VWidth: 819
@@ -32502,10 +32306,9 @@ SplineSet
  36.7998 0 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C4D.haln
+StartChar: ghatelu_viramasigntelu
 Encoding: 65841 -1 391
 Width: 950
 VWidth: 819
@@ -32599,10 +32402,9 @@ SplineSet
  217.6 444.8 l 1,74,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C4D.haln
+StartChar: ngatelu_viramasigntelu
 Encoding: 65842 -1 392
 Width: 618
 VWidth: 819
@@ -32691,10 +32493,9 @@ SplineSet
  43.2002 144 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C4D.haln
+StartChar: catelu_viramasigntelu
 Encoding: 65843 -1 393
 Width: 640
 VWidth: 819
@@ -32765,10 +32566,9 @@ SplineSet
  428 0 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C4D.haln
+StartChar: chatelu_viramasigntelu
 Encoding: 65844 -1 394
 Width: 641
 VWidth: 819
@@ -32845,10 +32645,9 @@ SplineSet
  428 0 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C4D.haln
+StartChar: jatelu_viramasigntelu
 Encoding: 65845 -1 395
 Width: 644
 VWidth: 819
@@ -32938,10 +32737,9 @@ SplineSet
  44.7998 144 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C4D.haln
+StartChar: jhatelu_viramasigntelu
 Encoding: 65846 -1 396
 Width: 1183
 VWidth: 819
@@ -33034,10 +32832,9 @@ SplineSet
  33.5996 235.2 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C4D.haln
+StartChar: nyatelu_viramasigntelu
 Encoding: 65847 -1 397
 Width: 810
 VWidth: 819
@@ -33133,10 +32930,9 @@ SplineSet
  186.4 118.4 l 1,98,99
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C4D.haln
+StartChar: ttatelu_viramasigntelu
 Encoding: 65848 -1 398
 Width: 740
 VWidth: 819
@@ -33215,10 +33011,9 @@ SplineSet
  38.4004 220 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C4D.haln
+StartChar: tthatelu_viramasigntelu
 Encoding: 65849 -1 399
 Width: 540
 VWidth: 819
@@ -33279,10 +33074,9 @@ SplineSet
  231.2 196 l 1,58,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C4D.haln
+StartChar: ddatelu_viramasigntelu
 Encoding: 65850 -1 400
 Width: 672
 VWidth: 819
@@ -33362,10 +33156,9 @@ SplineSet
  35.2002 209.6 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C4D.haln
+StartChar: ddhatelu_viramasigntelu
 Encoding: 65851 -1 401
 Width: 672
 VWidth: 819
@@ -33451,10 +33244,9 @@ SplineSet
  35.2002 209.6 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C4D.haln
+StartChar: nnatelu_viramasigntelu
 Encoding: 65852 -1 402
 Width: 761
 VWidth: 819
@@ -33549,10 +33341,9 @@ SplineSet
  43.2002 346.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C4D.haln
+StartChar: tatelu_viramasigntelu
 Encoding: 65853 -1 403
 Width: 654
 VWidth: 819
@@ -33636,10 +33427,9 @@ SplineSet
  470.4 402.4 l 1,26,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C4D.haln
+StartChar: thatelu_viramasigntelu
 Encoding: 65854 -1 404
 Width: 645
 VWidth: 819
@@ -33716,10 +33506,9 @@ SplineSet
  284 248.8 l 1,78,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C4D.haln
+StartChar: datelu_viramasigntelu
 Encoding: 65855 -1 405
 Width: 644
 VWidth: 819
@@ -33784,10 +33573,9 @@ SplineSet
  35.2002 196 l 1,20,21
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C4D.haln
+StartChar: dhatelu_viramasigntelu
 Encoding: 65856 -1 406
 Width: 645
 VWidth: 819
@@ -33858,10 +33646,9 @@ SplineSet
  35.2002 196 l 1,20,21
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C4D.haln
+StartChar: natelu_viramasigntelu
 Encoding: 65857 -1 407
 Width: 606
 VWidth: 819
@@ -33923,10 +33710,9 @@ SplineSet
  394.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C4D.haln
+StartChar: patelu_viramasigntelu
 Encoding: 65858 -1 408
 Width: 572
 VWidth: 819
@@ -33999,10 +33785,9 @@ SplineSet
  224 444.8 l 1,46,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C4D.haln
+StartChar: phatelu_viramasigntelu
 Encoding: 65859 -1 409
 Width: 577
 VWidth: 819
@@ -34081,10 +33866,9 @@ SplineSet
  210.4 444.8 l 1,52,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C4D.haln
+StartChar: batelu_viramasigntelu
 Encoding: 65860 -1 410
 Width: 672
 VWidth: 819
@@ -34162,10 +33946,9 @@ SplineSet
  462.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C4D.haln
+StartChar: bhatelu_viramasigntelu
 Encoding: 65861 -1 411
 Width: 645
 VWidth: 819
@@ -34249,10 +34032,9 @@ SplineSet
  450.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C4D.haln
+StartChar: matelu_viramasigntelu
 Encoding: 65862 -1 412
 Width: 949
 VWidth: 819
@@ -34334,10 +34116,9 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C4D.haln
+StartChar: yatelu_viramasigntelu
 Encoding: 65863 -1 413
 Width: 1240
 VWidth: 819
@@ -34420,10 +34201,9 @@ SplineSet
  760 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C4D.haln
+StartChar: ratelu_viramasigntelu
 Encoding: 65864 -1 414
 Width: 540
 VWidth: 819
@@ -34478,10 +34258,9 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C4D.haln
+StartChar: rratelu_viramasigntelu
 Encoding: 65865 -1 415
 Width: 757
 VWidth: 819
@@ -34576,10 +34355,9 @@ SplineSet
  38.4004 247.2 l 1,13,14
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C4D.haln
+StartChar: latelu_viramasigntelu
 Encoding: 65866 -1 416
 Width: 666
 VWidth: 819
@@ -34647,10 +34425,9 @@ SplineSet
  346.4 65.5996 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C4D.haln
+StartChar: llatelu_viramasigntelu
 Encoding: 65867 -1 417
 Width: 561
 VWidth: 819
@@ -34736,10 +34513,9 @@ SplineSet
  287.2 169.6 l 1,26,27
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C4D.haln
+StartChar: vatelu_viramasigntelu
 Encoding: 65868 -1 418
 Width: 576
 VWidth: 819
@@ -34807,10 +34583,9 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C4D.haln
+StartChar: shatelu_viramasigntelu
 Encoding: 65869 -1 419
 Width: 500
 VWidth: 819
@@ -34886,10 +34661,9 @@ SplineSet
  157.6 151.2 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C4D.haln
+StartChar: ssatelu_viramasigntelu
 Encoding: 65870 -1 420
 Width: 600
 VWidth: 819
@@ -34969,10 +34743,9 @@ SplineSet
  217.6 444.8 l 1,55,-1
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C38_U0C4D.haln
+StartChar: satelu_viramasigntelu
 Encoding: 65871 -1 421
 Width: 590
 VWidth: 819
@@ -35039,10 +34812,9 @@ SplineSet
  228.8 444.8 l 1,39,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C4D.haln
+StartChar: hatelu_viramasigntelu
 Encoding: 65872 -1 422
 Width: 882
 VWidth: 819
@@ -35139,10 +34911,9 @@ SplineSet
  244.8 444.8 l 1,77,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C37_U0C4D.akhn_U0C4D.haln
+StartChar: katelu_ssatelu_viramasigntelu.akhn_U0C4D.haln
 Encoding: 65873 -1 423
 Width: 511
 VWidth: 819
@@ -35234,7 +35005,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C41.psts
+StartChar: jatelu_usigntelu
 Encoding: 65874 -1 424
 Width: 849
 VWidth: 819
@@ -35327,10 +35098,9 @@ SplineSet
  44.7998 84 44.7998 84 44.7998 144 c 1,116,-1
  44.7998 144 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C42.psts
+StartChar: jatelu_uusigntelu
 Encoding: 65875 -1 425
 Width: 1162
 VWidth: 819
@@ -35444,10 +35214,9 @@ SplineSet
  957.6 379.2 l 1,130,131
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C41.psts
+StartChar: patelu_usigntelu
 Encoding: 65876 -1 426
 Width: 822
 VWidth: 819
@@ -35522,10 +35291,9 @@ SplineSet
  11.2002 560 11.2002 560 11.2002 633.6 c 1,83,-1
  11.2002 633.6 l 1,67,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C42.psts
+StartChar: patelu_uusigntelu
 Encoding: 65877 -1 427
 Width: 1196
 VWidth: 819
@@ -35625,10 +35393,9 @@ SplineSet
  11.2002 560 11.2002 560 11.2002 633.6 c 1,115,-1
  11.2002 633.6 l 1,99,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C41.psts
+StartChar: phatelu_usigntelu
 Encoding: 65878 -1 428
 Width: 822
 VWidth: 819
@@ -35707,10 +35474,9 @@ SplineSet
  11.2002 560 11.2002 560 11.2002 633.6 c 1,88,-1
  11.2002 633.6 l 1,72,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C42.psts
+StartChar: phatelu_uusigntelu
 Encoding: 65879 -1 429
 Width: 1196
 VWidth: 819
@@ -35814,10 +35580,9 @@ SplineSet
  11.2002 560 11.2002 560 11.2002 633.6 c 1,120,-1
  11.2002 633.6 l 1,104,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C41.psts
+StartChar: vatelu_usigntelu
 Encoding: 65880 -1 430
 Width: 822
 VWidth: 819
@@ -35887,10 +35652,9 @@ SplineSet
  716.8 42.4004 716.8 42.4004 716.8 156 c 1,78,-1
  716.8 156 l 1,58,59
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C42.psts
+StartChar: vatelu_uusigntelu
 Encoding: 65881 -1 431
 Width: 1196
 VWidth: 819
@@ -35986,10 +35750,9 @@ SplineSet
  991.2 406.4 991.2 406.4 991.2 379.2 c 1,111,-1
  991.2 379.2 l 1,99,100
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C4D.blwf
+StartChar: katelu_viramasigntelu.blwf
 Encoding: 65882 -1 432
 Width: 500
 VWidth: 819
@@ -36028,10 +35791,9 @@ SplineSet
  2.40039 -130.4 l 1,0,1
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C16_U0C4D.blwf
+StartChar: khatelu_viramasigntelu.blwf
 Encoding: 65883 -1 433
 Width: 0
 VWidth: 819
@@ -36111,7 +35873,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C17_U0C4D.blwf
+StartChar: gatelu_viramasigntelu.blwf
 Encoding: 65884 -1 434
 Width: 0
 VWidth: 819
@@ -36137,7 +35899,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C4D.blwf
+StartChar: ghatelu_viramasigntelu.blwf
 Encoding: 65885 -1 435
 Width: 0
 VWidth: 819
@@ -36199,7 +35961,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C19_U0C4D.blwf
+StartChar: ngatelu_viramasigntelu.blwf
 Encoding: 65886 -1 436
 Width: 0
 VWidth: 819
@@ -36267,7 +36029,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1A_U0C4D.blwf
+StartChar: catelu_viramasigntelu.blwf
 Encoding: 65887 -1 437
 Width: 412
 VWidth: 819
@@ -36313,7 +36075,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1B_U0C4D.blwf
+StartChar: chatelu_viramasigntelu.blwf
 Encoding: 65888 -1 438
 Width: 402
 VWidth: 819
@@ -36365,7 +36127,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1C_U0C4D.blwf
+StartChar: jatelu_viramasigntelu.blwf
 Encoding: 65889 -1 439
 Width: 0
 VWidth: 819
@@ -36439,7 +36201,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C4D.blwf
+StartChar: jhatelu_viramasigntelu.blwf
 Encoding: 65890 -1 440
 Width: 0
 VWidth: 819
@@ -36502,7 +36264,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C4D.blwf
+StartChar: nyatelu_viramasigntelu.blwf
 Encoding: 65891 -1 441
 Width: 0
 VWidth: 819
@@ -36578,7 +36340,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1F_U0C4D.blwf
+StartChar: ttatelu_viramasigntelu.blwf
 Encoding: 65892 -1 442
 Width: 0
 VWidth: 819
@@ -36638,7 +36400,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C20_U0C4D.blwf
+StartChar: tthatelu_viramasigntelu.blwf
 Encoding: 65893 -1 443
 Width: 0
 VWidth: 819
@@ -36678,7 +36440,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C4D.blwf
+StartChar: ddatelu_viramasigntelu.blwf
 Encoding: 65894 -1 444
 Width: 0
 VWidth: 819
@@ -36736,7 +36498,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C4D.blwf
+StartChar: ddhatelu_viramasigntelu.blwf
 Encoding: 65895 -1 445
 Width: 0
 VWidth: 819
@@ -36798,7 +36560,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C23_U0C4D.blwf
+StartChar: nnatelu_viramasigntelu.blwf
 Encoding: 65896 -1 446
 Width: 0
 VWidth: 819
@@ -36871,7 +36633,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C24_U0C4D.blwf
+StartChar: tatelu_viramasigntelu.blwf
 Encoding: 65897 -1 447
 Width: 0
 VWidth: 819
@@ -36910,7 +36672,7 @@ Kerns2: 62 140 "'kern' Horizontal Kerning in Telugu lookup 1-1"  61 120 "'kern' 
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C25_U0C4D.blwf
+StartChar: thatelu_viramasigntelu.blwf
 Encoding: 65898 -1 448
 Width: 0
 VWidth: 819
@@ -36964,7 +36726,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C26_U0C4D.blwf
+StartChar: datelu_viramasigntelu.blwf
 Encoding: 65899 -1 449
 Width: 0
 VWidth: 819
@@ -37008,7 +36770,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C27_U0C4D.blwf
+StartChar: dhatelu_viramasigntelu.blwf
 Encoding: 65900 -1 450
 Width: 0
 VWidth: 819
@@ -37056,7 +36818,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C28_U0C4D.blwf
+StartChar: natelu_viramasigntelu.blwf
 Encoding: 65901 -1 451
 Width: 254
 VWidth: 819
@@ -37108,7 +36870,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2A_U0C4D.blwf
+StartChar: patelu_viramasigntelu.blwf
 Encoding: 65902 -1 452
 Width: 315
 VWidth: 819
@@ -37156,7 +36918,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2B_U0C4D.blwf
+StartChar: phatelu_viramasigntelu.blwf
 Encoding: 65903 -1 453
 Width: 318
 VWidth: 819
@@ -37208,7 +36970,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2C_U0C4D.blwf
+StartChar: batelu_viramasigntelu.blwf
 Encoding: 65904 -1 454
 Width: 383
 VWidth: 819
@@ -37264,7 +37026,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C4D.blwf
+StartChar: bhatelu_viramasigntelu.blwf
 Encoding: 65905 -1 455
 Width: 384
 VWidth: 819
@@ -37324,7 +37086,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C4D.blwf
+StartChar: matelu_viramasigntelu.blwf
 Encoding: 65906 -1 456
 Width: 246
 VWidth: 819
@@ -37382,7 +37144,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C4D.blwf
+StartChar: yatelu_viramasigntelu.blwf
 Encoding: 65907 -1 457
 Width: 370
 VWidth: 819
@@ -37439,7 +37201,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C4D.blwf
+StartChar: ratelu_viramasigntelu.blwf
 Encoding: 65908 -1 458
 Width: 0
 GlyphClass: 4
@@ -37465,7 +37227,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C4D.blwf
+StartChar: rratelu_viramasigntelu.blwf
 Encoding: 65909 -1 459
 Width: 0
 VWidth: 819
@@ -37542,7 +37304,7 @@ Validated: 37
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C4D.blwf
+StartChar: latelu_viramasigntelu.blwf
 Encoding: 65910 -1 460
 Width: 0
 VWidth: 819
@@ -37586,7 +37348,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C4D.blwf
+StartChar: llatelu_viramasigntelu.blwf
 Encoding: 65911 -1 461
 Width: 304
 VWidth: 819
@@ -37652,7 +37414,7 @@ Validated: 37
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C35_U0C4D.blwf
+StartChar: vatelu_viramasigntelu.blwf
 Encoding: 65912 -1 462
 Width: 350
 VWidth: 819
@@ -37712,7 +37474,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C4D.blwf
+StartChar: shatelu_viramasigntelu.blwf
 Encoding: 65913 -1 463
 Width: 264
 VWidth: 819
@@ -37772,7 +37534,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C4D.blwf
+StartChar: ssatelu_viramasigntelu.blwf
 Encoding: 65914 -1 464
 Width: 0
 VWidth: 819
@@ -37825,7 +37587,7 @@ EndSplineSet
 LCarets2: 1 1 
 EndChar
 
-StartChar: U0C38_U0C4D.blwf
+StartChar: satelu_viramasigntelu.blwf
 Encoding: 65915 -1 465
 Width: 343
 VWidth: 819
@@ -37867,7 +37629,7 @@ Validated: 5
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C4D.blwf
+StartChar: hatelu_viramasigntelu.blwf
 Encoding: 65916 -1 466
 Width: 0
 VWidth: 819
@@ -37935,7 +37697,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C4D.blwf_U0C37_U0C4D.blwf.blwf
+StartChar: katelu_viramasigntelu.blwf_U0C37_U0C4D.blwf.blwf
 Encoding: 65917 -1 467
 Width: 0
 VWidth: 819
@@ -38004,7 +37766,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C56_U0C24_U0C4D.blwf.blws
+StartChar: ailengthmarktelu_tatelu_viramasigntelu.blwf.blws
 Encoding: 65918 -1 468
 Width: 0
 VWidth: 819
@@ -38150,7 +37912,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C24_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: tatelu_viramasigntelu.blwf_U0C30_U0C4D.blwf.blws
 Encoding: 65920 -1 470
 Width: 0
 VWidth: 819
@@ -38271,7 +38033,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: U0C15_U0C37_U0C4D.akhn
+StartChar: katelu_ssatelu_viramasigntelu
 Encoding: 65922 -1 472
 Width: 511
 VWidth: 819
@@ -38346,10 +38108,9 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,87,-1
  128 346.4 l 1,36,37
 EndSplineSet
-LCarets2: 2 0 0 
 EndChar
 
-StartChar: U0C36_U0C40.abvs_U0C30_U0C4D.blwf.blws
+StartChar: shatelu_iisigntelu_U0C30_U0C4D
 Encoding: 65923 -1 473
 Width: 701
 VWidth: 819
@@ -38450,7 +38211,7 @@ EndSplineSet
 Validated: 549
 EndChar
 
-StartChar: U0C38_U0C24_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: satel_tatel_virmtel_U0C30_U0C4D
 Encoding: 65924 -1 474
 Width: 716
 VWidth: 819
@@ -38540,7 +38301,7 @@ EndSplineSet
 Validated: 517
 EndChar
 
-StartChar: U0C38_U0C3F.abvs_U0C24_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: satelu_isigntelu.abvs_U0C24_U0C4D.blwf_U0C30_U0C4D.blwf.blws
 Encoding: 65925 -1 475
 Width: 716
 VWidth: 819
@@ -38645,7 +38406,7 @@ EndSplineSet
 Validated: 517
 EndChar
 
-StartChar: U0C38_U0C24_U0C30_U0C40.akhn
+StartChar: satel_tatel_ratel_iisigntel
 Encoding: 65926 -1 476
 Width: 716
 VWidth: 819
@@ -38763,7 +38524,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C37_U0C1F_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: ssatelu_ttatelu_viramasigntelu.blwf_U0C30_U0C4D.blwf.blws
 Encoding: 65927 -1 477
 Width: 713
 VWidth: 819
@@ -38886,7 +38647,7 @@ Validated: 549
 LCarets2: 2 0 0 
 EndChar
 
-StartChar: U0C37_U0C1F_U0C30_U0C40.akhn
+StartChar: ssatel_ttatel_ratel_iisigntel
 Encoding: 65928 -1 478
 Width: 704
 VWidth: 819
@@ -39036,7 +38797,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: U0C15_U0C37_U0C4D.akhn_U0C2E_U0C4D.blwf.psts
+StartChar: katelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
 Encoding: 65929 -1 479
 Width: 963
 VWidth: 819
@@ -39154,7 +38915,7 @@ EndSplineSet
 Validated: 517
 EndChar
 
-StartChar: U0C15_U0C3F_U0C37_U0C4D.akhn_U0C2E_U0C4D.blwf.psts
+StartChar: katelu_isigntelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
 Encoding: 65930 -1 480
 Width: 963
 VWidth: 819
@@ -39290,7 +39051,7 @@ Validated: 517
 LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C40_U0C37_U0C4D.akhn_U0C2E_U0C4D.blwf.psts
+StartChar: katelu_iisigntelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
 Encoding: 65931 -1 481
 Width: 963
 VWidth: 819
@@ -39439,7 +39200,7 @@ EndSplineSet
 Validated: 549
 EndChar
 
-StartChar: U0C37_U0C3F.abvs_U0C1F_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: ssatelu_isigntelu.abvs_U0C1F_U0C4D.blwf_U0C30_U0C4D.blwf.blws
 Encoding: 65932 -1 482
 Width: 604
 VWidth: 819
@@ -39576,7 +39337,7 @@ EndSplineSet
 Validated: 549
 EndChar
 
-StartChar: U0C15_U0C41.psts
+StartChar: katelu_usigntelu
 Encoding: 65933 -1 483
 Width: 881
 VWidth: 819
@@ -39637,10 +39398,9 @@ SplineSet
  124 380.8 124 380.8 124 353.6 c 1,69,-1
  124 353.6 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C41.psts
+StartChar: ddatelu_usigntelu
 Encoding: 65934 -1 484
 Width: 1076
 VWidth: 819
@@ -39719,10 +39479,9 @@ SplineSet
  35.2002 118.4 35.2002 118.4 35.2002 202.4 c 1,92,-1
  35.2002 202.4 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C41.psts
+StartChar: ddhatelu_usigntelu
 Encoding: 65935 -1 485
 Width: 1076
 VWidth: 819
@@ -39809,10 +39568,9 @@ SplineSet
  266.4 -95.2002 l 1,99,-1
  266.4 -95.2002 l 1,93,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C41.psts
+StartChar: hatelu_usigntelu
 Encoding: 65936 -1 486
 Width: 1175
 VWidth: 819
@@ -39908,10 +39666,9 @@ SplineSet
  23.2002 69.5996 23.2002 69.5996 23.2002 118.4 c 1,112,-1
  23.2002 118.4 l 1,43,44
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C15_U0C42.psts
+StartChar: katelu_uusigntelu
 Encoding: 65937 -1 487
 Width: 1188
 VWidth: 819
@@ -39998,10 +39755,9 @@ SplineSet
  984.8 406.4 984.8 406.4 984.8 379.2 c 1,102,-1
  984.8 379.2 l 1,90,91
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C21_U0C42.psts
+StartChar: ddatelu_uusigntelu
 Encoding: 65938 -1 488
 Width: 1470
 VWidth: 819
@@ -40098,10 +39854,9 @@ SplineSet
  1264.8 406.4 1264.8 406.4 1264.8 379.2 c 1,118,-1
  1264.8 379.2 l 1,106,107
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C22_U0C42.psts
+StartChar: ddhatelu_uusigntelu
 Encoding: 65939 -1 489
 Width: 1470
 VWidth: 819
@@ -40206,10 +39961,9 @@ SplineSet
  266.4 -103.2 l 1,125,-1
  266.4 -103.2 l 1,119,-1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C39_U0C42.psts
+StartChar: hatelu_uusigntelu
 Encoding: 65940 -1 490
 Width: 1564
 VWidth: 819
@@ -40329,7 +40083,6 @@ SplineSet
  1358.4 406.4 1358.4 406.4 1358.4 379.2 c 1,143,-1
  1358.4 379.2 l 1,131,132
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: glyph493
@@ -42473,7 +42226,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C15_U0C41_U0C37_U0C4D.akhn
+StartChar: katel_usigntel_ssatel_viramtel
 Encoding: 65981 -1 531
 Width: 866
 VWidth: 819
@@ -42561,10 +42314,9 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,106,-1
  128 346.4 l 1,36,37
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C42_U0C37_U0C4D.akhn
+StartChar: katel_uusigntel_ssatel_viramtel
 Encoding: 65982 -1 532
 Width: 1214
 VWidth: 819
@@ -42676,10 +42428,9 @@ SplineSet
  1008.8 406.4 1008.8 406.4 1008.8 379.2 c 1,137,-1
  1008.8 379.2 l 1,125,126
 EndSplineSet
-LCarets2: 3 0 0 0 
 EndChar
 
-StartChar: U0C15_U0C46_U0C56_U0C37_U0C4D.akhn
+StartChar: katelu_esigntelu_ailengthmarktelu_ssatelu_viramasigntelu.akhn
 Encoding: 65983 -1 533
 Width: 511
 VWidth: 819
@@ -42901,7 +42652,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0C62
+StartChar: vocaliclsigntelu
 Encoding: 3170 3170 539
 Width: 0
 VWidth: 819
@@ -42943,7 +42694,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C63
+StartChar: vocalicllsigntelu
 Encoding: 3171 3171 540
 Width: 0
 VWidth: 819
@@ -43002,7 +42753,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C58
+StartChar: tsatelu
 Encoding: 3160 3160 541
 Width: 640
 VWidth: 819
@@ -43084,7 +42835,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C59
+StartChar: dzatelu
 Encoding: 3161 3161 542
 Width: 651
 VWidth: 819
@@ -43184,7 +42935,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C78
+StartChar: fracdigitzeroforoddtelu
 Encoding: 3192 3192 543
 Width: 707
 VWidth: 2048
@@ -43228,7 +42979,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C79
+StartChar: fracdigitoneforoddtelu
 Encoding: 3193 3193 544
 Width: 161
 VWidth: 2048
@@ -43244,7 +42995,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C7A
+StartChar: fracdigittwoforoddtelu
 Encoding: 3194 3194 545
 Width: 482
 VWidth: 2048
@@ -43272,7 +43023,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C7B
+StartChar: fracdigitthreeforoddtelu
 Encoding: 3195 3195 546
 Width: 836
 VWidth: 2048
@@ -43313,7 +43064,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C7C
+StartChar: fracdigitoneforeventelu
 Encoding: 3196 3196 547
 Width: 797
 VWidth: 2048
@@ -43329,7 +43080,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C7D
+StartChar: fracdigittwoforeventelu
 Encoding: 3197 3197 548
 Width: 801
 VWidth: 2048
@@ -43368,7 +43119,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C7E
+StartChar: fracdigitthreeforeventelu
 Encoding: 3198 3198 549
 Width: 876
 VWidth: 2048
@@ -43423,7 +43174,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C7F
+StartChar: tuumusigntelu
 Encoding: 3199 3199 550
 Width: 963
 VWidth: 2048
@@ -43465,7 +43216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0C3D
+StartChar: avagrahatelu
 Encoding: 3133 3133 551
 Width: 1027
 VWidth: 0
@@ -43493,7 +43244,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni20B9
+StartChar: inr_currency
 Encoding: 8377 8377 552
 Width: 622
 VWidth: 0
@@ -43564,7 +43315,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: U0C38_U0C41.psts
+StartChar: satelu_usigntelu
 Encoding: 65994 -1 554
 Width: 966
 VWidth: 819
@@ -43630,10 +43381,9 @@ SplineSet
  292.8 116.8 292.8 116.8 319.2 91.2002 c 128,-1,78
  345.6 65.5996 345.6 65.5996 380.8 65.5996 c 0,16,17
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C37_U0C41.psts
+StartChar: ssatelu_usigntelu
 Encoding: 65995 -1 555
 Width: 949
 VWidth: 819
@@ -43709,10 +43459,9 @@ SplineSet
  114.4 183.2 114.4 183.2 95.2002 164.4 c 128,-1,78
  76 145.6 76 145.6 76 118.4 c 128,-1,79
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C36_U0C41.psts
+StartChar: shatelu_usigntelu
 Encoding: 65996 -1 556
 Width: 832
 VWidth: 819
@@ -43787,10 +43536,9 @@ SplineSet
  264.8 229.6 264.8 229.6 240.4 205.6 c 128,-1,89
  216 181.6 216 181.6 216 147.2 c 0,80,81
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C33_U0C41.psts
+StartChar: llatelu_usigntelu
 Encoding: 65997 -1 557
 Width: 915
 VWidth: 819
@@ -43875,10 +43623,9 @@ SplineSet
  115.2 353.6 115.2 353.6 96.4004 334.4 c 128,-1,91
  77.5996 315.2 77.5996 315.2 77.5996 288 c 128,-1,92
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C32_U0C41.psts
+StartChar: latelu_usigntelu
 Encoding: 65998 -1 558
 Width: 960
 VWidth: 819
@@ -43937,10 +43684,9 @@ SplineSet
  192 431.2 192 431.2 172.8 412 c 128,-1,57
  153.6 392.8 153.6 392.8 153.6 365.6 c 128,-1,58
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C31_U0C41.psts
+StartChar: rratelu_usigntelu
 Encoding: 65999 -1 559
 Width: 1129
 VWidth: 819
@@ -44021,10 +43767,9 @@ SplineSet
  180.8 431.2 180.8 431.2 161.6 412 c 128,-1,88
  142.4 392.8 142.4 392.8 142.4 365.6 c 128,-1,89
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C30_U0C41.psts
+StartChar: ratelu_usigntelu
 Encoding: 66000 -1 560
 Width: 910
 VWidth: 819
@@ -44077,10 +43822,9 @@ SplineSet
  199.2 419.2 199.2 419.2 149.2 367.6 c 128,-1,48
  99.2002 316 99.2002 316 99.2002 242.4 c 128,-1,49
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2F_U0C41.psts
+StartChar: yatelu_usigntelu
 Encoding: 66001 -1 561
 Width: 1608
 VWidth: 819
@@ -44163,10 +43907,9 @@ SplineSet
  199.2 419.2 199.2 419.2 149.2 365.2 c 128,-1,98
  99.2002 311.2 99.2002 311.2 99.2002 235.2 c 0,89,90
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2E_U0C41.psts
+StartChar: matelu_usigntelu
 Encoding: 66002 -1 562
 Width: 1331
 VWidth: 819
@@ -44247,10 +43990,9 @@ SplineSet
  114.4 183.2 114.4 183.2 95.2002 164.4 c 128,-1,89
  76 145.6 76 145.6 76 118.4 c 128,-1,90
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1D_U0C41.psts
+StartChar: jhatelu_usigntelu
 Encoding: 66003 -1 563
 Width: 1559
 VWidth: 819
@@ -44339,10 +44081,9 @@ SplineSet
  197.6 413.6 197.6 413.6 147.6 361.2 c 128,-1,105
  97.5996 308.8 97.5996 308.8 97.5996 235.2 c 0,96,97
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C18_U0C41.psts
+StartChar: ghatelu_usigntelu
 Encoding: 66004 -1 564
 Width: 1277
 VWidth: 819
@@ -44433,10 +44174,9 @@ SplineSet
  114.4 183.2 114.4 183.2 95.2002 164.4 c 128,-1,99
  76 145.6 76 145.6 76 118.4 c 128,-1,100
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C41.psts
+StartChar: nyatelu_usigntelu
 Encoding: 66005 -1 565
 Width: 1118
 VWidth: 819
@@ -44520,10 +44260,9 @@ SplineSet
  911 341 l 25,96,97
  979.464 343.5 979.464 343.5 1038 286 c 1,13,14
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C2D_U0C41.psts
+StartChar: bhatelu_usigntelu
 Encoding: 66006 -1 566
 Width: 1023
 VWidth: 819
@@ -44608,10 +44347,9 @@ SplineSet
  344 141.6 344 141.6 375.2 103.6 c 128,-1,104
  406.4 65.5996 406.4 65.5996 450.4 65.5996 c 0,0,1
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: U0C1E_U0C42.psts
+StartChar: nyatelu_uusigntelu
 Encoding: 65988 -1 567
 Width: 1538
 VWidth: 0
