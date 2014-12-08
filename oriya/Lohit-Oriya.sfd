@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1417000219
+ModificationTime: 1418031535
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -68,7 +68,7 @@ DEI: 91125
 ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 12-1"  0 0 0 1
  1 1 0
   Coverage: 744 viramasignodia_kaodia viramasignodia_khaodia viramasignodia_gaodia viramasignodia_ghaodia viramasignodia_ngaodia viramasignodia_caodia viramasignodia_chaodia viramasignodia_jaodia viramasignodia_jhaodia viramasignodia_ttaodia viramasignodia_tthaodia viramasignodia_ddaodia viramasignodia_ddhaodia viramasignodia_nnaodia viramasignodia_taodia viramasignodia_thaodia viramasignodia_daodia viramasignodia_dhaodia viramasignodia_naodia viramasignodia_paodia viramasignodia_phaodia viramasignodia_baodia viramasignodia_bhaodia viramasignodia_maodia viramasignodia_yaodia viramasignodia_raodia viramasignodia_laodia viramasignodia_llaodia viramasignodia_vaodia viramasignodia_shaodia viramasignodia_ssaodia viramasignodia_saodia viramasignodia_haodia
-  BCoverage: 3737 kaodia_viramasignodia_kaodia kaodia_viramasignodia_taodia kaodia_virm_taodia_virm_raodia kaodia_viramasignodia_baodia kaodia_viramasignodia_llaodia kaodia_viramasignodia_ssaodia kaodia_vir_ssaodia_vir_nnaodia kaodia_virm_ssaodia_virm_maodia glyph114 kaodia_viramasignodia_saodia gaodia_viramasignodia_daodia gaodia_viramasignodia_dhaodia gaodia_viramasignodia_naodia gaodia_viramasignodia_llaodia ghaodia_viramasignodia_naodia ngaodia_viramasignodia_kaodia ngaodia_virm_kaodia_virm_taodia ngaodia_vir_kaodia_vir_ssaodia ngaodia_viramasignodia_khaodia ngaodia_viramasignodia_gaodia ngaodia_viramasignodia_ghaodia caodia_viramasignodia_caodia caodia_viramasignodia_chaodia glyph129 jaodia_viramasignodia_jaodia jaodia_virm_jaodia_virm_baodia jaodia_viramasignodia_jhaodia jaodia_viramasignodia_nyaodia jaodia_viramasignodia_baodia nyaodia_viramasignodia_caodia nyaodia_viramasignodia_chaodia nyaodia_viramasignodia_jaodia nyaodia_viramasignodia_jhaodia ttaodia_viramasignodia_ttaodia ddaodia_viramasignodia_gaodia ddaodia_viramasignodia_ddaodia nnaodia_viramasignodia_ttaodia nnaodia_viramasignodia_tthaodia nnaodia_viramasignodia_ddaodia nnaodia_vir_ddaodia_vir_raodia nnaodia_viramasignodia_ddhaodia nnaodia_viramasignodia_nnaodia taodia_viramasignodia_kaodia taodia_viramasignodia_taodia taodia_virm_taodia_virm_baodia taodia_virm_taodia_virm_raodia taodia_viramasignodia_thaodia taodia_viramasignodia_naodia taodia_viramasignodia_paodia taodia_viramasignodia_baodia taodia_viramasignodia_maodia taodia_virm_maodia_virm_yaodia taodia_viramasignodia_saodia taodia_virm_saodia_virm_naodia taodia_virm_saodia_virm_yaodia daodia_viramasignodia_gaodia daodia_viramasignodia_ghaodia daodia_viramasignodia_daodia daodia_viramasignodia_dhaodia daodia_virm_dhaodia_virm_baodia daodia_viramasignodia_baodia daodia_viramasignodia_bhaodia glyph168 dhaodia_viramasignodia_baodia dhaodia_viramasignodia_yaodia naodia_viramasignodia_taodia naodia_virm_taodia_virm_yaodia naodia_virm_taodia_virm_raodia glyph174 naodia_virm_taodia_virm_baodia naodia_viramasignodia_thaodia naodia_viramasignodia_daodia naodia_virm_daodia_virm_raodia naodia_virm_daodia_virm_baodia naodia_viramasignodia_dhaodia naodia_virm_dhaodia_virm_baodia naodia_virm_dhaodia_virm_raodia glyph183 naodia_viramasignodia_naodia glyph185 paodia_viramasignodia_taodia paodia_viramasignodia_paodia paodia_viramasignodia_llaodia paodia_viramasignodia_saodia baodia_viramasignodia_jaodia baodia_viramasignodia_daodia baodia_viramasignodia_dhaodia maodia_viramasignodia_paodia maodia_virm_paodia_virm_raodia maodia_viramasignodia_phaodia maodia_viramasignodia_baodia maodia_viramasignodia_bhaodia maodia_virm_bhaodia_virm_raodia maodia_viramasignodia_maodia llaodia_viramasignodia_kaodia llaodia_viramasignodia_bhaodia llaodia_viramasignodia_llaodia llaodia_viramasignodia_paodia llaodia_viramasignodia_phaodia laodia_viramasignodia_kaodia laodia_viramasignodia_gaodia laodia_viramasignodia_laodia shaodia_viramasignodia_caodia shaodia_viramasignodia_chaodia shaodia_viramasignodia_baodia shaodia_viramasignodia_llaodia ssaodia_viramasignodia_kaodia ssaodia_virm_kaodia_virm_raodia ssaodia_viramasignodia_ttaodia ssaodia_vir_ttaodia_vir_raodia ssaodia_viramasignodia_tthaodia ssaodia_viramasignodia_nnaodia ssaodia_viramasignodia_paodia ssaodia_virm_paodia_virm_raodia ssaodia_viramasignodia_phaodia saodia_viramasignodia_kaodia saodia_viramasignodia_khaodia saodia_viramasignodia_taodia saodia_virm_taodia_virm_raodia saodia_viramasignodia_thaodia glyph226 saodia_viramasignodia_naodia saodia_viramasignodia_paodia saodia_viramasignodia_phaodia saodia_viramasignodia_baodia saodia_viramasignodia_maodia haodia_viramasignodia_naodia haodia_viramasignodia_maodia haodia_viramasignodia_laodia
+  BCoverage: 3848 kaodia_viramasignodia_kaodia kaodia_viramasignodia_taodia kaodia_virm_taodia_virm_raodia kaodia_viramasignodia_baodia kaodia_viramasignodia_llaodia kaodia_viramasignodia_ssaodia kaodia_vir_ssaodia_vir_nnaodia kaodia_virm_ssaodia_virm_maodia kaodia_virm_ssaodia_virm_yaodia kaodia_viramasignodia_saodia gaodia_viramasignodia_daodia gaodia_viramasignodia_dhaodia gaodia_viramasignodia_naodia gaodia_viramasignodia_llaodia ghaodia_viramasignodia_naodia ngaodia_viramasignodia_kaodia ngaodia_virm_kaodia_virm_taodia ngaodia_vir_kaodia_vir_ssaodia ngaodia_viramasignodia_khaodia ngaodia_viramasignodia_gaodia ngaodia_viramasignodia_ghaodia caodia_viramasignodia_caodia caodia_viramasignodia_chaodia glyph129 jaodia_viramasignodia_jaodia jaodia_virm_jaodia_virm_baodia jaodia_viramasignodia_jhaodia jaodia_viramasignodia_nyaodia jaodia_viramasignodia_baodia nyaodia_viramasignodia_caodia nyaodia_viramasignodia_chaodia nyaodia_viramasignodia_jaodia nyaodia_viramasignodia_jhaodia ttaodia_viramasignodia_ttaodia ddaodia_viramasignodia_gaodia ddaodia_viramasignodia_ddaodia nnaodia_viramasignodia_ttaodia nnaodia_viramasignodia_tthaodia nnaodia_viramasignodia_ddaodia nnaodia_vir_ddaodia_vir_raodia nnaodia_viramasignodia_ddhaodia nnaodia_viramasignodia_nnaodia taodia_viramasignodia_kaodia taodia_viramasignodia_taodia taodia_virm_taodia_virm_baodia taodia_virm_taodia_virm_raodia taodia_viramasignodia_thaodia taodia_viramasignodia_naodia taodia_viramasignodia_paodia taodia_viramasignodia_baodia taodia_viramasignodia_maodia taodia_virm_maodia_virm_yaodia taodia_viramasignodia_saodia taodia_virm_saodia_virm_naodia taodia_virm_saodia_virm_yaodia daodia_viramasignodia_gaodia daodia_viramasignodia_ghaodia daodia_viramasignodia_daodia daodia_viramasignodia_dhaodia daodia_virm_dhaodia_virm_baodia daodia_viramasignodia_baodia daodia_viramasignodia_bhaodia daodia_viramasignodia_yaodia dhaodia_viramasignodia_baodia dhaodia_viramasignodia_yaodia naodia_viramasignodia_taodia naodia_virm_taodia_virm_yaodia naodia_virm_taodia_virm_raodia glyph174 naodia_virm_taodia_virm_baodia naodia_viramasignodia_thaodia naodia_viramasignodia_daodia naodia_virm_daodia_virm_raodia naodia_virm_daodia_virm_baodia naodia_viramasignodia_dhaodia naodia_virm_dhaodia_virm_baodia naodia_virm_dhaodia_virm_raodia naodia_virm_dhaodia_virm_yaodia naodia_viramasignodia_naodia naodia_virm_naodia_virm_yaodia paodia_viramasignodia_taodia paodia_viramasignodia_paodia paodia_viramasignodia_llaodia paodia_viramasignodia_saodia baodia_viramasignodia_jaodia baodia_viramasignodia_daodia baodia_viramasignodia_dhaodia maodia_viramasignodia_paodia maodia_virm_paodia_virm_raodia maodia_viramasignodia_phaodia maodia_viramasignodia_baodia maodia_viramasignodia_bhaodia maodia_virm_bhaodia_virm_raodia maodia_viramasignodia_maodia llaodia_viramasignodia_kaodia llaodia_viramasignodia_bhaodia llaodia_viramasignodia_llaodia llaodia_viramasignodia_paodia llaodia_viramasignodia_phaodia laodia_viramasignodia_kaodia laodia_viramasignodia_gaodia laodia_viramasignodia_laodia shaodia_viramasignodia_caodia shaodia_viramasignodia_chaodia shaodia_viramasignodia_baodia shaodia_viramasignodia_llaodia ssaodia_viramasignodia_kaodia ssaodia_virm_kaodia_virm_raodia ssaodia_viramasignodia_ttaodia ssaodia_vir_ttaodia_vir_raodia ssaodia_viramasignodia_tthaodia ssaodia_viramasignodia_nnaodia ssaodia_viramasignodia_paodia ssaodia_virm_paodia_virm_raodia ssaodia_viramasignodia_phaodia saodia_viramasignodia_kaodia saodia_viramasignodia_khaodia saodia_viramasignodia_taodia saodia_virm_taodia_virm_raodia saodia_viramasignodia_thaodia saodia_virm_thaodia_virm_yaodia saodia_viramasignodia_naodia saodia_viramasignodia_paodia saodia_viramasignodia_phaodia saodia_viramasignodia_baodia saodia_viramasignodia_maodia haodia_viramasignodia_naodia haodia_viramasignodia_maodia haodia_viramasignodia_laodia
  1
   SeqLookup: 0 "Single Substitution in Oriya lookup 9" 
 EndFPST
@@ -391,169 +391,21 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 0 29 11
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65864 392
-
-StartChar: .notdef
-Encoding: 65536 -1 0
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 0 m 1,0,-1
- 100 700 l 1,1,-1
- 700 700 l 1,2,-1
- 700 0 l 1,3,-1
- 100 0 l 1,4,-1
- 100 0 l 1,0,-1
-150 50 m 1,5,-1
- 650 50 l 1,6,-1
- 650 650 l 1,7,-1
- 150 650 l 1,8,-1
- 150 50 l 1,9,-1
- 150 50 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: .null
-Encoding: 0 0 1
-Width: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nonmarkingreturn
-Encoding: 12 12 2
-Width: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
+BeginChars: 65864 365
 
 StartChar: space
-Encoding: 32 32 3
+Encoding: 32 32 0
 Width: 128
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: exclam
-Encoding: 33 33 4
-Width: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0951
-Encoding: 2385 2385 5
-Width: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--155 797 m 1,0,-1
- -155 1087 l 1,1,-1
- -81 1087 l 1,2,-1
- -81 797 l 1,3,-1
- -155 797 l 1,4,-1
- -155 797 l 1,0,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: uni0952
-Encoding: 2386 2386 6
-Width: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--668 -138 m 1,0,-1
- -668 -65 l 1,1,-1
- -103 -65 l 1,2,-1
- -103 -138 l 1,3,-1
- -668 -138 l 1,4,-1
- -668 -138 l 1,0,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: uni0953
-Encoding: 2387 2387 7
-Width: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
--80 797 m 1,0,-1
- -80 1087 l 1,1,-1
- -6 1087 l 1,2,-1
- -6 797 l 1,3,-1
- -80 797 l 1,4,-1
- -80 797 l 1,0,-1
--239 797 m 1,5,-1
- -239 1087 l 1,6,-1
- -165 1087 l 1,7,-1
- -165 797 l 1,8,-1
- -239 797 l 1,9,-1
- -239 797 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: U0964
-Encoding: 2404 2404 8
-Width: 481
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-304 0 m 1,0,-1
- 304 725 l 1,1,-1
- 394 725 l 1,2,-1
- 394 0 l 1,3,-1
- 304 0 l 1,4,-1
- 304 0 l 1,0,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: U0965
-Encoding: 2405 2405 9
-Width: 724
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-637 725 m 25,0,-1
- 637 0 l 25,1,-1
- 547 0 l 25,2,-1
- 547 725 l 25,3,-1
- 637 725 l 25,0,-1
-394 725 m 25,4,-1
- 394 0 l 25,5,-1
- 304 0 l 25,6,-1
- 304 725 l 25,7,-1
- 394 725 l 25,4,-1
-EndSplineSet
-Validated: 1
-EndChar
-
 StartChar: candrabinduodia
-Encoding: 2817 2817 10
+Encoding: 2817 2817 1
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -585,7 +437,7 @@ Validated: 33
 EndChar
 
 StartChar: anusvaraodia
-Encoding: 2818 2818 11
+Encoding: 2818 2818 2
 Width: 339
 GlyphClass: 2
 Flags: W
@@ -616,7 +468,7 @@ Validated: 5
 EndChar
 
 StartChar: visargaodia
-Encoding: 2819 2819 12
+Encoding: 2819 2819 3
 Width: 409
 GlyphClass: 2
 Flags: W
@@ -666,7 +518,7 @@ Validated: 5
 EndChar
 
 StartChar: aodia
-Encoding: 2821 2821 13
+Encoding: 2821 2821 4
 Width: 745
 GlyphClass: 2
 Flags: W
@@ -728,7 +580,7 @@ Validated: 5
 EndChar
 
 StartChar: aaodia
-Encoding: 2822 2822 14
+Encoding: 2822 2822 5
 Width: 967
 GlyphClass: 2
 Flags: W
@@ -796,7 +648,7 @@ Validated: 5
 EndChar
 
 StartChar: iodia
-Encoding: 2823 2823 15
+Encoding: 2823 2823 6
 Width: 780
 GlyphClass: 2
 Flags: W
@@ -873,7 +725,7 @@ Validated: 5
 EndChar
 
 StartChar: iiodia
-Encoding: 2824 2824 16
+Encoding: 2824 2824 7
 Width: 760
 GlyphClass: 2
 Flags: W
@@ -963,7 +815,7 @@ Validated: 5
 EndChar
 
 StartChar: uodia
-Encoding: 2825 2825 17
+Encoding: 2825 2825 8
 Width: 748
 GlyphClass: 2
 Flags: W
@@ -1020,7 +872,7 @@ Validated: 5
 EndChar
 
 StartChar: uuodia
-Encoding: 2826 2826 18
+Encoding: 2826 2826 9
 Width: 741
 GlyphClass: 2
 Flags: W
@@ -1085,7 +937,7 @@ Validated: 5
 EndChar
 
 StartChar: vocalicrodia
-Encoding: 2827 2827 19
+Encoding: 2827 2827 10
 Width: 768
 GlyphClass: 2
 Flags: W
@@ -1146,7 +998,7 @@ Validated: 37
 EndChar
 
 StartChar: vocaliclodia
-Encoding: 2828 2828 20
+Encoding: 2828 2828 11
 Width: 641
 GlyphClass: 2
 Flags: W
@@ -1195,7 +1047,7 @@ Validated: 5
 EndChar
 
 StartChar: eodia
-Encoding: 2831 2831 21
+Encoding: 2831 2831 12
 Width: 750
 GlyphClass: 2
 Flags: W
@@ -1225,7 +1077,7 @@ Validated: 5
 EndChar
 
 StartChar: aiodia
-Encoding: 2832 2832 22
+Encoding: 2832 2832 13
 Width: 883
 GlyphClass: 2
 Flags: W
@@ -1276,7 +1128,7 @@ Validated: 5
 EndChar
 
 StartChar: oodia
-Encoding: 2835 2835 23
+Encoding: 2835 2835 14
 Width: 650
 GlyphClass: 2
 Flags: W
@@ -1330,7 +1182,7 @@ Validated: 5
 EndChar
 
 StartChar: auodia
-Encoding: 2836 2836 24
+Encoding: 2836 2836 15
 Width: 808
 GlyphClass: 2
 Flags: W
@@ -1407,7 +1259,7 @@ Validated: 5
 EndChar
 
 StartChar: kaodia
-Encoding: 2837 2837 25
+Encoding: 2837 2837 16
 Width: 734
 GlyphClass: 2
 Flags: W
@@ -1473,7 +1325,7 @@ Validated: 5
 EndChar
 
 StartChar: khaodia
-Encoding: 2838 2838 26
+Encoding: 2838 2838 17
 Width: 771
 GlyphClass: 2
 Flags: W
@@ -1534,7 +1386,7 @@ Validated: 5
 EndChar
 
 StartChar: gaodia
-Encoding: 2839 2839 27
+Encoding: 2839 2839 18
 Width: 770
 GlyphClass: 2
 Flags: W
@@ -1585,7 +1437,7 @@ Validated: 5
 EndChar
 
 StartChar: ghaodia
-Encoding: 2840 2840 28
+Encoding: 2840 2840 19
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -1645,7 +1497,7 @@ Validated: 5
 EndChar
 
 StartChar: ngaodia
-Encoding: 2841 2841 29
+Encoding: 2841 2841 20
 Width: 805
 GlyphClass: 2
 Flags: W
@@ -1715,7 +1567,7 @@ Validated: 5
 EndChar
 
 StartChar: caodia
-Encoding: 2842 2842 30
+Encoding: 2842 2842 21
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -1766,7 +1618,7 @@ Validated: 5
 EndChar
 
 StartChar: chaodia
-Encoding: 2843 2843 31
+Encoding: 2843 2843 22
 Width: 689
 GlyphClass: 2
 Flags: W
@@ -1854,7 +1706,7 @@ Validated: 5
 EndChar
 
 StartChar: jaodia
-Encoding: 2844 2844 32
+Encoding: 2844 2844 23
 Width: 712
 GlyphClass: 2
 Flags: W
@@ -1926,7 +1778,7 @@ Validated: 5
 EndChar
 
 StartChar: jhaodia
-Encoding: 2845 2845 33
+Encoding: 2845 2845 24
 Width: 731
 GlyphClass: 2
 Flags: W
@@ -1988,7 +1840,7 @@ Validated: 5
 EndChar
 
 StartChar: nyaodia
-Encoding: 2846 2846 34
+Encoding: 2846 2846 25
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -2074,7 +1926,7 @@ Validated: 5
 EndChar
 
 StartChar: ttaodia
-Encoding: 2847 2847 35
+Encoding: 2847 2847 26
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -2125,7 +1977,7 @@ Validated: 5
 EndChar
 
 StartChar: tthaodia
-Encoding: 2848 2848 36
+Encoding: 2848 2848 27
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -2157,7 +2009,7 @@ Validated: 5
 EndChar
 
 StartChar: ddaodia
-Encoding: 2849 2849 37
+Encoding: 2849 2849 28
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -2212,7 +2064,7 @@ Validated: 5
 EndChar
 
 StartChar: ddhaodia
-Encoding: 2850 2850 38
+Encoding: 2850 2850 29
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -2279,7 +2131,7 @@ Validated: 5
 EndChar
 
 StartChar: nnaodia
-Encoding: 2851 2851 39
+Encoding: 2851 2851 30
 Width: 760
 GlyphClass: 2
 Flags: W
@@ -2337,7 +2189,7 @@ Validated: 5
 EndChar
 
 StartChar: taodia
-Encoding: 2852 2852 40
+Encoding: 2852 2852 31
 Width: 712
 GlyphClass: 2
 Flags: W
@@ -2393,7 +2245,7 @@ Validated: 5
 EndChar
 
 StartChar: thaodia
-Encoding: 2853 2853 41
+Encoding: 2853 2853 32
 Width: 713
 GlyphClass: 2
 Flags: W
@@ -2444,7 +2296,7 @@ Validated: 5
 EndChar
 
 StartChar: daodia
-Encoding: 2854 2854 42
+Encoding: 2854 2854 33
 Width: 710
 GlyphClass: 2
 Flags: W
@@ -2495,7 +2347,7 @@ Validated: 5
 EndChar
 
 StartChar: dhaodia
-Encoding: 2855 2855 43
+Encoding: 2855 2855 34
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -2531,7 +2383,7 @@ Validated: 5
 EndChar
 
 StartChar: naodia
-Encoding: 2856 2856 44
+Encoding: 2856 2856 35
 Width: 716
 GlyphClass: 2
 Flags: W
@@ -2580,7 +2432,7 @@ Validated: 5
 EndChar
 
 StartChar: paodia
-Encoding: 2858 2858 45
+Encoding: 2858 2858 36
 Width: 771
 GlyphClass: 2
 Flags: W
@@ -2629,7 +2481,7 @@ Validated: 5
 EndChar
 
 StartChar: phaodia
-Encoding: 2859 2859 46
+Encoding: 2859 2859 37
 Width: 866
 GlyphClass: 2
 Flags: W
@@ -2697,7 +2549,7 @@ Validated: 5
 EndChar
 
 StartChar: baodia
-Encoding: 2860 2860 47
+Encoding: 2860 2860 38
 Width: 719
 GlyphClass: 2
 Flags: W
@@ -2751,7 +2603,7 @@ Validated: 5
 EndChar
 
 StartChar: bhaodia
-Encoding: 2861 2861 48
+Encoding: 2861 2861 39
 Width: 770
 GlyphClass: 2
 Flags: W
@@ -2815,7 +2667,7 @@ Validated: 5
 EndChar
 
 StartChar: maodia
-Encoding: 2862 2862 49
+Encoding: 2862 2862 40
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -2859,7 +2711,7 @@ Validated: 5
 EndChar
 
 StartChar: yaodia
-Encoding: 2863 2863 50
+Encoding: 2863 2863 41
 Width: 782
 GlyphClass: 4
 Flags: W
@@ -2918,7 +2770,7 @@ Validated: 5
 EndChar
 
 StartChar: raodia
-Encoding: 2864 2864 51
+Encoding: 2864 2864 42
 Width: 745
 GlyphClass: 4
 Flags: W
@@ -2971,7 +2823,7 @@ Validated: 5
 EndChar
 
 StartChar: laodia
-Encoding: 2866 2866 52
+Encoding: 2866 2866 43
 Width: 783
 GlyphClass: 4
 Flags: W
@@ -3029,7 +2881,7 @@ Validated: 5
 EndChar
 
 StartChar: llaodia
-Encoding: 2867 2867 53
+Encoding: 2867 2867 44
 Width: 721
 GlyphClass: 2
 Flags: W
@@ -3085,7 +2937,7 @@ Validated: 5
 EndChar
 
 StartChar: vaodia
-Encoding: 2869 2869 54
+Encoding: 2869 2869 45
 Width: 702
 GlyphClass: 2
 Flags: W
@@ -3149,7 +3001,7 @@ Validated: 5
 EndChar
 
 StartChar: shaodia
-Encoding: 2870 2870 55
+Encoding: 2870 2870 46
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -3213,7 +3065,7 @@ Validated: 5
 EndChar
 
 StartChar: ssaodia
-Encoding: 2871 2871 56
+Encoding: 2871 2871 47
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -3271,7 +3123,7 @@ Validated: 5
 EndChar
 
 StartChar: saodia
-Encoding: 2872 2872 57
+Encoding: 2872 2872 48
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -3312,7 +3164,7 @@ Validated: 5
 EndChar
 
 StartChar: haodia
-Encoding: 2873 2873 58
+Encoding: 2873 2873 49
 Width: 681
 GlyphClass: 2
 Flags: W
@@ -3370,7 +3222,7 @@ Validated: 5
 EndChar
 
 StartChar: nuktasignodia
-Encoding: 2876 2876 59
+Encoding: 2876 2876 50
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -3392,7 +3244,7 @@ Validated: 5
 EndChar
 
 StartChar: avagrahasignodia
-Encoding: 2877 2877 60
+Encoding: 2877 2877 51
 Width: 561
 GlyphClass: 2
 Flags: W
@@ -3416,7 +3268,7 @@ Validated: 5
 EndChar
 
 StartChar: aasignodia
-Encoding: 2878 2878 61
+Encoding: 2878 2878 52
 Width: 246
 GlyphClass: 2
 Flags: W
@@ -3434,7 +3286,7 @@ Validated: 5
 EndChar
 
 StartChar: isignodia
-Encoding: 2879 2879 62
+Encoding: 2879 2879 53
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -3458,7 +3310,7 @@ Validated: 5
 EndChar
 
 StartChar: iisignodia
-Encoding: 2880 2880 63
+Encoding: 2880 2880 54
 Width: 325
 GlyphClass: 2
 Flags: W
@@ -3482,7 +3334,7 @@ Validated: 5
 EndChar
 
 StartChar: usignodia
-Encoding: 2881 2881 64
+Encoding: 2881 2881 55
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -3531,7 +3383,7 @@ Substitution2: "Single Substitution in Oriya lookup 10-1" glyph408
 EndChar
 
 StartChar: uusignodia
-Encoding: 2882 2882 65
+Encoding: 2882 2882 56
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -3566,7 +3418,7 @@ Substitution2: "Single Substitution in Oriya lookup 10-1" glyph409
 EndChar
 
 StartChar: vocalicrsignodia
-Encoding: 2883 2883 66
+Encoding: 2883 2883 57
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -3603,7 +3455,7 @@ Substitution2: "Single Substitution in Oriya lookup 10-1" glyph410
 EndChar
 
 StartChar: esignodia
-Encoding: 2887 2887 67
+Encoding: 2887 2887 58
 Width: 568
 GlyphClass: 2
 Flags: W
@@ -3647,7 +3499,7 @@ Validated: 5
 EndChar
 
 StartChar: aisignodia
-Encoding: 2888 2888 68
+Encoding: 2888 2888 59
 Width: 567
 GlyphClass: 2
 Flags: W
@@ -3709,7 +3561,7 @@ Validated: 5
 EndChar
 
 StartChar: osignodia
-Encoding: 2891 2891 69
+Encoding: 2891 2891 60
 Width: 1045
 GlyphClass: 2
 Flags: W
@@ -3759,7 +3611,7 @@ Validated: 5
 EndChar
 
 StartChar: ausignodia
-Encoding: 2892 2892 70
+Encoding: 2892 2892 61
 Width: 1121
 GlyphClass: 2
 Flags: W
@@ -3821,7 +3673,7 @@ Validated: 5
 EndChar
 
 StartChar: viramasignodia
-Encoding: 2893 2893 71
+Encoding: 2893 2893 62
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -3839,7 +3691,7 @@ Validated: 5
 EndChar
 
 StartChar: ailengthodia
-Encoding: 2902 2902 72
+Encoding: 2902 2902 63
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -3873,7 +3725,7 @@ Validated: 5
 EndChar
 
 StartChar: aulengthodia
-Encoding: 2903 2903 73
+Encoding: 2903 2903 64
 Width: 246
 GlyphClass: 2
 Flags: W
@@ -3903,7 +3755,7 @@ Validated: 5
 EndChar
 
 StartChar: rraodia
-Encoding: 2908 2908 74
+Encoding: 2908 2908 65
 Width: 716
 GlyphClass: 2
 Flags: W
@@ -3970,7 +3822,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5-1" ddaodia nuktasignodia
 EndChar
 
 StartChar: rhaodia
-Encoding: 2909 2909 75
+Encoding: 2909 2909 66
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -4048,7 +3900,7 @@ Ligature2: "'nukt' Nukta Forms lookup 5-1" ddhaodia nuktasignodia
 EndChar
 
 StartChar: yyaodia
-Encoding: 2911 2911 76
+Encoding: 2911 2911 67
 Width: 783
 GlyphClass: 2
 Flags: W
@@ -4120,7 +3972,7 @@ Validated: 5
 EndChar
 
 StartChar: vocalicrrodia
-Encoding: 2912 2912 77
+Encoding: 2912 2912 68
 Width: 741
 GlyphClass: 2
 Flags: W
@@ -4189,7 +4041,7 @@ Validated: 5
 EndChar
 
 StartChar: vocalicllodia
-Encoding: 2913 2913 78
+Encoding: 2913 2913 69
 Width: 639
 GlyphClass: 2
 Flags: W
@@ -4243,7 +4095,7 @@ Validated: 5
 EndChar
 
 StartChar: zeroodia
-Encoding: 2918 2918 79
+Encoding: 2918 2918 70
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4275,7 +4127,7 @@ Validated: 5
 EndChar
 
 StartChar: oneodia
-Encoding: 2919 2919 80
+Encoding: 2919 2919 71
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4312,7 +4164,7 @@ Validated: 5
 EndChar
 
 StartChar: twoodia
-Encoding: 2920 2920 81
+Encoding: 2920 2920 72
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4349,7 +4201,7 @@ Validated: 5
 EndChar
 
 StartChar: threeodia
-Encoding: 2921 2921 82
+Encoding: 2921 2921 73
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4398,7 +4250,7 @@ Validated: 5
 EndChar
 
 StartChar: fourodia
-Encoding: 2922 2922 83
+Encoding: 2922 2922 74
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4440,7 +4292,7 @@ Validated: 37
 EndChar
 
 StartChar: fiveodia
-Encoding: 2923 2923 84
+Encoding: 2923 2923 75
 Width: 724
 GlyphClass: 2
 Flags: W
@@ -4500,7 +4352,7 @@ Validated: 5
 EndChar
 
 StartChar: sixodia
-Encoding: 2924 2924 85
+Encoding: 2924 2924 76
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4546,7 +4398,7 @@ Validated: 5
 EndChar
 
 StartChar: sevenodia
-Encoding: 2925 2925 86
+Encoding: 2925 2925 77
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4595,7 +4447,7 @@ Validated: 5
 EndChar
 
 StartChar: eightodia
-Encoding: 2926 2926 87
+Encoding: 2926 2926 78
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -4615,7 +4467,7 @@ Validated: 5
 EndChar
 
 StartChar: nineodia
-Encoding: 2927 2927 88
+Encoding: 2927 2927 79
 Width: 724
 GlyphClass: 2
 Flags: W
@@ -4646,7 +4498,7 @@ Validated: 5
 EndChar
 
 StartChar: issharodia
-Encoding: 2928 2928 89
+Encoding: 2928 2928 80
 Width: 718
 GlyphClass: 2
 Flags: W
@@ -4673,7 +4525,7 @@ Validated: 5
 EndChar
 
 StartChar: waodia
-Encoding: 2929 2929 90
+Encoding: 2929 2929 81
 Width: 639
 GlyphClass: 2
 Flags: W
@@ -4749,7 +4601,7 @@ Validated: 5
 EndChar
 
 StartChar: zerowidthnonjoinerodia
-Encoding: 8204 8204 91
+Encoding: 8204 8204 82
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -4767,7 +4619,7 @@ Validated: 5
 EndChar
 
 StartChar: zerowidthjoinerodia
-Encoding: 8205 8205 92
+Encoding: 8205 8205 83
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -4786,56 +4638,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: figuredash
-Encoding: 8210 8210 93
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: ringoperatorodia
-Encoding: 8728 8728 94
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
 StartChar: dottefcircleodia
-Encoding: 9676 9676 95
+Encoding: 9676 9676 84
 Width: 841
 GlyphClass: 2
 Flags: W
@@ -4966,344 +4770,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph90
-Encoding: 65539 -1 96
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph91
-Encoding: 65540 -1 97
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph92
-Encoding: 65541 -1 98
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph93
-Encoding: 65542 -1 99
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph95
-Encoding: 65543 -1 100
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph96
-Encoding: 65544 -1 101
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph97
-Encoding: 65545 -1 102
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph98
-Encoding: 65546 -1 103
-Width: 800
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph100
-Encoding: 65547 -1 104
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph101
-Encoding: 65548 -1 105
-Width: 800
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph102
-Encoding: 65549 -1 106
-Width: 800
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph103
-Encoding: 65550 -1 107
-Width: 800
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph104
-Encoding: 65551 -1 108
-Width: 800
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: glyph105
-Encoding: 65552 -1 109
-Width: 800
-GlyphClass: 4
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-100 -250 m 1,0,-1
- 100 450 l 1,1,-1
- 700 450 l 1,2,-1
- 700 -250 l 1,3,-1
- 100 -250 l 1,4,-1
- 100 -250 l 1,0,-1
-150 -200 m 1,5,-1
- 650 -200 l 1,6,-1
- 650 400 l 1,7,-1
- 150 400 l 1,8,-1
- 150 -200 l 1,9,-1
- 150 -200 l 1,5,-1
-EndSplineSet
-Validated: 5
-EndChar
-
 StartChar: kaodia_viramasignodia_kaodia
-Encoding: 65553 -1 110
+Encoding: 65553 -1 85
 Width: 735
 GlyphClass: 2
 Flags: W
@@ -5403,7 +4871,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: kaodia_viramasignodia_taodia
-Encoding: 65554 -1 111
+Encoding: 65554 -1 86
 Width: 761
 GlyphClass: 2
 Flags: W
@@ -5494,7 +4962,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: kaodia_virm_taodia_virm_raodia
-Encoding: 65555 -1 112
+Encoding: 65555 -1 87
 Width: 766
 GlyphClass: 2
 Flags: W
@@ -5591,7 +5059,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: kaodia_viramasignodia_baodia
-Encoding: 65556 -1 113
+Encoding: 65556 -1 88
 Width: 760
 GlyphClass: 2
 Flags: W
@@ -5676,7 +5144,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: kaodia_viramasignodia_llaodia
-Encoding: 65557 -1 114
+Encoding: 65557 -1 89
 Width: 776
 GlyphClass: 4
 Flags: W
@@ -5772,7 +5240,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: kaodia_viramasignodia_ssaodia
-Encoding: 65558 -1 115
+Encoding: 65558 -1 90
 Width: 784
 GlyphClass: 4
 Flags: W
@@ -5842,7 +5310,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: kaodia_vir_ssaodia_vir_nnaodia
-Encoding: 65559 -1 116
+Encoding: 65559 -1 91
 Width: 758
 GlyphClass: 3
 Flags: W
@@ -5940,7 +5408,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" kaodia_viramasign
 EndChar
 
 StartChar: kaodia_virm_ssaodia_virm_maodia
-Encoding: 65560 -1 117
+Encoding: 65560 -1 92
 Width: 780
 GlyphClass: 2
 Flags: W
@@ -6032,8 +5500,8 @@ Validated: 517
 Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasignodia_ssaodia viramasignodia_maodia
 EndChar
 
-StartChar: glyph114
-Encoding: 65561 -1 118
+StartChar: kaodia_virm_ssaodia_virm_yaodia
+Encoding: 65561 -1 93
 Width: 1215
 GlyphClass: 2
 Flags: W
@@ -6118,7 +5586,7 @@ Validated: 5
 EndChar
 
 StartChar: kaodia_viramasignodia_saodia
-Encoding: 65562 -1 119
+Encoding: 65562 -1 94
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -6206,7 +5674,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" kaodia viramasign
 EndChar
 
 StartChar: gaodia_viramasignodia_daodia
-Encoding: 65563 -1 120
+Encoding: 65563 -1 95
 Width: 768
 GlyphClass: 2
 Flags: W
@@ -6291,7 +5759,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" gaodia viramasign
 EndChar
 
 StartChar: gaodia_viramasignodia_dhaodia
-Encoding: 65564 -1 121
+Encoding: 65564 -1 96
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -6362,7 +5830,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" gaodia viramasign
 EndChar
 
 StartChar: gaodia_viramasignodia_naodia
-Encoding: 65565 -1 122
+Encoding: 65565 -1 97
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -6425,7 +5893,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" gaodia viramasi
 EndChar
 
 StartChar: gaodia_viramasignodia_llaodia
-Encoding: 65566 -1 123
+Encoding: 65566 -1 98
 Width: 802
 GlyphClass: 2
 Flags: W
@@ -6501,7 +5969,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" gaodia viramasi
 EndChar
 
 StartChar: ghaodia_viramasignodia_naodia
-Encoding: 65567 -1 124
+Encoding: 65567 -1 99
 Width: 737
 GlyphClass: 2
 Flags: W
@@ -6574,7 +6042,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ghaodia viramas
 EndChar
 
 StartChar: ngaodia_viramasignodia_kaodia
-Encoding: 65568 -1 125
+Encoding: 65568 -1 100
 Width: 841
 GlyphClass: 2
 Flags: W
@@ -6673,7 +6141,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ngaodia viramasig
 EndChar
 
 StartChar: ngaodia_virm_kaodia_virm_taodia
-Encoding: 65569 -1 126
+Encoding: 65569 -1 101
 Width: 799
 GlyphClass: 2
 Flags: W
@@ -6813,7 +6281,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ngaodia_viramasig
 EndChar
 
 StartChar: ngaodia_vir_kaodia_vir_ssaodia
-Encoding: 65570 -1 127
+Encoding: 65570 -1 102
 Width: 764
 GlyphClass: 2
 Flags: W
@@ -6932,7 +6400,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-2" ngaodia_viramasig
 EndChar
 
 StartChar: ngaodia_viramasignodia_khaodia
-Encoding: 65571 -1 128
+Encoding: 65571 -1 103
 Width: 870
 GlyphClass: 2
 Flags: W
@@ -7033,7 +6501,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ngaodia viramasig
 EndChar
 
 StartChar: ngaodia_viramasignodia_gaodia
-Encoding: 65572 -1 129
+Encoding: 65572 -1 104
 Width: 863
 GlyphClass: 2
 Flags: W
@@ -7127,7 +6595,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ngaodia viramasig
 EndChar
 
 StartChar: ngaodia_viramasignodia_ghaodia
-Encoding: 65573 -1 130
+Encoding: 65573 -1 105
 Width: 870
 GlyphClass: 2
 Flags: W
@@ -7208,7 +6676,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ngaodia viramasig
 EndChar
 
 StartChar: caodia_viramasignodia_caodia
-Encoding: 65574 -1 131
+Encoding: 65574 -1 106
 Width: 721
 GlyphClass: 2
 Flags: W
@@ -7279,7 +6747,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" caodia viramasign
 EndChar
 
 StartChar: caodia_viramasignodia_chaodia
-Encoding: 65575 -1 132
+Encoding: 65575 -1 107
 Width: 702
 GlyphClass: 2
 Flags: W
@@ -7392,7 +6860,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" caodia viramasign
 EndChar
 
 StartChar: glyph129
-Encoding: 65576 -1 133
+Encoding: 65576 -1 108
 Width: 1353
 GlyphClass: 2
 Flags: W
@@ -7518,7 +6986,7 @@ Validated: 5
 EndChar
 
 StartChar: jaodia_viramasignodia_jaodia
-Encoding: 65577 -1 134
+Encoding: 65577 -1 109
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -7599,7 +7067,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" jaodia viramasign
 EndChar
 
 StartChar: jaodia_virm_jaodia_virm_baodia
-Encoding: 65578 -1 135
+Encoding: 65578 -1 110
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -7705,7 +7173,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" jaodia viramasi
 EndChar
 
 StartChar: jaodia_viramasignodia_jhaodia
-Encoding: 65579 -1 136
+Encoding: 65579 -1 111
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -7815,7 +7283,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" jaodia viramasign
 EndChar
 
 StartChar: jaodia_viramasignodia_nyaodia
-Encoding: 65580 -1 137
+Encoding: 65580 -1 112
 Width: 724
 GlyphClass: 2
 Flags: W
@@ -7910,7 +7378,7 @@ Ligature2: "'akhn' Akhand lookup 0-1" jaodia viramasignodia nyaodia
 EndChar
 
 StartChar: jaodia_viramasignodia_baodia
-Encoding: 65581 -1 138
+Encoding: 65581 -1 113
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -7997,7 +7465,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" jaodia viramasi
 EndChar
 
 StartChar: nyaodia_viramasignodia_caodia
-Encoding: 65582 -1 139
+Encoding: 65582 -1 114
 Width: 680
 GlyphClass: 2
 Flags: W
@@ -8082,7 +7550,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia viramasig
 EndChar
 
 StartChar: nyaodia_viramasignodia_chaodia
-Encoding: 65583 -1 140
+Encoding: 65583 -1 115
 Width: 696
 GlyphClass: 2
 Flags: W
@@ -8190,7 +7658,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia viramasig
 EndChar
 
 StartChar: nyaodia_viramasignodia_jaodia
-Encoding: 65584 -1 141
+Encoding: 65584 -1 116
 Width: 880
 GlyphClass: 2
 Flags: W
@@ -8289,7 +7757,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia viramasig
 EndChar
 
 StartChar: nyaodia_viramasignodia_jhaodia
-Encoding: 65585 -1 142
+Encoding: 65585 -1 117
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -8388,7 +7856,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nyaodia viramasig
 EndChar
 
 StartChar: ttaodia_viramasignodia_ttaodia
-Encoding: 65586 -1 143
+Encoding: 65586 -1 118
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -8459,7 +7927,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ttaodia viramasig
 EndChar
 
 StartChar: ddaodia_viramasignodia_gaodia
-Encoding: 65587 -1 144
+Encoding: 65587 -1 119
 Width: 768
 GlyphClass: 2
 Flags: W
@@ -8555,7 +8023,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ddaodia viramasig
 EndChar
 
 StartChar: ddaodia_viramasignodia_ddaodia
-Encoding: 65588 -1 145
+Encoding: 65588 -1 120
 Width: 670
 GlyphClass: 2
 Flags: W
@@ -8649,7 +8117,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ddaodia viramasig
 EndChar
 
 StartChar: nnaodia_viramasignodia_ttaodia
-Encoding: 65589 -1 146
+Encoding: 65589 -1 121
 Width: 745
 GlyphClass: 2
 Flags: W
@@ -8743,7 +8211,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nnaodia viramasig
 EndChar
 
 StartChar: nnaodia_viramasignodia_tthaodia
-Encoding: 65590 -1 147
+Encoding: 65590 -1 122
 Width: 750
 GlyphClass: 2
 Flags: W
@@ -8828,7 +8296,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nnaodia viramasig
 EndChar
 
 StartChar: nnaodia_viramasignodia_ddaodia
-Encoding: 65591 -1 148
+Encoding: 65591 -1 123
 Width: 774
 GlyphClass: 2
 Flags: W
@@ -8910,7 +8378,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nnaodia viramasig
 EndChar
 
 StartChar: nnaodia_vir_ddaodia_vir_raodia
-Encoding: 65592 -1 149
+Encoding: 65592 -1 124
 Width: 777
 GlyphClass: 2
 Flags: W
@@ -8998,7 +8466,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nnaodia viramas
 EndChar
 
 StartChar: nnaodia_viramasignodia_ddhaodia
-Encoding: 65593 -1 150
+Encoding: 65593 -1 125
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -9084,7 +8552,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nnaodia viramasig
 EndChar
 
 StartChar: nnaodia_viramasignodia_nnaodia
-Encoding: 65594 -1 151
+Encoding: 65594 -1 126
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -9177,7 +8645,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" nnaodia viramasig
 EndChar
 
 StartChar: taodia_viramasignodia_kaodia
-Encoding: 65595 -1 152
+Encoding: 65595 -1 127
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -9253,7 +8721,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" taodia viramasign
 EndChar
 
 StartChar: taodia_viramasignodia_taodia
-Encoding: 65596 -1 153
+Encoding: 65596 -1 128
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -9322,7 +8790,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_virm_taodia_virm_baodia
-Encoding: 65597 -1 154
+Encoding: 65597 -1 129
 Width: 789
 GlyphClass: 2
 Flags: W
@@ -9408,7 +8876,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_virm_taodia_virm_raodia
-Encoding: 65598 -1 155
+Encoding: 65598 -1 130
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -9485,7 +8953,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_viramasignodia_thaodia
-Encoding: 65599 -1 156
+Encoding: 65599 -1 131
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -9569,7 +9037,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" taodia viramasign
 EndChar
 
 StartChar: taodia_viramasignodia_naodia
-Encoding: 65600 -1 157
+Encoding: 65600 -1 132
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -9642,7 +9110,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_viramasignodia_paodia
-Encoding: 65601 -1 158
+Encoding: 65601 -1 133
 Width: 771
 GlyphClass: 2
 Flags: W
@@ -9701,7 +9169,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" taodia viramasign
 EndChar
 
 StartChar: taodia_viramasignodia_baodia
-Encoding: 65602 -1 159
+Encoding: 65602 -1 134
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -9776,7 +9244,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_viramasignodia_maodia
-Encoding: 65603 -1 160
+Encoding: 65603 -1 135
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -9825,7 +9293,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_virm_maodia_virm_yaodia
-Encoding: 65604 -1 161
+Encoding: 65604 -1 136
 Width: 1196
 GlyphClass: 2
 Flags: W
@@ -9930,7 +9398,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_viramasignodia_saodia
-Encoding: 65605 -1 162
+Encoding: 65605 -1 137
 Width: 690
 GlyphClass: 2
 Flags: W
@@ -9982,7 +9450,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" taodia viramasign
 EndChar
 
 StartChar: taodia_virm_saodia_virm_naodia
-Encoding: 65606 -1 163
+Encoding: 65606 -1 138
 Width: 687
 GlyphClass: 2
 Flags: W
@@ -10044,7 +9512,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: taodia_virm_saodia_virm_yaodia
-Encoding: 65607 -1 164
+Encoding: 65607 -1 139
 Width: 1115
 GlyphClass: 2
 Flags: W
@@ -10112,7 +9580,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: daodia_viramasignodia_gaodia
-Encoding: 65608 -1 165
+Encoding: 65608 -1 140
 Width: 745
 GlyphClass: 2
 Flags: W
@@ -10200,7 +9668,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" daodia viramasign
 EndChar
 
 StartChar: daodia_viramasignodia_ghaodia
-Encoding: 65609 -1 166
+Encoding: 65609 -1 141
 Width: 671
 GlyphClass: 2
 Flags: W
@@ -10290,7 +9758,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" daodia viramasign
 EndChar
 
 StartChar: daodia_viramasignodia_daodia
-Encoding: 65610 -1 167
+Encoding: 65610 -1 142
 Width: 741
 GlyphClass: 2
 Flags: W
@@ -10354,7 +9822,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" daodia viramasign
 EndChar
 
 StartChar: daodia_viramasignodia_dhaodia
-Encoding: 65611 -1 168
+Encoding: 65611 -1 143
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -10423,7 +9891,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" daodia viramasign
 EndChar
 
 StartChar: daodia_virm_dhaodia_virm_baodia
-Encoding: 65612 -1 169
+Encoding: 65612 -1 144
 Width: 722
 GlyphClass: 2
 Flags: W
@@ -10505,7 +9973,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" daodia viramasi
 EndChar
 
 StartChar: daodia_viramasignodia_baodia
-Encoding: 65613 -1 170
+Encoding: 65613 -1 145
 Width: 703
 GlyphClass: 2
 Flags: W
@@ -10571,7 +10039,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" daodia viramasi
 EndChar
 
 StartChar: daodia_viramasignodia_bhaodia
-Encoding: 65614 -1 171
+Encoding: 65614 -1 146
 Width: 838
 GlyphClass: 2
 Flags: W
@@ -10648,8 +10116,8 @@ Validated: 5
 Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" daodia viramasignodia_bhaodia
 EndChar
 
-StartChar: glyph168
-Encoding: 65615 -1 172
+StartChar: daodia_viramasignodia_yaodia
+Encoding: 65615 -1 147
 Width: 1119
 GlyphClass: 2
 Flags: W
@@ -10718,7 +10186,7 @@ Validated: 5
 EndChar
 
 StartChar: dhaodia_viramasignodia_baodia
-Encoding: 65616 -1 173
+Encoding: 65616 -1 148
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -10769,7 +10237,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" dhaodia viramas
 EndChar
 
 StartChar: dhaodia_viramasignodia_yaodia
-Encoding: 65617 -1 174
+Encoding: 65617 -1 149
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -10817,7 +10285,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" dhaodia viramasig
 EndChar
 
 StartChar: naodia_viramasignodia_taodia
-Encoding: 65618 -1 175
+Encoding: 65618 -1 150
 Width: 735
 GlyphClass: 2
 Flags: W
@@ -10889,7 +10357,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: naodia_virm_taodia_virm_yaodia
-Encoding: 65619 -1 176
+Encoding: 65619 -1 151
 Width: 1157
 GlyphClass: 2
 Flags: W
@@ -10979,7 +10447,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: naodia_virm_taodia_virm_raodia
-Encoding: 65620 -1 177
+Encoding: 65620 -1 152
 Width: 753
 GlyphClass: 2
 Flags: W
@@ -11044,7 +10512,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: glyph174
-Encoding: 65621 -1 178
+Encoding: 65621 -1 153
 Width: 1172
 GlyphClass: 2
 Flags: W
@@ -11126,7 +10594,7 @@ Validated: 37
 EndChar
 
 StartChar: naodia_virm_taodia_virm_baodia
-Encoding: 65622 -1 179
+Encoding: 65622 -1 154
 Width: 750
 GlyphClass: 2
 Flags: W
@@ -11216,7 +10684,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: naodia_viramasignodia_thaodia
-Encoding: 65623 -1 180
+Encoding: 65623 -1 155
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -11306,7 +10774,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" naodia viramasign
 EndChar
 
 StartChar: naodia_viramasignodia_daodia
-Encoding: 65624 -1 181
+Encoding: 65624 -1 156
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -11367,7 +10835,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" naodia viramasign
 EndChar
 
 StartChar: naodia_virm_daodia_virm_raodia
-Encoding: 65625 -1 182
+Encoding: 65625 -1 157
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -11431,7 +10899,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: naodia_virm_daodia_virm_baodia
-Encoding: 65626 -1 183
+Encoding: 65626 -1 158
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -11507,7 +10975,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: naodia_viramasignodia_dhaodia
-Encoding: 65627 -1 184
+Encoding: 65627 -1 159
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -11574,7 +11042,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" naodia viramasign
 EndChar
 
 StartChar: naodia_virm_dhaodia_virm_baodia
-Encoding: 65628 -1 185
+Encoding: 65628 -1 160
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -11654,7 +11122,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: naodia_virm_dhaodia_virm_raodia
-Encoding: 65629 -1 186
+Encoding: 65629 -1 161
 Width: 706
 GlyphClass: 2
 Flags: W
@@ -11721,8 +11189,8 @@ Validated: 517
 Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasignodia_dhaodia viramasignodia_raodia
 EndChar
 
-StartChar: glyph183
-Encoding: 65630 -1 187
+StartChar: naodia_virm_dhaodia_virm_yaodia
+Encoding: 65630 -1 162
 Width: 1154
 GlyphClass: 2
 Flags: W
@@ -11805,7 +11273,7 @@ Validated: 5
 EndChar
 
 StartChar: naodia_viramasignodia_naodia
-Encoding: 65631 -1 188
+Encoding: 65631 -1 163
 Width: 737
 GlyphClass: 2
 Flags: W
@@ -11868,8 +11336,8 @@ Validated: 5
 Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasignodia_naodia
 EndChar
 
-StartChar: glyph185
-Encoding: 65632 -1 189
+StartChar: naodia_virm_naodia_virm_yaodia
+Encoding: 65632 -1 164
 Width: 1159
 GlyphClass: 2
 Flags: W
@@ -11950,7 +11418,7 @@ Validated: 5
 EndChar
 
 StartChar: paodia_viramasignodia_taodia
-Encoding: 65633 -1 190
+Encoding: 65633 -1 165
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -12024,7 +11492,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" paodia viramasi
 EndChar
 
 StartChar: paodia_viramasignodia_paodia
-Encoding: 65634 -1 191
+Encoding: 65634 -1 166
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -12106,7 +11574,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" paodia viramasign
 EndChar
 
 StartChar: paodia_viramasignodia_llaodia
-Encoding: 65635 -1 192
+Encoding: 65635 -1 167
 Width: 848
 GlyphClass: 2
 Flags: W
@@ -12180,7 +11648,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" paodia viramasi
 EndChar
 
 StartChar: paodia_viramasignodia_saodia
-Encoding: 65636 -1 193
+Encoding: 65636 -1 168
 Width: 695
 GlyphClass: 2
 Flags: W
@@ -12255,7 +11723,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" paodia viramasign
 EndChar
 
 StartChar: baodia_viramasignodia_jaodia
-Encoding: 65637 -1 194
+Encoding: 65637 -1 169
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -12336,7 +11804,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" baodia viramasign
 EndChar
 
 StartChar: baodia_viramasignodia_daodia
-Encoding: 65638 -1 195
+Encoding: 65638 -1 170
 Width: 697
 GlyphClass: 2
 Flags: W
@@ -12403,7 +11871,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" baodia viramasign
 EndChar
 
 StartChar: baodia_viramasignodia_dhaodia
-Encoding: 65639 -1 196
+Encoding: 65639 -1 171
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -12478,7 +11946,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" baodia viramasign
 EndChar
 
 StartChar: maodia_viramasignodia_paodia
-Encoding: 65640 -1 197
+Encoding: 65640 -1 172
 Width: 706
 GlyphClass: 2
 Flags: W
@@ -12543,7 +12011,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" maodia viramasign
 EndChar
 
 StartChar: maodia_virm_paodia_virm_raodia
-Encoding: 65641 -1 198
+Encoding: 65641 -1 173
 Width: 708
 GlyphClass: 2
 Flags: W
@@ -12609,7 +12077,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" maodia viramasi
 EndChar
 
 StartChar: maodia_viramasignodia_phaodia
-Encoding: 65642 -1 199
+Encoding: 65642 -1 174
 Width: 777
 GlyphClass: 2
 Flags: W
@@ -12688,7 +12156,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" maodia viramasign
 EndChar
 
 StartChar: maodia_viramasignodia_baodia
-Encoding: 65643 -1 200
+Encoding: 65643 -1 175
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -12749,7 +12217,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" maodia viramasi
 EndChar
 
 StartChar: maodia_viramasignodia_bhaodia
-Encoding: 65644 -1 201
+Encoding: 65644 -1 176
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -12811,7 +12279,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" maodia viramasi
 EndChar
 
 StartChar: maodia_virm_bhaodia_virm_raodia
-Encoding: 65645 -1 202
+Encoding: 65645 -1 177
 Width: 725
 GlyphClass: 2
 Flags: W
@@ -12879,7 +12347,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" maodia viramasi
 EndChar
 
 StartChar: maodia_viramasignodia_maodia
-Encoding: 65646 -1 203
+Encoding: 65646 -1 178
 Width: 748
 GlyphClass: 2
 Flags: W
@@ -12950,7 +12418,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" maodia viramasi
 EndChar
 
 StartChar: llaodia_viramasignodia_kaodia
-Encoding: 65647 -1 204
+Encoding: 65647 -1 179
 Width: 745
 GlyphClass: 2
 Flags: W
@@ -13039,7 +12507,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" llaodia viramasig
 EndChar
 
 StartChar: llaodia_viramasignodia_bhaodia
-Encoding: 65648 -1 205
+Encoding: 65648 -1 180
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -13138,7 +12606,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" llaodia viramas
 EndChar
 
 StartChar: llaodia_viramasignodia_llaodia
-Encoding: 65649 -1 206
+Encoding: 65649 -1 181
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -13224,7 +12692,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" llaodia viramas
 EndChar
 
 StartChar: llaodia_viramasignodia_paodia
-Encoding: 65650 -1 207
+Encoding: 65650 -1 182
 Width: 642
 GlyphClass: 2
 Flags: W
@@ -13312,7 +12780,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" llaodia viramasig
 EndChar
 
 StartChar: llaodia_viramasignodia_phaodia
-Encoding: 65651 -1 208
+Encoding: 65651 -1 183
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -13420,7 +12888,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" llaodia viramasig
 EndChar
 
 StartChar: laodia_viramasignodia_kaodia
-Encoding: 65652 -1 209
+Encoding: 65652 -1 184
 Width: 726
 GlyphClass: 2
 Flags: W
@@ -13513,7 +12981,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" laodia viramasign
 EndChar
 
 StartChar: laodia_viramasignodia_gaodia
-Encoding: 65653 -1 210
+Encoding: 65653 -1 185
 Width: 768
 GlyphClass: 2
 Flags: W
@@ -13609,7 +13077,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" laodia viramasign
 EndChar
 
 StartChar: laodia_viramasignodia_laodia
-Encoding: 65654 -1 211
+Encoding: 65654 -1 186
 Width: 768
 GlyphClass: 2
 Flags: W
@@ -13698,7 +13166,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" laodia viramasi
 EndChar
 
 StartChar: shaodia_viramasignodia_caodia
-Encoding: 65655 -1 212
+Encoding: 65655 -1 187
 Width: 837
 GlyphClass: 2
 Flags: W
@@ -13793,7 +13261,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" shaodia viramasig
 EndChar
 
 StartChar: shaodia_viramasignodia_chaodia
-Encoding: 65656 -1 213
+Encoding: 65656 -1 188
 Width: 880
 GlyphClass: 2
 Flags: W
@@ -13932,7 +13400,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" shaodia viramasig
 EndChar
 
 StartChar: shaodia_viramasignodia_baodia
-Encoding: 65657 -1 214
+Encoding: 65657 -1 189
 Width: 719
 GlyphClass: 2
 Flags: W
@@ -14010,7 +13478,7 @@ Validated: 5
 EndChar
 
 StartChar: shaodia_viramasignodia_llaodia
-Encoding: 65658 -1 215
+Encoding: 65658 -1 190
 Width: 822
 GlyphClass: 2
 Flags: W
@@ -14098,7 +13566,7 @@ Validated: 5
 EndChar
 
 StartChar: ssaodia_viramasignodia_kaodia
-Encoding: 65659 -1 216
+Encoding: 65659 -1 191
 Width: 764
 GlyphClass: 2
 Flags: W
@@ -14182,7 +13650,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasig
 EndChar
 
 StartChar: ssaodia_virm_kaodia_virm_raodia
-Encoding: 65660 -1 217
+Encoding: 65660 -1 192
 Width: 766
 GlyphClass: 2
 Flags: W
@@ -14268,7 +13736,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ssaodia viramas
 EndChar
 
 StartChar: ssaodia_viramasignodia_ttaodia
-Encoding: 65661 -1 218
+Encoding: 65661 -1 193
 Width: 761
 GlyphClass: 2
 Flags: W
@@ -14361,7 +13829,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasig
 EndChar
 
 StartChar: ssaodia_vir_ttaodia_vir_raodia
-Encoding: 65662 -1 219
+Encoding: 65662 -1 194
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -14463,7 +13931,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ssaodia viramas
 EndChar
 
 StartChar: ssaodia_viramasignodia_tthaodia
-Encoding: 65663 -1 220
+Encoding: 65663 -1 195
 Width: 760
 GlyphClass: 2
 Flags: W
@@ -14546,7 +14014,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasig
 EndChar
 
 StartChar: ssaodia_viramasignodia_nnaodia
-Encoding: 65664 -1 221
+Encoding: 65664 -1 196
 Width: 741
 GlyphClass: 2
 Flags: W
@@ -14638,7 +14106,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasig
 EndChar
 
 StartChar: ssaodia_viramasignodia_paodia
-Encoding: 65665 -1 222
+Encoding: 65665 -1 197
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -14730,7 +14198,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasig
 EndChar
 
 StartChar: ssaodia_virm_paodia_virm_raodia
-Encoding: 65666 -1 223
+Encoding: 65666 -1 198
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -14823,7 +14291,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ssaodia viramas
 EndChar
 
 StartChar: ssaodia_viramasignodia_phaodia
-Encoding: 65667 -1 224
+Encoding: 65667 -1 199
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -14932,7 +14400,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasig
 EndChar
 
 StartChar: saodia_viramasignodia_kaodia
-Encoding: 65668 -1 225
+Encoding: 65668 -1 200
 Width: 838
 GlyphClass: 2
 Flags: W
@@ -15006,7 +14474,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" saodia viramasign
 EndChar
 
 StartChar: saodia_viramasignodia_khaodia
-Encoding: 65669 -1 226
+Encoding: 65669 -1 201
 Width: 739
 GlyphClass: 2
 Flags: W
@@ -15089,7 +14557,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" saodia viramasign
 EndChar
 
 StartChar: saodia_viramasignodia_taodia
-Encoding: 65670 -1 227
+Encoding: 65670 -1 202
 Width: 750
 GlyphClass: 2
 Flags: W
@@ -15154,7 +14622,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 EndChar
 
 StartChar: saodia_virm_taodia_virm_raodia
-Encoding: 65671 -1 228
+Encoding: 65671 -1 203
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -15211,7 +14679,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 EndChar
 
 StartChar: saodia_viramasignodia_thaodia
-Encoding: 65672 -1 229
+Encoding: 65672 -1 204
 Width: 689
 GlyphClass: 2
 Flags: W
@@ -15289,8 +14757,8 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" saodia viramasignodia thaodia
 EndChar
 
-StartChar: glyph226
-Encoding: 65673 -1 230
+StartChar: saodia_virm_thaodia_virm_yaodia
+Encoding: 65673 -1 205
 Width: 1116
 GlyphClass: 2
 Flags: W
@@ -15385,7 +14853,7 @@ Validated: 5
 EndChar
 
 StartChar: saodia_viramasignodia_naodia
-Encoding: 65674 -1 231
+Encoding: 65674 -1 206
 Width: 710
 GlyphClass: 2
 Flags: W
@@ -15441,7 +14909,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 EndChar
 
 StartChar: saodia_viramasignodia_paodia
-Encoding: 65675 -1 232
+Encoding: 65675 -1 207
 Width: 712
 GlyphClass: 2
 Flags: W
@@ -15513,7 +14981,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" saodia viramasign
 EndChar
 
 StartChar: saodia_viramasignodia_phaodia
-Encoding: 65676 -1 233
+Encoding: 65676 -1 208
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -15603,7 +15071,7 @@ Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" saodia viramasign
 EndChar
 
 StartChar: saodia_viramasignodia_baodia
-Encoding: 65677 -1 234
+Encoding: 65677 -1 209
 Width: 697
 GlyphClass: 2
 Flags: W
@@ -15663,7 +15131,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 EndChar
 
 StartChar: saodia_viramasignodia_maodia
-Encoding: 65678 -1 235
+Encoding: 65678 -1 210
 Width: 713
 GlyphClass: 2
 Flags: W
@@ -15734,7 +15202,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 EndChar
 
 StartChar: haodia_viramasignodia_naodia
-Encoding: 65679 -1 236
+Encoding: 65679 -1 211
 Width: 664
 GlyphClass: 2
 Flags: W
@@ -15807,7 +15275,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" haodia viramasi
 EndChar
 
 StartChar: haodia_viramasignodia_maodia
-Encoding: 65680 -1 237
+Encoding: 65680 -1 212
 Width: 671
 GlyphClass: 2
 Flags: W
@@ -15895,7 +15363,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" haodia viramasi
 EndChar
 
 StartChar: haodia_viramasignodia_laodia
-Encoding: 65681 -1 238
+Encoding: 65681 -1 213
 Width: 667
 GlyphClass: 2
 Flags: W
@@ -15983,7 +15451,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" haodia viramasi
 EndChar
 
 StartChar: raodia_viramasignodia
-Encoding: 65682 -1 239
+Encoding: 65682 -1 214
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -16004,7 +15472,7 @@ Ligature2: "'rphf' Reph Form lookup 3-1" raodia viramasignodia
 EndChar
 
 StartChar: glyph236
-Encoding: 65683 -1 240
+Encoding: 65683 -1 215
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16026,7 +15494,7 @@ Substitution2: "Single Substitution in Oriya lookup 9-1" glyph236
 EndChar
 
 StartChar: viramasignodia_raodia_usignodia
-Encoding: 65684 -1 241
+Encoding: 65684 -1 216
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16082,7 +15550,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia usignodia
 EndChar
 
 StartChar: viramaodia_raodia_uusignodia
-Encoding: 65685 -1 242
+Encoding: 65685 -1 217
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16126,7 +15594,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia uusignodia
 EndChar
 
 StartChar: glyph239
-Encoding: 65686 -1 243
+Encoding: 65686 -1 218
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16146,7 +15614,7 @@ Validated: 5
 EndChar
 
 StartChar: isignodia_candrabinduodia
-Encoding: 65687 -1 244
+Encoding: 65687 -1 219
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16193,7 +15661,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" isignodia candr
 EndChar
 
 StartChar: isignodia_raodia_viramasignodia
-Encoding: 65688 -1 245
+Encoding: 65688 -1 220
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16221,7 +15689,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" isignodia raodi
 EndChar
 
 StartChar: glyph242
-Encoding: 65689 -1 246
+Encoding: 65689 -1 221
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -16260,7 +15728,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph243
-Encoding: 65690 -1 247
+Encoding: 65690 -1 222
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -16327,7 +15795,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph244
-Encoding: 65691 -1 248
+Encoding: 65691 -1 223
 Width: 715
 GlyphClass: 2
 Flags: W
@@ -16386,7 +15854,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph245
-Encoding: 65692 -1 249
+Encoding: 65692 -1 224
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -16430,7 +15898,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph246
-Encoding: 65693 -1 250
+Encoding: 65693 -1 225
 Width: 426
 GlyphClass: 2
 Flags: W
@@ -16460,7 +15928,7 @@ Validated: 5
 EndChar
 
 StartChar: kaodia_viramasignodia_raodia
-Encoding: 65733 -1 251
+Encoding: 65733 -1 226
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -16529,7 +15997,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia viramasi
 EndChar
 
 StartChar: khaodia_viramasignodia_raodia
-Encoding: 65734 -1 252
+Encoding: 65734 -1 227
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -16591,7 +16059,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" khaodia viramas
 EndChar
 
 StartChar: gaodia_viramasignodia_raodia
-Encoding: 65735 -1 253
+Encoding: 65735 -1 228
 Width: 774
 GlyphClass: 2
 Flags: W
@@ -16645,7 +16113,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" gaodia viramasi
 EndChar
 
 StartChar: ghaodia_viramasignodia_raodia
-Encoding: 65736 -1 254
+Encoding: 65736 -1 229
 Width: 760
 GlyphClass: 2
 Flags: W
@@ -16708,7 +16176,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ghaodia viramas
 EndChar
 
 StartChar: ngaodia_viramasignodia_raodia
-Encoding: 65737 -1 255
+Encoding: 65737 -1 230
 Width: 796
 GlyphClass: 2
 Flags: W
@@ -16787,7 +16255,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ngaodia viramas
 EndChar
 
 StartChar: caodia_viramasignodia_raodia
-Encoding: 65738 -1 256
+Encoding: 65738 -1 231
 Width: 735
 GlyphClass: 2
 Flags: W
@@ -16847,7 +16315,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" caodia viramasi
 EndChar
 
 StartChar: chaodia_viramasignodia_raodia
-Encoding: 65739 -1 257
+Encoding: 65739 -1 232
 Width: 705
 GlyphClass: 2
 Flags: W
@@ -16944,7 +16412,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" chaodia viramas
 EndChar
 
 StartChar: jaodia_viramasignodia_raodia
-Encoding: 65740 -1 258
+Encoding: 65740 -1 233
 Width: 754
 GlyphClass: 2
 Flags: W
@@ -17019,7 +16487,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" jaodia viramasi
 EndChar
 
 StartChar: jhaodia_viramasignodia_raodia
-Encoding: 65741 -1 259
+Encoding: 65741 -1 234
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -17090,7 +16558,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" jhaodia viramas
 EndChar
 
 StartChar: nyaodia_viramasignodia_raodia
-Encoding: 65742 -1 260
+Encoding: 65742 -1 235
 Width: 718
 GlyphClass: 2
 Flags: W
@@ -17186,7 +16654,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nyaodia viramas
 EndChar
 
 StartChar: ttaodia_viramasignodia_raodia
-Encoding: 65743 -1 261
+Encoding: 65743 -1 236
 Width: 713
 GlyphClass: 2
 Flags: W
@@ -17246,7 +16714,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ttaodia viramas
 EndChar
 
 StartChar: tthaodia_viramasignodia_raodia
-Encoding: 65744 -1 262
+Encoding: 65744 -1 237
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -17287,7 +16755,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" tthaodia virama
 EndChar
 
 StartChar: ddaodia_viramasignodia_raodia
-Encoding: 65745 -1 263
+Encoding: 65745 -1 238
 Width: 741
 GlyphClass: 2
 Flags: W
@@ -17351,7 +16819,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ddaodia viramas
 EndChar
 
 StartChar: ddhaodia_viramasignodia_raodia
-Encoding: 65746 -1 264
+Encoding: 65746 -1 239
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -17427,7 +16895,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ddhaodia virama
 EndChar
 
 StartChar: nnaodia_viramasignodia_raodia
-Encoding: 65747 -1 265
+Encoding: 65747 -1 240
 Width: 761
 GlyphClass: 2
 Flags: W
@@ -17488,7 +16956,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" nnaodia viramas
 EndChar
 
 StartChar: taodia_viramasignodia_raodia
-Encoding: 65748 -1 266
+Encoding: 65748 -1 241
 Width: 724
 GlyphClass: 2
 Flags: W
@@ -17553,7 +17021,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" taodia viramasi
 EndChar
 
 StartChar: thaodia_viramasignodia_raodia
-Encoding: 65749 -1 267
+Encoding: 65749 -1 242
 Width: 715
 GlyphClass: 2
 Flags: W
@@ -17607,7 +17075,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" thaodia viramas
 EndChar
 
 StartChar: daodia_viramasignodia_raodia
-Encoding: 65750 -1 268
+Encoding: 65750 -1 243
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -17661,7 +17129,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" daodia viramasi
 EndChar
 
 StartChar: dhaodia_viramasignodia_raodia
-Encoding: 65751 -1 269
+Encoding: 65751 -1 244
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -17700,7 +17168,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" dhaodia viramas
 EndChar
 
 StartChar: naodia_viramasignodia_raodia
-Encoding: 65752 -1 270
+Encoding: 65752 -1 245
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -17752,7 +17220,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" naodia viramasi
 EndChar
 
 StartChar: paodia_viramasignodia_raodia
-Encoding: 65753 -1 271
+Encoding: 65753 -1 246
 Width: 773
 GlyphClass: 2
 Flags: W
@@ -17804,7 +17272,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" paodia viramasi
 EndChar
 
 StartChar: phaodia_viramasignodia_raodia
-Encoding: 65754 -1 272
+Encoding: 65754 -1 247
 Width: 866
 GlyphClass: 2
 Flags: W
@@ -17875,7 +17343,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" phaodia viramas
 EndChar
 
 StartChar: baodia_viramasignodia_raodia
-Encoding: 65755 -1 273
+Encoding: 65755 -1 248
 Width: 747
 GlyphClass: 2
 Flags: W
@@ -17932,7 +17400,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" baodia viramasi
 EndChar
 
 StartChar: bhaodia_viramasignodia_raodia
-Encoding: 65756 -1 274
+Encoding: 65756 -1 249
 Width: 787
 GlyphClass: 2
 Flags: W
@@ -18005,7 +17473,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" bhaodia viramas
 EndChar
 
 StartChar: maodia_viramasignodia_raodia
-Encoding: 65757 -1 275
+Encoding: 65757 -1 250
 Width: 758
 GlyphClass: 2
 Flags: W
@@ -18052,7 +17520,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" maodia viramasi
 EndChar
 
 StartChar: yaodia_viramasignodia_raodia
-Encoding: 65758 -1 276
+Encoding: 65758 -1 251
 Width: 784
 GlyphClass: 2
 Flags: W
@@ -18114,7 +17582,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" yaodia viramasi
 EndChar
 
 StartChar: raodia_viramasignodia_raodia
-Encoding: 65759 -1 277
+Encoding: 65759 -1 252
 Width: 760
 GlyphClass: 2
 Flags: W
@@ -18176,7 +17644,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" raodia viramasi
 EndChar
 
 StartChar: laodia_viramasignodia_raodia
-Encoding: 65760 -1 278
+Encoding: 65760 -1 253
 Width: 783
 GlyphClass: 2
 Flags: W
@@ -18237,7 +17705,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" laodia viramasi
 EndChar
 
 StartChar: llaodia_viramasignodia_raodia
-Encoding: 65761 -1 279
+Encoding: 65761 -1 254
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -18296,7 +17764,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" llaodia viramas
 EndChar
 
 StartChar: vaodia_viramasignodia_raodia
-Encoding: 65762 -1 280
+Encoding: 65762 -1 255
 Width: 732
 GlyphClass: 2
 Flags: W
@@ -18363,7 +17831,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" vaodia viramasi
 EndChar
 
 StartChar: shaodia_viramasignodia_raodia
-Encoding: 65763 -1 281
+Encoding: 65763 -1 256
 Width: 739
 GlyphClass: 2
 Flags: W
@@ -18430,7 +17898,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" shaodia viramas
 EndChar
 
 StartChar: ssaodia_viramasignodia_raodia
-Encoding: 65764 -1 282
+Encoding: 65764 -1 257
 Width: 755
 GlyphClass: 2
 Flags: W
@@ -18491,7 +17959,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ssaodia viramas
 EndChar
 
 StartChar: saodia_viramasignodia_raodia
-Encoding: 65765 -1 283
+Encoding: 65765 -1 258
 Width: 744
 GlyphClass: 2
 Flags: W
@@ -18539,7 +18007,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" saodia viramasi
 EndChar
 
 StartChar: haodia_viramasignodia_raodia
-Encoding: 65766 -1 284
+Encoding: 65766 -1 259
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -18605,7 +18073,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" haodia viramasi
 EndChar
 
 StartChar: rraodia_viramasignodia_raodia
-Encoding: 65767 -1 285
+Encoding: 65767 -1 260
 Width: 750
 GlyphClass: 2
 Flags: W
@@ -18680,7 +18148,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" rraodia viramas
 EndChar
 
 StartChar: rhaodia_viramasignodia_raodia
-Encoding: 65768 -1 286
+Encoding: 65768 -1 261
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -18766,7 +18234,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" rhaodia viramas
 EndChar
 
 StartChar: yyaodia_viramasignodia_raodia
-Encoding: 65769 -1 287
+Encoding: 65769 -1 262
 Width: 782
 GlyphClass: 2
 Flags: W
@@ -18848,7 +18316,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" yyaodia viramas
 EndChar
 
 StartChar: glyph323
-Encoding: 65770 -1 288
+Encoding: 65770 -1 263
 Width: 731
 GlyphClass: 2
 Flags: W
@@ -18918,7 +18386,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" caodia nuktasig
 EndChar
 
 StartChar: glyph324
-Encoding: 65771 -1 289
+Encoding: 65771 -1 264
 Width: 786
 GlyphClass: 2
 Flags: W
@@ -18988,7 +18456,7 @@ Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" kaodia_viramasi
 EndChar
 
 StartChar: viramasignodia_kaodia
-Encoding: 65772 -1 290
+Encoding: 65772 -1 265
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19037,7 +18505,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" kaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_khaodia
-Encoding: 65773 -1 291
+Encoding: 65773 -1 266
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19098,7 +18566,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" khaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_gaodia
-Encoding: 65774 -1 292
+Encoding: 65774 -1 267
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19151,7 +18619,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" gaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_ghaodia
-Encoding: 65775 -1 293
+Encoding: 65775 -1 268
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19209,7 +18677,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" ghaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_ngaodia
-Encoding: 65776 -1 294
+Encoding: 65776 -1 269
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19280,7 +18748,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" ngaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_caodia
-Encoding: 65777 -1 295
+Encoding: 65777 -1 270
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19333,7 +18801,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" caodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_chaodia
-Encoding: 65778 -1 296
+Encoding: 65778 -1 271
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19421,7 +18889,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" chaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_jaodia
-Encoding: 65779 -1 297
+Encoding: 65779 -1 272
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19465,7 +18933,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" jaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_jhaodia
-Encoding: 65780 -1 298
+Encoding: 65780 -1 273
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19526,7 +18994,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" jhaodia viramasignodia
 EndChar
 
 StartChar: glyph334
-Encoding: 65781 -1 299
+Encoding: 65781 -1 274
 Width: 612
 GlyphClass: 2
 Flags: W
@@ -19613,7 +19081,7 @@ Validated: 5
 EndChar
 
 StartChar: viramasignodia_ttaodia
-Encoding: 65782 -1 300
+Encoding: 65782 -1 275
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19665,7 +19133,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" ttaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_tthaodia
-Encoding: 65783 -1 301
+Encoding: 65783 -1 276
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19699,7 +19167,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" tthaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_ddaodia
-Encoding: 65784 -1 302
+Encoding: 65784 -1 277
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19754,7 +19222,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" ddaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_ddhaodia
-Encoding: 65785 -1 303
+Encoding: 65785 -1 278
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19795,7 +19263,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" ddhaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_nnaodia
-Encoding: 65786 -1 304
+Encoding: 65786 -1 279
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19851,7 +19319,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" nnaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_taodia
-Encoding: 65787 -1 305
+Encoding: 65787 -1 280
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19892,7 +19360,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" taodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_thaodia
-Encoding: 65788 -1 306
+Encoding: 65788 -1 281
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19947,7 +19415,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" thaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_daodia
-Encoding: 65789 -1 307
+Encoding: 65789 -1 282
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19996,7 +19464,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" daodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_dhaodia
-Encoding: 65790 -1 308
+Encoding: 65790 -1 283
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20034,7 +19502,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" dhaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_naodia
-Encoding: 65791 -1 309
+Encoding: 65791 -1 284
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20064,7 +19532,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" naodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_paodia
-Encoding: 65792 -1 310
+Encoding: 65792 -1 285
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20115,7 +19583,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" paodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_phaodia
-Encoding: 65793 -1 311
+Encoding: 65793 -1 286
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20185,7 +19653,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" phaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_baodia
-Encoding: 65794 -1 312
+Encoding: 65794 -1 287
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20219,7 +19687,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" baodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_bhaodia
-Encoding: 65795 -1 313
+Encoding: 65795 -1 288
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20285,7 +19753,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" bhaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_maodia
-Encoding: 65796 -1 314
+Encoding: 65796 -1 289
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20329,7 +19797,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" maodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_yaodia
-Encoding: 65797 -1 315
+Encoding: 65797 -1 290
 Width: 426
 GlyphClass: 2
 Flags: W
@@ -20361,7 +19829,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" yaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_raodia
-Encoding: 65798 -1 316
+Encoding: 65798 -1 291
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20383,7 +19851,7 @@ Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_raodia
 EndChar
 
 StartChar: viramasignodia_laodia
-Encoding: 65799 -1 317
+Encoding: 65799 -1 292
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20426,7 +19894,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" laodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_llaodia
-Encoding: 65800 -1 318
+Encoding: 65800 -1 293
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20467,7 +19935,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" llaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_vaodia
-Encoding: 65801 -1 319
+Encoding: 65801 -1 294
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20509,7 +19977,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" vaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_shaodia
-Encoding: 65802 -1 320
+Encoding: 65802 -1 295
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20570,7 +20038,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" shaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_ssaodia
-Encoding: 65803 -1 321
+Encoding: 65803 -1 296
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20630,7 +20098,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" ssaodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_saodia
-Encoding: 65804 -1 322
+Encoding: 65804 -1 297
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20669,7 +20137,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" saodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_haodia
-Encoding: 65805 -1 323
+Encoding: 65805 -1 298
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20728,7 +20196,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" haodia viramasignodia
 EndChar
 
 StartChar: viramasignodia_waodia
-Encoding: 65806 -1 324
+Encoding: 65806 -1 299
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -20761,7 +20229,7 @@ Ligature2: "'blwf' Below Base Forms lookup 2-1" waodia viramasignodia
 EndChar
 
 StartChar: glyph360
-Encoding: 65807 -1 325
+Encoding: 65807 -1 300
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -20793,7 +20261,7 @@ Validated: 5
 EndChar
 
 StartChar: viramasignodia_yyaodia
-Encoding: 65808 -1 326
+Encoding: 65808 -1 301
 Width: 426
 GlyphClass: 4
 Flags: W
@@ -20824,7 +20292,7 @@ Ligature2: "'pstf' Post Base Forms lookup 4-1" yyaodia viramasignodia
 EndChar
 
 StartChar: glyph362
-Encoding: 65809 -1 327
+Encoding: 65809 -1 302
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -20856,7 +20324,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph363
-Encoding: 65810 -1 328
+Encoding: 65810 -1 303
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -20888,7 +20356,7 @@ Validated: 5
 EndChar
 
 StartChar: baodia_viramasignodia_baodia
-Encoding: 65811 -1 329
+Encoding: 65811 -1 304
 Width: 702
 GlyphClass: 4
 Flags: W
@@ -20960,7 +20428,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph365
-Encoding: 65812 -1 330
+Encoding: 65812 -1 305
 Width: 360
 GlyphClass: 4
 Flags: W
@@ -21006,7 +20474,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph366
-Encoding: 65813 -1 331
+Encoding: 65813 -1 306
 Width: 347
 GlyphClass: 4
 Flags: W
@@ -21065,7 +20533,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph367
-Encoding: 65814 -1 332
+Encoding: 65814 -1 307
 Width: 328
 GlyphClass: 4
 Flags: W
@@ -21116,7 +20584,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph368
-Encoding: 65815 -1 333
+Encoding: 65815 -1 308
 Width: 387
 GlyphClass: 4
 Flags: W
@@ -21172,7 +20640,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph369
-Encoding: 65816 -1 334
+Encoding: 65816 -1 309
 Width: 445
 GlyphClass: 2
 Flags: W
@@ -21240,7 +20708,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph370
-Encoding: 65817 -1 335
+Encoding: 65817 -1 310
 Width: 358
 GlyphClass: 4
 Flags: W
@@ -21291,7 +20759,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph371
-Encoding: 65818 -1 336
+Encoding: 65818 -1 311
 Width: 368
 GlyphClass: 4
 Flags: W
@@ -21377,7 +20845,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph372
-Encoding: 65819 -1 337
+Encoding: 65819 -1 312
 Width: 402
 GlyphClass: 4
 Flags: W
@@ -21417,7 +20885,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph373
-Encoding: 65820 -1 338
+Encoding: 65820 -1 313
 Width: 426
 GlyphClass: 4
 Flags: W
@@ -21476,7 +20944,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph374
-Encoding: 65821 -1 339
+Encoding: 65821 -1 314
 Width: 612
 GlyphClass: 4
 Flags: W
@@ -21563,7 +21031,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph375
-Encoding: 65822 -1 340
+Encoding: 65822 -1 315
 Width: 338
 GlyphClass: 4
 Flags: W
@@ -21614,7 +21082,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph376
-Encoding: 65823 -1 341
+Encoding: 65823 -1 316
 Width: 352
 GlyphClass: 4
 Flags: W
@@ -21646,7 +21114,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph377
-Encoding: 65824 -1 342
+Encoding: 65824 -1 317
 Width: 497
 GlyphClass: 4
 Flags: W
@@ -21699,7 +21167,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph378
-Encoding: 65825 -1 343
+Encoding: 65825 -1 318
 Width: 300
 GlyphClass: 4
 Flags: W
@@ -21738,7 +21206,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph379
-Encoding: 65826 -1 344
+Encoding: 65826 -1 319
 Width: 358
 GlyphClass: 4
 Flags: W
@@ -21792,7 +21260,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph380
-Encoding: 65827 -1 345
+Encoding: 65827 -1 320
 Width: 550
 GlyphClass: 4
 Flags: W
@@ -21831,7 +21299,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph381
-Encoding: 65828 -1 346
+Encoding: 65828 -1 321
 Width: 523
 GlyphClass: 4
 Flags: W
@@ -21884,7 +21352,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph382
-Encoding: 65829 -1 347
+Encoding: 65829 -1 322
 Width: 463
 GlyphClass: 4
 Flags: W
@@ -21931,7 +21399,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph383
-Encoding: 65830 -1 348
+Encoding: 65830 -1 323
 Width: 454
 GlyphClass: 4
 Flags: W
@@ -21967,7 +21435,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph384
-Encoding: 65831 -1 349
+Encoding: 65831 -1 324
 Width: 300
 GlyphClass: 4
 Flags: W
@@ -21995,7 +21463,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph385
-Encoding: 65832 -1 350
+Encoding: 65832 -1 325
 Width: 396
 GlyphClass: 4
 Flags: W
@@ -22044,7 +21512,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph386
-Encoding: 65833 -1 351
+Encoding: 65833 -1 326
 Width: 541
 GlyphClass: 4
 Flags: W
@@ -22112,7 +21580,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph387
-Encoding: 65834 -1 352
+Encoding: 65834 -1 327
 Width: 405
 GlyphClass: 4
 Flags: W
@@ -22162,7 +21630,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph388
-Encoding: 65835 -1 353
+Encoding: 65835 -1 328
 Width: 667
 GlyphClass: 4
 Flags: W
@@ -22217,7 +21685,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph389
-Encoding: 65836 -1 354
+Encoding: 65836 -1 329
 Width: 396
 GlyphClass: 4
 Flags: W
@@ -22259,7 +21727,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph390
-Encoding: 65837 -1 355
+Encoding: 65837 -1 330
 Width: 399
 GlyphClass: 4
 Flags: W
@@ -22316,7 +21784,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph391
-Encoding: 65838 -1 356
+Encoding: 65838 -1 331
 Width: 362
 GlyphClass: 4
 Flags: W
@@ -22336,7 +21804,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph392
-Encoding: 65839 -1 357
+Encoding: 65839 -1 332
 Width: 468
 GlyphClass: 4
 Flags: W
@@ -22377,7 +21845,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph393
-Encoding: 65840 -1 358
+Encoding: 65840 -1 333
 Width: 381
 GlyphClass: 4
 Flags: W
@@ -22416,7 +21884,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph394
-Encoding: 65841 -1 359
+Encoding: 65841 -1 334
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -22448,7 +21916,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph395
-Encoding: 65842 -1 360
+Encoding: 65842 -1 335
 Width: 435
 GlyphClass: 2
 Flags: W
@@ -22512,7 +21980,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph396
-Encoding: 65843 -1 361
+Encoding: 65843 -1 336
 Width: 407
 GlyphClass: 2
 Flags: W
@@ -22570,7 +22038,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph397
-Encoding: 65844 -1 362
+Encoding: 65844 -1 337
 Width: 341
 GlyphClass: 2
 Flags: W
@@ -22607,7 +22075,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph398
-Encoding: 65845 -1 363
+Encoding: 65845 -1 338
 Width: 448
 GlyphClass: 2
 Flags: W
@@ -22664,7 +22132,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph399
-Encoding: 65846 -1 364
+Encoding: 65846 -1 339
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -22713,7 +22181,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph400
-Encoding: 65847 -1 365
+Encoding: 65847 -1 340
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -22769,7 +22237,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph401
-Encoding: 65848 -1 366
+Encoding: 65848 -1 341
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -22828,7 +22296,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph402
-Encoding: 65849 -1 367
+Encoding: 65849 -1 342
 Width: 246
 GlyphClass: 2
 Flags: W
@@ -22863,7 +22331,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph403
-Encoding: 65850 -1 368
+Encoding: 65850 -1 343
 Width: 246
 GlyphClass: 2
 Flags: W
@@ -22915,7 +22383,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph404
-Encoding: 65851 -1 369
+Encoding: 65851 -1 344
 Width: 246
 GlyphClass: 2
 Flags: W
@@ -22972,7 +22440,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph405
-Encoding: 65852 -1 370
+Encoding: 65852 -1 345
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23024,7 +22492,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph406
-Encoding: 65853 -1 371
+Encoding: 65853 -1 346
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23064,7 +22532,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph407
-Encoding: 65854 -1 372
+Encoding: 65854 -1 347
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23084,7 +22552,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph408
-Encoding: 65855 -1 373
+Encoding: 65855 -1 348
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23132,7 +22600,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph409
-Encoding: 65856 -1 374
+Encoding: 65856 -1 349
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23166,7 +22634,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph410
-Encoding: 65857 -1 375
+Encoding: 65857 -1 350
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23202,7 +22670,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph411
-Encoding: 65858 -1 376
+Encoding: 65858 -1 351
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23222,7 +22690,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph412
-Encoding: 65859 -1 377
+Encoding: 65859 -1 352
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23242,7 +22710,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph413
-Encoding: 65860 -1 378
+Encoding: 65860 -1 353
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23294,7 +22762,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph414
-Encoding: 65861 -1 379
+Encoding: 65861 -1 354
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -23333,24 +22801,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni0B64
-Encoding: 2916 2916 380
-Width: 481
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: uni0B65
-Encoding: 2917 2917 381
-Width: 724
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: vocalicrrsignodia
-Encoding: 2884 2884 382
+Encoding: 2884 2884 355
 Width: 0
 Flags: W
 LayerCount: 2
@@ -23389,7 +22841,7 @@ Validated: 33
 EndChar
 
 StartChar: vocaliclsignodia
-Encoding: 2914 2914 383
+Encoding: 2914 2914 356
 Width: 639
 Flags: W
 LayerCount: 2
@@ -23431,7 +22883,7 @@ Validated: 37
 EndChar
 
 StartChar: vocalicllsignodia
-Encoding: 2915 2915 384
+Encoding: 2915 2915 357
 Width: 639
 Flags: W
 LayerCount: 2
@@ -23478,7 +22930,7 @@ Validated: 33
 EndChar
 
 StartChar: rupeeodia
-Encoding: 8377 8377 385
+Encoding: 8377 8377 358
 Width: 629
 VWidth: 0
 Flags: W
@@ -23511,7 +22963,7 @@ EndSplineSet
 EndChar
 
 StartChar: fractiononequarterodia
-Encoding: 2930 2930 386
+Encoding: 2930 2930 359
 Width: 246
 Flags: W
 LayerCount: 2
@@ -23527,7 +22979,7 @@ EndSplineSet
 EndChar
 
 StartChar: fractiononehalfodia
-Encoding: 2931 2931 387
+Encoding: 2931 2931 360
 Width: 485
 Flags: W
 LayerCount: 2
@@ -23553,7 +23005,7 @@ EndSplineSet
 EndChar
 
 StartChar: fractionthreequarterodia
-Encoding: 2932 2932 388
+Encoding: 2932 2932 361
 Width: 775
 Flags: W
 LayerCount: 2
@@ -23593,7 +23045,7 @@ EndSplineSet
 EndChar
 
 StartChar: fractiononesixteenthodia
-Encoding: 2933 2933 389
+Encoding: 2933 2933 362
 Width: 551
 Flags: W
 LayerCount: 2
@@ -23610,7 +23062,7 @@ EndSplineSet
 EndChar
 
 StartChar: fractiononeeigthodia
-Encoding: 2934 2934 390
+Encoding: 2934 2934 363
 Width: 751
 Flags: W
 LayerCount: 2
@@ -23654,7 +23106,7 @@ EndSplineSet
 EndChar
 
 StartChar: fractionthreesixteenthodia
-Encoding: 2935 2935 391
+Encoding: 2935 2935 364
 Width: 935
 Flags: W
 LayerCount: 2
