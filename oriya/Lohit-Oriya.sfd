@@ -391,7 +391,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 29 11
+WinInfo: 58 29 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65864 365
@@ -20228,7 +20228,7 @@ Validated: 5
 Ligature2: "'blwf' Below Base Forms lookup 2-1" waodia viramasignodia
 EndChar
 
-StartChar: glyph360
+StartChar: glyph360.alt1
 Encoding: 65807 -1 300
 Width: 0
 GlyphClass: 4
@@ -20291,7 +20291,7 @@ Validated: 5
 Ligature2: "'pstf' Post Base Forms lookup 4-1" yyaodia viramasignodia
 EndChar
 
-StartChar: glyph362
+StartChar: glyph362.alt2
 Encoding: 65809 -1 302
 Width: 0
 GlyphClass: 4
@@ -20323,7 +20323,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph363
+StartChar: glyph363.alt3
 Encoding: 65810 -1 303
 Width: 0
 GlyphClass: 4
