@@ -1,5 +1,5 @@
 all: sfd-dist ttf woff eot ttf-dist web-dist  
-version:= 2.91.0
+version:= 2.91.1
 
 test: test-ttf
 	@echo "----------Testing actual-output with expected-output----------"
@@ -47,7 +47,7 @@ web-dist: webdist
 	rm -rf lohit-bengali-web-$(version)/.git
 	tar -cf lohit-bengali-web-$(version).tar lohit-bengali-web-$(version)
 	gzip lohit-bengali-web-$(version).tar
-	rm -rf lohit-devanagari-web-$(version)
+	rm -rf lohit-bengali-web-$(version)
 
 clean: cleanall
 	rm -f *.ttf *.eot *.woff

@@ -1,5 +1,5 @@
 
-This readme is specifically for Lohit Tamil. For instruction on installation and other stuff open README
+This readme is specifically for Lohit Tamil. For instruction on installation see README. (https://github.com/pravins/lohit/blob/master/README)
 	- To generate ttf from feature file
 
 Glyphs not in use:
@@ -214,5 +214,4 @@ Glyph names are as follows, please check sfd file for actual shapes
 ****************************
 Issues in Lohit-Tamil for Win XP
 
-Rendering issue on Winxp for glyphs ஙு ஙூ ஶீ ஶி ஶ்i
-https://github.com/pravins/lohit2/issues/20
+Rendering issue on Winxp for glyphs ஙு ஙூ ஶீ ஶி ஶ்

@@ -94,7 +94,7 @@ https://www.microsoft.com/typography/OpenTypeDev/bengali/intro.htm#features :
 Basic shaping forms includes:
 
 1) Nukta form substitution:
-							য়
+							য়     
 
 2) Akhand ligature substitution:
 							ক্ষ	জ্ঞ
