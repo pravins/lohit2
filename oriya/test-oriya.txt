@@ -29,7 +29,7 @@ As per Microsoft typography for Developing OpenType Fonts for Oriya Script, the 
 			ଡ଼  	 ଢ଼   
 
 <feature tag> pres/abvs:Pre-base substitution ,Above base substitution
-			କ୍କ  	 କ୍ତ   	କ୍ତ୍ର	    କ୍ଳ   	 କ୍ବ   
+			କ୍କ  	 କ୍ତ   	କ୍ତ୍ର     କ୍ଳ   	 କ୍ବ   
 			କ୍ଷ   	କ୍ଷ୍ମ 	 	କ୍ଷ୍ଣ	    କ୍ଷ୍ଯ
 			କ୍ସ  	 କ୍ଧ 
 			ଗ୍ଳ 	  ଗ୍ପ   	ଗ୍ନ	  ଗ୍ଧ      ଘ୍ନ           
@@ -39,7 +39,7 @@ As per Microsoft typography for Developing OpenType Fonts for Oriya Script, the 
 			ଜ୍ଜ		ଜ୍ଜ୍ୱ		ଜ୍ଝ		ଜ୍ଞ		ଜ୍ୱ	
 			ଞ୍ଚ		ଞ୍ଛ		ଞ୍ଝ		ଞ୍ଜ  
 			ଟ୍ଟ		ଡ୍ଗ		ଡ୍ଡ	
-			ଣ୍ଟ		ଣ୍ଠ		ଣ୍ଡ		ଣ୍ଡ୍ର		ଣ୍ଢ		 ଣ୍ଣ		
+			ଣ୍ଟ		ଣ୍ଠ		ଣ୍ଡ		ଣ୍ଡ୍ର 	ଣ୍ଢ		 ଣ୍ଣ		
 			ତ୍କ		ତ୍ତ		ତ୍ତ୍ୱ		ତ୍ତ୍ର		ତ୍ଥ		ତ୍ନ		ତ୍ପ	ତ୍ୱ		ତ୍ମ		ତ୍ନ୍ଯ     ତ୍ସ	ତ୍ସ୍ନ	  ତ୍ସ୍ଯ
 			ଦ୍ଗ		ଦ୍ଘ	  	ଦ୍ଦ    	ଦ୍ଧ   	 ଦ୍ଧ୍ବ 		  ଦ୍ଭ   	 ଦ୍ଯ   	ଧ୍ବ  		  ଧ୍ୟ 
 			ନ୍ତ		ନ୍ତ୍ୟ	   ନ୍ତ୍ର  	 ନ୍ତ୍ର୍ୟ  	 ନ୍ତ୍ୱ	   ନ୍ଥ    	  ନ୍ଦ	ନ୍ଦ୍ର	 	ନ୍ଦ୍ବ	   	 ନ୍ଧ   	ନ୍ଧ୍ୱ		ନ୍ଧ୍ର		   ନ୍ଧ୍ୟ     	 ନ୍ନ		  ନ୍ନ୍ୟ
