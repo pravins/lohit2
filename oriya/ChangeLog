@@ -1,5 +1,8 @@
 				  lohit-oriya
+
 Current Version :- 2.5.4.1
+* Wed Dec 10 2014 Shilpa Gite<sgite@redhat.com> -2.5.4
+-Corrected feature rules for conjucts ଖ୍ର ଗ୍ର କ୍ଷ୍ଯ
 
 * Wed Jun 19 2013 Pravin Satpute <psatpute@redhat.com> - 2.5.4.1
 - Corrected Makefile with release tarball
