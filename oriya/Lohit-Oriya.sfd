@@ -14221,7 +14221,6 @@ SplineSet
 EndSplineSet
 Validated: 517
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ssaodia viramasignodia_paodia viramasignodia_raodia
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ssaodia viramasignodia_paodia viramasignodia_raodia
 EndChar
 
 StartChar: ssaodia_viramasignodia_phaodia
@@ -16818,7 +16817,6 @@ SplineSet
 EndSplineSet
 Validated: 5
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" ddhaodia viramasignodia_raodia
-Ligature2: "'abvs' Above Base Substitutions in Oriya lookup 6-1" ddhaodia viramasignodia_raodia
 EndChar
 
 StartChar: nnaodia_viramasignodia_raodia
