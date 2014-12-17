@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1153280036
-ModificationTime: 1417429829
+ModificationTime: 1418812702
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,6 +50,13 @@ OS2SupYOff: 512
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'MODI'
+Lookup: 4 0 0 "'half' Half Forms in Telugu lookup 7"  {"'half' Half Forms in Telugu lookup 7-1"  } ['half' ('telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Telugu2 lookup 5"  {"'blwf' Below Base Forms in Telugu2 lookup 5-1"  } ['blwf' ('tel2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Telugu lookup 4"  {"'blwf' Below Base Forms in Telugu lookup 4-1"  } ['blwf' ('telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand in Telugu2 lookup 3"  {"'akhn' Akhand in Telugu2 lookup 3-1"  } ['akhn' ('tel2' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand in Telugu lookup 2"  {"'akhn' Akhand in Telugu lookup 2-1"  } ['akhn' ('telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'haln' Halant Forms lookup 1"  {"'haln' Halant Forms lookup 1-1"  } ['haln' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 0"  {"'abvs' Above Base Substitutions lookup 0-1"  } ['abvs' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Telugu lookup 1"  {"'kern' Horizontal Kerning in Telugu lookup 1-1" [153,15,2] } ['kern' ('telu' <'dflt' > ) ]
 Lookup: 260 0 0 "'blwm' Below Base Mark in Telugu lookup 0"  {"'blwm' Below Base Mark in Telugu lookup 0-2"  "'blwm' Below Base Mark in Telugu lookup 0-1"  "'blwm' Below Base Mark in Telugu lookup 0"  } ['blwm' ('telu' <'dflt' > ) ]
 Lookup: 262 0 0 "'blwm' Below Base Mark in Telugu lookup 2"  {"'blwm' Below Base Mark in Telugu lookup 2-1"  } ['blwm' ('DFLT' <'dflt' > 'telu' <'dflt' > ) ]
@@ -381,7 +388,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 224 32 11
+WinInfo: 160 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor4"  "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3"  "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1"  "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0"  "'blwm' Below Base Mark in Telugu lookup 0" 
@@ -6408,6 +6415,7 @@ SplineSet
  596.8 396.8 596.8 396.8 596.8 369.6 c 1,69,-1
  596.8 369.6 l 1,57,58
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu aasigntelu
 EndChar
 
 StartChar: khatelu_aasigntelu
@@ -6511,6 +6519,7 @@ SplineSet
  761.6 396.8 761.6 396.8 761.6 369.6 c 1,118,-1
  761.6 369.6 l 1,106,107
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu aasigntelu
 EndChar
 
 StartChar: gatelu_aasigntelu
@@ -6560,6 +6569,7 @@ SplineSet
  639.2 396.8 639.2 396.8 639.2 369.6 c 1,45,-1
  639.2 369.6 l 1,33,34
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu aasigntelu
 EndChar
 
 StartChar: ghatelu_aasigntelu
@@ -6666,6 +6676,7 @@ SplineSet
  1107.2 379.2 l 1,109,110
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu aasigntelu
 EndChar
 
 StartChar: ngatelu_aasigntelu
@@ -6755,6 +6766,7 @@ SplineSet
  724.8 396.8 724.8 396.8 724.8 369.6 c 1,101,-1
  724.8 369.6 l 1,89,90
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu aasigntelu
 EndChar
 
 StartChar: catelu_aasigntelu
@@ -6827,6 +6839,7 @@ SplineSet
  732 396.8 732 396.8 732 369.6 c 1,76,-1
  732 369.6 l 1,64,65
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu aasigntelu
 EndChar
 
 StartChar: chatelu_aasigntelu
@@ -6906,6 +6919,7 @@ SplineSet
  746.4 396.8 746.4 396.8 746.4 369.6 c 1,83,-1
  746.4 369.6 l 1,71,72
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu aasigntelu
 EndChar
 
 StartChar: jatelu_aasigntelu
@@ -7002,6 +7016,7 @@ SplineSet
  726.4 396.8 726.4 396.8 726.4 369.6 c 1,114,-1
  726.4 369.6 l 1,102,103
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu aasigntelu
 EndChar
 
 StartChar: jhatelu_aasigntelu
@@ -7105,6 +7120,7 @@ SplineSet
  1437.6 379.2 l 1,106,107
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu aasigntelu
 EndChar
 
 StartChar: nyatelu_aasigntelu
@@ -7201,6 +7217,7 @@ SplineSet
  936 396.8 936 396.8 936 369.6 c 1,108,-1
  936 369.6 l 1,96,97
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu aasigntelu
 EndChar
 
 StartChar: ttatelu_aasigntelu
@@ -7284,6 +7301,7 @@ SplineSet
  818.4 396.8 818.4 396.8 818.4 369.6 c 1,92,-1
  818.4 369.6 l 1,80,81
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu aasigntelu
 EndChar
 
 StartChar: tthatelu_aasigntelu
@@ -7347,6 +7365,7 @@ SplineSet
  682.4 396.8 682.4 396.8 682.4 369.6 c 1,61,-1
  682.4 369.6 l 1,49,50
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu aasigntelu
 EndChar
 
 StartChar: ddatelu_aasigntelu
@@ -7428,6 +7447,7 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,89,-1
  745.6 369.6 l 1,77,78
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu aasigntelu
 EndChar
 
 StartChar: ddhatelu_aasigntelu
@@ -7515,6 +7535,7 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,95,-1
  745.6 369.6 l 1,83,84
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu aasigntelu
 EndChar
 
 StartChar: nnatelu_aasigntelu
@@ -7611,6 +7632,7 @@ SplineSet
  813.6 396.8 813.6 396.8 813.6 369.6 c 1,112,-1
  813.6 369.6 l 1,100,101
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu aasigntelu
 EndChar
 
 StartChar: tatelu_aasigntelu
@@ -7699,6 +7721,7 @@ SplineSet
  740.8 396.8 740.8 396.8 740.8 369.6 c 1,99,-1
  740.8 369.6 l 1,87,88
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu aasigntelu
 EndChar
 
 StartChar: thatelu_aasigntelu
@@ -7778,6 +7801,7 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,81,-1
  745.6 369.6 l 1,69,70
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu aasigntelu
 EndChar
 
 StartChar: datelu_aasigntelu
@@ -7845,6 +7869,7 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,70,-1
  745.6 369.6 l 1,58,59
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu aasigntelu
 EndChar
 
 StartChar: dhatelu_aasigntelu
@@ -7918,6 +7943,7 @@ SplineSet
  745.6 396.8 745.6 396.8 745.6 369.6 c 1,76,-1
  745.6 369.6 l 1,64,65
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu aasigntelu
 EndChar
 
 StartChar: natelu_aasigntelu
@@ -7982,6 +8008,7 @@ SplineSet
  738.4 396.8 738.4 396.8 738.4 369.6 c 1,68,-1
  738.4 369.6 l 1,56,57
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu aasigntelu
 EndChar
 
 StartChar: patelu_aasigntelu
@@ -8058,6 +8085,7 @@ SplineSet
  701.6 324.8 701.6 324.8 701.6 297.6 c 1,83,-1
  701.6 297.6 l 1,71,72
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu aasigntelu
 EndChar
 
 StartChar: phatelu_aasigntelu
@@ -8140,6 +8168,7 @@ SplineSet
  689.6 324.8 689.6 324.8 689.6 297.6 c 1,89,-1
  689.6 297.6 l 1,77,78
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu aasigntelu
 EndChar
 
 StartChar: batelu_aasigntelu
@@ -8222,6 +8251,7 @@ SplineSet
  724.8 396.8 724.8 396.8 724.8 369.6 c 1,94,-1
  724.8 369.6 l 1,82,83
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu aasigntelu
 EndChar
 
 StartChar: bhatelu_aasigntelu
@@ -8310,6 +8340,7 @@ SplineSet
  726.4 396.8 726.4 396.8 726.4 369.6 c 1,100,-1
  726.4 369.6 l 1,88,89
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu aasigntelu
 EndChar
 
 StartChar: matelu_aasigntelu
@@ -8405,6 +8436,7 @@ SplineSet
  1107.2 379.2 l 1,97,98
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu aasigntelu
 EndChar
 
 StartChar: yatelu_aasigntelu
@@ -8502,6 +8534,7 @@ SplineSet
  1383.2 379.2 l 1,100,101
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu aasigntelu
 EndChar
 
 StartChar: ratelu_aasigntelu
@@ -8559,6 +8592,7 @@ SplineSet
  623.2 396.8 623.2 396.8 623.2 369.6 c 1,56,-1
  623.2 369.6 l 1,44,45
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu aasigntelu
 EndChar
 
 StartChar: rratelu_aasigntelu
@@ -8655,6 +8689,7 @@ SplineSet
  808 396.8 808 396.8 808 369.6 c 1,110,-1
  808 369.6 l 1,98,99
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu aasigntelu
 EndChar
 
 StartChar: latelu_aasigntelu
@@ -8727,6 +8762,7 @@ SplineSet
  715.2 396.8 715.2 396.8 715.2 369.6 c 1,78,-1
  715.2 369.6 l 1,66,67
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu aasigntelu
 EndChar
 
 StartChar: llatelu_aasigntelu
@@ -8815,6 +8851,7 @@ SplineSet
  693.6 396.8 693.6 396.8 693.6 369.6 c 1,99,-1
  693.6 369.6 l 1,87,88
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu aasigntelu
 EndChar
 
 StartChar: vatelu_aasigntelu
@@ -8885,6 +8922,7 @@ SplineSet
  686.4 396.8 686.4 396.8 686.4 369.6 c 1,75,-1
  686.4 369.6 l 1,63,64
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu aasigntelu
 EndChar
 
 StartChar: shatelu_aasigntelu
@@ -8965,6 +9003,7 @@ SplineSet
  632 396.8 632 396.8 632 369.6 c 1,89,-1
  632 369.6 l 1,77,78
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu aasigntelu
 EndChar
 
 StartChar: ssatelu_aasigntelu
@@ -9048,6 +9087,7 @@ SplineSet
  707.2 324.8 707.2 324.8 707.2 297.6 c 1,92,-1
  707.2 297.6 l 1,80,81
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu aasigntelu
 EndChar
 
 StartChar: satelu_aasigntelu
@@ -9118,6 +9158,7 @@ SplineSet
  695.2 324.8 695.2 324.8 695.2 297.6 c 1,76,-1
  695.2 297.6 l 1,64,65
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu aasigntelu
 EndChar
 
 StartChar: hatelu_aasigntelu
@@ -9218,6 +9259,7 @@ SplineSet
  11.2002 560 11.2002 560 11.2002 633.6 c 1,114,-1
  11.2002 633.6 l 1,98,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu aasigntelu
 EndChar
 
 StartChar: katel_aasigntel_ssatel_viramtel
@@ -9311,6 +9353,7 @@ SplineSet
  618.4 396.8 618.4 396.8 618.4 369.6 c 1,105,-1
  618.4 369.6 l 1,93,94
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu aasigntelu
 EndChar
 
 StartChar: katelu_isigntelu
@@ -9380,6 +9423,7 @@ SplineSet
  161.6 660.8 l 1,65,66
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu isigntelu
 EndChar
 
 StartChar: khatelu_isigntelu
@@ -9479,6 +9523,7 @@ SplineSet
  375.2 492 l 1,102,103
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu isigntelu
 EndChar
 
 StartChar: gatelu_isigntelu
@@ -9530,6 +9575,7 @@ SplineSet
  133.6 496 l 1,29,30
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu isigntelu
 EndChar
 
 StartChar: ghatelu_isigntelu
@@ -9628,6 +9674,7 @@ SplineSet
  52.7998 668 l 1,101,102
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu isigntelu
 EndChar
 
 StartChar: ngatelu_isigntelu
@@ -9721,6 +9768,7 @@ SplineSet
  382.4 660.8 l 1,97,98
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu isigntelu
 EndChar
 
 StartChar: catelu_isigntelu
@@ -9788,6 +9836,7 @@ SplineSet
  208 452.8 l 1,59,60
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu isigntelu
 EndChar
 
 StartChar: chatelu_isigntelu
@@ -9860,6 +9909,7 @@ SplineSet
  208 452.8 l 1,64,65
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu isigntelu
 EndChar
 
 StartChar: jatelu_isigntelu
@@ -9949,6 +9999,7 @@ SplineSet
  384.8 561.6 l 1,94,95
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu isigntelu
 EndChar
 
 StartChar: jhatelu_isigntelu
@@ -10037,6 +10088,7 @@ SplineSet
  128.8 509.6 l 1,83,84
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu isigntelu
 EndChar
 
 StartChar: nyatelu_isigntelu
@@ -10137,6 +10189,7 @@ SplineSet
  620 660.8 l 1,104,105
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu isigntelu
 EndChar
 
 StartChar: ttatelu_isigntelu
@@ -10224,6 +10277,7 @@ SplineSet
  404 660.8 l 1,88,89
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu isigntelu
 EndChar
 
 StartChar: tthatelu_isigntelu
@@ -10289,6 +10343,7 @@ SplineSet
  233.6 196 l 1,61,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu isigntelu
 EndChar
 
 StartChar: ddatelu_isigntelu
@@ -10374,6 +10429,7 @@ SplineSet
  264.8 660.8 l 1,85,86
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu isigntelu
 EndChar
 
 StartChar: ddhatelu_isigntelu
@@ -10465,6 +10521,7 @@ SplineSet
  258.4 660.8 l 1,91,92
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu isigntelu
 EndChar
 
 StartChar: nnatelu_isigntelu
@@ -10566,6 +10623,7 @@ SplineSet
  436.8 660.8 l 1,109,110
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu isigntelu
 EndChar
 
 StartChar: tatelu_isigntelu
@@ -10651,6 +10709,7 @@ SplineSet
  268 534.4 l 1,85,86
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu isigntelu
 EndChar
 
 StartChar: thatelu_isigntelu
@@ -10733,6 +10792,7 @@ SplineSet
  284 248.8 l 1,83,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu isigntelu
 EndChar
 
 StartChar: datelu_isigntelu
@@ -10799,6 +10859,7 @@ SplineSet
  192.8 509.6 l 1,53,54
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu isigntelu
 EndChar
 
 StartChar: dhatelu_isigntelu
@@ -10872,6 +10933,7 @@ SplineSet
  192.8 509.6 l 1,58,59
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu isigntelu
 EndChar
 
 StartChar: natelu_isigntelu
@@ -10931,6 +10993,7 @@ SplineSet
  133.6 480 l 1,51,52
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu isigntelu
 EndChar
 
 StartChar: patelu_isigntelu
@@ -11008,6 +11071,7 @@ SplineSet
  46.4004 668 l 1,73,74
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu isigntelu
 EndChar
 
 StartChar: phatelu_isigntelu
@@ -11091,6 +11155,7 @@ SplineSet
  52.7998 668 l 1,79,80
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu isigntelu
 EndChar
 
 StartChar: batelu_isigntelu
@@ -11166,6 +11231,7 @@ SplineSet
  361.6 480 l 1,74,75
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu isigntelu
 EndChar
 
 StartChar: bhatelu_isigntelu
@@ -11247,6 +11313,7 @@ SplineSet
  361.6 480 l 1,80,81
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu isigntelu
 EndChar
 
 StartChar: matelu_isigntelu
@@ -11327,6 +11394,7 @@ SplineSet
  23.2002 118.4 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu isigntelu
 EndChar
 
 StartChar: yatelu_isigntelu
@@ -11388,6 +11456,7 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu isigntelu
 EndChar
 
 StartChar: ratelu_isigntelu
@@ -11443,6 +11512,7 @@ SplineSet
  128.8 509.6 l 1,38,39
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu isigntelu
 EndChar
 
 StartChar: rratelu_isigntelu
@@ -11543,6 +11613,7 @@ SplineSet
  472 660.8 l 1,106,107
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu isigntelu
 EndChar
 
 StartChar: latelu_isigntelu
@@ -11608,6 +11679,7 @@ SplineSet
  297.6 65.5996 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu isigntelu
 EndChar
 
 StartChar: llatelu_isigntelu
@@ -11690,6 +11762,7 @@ SplineSet
  220 520.8 l 1,80,81
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu isigntelu
 EndChar
 
 StartChar: vatelu_isigntelu
@@ -11755,6 +11828,7 @@ SplineSet
  23.2002 118.4 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu isigntelu
 EndChar
 
 StartChar: shatelu_isigntelu
@@ -11830,6 +11904,7 @@ SplineSet
  124.8 561.6 l 1,72,73
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu isigntelu
 EndChar
 
 StartChar: ssatelu_isigntelu
@@ -11914,6 +11989,7 @@ SplineSet
  66.4004 668 l 1,82,83
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu isigntelu
 EndChar
 
 StartChar: satelu_isigntelu
@@ -11985,6 +12061,7 @@ SplineSet
  84 668 l 1,66,67
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu isigntelu
 EndChar
 
 StartChar: hatelu_isigntelu
@@ -12086,6 +12163,7 @@ SplineSet
  87.2002 668 l 1,104,105
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu isigntelu
 EndChar
 
 StartChar: katel_isigntel_ssatel_viramtel
@@ -12181,6 +12259,7 @@ SplineSet
  171.2 682.4 171.2 682.4 171.2 660.8 c 1,113,-1
  171.2 660.8 l 1,101,102
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu isigntelu
 EndChar
 
 StartChar: katelu_iisigntelu
@@ -12264,6 +12343,7 @@ SplineSet
  155.2 660.8 l 1,85,86
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu iisigntelu
 EndChar
 
 StartChar: khatelu_iisigntelu
@@ -12377,6 +12457,7 @@ SplineSet
  371.2 492 l 1,122,123
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu iisigntelu
 EndChar
 
 StartChar: gatelu_iisigntelu
@@ -12441,6 +12522,7 @@ SplineSet
  126.4 496 l 1,49,50
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu iisigntelu
 EndChar
 
 StartChar: ghatelu_iisigntelu
@@ -12553,6 +12635,7 @@ SplineSet
  77.5996 660.8 l 1,121,122
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu iisigntelu
 EndChar
 
 StartChar: ngatelu_iisigntelu
@@ -12660,6 +12743,7 @@ SplineSet
  382.4 660.8 l 1,117,118
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu iisigntelu
 EndChar
 
 StartChar: catelu_iisigntelu
@@ -12741,6 +12825,7 @@ SplineSet
  208 452.8 l 1,78,79
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu iisigntelu
 EndChar
 
 StartChar: chatelu_iisigntelu
@@ -12826,6 +12911,7 @@ SplineSet
  208 452.8 l 1,82,83
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu iisigntelu
 EndChar
 
 StartChar: jatelu_iisigntelu
@@ -12929,6 +13015,7 @@ SplineSet
  383.2 561.6 l 1,114,115
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu iisigntelu
 EndChar
 
 StartChar: jhatelu_iisigntelu
@@ -13031,6 +13118,7 @@ SplineSet
  128.8 509.6 l 1,103,104
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu iisigntelu
 EndChar
 
 StartChar: nyatelu_iisigntelu
@@ -13145,6 +13233,7 @@ SplineSet
  613.6 660.8 l 1,124,125
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu iisigntelu
 EndChar
 
 StartChar: ttatelu_iisigntelu
@@ -13246,6 +13335,7 @@ SplineSet
  396.8 660.8 l 1,108,109
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu iisigntelu
 EndChar
 
 StartChar: tthatelu_iisigntelu
@@ -13325,6 +13415,7 @@ SplineSet
  232.8 196 l 1,81,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu iisigntelu
 EndChar
 
 StartChar: ddatelu_iisigntelu
@@ -13424,6 +13515,7 @@ SplineSet
  258.4 660.8 l 1,105,106
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu iisigntelu
 EndChar
 
 StartChar: ddhatelu_iisigntelu
@@ -13529,6 +13621,7 @@ SplineSet
  251.2 660.8 l 1,111,112
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu iisigntelu
 EndChar
 
 StartChar: nnatelu_iisigntelu
@@ -13644,6 +13737,7 @@ SplineSet
  429.6 660.8 l 1,129,130
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu iisigntelu
 EndChar
 
 StartChar: tatelu_iisigntelu
@@ -13742,6 +13836,7 @@ SplineSet
  268 534.4 l 1,103,104
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu iisigntelu
 EndChar
 
 StartChar: thatelu_iisigntelu
@@ -13836,6 +13931,7 @@ SplineSet
  284 248.8 l 1,101,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu iisigntelu
 EndChar
 
 StartChar: datelu_iisigntelu
@@ -13918,6 +14014,7 @@ SplineSet
  192.8 509.6 l 1,74,75
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu iisigntelu
 EndChar
 
 StartChar: dhatelu_iisigntelu
@@ -14004,6 +14101,7 @@ SplineSet
  192.8 509.6 l 1,79,80
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu iisigntelu
 EndChar
 
 StartChar: natelu_iisigntelu
@@ -14077,6 +14175,7 @@ SplineSet
  133.6 480 l 1,71,72
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu iisigntelu
 EndChar
 
 StartChar: patelu_iisigntelu
@@ -14168,6 +14267,7 @@ SplineSet
  70.4004 660.8 l 1,93,94
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu iisigntelu
 EndChar
 
 StartChar: phatelu_iisigntelu
@@ -14265,6 +14365,7 @@ SplineSet
  70.4004 660.8 l 1,99,100
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu iisigntelu
 EndChar
 
 StartChar: batelu_iisigntelu
@@ -14354,6 +14455,7 @@ SplineSet
  361.6 480 l 1,94,95
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu iisigntelu
 EndChar
 
 StartChar: bhatelu_iisigntelu
@@ -14449,6 +14551,7 @@ SplineSet
  360 480 l 1,100,101
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu iisigntelu
 EndChar
 
 StartChar: matelu_iisigntelu
@@ -14543,6 +14646,7 @@ SplineSet
  23.2002 118.4 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu iisigntelu
 EndChar
 
 StartChar: yatelu_iisigntelu
@@ -14630,6 +14734,7 @@ SplineSet
  1444 379.2 l 1,88,89
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu iisigntelu
 EndChar
 
 StartChar: ratelu_iisigntelu
@@ -14699,6 +14804,7 @@ SplineSet
  128.8 509.6 l 1,58,59
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu iisigntelu
 EndChar
 
 StartChar: rratelu_iisigntelu
@@ -14813,6 +14919,7 @@ SplineSet
  464.8 660.8 l 1,126,127
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu iisigntelu
 EndChar
 
 StartChar: latelu_iisigntelu
@@ -14892,6 +14999,7 @@ SplineSet
  297.6 65.5996 l 1,26,27
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu iisigntelu
 EndChar
 
 StartChar: llatelu_iisigntelu
@@ -14989,6 +15097,7 @@ SplineSet
  221.6 520.8 l 1,102,103
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu iisigntelu
 EndChar
 
 StartChar: vatelu_iisigntelu
@@ -15068,6 +15177,7 @@ SplineSet
  23.2002 118.4 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu iisigntelu
 EndChar
 
 StartChar: shatelu_iisigntelu
@@ -15157,6 +15267,7 @@ SplineSet
  124.8 561.6 l 1,92,93
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu iisigntelu
 EndChar
 
 StartChar: ssatelu_iisigntelu
@@ -15255,6 +15366,7 @@ SplineSet
  77.5996 660.8 l 1,102,103
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu iisigntelu
 EndChar
 
 StartChar: satelu_iisigntelu
@@ -15340,6 +15452,7 @@ SplineSet
  73.5996 660.8 l 1,86,87
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu iisigntelu
 EndChar
 
 StartChar: hatelu_iisigntelu
@@ -15455,6 +15568,7 @@ SplineSet
  96.7998 660.8 l 1,124,125
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu iisigntelu
 EndChar
 
 StartChar: katel_iisigntel_ssatel_viramtel
@@ -15617,6 +15731,7 @@ SplineSet
  118.4 380.8 118.4 380.8 118.4 353.6 c 1,55,-1
  118.4 353.6 l 1,0,1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu esigntelu
 EndChar
 
 StartChar: khatelu_esigntelu
@@ -15710,6 +15825,7 @@ SplineSet
  460 0 l 1,27,28
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu esigntelu
 EndChar
 
 StartChar: gatelu_esigntelu
@@ -15748,6 +15864,7 @@ SplineSet
  36.7998 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu esigntelu
 EndChar
 
 StartChar: ghatelu_esigntelu
@@ -15832,6 +15949,7 @@ SplineSet
  77.5996 444.8 l 1,74,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu esigntelu
 EndChar
 
 StartChar: ngatelu_esigntelu
@@ -15911,6 +16029,7 @@ SplineSet
  43.2002 144 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu esigntelu
 EndChar
 
 StartChar: catelu_esigntelu
@@ -15974,6 +16093,7 @@ SplineSet
  501.6 0 501.6 0 428 0 c 1,64,-1
  428 0 l 1,0,1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu esigntelu
 EndChar
 
 StartChar: chatelu_esigntelu
@@ -16043,6 +16163,7 @@ SplineSet
  501.6 0 501.6 0 428 0 c 1,70,-1
  428 0 l 1,0,1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu esigntelu
 EndChar
 
 StartChar: jatelu_esigntelu
@@ -16129,6 +16250,7 @@ SplineSet
  44.7998 144 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu esigntelu
 EndChar
 
 StartChar: jhatelu_esigntelu
@@ -16209,6 +16331,7 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu esigntelu
 EndChar
 
 StartChar: nyatelu_esigntelu
@@ -16296,6 +16419,7 @@ SplineSet
  186.4 118.4 l 1,83,84
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu esigntelu
 EndChar
 
 StartChar: ttatelu_esigntelu
@@ -16369,6 +16493,7 @@ SplineSet
  38.4004 128.8 38.4004 128.8 38.4004 220 c 1,79,-1
  38.4004 220 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu esigntelu
 EndChar
 
 StartChar: tthatelu_esigntelu
@@ -16421,6 +16546,7 @@ SplineSet
  231.2 196 l 1,43,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu esigntelu
 EndChar
 
 StartChar: ddatelu_esigntelu
@@ -16492,6 +16618,7 @@ SplineSet
  35.2002 122.4 35.2002 122.4 35.2002 209.6 c 1,77,-1
  35.2002 209.6 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu esigntelu
 EndChar
 
 StartChar: ddhatelu_esigntelu
@@ -16569,6 +16696,7 @@ SplineSet
  35.2002 122.4 35.2002 122.4 35.2002 209.6 c 1,83,-1
  35.2002 209.6 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu esigntelu
 EndChar
 
 StartChar: nnatelu_esigntelu
@@ -16655,6 +16783,7 @@ SplineSet
  43.2002 308 43.2002 308 43.2002 346.4 c 1,99,-1
  43.2002 346.4 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu esigntelu
 EndChar
 
 StartChar: tatelu_esigntelu
@@ -16733,6 +16862,7 @@ SplineSet
  428.8 398.4 428.8 398.4 470.4 402.4 c 1,86,-1
  470.4 402.4 l 1,26,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu esigntelu
 EndChar
 
 StartChar: thatelu_esigntelu
@@ -16801,6 +16931,7 @@ SplineSet
  283.2 248.8 l 1,67,-1
  283.2 248.8 l 1,63,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu esigntelu
 EndChar
 
 StartChar: datelu_esigntelu
@@ -16857,6 +16988,7 @@ SplineSet
  33.5996 115.2 33.5996 115.2 33.5996 196 c 1,56,-1
  33.5996 196 l 1,20,21
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu esigntelu
 EndChar
 
 StartChar: dhatelu_esigntelu
@@ -16919,6 +17051,7 @@ SplineSet
  35.2002 115.2 35.2002 115.2 35.2002 196 c 1,62,-1
  35.2002 196 l 1,20,21
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu esigntelu
 EndChar
 
 StartChar: natelu_esigntelu
@@ -16974,6 +17107,7 @@ SplineSet
  356 65.5996 356 65.5996 394.4 65.5996 c 1,56,-1
  394.4 65.5996 l 1,0,1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu esigntelu
 EndChar
 
 StartChar: patelu_esigntelu
@@ -17037,6 +17171,7 @@ SplineSet
  97.5996 444.8 l 1,64,-1
  97.5996 444.8 l 1,46,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu esigntelu
 EndChar
 
 StartChar: phatelu_esigntelu
@@ -17106,6 +17241,7 @@ SplineSet
  70.4004 444.8 l 1,70,-1
  70.4004 444.8 l 1,52,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu esigntelu
 EndChar
 
 StartChar: batelu_esigntelu
@@ -17178,6 +17314,7 @@ SplineSet
  421.6 65.5996 421.6 65.5996 462.4 65.5996 c 1,81,-1
  462.4 65.5996 l 1,0,1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu esigntelu
 EndChar
 
 StartChar: bhatelu_esigntelu
@@ -17256,6 +17393,7 @@ SplineSet
  406.4 65.5996 406.4 65.5996 450.4 65.5996 c 1,87,-1
  450.4 65.5996 l 1,0,1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu esigntelu
 EndChar
 
 StartChar: matelu_esigntelu
@@ -17330,6 +17468,7 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu esigntelu
 EndChar
 
 StartChar: yatelu_esigntelu
@@ -17406,6 +17545,7 @@ SplineSet
  753.6 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu esigntelu
 EndChar
 
 StartChar: ratelu_esigntelu
@@ -17452,6 +17592,7 @@ SplineSet
  33.5996 141.6 33.5996 141.6 33.5996 242.4 c 1,42,-1
  33.5996 242.4 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu esigntelu
 EndChar
 
 StartChar: rratelu_esigntelu
@@ -17537,6 +17678,7 @@ SplineSet
  38.4004 144.8 38.4004 144.8 38.4004 247.2 c 1,96,-1
  38.4004 247.2 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu esigntelu
 EndChar
 
 StartChar: latelu_esigntelu
@@ -17599,6 +17741,7 @@ SplineSet
  236 65.5996 236 65.5996 332.8 65.5996 c 1,65,-1
  332.8 65.5996 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu esigntelu
 EndChar
 
 StartChar: llatelu_esigntelu
@@ -17677,6 +17820,7 @@ SplineSet
  236 169.6 236 169.6 287.2 169.6 c 1,86,-1
  287.2 169.6 l 1,26,27
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu esigntelu
 EndChar
 
 StartChar: vatelu_esigntelu
@@ -17737,6 +17881,7 @@ SplineSet
  23.2002 69.5996 23.2002 69.5996 23.2002 118.4 c 1,62,-1
  23.2002 118.4 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu esigntelu
 EndChar
 
 StartChar: shatelu_esigntelu
@@ -17807,6 +17952,7 @@ SplineSet
  157.6 88.7998 157.6 88.7998 157.6 151.2 c 1,76,-1
  157.6 151.2 l 1,13,14
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu esigntelu
 EndChar
 
 StartChar: ssatelu_esigntelu
@@ -17877,6 +18023,7 @@ SplineSet
  111.2 444.8 l 1,73,-1
  111.2 444.8 l 1,55,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu esigntelu
 EndChar
 
 StartChar: satelu_esigntelu
@@ -17934,6 +18081,7 @@ SplineSet
  115.2 444.8 l 1,57,-1
  115.2 444.8 l 1,39,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu esigntelu
 EndChar
 
 StartChar: hatelu_esigntelu
@@ -18021,6 +18169,7 @@ SplineSet
  118.4 444.8 l 1,95,-1
  118.4 444.8 l 1,77,-1
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu esigntelu
 EndChar
 
 StartChar: katel_esigntel_ssatel_viramtel
@@ -18102,6 +18251,7 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,91,-1
  128 346.4 l 1,36,37
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu esigntelu
 EndChar
 
 StartChar: katelu_eesigntelu
@@ -18171,6 +18321,7 @@ SplineSet
  118.4 353.6 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu eesigntelu
 EndChar
 
 StartChar: khatelu_eesigntelu
@@ -18279,6 +18430,7 @@ SplineSet
  460 0 l 1,27,28
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu eesigntelu
 EndChar
 
 StartChar: gatelu_eesigntelu
@@ -18332,6 +18484,7 @@ SplineSet
  36.7998 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu eesigntelu
 EndChar
 
 StartChar: ghatelu_eesigntelu
@@ -18431,6 +18584,7 @@ SplineSet
  70.4004 444.8 l 1,74,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu eesigntelu
 EndChar
 
 StartChar: ngatelu_eesigntelu
@@ -18526,6 +18680,7 @@ SplineSet
  43.2002 144 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu eesigntelu
 EndChar
 
 StartChar: catelu_eesigntelu
@@ -18604,6 +18759,7 @@ SplineSet
  428 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu eesigntelu
 EndChar
 
 StartChar: chatelu_eesigntelu
@@ -18688,6 +18844,7 @@ SplineSet
  428 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu eesigntelu
 EndChar
 
 StartChar: jatelu_eesigntelu
@@ -18789,6 +18946,7 @@ SplineSet
  44.7998 144 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu eesigntelu
 EndChar
 
 StartChar: jhatelu_eesigntelu
@@ -18884,6 +19042,7 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu eesigntelu
 EndChar
 
 StartChar: nyatelu_eesigntelu
@@ -18986,6 +19145,7 @@ SplineSet
  186.4 118.4 l 1,104,105
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu eesigntelu
 EndChar
 
 StartChar: ttatelu_eesigntelu
@@ -19074,6 +19234,7 @@ SplineSet
  38.4004 220 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu eesigntelu
 EndChar
 
 StartChar: tthatelu_eesigntelu
@@ -19141,6 +19302,7 @@ SplineSet
  231.2 196 l 1,64,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu eesigntelu
 EndChar
 
 StartChar: ddatelu_eesigntelu
@@ -19227,6 +19389,7 @@ SplineSet
  35.2002 209.6 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu eesigntelu
 EndChar
 
 StartChar: ddhatelu_eesigntelu
@@ -19319,6 +19482,7 @@ SplineSet
  35.2002 209.6 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu eesigntelu
 EndChar
 
 StartChar: nnatelu_eesigntelu
@@ -19420,6 +19584,7 @@ SplineSet
  43.2002 346.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu eesigntelu
 EndChar
 
 StartChar: tatelu_eesigntelu
@@ -19513,6 +19678,7 @@ SplineSet
  470.4 402.4 l 1,26,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu eesigntelu
 EndChar
 
 StartChar: thatelu_eesigntelu
@@ -19592,6 +19758,7 @@ SplineSet
  284 248.8 l 1,80,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu eesigntelu
 EndChar
 
 StartChar: datelu_eesigntelu
@@ -19660,6 +19827,7 @@ SplineSet
  33.5996 196 l 1,20,21
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu eesigntelu
 EndChar
 
 StartChar: dhatelu_eesigntelu
@@ -19733,6 +19901,7 @@ SplineSet
  35.2002 196 l 1,20,21
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu eesigntelu
 EndChar
 
 StartChar: natelu_eesigntelu
@@ -19803,6 +19972,7 @@ SplineSet
  394.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu eesigntelu
 EndChar
 
 StartChar: patelu_eesigntelu
@@ -19881,6 +20051,7 @@ SplineSet
  91.2002 444.8 l 1,46,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu eesigntelu
 EndChar
 
 StartChar: phatelu_eesigntelu
@@ -19965,6 +20136,7 @@ SplineSet
  58.4004 444.8 l 1,52,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu eesigntelu
 EndChar
 
 StartChar: batelu_eesigntelu
@@ -20052,6 +20224,7 @@ SplineSet
  462.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu eesigntelu
 EndChar
 
 StartChar: bhatelu_eesigntelu
@@ -20145,6 +20318,7 @@ SplineSet
  450.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu eesigntelu
 EndChar
 
 StartChar: matelu_eesigntelu
@@ -20235,6 +20409,7 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu eesigntelu
 EndChar
 
 StartChar: yatelu_eesigntelu
@@ -20326,6 +20501,7 @@ SplineSet
  753.6 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu eesigntelu
 EndChar
 
 StartChar: ratelu_eesigntelu
@@ -20387,6 +20563,7 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu eesigntelu
 EndChar
 
 StartChar: rratelu_eesigntelu
@@ -20488,6 +20665,7 @@ SplineSet
  38.4004 247.2 l 1,13,14
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu eesigntelu
 EndChar
 
 StartChar: latelu_eesigntelu
@@ -20565,6 +20743,7 @@ SplineSet
  332.8 65.5996 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu eesigntelu
 EndChar
 
 StartChar: llatelu_eesigntelu
@@ -20658,6 +20837,7 @@ SplineSet
  287.2 169.6 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu eesigntelu
 EndChar
 
 StartChar: vatelu_eesigntelu
@@ -20733,6 +20913,7 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu eesigntelu
 EndChar
 
 StartChar: shatelu_eesigntelu
@@ -20818,6 +20999,7 @@ SplineSet
  157.6 151.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu eesigntelu
 EndChar
 
 StartChar: ssatelu_eesigntelu
@@ -20903,6 +21085,7 @@ SplineSet
  111.2 444.8 l 1,55,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu eesigntelu
 EndChar
 
 StartChar: satelu_eesigntelu
@@ -20975,6 +21158,7 @@ SplineSet
  115.2 444.8 l 1,39,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu eesigntelu
 EndChar
 
 StartChar: hatelu_eesigntelu
@@ -21077,6 +21261,7 @@ SplineSet
  145.6 444.8 l 1,77,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu eesigntelu
 EndChar
 
 StartChar: katel_eesigntel_ssatel_viramtel
@@ -21172,6 +21357,7 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,112,-1
  128 346.4 l 1,36,37
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu eesigntelu
 EndChar
 
 StartChar: katelu_osigntelu
@@ -21255,6 +21441,7 @@ SplineSet
  550.4 561.6 l 1,83,84
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu osigntelu
 EndChar
 
 StartChar: khatelu_osigntelu
@@ -21374,6 +21561,7 @@ SplineSet
  767.2 561.6 l 1,130,131
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu osigntelu
 EndChar
 
 StartChar: gatelu_osigntelu
@@ -21440,6 +21628,7 @@ SplineSet
  614.4 561.6 l 1,58,59
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu osigntelu
 EndChar
 
 StartChar: ghatelu_osigntelu
@@ -21537,6 +21726,7 @@ SplineSet
  84 444.8 l 1,92,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu osigntelu
 EndChar
 
 StartChar: ngatelu_osigntelu
@@ -21645,6 +21835,7 @@ SplineSet
  736.8 561.6 l 1,116,117
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu osigntelu
 EndChar
 
 StartChar: catelu_osigntelu
@@ -21734,6 +21925,7 @@ SplineSet
  677.6 561.6 l 1,89,90
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu osigntelu
 EndChar
 
 StartChar: chatelu_osigntelu
@@ -21831,6 +22023,7 @@ SplineSet
  691.2 561.6 l 1,97,98
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu osigntelu
 EndChar
 
 StartChar: jatelu_osigntelu
@@ -21945,6 +22138,7 @@ SplineSet
  740 561.6 l 1,128,129
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu osigntelu
 EndChar
 
 StartChar: jhatelu_osigntelu
@@ -22039,6 +22233,7 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu osigntelu
 EndChar
 
 StartChar: nyatelu_osigntelu
@@ -22155,6 +22350,7 @@ SplineSet
  886.4 561.6 l 1,124,125
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu osigntelu
 EndChar
 
 StartChar: ttatelu_osigntelu
@@ -22256,6 +22452,7 @@ SplineSet
  806.4 561.6 l 1,106,107
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu osigntelu
 EndChar
 
 StartChar: tthatelu_osigntelu
@@ -22337,6 +22534,7 @@ SplineSet
  632 561.6 l 1,75,76
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu osigntelu
 EndChar
 
 StartChar: ddatelu_osigntelu
@@ -22437,6 +22635,7 @@ SplineSet
  708.8 561.6 l 1,106,107
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu osigntelu
 EndChar
 
 StartChar: ddhatelu_osigntelu
@@ -22543,6 +22742,7 @@ SplineSet
  660.8 561.6 l 1,112,113
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu osigntelu
 EndChar
 
 StartChar: nnatelu_osigntelu
@@ -22658,6 +22858,7 @@ SplineSet
  825.6 561.6 l 1,127,128
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu osigntelu
 EndChar
 
 StartChar: tatelu_osigntelu
@@ -22762,6 +22963,7 @@ SplineSet
  719.2 561.6 l 1,111,112
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu osigntelu
 EndChar
 
 StartChar: thatelu_osigntelu
@@ -22859,6 +23061,7 @@ SplineSet
  660.8 561.6 l 1,95,96
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu osigntelu
 EndChar
 
 StartChar: datelu_osigntelu
@@ -22944,6 +23147,7 @@ SplineSet
  660.8 561.6 l 1,84,85
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu osigntelu
 EndChar
 
 StartChar: dhatelu_osigntelu
@@ -23035,6 +23239,7 @@ SplineSet
  660.8 561.6 l 1,90,91
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu osigntelu
 EndChar
 
 StartChar: natelu_osigntelu
@@ -23117,6 +23322,7 @@ SplineSet
  652.8 561.6 l 1,82,83
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu osigntelu
 EndChar
 
 StartChar: patelu_osigntelu
@@ -23209,6 +23415,7 @@ SplineSet
  699.2 315.2 l 1,93,94
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu osigntelu
 EndChar
 
 StartChar: phatelu_osigntelu
@@ -23307,6 +23514,7 @@ SplineSet
  699.2 315.2 l 1,99,100
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu osigntelu
 EndChar
 
 StartChar: batelu_osigntelu
@@ -23405,6 +23613,7 @@ SplineSet
  736.8 561.6 l 1,106,107
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu osigntelu
 EndChar
 
 StartChar: bhatelu_osigntelu
@@ -23509,6 +23718,7 @@ SplineSet
  697.6 561.6 l 1,112,113
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu osigntelu
 EndChar
 
 StartChar: matelu_osigntelu
@@ -23597,6 +23807,7 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu osigntelu
 EndChar
 
 StartChar: yatelu_osigntelu
@@ -23687,6 +23898,7 @@ SplineSet
  753.6 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu osigntelu
 EndChar
 
 StartChar: ratelu_osigntelu
@@ -23762,6 +23974,7 @@ SplineSet
  604.8 561.6 l 1,70,71
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu osigntelu
 EndChar
 
 StartChar: rratelu_osigntelu
@@ -23877,6 +24090,7 @@ SplineSet
  881.6 561.6 l 1,126,127
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu osigntelu
 EndChar
 
 StartChar: latelu_osigntelu
@@ -23966,6 +24180,7 @@ SplineSet
  727.2 561.6 l 1,91,92
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu osigntelu
 EndChar
 
 StartChar: llatelu_osigntelu
@@ -24072,6 +24287,7 @@ SplineSet
  623.2 561.6 l 1,113,114
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu osigntelu
 EndChar
 
 StartChar: vatelu_osigntelu
@@ -24160,6 +24376,7 @@ SplineSet
  648.8 561.6 l 1,89,90
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu osigntelu
 EndChar
 
 StartChar: shatelu_osigntelu
@@ -24256,6 +24473,7 @@ SplineSet
  569.6 561.6 l 1,101,102
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu osigntelu
 EndChar
 
 StartChar: ssatelu_osigntelu
@@ -24355,6 +24573,7 @@ SplineSet
  704.8 315.2 l 1,102,103
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu osigntelu
 EndChar
 
 StartChar: satelu_osigntelu
@@ -24441,6 +24660,7 @@ SplineSet
  697.6 315.2 l 1,86,87
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu osigntelu
 EndChar
 
 StartChar: hatelu_osigntelu
@@ -24566,6 +24786,7 @@ SplineSet
  1084 561.6 l 1,136,137
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu osigntelu
 EndChar
 
 StartChar: katel_osigntel_ssatel_viramtel
@@ -24675,6 +24896,7 @@ SplineSet
  567.2 588.8 567.2 588.8 567.2 561.6 c 1,131,-1
  567.2 561.6 l 1,119,120
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu osigntelu
 EndChar
 
 StartChar: katelu_oosigntelu
@@ -24772,6 +24994,7 @@ SplineSet
  550.4 561.6 l 1,103,104
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu oosigntelu
 EndChar
 
 StartChar: khatelu_oosigntelu
@@ -24906,6 +25129,7 @@ SplineSet
  760 567.2 l 1,151,152
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu oosigntelu
 EndChar
 
 StartChar: gatelu_oosigntelu
@@ -24986,6 +25210,7 @@ SplineSet
  614.4 561.6 l 1,78,79
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu oosigntelu
 EndChar
 
 StartChar: ghatelu_oosigntelu
@@ -25093,6 +25318,7 @@ SplineSet
  1113.6 379.2 l 1,109,110
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu oosigntelu
 EndChar
 
 StartChar: ngatelu_oosigntelu
@@ -25216,6 +25442,7 @@ SplineSet
  736.8 561.6 l 1,137,138
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu oosigntelu
 EndChar
 
 StartChar: catelu_oosigntelu
@@ -25319,6 +25546,7 @@ SplineSet
  676 561.6 l 1,109,110
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu oosigntelu
 EndChar
 
 StartChar: chatelu_oosigntelu
@@ -25430,6 +25658,7 @@ SplineSet
  691.2 561.6 l 1,117,118
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu oosigntelu
 EndChar
 
 StartChar: jatelu_oosigntelu
@@ -25559,6 +25788,7 @@ SplineSet
  738.4 563.2 l 1,149,150
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu oosigntelu
 EndChar
 
 StartChar: jhatelu_oosigntelu
@@ -25666,6 +25896,7 @@ SplineSet
  1444 379.2 l 1,111,112
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu oosigntelu
 EndChar
 
 StartChar: nyatelu_oosigntelu
@@ -25796,6 +26027,7 @@ SplineSet
  880 561.6 l 1,144,145
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu oosigntelu
 EndChar
 
 StartChar: ttatelu_oosigntelu
@@ -25911,6 +26143,7 @@ SplineSet
  806.4 561.6 l 1,126,127
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu oosigntelu
 EndChar
 
 StartChar: tthatelu_oosigntelu
@@ -26006,6 +26239,7 @@ SplineSet
  632 561.6 l 1,95,96
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu oosigntelu
 EndChar
 
 StartChar: ddatelu_oosigntelu
@@ -26119,6 +26353,7 @@ SplineSet
  708.8 561.6 l 1,124,125
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu oosigntelu
 EndChar
 
 StartChar: ddhatelu_oosigntelu
@@ -26239,6 +26474,7 @@ SplineSet
  660.8 561.6 l 1,132,133
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu oosigntelu
 EndChar
 
 StartChar: nnatelu_oosigntelu
@@ -26368,6 +26604,7 @@ SplineSet
  825.6 561.6 l 1,147,148
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu oosigntelu
 EndChar
 
 StartChar: tatelu_oosigntelu
@@ -26486,6 +26723,7 @@ SplineSet
  719.2 561.6 l 1,131,132
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu oosigntelu
 EndChar
 
 StartChar: thatelu_oosigntelu
@@ -26597,6 +26835,7 @@ SplineSet
  660.8 561.6 l 1,115,116
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu oosigntelu
 EndChar
 
 StartChar: datelu_oosigntelu
@@ -26696,6 +26935,7 @@ SplineSet
  660.8 561.6 l 1,104,105
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu oosigntelu
 EndChar
 
 StartChar: dhatelu_oosigntelu
@@ -26801,6 +27041,7 @@ SplineSet
  659.2 561.6 l 1,110,111
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu oosigntelu
 EndChar
 
 StartChar: natelu_oosigntelu
@@ -26897,6 +27138,7 @@ SplineSet
  652.8 561.6 l 1,102,103
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu oosigntelu
 EndChar
 
 StartChar: patelu_oosigntelu
@@ -27004,6 +27246,7 @@ SplineSet
  703.2 308.8 l 1,114,115
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu oosigntelu
 EndChar
 
 StartChar: phatelu_oosigntelu
@@ -27117,6 +27360,7 @@ SplineSet
  697.6 308.8 l 1,120,121
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu oosigntelu
 EndChar
 
 StartChar: batelu_oosigntelu
@@ -27230,6 +27474,7 @@ SplineSet
  736.8 567.2 l 1,127,128
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu oosigntelu
 EndChar
 
 StartChar: bhatelu_oosigntelu
@@ -27349,6 +27594,7 @@ SplineSet
  697.6 567.2 l 1,133,134
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu oosigntelu
 EndChar
 
 StartChar: matelu_oosigntelu
@@ -27447,6 +27693,7 @@ SplineSet
  1108 379.2 l 1,101,102
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu oosigntelu
 EndChar
 
 StartChar: yatelu_oosigntelu
@@ -27548,6 +27795,7 @@ SplineSet
  1383.2 379.2 l 1,106,107
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu oosigntelu
 EndChar
 
 StartChar: ratelu_oosigntelu
@@ -27637,6 +27885,7 @@ SplineSet
  604.8 561.6 l 1,90,91
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu oosigntelu
 EndChar
 
 StartChar: rratelu_oosigntelu
@@ -27765,6 +28014,7 @@ SplineSet
  874.4 567.2 l 1,144,145
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu oosigntelu
 EndChar
 
 StartChar: latelu_oosigntelu
@@ -27868,6 +28118,7 @@ SplineSet
  727.2 567.2 l 1,111,112
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu oosigntelu
 EndChar
 
 StartChar: llatelu_oosigntelu
@@ -27989,6 +28240,7 @@ SplineSet
  623.2 567.2 l 1,134,135
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu oosigntelu
 EndChar
 
 StartChar: vatelu_oosigntelu
@@ -28091,6 +28343,7 @@ SplineSet
  648.8 561.6 l 1,109,110
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu oosigntelu
 EndChar
 
 StartChar: shatelu_oosigntelu
@@ -28202,6 +28455,7 @@ SplineSet
  569.6 567.2 l 1,122,123
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu oosigntelu
 EndChar
 
 StartChar: ssatelu_oosigntelu
@@ -28316,6 +28570,7 @@ SplineSet
  708.8 308.8 l 1,123,124
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu oosigntelu
 EndChar
 
 StartChar: satelu_oosigntelu
@@ -28417,6 +28672,7 @@ SplineSet
  697.6 308.8 l 1,107,108
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu oosigntelu
 EndChar
 
 StartChar: hatelu_oosigntelu
@@ -28557,6 +28813,7 @@ SplineSet
  1111.2 567.2 l 1,157,158
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu oosigntelu
 EndChar
 
 StartChar: katel_oosigntel_ssatel_viramtel
@@ -28680,6 +28937,7 @@ SplineSet
  567.2 588.8 567.2 588.8 567.2 561.6 c 1,151,-1
  567.2 561.6 l 1,139,140
 EndSplineSet
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu oosigntelu
 EndChar
 
 StartChar: katelu_ausigntelu
@@ -28757,6 +29015,7 @@ SplineSet
  587.2 526.4 l 1,73,74
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu ausigntelu
 EndChar
 
 StartChar: khatelu_ausigntelu
@@ -28873,6 +29132,7 @@ SplineSet
  776.8 526.4 l 1,123,124
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu ausigntelu
 EndChar
 
 StartChar: gatelu_ausigntelu
@@ -28935,6 +29195,7 @@ SplineSet
  604 526.4 l 1,50,51
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu ausigntelu
 EndChar
 
 StartChar: ghatelu_ausigntelu
@@ -29054,6 +29315,7 @@ SplineSet
  1088 536 l 1,126,127
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu ausigntelu
 EndChar
 
 StartChar: ngatelu_ausigntelu
@@ -29157,6 +29419,7 @@ SplineSet
  828 526.4 l 1,107,108
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu ausigntelu
 EndChar
 
 StartChar: catelu_ausigntelu
@@ -29243,6 +29506,7 @@ SplineSet
  720.8 526.4 l 1,82,83
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu ausigntelu
 EndChar
 
 StartChar: chatelu_ausigntelu
@@ -29335,6 +29599,7 @@ SplineSet
  754.4 526.4 l 1,88,89
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu ausigntelu
 EndChar
 
 StartChar: jatelu_ausigntelu
@@ -29438,6 +29703,7 @@ SplineSet
  740.8 526.4 l 1,113,114
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu ausigntelu
 EndChar
 
 StartChar: jhatelu_ausigntelu
@@ -29547,6 +29813,7 @@ SplineSet
  1425.6 536 l 1,115,116
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu ausigntelu
 EndChar
 
 StartChar: nyatelu_ausigntelu
@@ -29657,6 +29924,7 @@ SplineSet
  1039.2 526.4 l 1,114,115
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu ausigntelu
 EndChar
 
 StartChar: ttatelu_ausigntelu
@@ -29753,6 +30021,7 @@ SplineSet
  836 526.4 l 1,97,98
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu ausigntelu
 EndChar
 
 StartChar: tthatelu_ausigntelu
@@ -29828,6 +30097,7 @@ SplineSet
  662.4 526.4 l 1,65,66
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu ausigntelu
 EndChar
 
 StartChar: ddatelu_ausigntelu
@@ -29922,6 +30192,7 @@ SplineSet
  740.8 526.4 l 1,95,96
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu ausigntelu
 EndChar
 
 StartChar: ddhatelu_ausigntelu
@@ -30022,6 +30293,7 @@ SplineSet
  724.8 526.4 l 1,101,102
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu ausigntelu
 EndChar
 
 StartChar: nnatelu_ausigntelu
@@ -30131,6 +30403,7 @@ SplineSet
  882.4 526.4 l 1,117,118
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu ausigntelu
 EndChar
 
 StartChar: tatelu_ausigntelu
@@ -30232,6 +30505,7 @@ SplineSet
  736 526.4 l 1,104,105
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu ausigntelu
 EndChar
 
 StartChar: thatelu_ausigntelu
@@ -30323,6 +30597,7 @@ SplineSet
  697.6 526.4 l 1,85,86
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu ausigntelu
 EndChar
 
 StartChar: datelu_ausigntelu
@@ -30402,6 +30677,7 @@ SplineSet
  691.2 526.4 l 1,74,75
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu ausigntelu
 EndChar
 
 StartChar: dhatelu_ausigntelu
@@ -30487,6 +30763,7 @@ SplineSet
  684 526.4 l 1,80,81
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu ausigntelu
 EndChar
 
 StartChar: natelu_ausigntelu
@@ -30564,6 +30841,7 @@ SplineSet
  655.2 526.4 l 1,73,74
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu ausigntelu
 EndChar
 
 StartChar: patelu_ausigntelu
@@ -30654,6 +30932,7 @@ SplineSet
  676 336 l 1,89,90
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu ausigntelu
 EndChar
 
 StartChar: phatelu_ausigntelu
@@ -30750,6 +31029,7 @@ SplineSet
  689.6 336 l 1,95,96
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu ausigntelu
 EndChar
 
 StartChar: batelu_ausigntelu
@@ -30845,6 +31125,7 @@ SplineSet
  719.2 526.4 l 1,99,100
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu ausigntelu
 EndChar
 
 StartChar: bhatelu_ausigntelu
@@ -30940,6 +31221,7 @@ SplineSet
  707.2 526.4 l 1,99,100
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu ausigntelu
 EndChar
 
 StartChar: matelu_ausigntelu
@@ -31042,6 +31324,7 @@ SplineSet
  1088 536 l 1,108,109
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu ausigntelu
 EndChar
 
 StartChar: yatelu_ausigntelu
@@ -31151,6 +31434,7 @@ SplineSet
  753.6 243.2 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu ausigntelu
 EndChar
 
 StartChar: ratelu_ausigntelu
@@ -31220,6 +31504,7 @@ SplineSet
  628 526.4 l 1,60,61
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu ausigntelu
 EndChar
 
 StartChar: rratelu_ausigntelu
@@ -31328,6 +31613,7 @@ SplineSet
  822.4 526.4 l 1,114,115
 EndSplineSet
 Validated: 37
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu ausigntelu
 EndChar
 
 StartChar: latelu_ausigntelu
@@ -31409,6 +31695,7 @@ SplineSet
  730.4 526.4 l 1,79,80
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu ausigntelu
 EndChar
 
 StartChar: llatelu_ausigntelu
@@ -31510,6 +31797,7 @@ SplineSet
  632 526.4 l 1,104,105
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu ausigntelu
 EndChar
 
 StartChar: vatelu_ausigntelu
@@ -31593,6 +31881,7 @@ SplineSet
  678.4 526.4 l 1,80,81
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu ausigntelu
 EndChar
 
 StartChar: shatelu_ausigntelu
@@ -31686,6 +31975,7 @@ SplineSet
  572.8 526.4 l 1,94,95
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu ausigntelu
 EndChar
 
 StartChar: ssatelu_ausigntelu
@@ -31783,6 +32073,7 @@ SplineSet
  691.2 336 l 1,98,99
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu ausigntelu
 EndChar
 
 StartChar: satelu_ausigntelu
@@ -31867,6 +32158,7 @@ SplineSet
  681.6 336 l 1,82,83
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu ausigntelu
 EndChar
 
 StartChar: hatelu_ausigntelu
@@ -31986,6 +32278,7 @@ SplineSet
  1039.2 526.4 l 1,126,127
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu ausigntelu
 EndChar
 
 StartChar: katel_ausigntel_ssatel_viramtel
@@ -32091,6 +32384,7 @@ SplineSet
  617.6 526.4 l 1,110,111
 EndSplineSet
 Validated: 5
+Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasigntelu ausigntelu
 EndChar
 
 StartChar: katelu_viramasigntelu
@@ -32156,6 +32450,8 @@ SplineSet
  118.4 353.6 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" katelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" katelu viramasigntelu
 EndChar
 
 StartChar: khatelu_viramasigntelu
@@ -32257,6 +32553,8 @@ SplineSet
  460 0 l 1,27,28
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" khatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" khatelu viramasigntelu
 EndChar
 
 StartChar: gatelu_viramasigntelu
@@ -32306,6 +32604,8 @@ SplineSet
  36.7998 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" gatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" gatelu viramasigntelu
 EndChar
 
 StartChar: ghatelu_viramasigntelu
@@ -32402,6 +32702,8 @@ SplineSet
  217.6 444.8 l 1,74,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ghatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ghatelu viramasigntelu
 EndChar
 
 StartChar: ngatelu_viramasigntelu
@@ -32493,6 +32795,8 @@ SplineSet
  43.2002 144 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ngatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ngatelu viramasigntelu
 EndChar
 
 StartChar: catelu_viramasigntelu
@@ -32566,6 +32870,8 @@ SplineSet
  428 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" catelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" catelu viramasigntelu
 EndChar
 
 StartChar: chatelu_viramasigntelu
@@ -32645,6 +32951,8 @@ SplineSet
  428 0 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" chatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" chatelu viramasigntelu
 EndChar
 
 StartChar: jatelu_viramasigntelu
@@ -32737,6 +33045,8 @@ SplineSet
  44.7998 144 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" jatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" jatelu viramasigntelu
 EndChar
 
 StartChar: jhatelu_viramasigntelu
@@ -32832,6 +33142,8 @@ SplineSet
  33.5996 235.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" jhatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" jhatelu viramasigntelu
 EndChar
 
 StartChar: nyatelu_viramasigntelu
@@ -32930,6 +33242,8 @@ SplineSet
  186.4 118.4 l 1,98,99
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" nyatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" nyatelu viramasigntelu
 EndChar
 
 StartChar: ttatelu_viramasigntelu
@@ -33011,6 +33325,8 @@ SplineSet
  38.4004 220 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ttatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ttatelu viramasigntelu
 EndChar
 
 StartChar: tthatelu_viramasigntelu
@@ -33074,6 +33390,8 @@ SplineSet
  231.2 196 l 1,58,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" tthatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" tthatelu viramasigntelu
 EndChar
 
 StartChar: ddatelu_viramasigntelu
@@ -33156,6 +33474,8 @@ SplineSet
  35.2002 209.6 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ddatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ddatelu viramasigntelu
 EndChar
 
 StartChar: ddhatelu_viramasigntelu
@@ -33244,6 +33564,8 @@ SplineSet
  35.2002 209.6 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ddhatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ddhatelu viramasigntelu
 EndChar
 
 StartChar: nnatelu_viramasigntelu
@@ -33341,6 +33663,8 @@ SplineSet
  43.2002 346.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" nnatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" nnatelu viramasigntelu
 EndChar
 
 StartChar: tatelu_viramasigntelu
@@ -33427,6 +33751,8 @@ SplineSet
  470.4 402.4 l 1,26,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" tatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" tatelu viramasigntelu
 EndChar
 
 StartChar: thatelu_viramasigntelu
@@ -33506,6 +33832,8 @@ SplineSet
  284 248.8 l 1,78,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" thatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" thatelu viramasigntelu
 EndChar
 
 StartChar: datelu_viramasigntelu
@@ -33573,6 +33901,8 @@ SplineSet
  35.2002 196 l 1,20,21
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" datelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" datelu viramasigntelu
 EndChar
 
 StartChar: dhatelu_viramasigntelu
@@ -33646,6 +33976,8 @@ SplineSet
  35.2002 196 l 1,20,21
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" dhatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" dhatelu viramasigntelu
 EndChar
 
 StartChar: natelu_viramasigntelu
@@ -33710,6 +34042,8 @@ SplineSet
  394.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" natelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" natelu viramasigntelu
 EndChar
 
 StartChar: patelu_viramasigntelu
@@ -33785,6 +34119,8 @@ SplineSet
  224 444.8 l 1,46,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" patelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" patelu viramasigntelu
 EndChar
 
 StartChar: phatelu_viramasigntelu
@@ -33866,6 +34202,8 @@ SplineSet
  210.4 444.8 l 1,52,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" phatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" phatelu viramasigntelu
 EndChar
 
 StartChar: batelu_viramasigntelu
@@ -33946,6 +34284,8 @@ SplineSet
  462.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" batelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" batelu viramasigntelu
 EndChar
 
 StartChar: bhatelu_viramasigntelu
@@ -34032,6 +34372,8 @@ SplineSet
  450.4 65.5996 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" bhatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" bhatelu viramasigntelu
 EndChar
 
 StartChar: matelu_viramasigntelu
@@ -34116,6 +34458,8 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" matelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" matelu viramasigntelu
 EndChar
 
 StartChar: yatelu_viramasigntelu
@@ -34201,6 +34545,8 @@ SplineSet
  760 243.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" yatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" yatelu viramasigntelu
 EndChar
 
 StartChar: ratelu_viramasigntelu
@@ -34258,6 +34604,8 @@ SplineSet
  33.5996 242.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ratelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ratelu viramasigntelu
 EndChar
 
 StartChar: rratelu_viramasigntelu
@@ -34355,6 +34703,8 @@ SplineSet
  38.4004 247.2 l 1,13,14
 EndSplineSet
 Validated: 37
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" rratelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" rratelu viramasigntelu
 EndChar
 
 StartChar: latelu_viramasigntelu
@@ -34425,6 +34775,8 @@ SplineSet
  346.4 65.5996 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" latelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" latelu viramasigntelu
 EndChar
 
 StartChar: llatelu_viramasigntelu
@@ -34513,6 +34865,8 @@ SplineSet
  287.2 169.6 l 1,26,27
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" llatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" llatelu viramasigntelu
 EndChar
 
 StartChar: vatelu_viramasigntelu
@@ -34583,6 +34937,8 @@ SplineSet
  23.2002 118.4 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" vatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" vatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_viramasigntelu
@@ -34661,6 +35017,8 @@ SplineSet
  157.6 151.2 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" shatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" shatelu viramasigntelu
 EndChar
 
 StartChar: ssatelu_viramasigntelu
@@ -34743,6 +35101,8 @@ SplineSet
  217.6 444.8 l 1,55,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" ssatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" ssatelu viramasigntelu
 EndChar
 
 StartChar: satelu_viramasigntelu
@@ -34812,6 +35172,8 @@ SplineSet
  228.8 444.8 l 1,39,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" satelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" satelu viramasigntelu
 EndChar
 
 StartChar: hatelu_viramasigntelu
@@ -34911,6 +35273,8 @@ SplineSet
  244.8 444.8 l 1,77,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'half' Half Forms in Telugu lookup 7-1" hatelu viramasigntelu afii301
+Ligature2: "'haln' Halant Forms lookup 1-1" hatelu viramasigntelu
 EndChar
 
 StartChar: katelu_ssatelu_viramtelu_U0C4D
@@ -35790,6 +36154,8 @@ SplineSet
  2.40039 -130.4 l 1,0,1
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu katelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" katelu viramasigntelu
 EndChar
 
 StartChar: khatelu_viramasigntelu.blwf
@@ -35869,7 +36235,8 @@ SplineSet
  -208 -384.8 l 1,27,28
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu khatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" khatelu viramasigntelu
 EndChar
 
 StartChar: gatelu_viramasigntelu.blwf
@@ -35895,7 +36262,8 @@ SplineSet
  -488 -406.4 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu gatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" gatelu viramasigntelu
 EndChar
 
 StartChar: ghatelu_viramasigntelu.blwf
@@ -35957,7 +36325,8 @@ SplineSet
  -570.88 -260.72 -570.88 -260.72 -570.88 -226.56 c 1,68,-1
  -570.88 -226.56 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ghatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ghatelu viramasigntelu
 EndChar
 
 StartChar: ngatelu_viramasigntelu.blwf
@@ -36025,7 +36394,8 @@ SplineSet
  -565.6 -301.6 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ngatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ngatelu viramasigntelu
 EndChar
 
 StartChar: catelu_viramasigntelu.blwf
@@ -36071,7 +36441,8 @@ SplineSet
  -140 -79.2002 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu catelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" catelu viramasigntelu
 EndChar
 
 StartChar: chatelu_viramasigntelu.blwf
@@ -36123,7 +36494,8 @@ SplineSet
  -148 -79.2002 l 1,0,-1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu chatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" chatelu viramasigntelu
 EndChar
 
 StartChar: jatelu_viramasigntelu.blwf
@@ -36197,7 +36569,8 @@ SplineSet
  -565.6 -343.2 -565.6 -343.2 -565.6 -295.2 c 1,84,-1
  -565.6 -295.2 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu jatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" jatelu viramasigntelu
 EndChar
 
 StartChar: jhatelu_viramasigntelu.blwf
@@ -36260,7 +36633,8 @@ SplineSet
  -629.96 -228.561 -629.96 -228.561 -629.96 -175.36 c 5,70,-1
  -629.96 -175.36 l 5,13,14
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu jhatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" jhatelu viramasigntelu
 EndChar
 
 StartChar: nyatelu_viramasigntelu.blwf
@@ -36336,7 +36710,8 @@ SplineSet
  -625.6 -144 l 1,14,15
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu nyatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" nyatelu viramasigntelu
 EndChar
 
 StartChar: ttatelu_viramasigntelu.blwf
@@ -36396,7 +36771,8 @@ SplineSet
  -608 -304 -608 -304 -608 -223.2 c 1,62,-1
  -608 -223.2 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ttatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ttatelu viramasigntelu
 EndChar
 
 StartChar: tthatelu_viramasigntelu.blwf
@@ -36436,7 +36812,8 @@ SplineSet
  -395.2 -168.8 -395.2 -168.8 -395.2 -223.2 c 1,30,-1
  -395.2 -223.2 l 1,18,19
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu tthatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" tthatelu viramasigntelu
 EndChar
 
 StartChar: ddatelu_viramasigntelu.blwf
@@ -36494,7 +36871,8 @@ SplineSet
  -629.6 -321.6 -629.6 -321.6 -629.6 -256 c 1,59,-1
  -629.6 -256 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ddatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ddatelu viramasigntelu
 EndChar
 
 StartChar: ddhatelu_viramasigntelu.blwf
@@ -36556,7 +36934,8 @@ SplineSet
  -629.6 -328 -629.6 -328 -629.6 -262.4 c 1,63,-1
  -629.6 -262.4 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ddhatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ddhatelu viramasigntelu
 EndChar
 
 StartChar: nnatelu_viramasigntelu.blwf
@@ -36629,7 +37008,8 @@ SplineSet
  -565.6 -166.4 -565.6 -166.4 -565.6 -138.4 c 1,82,-1
  -565.6 -138.4 l 1,13,14
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu nnatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" nnatelu viramasigntelu
 EndChar
 
 StartChar: tatelu_viramasigntelu.blwf
@@ -36668,7 +37048,8 @@ SplineSet
  -144.8 -196 -144.8 -196 -144.8 -223.2 c 129,-1,17
 EndSplineSet
 Kerns2: 62 140 "'kern' Horizontal Kerning in Telugu lookup 1-1"  61 120 "'kern' Horizontal Kerning in Telugu lookup 1-1" 
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu tatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" tatelu viramasigntelu
 EndChar
 
 StartChar: thatelu_viramasigntelu.blwf
@@ -36722,7 +37103,8 @@ SplineSet
  -382.4 -223.2 l 1,48,-1
  -382.4 -223.2 l 1,44,-1
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu thatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" thatelu viramasigntelu
 EndChar
 
 StartChar: datelu_viramasigntelu.blwf
@@ -36766,7 +37148,8 @@ SplineSet
  -617.6 -356.8 -617.6 -356.8 -617.6 -296.8 c 1,39,-1
  -617.6 -296.8 l 1,20,21
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu datelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" datelu viramasigntelu
 EndChar
 
 StartChar: dhatelu_viramasigntelu.blwf
@@ -36814,7 +37197,8 @@ SplineSet
  -617.6 -356.8 -617.6 -356.8 -617.6 -296.8 c 1,43,-1
  -617.6 -296.8 l 1,20,21
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu dhatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" dhatelu viramasigntelu
 EndChar
 
 StartChar: natelu_viramasigntelu.blwf
@@ -36866,7 +37250,8 @@ SplineSet
  -260 -194.4 l 1,14,15
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu natelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" natelu viramasigntelu
 EndChar
 
 StartChar: patelu_viramasigntelu.blwf
@@ -36914,7 +37299,8 @@ SplineSet
  -223.2 -201.6 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu patelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" patelu viramasigntelu
 EndChar
 
 StartChar: phatelu_viramasigntelu.blwf
@@ -36966,7 +37352,8 @@ SplineSet
  -221.6 -201.6 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu phatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" phatelu viramasigntelu
 EndChar
 
 StartChar: batelu_viramasigntelu.blwf
@@ -37022,7 +37409,8 @@ SplineSet
  -153.6 -301.6 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu batelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" batelu viramasigntelu
 EndChar
 
 StartChar: bhatelu_viramasigntelu.blwf
@@ -37082,7 +37470,8 @@ SplineSet
  -152 -301.6 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu bhatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" bhatelu viramasigntelu
 EndChar
 
 StartChar: matelu_viramasigntelu.blwf
@@ -37140,7 +37529,8 @@ SplineSet
  -156 -212 l 1,14,15
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu matelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" matelu viramasigntelu
 EndChar
 
 StartChar: yatelu_viramasigntelu.blwf
@@ -37197,7 +37587,8 @@ SplineSet
  -65.5996 -356 -65.5996 -356 -65.5996 -310.4 c 1,62,-1
  -65.5996 -310.4 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu yatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" yatelu viramasigntelu
 EndChar
 
 StartChar: ratelu_viramasigntelu.blwf
@@ -37223,7 +37614,8 @@ SplineSet
  -549.6 -141.6 -549.6 -141.6 -549.6 -54.4004 c 2,16,-1
  -549.6 -54.4004 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ratelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ratelu viramasigntelu
 EndChar
 
 StartChar: rratelu_viramasigntelu.blwf
@@ -37300,7 +37692,8 @@ SplineSet
  -463.2 -220 l 1,50,51
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu rratelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" rratelu viramasigntelu
 EndChar
 
 StartChar: latelu_viramasigntelu.blwf
@@ -37344,7 +37737,8 @@ SplineSet
  -549.6 -299.2 -549.6 -299.2 -549.6 -258.4 c 1,40,-1
  -549.6 -258.4 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu latelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" latelu viramasigntelu
 EndChar
 
 StartChar: llatelu_viramasigntelu.blwf
@@ -37410,7 +37804,8 @@ SplineSet
  -252.8 -120 l 1,26,27
 EndSplineSet
 Validated: 37
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu llatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" llatelu viramasigntelu
 EndChar
 
 StartChar: vatelu_viramasigntelu.blwf
@@ -37470,7 +37865,8 @@ SplineSet
  -147.2 -174.4 l 1,13,14
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu vatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" vatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_viramasigntelu.blwf
@@ -37530,7 +37926,8 @@ SplineSet
  -205.6 -198.4 l 1,14,15
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu shatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" shatelu viramasigntelu
 EndChar
 
 StartChar: ssatelu_viramasigntelu.blwf
@@ -37583,7 +37980,8 @@ SplineSet
  -165.575 -75.918 -165.575 -75.918 -171.176 -71.3867 c 9,56,57
  -132.676 -49.0537 l 17,13,14
 EndSplineSet
-LCarets2: 1 1 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu ssatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ssatelu viramasigntelu
 EndChar
 
 StartChar: satelu_viramasigntelu.blwf
@@ -37625,7 +38023,8 @@ SplineSet
  -198.4 -201.6 l 1,0,1
 EndSplineSet
 Validated: 5
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu satelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" satelu viramasigntelu
 EndChar
 
 StartChar: hatelu_viramasigntelu.blwf
@@ -37693,7 +38092,8 @@ SplineSet
  -150.623 -127.116 -150.623 -127.116 -150.623 -140.444 c 1,76,-1
  -150.623 -140.444 l 1,64,65
 EndSplineSet
-LCarets2: 1 0 
+Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu hatelu
+Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" hatelu viramasigntelu
 EndChar
 
 StartChar: katelu_viramtelu_U0C37_U0C4D
@@ -38106,6 +38506,8 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,87,-1
  128 346.4 l 1,36,37
 EndSplineSet
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu viramasigntelu ssatelu
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" katelu ssatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_iisigntelu_U0C30_U0C4D
