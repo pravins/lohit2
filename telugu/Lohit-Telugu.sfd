@@ -34913,7 +34913,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: katelu_ssatelu_viramasigntelu.akhn_U0C4D.haln
+StartChar: katelu_ssatelu_viramtelu_U0C4D
 Encoding: 65873 -1 423
 Width: 511
 VWidth: 819
@@ -35002,7 +35002,6 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,106,-1
  128 346.4 l 1,36,37
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
 StartChar: jatelu_usigntelu
@@ -37697,7 +37696,7 @@ EndSplineSet
 LCarets2: 1 0 
 EndChar
 
-StartChar: katelu_viramasigntelu.blwf_U0C37_U0C4D.blwf.blwf
+StartChar: katelu_viramtelu_U0C37_U0C4D
 Encoding: 65917 -1 467
 Width: 0
 VWidth: 819
@@ -37763,10 +37762,9 @@ SplineSet
  -520.8 -121.6 -520.8 -121.6 -520.8 -141.6 c 1,76,-1
  -520.8 -141.6 l 1,38,39
 EndSplineSet
-LCarets2: 1 0 
 EndChar
 
-StartChar: ailengthmarktelu_tatelu_viramasigntelu.blwf.blws
+StartChar: ailengthtelu_tatelu_viramtelu
 Encoding: 65918 -1 468
 Width: 0
 VWidth: 819
@@ -37912,7 +37910,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: tatelu_viramasigntelu.blwf_U0C30_U0C4D.blwf.blws
+StartChar: tatelu_viramtelu_U0C30_U0C4D
 Encoding: 65920 -1 470
 Width: 0
 VWidth: 819
@@ -42430,7 +42428,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: katelu_esigntelu_ailengthmarktelu_ssatelu_viramasigntelu.akhn
+StartChar: katel_etel_aitel_ssatel_virmtel
 Encoding: 65983 -1 533
 Width: 511
 VWidth: 819
@@ -42533,7 +42531,6 @@ SplineSet
  -54.4004 -340 -54.4004 -340 -54.4004 -285.6 c 1,122,-1
  -54.4004 -285.6 l 1,105,106
 EndSplineSet
-LCarets2: 4 0 0 0 0 
 EndChar
 
 StartChar: glyph536
