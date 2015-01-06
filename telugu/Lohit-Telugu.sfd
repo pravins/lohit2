@@ -465,6 +465,7 @@ SplineSet
  342.4 141.6 342.4 141.6 371.6 103.6 c 128,-1,86
  400.8 65.5996 400.8 65.5996 441.6 65.5996 c 0,0,1
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" bhatelu usigntelu
 EndChar
 
 StartChar: .null
@@ -5501,6 +5502,7 @@ SplineSet
  161.6 431.2 161.6 431.2 142.8 412 c 128,-1,99
  124 392.8 124 392.8 124 365.6 c 128,-1,100
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" khatelu usigntelu
 EndChar
 
 StartChar: gatelu_usigntelu
@@ -5549,6 +5551,7 @@ SplineSet
  101.6 173.6 101.6 173.6 101.6 0 c 1,49,-1
  36.7998 0 l 1,0,1
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" gatelu usigntelu
 EndChar
 
 StartChar: ngatelu_usigntelu
@@ -5625,6 +5628,7 @@ SplineSet
  128 0 128 0 85.5996 42 c 128,-1,87
  43.2002 84 43.2002 84 43.2002 144 c 0,0,1
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" ngatelu usigntelu
 EndChar
 
 StartChar: catelu_usigntelu
@@ -5697,6 +5701,7 @@ SplineSet
  484.899 461.375 484.899 461.375 548.2 386.4 c 0,80,81
  574.882 354.797 574.882 354.797 609.8 221.2 c 24,0,1
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" catelu usigntelu
 EndChar
 
 StartChar: chatelu_usigntelu
@@ -5776,6 +5781,7 @@ SplineSet
  499.2 460.8 499.2 460.8 552 390.4 c 0,85,86
  577.68 356.16 577.68 356.16 606 224 c 17,0,1
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" chatelu usigntelu
 EndChar
 
 StartChar: ttatelu_usigntelu
@@ -5848,6 +5854,7 @@ SplineSet
  156 379.2 156 379.2 136.4 360.4 c 128,-1,73
  116.8 341.6 116.8 341.6 116.8 314.4 c 128,-1,74
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" ttatelu usigntelu
 EndChar
 
 StartChar: tthatelu_usigntelu
@@ -5908,6 +5915,7 @@ SplineSet
  199.2 419.2 199.2 419.2 149.2 367.6 c 128,-1,52
  99.2002 316 99.2002 316 99.2002 242.4 c 128,-1,53
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" tthatelu usigntelu
 EndChar
 
 StartChar: nnatelu_usigntelu
@@ -5992,6 +6000,7 @@ SplineSet
  526.4 176.8 526.4 176.8 507.2 157.6 c 128,-1,90
  488 138.4 488 138.4 488 111.2 c 128,-1,91
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" nnatelu usigntelu
 EndChar
 
 StartChar: tatelu_usigntelu
@@ -6078,6 +6087,7 @@ SplineSet
  136.8 365.6 136.8 365.6 117.2 346.8 c 128,-1,86
  97.5996 328 97.5996 328 97.5996 300.8 c 128,-1,87
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" tatelu usigntelu
 EndChar
 
 StartChar: thatelu_usigntelu
@@ -6153,6 +6163,7 @@ SplineSet
  231.2 419.2 231.2 419.2 166 354 c 128,-1,83
  100.8 288.8 100.8 288.8 100.8 196 c 0,65,66
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" thatelu usigntelu
 EndChar
 
 StartChar: datelu_usigntelu
@@ -6217,6 +6228,7 @@ SplineSet
  231.2 419.2 231.2 419.2 166 354 c 128,-1,73
  100.8 288.8 100.8 288.8 100.8 196 c 0,55,56
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" datelu usigntelu
 EndChar
 
 StartChar: dhatelu_usigntelu
@@ -6287,6 +6299,7 @@ SplineSet
  231.2 419.2 231.2 419.2 166 354 c 128,-1,79
  100.8 288.8 100.8 288.8 100.8 196 c 0,61,62
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" dhatelu usigntelu
 EndChar
 
 StartChar: natelu_usigntelu
@@ -6351,6 +6364,7 @@ SplineSet
  300 116.8 300 116.8 328 91.2002 c 128,-1,74
  356 65.5996 356 65.5996 394.4 65.5996 c 0,0,1
 EndSplineSet
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" natelu usigntelu
 EndChar
 
 StartChar: katelu_aasigntelu
