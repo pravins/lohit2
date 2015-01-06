@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1418365468
+ModificationTime: 1420532633
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -74,7 +74,7 @@ ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 12-1"  0 0 
 EndFPST
 ChainSub2: coverage "'blws' Below Base Substitutions in Oriya lookup 11-1"  0 0 0 1
  1 1 0
-  Coverage: 69 glyph236 viramaodia_raodia_uusignodia viramasignodia_raodia_usignodia
+  Coverage: 65 glyph236 viramaodia_raodia_uusignodia viramaodia_raodia_usignodia
   BCoverage: 1113 kaodia_viramasignodia_raodia khaodia_viramasignodia_raodia gaodia_viramasignodia_raodia ghaodia_viramasignodia_raodia ngaodia_viramasignodia_raodia caodia_viramasignodia_raodia chaodia_viramasignodia_raodia jaodia_viramasignodia_raodia jhaodia_viramasignodia_raodia nyaodia_viramasignodia_raodia ttaodia_viramasignodia_raodia tthaodia_viramasignodia_raodia ddaodia_viramasignodia_raodia ddhaodia_viramasignodia_raodia nnaodia_viramasignodia_raodia taodia_viramasignodia_raodia thaodia_viramasignodia_raodia daodia_viramasignodia_raodia dhaodia_viramasignodia_raodia naodia_viramasignodia_raodia paodia_viramasignodia_raodia phaodia_viramasignodia_raodia baodia_viramasignodia_raodia bhaodia_viramasignodia_raodia maodia_viramasignodia_raodia yaodia_viramasignodia_raodia raodia_viramasignodia_raodia laodia_viramasignodia_raodia llaodia_viramasignodia_raodia vaodia_viramasignodia_raodia shaodia_viramasignodia_raodia ssaodia_viramasignodia_raodia saodia_viramasignodia_raodia haodia_viramasignodia_raodia rraodia_viramasignodia_raodia rhaodia_viramasignodia_raodia yyaodia_viramasignodia_raodia glyph323 glyph324
  1
   SeqLookup: 0 "Single Substitution in Oriya lookup 9" 
@@ -407,7 +407,7 @@ EndChar
 StartChar: candrabinduodia
 Encoding: 2817 2817 1
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -439,7 +439,7 @@ EndChar
 StartChar: anusvaraodia
 Encoding: 2818 2818 2
 Width: 339
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -470,7 +470,7 @@ EndChar
 StartChar: visargaodia
 Encoding: 2819 2819 3
 Width: 409
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3224,7 +3224,7 @@ EndChar
 StartChar: nuktasignodia
 Encoding: 2876 2876 50
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3270,7 +3270,7 @@ EndChar
 StartChar: aasignodia
 Encoding: 2878 2878 52
 Width: 246
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3312,7 +3312,7 @@ EndChar
 StartChar: iisignodia
 Encoding: 2880 2880 54
 Width: 325
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3336,7 +3336,7 @@ EndChar
 StartChar: usignodia
 Encoding: 2881 2881 55
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3379,13 +3379,13 @@ SplineSet
  -286 -238 l 1,35,36
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph408
+Substitution2: "Single Substitution in Oriya lookup 10-1" usignodia.alt
 EndChar
 
 StartChar: uusignodia
 Encoding: 2882 2882 56
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3414,13 +3414,13 @@ SplineSet
  -153 -360 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph409
+Substitution2: "Single Substitution in Oriya lookup 10-1" uusignodia.alt
 EndChar
 
 StartChar: vocalicrsignodia
 Encoding: 2883 2883 57
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3451,13 +3451,13 @@ SplineSet
  -139 -333 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph410
+Substitution2: "Single Substitution in Oriya lookup 10-1" vocalicrsignodia.alt
 EndChar
 
 StartChar: esignodia
 Encoding: 2887 2887 58
 Width: 568
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3501,7 +3501,7 @@ EndChar
 StartChar: aisignodia
 Encoding: 2888 2888 59
 Width: 567
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3563,7 +3563,7 @@ EndChar
 StartChar: osignodia
 Encoding: 2891 2891 60
 Width: 1045
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3613,7 +3613,7 @@ EndChar
 StartChar: ausignodia
 Encoding: 2892 2892 61
 Width: 1121
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3675,7 +3675,7 @@ EndChar
 StartChar: viramasignodia
 Encoding: 2893 2893 62
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3727,7 +3727,7 @@ EndChar
 StartChar: aulengthodia
 Encoding: 2903 2903 64
 Width: 246
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4641,7 +4641,7 @@ EndChar
 StartChar: dottefcircleodia
 Encoding: 9676 9676 84
 Width: 841
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -15414,11 +15414,11 @@ SplineSet
  -620 -223 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph412
+Substitution2: "Single Substitution in Oriya lookup 10-1" glyph236.alt
 Substitution2: "Single Substitution in Oriya lookup 9-1" glyph236
 EndChar
 
-StartChar: viramasignodia_raodia_usignodia
+StartChar: viramaodia_raodia_usignodia
 Encoding: 65684 -1 216
 Width: 0
 GlyphClass: 2
@@ -15468,10 +15468,10 @@ SplineSet
  -421 -333 l 1,39,40
 EndSplineSet
 Validated: 5
-Ligature2: "'blws' Below Base Substitutions in Oriya lookup 13-1" viramasignodia_raodia usignodia
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph413
-Substitution2: "Single Substitution in Oriya lookup 9-1" viramasignodia_raodia_usignodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia usignodia
+Ligature2: "'blws' Below Base Substitutions in Oriya lookup 13-1" viramasignodia_raodia usignodia
+Substitution2: "Single Substitution in Oriya lookup 9-1" viramasignodia_raodia_usignodia
+Substitution2: "Single Substitution in Oriya lookup 10-1" viramaodia_raodia_usignodia.1
 EndChar
 
 StartChar: viramaodia_raodia_uusignodia
@@ -15513,7 +15513,7 @@ SplineSet
 EndSplineSet
 Validated: 5
 Ligature2: "'blws' Below Base Substitutions in Oriya lookup 13-1" viramasignodia_raodia uusignodia
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph414
+Substitution2: "Single Substitution in Oriya lookup 10-1" viramaodia_raodia_uusignodia.1
 Substitution2: "Single Substitution in Oriya lookup 9-1" viramaodia_raodia_uusignodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia uusignodia
 EndChar
@@ -22363,7 +22363,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph405
+StartChar: viramaodia_raodia_usignodia.1
 Encoding: 65852 -1 345
 Width: 0
 GlyphClass: 2
@@ -22415,7 +22415,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph406
+StartChar: viramaodia_raodia_uusignodia.1
 Encoding: 65853 -1 346
 Width: 0
 GlyphClass: 2
@@ -22455,7 +22455,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph407
+StartChar: glyph236.alt
 Encoding: 65854 -1 347
 Width: 0
 GlyphClass: 2
@@ -22475,7 +22475,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph408
+StartChar: usignodia.alt
 Encoding: 65855 -1 348
 Width: 0
 GlyphClass: 2
@@ -22523,7 +22523,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph409
+StartChar: uusignodia.alt
 Encoding: 65856 -1 349
 Width: 0
 GlyphClass: 2
@@ -22557,7 +22557,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: glyph410
+StartChar: vocalicrsignodia.alt
 Encoding: 65857 -1 350
 Width: 0
 GlyphClass: 2
@@ -22728,6 +22728,7 @@ EndChar
 StartChar: vocalicrrsignodia
 Encoding: 2884 2884 355
 Width: 0
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -22767,6 +22768,7 @@ EndChar
 StartChar: vocaliclsignodia
 Encoding: 2914 2914 356
 Width: 639
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -22809,6 +22811,7 @@ EndChar
 StartChar: vocalicllsignodia
 Encoding: 2915 2915 357
 Width: 639
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
