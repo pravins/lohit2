@@ -389,7 +389,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 224 32 11
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor4"  "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3"  "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1"  "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0"  "'blwm' Below Base Mark in Telugu lookup 0" 
@@ -498,7 +498,7 @@ StartChar: candrabindutelu
 Encoding: 3073 3073 4
 Width: 355
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -531,7 +531,7 @@ StartChar: anusvaratelu
 Encoding: 3074 3074 5
 Width: 540
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -564,7 +564,7 @@ StartChar: visargatelu
 Encoding: 3075 3075 6
 Width: 293
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3883,7 +3883,7 @@ StartChar: aasigntelu
 Encoding: 3134 3134 56
 Width: 601
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3921,7 +3921,7 @@ StartChar: isigntelu
 Encoding: 3135 3135 57
 Width: 0
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -3964,7 +3964,7 @@ StartChar: iisigntelu
 Encoding: 3136 3136 58
 Width: 0
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4021,7 +4021,7 @@ StartChar: usigntelu
 Encoding: 3137 3137 59
 Width: 368
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-3" -261 -23 basechar 0
 LayerCount: 2
@@ -4050,7 +4050,7 @@ StartChar: uusigntelu
 Encoding: 3138 3138 60
 Width: 724
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4100,7 +4100,7 @@ StartChar: vocalicrsigntelu
 Encoding: 3139 3139 61
 Width: 380
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4142,7 +4142,7 @@ StartChar: vocalicrrsigntelu
 Encoding: 3140 3140 62
 Width: 612
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4208,7 +4208,7 @@ StartChar: esigntelu
 Encoding: 3142 3142 63
 Width: 0
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4237,7 +4237,7 @@ StartChar: eesigntelu
 Encoding: 3143 3143 64
 Width: 0
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4281,7 +4281,7 @@ StartChar: aisigntelu
 Encoding: 3144 3144 65
 Width: 734
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4335,7 +4335,7 @@ StartChar: osigntelu
 Encoding: 3146 3146 66
 Width: 580
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4393,7 +4393,7 @@ StartChar: oosigntelu
 Encoding: 3147 3147 67
 Width: 577
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4465,7 +4465,7 @@ StartChar: ausigntelu
 Encoding: 3148 3148 68
 Width: 614
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4517,7 +4517,7 @@ StartChar: viramasigntelu
 Encoding: 3149 3149 69
 Width: 0
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -4558,7 +4558,7 @@ StartChar: lengthmarktelu
 Encoding: 3157 3157 70
 Width: 387
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -43074,6 +43074,7 @@ StartChar: vocaliclsigntelu
 Encoding: 3170 3170 539
 Width: 0
 VWidth: 819
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
@@ -43116,6 +43117,7 @@ StartChar: vocalicllsigntelu
 Encoding: 3171 3171 540
 Width: 0
 VWidth: 819
+GlyphClass: 4
 Flags: W
 LayerCount: 2
 Fore
