@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1421321469
+ModificationTime: 1421402050
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,7 +52,6 @@ OS2StrikeYPos: 250
 OS2Vendor: 'MODI'
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Oriya lookup 13"  {"'blws' Below Base Substitutions in Oriya lookup 13-1"  } ['blws' ('ory2' <'dflt' > ) ]
 Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 12"  {"'blws' Below Base Substitutions in Oriya lookup 12-1"  } ['blws' ('ory2' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution in Oriya lookup 10"  {"Single Substitution in Oriya lookup 10-1"  } []
 Lookup: 1 0 0 "Single Substitution in Oriya lookup 8"  {"Single Substitution in Oriya lookup 8-1"  } []
 Lookup: 1 0 0 "Single Substitution in Oriya lookup 9"  {"Single Substitution in Oriya lookup 9-1"  } []
 Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 11"  {"'blws' Below Base Substitutions in Oriya lookup 11-1"  } ['blws' ('ory2' <'dflt' > ) ]
@@ -3379,7 +3378,6 @@ SplineSet
  -286 -238 l 1,35,36
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" usignodia.alt
 EndChar
 
 StartChar: uusignodia
@@ -3414,7 +3412,6 @@ SplineSet
  -153 -360 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" uusignodia.alt
 EndChar
 
 StartChar: vocalicrsignodia
@@ -3451,7 +3448,6 @@ SplineSet
  -139 -333 l 1,0,1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" vocalicrsignodia.alt
 EndChar
 
 StartChar: esignodia
@@ -15414,8 +15410,7 @@ SplineSet
  -620 -223 l 1,0,-1
 EndSplineSet
 Validated: 5
-Substitution2: "Single Substitution in Oriya lookup 10-1" glyph236.alt
-Substitution2: "Single Substitution in Oriya lookup 9-1" glyph236
+Substitution2: "Single Substitution in Oriya lookup 9-1" glyph236.alt
 EndChar
 
 StartChar: viramaodia_raodia_usignodia
@@ -15470,8 +15465,7 @@ EndSplineSet
 Validated: 5
 Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia usignodia
 Ligature2: "'blws' Below Base Substitutions in Oriya lookup 13-1" viramasignodia_raodia usignodia
-Substitution2: "Single Substitution in Oriya lookup 9-1" viramasignodia_raodia_usignodia
-Substitution2: "Single Substitution in Oriya lookup 10-1" viramaodia_raodia_usignodia.1
+Substitution2: "Single Substitution in Oriya lookup 9-1" viramaodia_raodia_usignodia.1
 EndChar
 
 StartChar: viramaodia_raodia_uusignodia
@@ -15513,8 +15507,7 @@ SplineSet
 EndSplineSet
 Validated: 5
 Ligature2: "'blws' Below Base Substitutions in Oriya lookup 13-1" viramasignodia_raodia uusignodia
-Substitution2: "Single Substitution in Oriya lookup 10-1" viramaodia_raodia_uusignodia.1
-Substitution2: "Single Substitution in Oriya lookup 9-1" viramaodia_raodia_uusignodia
+Substitution2: "Single Substitution in Oriya lookup 9-1" viramaodia_raodia_uusignodia.1
 Ligature2: "'blwf' Below Base Forms lookup 2-1" raodia viramasignodia uusignodia
 EndChar
 
