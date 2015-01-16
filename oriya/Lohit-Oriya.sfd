@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1421402050
+ModificationTime: 1421406924
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,10 +57,11 @@ Lookup: 1 0 0 "Single Substitution in Oriya lookup 9"  {"Single Substitution in 
 Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 11"  {"'blws' Below Base Substitutions in Oriya lookup 11-1"  } ['blws' ('ory2' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Oriya lookup 7"  {"'pres' Pre Base Substitutions in Oriya lookup 7-2"  "'pres' Pre Base Substitutions in Oriya lookup 7-1"  } ['pres' ('ory2' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 2"  {"'blwf' Below Base Forms lookup 2-1"  } ['blwf' ('ory2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Oriya lookup 12"  {"'blwf' Below Base Forms in Oriya lookup 12-1"  } ['blwf' ('orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 0"  {"'akhn' Akhand lookup 0-1"  } ['akhn' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('ory2' <'dflt' > ) ]
+Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms lookup 4"  {"'pstf' Post Base Forms lookup 4-1"  } ['pstf' ('ory2' <'dflt' > ) ]
-Lookup: 4 0 0 "'nukt' Nukta Forms lookup 5"  {"'nukt' Nukta Forms lookup 5-1"  } ['nukt' ('ory2' <'dflt' > ) ]
+Lookup: 4 0 0 "'nukt' Nukta Forms lookup 5"  {"'nukt' Nukta Forms lookup 5-1"  } ['nukt' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions in Oriya lookup 6"  {"'abvs' Above Base Substitutions in Oriya lookup 6-1"  } ['abvs' ('orya' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -390,7 +391,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 32 11
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65864 365
@@ -3814,6 +3815,7 @@ SplineSet
  371 -14 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'nukt' Nukta Forms lookup 5-1" nuktasignodia ddaodia
 Ligature2: "'nukt' Nukta Forms lookup 5-1" ddaodia nuktasignodia
 EndChar
 
@@ -3892,6 +3894,7 @@ SplineSet
  471 96 l 1,76,77
 EndSplineSet
 Validated: 5
+Ligature2: "'nukt' Nukta Forms lookup 5-1" nuktasignodia ddhaodia
 Ligature2: "'nukt' Nukta Forms lookup 5-1" ddhaodia nuktasignodia
 EndChar
 
@@ -15390,6 +15393,7 @@ SplineSet
 EndSplineSet
 Validated: 5
 Ligature2: "'rphf' Reph Form lookup 3-1" viramasignodia raodia
+Ligature2: "'rphf' Reph Form lookup 3-1" raodia viramasignodia
 EndChar
 
 StartChar: glyph236
@@ -19763,6 +19767,7 @@ SplineSet
  -620 -223 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" raodia viramasignodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia raodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_raodia
 EndChar
