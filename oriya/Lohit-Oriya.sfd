@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1421406924
+ModificationTime: 1421659985
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,12 +55,12 @@ Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 12"  {"'blws' Bel
 Lookup: 1 0 0 "Single Substitution in Oriya lookup 8"  {"Single Substitution in Oriya lookup 8-1"  } []
 Lookup: 1 0 0 "Single Substitution in Oriya lookup 9"  {"Single Substitution in Oriya lookup 9-1"  } []
 Lookup: 6 0 0 "'blws' Below Base Substitutions in Oriya lookup 11"  {"'blws' Below Base Substitutions in Oriya lookup 11-1"  } ['blws' ('ory2' <'dflt' > ) ]
-Lookup: 4 0 0 "'pres' Pre Base Substitutions in Oriya lookup 7"  {"'pres' Pre Base Substitutions in Oriya lookup 7-2"  "'pres' Pre Base Substitutions in Oriya lookup 7-1"  } ['pres' ('ory2' <'dflt' > ) ]
+Lookup: 4 0 0 "'pres' Pre Base Substitutions in Oriya lookup 7"  {"'pres' Pre Base Substitutions in Oriya lookup 7-2"  "'pres' Pre Base Substitutions in Oriya lookup 7-1"  } ['pres' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms lookup 2"  {"'blwf' Below Base Forms lookup 2-1"  } ['blwf' ('ory2' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms in Oriya lookup 12"  {"'blwf' Below Base Forms in Oriya lookup 12-1"  } ['blwf' ('orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand lookup 0"  {"'akhn' Akhand lookup 0-1"  } ['akhn' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'rphf' Reph Form lookup 3"  {"'rphf' Reph Form lookup 3-1"  } ['rphf' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms lookup 4"  {"'pstf' Post Base Forms lookup 4-1"  } ['pstf' ('ory2' <'dflt' > ) ]
+Lookup: 4 0 0 "'pstf' Post Base Forms lookup 4"  {"'pstf' Post Base Forms lookup 4-1"  } ['pstf' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'nukt' Nukta Forms lookup 5"  {"'nukt' Nukta Forms lookup 5-1"  } ['nukt' ('ory2' <'dflt' > 'orya' <'dflt' > ) ]
 Lookup: 4 0 0 "'abvs' Above Base Substitutions in Oriya lookup 6"  {"'abvs' Above Base Substitutions in Oriya lookup 6-1"  } ['abvs' ('orya' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -18420,6 +18420,7 @@ SplineSet
  -188 -112 l 1,31,32
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" kaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_kaodia
 LCarets2: 1 0 
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia kaodia
@@ -18482,6 +18483,7 @@ SplineSet
  -297 -229 l 1,51,52
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" khaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_khaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia khaodia
 EndChar
@@ -18535,6 +18537,7 @@ SplineSet
  -278 -294 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" gaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_gaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia gaodia
 EndChar
@@ -18593,6 +18596,7 @@ SplineSet
  -159 -75 l 1,30,31
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" ghaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_ghaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia ghaodia
 EndChar
@@ -18664,6 +18668,7 @@ SplineSet
  25 -87 l 1,65,66
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" ngaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_ngaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia ngaodia
 EndChar
@@ -18717,6 +18722,7 @@ SplineSet
  -121 -290 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" caodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_caodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia caodia
 EndChar
@@ -18805,6 +18811,7 @@ SplineSet
  -62 -323 l 1,89,90
 EndSplineSet
 Validated: 37
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" chaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_chaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia chaodia
 EndChar
@@ -18849,6 +18856,7 @@ SplineSet
  -336 -193 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" jaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_jaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia jaodia
 EndChar
@@ -18910,6 +18918,7 @@ SplineSet
  -158 -235 l 1,50,51
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" jhaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_jhaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia jhaodia
 EndChar
@@ -19049,6 +19058,7 @@ SplineSet
  -118 -290 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" ttaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_ttaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia ttaodia
 EndChar
@@ -19083,6 +19093,7 @@ SplineSet
  -117 -157 l 1,13,14
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" tthaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_tthaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia tthaodia
 EndChar
@@ -19235,6 +19246,7 @@ SplineSet
  -323 -244 l 1,43,44
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" nnaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_nnaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia nnaodia
 EndChar
@@ -19276,6 +19288,7 @@ SplineSet
  -123 -141 l 1,23,24
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" taodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_taodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia taodia
 EndChar
@@ -19331,6 +19344,7 @@ SplineSet
  12 -142 l 1,41,42
 EndSplineSet
 Validated: 37
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" thaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_thaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia thaodia
 EndChar
@@ -19380,6 +19394,7 @@ SplineSet
  -220 -270 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" daodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_daodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia daodia
 EndChar
@@ -19418,6 +19433,7 @@ SplineSet
  -337 -252 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" dhaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_dhaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia dhaodia
 EndChar
@@ -19448,6 +19464,7 @@ SplineSet
  -265 -125 l 1,0,1
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" naodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_naodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia naodia
 EndChar
@@ -19499,6 +19516,7 @@ SplineSet
  -295 -191 l 1,24,25
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" paodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_paodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia paodia
 EndChar
@@ -19569,6 +19587,7 @@ SplineSet
  -205 -191 l 1,50,51
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" phaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_phaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia phaodia
 EndChar
@@ -19603,6 +19622,7 @@ SplineSet
  -390 -20 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" baodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_baodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia baodia
 EndChar
@@ -19669,6 +19689,7 @@ SplineSet
  -200 -353 l 2,0,1
 EndSplineSet
 Validated: 33
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" bhaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_bhaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia bhaodia
 EndChar
@@ -19713,6 +19734,7 @@ SplineSet
  -348 -164 l 1,25,26
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" maodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_maodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia maodia
 EndChar
@@ -19745,6 +19767,8 @@ SplineSet
  267 0 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'pstf' Post Base Forms lookup 4-1" yaodia viramasignodia
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" yaodia viramasignodia
 Ligature2: "'pstf' Post Base Forms lookup 4-1" viramasignodia yaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia yaodia
 EndChar
@@ -19811,6 +19835,7 @@ SplineSet
  -353 -213 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" laodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_laodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia laodia
 EndChar
@@ -19852,6 +19877,7 @@ SplineSet
  68 -41 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" llaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_llaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia llaodia
 EndChar
@@ -19894,6 +19920,7 @@ SplineSet
  -390 -77 -390 -77 -390 -20 c 0,8,9
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" vaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_vaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia vaodia
 EndChar
@@ -19955,6 +19982,7 @@ SplineSet
  -331 -238 l 1,50,51
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" shaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_shaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia shaodia
 EndChar
@@ -20015,6 +20043,7 @@ SplineSet
  -159 -157 l 1,47,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" ssaodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_ssaodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia ssaodia
 EndChar
@@ -20054,6 +20083,7 @@ SplineSet
  -159 -233 l 1,16,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" saodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_saodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia saodia
 EndChar
@@ -20113,6 +20143,7 @@ SplineSet
  41 -354 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" haodia viramasignodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_haodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia haodia
 EndChar
@@ -20147,6 +20178,7 @@ SplineSet
  -390 -20 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" waodia viramasignodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia waodia
 EndChar
 
@@ -20210,6 +20242,8 @@ SplineSet
  267 0 l 1,0,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'pstf' Post Base Forms lookup 4-1" yyaodia viramasignodia
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" yyaodia viramasignodia
 Ligature2: "'pstf' Post Base Forms lookup 4-1" viramasignodia yyaodia
 EndChar
 
