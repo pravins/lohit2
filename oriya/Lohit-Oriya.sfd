@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1421750367
+ModificationTime: 1421819834
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3391,7 +3391,7 @@ Encoding: 2882 2882 56
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "oranchor-1" -296 -138 mark 0
+AnchorPoint: "oranchor-1" -310 -148 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3424,7 +3424,7 @@ StartChar: vocalicrsignodia
 Encoding: 2883 2883 57
 Width: 0
 GlyphClass: 4
-Flags: WO
+Flags: W
 AnchorPoint: "oranchor-1" -135 -44 mark 0
 LayerCount: 2
 Fore
@@ -3821,8 +3821,8 @@ SplineSet
  371 -14 l 1,13,14
 EndSplineSet
 LCarets2: 1 0 
-Ligature2: "'nukt' Nukta Forms in Oriya lookup 15-1" nuktasignodia ddaodia
 Ligature2: "'nukt' Nukta Forms lookup 5-1" ddaodia nuktasignodia
+Ligature2: "'nukt' Nukta Forms in Oriya lookup 15-1" nuktasignodia ddaodia
 EndChar
 
 StartChar: rhaodia
@@ -3900,9 +3900,8 @@ SplineSet
  443 115 443 115 471 96 c 1,88,-1
  471 96 l 1,76,77
 EndSplineSet
-LCarets2: 1 0 
-Ligature2: "'nukt' Nukta Forms in Oriya lookup 15-1" nuktasignodia ddhaodia
 Ligature2: "'nukt' Nukta Forms lookup 5-1" ddhaodia nuktasignodia
+Ligature2: "'nukt' Nukta Forms in Oriya lookup 15-1" nuktasignodia ddhaodia
 EndChar
 
 StartChar: yyaodia
@@ -7168,8 +7167,8 @@ SplineSet
  441 260 l 1,105,106
 EndSplineSet
 Validated: 517
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" jaodia_viramasignodia_jaodia viramasignodia_baodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" jaodia viramasignodia_jaodia viramasignodia_baodia
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" jaodia viramasignodia jaodia viramasignodia baodia
 EndChar
 
 StartChar: jaodia_viramasignodia_jhaodia
@@ -7460,8 +7459,8 @@ SplineSet
  303 148 l 1,82,83
 EndSplineSet
 Validated: 5
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" jaodia viramasignodia baodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" jaodia viramasignodia_baodia
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" jaodia viramasignodia_baodia
 EndChar
 
 StartChar: nyaodia_viramasignodia_caodia
@@ -8874,8 +8873,8 @@ SplineSet
  574 -171 l 1,0,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" taodia_viramasignodia_taodia viramasignodia baodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" taodia viramasignodia_taodia viramasignodia_baodia
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" taodia_viramasignodia_taodia viramasignodia_baodia
 EndChar
 
 StartChar: taodia_virm_taodia_virm_raodia
@@ -9245,8 +9244,8 @@ SplineSet
  364 61 l 1,0,1
 EndSplineSet
 Validated: 5
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" taodia viramasignodia baodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" taodia viramasignodia_baodia
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" taodia viramasignodia_baodia
 EndChar
 
 StartChar: taodia_viramasignodia_maodia
@@ -10455,6 +10454,7 @@ SplineSet
  996 0 l 1,82,-1
 EndSplineSet
 Validated: 517
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia_viramasignodia_taodia viramasignodia_yaodia
 EndChar
 
 StartChar: naodia_virm_taodia_virm_raodia
@@ -10603,6 +10603,7 @@ SplineSet
  1011 0 l 1,71,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia_virm_taodia_virm_raodia viramasignodia_yaodia
 EndChar
 
 StartChar: naodia_virm_taodia_virm_baodia
@@ -10692,8 +10693,8 @@ SplineSet
  564 133 l 1,93,94
 EndSplineSet
 Validated: 517
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia_viramasignodia_taodia viramasignodia_baodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" naodia viramasignodia_taodia viramasignodia_baodia
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia viramasignodia taodia viramasignodia baodia
 EndChar
 
 StartChar: naodia_viramasignodia_thaodia
@@ -10985,8 +10986,8 @@ SplineSet
  51 525 l 1,0,1
 EndSplineSet
 Validated: 517
-Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia viramasignodia_daodia viramasignodia_baodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" naodia viramasignodia_daodia viramasignodia_baodia
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia_viramasignodia_daodia viramasignodia_baodia
 EndChar
 
 StartChar: naodia_viramasignodia_dhaodia
@@ -11287,6 +11288,7 @@ SplineSet
  992 0 l 1,71,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia_viramasignodia_dhaodia viramasignodia_yaodia
 EndChar
 
 StartChar: naodia_viramasignodia_naodia
@@ -11433,6 +11435,7 @@ SplineSet
  996 0 l 1,70,-1
 EndSplineSet
 Validated: 5
+Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia_viramasignodia_naodia viramasignodia_yaodia
 EndChar
 
 StartChar: paodia_viramasignodia_taodia
@@ -19735,7 +19738,7 @@ SplineSet
  -390 -20 l 1,0,1
 EndSplineSet
 Validated: 5
-Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" baodia viramasignodia
+Ligature2: "'blwf' Below Base Forms in Oriya lookup 12-1" viramasignodia baodia
 Substitution2: "Single Substitution in Oriya lookup 8-1" viramasignodia_baodia
 Ligature2: "'blwf' Below Base Forms lookup 2-1" viramasignodia baodia
 EndChar
