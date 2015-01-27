@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1422346079
+ModificationTime: 1422361429
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -395,7 +395,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 32 11
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "oranchor-1"  "'blwm' Below Base Mark lookup 0-1" 
@@ -1268,6 +1268,7 @@ Encoding: 2837 2837 16
 Width: 734
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1326,7 +1327,6 @@ SplineSet
  235 133 235 133 262 133 c 1,72,-1
  262 133 l 1,59,60
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: khaodia
@@ -1576,6 +1576,7 @@ Encoding: 2842 2842 21
 Width: 705
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1619,7 +1620,6 @@ SplineSet
  306 57 306 57 352 57 c 1,53,-1
  352 57 l 1,41,42
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: chaodia
@@ -2018,6 +2018,7 @@ Encoding: 2849 2849 28
 Width: 726
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2065,7 +2066,6 @@ SplineSet
  450 -14 450 -14 367 -14 c 1,58,-1
  367 -14 l 1,0,1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: ddhaodia
@@ -2198,6 +2198,7 @@ Encoding: 2852 2852 31
 Width: 712
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2246,7 +2247,6 @@ SplineSet
  446 -14 446 -14 358 -14 c 1,62,-1
  358 -14 l 1,0,1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: thaodia
@@ -2305,6 +2305,7 @@ Encoding: 2854 2854 33
 Width: 710
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2348,7 +2349,6 @@ SplineSet
  434 0 l 1,52,-1
  434 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: dhaodia
@@ -2392,6 +2392,7 @@ Encoding: 2856 2856 35
 Width: 716
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2433,7 +2434,6 @@ SplineSet
  442 0 l 1,50,-1
  442 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: paodia
@@ -2490,6 +2490,7 @@ Encoding: 2859 2859 37
 Width: 866
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 630 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2550,7 +2551,6 @@ SplineSet
  703 542 703 542 728 542 c 1,73,-1
  728 542 l 1,61,62
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: baodia
@@ -2558,6 +2558,7 @@ Encoding: 2860 2860 38
 Width: 719
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2604,7 +2605,6 @@ SplineSet
  314 133 314 133 357 133 c 1,56,-1
  357 133 l 1,44,45
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: bhaodia
@@ -2612,6 +2612,7 @@ Encoding: 2861 2861 39
 Width: 770
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2668,7 +2669,6 @@ SplineSet
  413 -14 413 -14 335 -14 c 1,71,-1
  335 -14 l 1,0,1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: maodia
@@ -2777,8 +2777,9 @@ EndChar
 StartChar: raodia
 Encoding: 2864 2864 42
 Width: 745
-GlyphClass: 4
+GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 -0.0999985 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2824,14 +2825,14 @@ SplineSet
  288 52 288 52 333 52 c 1,55,-1
  333 52 l 1,43,44
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: laodia
 Encoding: 2866 2866 43
 Width: 783
-GlyphClass: 4
+GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 330 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2882,7 +2883,6 @@ SplineSet
  144 0 l 1,60,-1
  144 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: llaodia
@@ -2890,6 +2890,7 @@ Encoding: 2867 2867 44
 Width: 721
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 360 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2938,7 +2939,6 @@ SplineSet
  175 0 l 1,58,-1
  175 0 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: vaodia
@@ -2946,6 +2946,7 @@ Encoding: 2869 2869 45
 Width: 702
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3002,7 +3003,6 @@ SplineSet
  307 211 307 211 307 229 c 1,69,-1
  307 229 l 1,57,58
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: shaodia
@@ -3173,6 +3173,7 @@ Encoding: 2873 2873 49
 Width: 681
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 370 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3223,7 +3224,6 @@ SplineSet
  579 -26 l 1,59,-1
  579 -26 l 1,0,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: nuktasignodia
@@ -3343,7 +3343,7 @@ Encoding: 2881 2881 55
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "oranchor-1" -294 -132 mark 0
+AnchorPoint: "oranchor-1" -124 4 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3391,7 +3391,7 @@ Encoding: 2882 2882 56
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "oranchor-1" -310 -148 mark 0
+AnchorPoint: "oranchor-1" -124 4 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3425,7 +3425,7 @@ Encoding: 2883 2883 57
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "oranchor-1" -135 -44 mark 0
+AnchorPoint: "oranchor-1" -133 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3761,7 +3761,7 @@ Encoding: 2908 2908 65
 Width: 716
 GlyphClass: 2
 Flags: W
-AnchorPoint: "oranchor-1" 349 -265 basechar 0
+AnchorPoint: "oranchor-1" 523 -149 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3830,7 +3830,7 @@ Encoding: 2909 2909 66
 Width: 722
 GlyphClass: 2
 Flags: W
-AnchorPoint: "oranchor-1" 346 -280 basechar 0
+AnchorPoint: "oranchor-1" 523 -149 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3900,6 +3900,7 @@ SplineSet
  443 115 443 115 471 96 c 1,88,-1
  471 96 l 1,76,77
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "'nukt' Nukta Forms lookup 5-1" ddhaodia nuktasignodia
 Ligature2: "'nukt' Nukta Forms in Oriya lookup 15-1" nuktasignodia ddhaodia
 EndChar
