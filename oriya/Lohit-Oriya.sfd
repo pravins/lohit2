@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158849336
-ModificationTime: 1422361429
+ModificationTime: 1422369826
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2305,7 +2305,7 @@ Encoding: 2854 2854 33
 Width: 710
 GlyphClass: 2
 Flags: W
-AnchorPoint: "oranchor-1" 370 0 basechar 0
+AnchorPoint: "oranchor-1" 352 40 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10793,6 +10793,7 @@ Encoding: 65624 -1 156
 Width: 705
 GlyphClass: 2
 Flags: W
+AnchorPoint: "oranchor-1" 352 40 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10844,7 +10845,7 @@ SplineSet
  465 0 l 1,64,-1
  465 0 l 1,0,-1
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 13-1" naodia viramasignodia daodia
 Ligature2: "'pres' Pre Base Substitutions in Oriya lookup 7-1" naodia viramasignodia_daodia
 EndChar
