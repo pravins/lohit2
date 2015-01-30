@@ -67,8 +67,8 @@ MarkAttachClasses: 1
 DEI: 91125
 ContextSub2: glyph "'blwf' Below Base Forms in Telugu2 lookup 8-1"  0 0 0 1
  String: 44 viramasigntelu katelu_ssatelu_viramasigntelu
- BString: 0
- FString: 0
+ BString: 0 
+ FString: 0 
  1
   SeqLookup: 1 "Multiple Substitution Lookup 9" 
 EndFPST
@@ -398,7 +398,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 224 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor4"  "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3"  "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1"  "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0"  "'blwm' Below Base Mark in Telugu lookup 0" 
@@ -38732,6 +38732,8 @@ SplineSet
  56.7998 614.4 l 1,83,-1
 EndSplineSet
 Validated: 517
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" satelu_viramasigntelu tatelu ratelu_viramasigntelu.blwf
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu_viramasigntelu tatelu ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: satelu_isigntelu.abvs_U0C24_U0C4D.blwf_U0C30_U0C4D.blwf.blws
@@ -38955,9 +38957,11 @@ SplineSet
  681.6 -260 l 1,126,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu tatelu ratelu iisigntelu
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" satelu tatelu ratelu iisigntelu
 EndChar
 
-StartChar: ssatelu_ttatelu_viramasigntelu.blwf_U0C30_U0C4D.blwf.blws
+StartChar: ssatel_ttatel_virm_ratel_virm
 Encoding: 733 -1 477
 Width: 713
 VWidth: 819
@@ -39077,7 +39081,8 @@ SplineSet
  659.2 -277.6 l 1,131,-1
 EndSplineSet
 Validated: 549
-LCarets2: 2 0 0 
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu_viramasigntelu ttatelu ratelu_viramasigntelu.blwf
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" ssatelu_viramasigntelu ttatelu ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: ssatel_ttatel_ratel_iisigntel
@@ -39228,9 +39233,11 @@ SplineSet
  643.2 -250.4 l 1,172,-1
 EndSplineSet
 Validated: 37
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu ttatelu ratelu iisigntelu
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" ssatelu ttatelu ratelu iisigntelu
 EndChar
 
-StartChar: katelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
+StartChar: katelu_ssatelu_virm_matelu_virm
 Encoding: 735 -1 479
 Width: 963
 VWidth: 819
@@ -39346,9 +39353,10 @@ SplineSet
  540 -118.4 l 1,65,66
 EndSplineSet
 Validated: 517
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasigntelu matelu_viramasigntelu.blwf
 EndChar
 
-StartChar: katelu_isigntelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
+StartChar: katel_itel_ssatel_vir_matel_vir
 Encoding: 736 -1 480
 Width: 963
 VWidth: 819
@@ -39481,7 +39489,6 @@ SplineSet
  540 -118.4 l 1,90,91
 EndSplineSet
 Validated: 517
-LCarets2: 1 0 
 EndChar
 
 StartChar: katelu_iisigntelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
@@ -39633,7 +39640,7 @@ EndSplineSet
 Validated: 549
 EndChar
 
-StartChar: ssatelu_isigntelu.abvs_U0C1F_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: ssatel_itel_ttatel_vir_rate_vir
 Encoding: 738 -1 482
 Width: 604
 VWidth: 819
@@ -39768,6 +39775,8 @@ SplineSet
  643.2 -250.4 l 1,153,-1
 EndSplineSet
 Validated: 549
+LCarets2: 2 0 0 
+Ligature2: "'psts' Post Base Substitutions lookup 7-1" ssatelu_isigntelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: katelu_usigntelu
@@ -42755,7 +42764,9 @@ SplineSet
  128 373.6 128 373.6 128 346.4 c 1,106,-1
  128 346.4 l 1,36,37
 EndSplineSet
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" katelu usigntelu ssatelu viramasigntelu
 Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasigntelu usigntelu
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu usigntelu ssatelu viramasigntelu
 EndChar
 
 StartChar: katel_uusigntel_ssatel_viramtel
@@ -42870,6 +42881,8 @@ SplineSet
  1008.8 406.4 1008.8 406.4 1008.8 379.2 c 1,137,-1
  1008.8 379.2 l 1,125,126
 EndSplineSet
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" katelu uusigntelu ssatelu viramasigntelu
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu uusigntelu ssatelu viramasigntelu
 Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasigntelu uusigntelu
 EndChar
 
@@ -42976,6 +42989,8 @@ SplineSet
  -54.4004 -340 -54.4004 -340 -54.4004 -285.6 c 1,122,-1
  -54.4004 -285.6 l 1,105,106
 EndSplineSet
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" katelu etelu aitelu ssatelu viramasigntelu
+Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu etelu aitelu ssatelu viramasigntelu
 EndChar
 
 StartChar: glyph536
