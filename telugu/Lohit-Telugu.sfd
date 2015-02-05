@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1153280036
-ModificationTime: 1422522146
+ModificationTime: 1423044541
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,6 +50,7 @@ OS2SupYOff: 512
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
 OS2Vendor: 'MODI'
+Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 10"  {"'blws' Below Base Substitutions lookup 10-1"  } ['blws' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
 Lookup: 5 0 0 "'blwf' Below Base Forms in Telugu2 lookup 8"  {"'blwf' Below Base Forms in Telugu2 lookup 8-1"  } ['blwf' ('tel2' <'dflt' > ) ]
 Lookup: 2 0 0 "Multiple Substitution Lookup 9"  {"Multiple Substitution Lookup 9-1"  } []
 Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 7"  {"'psts' Post Base Substitutions lookup 7-1"  } ['psts' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
@@ -398,7 +399,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 224 32 11
+WinInfo: 192 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor4"  "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3"  "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1"  "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0"  "'blwm' Below Base Mark in Telugu lookup 0" 
@@ -38390,6 +38391,7 @@ SplineSet
  -197.6 -130.4 l 1,33,34
 EndSplineSet
 Validated: 517
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" tatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: glyph473
@@ -38642,6 +38644,7 @@ SplineSet
  280 520.8 l 1,107,108
 EndSplineSet
 Validated: 549
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" shatelu_iisigntelu ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: satel_tatel_virmtel_U0C30_U0C4D
@@ -38732,15 +38735,14 @@ SplineSet
  56.7998 614.4 l 1,83,-1
 EndSplineSet
 Validated: 517
-Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" satelu_viramasigntelu tatelu ratelu_viramasigntelu.blwf
-Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu_viramasigntelu tatelu ratelu_viramasigntelu.blwf
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu tatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 EndChar
 
-StartChar: satelu_isigntelu.abvs_U0C24_U0C4D.blwf_U0C30_U0C4D.blwf.blws
+StartChar: satel_itel_tatel_vir_ratel_vir
 Encoding: 731 -1 475
 Width: 716
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
@@ -38839,13 +38841,14 @@ SplineSet
  410.4 65.5996 l 1,83,84
 EndSplineSet
 Validated: 517
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu_isigntelu tatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: satel_tatel_ratel_iisigntel
 Encoding: 732 -1 476
 Width: 716
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
@@ -38957,15 +38960,16 @@ SplineSet
  681.6 -260 l 1,126,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu tatelu ratelu iisigntelu
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu_iisigntelu tatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" satelu tatelu ratelu iisigntelu
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu tatelu ratelu iisigntelu
 EndChar
 
 StartChar: ssatel_ttatel_virm_ratel_virm
 Encoding: 733 -1 477
 Width: 713
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
@@ -39081,15 +39085,16 @@ SplineSet
  659.2 -277.6 l 1,131,-1
 EndSplineSet
 Validated: 549
-Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu_viramasigntelu ttatelu ratelu_viramasigntelu.blwf
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" ssatelu_viramasigntelu ttatelu ratelu_viramasigntelu.blwf
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu_viramasigntelu ttatelu ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: ssatel_ttatel_ratel_iisigntel
 Encoding: 734 -1 478
 Width: 704
 VWidth: 819
-GlyphClass: 2
+GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
@@ -39233,8 +39238,9 @@ SplineSet
  643.2 -250.4 l 1,172,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu ttatelu ratelu iisigntelu
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu iisigntelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" ssatelu ttatelu ratelu iisigntelu
+Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu ttatelu ratelu iisigntelu
 EndChar
 
 StartChar: katelu_ssatelu_virm_matelu_virm
