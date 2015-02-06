@@ -39238,9 +39238,7 @@ SplineSet
  643.2 -250.4 l 1,172,-1
 EndSplineSet
 Validated: 37
-Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu iisigntelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
-Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" ssatelu ttatelu ratelu iisigntelu
-Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu ttatelu ratelu iisigntelu
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu_iisigntelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: katelu_ssatelu_virm_matelu_virm
@@ -39781,8 +39779,7 @@ SplineSet
  643.2 -250.4 l 1,153,-1
 EndSplineSet
 Validated: 549
-LCarets2: 2 0 0 
-Ligature2: "'psts' Post Base Substitutions lookup 7-1" ssatelu_isigntelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
+Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu_isigntelu ttatelu_viramasigntelu.blwf ratelu_viramasigntelu.blwf
 EndChar
 
 StartChar: katelu_usigntelu
