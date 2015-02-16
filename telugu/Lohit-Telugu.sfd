@@ -10,16 +10,17 @@ UnderlinePosition: -300
 UnderlineWidth: 20
 Ascent: 690
 Descent: 334
+InvalidEm: 0
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
 XUID: [1021 648 100124046 8549501]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1153280036
-ModificationTime: 1423044541
+ModificationTime: 1424066710
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -49,29 +50,31 @@ OS2SupXOff: 0
 OS2SupYOff: 512
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
+OS2CapHeight: 0
+OS2XHeight: 0
 OS2Vendor: 'MODI'
-Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 10"  {"'blws' Below Base Substitutions lookup 10-1"  } ['blws' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
-Lookup: 5 0 0 "'blwf' Below Base Forms in Telugu2 lookup 8"  {"'blwf' Below Base Forms in Telugu2 lookup 8-1"  } ['blwf' ('tel2' <'dflt' > ) ]
-Lookup: 2 0 0 "Multiple Substitution Lookup 9"  {"Multiple Substitution Lookup 9-1"  } []
-Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 7"  {"'psts' Post Base Substitutions lookup 7-1"  } ['psts' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' Half Forms in Telugu lookup 7"  {"'half' Half Forms in Telugu lookup 7-1"  } ['half' ('telu' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Telugu2 lookup 5"  {"'blwf' Below Base Forms in Telugu2 lookup 5-1"  } ['blwf' ('tel2' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Telugu lookup 4"  {"'blwf' Below Base Forms in Telugu lookup 4-1"  } ['blwf' ('telu' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Telugu2 lookup 3"  {"'akhn' Akhand in Telugu2 lookup 3-1"  } ['akhn' ('tel2' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Telugu lookup 2"  {"'akhn' Akhand in Telugu lookup 2-1"  } ['akhn' ('telu' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms lookup 1"  {"'haln' Halant Forms lookup 1-1"  } ['haln' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
-Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 0"  {"'abvs' Above Base Substitutions lookup 0-1"  } ['abvs' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Telugu lookup 1"  {"'kern' Horizontal Kerning in Telugu lookup 1-1" [153,15,2] } ['kern' ('telu' <'dflt' > ) ]
-Lookup: 260 0 0 "'blwm' Below Base Mark in Telugu lookup 0"  {"'blwm' Below Base Mark in Telugu lookup 0-2"  "'blwm' Below Base Mark in Telugu lookup 0-1"  "'blwm' Below Base Mark in Telugu lookup 0"  } ['blwm' ('telu' <'dflt' > ) ]
-Lookup: 262 0 0 "'blwm' Below Base Mark in Telugu lookup 2"  {"'blwm' Below Base Mark in Telugu lookup 2-1"  } ['blwm' ('DFLT' <'dflt' > 'telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 10" { "'blws' Below Base Substitutions lookup 10-1"  } ['blws' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
+Lookup: 5 0 0 "'blwf' Below Base Forms in Telugu2 lookup 8" { "'blwf' Below Base Forms in Telugu2 lookup 8-1"  } ['blwf' ('tel2' <'dflt' > ) ]
+Lookup: 2 0 0 "Multiple Substitution Lookup 9" { "Multiple Substitution Lookup 9-1"  } []
+Lookup: 4 0 0 "'psts' Post Base Substitutions lookup 7" { "'psts' Post Base Substitutions lookup 7-1"  } ['psts' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'half' Half Forms in Telugu lookup 7" { "'half' Half Forms in Telugu lookup 7-1"  } ['half' ('telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Telugu2 lookup 5" { "'blwf' Below Base Forms in Telugu2 lookup 5-1"  } ['blwf' ('tel2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Telugu lookup 4" { "'blwf' Below Base Forms in Telugu lookup 4-1"  } ['blwf' ('telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand in Telugu2 lookup 3" { "'akhn' Akhand in Telugu2 lookup 3-1"  } ['akhn' ('tel2' <'dflt' > ) ]
+Lookup: 4 0 0 "'akhn' Akhand in Telugu lookup 2" { "'akhn' Akhand in Telugu lookup 2-1"  } ['akhn' ('telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'haln' Halant Forms lookup 1" { "'haln' Halant Forms lookup 1-1"  } ['haln' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
+Lookup: 4 0 0 "'abvs' Above Base Substitutions lookup 0" { "'abvs' Above Base Substitutions lookup 0-1"  } ['abvs' ('tel2' <'dflt' > 'telu' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Telugu lookup 1" { "'kern' Horizontal Kerning in Telugu lookup 1-1" [153,15,2] } ['kern' ('telu' <'dflt' > ) ]
+Lookup: 260 0 0 "'blwm' Below Base Mark in Telugu lookup 0" { "'blwm' Below Base Mark in Telugu lookup 0-2"  "'blwm' Below Base Mark in Telugu lookup 0-1"  "'blwm' Below Base Mark in Telugu lookup 0"  } ['blwm' ('telu' <'dflt' > ) ]
+Lookup: 262 0 0 "'blwm' Below Base Mark in Telugu lookup 2" { "'blwm' Below Base Mark in Telugu lookup 2-1"  } ['blwm' ('DFLT' <'dflt' > 'telu' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ContextSub2: glyph "'blwf' Below Base Forms in Telugu2 lookup 8-1"  0 0 0 1
+ContextSub2: glyph "'blwf' Below Base Forms in Telugu2 lookup 8-1" 0 0 0 1
  String: 44 viramasigntelu katelu_ssatelu_viramasigntelu
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 1 "Multiple Substitution Lookup 9" 
+  SeqLookup: 1 "Multiple Substitution Lookup 9"
 EndFPST
 TtTable: prep
 NPUSHB
@@ -390,7 +393,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3" 
+LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 Compacted: 1
@@ -399,11 +402,11 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 192 32 11
+WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "Anchor4"  "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3"  "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1"  "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0"  "'blwm' Below Base Mark in Telugu lookup 0" 
-BeginChars: 824 568
+AnchorClass2: "Anchor4" "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3" "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1" "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0" "'blwm' Below Base Mark in Telugu lookup 0" 
+BeginChars: 824 566
 
 StartChar: batelu_usigntelu
 Encoding: 256 -1 0
@@ -413,6 +416,7 @@ GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 307.04 15.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 441.6 65.5996 m 0,0,1
@@ -478,40 +482,25 @@ EndSplineSet
 Ligature2: "'psts' Post Base Substitutions lookup 7-1" bhatelu usigntelu
 EndChar
 
-StartChar: .null
-Encoding: 257 0 1
-Width: 0
-VWidth: 819
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
-
-StartChar: nonmarkingreturn
-Encoding: 258 12 2
-Width: 0
-VWidth: 819
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: space
-Encoding: 259 32 3
+Encoding: 259 32 1
 Width: 300
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
+Fore
 EndChar
 
 StartChar: candrabindutelu
-Encoding: 260 3073 4
+Encoding: 260 3073 2
 Width: 355
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 314.4 95.2002 m 1,0,-1
@@ -539,12 +528,13 @@ Validated: 37
 EndChar
 
 StartChar: anusvaratelu
-Encoding: 261 3074 5
+Encoding: 261 3074 3
 Width: 540
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 33.5996 235.2 m 1,0,1
@@ -572,12 +562,13 @@ Validated: 5
 EndChar
 
 StartChar: visargatelu
-Encoding: 262 3075 6
+Encoding: 262 3075 4
 Width: 293
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 42.4004 365.6 m 1,0,1
@@ -625,12 +616,13 @@ Validated: 5
 EndChar
 
 StartChar: atelu
-Encoding: 263 3077 7
+Encoding: 263 3077 5
 Width: 677
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 141.6 365.6 m 1,0,1
@@ -687,12 +679,13 @@ Validated: 5
 EndChar
 
 StartChar: aatelu
-Encoding: 264 3078 8
+Encoding: 264 3078 6
 Width: 727
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 140 365.6 m 1,0,1
@@ -759,12 +752,13 @@ Validated: 5
 EndChar
 
 StartChar: itelu
-Encoding: 265 3079 9
+Encoding: 265 3079 7
 Width: 623
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 184.8 118.4 m 1,0,1
@@ -823,12 +817,13 @@ Validated: 5
 EndChar
 
 StartChar: iitelu
-Encoding: 266 3080 10
+Encoding: 266 3080 8
 Width: 1068
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 845.6 156 m 1,0,1
@@ -911,12 +906,13 @@ Validated: 37
 EndChar
 
 StartChar: utelu
-Encoding: 267 3081 11
+Encoding: 267 3081 9
 Width: 654
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 466.4 104.8 m 1,0,1
@@ -976,12 +972,13 @@ Validated: 5
 EndChar
 
 StartChar: uutelu
-Encoding: 268 3082 12
+Encoding: 268 3082 10
 Width: 1016
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 33.5996 196 m 1,0,1
@@ -1083,12 +1080,13 @@ Validated: 5
 EndChar
 
 StartChar: vocalicrtelu
-Encoding: 269 3083 13
+Encoding: 269 3083 11
 Width: 1399
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 441.6 65.5996 m 1,0,1
@@ -1168,12 +1166,13 @@ Validated: 5
 EndChar
 
 StartChar: vocalicltelu
-Encoding: 270 3084 14
+Encoding: 270 3084 12
 Width: 795
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 23.2002 332 m 1,0,1
@@ -1227,12 +1226,13 @@ Validated: 5
 EndChar
 
 StartChar: etelu
-Encoding: 271 3086 15
+Encoding: 271 3086 13
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -1274,12 +1274,13 @@ Validated: 5
 EndChar
 
 StartChar: eetelu
-Encoding: 272 3087 16
+Encoding: 272 3087 14
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -1329,12 +1330,13 @@ Validated: 37
 EndChar
 
 StartChar: aitelu
-Encoding: 273 3088 17
+Encoding: 273 3088 15
 Width: 676
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 101.6 120.8 m 1,0,1
@@ -1390,12 +1392,13 @@ Validated: 5
 EndChar
 
 StartChar: otelu
-Encoding: 274 3090 18
+Encoding: 274 3090 16
 Width: 614
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 42.4004 144 m 1,0,1
@@ -1449,12 +1452,13 @@ Validated: 5
 EndChar
 
 StartChar: ootelu
-Encoding: 275 3091 19
+Encoding: 275 3091 17
 Width: 616
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -1522,12 +1526,13 @@ Validated: 5
 EndChar
 
 StartChar: autelu
-Encoding: 276 3092 20
+Encoding: 276 3092 18
 Width: 734
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 40.7998 144 m 1,0,1
@@ -1619,13 +1624,14 @@ Validated: 5
 EndChar
 
 StartChar: katelu
-Encoding: 277 3093 21
+Encoding: 277 3093 19
 Width: 512
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 267 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -1670,13 +1676,14 @@ EndSplineSet
 EndChar
 
 StartChar: khatelu
-Encoding: 278 3094 22
+Encoding: 278 3094 20
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 124 365.6 m 1,0,1
@@ -1751,13 +1758,14 @@ EndSplineSet
 EndChar
 
 StartChar: gatelu
-Encoding: 279 3095 23
+Encoding: 279 3095 21
 Width: 519
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -1786,12 +1794,13 @@ EndSplineSet
 EndChar
 
 StartChar: ghatelu
-Encoding: 280 3096 24
+Encoding: 280 3096 22
 Width: 896
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -1869,12 +1878,13 @@ Validated: 5
 EndChar
 
 StartChar: ngatelu
-Encoding: 281 3097 25
+Encoding: 281 3097 23
 Width: 618
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -1935,12 +1945,13 @@ Validated: 5
 EndChar
 
 StartChar: catelu
-Encoding: 282 3098 26
+Encoding: 282 3098 24
 Width: 640
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -1994,12 +2005,13 @@ Validated: 5
 EndChar
 
 StartChar: chatelu
-Encoding: 283 3099 27
+Encoding: 283 3099 25
 Width: 641
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -2060,13 +2072,14 @@ Validated: 5
 EndChar
 
 StartChar: jatelu
-Encoding: 284 3100 28
+Encoding: 284 3100 26
 Width: 651
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 334.9 32.36 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -2137,12 +2150,13 @@ EndSplineSet
 EndChar
 
 StartChar: jhatelu
-Encoding: 285 3101 29
+Encoding: 285 3101 27
 Width: 1183
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 235.2 m 1,0,1
@@ -2214,13 +2228,14 @@ EndSplineSet
 EndChar
 
 StartChar: nyatelu
-Encoding: 286 3102 30
+Encoding: 286 3102 28
 Width: 808
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -2287,12 +2302,13 @@ EndSplineSet
 EndChar
 
 StartChar: ttatelu
-Encoding: 287 3103 31
+Encoding: 287 3103 29
 Width: 744
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -2347,13 +2363,14 @@ Validated: 5
 EndChar
 
 StartChar: tthatelu
-Encoding: 288 3104 32
+Encoding: 288 3104 30
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 267 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -2396,12 +2413,13 @@ EndSplineSet
 EndChar
 
 StartChar: ddatelu
-Encoding: 289 3105 33
+Encoding: 289 3105 31
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -2464,12 +2482,13 @@ Validated: 5
 EndChar
 
 StartChar: ddhatelu
-Encoding: 290 3106 34
+Encoding: 290 3106 32
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -2538,12 +2557,13 @@ Validated: 5
 EndChar
 
 StartChar: nnatelu
-Encoding: 291 3107 35
+Encoding: 291 3107 33
 Width: 761
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -2611,7 +2631,7 @@ Validated: 5
 EndChar
 
 StartChar: tatelu
-Encoding: 292 3108 36
+Encoding: 292 3108 34
 Width: 654
 VWidth: 819
 GlyphClass: 2
@@ -2619,6 +2639,7 @@ Flags: W
 AnchorPoint: "Anchor-1" 335.04 11.5998 basechar 0
 AnchorPoint: "Anchor-0" 321.6 -30.4004 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -2686,12 +2707,13 @@ EndSplineSet
 EndChar
 
 StartChar: thatelu
-Encoding: 293 3109 37
+Encoding: 293 3109 35
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -2751,12 +2773,13 @@ Validated: 5
 EndChar
 
 StartChar: datelu
-Encoding: 294 3110 38
+Encoding: 294 3110 36
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -2804,12 +2827,13 @@ Validated: 5
 EndChar
 
 StartChar: dhatelu
-Encoding: 295 3111 39
+Encoding: 295 3111 37
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -2863,12 +2887,13 @@ Validated: 5
 EndChar
 
 StartChar: natelu
-Encoding: 296 3112 40
+Encoding: 296 3112 38
 Width: 606
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -2914,13 +2939,14 @@ Validated: 5
 EndChar
 
 StartChar: patelu
-Encoding: 297 3114 41
+Encoding: 297 3114 39
 Width: 572
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 286 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -2975,12 +3001,13 @@ EndSplineSet
 EndChar
 
 StartChar: phatelu
-Encoding: 298 3115 42
+Encoding: 298 3115 40
 Width: 577
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -3042,12 +3069,13 @@ Validated: 5
 EndChar
 
 StartChar: batelu
-Encoding: 299 3116 43
+Encoding: 299 3116 41
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 441.6 65.5996 m 1,0,1
@@ -3101,12 +3129,13 @@ Validated: 5
 EndChar
 
 StartChar: bhatelu
-Encoding: 300 3117 44
+Encoding: 300 3117 42
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -3175,12 +3204,13 @@ Validated: 5
 EndChar
 
 StartChar: matelu
-Encoding: 301 3118 45
+Encoding: 301 3118 43
 Width: 956
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -3246,13 +3276,14 @@ Validated: 5
 EndChar
 
 StartChar: yatelu
-Encoding: 302 3119 46
+Encoding: 302 3119 44
 Width: 1233
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-0" 626.4 -35.5996 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -3318,13 +3349,14 @@ EndSplineSet
 EndChar
 
 StartChar: ratelu
-Encoding: 303 3120 47
+Encoding: 303 3120 45
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 270 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -3361,12 +3393,13 @@ EndSplineSet
 EndChar
 
 StartChar: rratelu
-Encoding: 304 3121 48
+Encoding: 304 3121 46
 Width: 756
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -3433,13 +3466,14 @@ Validated: 37
 EndChar
 
 StartChar: latelu
-Encoding: 305 3122 49
+Encoding: 305 3122 47
 Width: 594
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-0" 300 -12 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 153.6 365.6 m 1,0,1
@@ -3483,13 +3517,14 @@ Validated: 5
 EndChar
 
 StartChar: llatelu
-Encoding: 306 3123 50
+Encoding: 306 3123 48
 Width: 561
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -3558,7 +3593,7 @@ EndSplineSet
 EndChar
 
 StartChar: vatelu
-Encoding: 307 3125 51
+Encoding: 307 3125 49
 Width: 576
 VWidth: 819
 GlyphClass: 2
@@ -3566,6 +3601,7 @@ Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 AnchorPoint: "Anchor-0" 280 -2.40039 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -3616,13 +3652,14 @@ EndSplineSet
 EndChar
 
 StartChar: shatelu
-Encoding: 308 3126 52
+Encoding: 308 3126 50
 Width: 500
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 243 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -3683,12 +3720,13 @@ EndSplineSet
 EndChar
 
 StartChar: ssatelu
-Encoding: 309 3127 53
+Encoding: 309 3127 51
 Width: 600
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -3751,13 +3789,14 @@ Validated: 37
 EndChar
 
 StartChar: satelu
-Encoding: 310 3128 54
+Encoding: 310 3128 52
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 380.8 65.5996 m 1,0,1
@@ -3806,12 +3845,13 @@ EndSplineSet
 EndChar
 
 StartChar: hatelu
-Encoding: 311 3129 55
+Encoding: 311 3129 53
 Width: 882
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -3891,12 +3931,13 @@ Validated: 5
 EndChar
 
 StartChar: aasigntelu
-Encoding: 312 3134 56
+Encoding: 312 3134 54
 Width: 601
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 366.4 369.6 m 5,0,1
@@ -3929,12 +3970,13 @@ Validated: 5
 EndChar
 
 StartChar: isigntelu
-Encoding: 313 3135 57
+Encoding: 313 3135 55
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -101.6 520.8 m 1,0,1
@@ -3972,12 +4014,13 @@ Validated: 5
 EndChar
 
 StartChar: iisigntelu
-Encoding: 314 3136 58
+Encoding: 314 3136 56
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -108.8 528 m 1,0,1
@@ -4029,13 +4072,14 @@ Validated: 37
 EndChar
 
 StartChar: usigntelu
-Encoding: 315 3137 59
+Encoding: 315 3137 57
 Width: 368
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-3" -261 -23 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -69.5996 141.6 m 5,0,-1
@@ -4058,12 +4102,13 @@ EndSplineSet
 EndChar
 
 StartChar: uusigntelu
-Encoding: 316 3138 60
+Encoding: 316 3138 58
 Width: 724
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 519.4 379.2 m 1,0,1
@@ -4108,12 +4153,13 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicrsigntelu
-Encoding: 317 3139 61
+Encoding: 317 3139 59
 Width: 380
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -47.4004 -217.6 m 1,12,-1
@@ -4150,12 +4196,13 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicrrsigntelu
-Encoding: 318 3140 62
+Encoding: 318 3140 60
 Width: 612
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 408 260.8 m 1,12,-1
@@ -4216,12 +4263,13 @@ Validated: 5
 EndChar
 
 StartChar: esigntelu
-Encoding: 319 3142 63
+Encoding: 319 3142 61
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -334.4 659.2 m 1,0,-1
@@ -4245,12 +4293,13 @@ Validated: 5
 EndChar
 
 StartChar: eesigntelu
-Encoding: 320 3143 64
+Encoding: 320 3143 62
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -334.4 656.8 m 1,0,-1
@@ -4289,12 +4338,13 @@ Validated: 5
 EndChar
 
 StartChar: aisigntelu
-Encoding: 321 3144 65
+Encoding: 321 3144 63
 Width: 734
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 172.8 659.2 m 1,0,-1
@@ -4343,12 +4393,13 @@ Validated: 5
 EndChar
 
 StartChar: osigntelu
-Encoding: 322 3146 66
+Encoding: 322 3146 64
 Width: 580
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 345.6 561.6 m 1,0,1
@@ -4401,12 +4452,13 @@ Validated: 5
 EndChar
 
 StartChar: oosigntelu
-Encoding: 323 3147 67
+Encoding: 323 3147 65
 Width: 577
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 342.4 561.6 m 1,0,1
@@ -4473,12 +4525,13 @@ Validated: 37
 EndChar
 
 StartChar: ausigntelu
-Encoding: 324 3148 68
+Encoding: 324 3148 66
 Width: 614
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -192 656.8 m 1,0,-1
@@ -4525,12 +4578,13 @@ Validated: 5
 EndChar
 
 StartChar: viramasigntelu
-Encoding: 325 3149 69
+Encoding: 325 3149 67
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 235.2 444.8 m 1,0,-1
@@ -4566,12 +4620,13 @@ Validated: 5
 EndChar
 
 StartChar: lengthmarktelu
-Encoding: 326 3157 70
+Encoding: 326 3157 68
 Width: 387
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 114.4 473.6 m 1,0,1
@@ -4595,13 +4650,14 @@ Validated: 5
 EndChar
 
 StartChar: ailengthmarktelu
-Encoding: 327 3158 71
+Encoding: 327 3158 69
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -257 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -493.6 -163.2 m 1,0,1
@@ -4633,12 +4689,13 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicrrtelu
-Encoding: 328 3168 72
+Encoding: 328 3168 70
 Width: 1747
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 441.6 65.5996 m 1,0,1
@@ -4742,12 +4799,13 @@ Validated: 5
 EndChar
 
 StartChar: vocaliclltelu
-Encoding: 329 3169 73
+Encoding: 329 3169 71
 Width: 1160
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 954.4 342.4 m 5,0,1
@@ -4825,12 +4883,13 @@ Validated: 5
 EndChar
 
 StartChar: zerotelu
-Encoding: 330 3174 74
+Encoding: 330 3174 72
 Width: 738
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 368.8 -19.2002 m 1,0,1
@@ -4858,12 +4917,13 @@ Validated: 5
 EndChar
 
 StartChar: onetelu
-Encoding: 331 3175 75
+Encoding: 331 3175 73
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 239.2 -16 m 1,0,1
@@ -4891,12 +4951,13 @@ Validated: 1
 EndChar
 
 StartChar: twotelu
-Encoding: 332 3176 76
+Encoding: 332 3176 74
 Width: 738
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 72 -5.59961 m 1,0,-1
@@ -4935,12 +4996,13 @@ Validated: 5
 EndChar
 
 StartChar: threetelu
-Encoding: 333 3177 77
+Encoding: 333 3177 75
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 375.2 -32.7998 m 1,0,1
@@ -4980,12 +5042,13 @@ Validated: 5
 EndChar
 
 StartChar: fourtelu
-Encoding: 334 3178 78
+Encoding: 334 3178 76
 Width: 738
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 376.8 -32.7998 m 1,0,1
@@ -5031,12 +5094,13 @@ Validated: 5
 EndChar
 
 StartChar: fivetelu
-Encoding: 335 3179 79
+Encoding: 335 3179 77
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 60 -19.2002 m 1,0,-1
@@ -5088,12 +5152,13 @@ Validated: 5
 EndChar
 
 StartChar: sixtelu
-Encoding: 336 3180 80
+Encoding: 336 3180 78
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 264.8 -12 m 1,0,1
@@ -5129,12 +5194,13 @@ Validated: 5
 EndChar
 
 StartChar: seventelu
-Encoding: 337 3181 81
+Encoding: 337 3181 79
 Width: 738
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 353.6 -19.2002 m 1,0,1
@@ -5170,12 +5236,13 @@ Validated: 5
 EndChar
 
 StartChar: eighttelu
-Encoding: 338 3182 82
+Encoding: 338 3182 80
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 344 -25.5996 m 1,0,1
@@ -5208,12 +5275,13 @@ Validated: 5
 EndChar
 
 StartChar: ninetelu
-Encoding: 339 3183 83
+Encoding: 339 3183 81
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 247.2 -25.5996 m 1,0,1
@@ -5249,12 +5317,13 @@ Validated: 5
 EndChar
 
 StartChar: afii61664
-Encoding: 340 8204 84
+Encoding: 340 8204 82
 Width: 0
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 0 -414.4 m 1,0,-1
@@ -5268,12 +5337,13 @@ Validated: 5
 EndChar
 
 StartChar: afii301
-Encoding: 341 8205 85
+Encoding: 341 8205 83
 Width: 0
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 0 -414.4 m 1,0,-1
@@ -5289,12 +5359,13 @@ Validated: 5
 EndChar
 
 StartChar: quotedcircle
-Encoding: 342 9676 86
+Encoding: 342 9676 84
 Width: 870
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 386.4 576.8 m 1,0,1
@@ -5422,13 +5493,14 @@ Validated: 5
 EndChar
 
 StartChar: khatelu_usigntelu
-Encoding: 343 -1 87
+Encoding: 343 -1 85
 Width: 989
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 0 m 0,0,1
@@ -5516,13 +5588,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" khatelu usigntelu
 EndChar
 
 StartChar: gatelu_usigntelu
-Encoding: 344 -1 88
+Encoding: 344 -1 86
 Width: 874
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -5565,13 +5638,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" gatelu usigntelu
 EndChar
 
 StartChar: ngatelu_usigntelu
-Encoding: 345 -1 89
+Encoding: 345 -1 87
 Width: 990
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 314.04 15.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 0,0,1
@@ -5642,13 +5716,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ngatelu usigntelu
 EndChar
 
 StartChar: catelu_usigntelu
-Encoding: 346 -1 90
+Encoding: 346 -1 88
 Width: 1022
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 328.04 13.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 609.8 221.2 m 24,0,1
@@ -5715,13 +5790,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" catelu usigntelu
 EndChar
 
 StartChar: chatelu_usigntelu
-Encoding: 347 -1 91
+Encoding: 347 -1 89
 Width: 1022
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 -53.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 606 224 m 17,0,1
@@ -5795,13 +5871,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" chatelu usigntelu
 EndChar
 
 StartChar: ttatelu_usigntelu
-Encoding: 348 -1 92
+Encoding: 348 -1 90
 Width: 1119
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 370.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 515.2 0 m 0,0,1
@@ -5868,13 +5945,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ttatelu usigntelu
 EndChar
 
 StartChar: tthatelu_usigntelu
-Encoding: 349 -1 93
+Encoding: 349 -1 91
 Width: 910
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 267 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 231.2 196 m 1,0,-1
@@ -5929,13 +6007,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" tthatelu usigntelu
 EndChar
 
 StartChar: nnatelu_usigntelu
-Encoding: 350 -1 94
+Encoding: 350 -1 92
 Width: 1139
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 374.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 346.4 m 0,0,1
@@ -6014,7 +6093,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" nnatelu usigntelu
 EndChar
 
 StartChar: tatelu_usigntelu
-Encoding: 351 -1 95
+Encoding: 351 -1 93
 Width: 1017
 VWidth: 819
 GlyphClass: 2
@@ -6022,6 +6101,7 @@ Flags: W
 AnchorPoint: "Anchor-1" 335.04 11.5998 basechar 0
 AnchorPoint: "Anchor-0" 321.6 -30.4004 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 179.2 582.4 m 1,0,-1
@@ -6101,13 +6181,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" tatelu usigntelu
 EndChar
 
 StartChar: thatelu_usigntelu
-Encoding: 352 -1 96
+Encoding: 352 -1 94
 Width: 1023
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 -20.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 284 248.8 m 1,0,-1
@@ -6177,13 +6258,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" thatelu usigntelu
 EndChar
 
 StartChar: datelu_usigntelu
-Encoding: 353 -1 97
+Encoding: 353 -1 95
 Width: 1023
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 320.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 35.2002 196 m 0,0,1
@@ -6242,13 +6324,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" datelu usigntelu
 EndChar
 
 StartChar: dhatelu_usigntelu
-Encoding: 354 -1 98
+Encoding: 354 -1 96
 Width: 1023
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 -20.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 35.2002 196 m 0,0,1
@@ -6313,13 +6396,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" dhatelu usigntelu
 EndChar
 
 StartChar: natelu_usigntelu
-Encoding: 355 -1 99
+Encoding: 355 -1 97
 Width: 983
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 0,0,1
@@ -6378,13 +6462,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" natelu usigntelu
 EndChar
 
 StartChar: katelu_aasigntelu
-Encoding: 356 -1 100
+Encoding: 356 -1 98
 Width: 800
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 261.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 124 353.6 m 1,0,1
@@ -6444,13 +6529,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu aasigntelu
 EndChar
 
 StartChar: khatelu_aasigntelu
-Encoding: 357 -1 101
+Encoding: 357 -1 99
 Width: 967
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -6548,13 +6634,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu aasigntelu
 EndChar
 
 StartChar: gatelu_aasigntelu
-Encoding: 358 -1 102
+Encoding: 358 -1 100
 Width: 843
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 269.04 5.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 40.7998 0 m 1,0,1
@@ -6598,12 +6685,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu aasigntelu
 EndChar
 
 StartChar: ghatelu_aasigntelu
-Encoding: 359 -1 103
+Encoding: 359 -1 101
 Width: 1312
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -6705,13 +6793,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu aasigntelu
 EndChar
 
 StartChar: ngatelu_aasigntelu
-Encoding: 360 -1 104
+Encoding: 360 -1 102
 Width: 930
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 319.04 15.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -6795,13 +6884,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu aasigntelu
 EndChar
 
 StartChar: catelu_aasigntelu
-Encoding: 361 -1 105
+Encoding: 361 -1 103
 Width: 936
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 331.04 28.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -6868,13 +6958,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu aasigntelu
 EndChar
 
 StartChar: chatelu_aasigntelu
-Encoding: 362 -1 106
+Encoding: 362 -1 104
 Width: 950
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 329.04 -22.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 429.6 0 m 1,0,1
@@ -6948,13 +7039,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu aasigntelu
 EndChar
 
 StartChar: jatelu_aasigntelu
-Encoding: 363 -1 107
+Encoding: 363 -1 105
 Width: 931
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 319.04 15.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -7045,12 +7137,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu aasigntelu
 EndChar
 
 StartChar: jhatelu_aasigntelu
-Encoding: 364 -1 108
+Encoding: 364 -1 106
 Width: 1643
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -7149,13 +7242,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu aasigntelu
 EndChar
 
 StartChar: nyatelu_aasigntelu
-Encoding: 365 -1 109
+Encoding: 365 -1 107
 Width: 1140
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 319.04 -37.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -7246,13 +7340,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu aasigntelu
 EndChar
 
 StartChar: ttatelu_aasigntelu
-Encoding: 366 -1 110
+Encoding: 366 -1 108
 Width: 1024
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 373.04 17.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -7330,13 +7425,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu aasigntelu
 EndChar
 
 StartChar: tthatelu_aasigntelu
-Encoding: 367 -1 111
+Encoding: 367 -1 109
 Width: 886
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 285.04 30.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 103.2 242.4 m 1,0,1
@@ -7394,13 +7490,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu aasigntelu
 EndChar
 
 StartChar: ddatelu_aasigntelu
-Encoding: 368 -1 112
+Encoding: 368 -1 110
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 339.04 17.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 470.4 156 m 1,0,1
@@ -7476,13 +7573,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu aasigntelu
 EndChar
 
 StartChar: ddhatelu_aasigntelu
-Encoding: 369 -1 113
+Encoding: 369 -1 111
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 329.04 -32.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 470.4 156 m 1,0,1
@@ -7564,13 +7662,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu aasigntelu
 EndChar
 
 StartChar: nnatelu_aasigntelu
-Encoding: 370 -1 114
+Encoding: 370 -1 112
 Width: 1018
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 384.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -7661,13 +7760,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu aasigntelu
 EndChar
 
 StartChar: tatelu_aasigntelu
-Encoding: 371 -1 115
+Encoding: 371 -1 113
 Width: 944
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 32.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 300.8 m 1,0,1
@@ -7750,13 +7850,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu aasigntelu
 EndChar
 
 StartChar: thatelu_aasigntelu
-Encoding: 372 -1 116
+Encoding: 372 -1 114
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 103.2 196 m 1,0,1
@@ -7830,13 +7931,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu aasigntelu
 EndChar
 
 StartChar: datelu_aasigntelu
-Encoding: 373 -1 117
+Encoding: 373 -1 115
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 322.04 15.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 103.2 196 m 1,0,1
@@ -7898,13 +8000,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu aasigntelu
 EndChar
 
 StartChar: dhatelu_aasigntelu
-Encoding: 374 -1 118
+Encoding: 374 -1 116
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 103.2 196 m 1,0,1
@@ -7972,13 +8075,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu aasigntelu
 EndChar
 
 StartChar: natelu_aasigntelu
-Encoding: 375 -1 119
+Encoding: 375 -1 117
 Width: 942
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 398.4 65.5996 m 1,0,1
@@ -8037,13 +8141,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu aasigntelu
 EndChar
 
 StartChar: patelu_aasigntelu
-Encoding: 376 -1 120
+Encoding: 376 -1 118
 Width: 907
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 80 118.4 m 1,0,1
@@ -8114,13 +8219,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu aasigntelu
 EndChar
 
 StartChar: phatelu_aasigntelu
-Encoding: 377 -1 121
+Encoding: 377 -1 119
 Width: 895
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 285.04 -5.60022 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 81.5996 118.4 m 1,0,1
@@ -8197,13 +8303,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu aasigntelu
 EndChar
 
 StartChar: batelu_aasigntelu
-Encoding: 378 -1 122
+Encoding: 378 -1 120
 Width: 930
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 332.04 -0.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -8280,13 +8387,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu aasigntelu
 EndChar
 
 StartChar: bhatelu_aasigntelu
-Encoding: 379 -1 123
+Encoding: 379 -1 121
 Width: 931
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 319.04 -26.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -8369,12 +8477,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu aasigntelu
 EndChar
 
 StartChar: matelu_aasigntelu
-Encoding: 380 -1 124
+Encoding: 380 -1 122
 Width: 1312
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -8465,12 +8574,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu aasigntelu
 EndChar
 
 StartChar: yatelu_aasigntelu
-Encoding: 381 -1 125
+Encoding: 381 -1 123
 Width: 1588
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -8563,13 +8673,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu aasigntelu
 EndChar
 
 StartChar: ratelu_aasigntelu
-Encoding: 382 -1 126
+Encoding: 382 -1 124
 Width: 827
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 285.04 30.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 103.2 242.4 m 1,0,1
@@ -8621,13 +8732,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu aasigntelu
 EndChar
 
 StartChar: rratelu_aasigntelu
-Encoding: 383 -1 127
+Encoding: 383 -1 125
 Width: 1012
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 381.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -8718,13 +8830,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu aasigntelu
 EndChar
 
 StartChar: latelu_aasigntelu
-Encoding: 384 -1 128
+Encoding: 384 -1 126
 Width: 940
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 334.04 17.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -8791,13 +8904,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu aasigntelu
 EndChar
 
 StartChar: llatelu_aasigntelu
-Encoding: 385 -1 129
+Encoding: 385 -1 127
 Width: 897
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 315.04 36.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 80 288 m 1,0,1
@@ -8880,13 +8994,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu aasigntelu
 EndChar
 
 StartChar: vatelu_aasigntelu
-Encoding: 386 -1 130
+Encoding: 386 -1 128
 Width: 890
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 118.4 m 1,0,1
@@ -8951,13 +9066,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu aasigntelu
 EndChar
 
 StartChar: shatelu_aasigntelu
-Encoding: 387 -1 131
+Encoding: 387 -1 129
 Width: 836
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 26.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 217.6 147.2 m 1,0,1
@@ -9032,13 +9148,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu aasigntelu
 EndChar
 
 StartChar: ssatelu_aasigntelu
-Encoding: 388 -1 132
+Encoding: 388 -1 130
 Width: 912
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 79.2002 111.2 m 1,0,1
@@ -9116,13 +9233,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu aasigntelu
 EndChar
 
 StartChar: satelu_aasigntelu
-Encoding: 389 -1 133
+Encoding: 389 -1 131
 Width: 900
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 373.6 65.5996 m 1,0,1
@@ -9187,13 +9305,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu aasigntelu
 EndChar
 
 StartChar: hatelu_aasigntelu
-Encoding: 390 -1 134
+Encoding: 390 -1 132
 Width: 884
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -9288,7 +9407,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu aasigntelu
 EndChar
 
 StartChar: katel_aasigntel_ssatel_viramtel
-Encoding: 391 -1 135
+Encoding: 391 -1 133
 Width: 822
 VWidth: 819
 GlyphClass: 2
@@ -9296,6 +9415,7 @@ Flags: W
 AnchorPoint: "Anchor-1" 263.04 -116.4 basechar 0
 AnchorPoint: "Anchor-0" 259.2 -155.2 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -9382,12 +9502,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_isigntelu
-Encoding: 392 -1 136
+Encoding: 392 -1 134
 Width: 473
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -9452,12 +9573,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu isigntelu
 EndChar
 
 StartChar: khatelu_isigntelu
-Encoding: 393 -1 137
+Encoding: 393 -1 135
 Width: 738
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 122.4 365.6 m 1,0,1
@@ -9552,12 +9674,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu isigntelu
 EndChar
 
 StartChar: gatelu_isigntelu
-Encoding: 394 -1 138
+Encoding: 394 -1 136
 Width: 526
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 40.7998 0 m 1,0,1
@@ -9604,12 +9727,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu isigntelu
 EndChar
 
 StartChar: ghatelu_isigntelu
-Encoding: 395 -1 139
+Encoding: 395 -1 137
 Width: 944
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -9703,12 +9827,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu isigntelu
 EndChar
 
 StartChar: ngatelu_isigntelu
-Encoding: 396 -1 140
+Encoding: 396 -1 138
 Width: 618
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -9797,12 +9922,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu isigntelu
 EndChar
 
 StartChar: catelu_isigntelu
-Encoding: 397 -1 141
+Encoding: 397 -1 139
 Width: 639
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -9865,12 +9991,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu isigntelu
 EndChar
 
 StartChar: chatelu_isigntelu
-Encoding: 398 -1 142
+Encoding: 398 -1 140
 Width: 639
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -9938,12 +10065,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu isigntelu
 EndChar
 
 StartChar: jatelu_isigntelu
-Encoding: 399 -1 143
+Encoding: 399 -1 141
 Width: 666
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -10028,12 +10156,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu isigntelu
 EndChar
 
 StartChar: jhatelu_isigntelu
-Encoding: 400 -1 144
+Encoding: 400 -1 142
 Width: 1290
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 101.6 242.4 m 1,0,1
@@ -10117,12 +10246,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu isigntelu
 EndChar
 
 StartChar: nyatelu_isigntelu
-Encoding: 401 -1 145
+Encoding: 401 -1 143
 Width: 810
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -10218,12 +10348,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu isigntelu
 EndChar
 
 StartChar: ttatelu_isigntelu
-Encoding: 402 -1 146
+Encoding: 402 -1 144
 Width: 742
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -10306,12 +10437,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu isigntelu
 EndChar
 
 StartChar: tthatelu_isigntelu
-Encoding: 403 -1 147
+Encoding: 403 -1 145
 Width: 544
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 101.6 242.4 m 1,0,1
@@ -10372,12 +10504,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu isigntelu
 EndChar
 
 StartChar: ddatelu_isigntelu
-Encoding: 404 -1 148
+Encoding: 404 -1 146
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -10458,12 +10591,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu isigntelu
 EndChar
 
 StartChar: ddhatelu_isigntelu
-Encoding: 405 -1 149
+Encoding: 405 -1 147
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -10550,12 +10684,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu isigntelu
 EndChar
 
 StartChar: nnatelu_isigntelu
-Encoding: 406 -1 150
+Encoding: 406 -1 148
 Width: 761
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -10652,12 +10787,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu isigntelu
 EndChar
 
 StartChar: tatelu_isigntelu
-Encoding: 407 -1 151
+Encoding: 407 -1 149
 Width: 676
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -10738,12 +10874,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu isigntelu
 EndChar
 
 StartChar: thatelu_isigntelu
-Encoding: 408 -1 152
+Encoding: 408 -1 150
 Width: 651
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -10821,12 +10958,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu isigntelu
 EndChar
 
 StartChar: datelu_isigntelu
-Encoding: 409 -1 153
+Encoding: 409 -1 151
 Width: 651
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -10888,12 +11026,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu isigntelu
 EndChar
 
 StartChar: dhatelu_isigntelu
-Encoding: 410 -1 154
+Encoding: 410 -1 152
 Width: 651
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -10962,12 +11101,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu isigntelu
 EndChar
 
 StartChar: natelu_isigntelu
-Encoding: 411 -1 155
+Encoding: 411 -1 153
 Width: 608
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 368.8 65.5996 m 1,0,1
@@ -11022,12 +11162,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu isigntelu
 EndChar
 
 StartChar: patelu_isigntelu
-Encoding: 412 -1 156
+Encoding: 412 -1 154
 Width: 572
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -11100,12 +11241,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu isigntelu
 EndChar
 
 StartChar: phatelu_isigntelu
-Encoding: 413 -1 157
+Encoding: 413 -1 155
 Width: 577
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -11184,12 +11326,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu isigntelu
 EndChar
 
 StartChar: batelu_isigntelu
-Encoding: 414 -1 158
+Encoding: 414 -1 156
 Width: 703
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -11260,12 +11403,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu isigntelu
 EndChar
 
 StartChar: bhatelu_isigntelu
-Encoding: 415 -1 159
+Encoding: 415 -1 157
 Width: 703
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -11342,12 +11486,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu isigntelu
 EndChar
 
 StartChar: matelu_isigntelu
-Encoding: 416 -1 160
+Encoding: 416 -1 158
 Width: 956
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 140 480 m 1,0,1
@@ -11423,12 +11568,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu isigntelu
 EndChar
 
 StartChar: yatelu_isigntelu
-Encoding: 417 -1 161
+Encoding: 417 -1 159
 Width: 1288
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -11485,12 +11631,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu isigntelu
 EndChar
 
 StartChar: ratelu_isigntelu
-Encoding: 418 -1 162
+Encoding: 418 -1 160
 Width: 545
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 101.6 242.4 m 1,0,1
@@ -11541,12 +11688,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu isigntelu
 EndChar
 
 StartChar: rratelu_isigntelu
-Encoding: 419 -1 163
+Encoding: 419 -1 161
 Width: 756
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -11642,12 +11790,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu isigntelu
 EndChar
 
 StartChar: latelu_isigntelu
-Encoding: 420 -1 164
+Encoding: 420 -1 162
 Width: 613
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 244.8 616 m 1,0,1
@@ -11708,12 +11857,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu isigntelu
 EndChar
 
 StartChar: llatelu_isigntelu
-Encoding: 421 -1 165
+Encoding: 421 -1 163
 Width: 588
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 288 m 1,0,1
@@ -11791,12 +11941,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu isigntelu
 EndChar
 
 StartChar: vatelu_isigntelu
-Encoding: 422 -1 166
+Encoding: 422 -1 164
 Width: 588
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 140 480 m 1,0,1
@@ -11857,12 +12008,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu isigntelu
 EndChar
 
 StartChar: shatelu_isigntelu
-Encoding: 423 -1 167
+Encoding: 423 -1 165
 Width: 503
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 204 130.4 m 1,0,1
@@ -11933,12 +12085,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu isigntelu
 EndChar
 
 StartChar: ssatelu_isigntelu
-Encoding: 424 -1 168
+Encoding: 424 -1 166
 Width: 600
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -12018,12 +12171,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu isigntelu
 EndChar
 
 StartChar: satelu_isigntelu
-Encoding: 425 -1 169
+Encoding: 425 -1 167
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 380.8 65.5996 m 1,0,1
@@ -12090,12 +12244,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu isigntelu
 EndChar
 
 StartChar: hatelu_isigntelu
-Encoding: 426 -1 170
+Encoding: 426 -1 168
 Width: 882
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -12192,12 +12347,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu isigntelu
 EndChar
 
 StartChar: katel_isigntel_ssatel_viramtel
-Encoding: 427 -1 171
+Encoding: 427 -1 169
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -12288,12 +12444,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_iisigntelu
-Encoding: 428 -1 172
+Encoding: 428 -1 170
 Width: 473
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -12372,12 +12529,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu iisigntelu
 EndChar
 
 StartChar: khatelu_iisigntelu
-Encoding: 429 -1 173
+Encoding: 429 -1 171
 Width: 734
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 365.6 m 1,0,1
@@ -12486,12 +12644,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu iisigntelu
 EndChar
 
 StartChar: gatelu_iisigntelu
-Encoding: 430 -1 174
+Encoding: 430 -1 172
 Width: 524
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 40.7998 0 m 1,0,1
@@ -12551,12 +12710,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu iisigntelu
 EndChar
 
 StartChar: ghatelu_iisigntelu
-Encoding: 431 -1 175
+Encoding: 431 -1 173
 Width: 958
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 118.4 m 1,0,1
@@ -12664,12 +12824,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu iisigntelu
 EndChar
 
 StartChar: ngatelu_iisigntelu
-Encoding: 432 -1 176
+Encoding: 432 -1 174
 Width: 618
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -12772,12 +12933,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu iisigntelu
 EndChar
 
 StartChar: catelu_iisigntelu
-Encoding: 433 -1 177
+Encoding: 433 -1 175
 Width: 639
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -12854,12 +13016,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu iisigntelu
 EndChar
 
 StartChar: chatelu_iisigntelu
-Encoding: 434 -1 178
+Encoding: 434 -1 176
 Width: 639
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -12940,12 +13103,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu iisigntelu
 EndChar
 
 StartChar: jatelu_iisigntelu
-Encoding: 435 -1 179
+Encoding: 435 -1 177
 Width: 664
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -13044,12 +13208,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu iisigntelu
 EndChar
 
 StartChar: jhatelu_iisigntelu
-Encoding: 436 -1 180
+Encoding: 436 -1 178
 Width: 1290
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 101.6 242.4 m 1,0,1
@@ -13147,12 +13312,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu iisigntelu
 EndChar
 
 StartChar: nyatelu_iisigntelu
-Encoding: 437 -1 181
+Encoding: 437 -1 179
 Width: 810
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -13262,12 +13428,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu iisigntelu
 EndChar
 
 StartChar: ttatelu_iisigntelu
-Encoding: 438 -1 182
+Encoding: 438 -1 180
 Width: 742
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -13364,12 +13531,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu iisigntelu
 EndChar
 
 StartChar: tthatelu_iisigntelu
-Encoding: 439 -1 183
+Encoding: 439 -1 181
 Width: 544
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 242.4 m 1,0,1
@@ -13444,12 +13612,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu iisigntelu
 EndChar
 
 StartChar: ddatelu_iisigntelu
-Encoding: 440 -1 184
+Encoding: 440 -1 182
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -13544,12 +13713,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu iisigntelu
 EndChar
 
 StartChar: ddhatelu_iisigntelu
-Encoding: 441 -1 185
+Encoding: 441 -1 183
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -13650,12 +13820,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu iisigntelu
 EndChar
 
 StartChar: nnatelu_iisigntelu
-Encoding: 442 -1 186
+Encoding: 442 -1 184
 Width: 761
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -13766,12 +13937,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu iisigntelu
 EndChar
 
 StartChar: tatelu_iisigntelu
-Encoding: 443 -1 187
+Encoding: 443 -1 185
 Width: 676
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -13865,12 +14037,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu iisigntelu
 EndChar
 
 StartChar: thatelu_iisigntelu
-Encoding: 444 -1 188
+Encoding: 444 -1 186
 Width: 651
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -13960,12 +14133,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu iisigntelu
 EndChar
 
 StartChar: datelu_iisigntelu
-Encoding: 445 -1 189
+Encoding: 445 -1 187
 Width: 650
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -14043,12 +14217,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu iisigntelu
 EndChar
 
 StartChar: dhatelu_iisigntelu
-Encoding: 446 -1 190
+Encoding: 446 -1 188
 Width: 651
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -14130,12 +14305,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu iisigntelu
 EndChar
 
 StartChar: natelu_iisigntelu
-Encoding: 447 -1 191
+Encoding: 447 -1 189
 Width: 608
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 368.8 65.5996 m 1,0,1
@@ -14204,12 +14380,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu iisigntelu
 EndChar
 
 StartChar: patelu_iisigntelu
-Encoding: 448 -1 192
+Encoding: 448 -1 190
 Width: 580
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 84 118.4 m 1,0,1
@@ -14296,12 +14473,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu iisigntelu
 EndChar
 
 StartChar: phatelu_iisigntelu
-Encoding: 449 -1 193
+Encoding: 449 -1 191
 Width: 586
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 84 118.4 m 1,0,1
@@ -14394,12 +14572,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu iisigntelu
 EndChar
 
 StartChar: batelu_iisigntelu
-Encoding: 450 -1 194
+Encoding: 450 -1 192
 Width: 703
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -14484,12 +14663,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu iisigntelu
 EndChar
 
 StartChar: bhatelu_iisigntelu
-Encoding: 451 -1 195
+Encoding: 451 -1 193
 Width: 701
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 448.8 65.5996 m 1,0,1
@@ -14580,12 +14760,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu iisigntelu
 EndChar
 
 StartChar: matelu_iisigntelu
-Encoding: 452 -1 196
+Encoding: 452 -1 194
 Width: 963
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 140 480 m 1,0,1
@@ -14675,12 +14856,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu iisigntelu
 EndChar
 
 StartChar: yatelu_iisigntelu
-Encoding: 453 -1 197
+Encoding: 453 -1 195
 Width: 1649
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -14763,12 +14945,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu iisigntelu
 EndChar
 
 StartChar: ratelu_iisigntelu
-Encoding: 454 -1 198
+Encoding: 454 -1 196
 Width: 545
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 101.6 242.4 m 1,0,1
@@ -14833,12 +15016,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu iisigntelu
 EndChar
 
 StartChar: rratelu_iisigntelu
-Encoding: 455 -1 199
+Encoding: 455 -1 197
 Width: 757
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -14948,12 +15132,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu iisigntelu
 EndChar
 
 StartChar: latelu_iisigntelu
-Encoding: 456 -1 200
+Encoding: 456 -1 198
 Width: 613
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 244.8 616 m 1,0,1
@@ -15028,12 +15213,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu iisigntelu
 EndChar
 
 StartChar: llatelu_iisigntelu
-Encoding: 457 -1 201
+Encoding: 457 -1 199
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -15126,12 +15312,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu iisigntelu
 EndChar
 
 StartChar: vatelu_iisigntelu
-Encoding: 458 -1 202
+Encoding: 458 -1 200
 Width: 587
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 140 480 m 1,0,1
@@ -15206,12 +15393,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu iisigntelu
 EndChar
 
 StartChar: shatelu_iisigntelu
-Encoding: 459 -1 203
+Encoding: 459 -1 201
 Width: 485
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 204 130.4 m 1,0,1
@@ -15296,12 +15484,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu iisigntelu
 EndChar
 
 StartChar: ssatelu_iisigntelu
-Encoding: 460 -1 204
+Encoding: 460 -1 202
 Width: 602
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 118.4 m 1,0,1
@@ -15395,12 +15584,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu iisigntelu
 EndChar
 
 StartChar: satelu_iisigntelu
-Encoding: 461 -1 205
+Encoding: 461 -1 203
 Width: 596
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 387.2 65.5996 m 1,0,1
@@ -15481,12 +15671,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu iisigntelu
 EndChar
 
 StartChar: hatelu_iisigntelu
-Encoding: 462 -1 206
+Encoding: 462 -1 204
 Width: 882
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -15597,12 +15788,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu iisigntelu
 EndChar
 
 StartChar: katel_iisigntel_ssatel_viramtel
-Encoding: 463 -1 207
+Encoding: 463 -1 205
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -15705,13 +15897,14 @@ EndSplineSet
 EndChar
 
 StartChar: katelu_esigntelu
-Encoding: 464 -1 208
+Encoding: 464 -1 206
 Width: 473
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 248 -19 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -15760,12 +15953,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu esigntelu
 EndChar
 
 StartChar: khatelu_esigntelu
-Encoding: 465 -1 209
+Encoding: 465 -1 207
 Width: 707
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -15854,12 +16048,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu esigntelu
 EndChar
 
 StartChar: gatelu_esigntelu
-Encoding: 466 -1 210
+Encoding: 466 -1 208
 Width: 519
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -15893,12 +16088,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu esigntelu
 EndChar
 
 StartChar: ghatelu_esigntelu
-Encoding: 467 -1 211
+Encoding: 467 -1 209
 Width: 950
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -15978,12 +16174,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu esigntelu
 EndChar
 
 StartChar: ngatelu_esigntelu
-Encoding: 468 -1 212
+Encoding: 468 -1 210
 Width: 618
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -16058,13 +16255,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu esigntelu
 EndChar
 
 StartChar: catelu_esigntelu
-Encoding: 469 -1 213
+Encoding: 469 -1 211
 Width: 641
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 327 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -16122,13 +16320,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu esigntelu
 EndChar
 
 StartChar: chatelu_esigntelu
-Encoding: 470 -1 214
+Encoding: 470 -1 212
 Width: 641
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 327 -37 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -16192,12 +16391,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu esigntelu
 EndChar
 
 StartChar: jatelu_esigntelu
-Encoding: 471 -1 215
+Encoding: 471 -1 213
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -16279,12 +16479,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu esigntelu
 EndChar
 
 StartChar: jhatelu_esigntelu
-Encoding: 472 -1 216
+Encoding: 472 -1 214
 Width: 1280
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -16360,12 +16561,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu esigntelu
 EndChar
 
 StartChar: nyatelu_esigntelu
-Encoding: 473 -1 217
+Encoding: 473 -1 215
 Width: 827
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -16448,13 +16650,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu esigntelu
 EndChar
 
 StartChar: ttatelu_esigntelu
-Encoding: 474 -1 218
+Encoding: 474 -1 216
 Width: 742
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 377 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -16522,12 +16725,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu esigntelu
 EndChar
 
 StartChar: tthatelu_esigntelu
-Encoding: 475 -1 219
+Encoding: 475 -1 217
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -16575,13 +16779,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu esigntelu
 EndChar
 
 StartChar: ddatelu_esigntelu
-Encoding: 476 -1 220
+Encoding: 476 -1 218
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 338 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -16647,13 +16852,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu esigntelu
 EndChar
 
 StartChar: ddhatelu_esigntelu
-Encoding: 477 -1 221
+Encoding: 477 -1 219
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 327 -83 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -16725,13 +16931,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu esigntelu
 EndChar
 
 StartChar: nnatelu_esigntelu
-Encoding: 478 -1 222
+Encoding: 478 -1 220
 Width: 761
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 383 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -16812,13 +17019,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu esigntelu
 EndChar
 
 StartChar: tatelu_esigntelu
-Encoding: 479 -1 223
+Encoding: 479 -1 221
 Width: 655
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 322 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -16891,13 +17099,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu esigntelu
 EndChar
 
 StartChar: thatelu_esigntelu
-Encoding: 480 -1 224
+Encoding: 480 -1 222
 Width: 644
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 328 -49 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 196 m 1,0,1
@@ -16960,13 +17169,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu esigntelu
 EndChar
 
 StartChar: datelu_esigntelu
-Encoding: 481 -1 225
+Encoding: 481 -1 223
 Width: 643
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 322 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 196 m 1,0,1
@@ -17017,13 +17227,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu esigntelu
 EndChar
 
 StartChar: dhatelu_esigntelu
-Encoding: 482 -1 226
+Encoding: 482 -1 224
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 329 -52 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -17080,13 +17291,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu esigntelu
 EndChar
 
 StartChar: natelu_esigntelu
-Encoding: 483 -1 227
+Encoding: 483 -1 225
 Width: 606
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 296 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -17136,13 +17348,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu esigntelu
 EndChar
 
 StartChar: patelu_esigntelu
-Encoding: 484 -1 228
+Encoding: 484 -1 226
 Width: 572
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 289 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -17200,13 +17413,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu esigntelu
 EndChar
 
 StartChar: phatelu_esigntelu
-Encoding: 485 -1 229
+Encoding: 485 -1 227
 Width: 577
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 -58 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -17270,13 +17484,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu esigntelu
 EndChar
 
 StartChar: batelu_esigntelu
-Encoding: 486 -1 230
+Encoding: 486 -1 228
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 335 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -17343,13 +17558,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu esigntelu
 EndChar
 
 StartChar: bhatelu_esigntelu
-Encoding: 487 -1 231
+Encoding: 487 -1 229
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323 -48 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -17422,12 +17638,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu esigntelu
 EndChar
 
 StartChar: matelu_esigntelu
-Encoding: 488 -1 232
+Encoding: 488 -1 230
 Width: 956
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -17497,12 +17714,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu esigntelu
 EndChar
 
 StartChar: yatelu_esigntelu
-Encoding: 489 -1 233
+Encoding: 489 -1 231
 Width: 1240
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -17574,13 +17792,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu esigntelu
 EndChar
 
 StartChar: ratelu_esigntelu
-Encoding: 490 -1 234
+Encoding: 490 -1 232
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 272 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -17621,13 +17840,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu esigntelu
 EndChar
 
 StartChar: rratelu_esigntelu
-Encoding: 491 -1 235
+Encoding: 491 -1 233
 Width: 757
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 375 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -17707,13 +17927,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu esigntelu
 EndChar
 
 StartChar: latelu_esigntelu
-Encoding: 492 -1 236
+Encoding: 492 -1 234
 Width: 668
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 333 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -17770,13 +17991,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu esigntelu
 EndChar
 
 StartChar: llatelu_esigntelu
-Encoding: 493 -1 237
+Encoding: 493 -1 235
 Width: 563
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 283 -2 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -17849,13 +18071,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu esigntelu
 EndChar
 
 StartChar: vatelu_esigntelu
-Encoding: 494 -1 238
+Encoding: 494 -1 236
 Width: 576
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 286 -2 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -17910,13 +18133,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu esigntelu
 EndChar
 
 StartChar: shatelu_esigntelu
-Encoding: 495 -1 239
+Encoding: 495 -1 237
 Width: 500
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 268 -1 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -17981,13 +18205,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu esigntelu
 EndChar
 
 StartChar: ssatelu_esigntelu
-Encoding: 496 -1 240
+Encoding: 496 -1 238
 Width: 600
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 310 -2 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -18052,13 +18277,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu esigntelu
 EndChar
 
 StartChar: satelu_esigntelu
-Encoding: 497 -1 241
+Encoding: 497 -1 239
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 292 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 380.8 65.5996 m 1,0,1
@@ -18110,13 +18336,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu esigntelu
 EndChar
 
 StartChar: hatelu_esigntelu
-Encoding: 498 -1 242
+Encoding: 498 -1 240
 Width: 882
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 308 -4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -18198,13 +18425,14 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu esigntelu
 EndChar
 
 StartChar: katel_esigntel_ssatel_viramtel
-Encoding: 499 -1 243
+Encoding: 499 -1 241
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 260 -151 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -18280,12 +18508,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_eesigntelu
-Encoding: 500 -1 244
+Encoding: 500 -1 242
 Width: 473
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -18350,12 +18579,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu eesigntelu
 EndChar
 
 StartChar: khatelu_eesigntelu
-Encoding: 501 -1 245
+Encoding: 501 -1 243
 Width: 707
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -18459,12 +18689,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu eesigntelu
 EndChar
 
 StartChar: gatelu_eesigntelu
-Encoding: 502 -1 246
+Encoding: 502 -1 244
 Width: 519
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -18513,12 +18744,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu eesigntelu
 EndChar
 
 StartChar: ghatelu_eesigntelu
-Encoding: 503 -1 247
+Encoding: 503 -1 245
 Width: 957
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -18613,12 +18845,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu eesigntelu
 EndChar
 
 StartChar: ngatelu_eesigntelu
-Encoding: 504 -1 248
+Encoding: 504 -1 246
 Width: 620
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -18709,12 +18942,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu eesigntelu
 EndChar
 
 StartChar: catelu_eesigntelu
-Encoding: 505 -1 249
+Encoding: 505 -1 247
 Width: 641
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -18788,12 +19022,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu eesigntelu
 EndChar
 
 StartChar: chatelu_eesigntelu
-Encoding: 506 -1 250
+Encoding: 506 -1 248
 Width: 641
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -18873,12 +19108,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu eesigntelu
 EndChar
 
 StartChar: jatelu_eesigntelu
-Encoding: 507 -1 251
+Encoding: 507 -1 249
 Width: 647
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -18975,12 +19211,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu eesigntelu
 EndChar
 
 StartChar: jhatelu_eesigntelu
-Encoding: 508 -1 252
+Encoding: 508 -1 250
 Width: 1288
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -19071,12 +19308,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu eesigntelu
 EndChar
 
 StartChar: nyatelu_eesigntelu
-Encoding: 509 -1 253
+Encoding: 509 -1 251
 Width: 827
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -19174,12 +19412,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu eesigntelu
 EndChar
 
 StartChar: ttatelu_eesigntelu
-Encoding: 510 -1 254
+Encoding: 510 -1 252
 Width: 742
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -19263,12 +19502,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu eesigntelu
 EndChar
 
 StartChar: tthatelu_eesigntelu
-Encoding: 511 -1 255
+Encoding: 511 -1 253
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -19331,12 +19571,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu eesigntelu
 EndChar
 
 StartChar: ddatelu_eesigntelu
-Encoding: 512 -1 256
+Encoding: 512 -1 254
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -19418,12 +19659,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu eesigntelu
 EndChar
 
 StartChar: ddhatelu_eesigntelu
-Encoding: 513 -1 257
+Encoding: 513 -1 255
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -19511,12 +19753,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu eesigntelu
 EndChar
 
 StartChar: nnatelu_eesigntelu
-Encoding: 514 -1 258
+Encoding: 514 -1 256
 Width: 761
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -19613,12 +19856,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu eesigntelu
 EndChar
 
 StartChar: tatelu_eesigntelu
-Encoding: 515 -1 259
+Encoding: 515 -1 257
 Width: 655
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -19707,12 +19951,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu eesigntelu
 EndChar
 
 StartChar: thatelu_eesigntelu
-Encoding: 516 -1 260
+Encoding: 516 -1 258
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -19787,12 +20032,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu eesigntelu
 EndChar
 
 StartChar: datelu_eesigntelu
-Encoding: 517 -1 261
+Encoding: 517 -1 259
 Width: 643
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 196 m 1,0,1
@@ -19856,12 +20102,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu eesigntelu
 EndChar
 
 StartChar: dhatelu_eesigntelu
-Encoding: 518 -1 262
+Encoding: 518 -1 260
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -19930,12 +20177,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu eesigntelu
 EndChar
 
 StartChar: natelu_eesigntelu
-Encoding: 519 -1 263
+Encoding: 519 -1 261
 Width: 606
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -20001,12 +20249,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu eesigntelu
 EndChar
 
 StartChar: patelu_eesigntelu
-Encoding: 520 -1 264
+Encoding: 520 -1 262
 Width: 572
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -20080,12 +20329,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu eesigntelu
 EndChar
 
 StartChar: phatelu_eesigntelu
-Encoding: 521 -1 265
+Encoding: 521 -1 263
 Width: 579
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 118.4 m 1,0,1
@@ -20165,12 +20415,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu eesigntelu
 EndChar
 
 StartChar: batelu_eesigntelu
-Encoding: 522 -1 266
+Encoding: 522 -1 264
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -20253,12 +20504,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu eesigntelu
 EndChar
 
 StartChar: bhatelu_eesigntelu
-Encoding: 523 -1 267
+Encoding: 523 -1 265
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -20347,12 +20599,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu eesigntelu
 EndChar
 
 StartChar: matelu_eesigntelu
-Encoding: 524 -1 268
+Encoding: 524 -1 266
 Width: 957
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -20438,12 +20691,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu eesigntelu
 EndChar
 
 StartChar: yatelu_eesigntelu
-Encoding: 525 -1 269
+Encoding: 525 -1 267
 Width: 1240
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -20530,12 +20784,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu eesigntelu
 EndChar
 
 StartChar: ratelu_eesigntelu
-Encoding: 526 -1 270
+Encoding: 526 -1 268
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -20592,12 +20847,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu eesigntelu
 EndChar
 
 StartChar: rratelu_eesigntelu
-Encoding: 527 -1 271
+Encoding: 527 -1 269
 Width: 757
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -20694,12 +20950,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu eesigntelu
 EndChar
 
 StartChar: latelu_eesigntelu
-Encoding: 528 -1 272
+Encoding: 528 -1 270
 Width: 666
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -20772,12 +21029,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu eesigntelu
 EndChar
 
 StartChar: llatelu_eesigntelu
-Encoding: 529 -1 273
+Encoding: 529 -1 271
 Width: 561
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -20866,12 +21124,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu eesigntelu
 EndChar
 
 StartChar: vatelu_eesigntelu
-Encoding: 530 -1 274
+Encoding: 530 -1 272
 Width: 576
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -20942,12 +21201,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu eesigntelu
 EndChar
 
 StartChar: shatelu_eesigntelu
-Encoding: 531 -1 275
+Encoding: 531 -1 273
 Width: 501
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -21028,12 +21288,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu eesigntelu
 EndChar
 
 StartChar: ssatelu_eesigntelu
-Encoding: 532 -1 276
+Encoding: 532 -1 274
 Width: 600
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -21114,12 +21375,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu eesigntelu
 EndChar
 
 StartChar: satelu_eesigntelu
-Encoding: 533 -1 277
+Encoding: 533 -1 275
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 380.8 65.5996 m 1,0,1
@@ -21187,12 +21449,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu eesigntelu
 EndChar
 
 StartChar: hatelu_eesigntelu
-Encoding: 534 -1 278
+Encoding: 534 -1 276
 Width: 882
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -21290,12 +21553,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu eesigntelu
 EndChar
 
 StartChar: katel_eesigntel_ssatel_viramtel
-Encoding: 535 -1 279
+Encoding: 535 -1 277
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -21386,12 +21650,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_osigntelu
-Encoding: 536 -1 280
+Encoding: 536 -1 278
 Width: 734
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -21470,12 +21735,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu osigntelu
 EndChar
 
 StartChar: khatelu_osigntelu
-Encoding: 537 -1 281
+Encoding: 537 -1 279
 Width: 950
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -21590,12 +21856,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu osigntelu
 EndChar
 
 StartChar: gatelu_osigntelu
-Encoding: 538 -1 282
+Encoding: 538 -1 280
 Width: 798
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -21657,12 +21924,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu osigntelu
 EndChar
 
 StartChar: ghatelu_osigntelu
-Encoding: 539 -1 283
+Encoding: 539 -1 281
 Width: 1338
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -21755,12 +22023,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu osigntelu
 EndChar
 
 StartChar: ngatelu_osigntelu
-Encoding: 540 -1 284
+Encoding: 540 -1 282
 Width: 920
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -21864,12 +22133,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu osigntelu
 EndChar
 
 StartChar: catelu_osigntelu
-Encoding: 541 -1 285
+Encoding: 541 -1 283
 Width: 860
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -21954,12 +22224,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu osigntelu
 EndChar
 
 StartChar: chatelu_osigntelu
-Encoding: 542 -1 286
+Encoding: 542 -1 284
 Width: 874
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -22052,12 +22323,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu osigntelu
 EndChar
 
 StartChar: jatelu_osigntelu
-Encoding: 543 -1 287
+Encoding: 543 -1 285
 Width: 923
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -22167,12 +22439,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu osigntelu
 EndChar
 
 StartChar: jhatelu_osigntelu
-Encoding: 544 -1 288
+Encoding: 544 -1 286
 Width: 1655
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -22262,12 +22535,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu osigntelu
 EndChar
 
 StartChar: nyatelu_osigntelu
-Encoding: 545 -1 289
+Encoding: 545 -1 287
 Width: 1070
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -22379,12 +22653,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu osigntelu
 EndChar
 
 StartChar: ttatelu_osigntelu
-Encoding: 546 -1 290
+Encoding: 546 -1 288
 Width: 990
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -22481,12 +22756,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu osigntelu
 EndChar
 
 StartChar: tthatelu_osigntelu
-Encoding: 547 -1 291
+Encoding: 547 -1 289
 Width: 816
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -22563,12 +22839,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu osigntelu
 EndChar
 
 StartChar: ddatelu_osigntelu
-Encoding: 548 -1 292
+Encoding: 548 -1 290
 Width: 892
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -22664,12 +22941,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu osigntelu
 EndChar
 
 StartChar: ddhatelu_osigntelu
-Encoding: 549 -1 293
+Encoding: 549 -1 291
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -22771,12 +23049,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu osigntelu
 EndChar
 
 StartChar: nnatelu_osigntelu
-Encoding: 550 -1 294
+Encoding: 550 -1 292
 Width: 1008
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -22887,12 +23166,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu osigntelu
 EndChar
 
 StartChar: tatelu_osigntelu
-Encoding: 551 -1 295
+Encoding: 551 -1 293
 Width: 903
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -22992,12 +23272,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu osigntelu
 EndChar
 
 StartChar: thatelu_osigntelu
-Encoding: 552 -1 296
+Encoding: 552 -1 294
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -23090,12 +23371,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu osigntelu
 EndChar
 
 StartChar: datelu_osigntelu
-Encoding: 553 -1 297
+Encoding: 553 -1 295
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -23176,12 +23458,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu osigntelu
 EndChar
 
 StartChar: dhatelu_osigntelu
-Encoding: 554 -1 298
+Encoding: 554 -1 296
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -23268,12 +23551,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu osigntelu
 EndChar
 
 StartChar: natelu_osigntelu
-Encoding: 555 -1 299
+Encoding: 555 -1 297
 Width: 836
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -23351,12 +23635,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu osigntelu
 EndChar
 
 StartChar: patelu_osigntelu
-Encoding: 556 -1 300
+Encoding: 556 -1 298
 Width: 903
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 84 118.4 m 1,0,1
@@ -23444,12 +23729,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu osigntelu
 EndChar
 
 StartChar: phatelu_osigntelu
-Encoding: 557 -1 301
+Encoding: 557 -1 299
 Width: 903
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 84 118.4 m 1,0,1
@@ -23543,12 +23829,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu osigntelu
 EndChar
 
 StartChar: batelu_osigntelu
-Encoding: 558 -1 302
+Encoding: 558 -1 300
 Width: 920
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -23642,12 +23929,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu osigntelu
 EndChar
 
 StartChar: bhatelu_osigntelu
-Encoding: 559 -1 303
+Encoding: 559 -1 301
 Width: 881
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -23747,12 +24035,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu osigntelu
 EndChar
 
 StartChar: matelu_osigntelu
-Encoding: 560 -1 304
+Encoding: 560 -1 302
 Width: 1338
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -23836,12 +24125,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu osigntelu
 EndChar
 
 StartChar: yatelu_osigntelu
-Encoding: 561 -1 305
+Encoding: 561 -1 303
 Width: 1607
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -23927,12 +24217,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu osigntelu
 EndChar
 
 StartChar: ratelu_osigntelu
-Encoding: 562 -1 306
+Encoding: 562 -1 304
 Width: 788
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -24003,12 +24294,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu osigntelu
 EndChar
 
 StartChar: rratelu_osigntelu
-Encoding: 563 -1 307
+Encoding: 563 -1 305
 Width: 1064
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -24119,12 +24411,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu osigntelu
 EndChar
 
 StartChar: latelu_osigntelu
-Encoding: 564 -1 308
+Encoding: 564 -1 306
 Width: 911
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -24209,12 +24502,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu osigntelu
 EndChar
 
 StartChar: llatelu_osigntelu
-Encoding: 565 -1 309
+Encoding: 565 -1 307
 Width: 806
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -24316,12 +24610,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu osigntelu
 EndChar
 
 StartChar: vatelu_osigntelu
-Encoding: 566 -1 310
+Encoding: 566 -1 308
 Width: 832
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -24405,12 +24700,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu osigntelu
 EndChar
 
 StartChar: shatelu_osigntelu
-Encoding: 567 -1 311
+Encoding: 567 -1 309
 Width: 753
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -24502,12 +24798,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu osigntelu
 EndChar
 
 StartChar: ssatelu_osigntelu
-Encoding: 568 -1 312
+Encoding: 568 -1 310
 Width: 908
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 83.2002 111.2 m 1,0,1
@@ -24602,12 +24899,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu osigntelu
 EndChar
 
 StartChar: satelu_osigntelu
-Encoding: 569 -1 313
+Encoding: 569 -1 311
 Width: 901
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 376.8 65.5996 m 1,0,1
@@ -24689,12 +24987,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu osigntelu
 EndChar
 
 StartChar: hatelu_osigntelu
-Encoding: 570 -1 314
+Encoding: 570 -1 312
 Width: 1267
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -24815,12 +25114,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu osigntelu
 EndChar
 
 StartChar: katel_osigntel_ssatel_viramtel
-Encoding: 571 -1 315
+Encoding: 571 -1 313
 Width: 750
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -24925,12 +25225,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_oosigntelu
-Encoding: 572 -1 316
+Encoding: 572 -1 314
 Width: 734
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -25023,12 +25324,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu oosigntelu
 EndChar
 
 StartChar: khatelu_oosigntelu
-Encoding: 573 -1 317
+Encoding: 573 -1 315
 Width: 944
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -25158,12 +25460,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu oosigntelu
 EndChar
 
 StartChar: gatelu_oosigntelu
-Encoding: 574 -1 318
+Encoding: 574 -1 316
 Width: 798
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -25239,12 +25542,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu oosigntelu
 EndChar
 
 StartChar: ghatelu_oosigntelu
-Encoding: 575 -1 319
+Encoding: 575 -1 317
 Width: 1319
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -25347,12 +25651,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu oosigntelu
 EndChar
 
 StartChar: ngatelu_oosigntelu
-Encoding: 576 -1 320
+Encoding: 576 -1 318
 Width: 920
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -25471,12 +25776,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu oosigntelu
 EndChar
 
 StartChar: catelu_oosigntelu
-Encoding: 577 -1 321
+Encoding: 577 -1 319
 Width: 859
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -25575,12 +25881,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu oosigntelu
 EndChar
 
 StartChar: chatelu_oosigntelu
-Encoding: 578 -1 322
+Encoding: 578 -1 320
 Width: 874
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -25687,12 +25994,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu oosigntelu
 EndChar
 
 StartChar: jatelu_oosigntelu
-Encoding: 579 -1 323
+Encoding: 579 -1 321
 Width: 922
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -25817,12 +26125,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu oosigntelu
 EndChar
 
 StartChar: jhatelu_oosigntelu
-Encoding: 580 -1 324
+Encoding: 580 -1 322
 Width: 1649
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -25925,12 +26234,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu oosigntelu
 EndChar
 
 StartChar: nyatelu_oosigntelu
-Encoding: 581 -1 325
+Encoding: 581 -1 323
 Width: 1063
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -26056,12 +26366,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu oosigntelu
 EndChar
 
 StartChar: ttatelu_oosigntelu
-Encoding: 582 -1 326
+Encoding: 582 -1 324
 Width: 990
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -26172,12 +26483,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu oosigntelu
 EndChar
 
 StartChar: tthatelu_oosigntelu
-Encoding: 583 -1 327
+Encoding: 583 -1 325
 Width: 816
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -26268,12 +26580,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu oosigntelu
 EndChar
 
 StartChar: ddatelu_oosigntelu
-Encoding: 584 -1 328
+Encoding: 584 -1 326
 Width: 892
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -26382,12 +26695,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu oosigntelu
 EndChar
 
 StartChar: ddhatelu_oosigntelu
-Encoding: 585 -1 329
+Encoding: 585 -1 327
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -26503,12 +26817,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu oosigntelu
 EndChar
 
 StartChar: nnatelu_oosigntelu
-Encoding: 586 -1 330
+Encoding: 586 -1 328
 Width: 1008
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -26633,12 +26948,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu oosigntelu
 EndChar
 
 StartChar: tatelu_oosigntelu
-Encoding: 587 -1 331
+Encoding: 587 -1 329
 Width: 903
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -26752,12 +27068,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu oosigntelu
 EndChar
 
 StartChar: thatelu_oosigntelu
-Encoding: 588 -1 332
+Encoding: 588 -1 330
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -26864,12 +27181,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu oosigntelu
 EndChar
 
 StartChar: datelu_oosigntelu
-Encoding: 589 -1 333
+Encoding: 589 -1 331
 Width: 844
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -26964,12 +27282,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu oosigntelu
 EndChar
 
 StartChar: dhatelu_oosigntelu
-Encoding: 590 -1 334
+Encoding: 590 -1 332
 Width: 843
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 196 m 1,0,1
@@ -27070,12 +27389,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu oosigntelu
 EndChar
 
 StartChar: natelu_oosigntelu
-Encoding: 591 -1 335
+Encoding: 591 -1 333
 Width: 836
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -27167,12 +27487,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu oosigntelu
 EndChar
 
 StartChar: patelu_oosigntelu
-Encoding: 592 -1 336
+Encoding: 592 -1 334
 Width: 907
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 81.5996 118.4 m 1,0,1
@@ -27275,12 +27596,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu oosigntelu
 EndChar
 
 StartChar: phatelu_oosigntelu
-Encoding: 593 -1 337
+Encoding: 593 -1 335
 Width: 901
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 83.2002 118.4 m 1,0,1
@@ -27389,12 +27711,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu oosigntelu
 EndChar
 
 StartChar: batelu_oosigntelu
-Encoding: 594 -1 338
+Encoding: 594 -1 336
 Width: 920
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -27503,12 +27826,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu oosigntelu
 EndChar
 
 StartChar: bhatelu_oosigntelu
-Encoding: 595 -1 339
+Encoding: 595 -1 337
 Width: 881
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -27623,12 +27947,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu oosigntelu
 EndChar
 
 StartChar: matelu_oosigntelu
-Encoding: 596 -1 340
+Encoding: 596 -1 338
 Width: 1313
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -27722,12 +28047,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu oosigntelu
 EndChar
 
 StartChar: yatelu_oosigntelu
-Encoding: 597 -1 341
+Encoding: 597 -1 339
 Width: 1588
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -27824,12 +28150,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu oosigntelu
 EndChar
 
 StartChar: ratelu_oosigntelu
-Encoding: 598 -1 342
+Encoding: 598 -1 340
 Width: 788
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -27914,12 +28241,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu oosigntelu
 EndChar
 
 StartChar: rratelu_oosigntelu
-Encoding: 599 -1 343
+Encoding: 599 -1 341
 Width: 1058
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -28043,12 +28371,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu oosigntelu
 EndChar
 
 StartChar: latelu_oosigntelu
-Encoding: 600 -1 344
+Encoding: 600 -1 342
 Width: 911
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -28147,12 +28476,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu oosigntelu
 EndChar
 
 StartChar: llatelu_oosigntelu
-Encoding: 601 -1 345
+Encoding: 601 -1 343
 Width: 806
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -28269,12 +28599,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu oosigntelu
 EndChar
 
 StartChar: vatelu_oosigntelu
-Encoding: 602 -1 346
+Encoding: 602 -1 344
 Width: 832
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -28372,12 +28703,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu oosigntelu
 EndChar
 
 StartChar: shatelu_oosigntelu
-Encoding: 603 -1 347
+Encoding: 603 -1 345
 Width: 753
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -28484,12 +28816,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu oosigntelu
 EndChar
 
 StartChar: ssatelu_oosigntelu
-Encoding: 604 -1 348
+Encoding: 604 -1 346
 Width: 912
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 80 111.2 m 1,0,1
@@ -28599,12 +28932,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu oosigntelu
 EndChar
 
 StartChar: satelu_oosigntelu
-Encoding: 605 -1 349
+Encoding: 605 -1 347
 Width: 901
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 376.8 65.5996 m 1,0,1
@@ -28701,12 +29035,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu oosigntelu
 EndChar
 
 StartChar: hatelu_oosigntelu
-Encoding: 606 -1 350
+Encoding: 606 -1 348
 Width: 1294
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -28842,12 +29177,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu oosigntelu
 EndChar
 
 StartChar: katel_oosigntel_ssatel_viramtel
-Encoding: 607 -1 351
+Encoding: 607 -1 349
 Width: 750
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -28966,12 +29302,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_ausigntelu
-Encoding: 608 -1 352
+Encoding: 608 -1 350
 Width: 771
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -29044,12 +29381,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu ausigntelu
 EndChar
 
 StartChar: khatelu_ausigntelu
-Encoding: 609 -1 353
+Encoding: 609 -1 351
 Width: 960
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -29161,12 +29499,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu ausigntelu
 EndChar
 
 StartChar: gatelu_ausigntelu
-Encoding: 610 -1 354
+Encoding: 610 -1 352
 Width: 787
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -29224,12 +29563,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu ausigntelu
 EndChar
 
 StartChar: ghatelu_ausigntelu
-Encoding: 611 -1 355
+Encoding: 611 -1 353
 Width: 1270
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -29344,12 +29684,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu ausigntelu
 EndChar
 
 StartChar: ngatelu_ausigntelu
-Encoding: 612 -1 356
+Encoding: 612 -1 354
 Width: 1012
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -29448,12 +29789,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu ausigntelu
 EndChar
 
 StartChar: catelu_ausigntelu
-Encoding: 613 -1 357
+Encoding: 613 -1 355
 Width: 904
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -29535,12 +29877,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu ausigntelu
 EndChar
 
 StartChar: chatelu_ausigntelu
-Encoding: 614 -1 358
+Encoding: 614 -1 356
 Width: 938
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -29628,12 +29971,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu ausigntelu
 EndChar
 
 StartChar: jatelu_ausigntelu
-Encoding: 615 -1 359
+Encoding: 615 -1 357
 Width: 924
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -29732,12 +30076,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu ausigntelu
 EndChar
 
 StartChar: jhatelu_ausigntelu
-Encoding: 616 -1 360
+Encoding: 616 -1 358
 Width: 1607
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -29842,12 +30187,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu ausigntelu
 EndChar
 
 StartChar: nyatelu_ausigntelu
-Encoding: 617 -1 361
+Encoding: 617 -1 359
 Width: 1222
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -29953,12 +30299,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu ausigntelu
 EndChar
 
 StartChar: ttatelu_ausigntelu
-Encoding: 618 -1 362
+Encoding: 618 -1 360
 Width: 1020
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -30050,12 +30397,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu ausigntelu
 EndChar
 
 StartChar: tthatelu_ausigntelu
-Encoding: 619 -1 363
+Encoding: 619 -1 361
 Width: 845
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -30126,12 +30474,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu ausigntelu
 EndChar
 
 StartChar: ddatelu_ausigntelu
-Encoding: 620 -1 364
+Encoding: 620 -1 362
 Width: 924
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -30221,12 +30570,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu ausigntelu
 EndChar
 
 StartChar: ddhatelu_ausigntelu
-Encoding: 621 -1 365
+Encoding: 621 -1 363
 Width: 908
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -30322,12 +30672,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu ausigntelu
 EndChar
 
 StartChar: nnatelu_ausigntelu
-Encoding: 622 -1 366
+Encoding: 622 -1 364
 Width: 1066
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -30432,12 +30783,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu ausigntelu
 EndChar
 
 StartChar: tatelu_ausigntelu
-Encoding: 623 -1 367
+Encoding: 623 -1 365
 Width: 919
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -30534,12 +30886,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu ausigntelu
 EndChar
 
 StartChar: thatelu_ausigntelu
-Encoding: 624 -1 368
+Encoding: 624 -1 366
 Width: 881
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -30626,12 +30979,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu ausigntelu
 EndChar
 
 StartChar: datelu_ausigntelu
-Encoding: 625 -1 369
+Encoding: 625 -1 367
 Width: 874
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -30706,12 +31060,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu ausigntelu
 EndChar
 
 StartChar: dhatelu_ausigntelu
-Encoding: 626 -1 370
+Encoding: 626 -1 368
 Width: 868
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -30792,12 +31147,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu ausigntelu
 EndChar
 
 StartChar: natelu_ausigntelu
-Encoding: 627 -1 371
+Encoding: 627 -1 369
 Width: 839
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -30870,12 +31226,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu ausigntelu
 EndChar
 
 StartChar: patelu_ausigntelu
-Encoding: 628 -1 372
+Encoding: 628 -1 370
 Width: 880
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 81.5996 118.4 m 1,0,1
@@ -30961,12 +31318,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu ausigntelu
 EndChar
 
 StartChar: phatelu_ausigntelu
-Encoding: 629 -1 373
+Encoding: 629 -1 371
 Width: 893
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 81.5996 118.4 m 1,0,1
@@ -31058,12 +31416,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu ausigntelu
 EndChar
 
 StartChar: batelu_ausigntelu
-Encoding: 630 -1 374
+Encoding: 630 -1 372
 Width: 903
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -31154,12 +31513,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu ausigntelu
 EndChar
 
 StartChar: bhatelu_ausigntelu
-Encoding: 631 -1 375
+Encoding: 631 -1 373
 Width: 890
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -31250,12 +31610,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu ausigntelu
 EndChar
 
 StartChar: matelu_ausigntelu
-Encoding: 632 -1 376
+Encoding: 632 -1 374
 Width: 1270
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -31353,12 +31714,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu ausigntelu
 EndChar
 
 StartChar: yatelu_ausigntelu
-Encoding: 633 -1 377
+Encoding: 633 -1 375
 Width: 1552
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -31463,12 +31825,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu ausigntelu
 EndChar
 
 StartChar: ratelu_ausigntelu
-Encoding: 634 -1 378
+Encoding: 634 -1 376
 Width: 812
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -31533,12 +31896,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu ausigntelu
 EndChar
 
 StartChar: rratelu_ausigntelu
-Encoding: 635 -1 379
+Encoding: 635 -1 377
 Width: 1006
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -31642,12 +32006,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu ausigntelu
 EndChar
 
 StartChar: latelu_ausigntelu
-Encoding: 636 -1 380
+Encoding: 636 -1 378
 Width: 913
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -31724,12 +32089,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu ausigntelu
 EndChar
 
 StartChar: llatelu_ausigntelu
-Encoding: 637 -1 381
+Encoding: 637 -1 379
 Width: 816
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -31826,12 +32192,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu ausigntelu
 EndChar
 
 StartChar: vatelu_ausigntelu
-Encoding: 638 -1 382
+Encoding: 638 -1 380
 Width: 862
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -31910,12 +32277,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu ausigntelu
 EndChar
 
 StartChar: shatelu_ausigntelu
-Encoding: 639 -1 383
+Encoding: 639 -1 381
 Width: 756
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -32004,12 +32372,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu ausigntelu
 EndChar
 
 StartChar: ssatelu_ausigntelu
-Encoding: 640 -1 384
+Encoding: 640 -1 382
 Width: 895
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 83.2002 111.2 m 1,0,1
@@ -32102,12 +32471,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu ausigntelu
 EndChar
 
 StartChar: satelu_ausigntelu
-Encoding: 641 -1 385
+Encoding: 641 -1 383
 Width: 885
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 373.6 65.5996 m 1,0,1
@@ -32187,12 +32557,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu ausigntelu
 EndChar
 
 StartChar: hatelu_ausigntelu
-Encoding: 642 -1 386
+Encoding: 642 -1 384
 Width: 1222
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -32307,12 +32678,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu ausigntelu
 EndChar
 
 StartChar: katel_ausigntel_ssatel_viramtel
-Encoding: 643 -1 387
+Encoding: 643 -1 385
 Width: 800
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -32413,12 +32785,13 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_viramasigntelu
-Encoding: 644 -1 388
+Encoding: 644 -1 386
 Width: 473
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 353.6 m 1,0,1
@@ -32480,12 +32853,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" katelu viramasigntelu
 EndChar
 
 StartChar: khatelu_viramasigntelu
-Encoding: 645 -1 389
+Encoding: 645 -1 387
 Width: 705
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 133.6 365.6 m 1,0,1
@@ -32583,12 +32957,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" khatelu viramasigntelu
 EndChar
 
 StartChar: gatelu_viramasigntelu
-Encoding: 646 -1 390
+Encoding: 646 -1 388
 Width: 519
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 36.7998 0 m 1,0,1
@@ -32634,12 +33009,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" gatelu viramasigntelu
 EndChar
 
 StartChar: ghatelu_viramasigntelu
-Encoding: 647 -1 391
+Encoding: 647 -1 389
 Width: 950
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -32732,12 +33108,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ghatelu viramasigntelu
 EndChar
 
 StartChar: ngatelu_viramasigntelu
-Encoding: 648 -1 392
+Encoding: 648 -1 390
 Width: 618
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 43.2002 144 m 1,0,1
@@ -32825,12 +33202,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ngatelu viramasigntelu
 EndChar
 
 StartChar: catelu_viramasigntelu
-Encoding: 649 -1 393
+Encoding: 649 -1 391
 Width: 640
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -32900,12 +33278,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" catelu viramasigntelu
 EndChar
 
 StartChar: chatelu_viramasigntelu
-Encoding: 650 -1 394
+Encoding: 650 -1 392
 Width: 641
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 428 0 m 1,0,1
@@ -32981,12 +33360,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" chatelu viramasigntelu
 EndChar
 
 StartChar: jatelu_viramasigntelu
-Encoding: 651 -1 395
+Encoding: 651 -1 393
 Width: 644
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -33075,12 +33455,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" jatelu viramasigntelu
 EndChar
 
 StartChar: jhatelu_viramasigntelu
-Encoding: 652 -1 396
+Encoding: 652 -1 394
 Width: 1183
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -33172,12 +33553,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" jhatelu viramasigntelu
 EndChar
 
 StartChar: nyatelu_viramasigntelu
-Encoding: 653 -1 397
+Encoding: 653 -1 395
 Width: 810
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 314.4 m 1,0,1
@@ -33272,12 +33654,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" nyatelu viramasigntelu
 EndChar
 
 StartChar: ttatelu_viramasigntelu
-Encoding: 654 -1 398
+Encoding: 654 -1 396
 Width: 740
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 116.8 314.4 m 1,0,1
@@ -33355,12 +33738,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ttatelu viramasigntelu
 EndChar
 
 StartChar: tthatelu_viramasigntelu
-Encoding: 655 -1 399
+Encoding: 655 -1 397
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -33420,12 +33804,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" tthatelu viramasigntelu
 EndChar
 
 StartChar: ddatelu_viramasigntelu
-Encoding: 656 -1 400
+Encoding: 656 -1 398
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -33504,12 +33889,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ddatelu viramasigntelu
 EndChar
 
 StartChar: ddhatelu_viramasigntelu
-Encoding: 657 -1 401
+Encoding: 657 -1 399
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -33594,12 +33980,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ddhatelu viramasigntelu
 EndChar
 
 StartChar: nnatelu_viramasigntelu
-Encoding: 658 -1 402
+Encoding: 658 -1 400
 Width: 761
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 488 111.2 m 1,0,1
@@ -33693,12 +34080,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" nnatelu viramasigntelu
 EndChar
 
 StartChar: tatelu_viramasigntelu
-Encoding: 659 -1 403
+Encoding: 659 -1 401
 Width: 654
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 97.5996 300.8 m 1,0,1
@@ -33781,12 +34169,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" tatelu viramasigntelu
 EndChar
 
 StartChar: thatelu_viramasigntelu
-Encoding: 660 -1 404
+Encoding: 660 -1 402
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -33862,12 +34251,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" thatelu viramasigntelu
 EndChar
 
 StartChar: datelu_viramasigntelu
-Encoding: 661 -1 405
+Encoding: 661 -1 403
 Width: 644
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -33931,12 +34321,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" datelu viramasigntelu
 EndChar
 
 StartChar: dhatelu_viramasigntelu
-Encoding: 662 -1 406
+Encoding: 662 -1 404
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 196 m 1,0,1
@@ -34006,12 +34397,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" dhatelu viramasigntelu
 EndChar
 
 StartChar: natelu_viramasigntelu
-Encoding: 663 -1 407
+Encoding: 663 -1 405
 Width: 606
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 394.4 65.5996 m 1,0,1
@@ -34072,12 +34464,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" natelu viramasigntelu
 EndChar
 
 StartChar: patelu_viramasigntelu
-Encoding: 664 -1 408
+Encoding: 664 -1 406
 Width: 572
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -34149,12 +34542,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" patelu viramasigntelu
 EndChar
 
 StartChar: phatelu_viramasigntelu
-Encoding: 665 -1 409
+Encoding: 665 -1 407
 Width: 577
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -34232,12 +34626,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" phatelu viramasigntelu
 EndChar
 
 StartChar: batelu_viramasigntelu
-Encoding: 666 -1 410
+Encoding: 666 -1 408
 Width: 672
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 462.4 65.5996 m 1,0,1
@@ -34314,12 +34709,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" batelu viramasigntelu
 EndChar
 
 StartChar: bhatelu_viramasigntelu
-Encoding: 667 -1 411
+Encoding: 667 -1 409
 Width: 645
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 1,0,1
@@ -34402,12 +34798,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" bhatelu viramasigntelu
 EndChar
 
 StartChar: matelu_viramasigntelu
-Encoding: 668 -1 412
+Encoding: 668 -1 410
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -34488,12 +34885,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" matelu viramasigntelu
 EndChar
 
 StartChar: yatelu_viramasigntelu
-Encoding: 669 -1 413
+Encoding: 669 -1 411
 Width: 1240
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 235.2 m 1,0,1
@@ -34575,12 +34973,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" yatelu viramasigntelu
 EndChar
 
 StartChar: ratelu_viramasigntelu
-Encoding: 670 -1 414
+Encoding: 670 -1 412
 Width: 540
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 99.2002 242.4 m 1,0,1
@@ -34634,12 +35033,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ratelu viramasigntelu
 EndChar
 
 StartChar: rratelu_viramasigntelu
-Encoding: 671 -1 415
+Encoding: 671 -1 413
 Width: 757
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 142.4 365.6 m 1,0,1
@@ -34733,12 +35133,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" rratelu viramasigntelu
 EndChar
 
 StartChar: latelu_viramasigntelu
-Encoding: 672 -1 416
+Encoding: 672 -1 414
 Width: 666
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 152 365.6 m 1,0,1
@@ -34805,12 +35206,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" latelu viramasigntelu
 EndChar
 
 StartChar: llatelu_viramasigntelu
-Encoding: 673 -1 417
+Encoding: 673 -1 415
 Width: 561
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 288 m 1,0,1
@@ -34895,12 +35297,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" llatelu viramasigntelu
 EndChar
 
 StartChar: vatelu_viramasigntelu
-Encoding: 674 -1 418
+Encoding: 674 -1 416
 Width: 576
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -34967,12 +35370,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" vatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_viramasigntelu
-Encoding: 675 -1 419
+Encoding: 675 -1 417
 Width: 500
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 216 147.2 m 1,0,1
@@ -35047,12 +35451,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" shatelu viramasigntelu
 EndChar
 
 StartChar: ssatelu_viramasigntelu
-Encoding: 676 -1 420
+Encoding: 676 -1 418
 Width: 600
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -35131,12 +35536,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ssatelu viramasigntelu
 EndChar
 
 StartChar: satelu_viramasigntelu
-Encoding: 677 -1 421
+Encoding: 677 -1 419
 Width: 590
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 380.8 65.5996 m 1,0,1
@@ -35202,12 +35608,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" satelu viramasigntelu
 EndChar
 
 StartChar: hatelu_viramasigntelu
-Encoding: 678 -1 422
+Encoding: 678 -1 420
 Width: 882
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -35303,12 +35710,13 @@ Ligature2: "'haln' Halant Forms lookup 1-1" hatelu viramasigntelu
 EndChar
 
 StartChar: katelu_ssatelu_viramtelu_U0C4D
-Encoding: 679 -1 423
+Encoding: 679 -1 421
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -35394,13 +35802,14 @@ EndSplineSet
 EndChar
 
 StartChar: jatelu_usigntelu
-Encoding: 680 -1 424
+Encoding: 680 -1 422
 Width: 849
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 44.7998 144 m 1,0,1
@@ -35490,12 +35899,13 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" jatelu usigntelu
 EndChar
 
 StartChar: jatelu_uusigntelu
-Encoding: 681 -1 425
+Encoding: 681 -1 423
 Width: 1162
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 319.2 337.6 m 1,0,-1
@@ -35607,13 +36017,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" jatelu uusigntelu
 EndChar
 
 StartChar: patelu_usigntelu
-Encoding: 682 -1 426
+Encoding: 682 -1 424
 Width: 822
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 361.04 -190.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -35685,13 +36096,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" patelu usigntelu
 EndChar
 
 StartChar: patelu_uusigntelu
-Encoding: 683 -1 427
+Encoding: 683 -1 425
 Width: 1196
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 362.04 -189.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -35788,13 +36200,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" patelu uusigntelu
 EndChar
 
 StartChar: phatelu_usigntelu
-Encoding: 684 -1 428
+Encoding: 684 -1 426
 Width: 822
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 362.04 -189.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -35870,13 +36283,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" phatelu usigntelu
 EndChar
 
 StartChar: phatelu_uusigntelu
-Encoding: 685 -1 429
+Encoding: 685 -1 427
 Width: 1196
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 356.04 -193.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 76 118.4 m 1,0,1
@@ -35977,13 +36391,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" phatelu uusigntelu
 EndChar
 
 StartChar: vatelu_usigntelu
-Encoding: 686 -1 430
+Encoding: 686 -1 428
 Width: 822
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 355.04 -194.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 54.4004 582.4 m 1,0,-1
@@ -36050,13 +36465,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" vatelu usigntelu
 EndChar
 
 StartChar: vatelu_uusigntelu
-Encoding: 687 -1 431
+Encoding: 687 -1 429
 Width: 1196
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 358.04 -191.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 60 582.4 m 1,0,-1
@@ -36149,12 +36565,13 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" vatelu uusigntelu
 EndChar
 
 StartChar: katelu_viramasigntelu.blwf
-Encoding: 688 -1 432
+Encoding: 688 -1 430
 Width: 500
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -130.4 m 1,0,1
@@ -36192,12 +36609,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" katelu viramasigntelu
 EndChar
 
 StartChar: khatelu_viramasigntelu.blwf
-Encoding: 689 -1 433
+Encoding: 689 -1 431
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -440.8 -116.8 m 1,0,1
@@ -36273,12 +36691,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" khatelu viramasigntelu
 EndChar
 
 StartChar: gatelu_viramasigntelu.blwf
-Encoding: 690 -1 434
+Encoding: 690 -1 432
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -488 -406.4 m 1,0,1
@@ -36300,12 +36719,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" gatelu viramasigntelu
 EndChar
 
 StartChar: ghatelu_viramasigntelu.blwf
-Encoding: 691 -1 435
+Encoding: 691 -1 433
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -520.228 -226.476 m 1,0,1
@@ -36363,12 +36783,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ghatelu viramasigntelu
 EndChar
 
 StartChar: ngatelu_viramasigntelu.blwf
-Encoding: 692 -1 436
+Encoding: 692 -1 434
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -565.6 -301.6 m 1,0,1
@@ -36432,12 +36853,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ngatelu viramasigntelu
 EndChar
 
 StartChar: catelu_viramasigntelu.blwf
-Encoding: 693 -1 437
+Encoding: 693 -1 435
 Width: 412
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -140 -79.2002 m 1,0,-1
@@ -36479,12 +36901,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" catelu viramasigntelu
 EndChar
 
 StartChar: chatelu_viramasigntelu.blwf
-Encoding: 694 -1 438
+Encoding: 694 -1 436
 Width: 402
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -148 -79.2002 m 1,0,-1
@@ -36532,13 +36955,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" chatelu viramasigntelu
 EndChar
 
 StartChar: jatelu_viramasigntelu.blwf
-Encoding: 695 -1 439
+Encoding: 695 -1 437
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -300 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -565.6 -295.2 m 1,0,1
@@ -36607,12 +37031,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" jatelu viramasigntelu
 EndChar
 
 StartChar: jhatelu_viramasigntelu.blwf
-Encoding: 696 -1 440
+Encoding: 696 -1 438
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -565.042 -175.489 m 5,0,1
@@ -36671,12 +37096,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" jhatelu viramasigntelu
 EndChar
 
 StartChar: nyatelu_viramasigntelu.blwf
-Encoding: 697 -1 441
+Encoding: 697 -1 439
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -510.4 -301.6 m 1,0,1
@@ -36748,13 +37174,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" nyatelu viramasigntelu
 EndChar
 
 StartChar: ttatelu_viramasigntelu.blwf
-Encoding: 698 -1 442
+Encoding: 698 -1 440
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -321 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -489.6 -144 m 1,0,1
@@ -36809,13 +37236,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ttatelu viramasigntelu
 EndChar
 
 StartChar: tthatelu_viramasigntelu.blwf
-Encoding: 699 -1 443
+Encoding: 699 -1 441
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -267 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -303.2 -183.2 m 1,0,-1
@@ -36850,13 +37278,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" tthatelu viramasigntel
 EndChar
 
 StartChar: ddatelu_viramasigntelu.blwf
-Encoding: 700 -1 444
+Encoding: 700 -1 442
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -351 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -250.4 -283.2 m 1,0,1
@@ -36909,13 +37338,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ddatelu viramasigntelu
 EndChar
 
 StartChar: ddhatelu_viramasigntelu.blwf
-Encoding: 701 -1 445
+Encoding: 701 -1 443
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -341 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -250.4 -289.6 m 1,0,1
@@ -36972,12 +37402,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ddhatelu viramasigntel
 EndChar
 
 StartChar: nnatelu_viramasigntelu.blwf
-Encoding: 702 -1 446
+Encoding: 702 -1 444
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -237.6 -307.2 m 1,0,1
@@ -37046,7 +37477,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" nnatelu viramasigntelu
 EndChar
 
 StartChar: tatelu_viramasigntelu.blwf
-Encoding: 703 -1 447
+Encoding: 703 -1 445
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37054,6 +37485,7 @@ Flags: W
 AnchorPoint: "Anchor4" -240 -330 basemark 0
 AnchorPoint: "Anchor-1" -249 -93 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -79.2002 -106.4 m 129,-1,1
@@ -37080,19 +37512,20 @@ SplineSet
  -106.4 -157.6 -106.4 -157.6 -125.6 -176.8 c 128,-1,16
  -144.8 -196 -144.8 -196 -144.8 -223.2 c 129,-1,17
 EndSplineSet
-Kerns2: 62 140 "'kern' Horizontal Kerning in Telugu lookup 1-1"  61 120 "'kern' Horizontal Kerning in Telugu lookup 1-1" 
+Kerns2: 60 140 "'kern' Horizontal Kerning in Telugu lookup 1-1" 59 120 "'kern' Horizontal Kerning in Telugu lookup 1-1"
 Ligature2: "'blwf' Below Base Forms in Telugu2 lookup 5-1" viramasigntelu tatelu
 Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" tatelu viramasigntelu
 EndChar
 
 StartChar: thatelu_viramasigntelu.blwf
-Encoding: 704 -1 448
+Encoding: 704 -1 446
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -341 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -552 -276 m 1,0,1
@@ -37141,13 +37574,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" thatelu viramasigntelu
 EndChar
 
 StartChar: datelu_viramasigntelu.blwf
-Encoding: 705 -1 449
+Encoding: 705 -1 447
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -341 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -552 -296.8 m 1,0,1
@@ -37186,13 +37620,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" datelu viramasigntelu
 EndChar
 
 StartChar: dhatelu_viramasigntelu.blwf
-Encoding: 706 -1 450
+Encoding: 706 -1 448
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -341 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -552 -296.8 m 1,0,1
@@ -37235,12 +37670,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" dhatelu viramasigntelu
 EndChar
 
 StartChar: natelu_viramasigntelu.blwf
-Encoding: 707 -1 451
+Encoding: 707 -1 449
 Width: 254
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -188 -194.4 m 1,0,1
@@ -37288,12 +37724,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" natelu viramasigntelu
 EndChar
 
 StartChar: patelu_viramasigntelu.blwf
-Encoding: 708 -1 452
+Encoding: 708 -1 450
 Width: 315
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -170.4 -201.6 m 1,0,1
@@ -37337,12 +37774,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" patelu viramasigntelu
 EndChar
 
 StartChar: phatelu_viramasigntelu.blwf
-Encoding: 709 -1 453
+Encoding: 709 -1 451
 Width: 318
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -168.8 -201.6 m 1,0,1
@@ -37390,12 +37828,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" phatelu viramasigntelu
 EndChar
 
 StartChar: batelu_viramasigntelu.blwf
-Encoding: 710 -1 454
+Encoding: 710 -1 452
 Width: 383
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -153.6 -301.6 m 1,0,1
@@ -37447,12 +37886,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" batelu viramasigntelu
 EndChar
 
 StartChar: bhatelu_viramasigntelu.blwf
-Encoding: 711 -1 455
+Encoding: 711 -1 453
 Width: 384
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -152 -301.6 m 1,0,1
@@ -37508,12 +37948,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" bhatelu viramasigntelu
 EndChar
 
 StartChar: matelu_viramasigntelu.blwf
-Encoding: 712 -1 456
+Encoding: 712 -1 454
 Width: 246
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 67.2002 -160.8 m 1,0,1
@@ -37567,12 +38008,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" matelu viramasigntelu
 EndChar
 
 StartChar: yatelu_viramasigntelu.blwf
-Encoding: 713 -1 457
+Encoding: 713 -1 455
 Width: 370
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -65.5996 -310.4 m 1,0,1
@@ -37625,13 +38067,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" yatelu viramasigntelu
 EndChar
 
 StartChar: ratelu_viramasigntelu.blwf
-Encoding: 714 -1 458
+Encoding: 714 -1 456
 Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-3" -136 0 mark 0
 AnchorPoint: "Anchor-1" -276.96 7.59979 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -549.6 -54.4004 m 1,0,-1
@@ -37652,13 +38095,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ratelu viramasigntelu
 EndChar
 
 StartChar: rratelu_viramasigntelu.blwf
-Encoding: 715 -1 459
+Encoding: 715 -1 457
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" -238.4 -12.7998 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -408.8 -141.6 m 1,0,1
@@ -37730,13 +38174,14 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" rratelu viramasigntelu
 EndChar
 
 StartChar: latelu_viramasigntelu.blwf
-Encoding: 716 -1 460
+Encoding: 716 -1 458
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -305 -71 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -549.6 -258.4 m 1,0,1
@@ -37775,12 +38220,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" latelu viramasigntelu
 EndChar
 
 StartChar: llatelu_viramasigntelu.blwf
-Encoding: 717 -1 461
+Encoding: 717 -1 459
 Width: 304
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -190.4 -104.8 m 1,0,1
@@ -37842,12 +38288,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" llatelu viramasigntelu
 EndChar
 
 StartChar: vatelu_viramasigntelu.blwf
-Encoding: 718 -1 462
+Encoding: 718 -1 460
 Width: 350
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -94.4004 -174.4 m 1,0,1
@@ -37903,12 +38350,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" vatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_viramasigntelu.blwf
-Encoding: 719 -1 463
+Encoding: 719 -1 461
 Width: 264
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -8.7998 -315.2 m 1,0,1
@@ -37964,12 +38412,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" shatelu viramasigntelu
 EndChar
 
 StartChar: ssatelu_viramasigntelu.blwf
-Encoding: 720 -1 464
+Encoding: 720 -1 462
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -417.717 -296.417 m 1,0,1
@@ -38018,12 +38467,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ssatelu viramasigntelu
 EndChar
 
 StartChar: satelu_viramasigntelu.blwf
-Encoding: 721 -1 465
+Encoding: 721 -1 463
 Width: 343
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -198.4 -201.6 m 1,0,1
@@ -38061,12 +38511,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" satelu viramasigntelu
 EndChar
 
 StartChar: hatelu_viramasigntelu.blwf
-Encoding: 722 -1 466
+Encoding: 722 -1 464
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -536.948 -227.16 m 1,0,1
@@ -38130,12 +38581,13 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" hatelu viramasigntelu
 EndChar
 
 StartChar: katelu_viramtelu_U0C37_U0C4D
-Encoding: 723 -1 467
+Encoding: 723 -1 465
 Width: 0
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -631.2 -378.4 m 1,0,-1
@@ -38198,12 +38650,13 @@ EndSplineSet
 EndChar
 
 StartChar: ailengthtelu_tatelu_viramtelu
-Encoding: 724 -1 468
+Encoding: 724 -1 466
 Width: 0
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -440.8 -96.7998 m 1,0,1
@@ -38261,12 +38714,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph471
-Encoding: 725 -1 469
+Encoding: 725 -1 467
 Width: 412
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -483.2 20 m 1,0,-1
@@ -38344,12 +38798,13 @@ Validated: 5
 EndChar
 
 StartChar: tatelu_viramtelu_U0C30_U0C4D
-Encoding: 726 -1 470
+Encoding: 726 -1 468
 Width: 0
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -601.6 -196.8 m 1,0,-1
@@ -38395,12 +38850,13 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" tatelu_viramasigntelu.b
 EndChar
 
 StartChar: glyph473
-Encoding: 727 -1 471
+Encoding: 727 -1 469
 Width: 0
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -577.6 -305.6 m 1,0,-1
@@ -38466,12 +38922,13 @@ Validated: 5
 EndChar
 
 StartChar: katelu_ssatelu_viramasigntelu
-Encoding: 728 -1 472
+Encoding: 728 -1 470
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -38546,12 +39003,13 @@ Ligature2: "'akhn' Akhand in Telugu lookup 2-1" katelu ssatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_iisigntelu_U0C30_U0C4D
-Encoding: 729 -1 473
+Encoding: 729 -1 471
 Width: 701
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 16 60 m 1,0,-1
@@ -38648,12 +39106,13 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" shatelu_iisigntelu rate
 EndChar
 
 StartChar: satel_tatel_virmtel_U0C30_U0C4D
-Encoding: 730 -1 474
+Encoding: 730 -1 472
 Width: 716
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 519.2 -54.4004 m 1,0,1
@@ -38739,12 +39198,13 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu tatelu_viramasig
 EndChar
 
 StartChar: satel_itel_tatel_vir_ratel_vir
-Encoding: 731 -1 475
+Encoding: 731 -1 473
 Width: 716
 VWidth: 819
 GlyphClass: 3
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 514.4 -50.4004 m 1,0,1
@@ -38845,12 +39305,13 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu_isigntelu tatelu
 EndChar
 
 StartChar: satel_tatel_ratel_iisigntel
-Encoding: 732 -1 476
+Encoding: 732 -1 474
 Width: 716
 VWidth: 819
 GlyphClass: 3
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 520.8 -50.4004 m 1,0,1
@@ -38966,12 +39427,13 @@ Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu tatelu ratelu iisigntelu
 EndChar
 
 StartChar: ssatel_ttatel_virm_ratel_virm
-Encoding: 733 -1 477
+Encoding: 733 -1 475
 Width: 713
 VWidth: 819
 GlyphClass: 3
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 87.2002 118.4 m 1,0,1
@@ -39091,12 +39553,13 @@ Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu_viramasigntelu ttatelu r
 EndChar
 
 StartChar: ssatel_ttatel_ratel_iisigntel
-Encoding: 734 -1 478
+Encoding: 734 -1 476
 Width: 704
 VWidth: 819
 GlyphClass: 3
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 118.4 m 1,0,1
@@ -39242,12 +39705,13 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu_iisigntelu ttat
 EndChar
 
 StartChar: katelu_ssatelu_virm_matelu_virm
-Encoding: 735 -1 479
+Encoding: 735 -1 477
 Width: 963
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 72 614.4 m 1,0,-1
@@ -39361,12 +39825,13 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasign
 EndChar
 
 StartChar: katel_itel_ssatel_vir_matel_vir
-Encoding: 736 -1 480
+Encoding: 736 -1 478
 Width: 963
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 100.8 668 m 1,0,1
@@ -39496,12 +39961,13 @@ Validated: 517
 EndChar
 
 StartChar: katelu_iisigntelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
-Encoding: 737 -1 481
+Encoding: 737 -1 479
 Width: 963
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 112.8 824 m 1,0,1
@@ -39645,12 +40111,13 @@ Validated: 549
 EndChar
 
 StartChar: ssatel_itel_ttatel_vir_rate_vir
-Encoding: 738 -1 482
+Encoding: 738 -1 480
 Width: 604
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 77.5996 118.4 m 1,0,1
@@ -39783,13 +40250,14 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu_isigntelu ttate
 EndChar
 
 StartChar: katelu_usigntelu
-Encoding: 739 -1 483
+Encoding: 739 -1 481
 Width: 881
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 261.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 124 353.6 m 1,0,1
@@ -39847,13 +40315,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu usigntelu
 EndChar
 
 StartChar: ddatelu_usigntelu
-Encoding: 740 -1 484
+Encoding: 740 -1 482
 Width: 1076
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 339.04 17.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -39929,13 +40398,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddatelu usigntelu
 EndChar
 
 StartChar: ddhatelu_usigntelu
-Encoding: 741 -1 485
+Encoding: 741 -1 483
 Width: 1076
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 329.04 -32.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 468 156 m 1,0,1
@@ -40019,13 +40489,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddhatelu usigntelu
 EndChar
 
 StartChar: hatelu_usigntelu
-Encoding: 742 -1 486
+Encoding: 742 -1 484
 Width: 1175
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 11.2002 633.6 m 1,0,-1
@@ -40118,13 +40589,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" hatelu usigntelu
 EndChar
 
 StartChar: katelu_uusigntelu
-Encoding: 743 -1 487
+Encoding: 743 -1 485
 Width: 1188
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 261.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 124 353.6 m 1,0,1
@@ -40208,13 +40680,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu uusigntelu
 EndChar
 
 StartChar: ddatelu_uusigntelu
-Encoding: 744 -1 488
+Encoding: 744 -1 486
 Width: 1470
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 339.04 17.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 35.2002 202.4 m 1,0,1
@@ -40308,13 +40781,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddatelu uusigntelu
 EndChar
 
 StartChar: ddhatelu_uusigntelu
-Encoding: 745 -1 489
+Encoding: 745 -1 487
 Width: 1470
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 329.04 -32.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 35.2002 202.4 m 1,0,1
@@ -40416,13 +40890,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddhatelu uusigntelu
 EndChar
 
 StartChar: hatelu_uusigntelu
-Encoding: 746 -1 490
+Encoding: 746 -1 488
 Width: 1564
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 324.04 1.59979 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 11.2002 633.6 m 1,0,-1
@@ -40539,13 +41014,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" hatelu uusigntelu
 EndChar
 
 StartChar: glyph493
-Encoding: 747 -1 491
+Encoding: 747 -1 489
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -335.1 0.42627 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -574.4 -54.4004 m 21,0,1
@@ -40563,13 +41039,14 @@ EndSplineSet
 EndChar
 
 StartChar: glyph494
-Encoding: 748 -1 492
+Encoding: 748 -1 490
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" -417.6 -52.7998 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -816 -54.4004 m 1,0,-1
@@ -40589,13 +41066,14 @@ Validated: 1
 EndChar
 
 StartChar: glyph495
-Encoding: 749 -1 493
+Encoding: 749 -1 491
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" -492.8 -51.2002 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -979.2 -54.4004 m 1,0,-1
@@ -40615,12 +41093,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph496
-Encoding: 750 -1 494
+Encoding: 750 -1 492
 Width: 491
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -130.4 m 1,0,1
@@ -40656,12 +41135,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph497
-Encoding: 751 -1 495
+Encoding: 751 -1 493
 Width: 460
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 88 -116.8 m 1,0,1
@@ -40735,12 +41215,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph498
-Encoding: 752 -1 496
+Encoding: 752 -1 494
 Width: 423
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -406.4 m 1,0,1
@@ -40760,12 +41241,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph499
-Encoding: 753 -1 497
+Encoding: 753 -1 495
 Width: 736
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 56 -308.8 m 1,0,1
@@ -40826,12 +41308,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph500
-Encoding: 754 -1 498
+Encoding: 754 -1 496
 Width: 500
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -308.8 m 1,0,1
@@ -40893,12 +41376,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph501
-Encoding: 755 -1 499
+Encoding: 755 -1 497
 Width: 526
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -79.2002 m 1,0,-1
@@ -40938,12 +41422,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph502
-Encoding: 756 -1 500
+Encoding: 756 -1 498
 Width: 526
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -79.2002 m 1,0,-1
@@ -40989,12 +41474,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph503
-Encoding: 757 -1 501
+Encoding: 757 -1 499
 Width: 500
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -295.2 m 1,0,1
@@ -41062,12 +41548,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph504
-Encoding: 758 -1 502
+Encoding: 758 -1 500
 Width: 604
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 74.958 -175.489 m 1,0,1
@@ -41124,12 +41611,13 @@ EndSplineSet
 EndChar
 
 StartChar: glyph505
-Encoding: 759 -1 503
+Encoding: 759 -1 501
 Width: 560
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 118.4 -301.6 m 1,0,1
@@ -41199,12 +41687,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph506
-Encoding: 760 -1 504
+Encoding: 760 -1 502
 Width: 542
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 120.8 -144 m 1,0,1
@@ -41258,12 +41747,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph507
-Encoding: 761 -1 505
+Encoding: 761 -1 503
 Width: 396
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 160.8 -183.2 m 1,0,-1
@@ -41297,12 +41787,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph508
-Encoding: 762 -1 506
+Encoding: 762 -1 504
 Width: 564
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 382.4 -283.2 m 1,0,1
@@ -41354,12 +41845,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph509
-Encoding: 763 -1 507
+Encoding: 763 -1 505
 Width: 564
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 382.4 -289.6 m 1,0,1
@@ -41415,12 +41907,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph510
-Encoding: 764 -1 508
+Encoding: 764 -1 506
 Width: 500
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 330.4 -307.2 m 1,0,1
@@ -41488,12 +41981,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph511
-Encoding: 765 -1 509
+Encoding: 765 -1 507
 Width: 587
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 468.8 -106.4 m 1,0,1
@@ -41526,12 +42020,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph512
-Encoding: 766 -1 510
+Encoding: 766 -1 508
 Width: 552
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 68 -276 m 1,0,1
@@ -41579,12 +42074,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph513
-Encoding: 767 -1 511
+Encoding: 767 -1 509
 Width: 552
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 68 -296.8 m 1,0,1
@@ -41622,12 +42118,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph514
-Encoding: 768 -1 512
+Encoding: 768 -1 510
 Width: 552
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 68 -296.8 m 1,0,1
@@ -41669,12 +42166,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph515
-Encoding: 769 -1 513
+Encoding: 769 -1 511
 Width: 549
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 74.4004 -194.4 m 1,0,1
@@ -41720,12 +42218,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph516
-Encoding: 770 -1 514
+Encoding: 770 -1 512
 Width: 512
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 56 -201.6 m 1,0,1
@@ -41767,12 +42266,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph517
-Encoding: 771 -1 515
+Encoding: 771 -1 513
 Width: 512
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 56 -201.6 m 1,0,1
@@ -41818,12 +42318,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph518
-Encoding: 772 -1 516
+Encoding: 772 -1 514
 Width: 512
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -301.6 m 1,0,1
@@ -41873,12 +42374,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph519
-Encoding: 773 -1 517
+Encoding: 773 -1 515
 Width: 518
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 8 -301.6 m 1,0,1
@@ -41932,12 +42434,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph520
-Encoding: 774 -1 518
+Encoding: 774 -1 516
 Width: 477
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 225.6 -160.8 m 1,0,1
@@ -41989,12 +42492,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph521
-Encoding: 775 -1 519
+Encoding: 775 -1 517
 Width: 408
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -310.4 m 1,0,1
@@ -42046,13 +42550,14 @@ Validated: 1
 EndChar
 
 StartChar: glyph522
-Encoding: 776 -1 520
+Encoding: 776 -1 518
 Width: 655
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" 328 -52 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -54.4004 m 5,0,-1
@@ -42072,12 +42577,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph523
-Encoding: 777 -1 521
+Encoding: 777 -1 519
 Width: 560
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 115.2 -151.2 m 1,0,1
@@ -42147,12 +42653,13 @@ Validated: 37
 EndChar
 
 StartChar: glyph524
-Encoding: 778 -1 522
+Encoding: 778 -1 520
 Width: 484
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -258.4 m 1,0,1
@@ -42190,12 +42697,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph525
-Encoding: 779 -1 523
+Encoding: 779 -1 521
 Width: 523
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 65.5996 -104.8 m 1,0,1
@@ -42255,12 +42763,13 @@ Validated: 37
 EndChar
 
 StartChar: glyph526
-Encoding: 780 -1 524
+Encoding: 780 -1 522
 Width: 526
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 56 -174.4 m 1,0,1
@@ -42314,12 +42823,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph527
-Encoding: 781 -1 525
+Encoding: 781 -1 523
 Width: 435
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 200 -315.2 m 1,0,1
@@ -42373,12 +42883,13 @@ Validated: 5
 EndChar
 
 StartChar: glyph528
-Encoding: 782 -1 526
+Encoding: 782 -1 524
 Width: 561
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 59.1992 -297.199 m 1,0,1
@@ -42425,12 +42936,13 @@ EndSplineSet
 EndChar
 
 StartChar: glyph529
-Encoding: 783 -1 527
+Encoding: 783 -1 525
 Width: 512
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -201.6 m 1,0,1
@@ -42466,12 +42978,13 @@ Validated: 1
 EndChar
 
 StartChar: glyph530
-Encoding: 784 -1 528
+Encoding: 784 -1 526
 Width: 762
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 52.6006 -282.399 m 128,-1,1
@@ -42534,12 +43047,13 @@ EndSplineSet
 EndChar
 
 StartChar: glyph531
-Encoding: 785 -1 529
+Encoding: 785 -1 527
 Width: 565
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 2.40039 -378.46 m 1,0,-1
@@ -42602,13 +43116,14 @@ EndSplineSet
 EndChar
 
 StartChar: nounicode-3-1-57
-Encoding: 786 -1 530
+Encoding: 786 -1 528
 Width: 565
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 261.04 -157.4 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -42680,12 +43195,13 @@ EndSplineSet
 EndChar
 
 StartChar: katel_usigntel_ssatel_viramtel
-Encoding: 787 -1 531
+Encoding: 787 -1 529
 Width: 866
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 5,0,-1
@@ -42773,12 +43289,13 @@ Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu usigntelu ssatelu virama
 EndChar
 
 StartChar: katel_uusigntel_ssatel_viramtel
-Encoding: 788 -1 532
+Encoding: 788 -1 530
 Width: 1214
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -42890,12 +43407,13 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasign
 EndChar
 
 StartChar: katel_etel_aitel_ssatel_virmtel
-Encoding: 789 -1 533
+Encoding: 789 -1 531
 Width: 511
 VWidth: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 12 20 m 1,0,-1
@@ -42997,7 +43515,7 @@ Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu etelu aitelu ssatelu vir
 EndChar
 
 StartChar: glyph536
-Encoding: 790 -1 534
+Encoding: 790 -1 532
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -43006,6 +43524,7 @@ AnchorPoint: "Anchor4" -320 -360 mark 0
 AnchorPoint: "Anchor-1" -374.96 -403.4 mark 0
 AnchorPoint: "Anchor-0" -369.6 -417.6 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -734.4 -421.6 m 1,0,-1
@@ -43024,13 +43543,14 @@ EndSplineSet
 EndChar
 
 StartChar: glyph537
-Encoding: 791 -1 535
+Encoding: 791 -1 533
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" -405.6 -417.6 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -816 -421.6 m 1,0,-1
@@ -43050,13 +43570,14 @@ Validated: 5
 EndChar
 
 StartChar: glyph538
-Encoding: 792 -1 536
+Encoding: 792 -1 534
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-0" -486.4 -416 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -979.2 -421.6 m 1,0,-1
@@ -43076,10 +43597,11 @@ Validated: 5
 EndChar
 
 StartChar: uni0964
-Encoding: 793 2404 537
+Encoding: 793 2404 535
 Width: 819
 VWidth: 819
 LayerCount: 2
+Back
 Fore
 SplineSet
 136 -40.7998 m 1,0,-1
@@ -43092,10 +43614,11 @@ Validated: 1
 EndChar
 
 StartChar: uni0965
-Encoding: 794 2405 538
+Encoding: 794 2405 536
 Width: 819
 VWidth: 819
 LayerCount: 2
+Back
 Fore
 SplineSet
 136 -27.2002 m 1,0,-1
@@ -43113,12 +43636,13 @@ Validated: 1
 EndChar
 
 StartChar: vocaliclsigntelu
-Encoding: 795 3170 539
+Encoding: 795 3170 537
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -130 -32.4004 m 1,0,1
@@ -43156,12 +43680,13 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicllsigntelu
-Encoding: 796 3171 540
+Encoding: 796 3171 538
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 -116.4 -116.2 m 1,0,1
@@ -43216,11 +43741,12 @@ EndSplineSet
 EndChar
 
 StartChar: tsatelu
-Encoding: 797 3160 541
+Encoding: 797 3160 539
 Width: 640
 VWidth: 819
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 322.994 795.473 m 5,0,1
@@ -43298,11 +43824,12 @@ EndSplineSet
 EndChar
 
 StartChar: dzatelu
-Encoding: 798 3161 542
+Encoding: 798 3161 540
 Width: 651
 VWidth: 819
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 372.994 619.473 m 1,0,1
@@ -43398,11 +43925,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitzeroforoddtelu
-Encoding: 799 3192 543
+Encoding: 799 3192 541
 Width: 707
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 329.5 621.5 m 0,0,1
@@ -43442,11 +43970,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitoneforoddtelu
-Encoding: 800 3193 544
+Encoding: 800 3193 542
 Width: 161
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 110 0 m 4,0,-1
@@ -43458,11 +43987,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigittwoforoddtelu
-Encoding: 801 3194 545
+Encoding: 801 3194 543
 Width: 482
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 369.001 351 m 0,0,-1
@@ -43486,11 +44016,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitthreeforoddtelu
-Encoding: 802 3195 546
+Encoding: 802 3195 544
 Width: 836
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 169.5 308.5 m 0,0,1
@@ -43527,11 +44058,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitoneforeventelu
-Encoding: 803 3196 547
+Encoding: 803 3196 545
 Width: 797
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 34.7939 309 m 0,0,-1
@@ -43543,11 +44075,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigittwoforeventelu
-Encoding: 804 3197 548
+Encoding: 804 3197 546
 Width: 801
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 760.5 12 m 4,0,-1
@@ -43582,11 +44115,12 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitthreeforeventelu
-Encoding: 805 3198 549
+Encoding: 805 3198 547
 Width: 876
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 779.5 0.5 m 0,0,-1
@@ -43637,11 +44171,12 @@ EndSplineSet
 EndChar
 
 StartChar: tuumusigntelu
-Encoding: 806 3199 550
+Encoding: 806 3199 548
 Width: 963
 VWidth: 2048
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 376.081 482.134 m 0,0,1
@@ -43679,11 +44214,12 @@ EndSplineSet
 EndChar
 
 StartChar: avagrahatelu
-Encoding: 807 3133 551
+Encoding: 807 3133 549
 Width: 1027
 VWidth: 0
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 425 289 m 0,0,1
@@ -43707,11 +44243,12 @@ EndSplineSet
 EndChar
 
 StartChar: inr_currency
-Encoding: 808 8377 552
+Encoding: 808 8377 550
 Width: 622
 VWidth: 0
 Flags: W
 LayerCount: 2
+Back
 Fore
 SplineSet
 358 499 m 0,0,1
@@ -43740,13 +44277,14 @@ EndSplineSet
 EndChar
 
 StartChar: ai_extended
-Encoding: 809 -1 553
+Encoding: 809 -1 551
 Width: 0
 VWidth: 819
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-1" -257 0 mark 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 -493.6 -541.2 m 1,0,1
@@ -43778,13 +44316,14 @@ EndSplineSet
 EndChar
 
 StartChar: satelu_usigntelu
-Encoding: 810 -1 554
+Encoding: 810 -1 552
 Width: 966
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 15.2002 633.6 m 1,0,-1
@@ -43847,13 +44386,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" satelu usigntelu
 EndChar
 
 StartChar: ssatelu_usigntelu
-Encoding: 811 -1 555
+Encoding: 811 -1 553
 Width: 949
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 261.04 16.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 11.2002 633.6 m 1,0,-1
@@ -43926,13 +44466,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ssatelu usigntelu
 EndChar
 
 StartChar: shatelu_usigntelu
-Encoding: 812 -1 556
+Encoding: 812 -1 554
 Width: 832
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 243 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 157.6 151.2 m 0,0,1
@@ -44004,13 +44545,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" shatelu usigntelu
 EndChar
 
 StartChar: llatelu_usigntelu
-Encoding: 813 -1 557
+Encoding: 813 -1 555
 Width: 915
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 280 0 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 287.2 169.6 m 0,0,1
@@ -44092,7 +44634,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" llatelu usigntelu
 EndChar
 
 StartChar: latelu_usigntelu
-Encoding: 814 -1 558
+Encoding: 814 -1 556
 Width: 960
 VWidth: 819
 GlyphClass: 2
@@ -44100,6 +44642,7 @@ Flags: W
 AnchorPoint: "Anchor-1" 299.04 25.5998 basechar 0
 AnchorPoint: "Anchor-0" 300 -12 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 297.6 65.5996 m 0,0,1
@@ -44154,13 +44697,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" latelu usigntelu
 EndChar
 
 StartChar: rratelu_usigntelu
-Encoding: 815 -1 559
+Encoding: 815 -1 557
 Width: 1129
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 375.04 14.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 38.4004 247.2 m 0,0,1
@@ -44238,13 +44782,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" rratelu usigntelu
 EndChar
 
 StartChar: ratelu_usigntelu
-Encoding: 816 -1 560
+Encoding: 816 -1 558
 Width: 910
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 274 33 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 33.5996 242.4 m 0,0,1
@@ -44294,7 +44839,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ratelu usigntelu
 EndChar
 
 StartChar: yatelu_usigntelu
-Encoding: 817 -1 561
+Encoding: 817 -1 559
 Width: 1608
 VWidth: 819
 GlyphClass: 2
@@ -44302,6 +44847,7 @@ Flags: W
 AnchorPoint: "Anchor-1" 633.04 -43.4002 basechar 0
 AnchorPoint: "Anchor-0" 626.4 -35.5996 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 753.6 243.2 m 0,0,1
@@ -44380,13 +44926,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" yatelu usigntelu
 EndChar
 
 StartChar: matelu_usigntelu
-Encoding: 818 -1 562
+Encoding: 818 -1 560
 Width: 1331
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 528.04 4.5998 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 23.2002 118.4 m 0,0,1
@@ -44464,13 +45011,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" matelu usigntelu
 EndChar
 
 StartChar: jhatelu_usigntelu
-Encoding: 819 -1 563
+Encoding: 819 -1 561
 Width: 1559
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 795.04 -61.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 32.7998 235.2 m 0,0,1
@@ -44556,13 +45104,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" jhatelu usigntelu
 EndChar
 
 StartChar: ghatelu_usigntelu
-Encoding: 820 -1 564
+Encoding: 820 -1 562
 Width: 1277
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 444.04 -39.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 11.2002 633.6 m 1,0,-1
@@ -44650,13 +45199,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ghatelu usigntelu
 EndChar
 
 StartChar: nyatelu_usigntelu
-Encoding: 821 -1 565
+Encoding: 821 -1 563
 Width: 1118
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 -0.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 278 -63 m 0,0,1
@@ -44737,13 +45287,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" nyatelu usigntelu
 EndChar
 
 StartChar: bhatelu_usigntelu
-Encoding: 822 -1 566
+Encoding: 822 -1 564
 Width: 1023
 VWidth: 819
 GlyphClass: 2
 Flags: W
 AnchorPoint: "Anchor-1" 317.04 -23.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 450.4 65.5996 m 0,0,1
@@ -44825,13 +45376,14 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" bhatelu usigntelu
 EndChar
 
 StartChar: nyatelu_uusigntelu
-Encoding: 823 -1 567
+Encoding: 823 -1 565
 Width: 1538
 VWidth: 0
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-1" 323.04 -0.4002 basechar 0
 LayerCount: 2
+Back
 Fore
 SplineSet
 278 -63 m 0,0,1
