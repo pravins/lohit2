@@ -395,21 +395,20 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "Regular" "" "" "Version 2.5.3"
 GaspTable: 1 65535 2 0
-Encoding: Custom
-Compacted: 1
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 3040 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor4" "'blwm' Below Base Mark in Telugu lookup 2-1" "Anchor-3" "'blwm' Below Base Mark in Telugu lookup 0-2" "Anchor-1" "'blwm' Below Base Mark in Telugu lookup 0-1" "Anchor-0" "'blwm' Below Base Mark in Telugu lookup 0" 
-BeginChars: 824 566
+BeginChars: 66002 566
 
 StartChar: batelu_usigntelu
-Encoding: 256 -1 0
+Encoding: 65536 -1 0
 Width: 1019
 VWidth: 819
 GlyphClass: 2
@@ -483,7 +482,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" bhatelu usigntelu
 EndChar
 
 StartChar: space
-Encoding: 259 32 1
+Encoding: 32 32 1
 Width: 300
 VWidth: 819
 GlyphClass: 2
@@ -494,7 +493,7 @@ Fore
 EndChar
 
 StartChar: candrabindutelu
-Encoding: 260 3073 2
+Encoding: 3073 3073 2
 Width: 355
 VWidth: 819
 GlyphClass: 4
@@ -528,7 +527,7 @@ Validated: 37
 EndChar
 
 StartChar: anusvaratelu
-Encoding: 261 3074 3
+Encoding: 3074 3074 3
 Width: 540
 VWidth: 819
 GlyphClass: 4
@@ -562,7 +561,7 @@ Validated: 5
 EndChar
 
 StartChar: visargatelu
-Encoding: 262 3075 4
+Encoding: 3075 3075 4
 Width: 293
 VWidth: 819
 GlyphClass: 4
@@ -616,7 +615,7 @@ Validated: 5
 EndChar
 
 StartChar: atelu
-Encoding: 263 3077 5
+Encoding: 3077 3077 5
 Width: 677
 VWidth: 819
 GlyphClass: 2
@@ -679,7 +678,7 @@ Validated: 5
 EndChar
 
 StartChar: aatelu
-Encoding: 264 3078 6
+Encoding: 3078 3078 6
 Width: 727
 VWidth: 819
 GlyphClass: 2
@@ -752,7 +751,7 @@ Validated: 5
 EndChar
 
 StartChar: itelu
-Encoding: 265 3079 7
+Encoding: 3079 3079 7
 Width: 623
 VWidth: 819
 GlyphClass: 2
@@ -817,7 +816,7 @@ Validated: 5
 EndChar
 
 StartChar: iitelu
-Encoding: 266 3080 8
+Encoding: 3080 3080 8
 Width: 1068
 VWidth: 819
 GlyphClass: 2
@@ -906,7 +905,7 @@ Validated: 37
 EndChar
 
 StartChar: utelu
-Encoding: 267 3081 9
+Encoding: 3081 3081 9
 Width: 654
 VWidth: 819
 GlyphClass: 2
@@ -972,7 +971,7 @@ Validated: 5
 EndChar
 
 StartChar: uutelu
-Encoding: 268 3082 10
+Encoding: 3082 3082 10
 Width: 1016
 VWidth: 819
 GlyphClass: 2
@@ -1080,7 +1079,7 @@ Validated: 5
 EndChar
 
 StartChar: vocalicrtelu
-Encoding: 269 3083 11
+Encoding: 3083 3083 11
 Width: 1399
 VWidth: 819
 GlyphClass: 2
@@ -1166,7 +1165,7 @@ Validated: 5
 EndChar
 
 StartChar: vocalicltelu
-Encoding: 270 3084 12
+Encoding: 3084 3084 12
 Width: 795
 VWidth: 819
 GlyphClass: 2
@@ -1226,7 +1225,7 @@ Validated: 5
 EndChar
 
 StartChar: etelu
-Encoding: 271 3086 13
+Encoding: 3086 3086 13
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -1274,7 +1273,7 @@ Validated: 5
 EndChar
 
 StartChar: eetelu
-Encoding: 272 3087 14
+Encoding: 3087 3087 14
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -1330,7 +1329,7 @@ Validated: 37
 EndChar
 
 StartChar: aitelu
-Encoding: 273 3088 15
+Encoding: 3088 3088 15
 Width: 676
 VWidth: 819
 GlyphClass: 2
@@ -1392,7 +1391,7 @@ Validated: 5
 EndChar
 
 StartChar: otelu
-Encoding: 274 3090 16
+Encoding: 3090 3090 16
 Width: 614
 VWidth: 819
 GlyphClass: 2
@@ -1452,7 +1451,7 @@ Validated: 5
 EndChar
 
 StartChar: ootelu
-Encoding: 275 3091 17
+Encoding: 3091 3091 17
 Width: 616
 VWidth: 819
 GlyphClass: 2
@@ -1526,7 +1525,7 @@ Validated: 5
 EndChar
 
 StartChar: autelu
-Encoding: 276 3092 18
+Encoding: 3092 3092 18
 Width: 734
 VWidth: 819
 GlyphClass: 2
@@ -1624,7 +1623,7 @@ Validated: 5
 EndChar
 
 StartChar: katelu
-Encoding: 277 3093 19
+Encoding: 3093 3093 19
 Width: 512
 VWidth: 819
 GlyphClass: 2
@@ -1676,7 +1675,7 @@ EndSplineSet
 EndChar
 
 StartChar: khatelu
-Encoding: 278 3094 20
+Encoding: 3094 3094 20
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -1758,7 +1757,7 @@ EndSplineSet
 EndChar
 
 StartChar: gatelu
-Encoding: 279 3095 21
+Encoding: 3095 3095 21
 Width: 519
 VWidth: 819
 GlyphClass: 2
@@ -1794,7 +1793,7 @@ EndSplineSet
 EndChar
 
 StartChar: ghatelu
-Encoding: 280 3096 22
+Encoding: 3096 3096 22
 Width: 896
 VWidth: 819
 GlyphClass: 2
@@ -1878,7 +1877,7 @@ Validated: 5
 EndChar
 
 StartChar: ngatelu
-Encoding: 281 3097 23
+Encoding: 3097 3097 23
 Width: 618
 VWidth: 819
 GlyphClass: 2
@@ -1945,7 +1944,7 @@ Validated: 5
 EndChar
 
 StartChar: catelu
-Encoding: 282 3098 24
+Encoding: 3098 3098 24
 Width: 640
 VWidth: 819
 GlyphClass: 2
@@ -2005,7 +2004,7 @@ Validated: 5
 EndChar
 
 StartChar: chatelu
-Encoding: 283 3099 25
+Encoding: 3099 3099 25
 Width: 641
 VWidth: 819
 GlyphClass: 2
@@ -2072,7 +2071,7 @@ Validated: 5
 EndChar
 
 StartChar: jatelu
-Encoding: 284 3100 26
+Encoding: 3100 3100 26
 Width: 651
 VWidth: 819
 GlyphClass: 2
@@ -2150,7 +2149,7 @@ EndSplineSet
 EndChar
 
 StartChar: jhatelu
-Encoding: 285 3101 27
+Encoding: 3101 3101 27
 Width: 1183
 VWidth: 819
 GlyphClass: 2
@@ -2228,7 +2227,7 @@ EndSplineSet
 EndChar
 
 StartChar: nyatelu
-Encoding: 286 3102 28
+Encoding: 3102 3102 28
 Width: 808
 VWidth: 819
 GlyphClass: 2
@@ -2302,7 +2301,7 @@ EndSplineSet
 EndChar
 
 StartChar: ttatelu
-Encoding: 287 3103 29
+Encoding: 3103 3103 29
 Width: 744
 VWidth: 819
 GlyphClass: 2
@@ -2363,7 +2362,7 @@ Validated: 5
 EndChar
 
 StartChar: tthatelu
-Encoding: 288 3104 30
+Encoding: 3104 3104 30
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -2413,7 +2412,7 @@ EndSplineSet
 EndChar
 
 StartChar: ddatelu
-Encoding: 289 3105 31
+Encoding: 3105 3105 31
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -2482,7 +2481,7 @@ Validated: 5
 EndChar
 
 StartChar: ddhatelu
-Encoding: 290 3106 32
+Encoding: 3106 3106 32
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -2557,7 +2556,7 @@ Validated: 5
 EndChar
 
 StartChar: nnatelu
-Encoding: 291 3107 33
+Encoding: 3107 3107 33
 Width: 761
 VWidth: 819
 GlyphClass: 2
@@ -2631,7 +2630,7 @@ Validated: 5
 EndChar
 
 StartChar: tatelu
-Encoding: 292 3108 34
+Encoding: 3108 3108 34
 Width: 654
 VWidth: 819
 GlyphClass: 2
@@ -2707,7 +2706,7 @@ EndSplineSet
 EndChar
 
 StartChar: thatelu
-Encoding: 293 3109 35
+Encoding: 3109 3109 35
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -2773,7 +2772,7 @@ Validated: 5
 EndChar
 
 StartChar: datelu
-Encoding: 294 3110 36
+Encoding: 3110 3110 36
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -2827,7 +2826,7 @@ Validated: 5
 EndChar
 
 StartChar: dhatelu
-Encoding: 295 3111 37
+Encoding: 3111 3111 37
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -2887,7 +2886,7 @@ Validated: 5
 EndChar
 
 StartChar: natelu
-Encoding: 296 3112 38
+Encoding: 3112 3112 38
 Width: 606
 VWidth: 819
 GlyphClass: 2
@@ -2939,7 +2938,7 @@ Validated: 5
 EndChar
 
 StartChar: patelu
-Encoding: 297 3114 39
+Encoding: 3114 3114 39
 Width: 572
 VWidth: 819
 GlyphClass: 2
@@ -3001,7 +3000,7 @@ EndSplineSet
 EndChar
 
 StartChar: phatelu
-Encoding: 298 3115 40
+Encoding: 3115 3115 40
 Width: 577
 VWidth: 819
 GlyphClass: 2
@@ -3069,7 +3068,7 @@ Validated: 5
 EndChar
 
 StartChar: batelu
-Encoding: 299 3116 41
+Encoding: 3116 3116 41
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -3129,7 +3128,7 @@ Validated: 5
 EndChar
 
 StartChar: bhatelu
-Encoding: 300 3117 42
+Encoding: 3117 3117 42
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -3204,7 +3203,7 @@ Validated: 5
 EndChar
 
 StartChar: matelu
-Encoding: 301 3118 43
+Encoding: 3118 3118 43
 Width: 956
 VWidth: 819
 GlyphClass: 2
@@ -3276,7 +3275,7 @@ Validated: 5
 EndChar
 
 StartChar: yatelu
-Encoding: 302 3119 44
+Encoding: 3119 3119 44
 Width: 1233
 VWidth: 819
 GlyphClass: 2
@@ -3349,7 +3348,7 @@ EndSplineSet
 EndChar
 
 StartChar: ratelu
-Encoding: 303 3120 45
+Encoding: 3120 3120 45
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -3393,7 +3392,7 @@ EndSplineSet
 EndChar
 
 StartChar: rratelu
-Encoding: 304 3121 46
+Encoding: 3121 3121 46
 Width: 756
 VWidth: 819
 GlyphClass: 2
@@ -3466,7 +3465,7 @@ Validated: 37
 EndChar
 
 StartChar: latelu
-Encoding: 305 3122 47
+Encoding: 3122 3122 47
 Width: 594
 VWidth: 819
 GlyphClass: 2
@@ -3517,7 +3516,7 @@ Validated: 5
 EndChar
 
 StartChar: llatelu
-Encoding: 306 3123 48
+Encoding: 3123 3123 48
 Width: 561
 VWidth: 819
 GlyphClass: 2
@@ -3593,7 +3592,7 @@ EndSplineSet
 EndChar
 
 StartChar: vatelu
-Encoding: 307 3125 49
+Encoding: 3125 3125 49
 Width: 576
 VWidth: 819
 GlyphClass: 2
@@ -3652,7 +3651,7 @@ EndSplineSet
 EndChar
 
 StartChar: shatelu
-Encoding: 308 3126 50
+Encoding: 3126 3126 50
 Width: 500
 VWidth: 819
 GlyphClass: 2
@@ -3720,7 +3719,7 @@ EndSplineSet
 EndChar
 
 StartChar: ssatelu
-Encoding: 309 3127 51
+Encoding: 3127 3127 51
 Width: 600
 VWidth: 819
 GlyphClass: 2
@@ -3789,7 +3788,7 @@ Validated: 37
 EndChar
 
 StartChar: satelu
-Encoding: 310 3128 52
+Encoding: 3128 3128 52
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -3845,7 +3844,7 @@ EndSplineSet
 EndChar
 
 StartChar: hatelu
-Encoding: 311 3129 53
+Encoding: 3129 3129 53
 Width: 882
 VWidth: 819
 GlyphClass: 2
@@ -3931,7 +3930,7 @@ Validated: 5
 EndChar
 
 StartChar: aasigntelu
-Encoding: 312 3134 54
+Encoding: 3134 3134 54
 Width: 601
 VWidth: 819
 GlyphClass: 4
@@ -3970,7 +3969,7 @@ Validated: 5
 EndChar
 
 StartChar: isigntelu
-Encoding: 313 3135 55
+Encoding: 3135 3135 55
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -4014,7 +4013,7 @@ Validated: 5
 EndChar
 
 StartChar: iisigntelu
-Encoding: 314 3136 56
+Encoding: 3136 3136 56
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -4072,7 +4071,7 @@ Validated: 37
 EndChar
 
 StartChar: usigntelu
-Encoding: 315 3137 57
+Encoding: 3137 3137 57
 Width: 368
 VWidth: 819
 GlyphClass: 4
@@ -4102,7 +4101,7 @@ EndSplineSet
 EndChar
 
 StartChar: uusigntelu
-Encoding: 316 3138 58
+Encoding: 3138 3138 58
 Width: 724
 VWidth: 819
 GlyphClass: 4
@@ -4153,7 +4152,7 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicrsigntelu
-Encoding: 317 3139 59
+Encoding: 3139 3139 59
 Width: 380
 VWidth: 819
 GlyphClass: 4
@@ -4196,7 +4195,7 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicrrsigntelu
-Encoding: 318 3140 60
+Encoding: 3140 3140 60
 Width: 612
 VWidth: 819
 GlyphClass: 4
@@ -4263,7 +4262,7 @@ Validated: 5
 EndChar
 
 StartChar: esigntelu
-Encoding: 319 3142 61
+Encoding: 3142 3142 61
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -4293,7 +4292,7 @@ Validated: 5
 EndChar
 
 StartChar: eesigntelu
-Encoding: 320 3143 62
+Encoding: 3143 3143 62
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -4338,7 +4337,7 @@ Validated: 5
 EndChar
 
 StartChar: aisigntelu
-Encoding: 321 3144 63
+Encoding: 3144 3144 63
 Width: 734
 VWidth: 819
 GlyphClass: 4
@@ -4393,7 +4392,7 @@ Validated: 5
 EndChar
 
 StartChar: osigntelu
-Encoding: 322 3146 64
+Encoding: 3146 3146 64
 Width: 580
 VWidth: 819
 GlyphClass: 4
@@ -4452,7 +4451,7 @@ Validated: 5
 EndChar
 
 StartChar: oosigntelu
-Encoding: 323 3147 65
+Encoding: 3147 3147 65
 Width: 577
 VWidth: 819
 GlyphClass: 4
@@ -4525,7 +4524,7 @@ Validated: 37
 EndChar
 
 StartChar: ausigntelu
-Encoding: 324 3148 66
+Encoding: 3148 3148 66
 Width: 614
 VWidth: 819
 GlyphClass: 4
@@ -4578,7 +4577,7 @@ Validated: 5
 EndChar
 
 StartChar: viramasigntelu
-Encoding: 325 3149 67
+Encoding: 3149 3149 67
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -4620,7 +4619,7 @@ Validated: 5
 EndChar
 
 StartChar: lengthmarktelu
-Encoding: 326 3157 68
+Encoding: 3157 3157 68
 Width: 387
 VWidth: 819
 GlyphClass: 4
@@ -4650,7 +4649,7 @@ Validated: 5
 EndChar
 
 StartChar: ailengthmarktelu
-Encoding: 327 3158 69
+Encoding: 3158 3158 69
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -4689,7 +4688,7 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicrrtelu
-Encoding: 328 3168 70
+Encoding: 3168 3168 70
 Width: 1747
 VWidth: 819
 GlyphClass: 2
@@ -4799,7 +4798,7 @@ Validated: 5
 EndChar
 
 StartChar: vocaliclltelu
-Encoding: 329 3169 71
+Encoding: 3169 3169 71
 Width: 1160
 VWidth: 819
 GlyphClass: 2
@@ -4883,7 +4882,7 @@ Validated: 5
 EndChar
 
 StartChar: zerotelu
-Encoding: 330 3174 72
+Encoding: 3174 3174 72
 Width: 738
 VWidth: 819
 GlyphClass: 2
@@ -4917,7 +4916,7 @@ Validated: 5
 EndChar
 
 StartChar: onetelu
-Encoding: 331 3175 73
+Encoding: 3175 3175 73
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -4951,7 +4950,7 @@ Validated: 1
 EndChar
 
 StartChar: twotelu
-Encoding: 332 3176 74
+Encoding: 3176 3176 74
 Width: 738
 VWidth: 819
 GlyphClass: 2
@@ -4996,7 +4995,7 @@ Validated: 5
 EndChar
 
 StartChar: threetelu
-Encoding: 333 3177 75
+Encoding: 3177 3177 75
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -5042,7 +5041,7 @@ Validated: 5
 EndChar
 
 StartChar: fourtelu
-Encoding: 334 3178 76
+Encoding: 3178 3178 76
 Width: 738
 VWidth: 819
 GlyphClass: 2
@@ -5094,7 +5093,7 @@ Validated: 5
 EndChar
 
 StartChar: fivetelu
-Encoding: 335 3179 77
+Encoding: 3179 3179 77
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -5152,7 +5151,7 @@ Validated: 5
 EndChar
 
 StartChar: sixtelu
-Encoding: 336 3180 78
+Encoding: 3180 3180 78
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -5194,7 +5193,7 @@ Validated: 5
 EndChar
 
 StartChar: seventelu
-Encoding: 337 3181 79
+Encoding: 3181 3181 79
 Width: 738
 VWidth: 819
 GlyphClass: 2
@@ -5236,7 +5235,7 @@ Validated: 5
 EndChar
 
 StartChar: eighttelu
-Encoding: 338 3182 80
+Encoding: 3182 3182 80
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -5275,7 +5274,7 @@ Validated: 5
 EndChar
 
 StartChar: ninetelu
-Encoding: 339 3183 81
+Encoding: 3183 3183 81
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -5317,7 +5316,7 @@ Validated: 5
 EndChar
 
 StartChar: afii61664
-Encoding: 340 8204 82
+Encoding: 8204 8204 82
 Width: 0
 VWidth: 819
 GlyphClass: 2
@@ -5337,7 +5336,7 @@ Validated: 5
 EndChar
 
 StartChar: afii301
-Encoding: 341 8205 83
+Encoding: 8205 8205 83
 Width: 0
 VWidth: 819
 GlyphClass: 2
@@ -5359,7 +5358,7 @@ Validated: 5
 EndChar
 
 StartChar: quotedcircle
-Encoding: 342 9676 84
+Encoding: 9676 9676 84
 Width: 870
 VWidth: 819
 GlyphClass: 2
@@ -5493,7 +5492,7 @@ Validated: 5
 EndChar
 
 StartChar: khatelu_usigntelu
-Encoding: 343 -1 85
+Encoding: 65537 -1 85
 Width: 989
 VWidth: 819
 GlyphClass: 2
@@ -5588,7 +5587,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" khatelu usigntelu
 EndChar
 
 StartChar: gatelu_usigntelu
-Encoding: 344 -1 86
+Encoding: 65538 -1 86
 Width: 874
 VWidth: 819
 GlyphClass: 2
@@ -5638,7 +5637,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" gatelu usigntelu
 EndChar
 
 StartChar: ngatelu_usigntelu
-Encoding: 345 -1 87
+Encoding: 65539 -1 87
 Width: 990
 VWidth: 819
 GlyphClass: 2
@@ -5716,7 +5715,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ngatelu usigntelu
 EndChar
 
 StartChar: catelu_usigntelu
-Encoding: 346 -1 88
+Encoding: 65540 -1 88
 Width: 1022
 VWidth: 819
 GlyphClass: 2
@@ -5790,7 +5789,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" catelu usigntelu
 EndChar
 
 StartChar: chatelu_usigntelu
-Encoding: 347 -1 89
+Encoding: 65541 -1 89
 Width: 1022
 VWidth: 819
 GlyphClass: 2
@@ -5871,7 +5870,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" chatelu usigntelu
 EndChar
 
 StartChar: ttatelu_usigntelu
-Encoding: 348 -1 90
+Encoding: 65542 -1 90
 Width: 1119
 VWidth: 819
 GlyphClass: 2
@@ -5945,7 +5944,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ttatelu usigntelu
 EndChar
 
 StartChar: tthatelu_usigntelu
-Encoding: 349 -1 91
+Encoding: 65543 -1 91
 Width: 910
 VWidth: 819
 GlyphClass: 2
@@ -6007,7 +6006,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" tthatelu usigntelu
 EndChar
 
 StartChar: nnatelu_usigntelu
-Encoding: 350 -1 92
+Encoding: 65544 -1 92
 Width: 1139
 VWidth: 819
 GlyphClass: 2
@@ -6093,7 +6092,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" nnatelu usigntelu
 EndChar
 
 StartChar: tatelu_usigntelu
-Encoding: 351 -1 93
+Encoding: 65545 -1 93
 Width: 1017
 VWidth: 819
 GlyphClass: 2
@@ -6181,7 +6180,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" tatelu usigntelu
 EndChar
 
 StartChar: thatelu_usigntelu
-Encoding: 352 -1 94
+Encoding: 65546 -1 94
 Width: 1023
 VWidth: 819
 GlyphClass: 2
@@ -6258,7 +6257,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" thatelu usigntelu
 EndChar
 
 StartChar: datelu_usigntelu
-Encoding: 353 -1 95
+Encoding: 65547 -1 95
 Width: 1023
 VWidth: 819
 GlyphClass: 2
@@ -6324,7 +6323,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" datelu usigntelu
 EndChar
 
 StartChar: dhatelu_usigntelu
-Encoding: 354 -1 96
+Encoding: 65548 -1 96
 Width: 1023
 VWidth: 819
 GlyphClass: 2
@@ -6396,7 +6395,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" dhatelu usigntelu
 EndChar
 
 StartChar: natelu_usigntelu
-Encoding: 355 -1 97
+Encoding: 65549 -1 97
 Width: 983
 VWidth: 819
 GlyphClass: 2
@@ -6462,7 +6461,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" natelu usigntelu
 EndChar
 
 StartChar: katelu_aasigntelu
-Encoding: 356 -1 98
+Encoding: 65550 -1 98
 Width: 800
 VWidth: 819
 GlyphClass: 2
@@ -6529,7 +6528,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu aasigntelu
 EndChar
 
 StartChar: khatelu_aasigntelu
-Encoding: 357 -1 99
+Encoding: 65551 -1 99
 Width: 967
 VWidth: 819
 GlyphClass: 2
@@ -6634,7 +6633,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu aasigntelu
 EndChar
 
 StartChar: gatelu_aasigntelu
-Encoding: 358 -1 100
+Encoding: 65552 -1 100
 Width: 843
 VWidth: 819
 GlyphClass: 2
@@ -6685,7 +6684,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu aasigntelu
 EndChar
 
 StartChar: ghatelu_aasigntelu
-Encoding: 359 -1 101
+Encoding: 65553 -1 101
 Width: 1312
 VWidth: 819
 GlyphClass: 2
@@ -6793,7 +6792,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu aasigntelu
 EndChar
 
 StartChar: ngatelu_aasigntelu
-Encoding: 360 -1 102
+Encoding: 65554 -1 102
 Width: 930
 VWidth: 819
 GlyphClass: 2
@@ -6884,7 +6883,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu aasigntelu
 EndChar
 
 StartChar: catelu_aasigntelu
-Encoding: 361 -1 103
+Encoding: 65555 -1 103
 Width: 936
 VWidth: 819
 GlyphClass: 2
@@ -6958,7 +6957,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu aasigntelu
 EndChar
 
 StartChar: chatelu_aasigntelu
-Encoding: 362 -1 104
+Encoding: 65556 -1 104
 Width: 950
 VWidth: 819
 GlyphClass: 2
@@ -7039,7 +7038,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu aasigntelu
 EndChar
 
 StartChar: jatelu_aasigntelu
-Encoding: 363 -1 105
+Encoding: 65557 -1 105
 Width: 931
 VWidth: 819
 GlyphClass: 2
@@ -7137,7 +7136,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu aasigntelu
 EndChar
 
 StartChar: jhatelu_aasigntelu
-Encoding: 364 -1 106
+Encoding: 65558 -1 106
 Width: 1643
 VWidth: 819
 GlyphClass: 4
@@ -7242,7 +7241,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu aasigntelu
 EndChar
 
 StartChar: nyatelu_aasigntelu
-Encoding: 365 -1 107
+Encoding: 65559 -1 107
 Width: 1140
 VWidth: 819
 GlyphClass: 2
@@ -7340,7 +7339,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu aasigntelu
 EndChar
 
 StartChar: ttatelu_aasigntelu
-Encoding: 366 -1 108
+Encoding: 65560 -1 108
 Width: 1024
 VWidth: 819
 GlyphClass: 2
@@ -7425,7 +7424,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu aasigntelu
 EndChar
 
 StartChar: tthatelu_aasigntelu
-Encoding: 367 -1 109
+Encoding: 65561 -1 109
 Width: 886
 VWidth: 819
 GlyphClass: 2
@@ -7490,7 +7489,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu aasigntelu
 EndChar
 
 StartChar: ddatelu_aasigntelu
-Encoding: 368 -1 110
+Encoding: 65562 -1 110
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -7573,7 +7572,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu aasigntelu
 EndChar
 
 StartChar: ddhatelu_aasigntelu
-Encoding: 369 -1 111
+Encoding: 65563 -1 111
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -7662,7 +7661,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu aasigntelu
 EndChar
 
 StartChar: nnatelu_aasigntelu
-Encoding: 370 -1 112
+Encoding: 65564 -1 112
 Width: 1018
 VWidth: 819
 GlyphClass: 2
@@ -7760,7 +7759,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu aasigntelu
 EndChar
 
 StartChar: tatelu_aasigntelu
-Encoding: 371 -1 113
+Encoding: 65565 -1 113
 Width: 944
 VWidth: 819
 GlyphClass: 2
@@ -7850,7 +7849,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu aasigntelu
 EndChar
 
 StartChar: thatelu_aasigntelu
-Encoding: 372 -1 114
+Encoding: 65566 -1 114
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -7931,7 +7930,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu aasigntelu
 EndChar
 
 StartChar: datelu_aasigntelu
-Encoding: 373 -1 115
+Encoding: 65567 -1 115
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -8000,7 +7999,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu aasigntelu
 EndChar
 
 StartChar: dhatelu_aasigntelu
-Encoding: 374 -1 116
+Encoding: 65568 -1 116
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -8075,7 +8074,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu aasigntelu
 EndChar
 
 StartChar: natelu_aasigntelu
-Encoding: 375 -1 117
+Encoding: 65569 -1 117
 Width: 942
 VWidth: 819
 GlyphClass: 2
@@ -8141,7 +8140,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu aasigntelu
 EndChar
 
 StartChar: patelu_aasigntelu
-Encoding: 376 -1 118
+Encoding: 65570 -1 118
 Width: 907
 VWidth: 819
 GlyphClass: 2
@@ -8219,7 +8218,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu aasigntelu
 EndChar
 
 StartChar: phatelu_aasigntelu
-Encoding: 377 -1 119
+Encoding: 65571 -1 119
 Width: 895
 VWidth: 819
 GlyphClass: 2
@@ -8303,7 +8302,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu aasigntelu
 EndChar
 
 StartChar: batelu_aasigntelu
-Encoding: 378 -1 120
+Encoding: 65572 -1 120
 Width: 930
 VWidth: 819
 GlyphClass: 2
@@ -8387,7 +8386,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu aasigntelu
 EndChar
 
 StartChar: bhatelu_aasigntelu
-Encoding: 379 -1 121
+Encoding: 65573 -1 121
 Width: 931
 VWidth: 819
 GlyphClass: 2
@@ -8477,7 +8476,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu aasigntelu
 EndChar
 
 StartChar: matelu_aasigntelu
-Encoding: 380 -1 122
+Encoding: 65574 -1 122
 Width: 1312
 VWidth: 819
 GlyphClass: 2
@@ -8574,7 +8573,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu aasigntelu
 EndChar
 
 StartChar: yatelu_aasigntelu
-Encoding: 381 -1 123
+Encoding: 65575 -1 123
 Width: 1588
 VWidth: 819
 GlyphClass: 2
@@ -8673,7 +8672,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu aasigntelu
 EndChar
 
 StartChar: ratelu_aasigntelu
-Encoding: 382 -1 124
+Encoding: 65576 -1 124
 Width: 827
 VWidth: 819
 GlyphClass: 2
@@ -8732,7 +8731,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu aasigntelu
 EndChar
 
 StartChar: rratelu_aasigntelu
-Encoding: 383 -1 125
+Encoding: 65577 -1 125
 Width: 1012
 VWidth: 819
 GlyphClass: 2
@@ -8830,7 +8829,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu aasigntelu
 EndChar
 
 StartChar: latelu_aasigntelu
-Encoding: 384 -1 126
+Encoding: 65578 -1 126
 Width: 940
 VWidth: 819
 GlyphClass: 2
@@ -8904,7 +8903,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu aasigntelu
 EndChar
 
 StartChar: llatelu_aasigntelu
-Encoding: 385 -1 127
+Encoding: 65579 -1 127
 Width: 897
 VWidth: 819
 GlyphClass: 2
@@ -8994,7 +8993,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu aasigntelu
 EndChar
 
 StartChar: vatelu_aasigntelu
-Encoding: 386 -1 128
+Encoding: 65580 -1 128
 Width: 890
 VWidth: 819
 GlyphClass: 2
@@ -9066,7 +9065,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu aasigntelu
 EndChar
 
 StartChar: shatelu_aasigntelu
-Encoding: 387 -1 129
+Encoding: 65581 -1 129
 Width: 836
 VWidth: 819
 GlyphClass: 2
@@ -9148,7 +9147,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu aasigntelu
 EndChar
 
 StartChar: ssatelu_aasigntelu
-Encoding: 388 -1 130
+Encoding: 65582 -1 130
 Width: 912
 VWidth: 819
 GlyphClass: 2
@@ -9233,7 +9232,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu aasigntelu
 EndChar
 
 StartChar: satelu_aasigntelu
-Encoding: 389 -1 131
+Encoding: 65583 -1 131
 Width: 900
 VWidth: 819
 GlyphClass: 2
@@ -9305,7 +9304,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu aasigntelu
 EndChar
 
 StartChar: hatelu_aasigntelu
-Encoding: 390 -1 132
+Encoding: 65584 -1 132
 Width: 884
 VWidth: 819
 GlyphClass: 2
@@ -9407,7 +9406,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu aasigntelu
 EndChar
 
 StartChar: katel_aasigntel_ssatel_viramtel
-Encoding: 391 -1 133
+Encoding: 65585 -1 133
 Width: 822
 VWidth: 819
 GlyphClass: 2
@@ -9502,7 +9501,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_isigntelu
-Encoding: 392 -1 134
+Encoding: 65586 -1 134
 Width: 473
 VWidth: 819
 GlyphClass: 2
@@ -9573,7 +9572,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu isigntelu
 EndChar
 
 StartChar: khatelu_isigntelu
-Encoding: 393 -1 135
+Encoding: 65587 -1 135
 Width: 738
 VWidth: 819
 GlyphClass: 2
@@ -9674,7 +9673,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu isigntelu
 EndChar
 
 StartChar: gatelu_isigntelu
-Encoding: 394 -1 136
+Encoding: 65588 -1 136
 Width: 526
 VWidth: 819
 GlyphClass: 2
@@ -9727,7 +9726,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu isigntelu
 EndChar
 
 StartChar: ghatelu_isigntelu
-Encoding: 395 -1 137
+Encoding: 65589 -1 137
 Width: 944
 VWidth: 819
 GlyphClass: 2
@@ -9827,7 +9826,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu isigntelu
 EndChar
 
 StartChar: ngatelu_isigntelu
-Encoding: 396 -1 138
+Encoding: 65590 -1 138
 Width: 618
 VWidth: 819
 GlyphClass: 2
@@ -9922,7 +9921,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu isigntelu
 EndChar
 
 StartChar: catelu_isigntelu
-Encoding: 397 -1 139
+Encoding: 65591 -1 139
 Width: 639
 VWidth: 819
 GlyphClass: 2
@@ -9991,7 +9990,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu isigntelu
 EndChar
 
 StartChar: chatelu_isigntelu
-Encoding: 398 -1 140
+Encoding: 65592 -1 140
 Width: 639
 VWidth: 819
 GlyphClass: 2
@@ -10065,7 +10064,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu isigntelu
 EndChar
 
 StartChar: jatelu_isigntelu
-Encoding: 399 -1 141
+Encoding: 65593 -1 141
 Width: 666
 VWidth: 819
 GlyphClass: 2
@@ -10156,7 +10155,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu isigntelu
 EndChar
 
 StartChar: jhatelu_isigntelu
-Encoding: 400 -1 142
+Encoding: 65594 -1 142
 Width: 1290
 VWidth: 819
 GlyphClass: 2
@@ -10246,7 +10245,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu isigntelu
 EndChar
 
 StartChar: nyatelu_isigntelu
-Encoding: 401 -1 143
+Encoding: 65595 -1 143
 Width: 810
 VWidth: 819
 GlyphClass: 2
@@ -10348,7 +10347,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu isigntelu
 EndChar
 
 StartChar: ttatelu_isigntelu
-Encoding: 402 -1 144
+Encoding: 65596 -1 144
 Width: 742
 VWidth: 819
 GlyphClass: 2
@@ -10437,7 +10436,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu isigntelu
 EndChar
 
 StartChar: tthatelu_isigntelu
-Encoding: 403 -1 145
+Encoding: 65597 -1 145
 Width: 544
 VWidth: 819
 GlyphClass: 2
@@ -10504,7 +10503,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu isigntelu
 EndChar
 
 StartChar: ddatelu_isigntelu
-Encoding: 404 -1 146
+Encoding: 65598 -1 146
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -10591,7 +10590,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu isigntelu
 EndChar
 
 StartChar: ddhatelu_isigntelu
-Encoding: 405 -1 147
+Encoding: 65599 -1 147
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -10684,7 +10683,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu isigntelu
 EndChar
 
 StartChar: nnatelu_isigntelu
-Encoding: 406 -1 148
+Encoding: 65600 -1 148
 Width: 761
 VWidth: 819
 GlyphClass: 2
@@ -10787,7 +10786,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu isigntelu
 EndChar
 
 StartChar: tatelu_isigntelu
-Encoding: 407 -1 149
+Encoding: 65601 -1 149
 Width: 676
 VWidth: 819
 GlyphClass: 2
@@ -10874,7 +10873,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu isigntelu
 EndChar
 
 StartChar: thatelu_isigntelu
-Encoding: 408 -1 150
+Encoding: 65602 -1 150
 Width: 651
 VWidth: 819
 GlyphClass: 2
@@ -10958,7 +10957,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu isigntelu
 EndChar
 
 StartChar: datelu_isigntelu
-Encoding: 409 -1 151
+Encoding: 65603 -1 151
 Width: 651
 VWidth: 819
 GlyphClass: 2
@@ -11026,7 +11025,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu isigntelu
 EndChar
 
 StartChar: dhatelu_isigntelu
-Encoding: 410 -1 152
+Encoding: 65604 -1 152
 Width: 651
 VWidth: 819
 GlyphClass: 2
@@ -11101,7 +11100,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu isigntelu
 EndChar
 
 StartChar: natelu_isigntelu
-Encoding: 411 -1 153
+Encoding: 65605 -1 153
 Width: 608
 VWidth: 819
 GlyphClass: 2
@@ -11162,7 +11161,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu isigntelu
 EndChar
 
 StartChar: patelu_isigntelu
-Encoding: 412 -1 154
+Encoding: 65606 -1 154
 Width: 572
 VWidth: 819
 GlyphClass: 2
@@ -11241,7 +11240,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu isigntelu
 EndChar
 
 StartChar: phatelu_isigntelu
-Encoding: 413 -1 155
+Encoding: 65607 -1 155
 Width: 577
 VWidth: 819
 GlyphClass: 2
@@ -11326,7 +11325,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu isigntelu
 EndChar
 
 StartChar: batelu_isigntelu
-Encoding: 414 -1 156
+Encoding: 65608 -1 156
 Width: 703
 VWidth: 819
 GlyphClass: 2
@@ -11403,7 +11402,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu isigntelu
 EndChar
 
 StartChar: bhatelu_isigntelu
-Encoding: 415 -1 157
+Encoding: 65609 -1 157
 Width: 703
 VWidth: 819
 GlyphClass: 2
@@ -11486,7 +11485,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu isigntelu
 EndChar
 
 StartChar: matelu_isigntelu
-Encoding: 416 -1 158
+Encoding: 65610 -1 158
 Width: 956
 VWidth: 819
 GlyphClass: 2
@@ -11568,7 +11567,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu isigntelu
 EndChar
 
 StartChar: yatelu_isigntelu
-Encoding: 417 -1 159
+Encoding: 65611 -1 159
 Width: 1288
 VWidth: 819
 GlyphClass: 2
@@ -11631,7 +11630,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu isigntelu
 EndChar
 
 StartChar: ratelu_isigntelu
-Encoding: 418 -1 160
+Encoding: 65612 -1 160
 Width: 545
 VWidth: 819
 GlyphClass: 2
@@ -11688,7 +11687,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu isigntelu
 EndChar
 
 StartChar: rratelu_isigntelu
-Encoding: 419 -1 161
+Encoding: 65613 -1 161
 Width: 756
 VWidth: 819
 GlyphClass: 2
@@ -11790,7 +11789,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu isigntelu
 EndChar
 
 StartChar: latelu_isigntelu
-Encoding: 420 -1 162
+Encoding: 65614 -1 162
 Width: 613
 VWidth: 819
 GlyphClass: 2
@@ -11857,7 +11856,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu isigntelu
 EndChar
 
 StartChar: llatelu_isigntelu
-Encoding: 421 -1 163
+Encoding: 65615 -1 163
 Width: 588
 VWidth: 819
 GlyphClass: 2
@@ -11941,7 +11940,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu isigntelu
 EndChar
 
 StartChar: vatelu_isigntelu
-Encoding: 422 -1 164
+Encoding: 65616 -1 164
 Width: 588
 VWidth: 819
 GlyphClass: 2
@@ -12008,7 +12007,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu isigntelu
 EndChar
 
 StartChar: shatelu_isigntelu
-Encoding: 423 -1 165
+Encoding: 65617 -1 165
 Width: 503
 VWidth: 819
 GlyphClass: 2
@@ -12085,7 +12084,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu isigntelu
 EndChar
 
 StartChar: ssatelu_isigntelu
-Encoding: 424 -1 166
+Encoding: 65618 -1 166
 Width: 600
 VWidth: 819
 GlyphClass: 2
@@ -12171,7 +12170,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu isigntelu
 EndChar
 
 StartChar: satelu_isigntelu
-Encoding: 425 -1 167
+Encoding: 65619 -1 167
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -12244,7 +12243,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu isigntelu
 EndChar
 
 StartChar: hatelu_isigntelu
-Encoding: 426 -1 168
+Encoding: 65620 -1 168
 Width: 882
 VWidth: 819
 GlyphClass: 2
@@ -12347,7 +12346,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu isigntelu
 EndChar
 
 StartChar: katel_isigntel_ssatel_viramtel
-Encoding: 427 -1 169
+Encoding: 65621 -1 169
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -12444,7 +12443,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_iisigntelu
-Encoding: 428 -1 170
+Encoding: 65622 -1 170
 Width: 473
 VWidth: 819
 GlyphClass: 2
@@ -12529,7 +12528,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu iisigntelu
 EndChar
 
 StartChar: khatelu_iisigntelu
-Encoding: 429 -1 171
+Encoding: 65623 -1 171
 Width: 734
 VWidth: 819
 GlyphClass: 2
@@ -12644,7 +12643,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu iisigntelu
 EndChar
 
 StartChar: gatelu_iisigntelu
-Encoding: 430 -1 172
+Encoding: 65624 -1 172
 Width: 524
 VWidth: 819
 GlyphClass: 2
@@ -12710,7 +12709,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu iisigntelu
 EndChar
 
 StartChar: ghatelu_iisigntelu
-Encoding: 431 -1 173
+Encoding: 65625 -1 173
 Width: 958
 VWidth: 819
 GlyphClass: 2
@@ -12824,7 +12823,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu iisigntelu
 EndChar
 
 StartChar: ngatelu_iisigntelu
-Encoding: 432 -1 174
+Encoding: 65626 -1 174
 Width: 618
 VWidth: 819
 GlyphClass: 2
@@ -12933,7 +12932,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu iisigntelu
 EndChar
 
 StartChar: catelu_iisigntelu
-Encoding: 433 -1 175
+Encoding: 65627 -1 175
 Width: 639
 VWidth: 819
 GlyphClass: 2
@@ -13016,7 +13015,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu iisigntelu
 EndChar
 
 StartChar: chatelu_iisigntelu
-Encoding: 434 -1 176
+Encoding: 65628 -1 176
 Width: 639
 VWidth: 819
 GlyphClass: 2
@@ -13103,7 +13102,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu iisigntelu
 EndChar
 
 StartChar: jatelu_iisigntelu
-Encoding: 435 -1 177
+Encoding: 65629 -1 177
 Width: 664
 VWidth: 819
 GlyphClass: 2
@@ -13208,7 +13207,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu iisigntelu
 EndChar
 
 StartChar: jhatelu_iisigntelu
-Encoding: 436 -1 178
+Encoding: 65630 -1 178
 Width: 1290
 VWidth: 819
 GlyphClass: 2
@@ -13312,7 +13311,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu iisigntelu
 EndChar
 
 StartChar: nyatelu_iisigntelu
-Encoding: 437 -1 179
+Encoding: 65631 -1 179
 Width: 810
 VWidth: 819
 GlyphClass: 2
@@ -13428,7 +13427,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu iisigntelu
 EndChar
 
 StartChar: ttatelu_iisigntelu
-Encoding: 438 -1 180
+Encoding: 65632 -1 180
 Width: 742
 VWidth: 819
 GlyphClass: 2
@@ -13531,7 +13530,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu iisigntelu
 EndChar
 
 StartChar: tthatelu_iisigntelu
-Encoding: 439 -1 181
+Encoding: 65633 -1 181
 Width: 544
 VWidth: 819
 GlyphClass: 2
@@ -13612,7 +13611,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu iisigntelu
 EndChar
 
 StartChar: ddatelu_iisigntelu
-Encoding: 440 -1 182
+Encoding: 65634 -1 182
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -13713,7 +13712,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu iisigntelu
 EndChar
 
 StartChar: ddhatelu_iisigntelu
-Encoding: 441 -1 183
+Encoding: 65635 -1 183
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -13820,7 +13819,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu iisigntelu
 EndChar
 
 StartChar: nnatelu_iisigntelu
-Encoding: 442 -1 184
+Encoding: 65636 -1 184
 Width: 761
 VWidth: 819
 GlyphClass: 2
@@ -13937,7 +13936,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu iisigntelu
 EndChar
 
 StartChar: tatelu_iisigntelu
-Encoding: 443 -1 185
+Encoding: 65637 -1 185
 Width: 676
 VWidth: 819
 GlyphClass: 2
@@ -14037,7 +14036,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu iisigntelu
 EndChar
 
 StartChar: thatelu_iisigntelu
-Encoding: 444 -1 186
+Encoding: 65638 -1 186
 Width: 651
 VWidth: 819
 GlyphClass: 2
@@ -14133,7 +14132,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu iisigntelu
 EndChar
 
 StartChar: datelu_iisigntelu
-Encoding: 445 -1 187
+Encoding: 65639 -1 187
 Width: 650
 VWidth: 819
 GlyphClass: 2
@@ -14217,7 +14216,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu iisigntelu
 EndChar
 
 StartChar: dhatelu_iisigntelu
-Encoding: 446 -1 188
+Encoding: 65640 -1 188
 Width: 651
 VWidth: 819
 GlyphClass: 2
@@ -14305,7 +14304,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu iisigntelu
 EndChar
 
 StartChar: natelu_iisigntelu
-Encoding: 447 -1 189
+Encoding: 65641 -1 189
 Width: 608
 VWidth: 819
 GlyphClass: 2
@@ -14380,7 +14379,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu iisigntelu
 EndChar
 
 StartChar: patelu_iisigntelu
-Encoding: 448 -1 190
+Encoding: 65642 -1 190
 Width: 580
 VWidth: 819
 GlyphClass: 2
@@ -14473,7 +14472,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu iisigntelu
 EndChar
 
 StartChar: phatelu_iisigntelu
-Encoding: 449 -1 191
+Encoding: 65643 -1 191
 Width: 586
 VWidth: 819
 GlyphClass: 2
@@ -14572,7 +14571,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu iisigntelu
 EndChar
 
 StartChar: batelu_iisigntelu
-Encoding: 450 -1 192
+Encoding: 65644 -1 192
 Width: 703
 VWidth: 819
 GlyphClass: 2
@@ -14663,7 +14662,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu iisigntelu
 EndChar
 
 StartChar: bhatelu_iisigntelu
-Encoding: 451 -1 193
+Encoding: 65645 -1 193
 Width: 701
 VWidth: 819
 GlyphClass: 2
@@ -14760,7 +14759,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu iisigntelu
 EndChar
 
 StartChar: matelu_iisigntelu
-Encoding: 452 -1 194
+Encoding: 65646 -1 194
 Width: 963
 VWidth: 819
 GlyphClass: 2
@@ -14856,7 +14855,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu iisigntelu
 EndChar
 
 StartChar: yatelu_iisigntelu
-Encoding: 453 -1 195
+Encoding: 65647 -1 195
 Width: 1649
 VWidth: 819
 GlyphClass: 2
@@ -14945,7 +14944,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu iisigntelu
 EndChar
 
 StartChar: ratelu_iisigntelu
-Encoding: 454 -1 196
+Encoding: 65648 -1 196
 Width: 545
 VWidth: 819
 GlyphClass: 2
@@ -15016,7 +15015,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu iisigntelu
 EndChar
 
 StartChar: rratelu_iisigntelu
-Encoding: 455 -1 197
+Encoding: 65649 -1 197
 Width: 757
 VWidth: 819
 GlyphClass: 2
@@ -15132,7 +15131,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu iisigntelu
 EndChar
 
 StartChar: latelu_iisigntelu
-Encoding: 456 -1 198
+Encoding: 65650 -1 198
 Width: 613
 VWidth: 819
 GlyphClass: 2
@@ -15213,7 +15212,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu iisigntelu
 EndChar
 
 StartChar: llatelu_iisigntelu
-Encoding: 457 -1 199
+Encoding: 65651 -1 199
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -15312,7 +15311,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu iisigntelu
 EndChar
 
 StartChar: vatelu_iisigntelu
-Encoding: 458 -1 200
+Encoding: 65652 -1 200
 Width: 587
 VWidth: 819
 GlyphClass: 2
@@ -15393,7 +15392,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu iisigntelu
 EndChar
 
 StartChar: shatelu_iisigntelu
-Encoding: 459 -1 201
+Encoding: 65653 -1 201
 Width: 485
 VWidth: 819
 GlyphClass: 2
@@ -15484,7 +15483,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu iisigntelu
 EndChar
 
 StartChar: ssatelu_iisigntelu
-Encoding: 460 -1 202
+Encoding: 65654 -1 202
 Width: 602
 VWidth: 819
 GlyphClass: 2
@@ -15584,7 +15583,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu iisigntelu
 EndChar
 
 StartChar: satelu_iisigntelu
-Encoding: 461 -1 203
+Encoding: 65655 -1 203
 Width: 596
 VWidth: 819
 GlyphClass: 2
@@ -15671,7 +15670,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu iisigntelu
 EndChar
 
 StartChar: hatelu_iisigntelu
-Encoding: 462 -1 204
+Encoding: 65656 -1 204
 Width: 882
 VWidth: 819
 GlyphClass: 2
@@ -15788,7 +15787,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu iisigntelu
 EndChar
 
 StartChar: katel_iisigntel_ssatel_viramtel
-Encoding: 463 -1 205
+Encoding: 65657 -1 205
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -15897,7 +15896,7 @@ EndSplineSet
 EndChar
 
 StartChar: katelu_esigntelu
-Encoding: 464 -1 206
+Encoding: 65658 -1 206
 Width: 473
 VWidth: 819
 GlyphClass: 2
@@ -15953,7 +15952,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu esigntelu
 EndChar
 
 StartChar: khatelu_esigntelu
-Encoding: 465 -1 207
+Encoding: 65659 -1 207
 Width: 707
 VWidth: 819
 GlyphClass: 2
@@ -16048,7 +16047,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu esigntelu
 EndChar
 
 StartChar: gatelu_esigntelu
-Encoding: 466 -1 208
+Encoding: 65660 -1 208
 Width: 519
 VWidth: 819
 GlyphClass: 2
@@ -16088,7 +16087,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu esigntelu
 EndChar
 
 StartChar: ghatelu_esigntelu
-Encoding: 467 -1 209
+Encoding: 65661 -1 209
 Width: 950
 VWidth: 819
 GlyphClass: 2
@@ -16174,7 +16173,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu esigntelu
 EndChar
 
 StartChar: ngatelu_esigntelu
-Encoding: 468 -1 210
+Encoding: 65662 -1 210
 Width: 618
 VWidth: 819
 GlyphClass: 2
@@ -16255,7 +16254,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu esigntelu
 EndChar
 
 StartChar: catelu_esigntelu
-Encoding: 469 -1 211
+Encoding: 65663 -1 211
 Width: 641
 VWidth: 819
 GlyphClass: 2
@@ -16320,7 +16319,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu esigntelu
 EndChar
 
 StartChar: chatelu_esigntelu
-Encoding: 470 -1 212
+Encoding: 65664 -1 212
 Width: 641
 VWidth: 819
 GlyphClass: 2
@@ -16391,7 +16390,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu esigntelu
 EndChar
 
 StartChar: jatelu_esigntelu
-Encoding: 471 -1 213
+Encoding: 65665 -1 213
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -16479,7 +16478,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu esigntelu
 EndChar
 
 StartChar: jhatelu_esigntelu
-Encoding: 472 -1 214
+Encoding: 65666 -1 214
 Width: 1280
 VWidth: 819
 GlyphClass: 2
@@ -16561,7 +16560,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu esigntelu
 EndChar
 
 StartChar: nyatelu_esigntelu
-Encoding: 473 -1 215
+Encoding: 65667 -1 215
 Width: 827
 VWidth: 819
 GlyphClass: 2
@@ -16650,7 +16649,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu esigntelu
 EndChar
 
 StartChar: ttatelu_esigntelu
-Encoding: 474 -1 216
+Encoding: 65668 -1 216
 Width: 742
 VWidth: 819
 GlyphClass: 2
@@ -16725,7 +16724,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu esigntelu
 EndChar
 
 StartChar: tthatelu_esigntelu
-Encoding: 475 -1 217
+Encoding: 65669 -1 217
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -16779,7 +16778,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu esigntelu
 EndChar
 
 StartChar: ddatelu_esigntelu
-Encoding: 476 -1 218
+Encoding: 65670 -1 218
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -16852,7 +16851,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu esigntelu
 EndChar
 
 StartChar: ddhatelu_esigntelu
-Encoding: 477 -1 219
+Encoding: 65671 -1 219
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -16931,7 +16930,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu esigntelu
 EndChar
 
 StartChar: nnatelu_esigntelu
-Encoding: 478 -1 220
+Encoding: 65672 -1 220
 Width: 761
 VWidth: 819
 GlyphClass: 2
@@ -17019,7 +17018,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu esigntelu
 EndChar
 
 StartChar: tatelu_esigntelu
-Encoding: 479 -1 221
+Encoding: 65673 -1 221
 Width: 655
 VWidth: 819
 GlyphClass: 2
@@ -17099,7 +17098,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu esigntelu
 EndChar
 
 StartChar: thatelu_esigntelu
-Encoding: 480 -1 222
+Encoding: 65674 -1 222
 Width: 644
 VWidth: 819
 GlyphClass: 2
@@ -17169,7 +17168,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu esigntelu
 EndChar
 
 StartChar: datelu_esigntelu
-Encoding: 481 -1 223
+Encoding: 65675 -1 223
 Width: 643
 VWidth: 819
 GlyphClass: 2
@@ -17227,7 +17226,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu esigntelu
 EndChar
 
 StartChar: dhatelu_esigntelu
-Encoding: 482 -1 224
+Encoding: 65676 -1 224
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -17291,7 +17290,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu esigntelu
 EndChar
 
 StartChar: natelu_esigntelu
-Encoding: 483 -1 225
+Encoding: 65677 -1 225
 Width: 606
 VWidth: 819
 GlyphClass: 2
@@ -17348,7 +17347,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu esigntelu
 EndChar
 
 StartChar: patelu_esigntelu
-Encoding: 484 -1 226
+Encoding: 65678 -1 226
 Width: 572
 VWidth: 819
 GlyphClass: 2
@@ -17413,7 +17412,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu esigntelu
 EndChar
 
 StartChar: phatelu_esigntelu
-Encoding: 485 -1 227
+Encoding: 65679 -1 227
 Width: 577
 VWidth: 819
 GlyphClass: 2
@@ -17484,7 +17483,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu esigntelu
 EndChar
 
 StartChar: batelu_esigntelu
-Encoding: 486 -1 228
+Encoding: 65680 -1 228
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -17558,7 +17557,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu esigntelu
 EndChar
 
 StartChar: bhatelu_esigntelu
-Encoding: 487 -1 229
+Encoding: 65681 -1 229
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -17638,7 +17637,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu esigntelu
 EndChar
 
 StartChar: matelu_esigntelu
-Encoding: 488 -1 230
+Encoding: 65682 -1 230
 Width: 956
 VWidth: 819
 GlyphClass: 2
@@ -17714,7 +17713,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu esigntelu
 EndChar
 
 StartChar: yatelu_esigntelu
-Encoding: 489 -1 231
+Encoding: 65683 -1 231
 Width: 1240
 VWidth: 819
 GlyphClass: 2
@@ -17792,7 +17791,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu esigntelu
 EndChar
 
 StartChar: ratelu_esigntelu
-Encoding: 490 -1 232
+Encoding: 65684 -1 232
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -17840,7 +17839,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu esigntelu
 EndChar
 
 StartChar: rratelu_esigntelu
-Encoding: 491 -1 233
+Encoding: 65685 -1 233
 Width: 757
 VWidth: 819
 GlyphClass: 2
@@ -17927,7 +17926,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu esigntelu
 EndChar
 
 StartChar: latelu_esigntelu
-Encoding: 492 -1 234
+Encoding: 65686 -1 234
 Width: 668
 VWidth: 819
 GlyphClass: 2
@@ -17991,7 +17990,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu esigntelu
 EndChar
 
 StartChar: llatelu_esigntelu
-Encoding: 493 -1 235
+Encoding: 65687 -1 235
 Width: 563
 VWidth: 819
 GlyphClass: 2
@@ -18071,7 +18070,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu esigntelu
 EndChar
 
 StartChar: vatelu_esigntelu
-Encoding: 494 -1 236
+Encoding: 65688 -1 236
 Width: 576
 VWidth: 819
 GlyphClass: 2
@@ -18133,7 +18132,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu esigntelu
 EndChar
 
 StartChar: shatelu_esigntelu
-Encoding: 495 -1 237
+Encoding: 65689 -1 237
 Width: 500
 VWidth: 819
 GlyphClass: 2
@@ -18205,7 +18204,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu esigntelu
 EndChar
 
 StartChar: ssatelu_esigntelu
-Encoding: 496 -1 238
+Encoding: 65690 -1 238
 Width: 600
 VWidth: 819
 GlyphClass: 2
@@ -18277,7 +18276,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu esigntelu
 EndChar
 
 StartChar: satelu_esigntelu
-Encoding: 497 -1 239
+Encoding: 65691 -1 239
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -18336,7 +18335,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu esigntelu
 EndChar
 
 StartChar: hatelu_esigntelu
-Encoding: 498 -1 240
+Encoding: 65692 -1 240
 Width: 882
 VWidth: 819
 GlyphClass: 2
@@ -18425,7 +18424,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu esigntelu
 EndChar
 
 StartChar: katel_esigntel_ssatel_viramtel
-Encoding: 499 -1 241
+Encoding: 65693 -1 241
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -18508,7 +18507,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_eesigntelu
-Encoding: 500 -1 242
+Encoding: 65694 -1 242
 Width: 473
 VWidth: 819
 GlyphClass: 2
@@ -18579,7 +18578,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu eesigntelu
 EndChar
 
 StartChar: khatelu_eesigntelu
-Encoding: 501 -1 243
+Encoding: 65695 -1 243
 Width: 707
 VWidth: 819
 GlyphClass: 2
@@ -18689,7 +18688,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu eesigntelu
 EndChar
 
 StartChar: gatelu_eesigntelu
-Encoding: 502 -1 244
+Encoding: 65696 -1 244
 Width: 519
 VWidth: 819
 GlyphClass: 2
@@ -18744,7 +18743,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu eesigntelu
 EndChar
 
 StartChar: ghatelu_eesigntelu
-Encoding: 503 -1 245
+Encoding: 65697 -1 245
 Width: 957
 VWidth: 819
 GlyphClass: 2
@@ -18845,7 +18844,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu eesigntelu
 EndChar
 
 StartChar: ngatelu_eesigntelu
-Encoding: 504 -1 246
+Encoding: 65698 -1 246
 Width: 620
 VWidth: 819
 GlyphClass: 2
@@ -18942,7 +18941,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu eesigntelu
 EndChar
 
 StartChar: catelu_eesigntelu
-Encoding: 505 -1 247
+Encoding: 65699 -1 247
 Width: 641
 VWidth: 819
 GlyphClass: 2
@@ -19022,7 +19021,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu eesigntelu
 EndChar
 
 StartChar: chatelu_eesigntelu
-Encoding: 506 -1 248
+Encoding: 65700 -1 248
 Width: 641
 VWidth: 819
 GlyphClass: 2
@@ -19108,7 +19107,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu eesigntelu
 EndChar
 
 StartChar: jatelu_eesigntelu
-Encoding: 507 -1 249
+Encoding: 65701 -1 249
 Width: 647
 VWidth: 819
 GlyphClass: 2
@@ -19211,7 +19210,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu eesigntelu
 EndChar
 
 StartChar: jhatelu_eesigntelu
-Encoding: 508 -1 250
+Encoding: 65702 -1 250
 Width: 1288
 VWidth: 819
 GlyphClass: 2
@@ -19308,7 +19307,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu eesigntelu
 EndChar
 
 StartChar: nyatelu_eesigntelu
-Encoding: 509 -1 251
+Encoding: 65703 -1 251
 Width: 827
 VWidth: 819
 GlyphClass: 2
@@ -19412,7 +19411,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu eesigntelu
 EndChar
 
 StartChar: ttatelu_eesigntelu
-Encoding: 510 -1 252
+Encoding: 65704 -1 252
 Width: 742
 VWidth: 819
 GlyphClass: 2
@@ -19502,7 +19501,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu eesigntelu
 EndChar
 
 StartChar: tthatelu_eesigntelu
-Encoding: 511 -1 253
+Encoding: 65705 -1 253
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -19571,7 +19570,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu eesigntelu
 EndChar
 
 StartChar: ddatelu_eesigntelu
-Encoding: 512 -1 254
+Encoding: 65706 -1 254
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -19659,7 +19658,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu eesigntelu
 EndChar
 
 StartChar: ddhatelu_eesigntelu
-Encoding: 513 -1 255
+Encoding: 65707 -1 255
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -19753,7 +19752,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu eesigntelu
 EndChar
 
 StartChar: nnatelu_eesigntelu
-Encoding: 514 -1 256
+Encoding: 65708 -1 256
 Width: 761
 VWidth: 819
 GlyphClass: 2
@@ -19856,7 +19855,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu eesigntelu
 EndChar
 
 StartChar: tatelu_eesigntelu
-Encoding: 515 -1 257
+Encoding: 65709 -1 257
 Width: 655
 VWidth: 819
 GlyphClass: 2
@@ -19951,7 +19950,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu eesigntelu
 EndChar
 
 StartChar: thatelu_eesigntelu
-Encoding: 516 -1 258
+Encoding: 65710 -1 258
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -20032,7 +20031,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu eesigntelu
 EndChar
 
 StartChar: datelu_eesigntelu
-Encoding: 517 -1 259
+Encoding: 65711 -1 259
 Width: 643
 VWidth: 819
 GlyphClass: 2
@@ -20102,7 +20101,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu eesigntelu
 EndChar
 
 StartChar: dhatelu_eesigntelu
-Encoding: 518 -1 260
+Encoding: 65712 -1 260
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -20177,7 +20176,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu eesigntelu
 EndChar
 
 StartChar: natelu_eesigntelu
-Encoding: 519 -1 261
+Encoding: 65713 -1 261
 Width: 606
 VWidth: 819
 GlyphClass: 2
@@ -20249,7 +20248,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu eesigntelu
 EndChar
 
 StartChar: patelu_eesigntelu
-Encoding: 520 -1 262
+Encoding: 65714 -1 262
 Width: 572
 VWidth: 819
 GlyphClass: 2
@@ -20329,7 +20328,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu eesigntelu
 EndChar
 
 StartChar: phatelu_eesigntelu
-Encoding: 521 -1 263
+Encoding: 65715 -1 263
 Width: 579
 VWidth: 819
 GlyphClass: 2
@@ -20415,7 +20414,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu eesigntelu
 EndChar
 
 StartChar: batelu_eesigntelu
-Encoding: 522 -1 264
+Encoding: 65716 -1 264
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -20504,7 +20503,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu eesigntelu
 EndChar
 
 StartChar: bhatelu_eesigntelu
-Encoding: 523 -1 265
+Encoding: 65717 -1 265
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -20599,7 +20598,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu eesigntelu
 EndChar
 
 StartChar: matelu_eesigntelu
-Encoding: 524 -1 266
+Encoding: 65718 -1 266
 Width: 957
 VWidth: 819
 GlyphClass: 2
@@ -20691,7 +20690,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu eesigntelu
 EndChar
 
 StartChar: yatelu_eesigntelu
-Encoding: 525 -1 267
+Encoding: 65719 -1 267
 Width: 1240
 VWidth: 819
 GlyphClass: 2
@@ -20784,7 +20783,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu eesigntelu
 EndChar
 
 StartChar: ratelu_eesigntelu
-Encoding: 526 -1 268
+Encoding: 65720 -1 268
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -20847,7 +20846,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu eesigntelu
 EndChar
 
 StartChar: rratelu_eesigntelu
-Encoding: 527 -1 269
+Encoding: 65721 -1 269
 Width: 757
 VWidth: 819
 GlyphClass: 2
@@ -20950,7 +20949,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu eesigntelu
 EndChar
 
 StartChar: latelu_eesigntelu
-Encoding: 528 -1 270
+Encoding: 65722 -1 270
 Width: 666
 VWidth: 819
 GlyphClass: 2
@@ -21029,7 +21028,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu eesigntelu
 EndChar
 
 StartChar: llatelu_eesigntelu
-Encoding: 529 -1 271
+Encoding: 65723 -1 271
 Width: 561
 VWidth: 819
 GlyphClass: 2
@@ -21124,7 +21123,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu eesigntelu
 EndChar
 
 StartChar: vatelu_eesigntelu
-Encoding: 530 -1 272
+Encoding: 65724 -1 272
 Width: 576
 VWidth: 819
 GlyphClass: 2
@@ -21201,7 +21200,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu eesigntelu
 EndChar
 
 StartChar: shatelu_eesigntelu
-Encoding: 531 -1 273
+Encoding: 65725 -1 273
 Width: 501
 VWidth: 819
 GlyphClass: 2
@@ -21288,7 +21287,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu eesigntelu
 EndChar
 
 StartChar: ssatelu_eesigntelu
-Encoding: 532 -1 274
+Encoding: 65726 -1 274
 Width: 600
 VWidth: 819
 GlyphClass: 2
@@ -21375,7 +21374,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu eesigntelu
 EndChar
 
 StartChar: satelu_eesigntelu
-Encoding: 533 -1 275
+Encoding: 65727 -1 275
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -21449,7 +21448,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu eesigntelu
 EndChar
 
 StartChar: hatelu_eesigntelu
-Encoding: 534 -1 276
+Encoding: 65728 -1 276
 Width: 882
 VWidth: 819
 GlyphClass: 2
@@ -21553,7 +21552,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu eesigntelu
 EndChar
 
 StartChar: katel_eesigntel_ssatel_viramtel
-Encoding: 535 -1 277
+Encoding: 65729 -1 277
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -21650,7 +21649,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_osigntelu
-Encoding: 536 -1 278
+Encoding: 65730 -1 278
 Width: 734
 VWidth: 819
 GlyphClass: 2
@@ -21735,7 +21734,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu osigntelu
 EndChar
 
 StartChar: khatelu_osigntelu
-Encoding: 537 -1 279
+Encoding: 65731 -1 279
 Width: 950
 VWidth: 819
 GlyphClass: 2
@@ -21856,7 +21855,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu osigntelu
 EndChar
 
 StartChar: gatelu_osigntelu
-Encoding: 538 -1 280
+Encoding: 65732 -1 280
 Width: 798
 VWidth: 819
 GlyphClass: 2
@@ -21924,7 +21923,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu osigntelu
 EndChar
 
 StartChar: ghatelu_osigntelu
-Encoding: 539 -1 281
+Encoding: 65733 -1 281
 Width: 1338
 VWidth: 819
 GlyphClass: 2
@@ -22023,7 +22022,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu osigntelu
 EndChar
 
 StartChar: ngatelu_osigntelu
-Encoding: 540 -1 282
+Encoding: 65734 -1 282
 Width: 920
 VWidth: 819
 GlyphClass: 2
@@ -22133,7 +22132,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu osigntelu
 EndChar
 
 StartChar: catelu_osigntelu
-Encoding: 541 -1 283
+Encoding: 65735 -1 283
 Width: 860
 VWidth: 819
 GlyphClass: 2
@@ -22224,7 +22223,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu osigntelu
 EndChar
 
 StartChar: chatelu_osigntelu
-Encoding: 542 -1 284
+Encoding: 65736 -1 284
 Width: 874
 VWidth: 819
 GlyphClass: 2
@@ -22323,7 +22322,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu osigntelu
 EndChar
 
 StartChar: jatelu_osigntelu
-Encoding: 543 -1 285
+Encoding: 65737 -1 285
 Width: 923
 VWidth: 819
 GlyphClass: 2
@@ -22439,7 +22438,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu osigntelu
 EndChar
 
 StartChar: jhatelu_osigntelu
-Encoding: 544 -1 286
+Encoding: 65738 -1 286
 Width: 1655
 VWidth: 819
 GlyphClass: 2
@@ -22535,7 +22534,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu osigntelu
 EndChar
 
 StartChar: nyatelu_osigntelu
-Encoding: 545 -1 287
+Encoding: 65739 -1 287
 Width: 1070
 VWidth: 819
 GlyphClass: 2
@@ -22653,7 +22652,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu osigntelu
 EndChar
 
 StartChar: ttatelu_osigntelu
-Encoding: 546 -1 288
+Encoding: 65740 -1 288
 Width: 990
 VWidth: 819
 GlyphClass: 2
@@ -22756,7 +22755,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu osigntelu
 EndChar
 
 StartChar: tthatelu_osigntelu
-Encoding: 547 -1 289
+Encoding: 65741 -1 289
 Width: 816
 VWidth: 819
 GlyphClass: 2
@@ -22839,7 +22838,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu osigntelu
 EndChar
 
 StartChar: ddatelu_osigntelu
-Encoding: 548 -1 290
+Encoding: 65742 -1 290
 Width: 892
 VWidth: 819
 GlyphClass: 2
@@ -22941,7 +22940,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu osigntelu
 EndChar
 
 StartChar: ddhatelu_osigntelu
-Encoding: 549 -1 291
+Encoding: 65743 -1 291
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -23049,7 +23048,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu osigntelu
 EndChar
 
 StartChar: nnatelu_osigntelu
-Encoding: 550 -1 292
+Encoding: 65744 -1 292
 Width: 1008
 VWidth: 819
 GlyphClass: 2
@@ -23166,7 +23165,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu osigntelu
 EndChar
 
 StartChar: tatelu_osigntelu
-Encoding: 551 -1 293
+Encoding: 65745 -1 293
 Width: 903
 VWidth: 819
 GlyphClass: 2
@@ -23272,7 +23271,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu osigntelu
 EndChar
 
 StartChar: thatelu_osigntelu
-Encoding: 552 -1 294
+Encoding: 65746 -1 294
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -23371,7 +23370,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu osigntelu
 EndChar
 
 StartChar: datelu_osigntelu
-Encoding: 553 -1 295
+Encoding: 65747 -1 295
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -23458,7 +23457,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu osigntelu
 EndChar
 
 StartChar: dhatelu_osigntelu
-Encoding: 554 -1 296
+Encoding: 65748 -1 296
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -23551,7 +23550,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu osigntelu
 EndChar
 
 StartChar: natelu_osigntelu
-Encoding: 555 -1 297
+Encoding: 65749 -1 297
 Width: 836
 VWidth: 819
 GlyphClass: 2
@@ -23635,7 +23634,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu osigntelu
 EndChar
 
 StartChar: patelu_osigntelu
-Encoding: 556 -1 298
+Encoding: 65750 -1 298
 Width: 903
 VWidth: 819
 GlyphClass: 2
@@ -23729,7 +23728,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu osigntelu
 EndChar
 
 StartChar: phatelu_osigntelu
-Encoding: 557 -1 299
+Encoding: 65751 -1 299
 Width: 903
 VWidth: 819
 GlyphClass: 2
@@ -23829,7 +23828,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu osigntelu
 EndChar
 
 StartChar: batelu_osigntelu
-Encoding: 558 -1 300
+Encoding: 65752 -1 300
 Width: 920
 VWidth: 819
 GlyphClass: 2
@@ -23929,7 +23928,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu osigntelu
 EndChar
 
 StartChar: bhatelu_osigntelu
-Encoding: 559 -1 301
+Encoding: 65753 -1 301
 Width: 881
 VWidth: 819
 GlyphClass: 2
@@ -24035,7 +24034,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu osigntelu
 EndChar
 
 StartChar: matelu_osigntelu
-Encoding: 560 -1 302
+Encoding: 65754 -1 302
 Width: 1338
 VWidth: 819
 GlyphClass: 2
@@ -24125,7 +24124,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu osigntelu
 EndChar
 
 StartChar: yatelu_osigntelu
-Encoding: 561 -1 303
+Encoding: 65755 -1 303
 Width: 1607
 VWidth: 819
 GlyphClass: 2
@@ -24217,7 +24216,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu osigntelu
 EndChar
 
 StartChar: ratelu_osigntelu
-Encoding: 562 -1 304
+Encoding: 65756 -1 304
 Width: 788
 VWidth: 819
 GlyphClass: 2
@@ -24294,7 +24293,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu osigntelu
 EndChar
 
 StartChar: rratelu_osigntelu
-Encoding: 563 -1 305
+Encoding: 65757 -1 305
 Width: 1064
 VWidth: 819
 GlyphClass: 2
@@ -24411,7 +24410,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu osigntelu
 EndChar
 
 StartChar: latelu_osigntelu
-Encoding: 564 -1 306
+Encoding: 65758 -1 306
 Width: 911
 VWidth: 819
 GlyphClass: 2
@@ -24502,7 +24501,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu osigntelu
 EndChar
 
 StartChar: llatelu_osigntelu
-Encoding: 565 -1 307
+Encoding: 65759 -1 307
 Width: 806
 VWidth: 819
 GlyphClass: 2
@@ -24610,7 +24609,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu osigntelu
 EndChar
 
 StartChar: vatelu_osigntelu
-Encoding: 566 -1 308
+Encoding: 65760 -1 308
 Width: 832
 VWidth: 819
 GlyphClass: 2
@@ -24700,7 +24699,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu osigntelu
 EndChar
 
 StartChar: shatelu_osigntelu
-Encoding: 567 -1 309
+Encoding: 65761 -1 309
 Width: 753
 VWidth: 819
 GlyphClass: 2
@@ -24798,7 +24797,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu osigntelu
 EndChar
 
 StartChar: ssatelu_osigntelu
-Encoding: 568 -1 310
+Encoding: 65762 -1 310
 Width: 908
 VWidth: 819
 GlyphClass: 2
@@ -24899,7 +24898,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu osigntelu
 EndChar
 
 StartChar: satelu_osigntelu
-Encoding: 569 -1 311
+Encoding: 65763 -1 311
 Width: 901
 VWidth: 819
 GlyphClass: 2
@@ -24987,7 +24986,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu osigntelu
 EndChar
 
 StartChar: hatelu_osigntelu
-Encoding: 570 -1 312
+Encoding: 65764 -1 312
 Width: 1267
 VWidth: 819
 GlyphClass: 2
@@ -25114,7 +25113,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu osigntelu
 EndChar
 
 StartChar: katel_osigntel_ssatel_viramtel
-Encoding: 571 -1 313
+Encoding: 65765 -1 313
 Width: 750
 VWidth: 819
 GlyphClass: 2
@@ -25225,7 +25224,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_oosigntelu
-Encoding: 572 -1 314
+Encoding: 65766 -1 314
 Width: 734
 VWidth: 819
 GlyphClass: 2
@@ -25324,7 +25323,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu oosigntelu
 EndChar
 
 StartChar: khatelu_oosigntelu
-Encoding: 573 -1 315
+Encoding: 65767 -1 315
 Width: 944
 VWidth: 819
 GlyphClass: 2
@@ -25460,7 +25459,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu oosigntelu
 EndChar
 
 StartChar: gatelu_oosigntelu
-Encoding: 574 -1 316
+Encoding: 65768 -1 316
 Width: 798
 VWidth: 819
 GlyphClass: 2
@@ -25542,7 +25541,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu oosigntelu
 EndChar
 
 StartChar: ghatelu_oosigntelu
-Encoding: 575 -1 317
+Encoding: 65769 -1 317
 Width: 1319
 VWidth: 819
 GlyphClass: 2
@@ -25651,7 +25650,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu oosigntelu
 EndChar
 
 StartChar: ngatelu_oosigntelu
-Encoding: 576 -1 318
+Encoding: 65770 -1 318
 Width: 920
 VWidth: 819
 GlyphClass: 2
@@ -25776,7 +25775,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu oosigntelu
 EndChar
 
 StartChar: catelu_oosigntelu
-Encoding: 577 -1 319
+Encoding: 65771 -1 319
 Width: 859
 VWidth: 819
 GlyphClass: 2
@@ -25881,7 +25880,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu oosigntelu
 EndChar
 
 StartChar: chatelu_oosigntelu
-Encoding: 578 -1 320
+Encoding: 65772 -1 320
 Width: 874
 VWidth: 819
 GlyphClass: 2
@@ -25994,7 +25993,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu oosigntelu
 EndChar
 
 StartChar: jatelu_oosigntelu
-Encoding: 579 -1 321
+Encoding: 65773 -1 321
 Width: 922
 VWidth: 819
 GlyphClass: 2
@@ -26125,7 +26124,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu oosigntelu
 EndChar
 
 StartChar: jhatelu_oosigntelu
-Encoding: 580 -1 322
+Encoding: 65774 -1 322
 Width: 1649
 VWidth: 819
 GlyphClass: 2
@@ -26234,7 +26233,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu oosigntelu
 EndChar
 
 StartChar: nyatelu_oosigntelu
-Encoding: 581 -1 323
+Encoding: 65775 -1 323
 Width: 1063
 VWidth: 819
 GlyphClass: 2
@@ -26366,7 +26365,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu oosigntelu
 EndChar
 
 StartChar: ttatelu_oosigntelu
-Encoding: 582 -1 324
+Encoding: 65776 -1 324
 Width: 990
 VWidth: 819
 GlyphClass: 2
@@ -26483,7 +26482,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu oosigntelu
 EndChar
 
 StartChar: tthatelu_oosigntelu
-Encoding: 583 -1 325
+Encoding: 65777 -1 325
 Width: 816
 VWidth: 819
 GlyphClass: 2
@@ -26580,7 +26579,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu oosigntelu
 EndChar
 
 StartChar: ddatelu_oosigntelu
-Encoding: 584 -1 326
+Encoding: 65778 -1 326
 Width: 892
 VWidth: 819
 GlyphClass: 2
@@ -26695,7 +26694,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu oosigntelu
 EndChar
 
 StartChar: ddhatelu_oosigntelu
-Encoding: 585 -1 327
+Encoding: 65779 -1 327
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -26817,7 +26816,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu oosigntelu
 EndChar
 
 StartChar: nnatelu_oosigntelu
-Encoding: 586 -1 328
+Encoding: 65780 -1 328
 Width: 1008
 VWidth: 819
 GlyphClass: 2
@@ -26948,7 +26947,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu oosigntelu
 EndChar
 
 StartChar: tatelu_oosigntelu
-Encoding: 587 -1 329
+Encoding: 65781 -1 329
 Width: 903
 VWidth: 819
 GlyphClass: 2
@@ -27068,7 +27067,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu oosigntelu
 EndChar
 
 StartChar: thatelu_oosigntelu
-Encoding: 588 -1 330
+Encoding: 65782 -1 330
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -27181,7 +27180,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu oosigntelu
 EndChar
 
 StartChar: datelu_oosigntelu
-Encoding: 589 -1 331
+Encoding: 65783 -1 331
 Width: 844
 VWidth: 819
 GlyphClass: 2
@@ -27282,7 +27281,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu oosigntelu
 EndChar
 
 StartChar: dhatelu_oosigntelu
-Encoding: 590 -1 332
+Encoding: 65784 -1 332
 Width: 843
 VWidth: 819
 GlyphClass: 2
@@ -27389,7 +27388,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu oosigntelu
 EndChar
 
 StartChar: natelu_oosigntelu
-Encoding: 591 -1 333
+Encoding: 65785 -1 333
 Width: 836
 VWidth: 819
 GlyphClass: 2
@@ -27487,7 +27486,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu oosigntelu
 EndChar
 
 StartChar: patelu_oosigntelu
-Encoding: 592 -1 334
+Encoding: 65786 -1 334
 Width: 907
 VWidth: 819
 GlyphClass: 2
@@ -27596,7 +27595,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu oosigntelu
 EndChar
 
 StartChar: phatelu_oosigntelu
-Encoding: 593 -1 335
+Encoding: 65787 -1 335
 Width: 901
 VWidth: 819
 GlyphClass: 2
@@ -27711,7 +27710,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu oosigntelu
 EndChar
 
 StartChar: batelu_oosigntelu
-Encoding: 594 -1 336
+Encoding: 65788 -1 336
 Width: 920
 VWidth: 819
 GlyphClass: 2
@@ -27826,7 +27825,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu oosigntelu
 EndChar
 
 StartChar: bhatelu_oosigntelu
-Encoding: 595 -1 337
+Encoding: 65789 -1 337
 Width: 881
 VWidth: 819
 GlyphClass: 2
@@ -27947,7 +27946,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu oosigntelu
 EndChar
 
 StartChar: matelu_oosigntelu
-Encoding: 596 -1 338
+Encoding: 65790 -1 338
 Width: 1313
 VWidth: 819
 GlyphClass: 2
@@ -28047,7 +28046,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu oosigntelu
 EndChar
 
 StartChar: yatelu_oosigntelu
-Encoding: 597 -1 339
+Encoding: 65791 -1 339
 Width: 1588
 VWidth: 819
 GlyphClass: 2
@@ -28150,7 +28149,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu oosigntelu
 EndChar
 
 StartChar: ratelu_oosigntelu
-Encoding: 598 -1 340
+Encoding: 65792 -1 340
 Width: 788
 VWidth: 819
 GlyphClass: 2
@@ -28241,7 +28240,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu oosigntelu
 EndChar
 
 StartChar: rratelu_oosigntelu
-Encoding: 599 -1 341
+Encoding: 65793 -1 341
 Width: 1058
 VWidth: 819
 GlyphClass: 2
@@ -28371,7 +28370,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu oosigntelu
 EndChar
 
 StartChar: latelu_oosigntelu
-Encoding: 600 -1 342
+Encoding: 65794 -1 342
 Width: 911
 VWidth: 819
 GlyphClass: 2
@@ -28476,7 +28475,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu oosigntelu
 EndChar
 
 StartChar: llatelu_oosigntelu
-Encoding: 601 -1 343
+Encoding: 65795 -1 343
 Width: 806
 VWidth: 819
 GlyphClass: 2
@@ -28599,7 +28598,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu oosigntelu
 EndChar
 
 StartChar: vatelu_oosigntelu
-Encoding: 602 -1 344
+Encoding: 65796 -1 344
 Width: 832
 VWidth: 819
 GlyphClass: 2
@@ -28703,7 +28702,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu oosigntelu
 EndChar
 
 StartChar: shatelu_oosigntelu
-Encoding: 603 -1 345
+Encoding: 65797 -1 345
 Width: 753
 VWidth: 819
 GlyphClass: 2
@@ -28816,7 +28815,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu oosigntelu
 EndChar
 
 StartChar: ssatelu_oosigntelu
-Encoding: 604 -1 346
+Encoding: 65798 -1 346
 Width: 912
 VWidth: 819
 GlyphClass: 2
@@ -28932,7 +28931,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu oosigntelu
 EndChar
 
 StartChar: satelu_oosigntelu
-Encoding: 605 -1 347
+Encoding: 65799 -1 347
 Width: 901
 VWidth: 819
 GlyphClass: 2
@@ -29035,7 +29034,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu oosigntelu
 EndChar
 
 StartChar: hatelu_oosigntelu
-Encoding: 606 -1 348
+Encoding: 65800 -1 348
 Width: 1294
 VWidth: 819
 GlyphClass: 2
@@ -29177,7 +29176,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu oosigntelu
 EndChar
 
 StartChar: katel_oosigntel_ssatel_viramtel
-Encoding: 607 -1 349
+Encoding: 65801 -1 349
 Width: 750
 VWidth: 819
 GlyphClass: 2
@@ -29302,7 +29301,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_ausigntelu
-Encoding: 608 -1 350
+Encoding: 65802 -1 350
 Width: 771
 VWidth: 819
 GlyphClass: 2
@@ -29381,7 +29380,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu ausigntelu
 EndChar
 
 StartChar: khatelu_ausigntelu
-Encoding: 609 -1 351
+Encoding: 65803 -1 351
 Width: 960
 VWidth: 819
 GlyphClass: 2
@@ -29499,7 +29498,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" khatelu ausigntelu
 EndChar
 
 StartChar: gatelu_ausigntelu
-Encoding: 610 -1 352
+Encoding: 65804 -1 352
 Width: 787
 VWidth: 819
 GlyphClass: 2
@@ -29563,7 +29562,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" gatelu ausigntelu
 EndChar
 
 StartChar: ghatelu_ausigntelu
-Encoding: 611 -1 353
+Encoding: 65805 -1 353
 Width: 1270
 VWidth: 819
 GlyphClass: 2
@@ -29684,7 +29683,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ghatelu ausigntelu
 EndChar
 
 StartChar: ngatelu_ausigntelu
-Encoding: 612 -1 354
+Encoding: 65806 -1 354
 Width: 1012
 VWidth: 819
 GlyphClass: 2
@@ -29789,7 +29788,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ngatelu ausigntelu
 EndChar
 
 StartChar: catelu_ausigntelu
-Encoding: 613 -1 355
+Encoding: 65807 -1 355
 Width: 904
 VWidth: 819
 GlyphClass: 2
@@ -29877,7 +29876,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" catelu ausigntelu
 EndChar
 
 StartChar: chatelu_ausigntelu
-Encoding: 614 -1 356
+Encoding: 65808 -1 356
 Width: 938
 VWidth: 819
 GlyphClass: 2
@@ -29971,7 +29970,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" chatelu ausigntelu
 EndChar
 
 StartChar: jatelu_ausigntelu
-Encoding: 615 -1 357
+Encoding: 65809 -1 357
 Width: 924
 VWidth: 819
 GlyphClass: 2
@@ -30076,7 +30075,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jatelu ausigntelu
 EndChar
 
 StartChar: jhatelu_ausigntelu
-Encoding: 616 -1 358
+Encoding: 65810 -1 358
 Width: 1607
 VWidth: 819
 GlyphClass: 2
@@ -30187,7 +30186,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" jhatelu ausigntelu
 EndChar
 
 StartChar: nyatelu_ausigntelu
-Encoding: 617 -1 359
+Encoding: 65811 -1 359
 Width: 1222
 VWidth: 819
 GlyphClass: 2
@@ -30299,7 +30298,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nyatelu ausigntelu
 EndChar
 
 StartChar: ttatelu_ausigntelu
-Encoding: 618 -1 360
+Encoding: 65812 -1 360
 Width: 1020
 VWidth: 819
 GlyphClass: 2
@@ -30397,7 +30396,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ttatelu ausigntelu
 EndChar
 
 StartChar: tthatelu_ausigntelu
-Encoding: 619 -1 361
+Encoding: 65813 -1 361
 Width: 845
 VWidth: 819
 GlyphClass: 2
@@ -30474,7 +30473,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tthatelu ausigntelu
 EndChar
 
 StartChar: ddatelu_ausigntelu
-Encoding: 620 -1 362
+Encoding: 65814 -1 362
 Width: 924
 VWidth: 819
 GlyphClass: 2
@@ -30570,7 +30569,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddatelu ausigntelu
 EndChar
 
 StartChar: ddhatelu_ausigntelu
-Encoding: 621 -1 363
+Encoding: 65815 -1 363
 Width: 908
 VWidth: 819
 GlyphClass: 2
@@ -30672,7 +30671,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ddhatelu ausigntelu
 EndChar
 
 StartChar: nnatelu_ausigntelu
-Encoding: 622 -1 364
+Encoding: 65816 -1 364
 Width: 1066
 VWidth: 819
 GlyphClass: 2
@@ -30783,7 +30782,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" nnatelu ausigntelu
 EndChar
 
 StartChar: tatelu_ausigntelu
-Encoding: 623 -1 365
+Encoding: 65817 -1 365
 Width: 919
 VWidth: 819
 GlyphClass: 2
@@ -30886,7 +30885,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" tatelu ausigntelu
 EndChar
 
 StartChar: thatelu_ausigntelu
-Encoding: 624 -1 366
+Encoding: 65818 -1 366
 Width: 881
 VWidth: 819
 GlyphClass: 2
@@ -30979,7 +30978,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" thatelu ausigntelu
 EndChar
 
 StartChar: datelu_ausigntelu
-Encoding: 625 -1 367
+Encoding: 65819 -1 367
 Width: 874
 VWidth: 819
 GlyphClass: 2
@@ -31060,7 +31059,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" datelu ausigntelu
 EndChar
 
 StartChar: dhatelu_ausigntelu
-Encoding: 626 -1 368
+Encoding: 65820 -1 368
 Width: 868
 VWidth: 819
 GlyphClass: 2
@@ -31147,7 +31146,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" dhatelu ausigntelu
 EndChar
 
 StartChar: natelu_ausigntelu
-Encoding: 627 -1 369
+Encoding: 65821 -1 369
 Width: 839
 VWidth: 819
 GlyphClass: 2
@@ -31226,7 +31225,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" natelu ausigntelu
 EndChar
 
 StartChar: patelu_ausigntelu
-Encoding: 628 -1 370
+Encoding: 65822 -1 370
 Width: 880
 VWidth: 819
 GlyphClass: 2
@@ -31318,7 +31317,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" patelu ausigntelu
 EndChar
 
 StartChar: phatelu_ausigntelu
-Encoding: 629 -1 371
+Encoding: 65823 -1 371
 Width: 893
 VWidth: 819
 GlyphClass: 2
@@ -31416,7 +31415,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" phatelu ausigntelu
 EndChar
 
 StartChar: batelu_ausigntelu
-Encoding: 630 -1 372
+Encoding: 65824 -1 372
 Width: 903
 VWidth: 819
 GlyphClass: 2
@@ -31513,7 +31512,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" batelu ausigntelu
 EndChar
 
 StartChar: bhatelu_ausigntelu
-Encoding: 631 -1 373
+Encoding: 65825 -1 373
 Width: 890
 VWidth: 819
 GlyphClass: 2
@@ -31610,7 +31609,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" bhatelu ausigntelu
 EndChar
 
 StartChar: matelu_ausigntelu
-Encoding: 632 -1 374
+Encoding: 65826 -1 374
 Width: 1270
 VWidth: 819
 GlyphClass: 2
@@ -31714,7 +31713,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" matelu ausigntelu
 EndChar
 
 StartChar: yatelu_ausigntelu
-Encoding: 633 -1 375
+Encoding: 65827 -1 375
 Width: 1552
 VWidth: 819
 GlyphClass: 2
@@ -31825,7 +31824,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" yatelu ausigntelu
 EndChar
 
 StartChar: ratelu_ausigntelu
-Encoding: 634 -1 376
+Encoding: 65828 -1 376
 Width: 812
 VWidth: 819
 GlyphClass: 2
@@ -31896,7 +31895,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ratelu ausigntelu
 EndChar
 
 StartChar: rratelu_ausigntelu
-Encoding: 635 -1 377
+Encoding: 65829 -1 377
 Width: 1006
 VWidth: 819
 GlyphClass: 2
@@ -32006,7 +32005,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" rratelu ausigntelu
 EndChar
 
 StartChar: latelu_ausigntelu
-Encoding: 636 -1 378
+Encoding: 65830 -1 378
 Width: 913
 VWidth: 819
 GlyphClass: 2
@@ -32089,7 +32088,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" latelu ausigntelu
 EndChar
 
 StartChar: llatelu_ausigntelu
-Encoding: 637 -1 379
+Encoding: 65831 -1 379
 Width: 816
 VWidth: 819
 GlyphClass: 2
@@ -32192,7 +32191,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" llatelu ausigntelu
 EndChar
 
 StartChar: vatelu_ausigntelu
-Encoding: 638 -1 380
+Encoding: 65832 -1 380
 Width: 862
 VWidth: 819
 GlyphClass: 2
@@ -32277,7 +32276,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" vatelu ausigntelu
 EndChar
 
 StartChar: shatelu_ausigntelu
-Encoding: 639 -1 381
+Encoding: 65833 -1 381
 Width: 756
 VWidth: 819
 GlyphClass: 2
@@ -32372,7 +32371,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" shatelu ausigntelu
 EndChar
 
 StartChar: ssatelu_ausigntelu
-Encoding: 640 -1 382
+Encoding: 65834 -1 382
 Width: 895
 VWidth: 819
 GlyphClass: 2
@@ -32471,7 +32470,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" ssatelu ausigntelu
 EndChar
 
 StartChar: satelu_ausigntelu
-Encoding: 641 -1 383
+Encoding: 65835 -1 383
 Width: 885
 VWidth: 819
 GlyphClass: 2
@@ -32557,7 +32556,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" satelu ausigntelu
 EndChar
 
 StartChar: hatelu_ausigntelu
-Encoding: 642 -1 384
+Encoding: 65836 -1 384
 Width: 1222
 VWidth: 819
 GlyphClass: 2
@@ -32678,7 +32677,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" hatelu ausigntelu
 EndChar
 
 StartChar: katel_ausigntel_ssatel_viramtel
-Encoding: 643 -1 385
+Encoding: 65837 -1 385
 Width: 800
 VWidth: 819
 GlyphClass: 2
@@ -32785,7 +32784,7 @@ Ligature2: "'abvs' Above Base Substitutions lookup 0-1" katelu_ssatelu_viramasig
 EndChar
 
 StartChar: katelu_viramasigntelu
-Encoding: 644 -1 386
+Encoding: 65838 -1 386
 Width: 473
 VWidth: 819
 GlyphClass: 2
@@ -32853,7 +32852,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" katelu viramasigntelu
 EndChar
 
 StartChar: khatelu_viramasigntelu
-Encoding: 645 -1 387
+Encoding: 65839 -1 387
 Width: 705
 VWidth: 819
 GlyphClass: 2
@@ -32957,7 +32956,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" khatelu viramasigntelu
 EndChar
 
 StartChar: gatelu_viramasigntelu
-Encoding: 646 -1 388
+Encoding: 65840 -1 388
 Width: 519
 VWidth: 819
 GlyphClass: 2
@@ -33009,7 +33008,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" gatelu viramasigntelu
 EndChar
 
 StartChar: ghatelu_viramasigntelu
-Encoding: 647 -1 389
+Encoding: 65841 -1 389
 Width: 950
 VWidth: 819
 GlyphClass: 2
@@ -33108,7 +33107,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ghatelu viramasigntelu
 EndChar
 
 StartChar: ngatelu_viramasigntelu
-Encoding: 648 -1 390
+Encoding: 65842 -1 390
 Width: 618
 VWidth: 819
 GlyphClass: 2
@@ -33202,7 +33201,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ngatelu viramasigntelu
 EndChar
 
 StartChar: catelu_viramasigntelu
-Encoding: 649 -1 391
+Encoding: 65843 -1 391
 Width: 640
 VWidth: 819
 GlyphClass: 2
@@ -33278,7 +33277,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" catelu viramasigntelu
 EndChar
 
 StartChar: chatelu_viramasigntelu
-Encoding: 650 -1 392
+Encoding: 65844 -1 392
 Width: 641
 VWidth: 819
 GlyphClass: 2
@@ -33360,7 +33359,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" chatelu viramasigntelu
 EndChar
 
 StartChar: jatelu_viramasigntelu
-Encoding: 651 -1 393
+Encoding: 65845 -1 393
 Width: 644
 VWidth: 819
 GlyphClass: 2
@@ -33455,7 +33454,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" jatelu viramasigntelu
 EndChar
 
 StartChar: jhatelu_viramasigntelu
-Encoding: 652 -1 394
+Encoding: 65846 -1 394
 Width: 1183
 VWidth: 819
 GlyphClass: 2
@@ -33553,7 +33552,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" jhatelu viramasigntelu
 EndChar
 
 StartChar: nyatelu_viramasigntelu
-Encoding: 653 -1 395
+Encoding: 65847 -1 395
 Width: 810
 VWidth: 819
 GlyphClass: 2
@@ -33654,7 +33653,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" nyatelu viramasigntelu
 EndChar
 
 StartChar: ttatelu_viramasigntelu
-Encoding: 654 -1 396
+Encoding: 65848 -1 396
 Width: 740
 VWidth: 819
 GlyphClass: 2
@@ -33738,7 +33737,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ttatelu viramasigntelu
 EndChar
 
 StartChar: tthatelu_viramasigntelu
-Encoding: 655 -1 397
+Encoding: 65849 -1 397
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -33804,7 +33803,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" tthatelu viramasigntelu
 EndChar
 
 StartChar: ddatelu_viramasigntelu
-Encoding: 656 -1 398
+Encoding: 65850 -1 398
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -33889,7 +33888,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ddatelu viramasigntelu
 EndChar
 
 StartChar: ddhatelu_viramasigntelu
-Encoding: 657 -1 399
+Encoding: 65851 -1 399
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -33980,7 +33979,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ddhatelu viramasigntelu
 EndChar
 
 StartChar: nnatelu_viramasigntelu
-Encoding: 658 -1 400
+Encoding: 65852 -1 400
 Width: 761
 VWidth: 819
 GlyphClass: 2
@@ -34080,7 +34079,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" nnatelu viramasigntelu
 EndChar
 
 StartChar: tatelu_viramasigntelu
-Encoding: 659 -1 401
+Encoding: 65853 -1 401
 Width: 654
 VWidth: 819
 GlyphClass: 2
@@ -34169,7 +34168,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" tatelu viramasigntelu
 EndChar
 
 StartChar: thatelu_viramasigntelu
-Encoding: 660 -1 402
+Encoding: 65854 -1 402
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -34251,7 +34250,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" thatelu viramasigntelu
 EndChar
 
 StartChar: datelu_viramasigntelu
-Encoding: 661 -1 403
+Encoding: 65855 -1 403
 Width: 644
 VWidth: 819
 GlyphClass: 2
@@ -34321,7 +34320,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" datelu viramasigntelu
 EndChar
 
 StartChar: dhatelu_viramasigntelu
-Encoding: 662 -1 404
+Encoding: 65856 -1 404
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -34397,7 +34396,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" dhatelu viramasigntelu
 EndChar
 
 StartChar: natelu_viramasigntelu
-Encoding: 663 -1 405
+Encoding: 65857 -1 405
 Width: 606
 VWidth: 819
 GlyphClass: 2
@@ -34464,7 +34463,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" natelu viramasigntelu
 EndChar
 
 StartChar: patelu_viramasigntelu
-Encoding: 664 -1 406
+Encoding: 65858 -1 406
 Width: 572
 VWidth: 819
 GlyphClass: 2
@@ -34542,7 +34541,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" patelu viramasigntelu
 EndChar
 
 StartChar: phatelu_viramasigntelu
-Encoding: 665 -1 407
+Encoding: 65859 -1 407
 Width: 577
 VWidth: 819
 GlyphClass: 2
@@ -34626,7 +34625,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" phatelu viramasigntelu
 EndChar
 
 StartChar: batelu_viramasigntelu
-Encoding: 666 -1 408
+Encoding: 65860 -1 408
 Width: 672
 VWidth: 819
 GlyphClass: 2
@@ -34709,7 +34708,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" batelu viramasigntelu
 EndChar
 
 StartChar: bhatelu_viramasigntelu
-Encoding: 667 -1 409
+Encoding: 65861 -1 409
 Width: 645
 VWidth: 819
 GlyphClass: 2
@@ -34798,7 +34797,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" bhatelu viramasigntelu
 EndChar
 
 StartChar: matelu_viramasigntelu
-Encoding: 668 -1 410
+Encoding: 65862 -1 410
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -34885,7 +34884,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" matelu viramasigntelu
 EndChar
 
 StartChar: yatelu_viramasigntelu
-Encoding: 669 -1 411
+Encoding: 65863 -1 411
 Width: 1240
 VWidth: 819
 GlyphClass: 2
@@ -34973,7 +34972,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" yatelu viramasigntelu
 EndChar
 
 StartChar: ratelu_viramasigntelu
-Encoding: 670 -1 412
+Encoding: 65864 -1 412
 Width: 540
 VWidth: 819
 GlyphClass: 2
@@ -35033,7 +35032,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ratelu viramasigntelu
 EndChar
 
 StartChar: rratelu_viramasigntelu
-Encoding: 671 -1 413
+Encoding: 65865 -1 413
 Width: 757
 VWidth: 819
 GlyphClass: 2
@@ -35133,7 +35132,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" rratelu viramasigntelu
 EndChar
 
 StartChar: latelu_viramasigntelu
-Encoding: 672 -1 414
+Encoding: 65866 -1 414
 Width: 666
 VWidth: 819
 GlyphClass: 2
@@ -35206,7 +35205,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" latelu viramasigntelu
 EndChar
 
 StartChar: llatelu_viramasigntelu
-Encoding: 673 -1 415
+Encoding: 65867 -1 415
 Width: 561
 VWidth: 819
 GlyphClass: 2
@@ -35297,7 +35296,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" llatelu viramasigntelu
 EndChar
 
 StartChar: vatelu_viramasigntelu
-Encoding: 674 -1 416
+Encoding: 65868 -1 416
 Width: 576
 VWidth: 819
 GlyphClass: 2
@@ -35370,7 +35369,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" vatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_viramasigntelu
-Encoding: 675 -1 417
+Encoding: 65869 -1 417
 Width: 500
 VWidth: 819
 GlyphClass: 2
@@ -35451,7 +35450,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" shatelu viramasigntelu
 EndChar
 
 StartChar: ssatelu_viramasigntelu
-Encoding: 676 -1 418
+Encoding: 65870 -1 418
 Width: 600
 VWidth: 819
 GlyphClass: 2
@@ -35536,7 +35535,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" ssatelu viramasigntelu
 EndChar
 
 StartChar: satelu_viramasigntelu
-Encoding: 677 -1 419
+Encoding: 65871 -1 419
 Width: 590
 VWidth: 819
 GlyphClass: 2
@@ -35608,7 +35607,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" satelu viramasigntelu
 EndChar
 
 StartChar: hatelu_viramasigntelu
-Encoding: 678 -1 420
+Encoding: 65872 -1 420
 Width: 882
 VWidth: 819
 GlyphClass: 2
@@ -35710,7 +35709,7 @@ Ligature2: "'haln' Halant Forms lookup 1-1" hatelu viramasigntelu
 EndChar
 
 StartChar: katelu_ssatelu_viramtelu_U0C4D
-Encoding: 679 -1 421
+Encoding: 65873 -1 421
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -35802,7 +35801,7 @@ EndSplineSet
 EndChar
 
 StartChar: jatelu_usigntelu
-Encoding: 680 -1 422
+Encoding: 65874 -1 422
 Width: 849
 VWidth: 819
 GlyphClass: 2
@@ -35899,7 +35898,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" jatelu usigntelu
 EndChar
 
 StartChar: jatelu_uusigntelu
-Encoding: 681 -1 423
+Encoding: 65875 -1 423
 Width: 1162
 VWidth: 819
 GlyphClass: 2
@@ -36017,7 +36016,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" jatelu uusigntelu
 EndChar
 
 StartChar: patelu_usigntelu
-Encoding: 682 -1 424
+Encoding: 65876 -1 424
 Width: 822
 VWidth: 819
 GlyphClass: 2
@@ -36096,7 +36095,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" patelu usigntelu
 EndChar
 
 StartChar: patelu_uusigntelu
-Encoding: 683 -1 425
+Encoding: 65877 -1 425
 Width: 1196
 VWidth: 819
 GlyphClass: 2
@@ -36200,7 +36199,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" patelu uusigntelu
 EndChar
 
 StartChar: phatelu_usigntelu
-Encoding: 684 -1 426
+Encoding: 65878 -1 426
 Width: 822
 VWidth: 819
 GlyphClass: 2
@@ -36283,7 +36282,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" phatelu usigntelu
 EndChar
 
 StartChar: phatelu_uusigntelu
-Encoding: 685 -1 427
+Encoding: 65879 -1 427
 Width: 1196
 VWidth: 819
 GlyphClass: 2
@@ -36391,7 +36390,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" phatelu uusigntelu
 EndChar
 
 StartChar: vatelu_usigntelu
-Encoding: 686 -1 428
+Encoding: 65880 -1 428
 Width: 822
 VWidth: 819
 GlyphClass: 2
@@ -36465,7 +36464,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" vatelu usigntelu
 EndChar
 
 StartChar: vatelu_uusigntelu
-Encoding: 687 -1 429
+Encoding: 65881 -1 429
 Width: 1196
 VWidth: 819
 GlyphClass: 2
@@ -36565,7 +36564,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" vatelu uusigntelu
 EndChar
 
 StartChar: katelu_viramasigntelu.blwf
-Encoding: 688 -1 430
+Encoding: 65882 -1 430
 Width: 500
 VWidth: 819
 GlyphClass: 4
@@ -36609,7 +36608,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" katelu viramasigntelu
 EndChar
 
 StartChar: khatelu_viramasigntelu.blwf
-Encoding: 689 -1 431
+Encoding: 65883 -1 431
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -36691,7 +36690,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" khatelu viramasigntelu
 EndChar
 
 StartChar: gatelu_viramasigntelu.blwf
-Encoding: 690 -1 432
+Encoding: 65884 -1 432
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -36719,7 +36718,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" gatelu viramasigntelu
 EndChar
 
 StartChar: ghatelu_viramasigntelu.blwf
-Encoding: 691 -1 433
+Encoding: 65885 -1 433
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -36783,7 +36782,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ghatelu viramasigntelu
 EndChar
 
 StartChar: ngatelu_viramasigntelu.blwf
-Encoding: 692 -1 434
+Encoding: 65886 -1 434
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -36853,7 +36852,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ngatelu viramasigntelu
 EndChar
 
 StartChar: catelu_viramasigntelu.blwf
-Encoding: 693 -1 435
+Encoding: 65887 -1 435
 Width: 412
 VWidth: 819
 GlyphClass: 4
@@ -36901,7 +36900,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" catelu viramasigntelu
 EndChar
 
 StartChar: chatelu_viramasigntelu.blwf
-Encoding: 694 -1 436
+Encoding: 65888 -1 436
 Width: 402
 VWidth: 819
 GlyphClass: 4
@@ -36955,7 +36954,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" chatelu viramasigntelu
 EndChar
 
 StartChar: jatelu_viramasigntelu.blwf
-Encoding: 695 -1 437
+Encoding: 65889 -1 437
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37031,7 +37030,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" jatelu viramasigntelu
 EndChar
 
 StartChar: jhatelu_viramasigntelu.blwf
-Encoding: 696 -1 438
+Encoding: 65890 -1 438
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37096,7 +37095,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" jhatelu viramasigntelu
 EndChar
 
 StartChar: nyatelu_viramasigntelu.blwf
-Encoding: 697 -1 439
+Encoding: 65891 -1 439
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37174,7 +37173,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" nyatelu viramasigntelu
 EndChar
 
 StartChar: ttatelu_viramasigntelu.blwf
-Encoding: 698 -1 440
+Encoding: 65892 -1 440
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37236,7 +37235,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ttatelu viramasigntelu
 EndChar
 
 StartChar: tthatelu_viramasigntelu.blwf
-Encoding: 699 -1 441
+Encoding: 65893 -1 441
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37278,7 +37277,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" tthatelu viramasigntel
 EndChar
 
 StartChar: ddatelu_viramasigntelu.blwf
-Encoding: 700 -1 442
+Encoding: 65894 -1 442
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37338,7 +37337,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ddatelu viramasigntelu
 EndChar
 
 StartChar: ddhatelu_viramasigntelu.blwf
-Encoding: 701 -1 443
+Encoding: 65895 -1 443
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37402,7 +37401,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ddhatelu viramasigntel
 EndChar
 
 StartChar: nnatelu_viramasigntelu.blwf
-Encoding: 702 -1 444
+Encoding: 65896 -1 444
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37477,7 +37476,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" nnatelu viramasigntelu
 EndChar
 
 StartChar: tatelu_viramasigntelu.blwf
-Encoding: 703 -1 445
+Encoding: 65897 -1 445
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37518,7 +37517,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" tatelu viramasigntelu
 EndChar
 
 StartChar: thatelu_viramasigntelu.blwf
-Encoding: 704 -1 446
+Encoding: 65898 -1 446
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37574,7 +37573,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" thatelu viramasigntelu
 EndChar
 
 StartChar: datelu_viramasigntelu.blwf
-Encoding: 705 -1 447
+Encoding: 65899 -1 447
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37620,7 +37619,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" datelu viramasigntelu
 EndChar
 
 StartChar: dhatelu_viramasigntelu.blwf
-Encoding: 706 -1 448
+Encoding: 65900 -1 448
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -37670,7 +37669,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" dhatelu viramasigntelu
 EndChar
 
 StartChar: natelu_viramasigntelu.blwf
-Encoding: 707 -1 449
+Encoding: 65901 -1 449
 Width: 254
 VWidth: 819
 GlyphClass: 4
@@ -37724,7 +37723,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" natelu viramasigntelu
 EndChar
 
 StartChar: patelu_viramasigntelu.blwf
-Encoding: 708 -1 450
+Encoding: 65902 -1 450
 Width: 315
 VWidth: 819
 GlyphClass: 4
@@ -37774,7 +37773,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" patelu viramasigntelu
 EndChar
 
 StartChar: phatelu_viramasigntelu.blwf
-Encoding: 709 -1 451
+Encoding: 65903 -1 451
 Width: 318
 VWidth: 819
 GlyphClass: 4
@@ -37828,7 +37827,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" phatelu viramasigntelu
 EndChar
 
 StartChar: batelu_viramasigntelu.blwf
-Encoding: 710 -1 452
+Encoding: 65904 -1 452
 Width: 383
 VWidth: 819
 GlyphClass: 4
@@ -37886,7 +37885,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" batelu viramasigntelu
 EndChar
 
 StartChar: bhatelu_viramasigntelu.blwf
-Encoding: 711 -1 453
+Encoding: 65905 -1 453
 Width: 384
 VWidth: 819
 GlyphClass: 4
@@ -37948,7 +37947,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" bhatelu viramasigntelu
 EndChar
 
 StartChar: matelu_viramasigntelu.blwf
-Encoding: 712 -1 454
+Encoding: 65906 -1 454
 Width: 246
 VWidth: 819
 GlyphClass: 4
@@ -38008,7 +38007,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" matelu viramasigntelu
 EndChar
 
 StartChar: yatelu_viramasigntelu.blwf
-Encoding: 713 -1 455
+Encoding: 65907 -1 455
 Width: 370
 VWidth: 819
 GlyphClass: 4
@@ -38067,7 +38066,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" yatelu viramasigntelu
 EndChar
 
 StartChar: ratelu_viramasigntelu.blwf
-Encoding: 714 -1 456
+Encoding: 65908 -1 456
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -38095,7 +38094,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ratelu viramasigntelu
 EndChar
 
 StartChar: rratelu_viramasigntelu.blwf
-Encoding: 715 -1 457
+Encoding: 65909 -1 457
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -38174,7 +38173,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" rratelu viramasigntelu
 EndChar
 
 StartChar: latelu_viramasigntelu.blwf
-Encoding: 716 -1 458
+Encoding: 65910 -1 458
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -38220,7 +38219,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" latelu viramasigntelu
 EndChar
 
 StartChar: llatelu_viramasigntelu.blwf
-Encoding: 717 -1 459
+Encoding: 65911 -1 459
 Width: 304
 VWidth: 819
 GlyphClass: 4
@@ -38288,7 +38287,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" llatelu viramasigntelu
 EndChar
 
 StartChar: vatelu_viramasigntelu.blwf
-Encoding: 718 -1 460
+Encoding: 65912 -1 460
 Width: 350
 VWidth: 819
 GlyphClass: 4
@@ -38350,7 +38349,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" vatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_viramasigntelu.blwf
-Encoding: 719 -1 461
+Encoding: 65913 -1 461
 Width: 264
 VWidth: 819
 GlyphClass: 4
@@ -38412,7 +38411,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" shatelu viramasigntelu
 EndChar
 
 StartChar: ssatelu_viramasigntelu.blwf
-Encoding: 720 -1 462
+Encoding: 65914 -1 462
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -38467,7 +38466,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" ssatelu viramasigntelu
 EndChar
 
 StartChar: satelu_viramasigntelu.blwf
-Encoding: 721 -1 463
+Encoding: 65915 -1 463
 Width: 343
 VWidth: 819
 GlyphClass: 4
@@ -38511,7 +38510,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" satelu viramasigntelu
 EndChar
 
 StartChar: hatelu_viramasigntelu.blwf
-Encoding: 722 -1 464
+Encoding: 65916 -1 464
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -38581,7 +38580,7 @@ Ligature2: "'blwf' Below Base Forms in Telugu lookup 4-1" hatelu viramasigntelu
 EndChar
 
 StartChar: katelu_viramtelu_U0C37_U0C4D
-Encoding: 723 -1 465
+Encoding: 65917 -1 465
 Width: 0
 VWidth: 819
 GlyphClass: 2
@@ -38650,7 +38649,7 @@ EndSplineSet
 EndChar
 
 StartChar: ailengthtelu_tatelu_viramtelu
-Encoding: 724 -1 466
+Encoding: 65918 -1 466
 Width: 0
 VWidth: 819
 GlyphClass: 2
@@ -38714,7 +38713,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph471
-Encoding: 725 -1 467
+Encoding: 65919 -1 467
 Width: 412
 VWidth: 819
 GlyphClass: 2
@@ -38798,7 +38797,7 @@ Validated: 5
 EndChar
 
 StartChar: tatelu_viramtelu_U0C30_U0C4D
-Encoding: 726 -1 468
+Encoding: 65920 -1 468
 Width: 0
 VWidth: 819
 GlyphClass: 2
@@ -38850,7 +38849,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" tatelu_viramasigntelu.b
 EndChar
 
 StartChar: glyph473
-Encoding: 727 -1 469
+Encoding: 65921 -1 469
 Width: 0
 VWidth: 819
 GlyphClass: 2
@@ -38922,7 +38921,7 @@ Validated: 5
 EndChar
 
 StartChar: katelu_ssatelu_viramasigntelu
-Encoding: 728 -1 470
+Encoding: 65922 -1 470
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -39003,7 +39002,7 @@ Ligature2: "'akhn' Akhand in Telugu lookup 2-1" katelu ssatelu viramasigntelu
 EndChar
 
 StartChar: shatelu_iisigntelu_U0C30_U0C4D
-Encoding: 729 -1 471
+Encoding: 65923 -1 471
 Width: 701
 VWidth: 819
 GlyphClass: 2
@@ -39106,7 +39105,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" shatelu_iisigntelu rate
 EndChar
 
 StartChar: satel_tatel_virmtel_U0C30_U0C4D
-Encoding: 730 -1 472
+Encoding: 65924 -1 472
 Width: 716
 VWidth: 819
 GlyphClass: 2
@@ -39198,7 +39197,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu tatelu_viramasig
 EndChar
 
 StartChar: satel_itel_tatel_vir_ratel_vir
-Encoding: 731 -1 473
+Encoding: 65925 -1 473
 Width: 716
 VWidth: 819
 GlyphClass: 3
@@ -39305,7 +39304,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" satelu_isigntelu tatelu
 EndChar
 
 StartChar: satel_tatel_ratel_iisigntel
-Encoding: 732 -1 474
+Encoding: 65926 -1 474
 Width: 716
 VWidth: 819
 GlyphClass: 3
@@ -39427,7 +39426,7 @@ Ligature2: "'akhn' Akhand in Telugu lookup 2-1" satelu tatelu ratelu iisigntelu
 EndChar
 
 StartChar: ssatel_ttatel_virm_ratel_virm
-Encoding: 733 -1 475
+Encoding: 65927 -1 475
 Width: 713
 VWidth: 819
 GlyphClass: 3
@@ -39553,7 +39552,7 @@ Ligature2: "'akhn' Akhand in Telugu lookup 2-1" ssatelu_viramasigntelu ttatelu r
 EndChar
 
 StartChar: ssatel_ttatel_ratel_iisigntel
-Encoding: 734 -1 476
+Encoding: 65928 -1 476
 Width: 704
 VWidth: 819
 GlyphClass: 3
@@ -39705,7 +39704,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu_iisigntelu ttat
 EndChar
 
 StartChar: katelu_ssatelu_virm_matelu_virm
-Encoding: 735 -1 477
+Encoding: 65929 -1 477
 Width: 963
 VWidth: 819
 GlyphClass: 2
@@ -39825,7 +39824,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasign
 EndChar
 
 StartChar: katel_itel_ssatel_vir_matel_vir
-Encoding: 736 -1 478
+Encoding: 65930 -1 478
 Width: 963
 VWidth: 819
 GlyphClass: 2
@@ -39961,7 +39960,7 @@ Validated: 517
 EndChar
 
 StartChar: katelu_iisigntelu_ssatelu_viramasigntelu.akhn_U0C2E_U0C4D.blwf.psts
-Encoding: 737 -1 479
+Encoding: 65931 -1 479
 Width: 963
 VWidth: 819
 GlyphClass: 2
@@ -40111,7 +40110,7 @@ Validated: 549
 EndChar
 
 StartChar: ssatel_itel_ttatel_vir_rate_vir
-Encoding: 738 -1 480
+Encoding: 65932 -1 480
 Width: 604
 VWidth: 819
 GlyphClass: 2
@@ -40250,7 +40249,7 @@ Ligature2: "'blws' Below Base Substitutions lookup 10-1" ssatelu_isigntelu ttate
 EndChar
 
 StartChar: katelu_usigntelu
-Encoding: 739 -1 481
+Encoding: 65933 -1 481
 Width: 881
 VWidth: 819
 GlyphClass: 2
@@ -40315,7 +40314,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu usigntelu
 EndChar
 
 StartChar: ddatelu_usigntelu
-Encoding: 740 -1 482
+Encoding: 65934 -1 482
 Width: 1076
 VWidth: 819
 GlyphClass: 2
@@ -40398,7 +40397,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddatelu usigntelu
 EndChar
 
 StartChar: ddhatelu_usigntelu
-Encoding: 741 -1 483
+Encoding: 65935 -1 483
 Width: 1076
 VWidth: 819
 GlyphClass: 2
@@ -40489,7 +40488,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddhatelu usigntelu
 EndChar
 
 StartChar: hatelu_usigntelu
-Encoding: 742 -1 484
+Encoding: 65936 -1 484
 Width: 1175
 VWidth: 819
 GlyphClass: 2
@@ -40589,7 +40588,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" hatelu usigntelu
 EndChar
 
 StartChar: katelu_uusigntelu
-Encoding: 743 -1 485
+Encoding: 65937 -1 485
 Width: 1188
 VWidth: 819
 GlyphClass: 2
@@ -40680,7 +40679,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu uusigntelu
 EndChar
 
 StartChar: ddatelu_uusigntelu
-Encoding: 744 -1 486
+Encoding: 65938 -1 486
 Width: 1470
 VWidth: 819
 GlyphClass: 2
@@ -40781,7 +40780,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddatelu uusigntelu
 EndChar
 
 StartChar: ddhatelu_uusigntelu
-Encoding: 745 -1 487
+Encoding: 65939 -1 487
 Width: 1470
 VWidth: 819
 GlyphClass: 2
@@ -40890,7 +40889,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ddhatelu uusigntelu
 EndChar
 
 StartChar: hatelu_uusigntelu
-Encoding: 746 -1 488
+Encoding: 65940 -1 488
 Width: 1564
 VWidth: 819
 GlyphClass: 2
@@ -41014,7 +41013,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" hatelu uusigntelu
 EndChar
 
 StartChar: glyph493
-Encoding: 747 -1 489
+Encoding: 65941 -1 489
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -41039,7 +41038,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph494
-Encoding: 748 -1 490
+Encoding: 65942 -1 490
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -41066,7 +41065,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph495
-Encoding: 749 -1 491
+Encoding: 65943 -1 491
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -41093,7 +41092,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph496
-Encoding: 750 -1 492
+Encoding: 65944 -1 492
 Width: 491
 VWidth: 819
 GlyphClass: 4
@@ -41135,7 +41134,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph497
-Encoding: 751 -1 493
+Encoding: 65945 -1 493
 Width: 460
 VWidth: 819
 GlyphClass: 4
@@ -41215,7 +41214,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph498
-Encoding: 752 -1 494
+Encoding: 65946 -1 494
 Width: 423
 VWidth: 819
 GlyphClass: 4
@@ -41241,7 +41240,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph499
-Encoding: 753 -1 495
+Encoding: 65947 -1 495
 Width: 736
 VWidth: 819
 GlyphClass: 4
@@ -41308,7 +41307,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph500
-Encoding: 754 -1 496
+Encoding: 65948 -1 496
 Width: 500
 VWidth: 819
 GlyphClass: 4
@@ -41376,7 +41375,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph501
-Encoding: 755 -1 497
+Encoding: 65949 -1 497
 Width: 526
 VWidth: 819
 GlyphClass: 4
@@ -41422,7 +41421,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph502
-Encoding: 756 -1 498
+Encoding: 65950 -1 498
 Width: 526
 VWidth: 819
 GlyphClass: 4
@@ -41474,7 +41473,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph503
-Encoding: 757 -1 499
+Encoding: 65951 -1 499
 Width: 500
 VWidth: 819
 GlyphClass: 4
@@ -41548,7 +41547,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph504
-Encoding: 758 -1 500
+Encoding: 65952 -1 500
 Width: 604
 VWidth: 819
 GlyphClass: 4
@@ -41611,7 +41610,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph505
-Encoding: 759 -1 501
+Encoding: 65953 -1 501
 Width: 560
 VWidth: 819
 GlyphClass: 4
@@ -41687,7 +41686,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph506
-Encoding: 760 -1 502
+Encoding: 65954 -1 502
 Width: 542
 VWidth: 819
 GlyphClass: 4
@@ -41747,7 +41746,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph507
-Encoding: 761 -1 503
+Encoding: 65955 -1 503
 Width: 396
 VWidth: 819
 GlyphClass: 4
@@ -41787,7 +41786,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph508
-Encoding: 762 -1 504
+Encoding: 65956 -1 504
 Width: 564
 VWidth: 819
 GlyphClass: 4
@@ -41845,7 +41844,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph509
-Encoding: 763 -1 505
+Encoding: 65957 -1 505
 Width: 564
 VWidth: 819
 GlyphClass: 4
@@ -41907,7 +41906,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph510
-Encoding: 764 -1 506
+Encoding: 65958 -1 506
 Width: 500
 VWidth: 819
 GlyphClass: 4
@@ -41981,7 +41980,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph511
-Encoding: 765 -1 507
+Encoding: 65959 -1 507
 Width: 587
 VWidth: 819
 GlyphClass: 4
@@ -42020,7 +42019,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph512
-Encoding: 766 -1 508
+Encoding: 65960 -1 508
 Width: 552
 VWidth: 819
 GlyphClass: 4
@@ -42074,7 +42073,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph513
-Encoding: 767 -1 509
+Encoding: 65961 -1 509
 Width: 552
 VWidth: 819
 GlyphClass: 4
@@ -42118,7 +42117,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph514
-Encoding: 768 -1 510
+Encoding: 65962 -1 510
 Width: 552
 VWidth: 819
 GlyphClass: 4
@@ -42166,7 +42165,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph515
-Encoding: 769 -1 511
+Encoding: 65963 -1 511
 Width: 549
 VWidth: 819
 GlyphClass: 4
@@ -42218,7 +42217,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph516
-Encoding: 770 -1 512
+Encoding: 65964 -1 512
 Width: 512
 VWidth: 819
 GlyphClass: 4
@@ -42266,7 +42265,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph517
-Encoding: 771 -1 513
+Encoding: 65965 -1 513
 Width: 512
 VWidth: 819
 GlyphClass: 4
@@ -42318,7 +42317,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph518
-Encoding: 772 -1 514
+Encoding: 65966 -1 514
 Width: 512
 VWidth: 819
 GlyphClass: 4
@@ -42374,7 +42373,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph519
-Encoding: 773 -1 515
+Encoding: 65967 -1 515
 Width: 518
 VWidth: 819
 GlyphClass: 4
@@ -42434,7 +42433,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph520
-Encoding: 774 -1 516
+Encoding: 65968 -1 516
 Width: 477
 VWidth: 819
 GlyphClass: 4
@@ -42492,7 +42491,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph521
-Encoding: 775 -1 517
+Encoding: 65969 -1 517
 Width: 408
 VWidth: 819
 GlyphClass: 4
@@ -42550,7 +42549,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph522
-Encoding: 776 -1 518
+Encoding: 65970 -1 518
 Width: 655
 VWidth: 819
 GlyphClass: 4
@@ -42577,7 +42576,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph523
-Encoding: 777 -1 519
+Encoding: 65971 -1 519
 Width: 560
 VWidth: 819
 GlyphClass: 4
@@ -42653,7 +42652,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph524
-Encoding: 778 -1 520
+Encoding: 65972 -1 520
 Width: 484
 VWidth: 819
 GlyphClass: 4
@@ -42697,7 +42696,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph525
-Encoding: 779 -1 521
+Encoding: 65973 -1 521
 Width: 523
 VWidth: 819
 GlyphClass: 4
@@ -42763,7 +42762,7 @@ Validated: 37
 EndChar
 
 StartChar: glyph526
-Encoding: 780 -1 522
+Encoding: 65974 -1 522
 Width: 526
 VWidth: 819
 GlyphClass: 4
@@ -42823,7 +42822,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph527
-Encoding: 781 -1 523
+Encoding: 65975 -1 523
 Width: 435
 VWidth: 819
 GlyphClass: 4
@@ -42883,7 +42882,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph528
-Encoding: 782 -1 524
+Encoding: 65976 -1 524
 Width: 561
 VWidth: 819
 GlyphClass: 4
@@ -42936,7 +42935,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph529
-Encoding: 783 -1 525
+Encoding: 65977 -1 525
 Width: 512
 VWidth: 819
 GlyphClass: 4
@@ -42978,7 +42977,7 @@ Validated: 1
 EndChar
 
 StartChar: glyph530
-Encoding: 784 -1 526
+Encoding: 65978 -1 526
 Width: 762
 VWidth: 819
 GlyphClass: 4
@@ -43047,7 +43046,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph531
-Encoding: 785 -1 527
+Encoding: 65979 -1 527
 Width: 565
 VWidth: 819
 GlyphClass: 2
@@ -43116,7 +43115,7 @@ EndSplineSet
 EndChar
 
 StartChar: nounicode-3-1-57
-Encoding: 786 -1 528
+Encoding: 65980 -1 528
 Width: 565
 VWidth: 819
 GlyphClass: 2
@@ -43195,7 +43194,7 @@ EndSplineSet
 EndChar
 
 StartChar: katel_usigntel_ssatel_viramtel
-Encoding: 787 -1 529
+Encoding: 65981 -1 529
 Width: 866
 VWidth: 819
 GlyphClass: 2
@@ -43289,7 +43288,7 @@ Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu usigntelu ssatelu virama
 EndChar
 
 StartChar: katel_uusigntel_ssatel_viramtel
-Encoding: 788 -1 530
+Encoding: 65982 -1 530
 Width: 1214
 VWidth: 819
 GlyphClass: 2
@@ -43407,7 +43406,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" katelu_ssatelu_viramasign
 EndChar
 
 StartChar: katel_etel_aitel_ssatel_virmtel
-Encoding: 789 -1 531
+Encoding: 65983 -1 531
 Width: 511
 VWidth: 819
 GlyphClass: 2
@@ -43515,7 +43514,7 @@ Ligature2: "'akhn' Akhand in Telugu2 lookup 3-1" katelu etelu aitelu ssatelu vir
 EndChar
 
 StartChar: glyph536
-Encoding: 790 -1 532
+Encoding: 65984 -1 532
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -43543,7 +43542,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph537
-Encoding: 791 -1 533
+Encoding: 65985 -1 533
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -43570,7 +43569,7 @@ Validated: 5
 EndChar
 
 StartChar: glyph538
-Encoding: 792 -1 534
+Encoding: 65986 -1 534
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -43597,7 +43596,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0964
-Encoding: 793 2404 535
+Encoding: 2404 2404 535
 Width: 819
 VWidth: 819
 LayerCount: 2
@@ -43614,7 +43613,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0965
-Encoding: 794 2405 536
+Encoding: 2405 2405 536
 Width: 819
 VWidth: 819
 LayerCount: 2
@@ -43636,7 +43635,7 @@ Validated: 1
 EndChar
 
 StartChar: vocaliclsigntelu
-Encoding: 795 3170 537
+Encoding: 3170 3170 537
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -43680,7 +43679,7 @@ EndSplineSet
 EndChar
 
 StartChar: vocalicllsigntelu
-Encoding: 796 3171 538
+Encoding: 3171 3171 538
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -43741,7 +43740,7 @@ EndSplineSet
 EndChar
 
 StartChar: tsatelu
-Encoding: 797 3160 539
+Encoding: 3160 3160 539
 Width: 640
 VWidth: 819
 Flags: W
@@ -43824,7 +43823,7 @@ EndSplineSet
 EndChar
 
 StartChar: dzatelu
-Encoding: 798 3161 540
+Encoding: 3161 3161 540
 Width: 651
 VWidth: 819
 Flags: W
@@ -43925,7 +43924,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitzeroforoddtelu
-Encoding: 799 3192 541
+Encoding: 3192 3192 541
 Width: 707
 VWidth: 2048
 Flags: W
@@ -43970,7 +43969,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitoneforoddtelu
-Encoding: 800 3193 542
+Encoding: 3193 3193 542
 Width: 161
 VWidth: 2048
 Flags: W
@@ -43987,7 +43986,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigittwoforoddtelu
-Encoding: 801 3194 543
+Encoding: 3194 3194 543
 Width: 482
 VWidth: 2048
 Flags: W
@@ -44016,7 +44015,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitthreeforoddtelu
-Encoding: 802 3195 544
+Encoding: 3195 3195 544
 Width: 836
 VWidth: 2048
 Flags: W
@@ -44058,7 +44057,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitoneforeventelu
-Encoding: 803 3196 545
+Encoding: 3196 3196 545
 Width: 797
 VWidth: 2048
 Flags: W
@@ -44075,7 +44074,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigittwoforeventelu
-Encoding: 804 3197 546
+Encoding: 3197 3197 546
 Width: 801
 VWidth: 2048
 Flags: W
@@ -44115,7 +44114,7 @@ EndSplineSet
 EndChar
 
 StartChar: fracdigitthreeforeventelu
-Encoding: 805 3198 547
+Encoding: 3198 3198 547
 Width: 876
 VWidth: 2048
 Flags: W
@@ -44171,7 +44170,7 @@ EndSplineSet
 EndChar
 
 StartChar: tuumusigntelu
-Encoding: 806 3199 548
+Encoding: 3199 3199 548
 Width: 963
 VWidth: 2048
 Flags: W
@@ -44214,7 +44213,7 @@ EndSplineSet
 EndChar
 
 StartChar: avagrahatelu
-Encoding: 807 3133 549
+Encoding: 3133 3133 549
 Width: 1027
 VWidth: 0
 Flags: W
@@ -44243,7 +44242,7 @@ EndSplineSet
 EndChar
 
 StartChar: inr_currency
-Encoding: 808 8377 550
+Encoding: 8377 8377 550
 Width: 622
 VWidth: 0
 Flags: W
@@ -44277,7 +44276,7 @@ EndSplineSet
 EndChar
 
 StartChar: ai_extended
-Encoding: 809 -1 551
+Encoding: 65987 -1 551
 Width: 0
 VWidth: 819
 GlyphClass: 4
@@ -44316,7 +44315,7 @@ EndSplineSet
 EndChar
 
 StartChar: satelu_usigntelu
-Encoding: 810 -1 552
+Encoding: 65988 -1 552
 Width: 966
 VWidth: 819
 GlyphClass: 2
@@ -44386,7 +44385,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" satelu usigntelu
 EndChar
 
 StartChar: ssatelu_usigntelu
-Encoding: 811 -1 553
+Encoding: 65989 -1 553
 Width: 949
 VWidth: 819
 GlyphClass: 2
@@ -44466,7 +44465,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ssatelu usigntelu
 EndChar
 
 StartChar: shatelu_usigntelu
-Encoding: 812 -1 554
+Encoding: 65990 -1 554
 Width: 832
 VWidth: 819
 GlyphClass: 2
@@ -44545,7 +44544,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" shatelu usigntelu
 EndChar
 
 StartChar: llatelu_usigntelu
-Encoding: 813 -1 555
+Encoding: 65991 -1 555
 Width: 915
 VWidth: 819
 GlyphClass: 2
@@ -44634,7 +44633,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" llatelu usigntelu
 EndChar
 
 StartChar: latelu_usigntelu
-Encoding: 814 -1 556
+Encoding: 65992 -1 556
 Width: 960
 VWidth: 819
 GlyphClass: 2
@@ -44697,7 +44696,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" latelu usigntelu
 EndChar
 
 StartChar: rratelu_usigntelu
-Encoding: 815 -1 557
+Encoding: 65993 -1 557
 Width: 1129
 VWidth: 819
 GlyphClass: 2
@@ -44782,7 +44781,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" rratelu usigntelu
 EndChar
 
 StartChar: ratelu_usigntelu
-Encoding: 816 -1 558
+Encoding: 65994 -1 558
 Width: 910
 VWidth: 819
 GlyphClass: 2
@@ -44839,7 +44838,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ratelu usigntelu
 EndChar
 
 StartChar: yatelu_usigntelu
-Encoding: 817 -1 559
+Encoding: 65995 -1 559
 Width: 1608
 VWidth: 819
 GlyphClass: 2
@@ -44926,7 +44925,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" yatelu usigntelu
 EndChar
 
 StartChar: matelu_usigntelu
-Encoding: 818 -1 560
+Encoding: 65996 -1 560
 Width: 1331
 VWidth: 819
 GlyphClass: 2
@@ -45011,7 +45010,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" matelu usigntelu
 EndChar
 
 StartChar: jhatelu_usigntelu
-Encoding: 819 -1 561
+Encoding: 65997 -1 561
 Width: 1559
 VWidth: 819
 GlyphClass: 2
@@ -45104,7 +45103,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" jhatelu usigntelu
 EndChar
 
 StartChar: ghatelu_usigntelu
-Encoding: 820 -1 562
+Encoding: 65998 -1 562
 Width: 1277
 VWidth: 819
 GlyphClass: 2
@@ -45199,7 +45198,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" ghatelu usigntelu
 EndChar
 
 StartChar: nyatelu_usigntelu
-Encoding: 821 -1 563
+Encoding: 65999 -1 563
 Width: 1118
 VWidth: 819
 GlyphClass: 2
@@ -45287,7 +45286,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" nyatelu usigntelu
 EndChar
 
 StartChar: bhatelu_usigntelu
-Encoding: 822 -1 564
+Encoding: 66000 -1 564
 Width: 1023
 VWidth: 819
 GlyphClass: 2
@@ -45376,7 +45375,7 @@ Ligature2: "'psts' Post Base Substitutions lookup 7-1" bhatelu usigntelu
 EndChar
 
 StartChar: nyatelu_uusigntelu
-Encoding: 823 -1 565
+Encoding: 66001 -1 565
 Width: 1538
 VWidth: 0
 GlyphClass: 3

@@ -1,0 +1,3 @@
+1. Missing U+0C00 character.
+2. Missing U+0C34 character
+3. satel_tatel_ratel_iisigntel =  satelu(స) tatelu(త) ratelu(ర) iisigntelu(ీ)  (Not working in akhn)   Remove
