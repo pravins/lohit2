@@ -22,21 +22,27 @@ def auto_test(txt_file,ttf_file):
 	inputfile=open(txt_file)
 	outputfile=open("failed_test_case.txt","w")
 
-	#Read the test-case input	
+	#Read the test-case input
 	flines=inputfile.readlines()
 	count=0
 
 	#Exceute hb-shape command for each test-case from output file
 	for string in flines:
-		words=string.split()	
-		status, output = commands.getstatusoutput("hb-shape %s %s"%(ttf_file,words[0]))
-		# Test to check, wheather test-case from output file & the result, are matching		
-		if words[1] != output:
-			print words[0]+ " [FAILURE]\n"	
-			outputfile.write("  *  "+words[0]+"\t"+""+output+"\n")
-			count=count+1
+                #import pdb; pdb.set_trace()
+		words=string.split()
+                if words:
+                    status, output = commands.getstatusoutput("hb-shape %s %s"%(ttf_file,words[0]))
+                    # Test to check, wheather test-case from output file & the result, are matching
+                    try:
+                        if words[1] != output:
+                                print words[0]+ " [FAILURE]"
+                                outputfile.write("  *  "+words[0]+"\t"+""+output+"\n")
+                                count=count+1
+                    except IndexError as err:
+                        print words[0] + " [SKIPPED]"
+                        outputfile.write("Skipped because line have only one word: %s\n" % words[0])
 
-	#Count for failed test-cases	
+	#Count for failed test-cases
 	print "%d Test Cases Failed out of %d"%(count,len(flines))
 	print "failed_test_case.txt file generated !!"
 	inputfile.close()
