@@ -19,12 +19,12 @@
 import os,sys,commands
 
 def auto_test(txt_file,ttf_file):
-	inputfile=open(txt_file)
-	outputfile=open("failed_test_case.txt","w")
+	with open(txt_file) as inputfile:
+            flines = inputfile.readlines()
+	with open("failed_test_case.txt", "w") as fobj:
+            outputfile = fobj
 
-	#Read the test-case input	
-	flines=inputfile.readlines()
-	count=0
+        count=0
 
 	#Exceute hb-shape command for each test-case from output file
 	for string in flines:
@@ -39,8 +39,6 @@ def auto_test(txt_file,ttf_file):
 	#Count for failed test-cases	
 	print "%d Test Cases Failed out of %d"%(count,len(flines))
 	print "failed_test_case.txt file generated !!"
-	inputfile.close()
-	outputfile.close()
 
 if __name__ == "__main__":
 
