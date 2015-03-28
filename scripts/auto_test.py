@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -i*-
-# Copyright (C) 2013-14, Sneha Kore <skore@redhat.com>, Pravin Satpute <psatpute@redhat.com>
+#
+# Copyright (C) 2013-14,
+# Sneha Kore <skore@redhat.com>,
+# Pravin Satpute <psatpute@redhat.com>
+#
 # This script requires hb-shape utility from available in harfbuzz-devel rpm
 
 # This program is free software: you can redistribute it and/or modify
@@ -16,37 +20,45 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-import os,sys,commands
+import os
+import sys
+import commands
+from commands import getstatusoutput
 
-def auto_test(txt_file,ttf_file):
-	inputfile=open(txt_file)
-	outputfile=open("failed_test_case.txt","w")
 
-	#Read the test-case input	
-	flines=inputfile.readlines()
-	count=0
+def auto_test(txt_file, ttf_file):
+    inputfile = open(txt_file)
+    outputfile = open("failed_test_case.txt", "w")
 
-	#Exceute hb-shape command for each test-case from output file
-	for string in flines:
-		words=string.split()	
-		status, output = commands.getstatusoutput("hb-shape %s %s"%(ttf_file,words[0]))
-		# Test to check, wheather test-case from output file & the result, are matching		
-		if words[1] != output:
-			print words[0]+ " [FAILURE]\n"	
-			outputfile.write("  *  "+words[0]+"\t"+""+output+"\n")
-			count=count+1
+    # Read the test-case input
+    flines = inputfile.readlines()
+    count = 0
 
-	#Count for failed test-cases	
-	print "%d Test Cases Failed out of %d"%(count,len(flines))
-	print "failed_test_case.txt file generated !!"
-	inputfile.close()
-	outputfile.close()
+    # Exceute hb-shape command for each test-case from output file
+    for string in flines:
+        words = string.split()
+        temp_string = "hb-shape %s %s" % (ttf_file, words[0])
+        status, output = getstatusoutput(temp_string)
+        '''
+            Test to check,
+            Wheather test-case from output file and the result, are matching
+        '''
+        if words[1] != output:
+            print words[0] + " [FAILURE]\n"
+            outputfile.write("  *  " + words[0] + "\t" + "" + output + "\n")
+            count = count+1
+
+    # Count for failed test-cases
+    print "%d Test Cases Failed out of %d" % (count, len(flines))
+    print "failed_test_case.txt file generated !!"
+    inputfile.close()
+    outputfile.close()
 
 if __name__ == "__main__":
 
-	if len(sys.argv) < 3:
-	 	print  " USAGE: python test.py <test file> <font_file> "
-	else:
-		txt_file = sys.argv[1]
-		font_file = sys.argv[2]
-		auto_test(txt_file,font_file)
+    if len(sys.argv) < 3:
+        print " USAGE: python test.py <test file> <font_file> "
+    else:
+        txt_file = sys.argv[1]
+        font_file = sys.argv[2]
+        auto_test(txt_file, font_file)
